@@ -7,132 +7,161 @@ Jag har sedan den första mobiltelefonen med GPS i min ägo ägnat mig åt att s
 ## Rådata
 Rådata kommer från mina egna samlingar där jag har av olika anledningar samlat data, en del kan komma från någon nu avsomnad tjänst.
 
-
-# Stores Chains
-
-| Name                    | Positions | Source                                                       |
-| ----------------------- | --------- | ------------------------------------------------------------ |
-| 3Butiken                |           | [3Butiker.yaml](./yaml/stores/3Butiker.yaml)                 |
-| 7-Eleven                |           | [seven-eleven.yaml](./yaml/stores/seven-eleven.yaml)         |
-| Akademibokhandeln       |           | [akademibokhandeln.yaml](./yaml/stores/akademibokhandeln.yaml) |
-| Albrekts Guld           |           |                                                              |
-| Apotek Hjärtat          |           |                                                              |
-| ArkenZoo                |           | [arkenzoo.yaml](./yaml/stores/arkenzoo.yaml)                 |
-| Bik Bok                 |           |                                                              |
-| Brothers                |           |                                                              |
-| Carlings                |           |                                                              |
-| Cassels                 |           |                                                              |
-| Cervera                 |           |                                                              |
-| City Gross              |           |                                                              |
-| Clas Ohlson             |           | [clas-ohlson.yaml](./yaml/stores/clas-ohlson.yaml)           |
-| Coop                    |           | [coop.yaml](./yaml/stores/coop.yaml)                         |
-| Cubus                   |           |                                                              |
-| Deichmann               |           |                                                              |
-| Din Sko                 |           |                                                              |
-| Dollarstore             |           | [dollarstore.yaml](./yaml/stores/dollarstore.yaml)           |
-| Dressmann               |           |                                                              |
-| Elgiganten              |           |                                                              |
-| Espresso House          |           |                                                              |
-| Florist Compagniet      |           |                                                              |
-| Flying Tiger Copenhagen |           |                                                              |
-| FOREX                   |           |                                                              |
-| Gina Tricot             |           |                                                              |
-| Granngården             |           |                                                              |
-| Guldfynd                |           |                                                              |
-| H&M                     |           |                                                              |
-| Hemköp                  |           | [hemköp.yaml](./yaml/stores/hemköp.yaml)                     |
-| Hemtex                  |           |                                                              |
-| Hälsokosten             |           |                                                              |
-| Håkanssons              |           |                                                              |
-| ICA                     |           | [ica.yaml](./yaml/stores/ica.yaml)                           |
-| IKEA                    |           |                                                              |
-| Indiska                 |           |                                                              |
-| Intersport              |           |                                                              |
-| Jack & Jones            |           |                                                              |
-| Jeansbolaget            |           |                                                              |
-| Johnells                |           |                                                              |
-| Jula                    |           |                                                              |
-| Kahls The & Kaffehandel |           |                                                              |
-| Kappahl                 |           |                                                              |
-| Kicks                   |           |                                                              |
-| Kjell & Company         |           |                                                              |
-| Kronans Apotek          |           |                                                              |
-| Lagerhaus               |           |                                                              |
-| Lekia                   |           |                                                              |
-| Lindex                  |           |                                                              |
-| Lyko                    |           |                                                              |
-| MediaMarkt              |           | [mediamarkt.yaml](./yaml/stores/mediamarkt.yaml)             |
-| Normal                  |           |                                                              |
-| Partyland               |           |                                                              |
-| Polarn O. Pyret         |           |                                                              |
-| Pressbyrån              |           |                                                              |
-| Rituals                 |           |                                                              |
-| Rusta                   |           |                                                              |
-| Scorett                 |           |                                                              |
-| Siba                    |           |                                                              |
-| Skopunkten              |           |                                                              |
-| Specsavers              |           |                                                              |
-| Stadium                 |           |                                                              |
-| Sushi Yama              |           |                                                              |
-| Synoptik                |           |                                                              |
-| Synsam                  |           |                                                              |
-| Tele 2                  |           |                                                              |
-| Telenor                 |           |                                                              |
-| Telia                   |           |                                                              |
-| Tempo                   |           | [tempo.yaml](./yaml/stores/tempo.yaml)                       |
-| The Body Shop           |           |                                                              |
-| The Coffee              |           |                                                              |
-| Vero Moda               |           |                                                              |
-| Volt                    |           |                                                              |
-| Willys                  |           |                                                              |
-| XXL                     |           |                                                              |
-| Zizzi                   |           |                                                              |
-| Åhlens                  |           |                                                              |
-| Ö&B                     |           |                                                              |
+[[_TOC_]]
 
 
+## Butikskedjor
 
-# Gas station Chains
+### Livsmedel
 
-| Name         |
-| ------------ |
-| Preem        |
-| Circle-K     |
-| QStar        |
-|              |
-
-
-
-# Restaurant Chains
-
-| Name        |
-| ----------- |
-| KFC         |
-| McDonald's  |
-| Max         |
-| Sibylla     |
-| Burger King |
-| Pizza Hut   |
-
-
-
-# Cafe Chains
-
-| Name        |
-| ----------- |
-|          |
+| Namn                    | Positioner | Källa                                                        |
+| ----------------------- | ---------- | ------------------------------------------------------------ |
+| 7-Eleven                |            | [seven-eleven.yaml](./yaml/stores/seven-eleven.yaml)         |
+| Akademibokhandeln       |            | [akademibokhandeln.yaml](./yaml/stores/akademibokhandeln.yaml) |
+| ArkenZoo                |            | [arkenzoo.yaml](./yaml/stores/arkenzoo.yaml)                 |
+| City Gross              |            |                                                              |
+| Coop                    |            | [coop.yaml](./yaml/stores/coop.yaml)                         |
+| Dollarstore             |            | [dollarstore.yaml](./yaml/stores/dollarstore.yaml)           |
+| FOREX                   |            |                                                              |
+| Granngården             |            |                                                              |
+| Hemköp                  |            | [hemköp.yaml](./yaml/stores/hemköp.yaml)                     |
+| Hälsokosten             |            |                                                              |
+| ICA                     |            | [ica.yaml](./yaml/stores/ica.yaml)                           |
+| Johnells                |            |                                                              |
+| Kahls The & Kaffehandel |            |                                                              |
+| Pressbyrån              |            |                                                              |
+| Sushi Yama              |            |                                                              |
+| Tempo                   |            | [tempo.yaml](./yaml/stores/tempo.yaml)                       |
+| Volt                    |            |                                                              |
+| Willys                  |            |                                                              |
 
 
+### Kläder, skor och skönhet
 
-# Pub/Bar Chains
+| Namn            | Positioner | Källa                                                  |
+| --------------- | ---------- | ------------------------------------------------------ |
+| Albrekts Guld   |            | [albrekts-guld.yaml](./yaml/stores/albrekts-guld.yaml) |
+| Bik Bok         |            |                                                        |
+| Brothers        |            |                                                        |
+| Carlings        |            |                                                        |
+| Cubus           |            |                                                        |
+| Deichmann       |            |                                                        |
+| Din Sko         |            |                                                        |
+| Dressmann       |            |                                                        |
+| Gina Tricot     |            |                                                        |
+| Guldfynd        |            |                                                        |
+| H&M             |            |                                                        |
+| Indiska         |            |                                                        |
+| Jack & Jones    |            |                                                        |
+| Jeansbolaget    |            |                                                        |
+| Kappahl         |            |                                                        |
+| Kicks           |            |                                                        |
+| Lindex          |            |                                                        |
+| Lyko            |            |                                                        |
+| Normal          |            |                                                        |
+| Polarn O. Pyret |            |                                                        |
+| Rituals         |            |                                                        |
+| Scorett         |            |                                                        |
+| Skopunkten      |            |                                                        |
+| Specsavers      |            |                                                        |
+| Synoptik        |            |                                                        |
+| Synsam          |            |                                                        |
+| The Body Shop   |            |                                                        |
+| Vero Moda       |            |                                                        |
+| Zizzi           |            |                                                        |
 
-| Name        |
-| ----------- |
+
+### Sport och Fritid
+
+| Namn            | Positioner | Källa                                              |
+| --------------- | ---------- | -------------------------------------------------- |
+| Lekia                   |            |                                                              |
+| XXL                     |            |                                                              |
+| Stadium                 |            |                                                              |
+| Partyland               |            |                                                              |
+| Intersport              |            |                                                              |
+
+
+### Vitvaror, verktyg och Eletronik
+
+| Namn            | Positioner | Källa                                              |
+| --------------- | ---------- | -------------------------------------------------- |
+| 3Butiken        |            | [3Butiker.yaml](./yaml/stores/3Butiker.yaml)       |
+| Clas Ohlson     |            | [clas-ohlson.yaml](./yaml/stores/clas-ohlson.yaml) |
+| Elgiganten      |            |                                                    |
+| Jula            |            |                                                    |
+| Kjell & Company |            |                                                    |
+| MediaMarkt      |            | [mediamarkt.yaml](./yaml/stores/mediamarkt.yaml)   |
+| Siba            |            |                                                    |
+| Tele 2          |            |                                                    |
+| Telenor         |            |                                                    |
+| Telia           |            |                                                    |
+| Ö&B             |            |                                                    |
+| Rusta                   |            |                                                              |
+
+
+### Heminredning och dekorationer
+
+| Namn                    | Positioner | Källa                                                        |
+| ----------------------- | ---------- | ------------------------------------------------------------ |
+| Cervera                 |            |                                                              |
+| Flying Tiger Copenhagen |            |                                                              |
+| Hemtex                  |            |                                                              |
+| IKEA                    |            |                                                              |
+| Lagerhaus               |            |                                                              |
+| Åhlens                  |            |                                                              |
+
+
+### Apotek
+
+| Namn           | Positioner | Källa |
+| -------------- | ---------- | ----- |
+| Apotek Hjärtat |            |       |
+| Kronans Apotek |            |       |
+
+
+### Drivmedel
+
+| Namn     | Positioner | Källa |
+| -------- | ---------- | ----- |
+| Circle-K |            |       |
+| Preem    |            |       |
+| QStar    |            |       |
+
+
+
+### Restauranter
+
+| Namn        | Positioner | Källa |
+| ----------- | ---------- | ----- |
+| Burger King |            |       |
+| KFC         |            |       |
+| Max         |            |       |
+| McDonald's  |            |       |
+| Pizza Hut   |            |       |
+| Sibylla     |            |       |
+
+
+
+### Caféer
+
+| Namn           | Positioner | Källa |
+| -------------- | ---------- | ----- |
+| Espresso House |            |       |
+| The Coffee              |            |                                                              |
+
+
+
+### Pubar och Barer
+
+| Namn                    | Positioner | Källa                                                        |
+| ----------------------- | ---------- | ------------------------------------------------------------ |
 | Harry's     |
 
 
-# Bank Chains
 
-| Name        |
-| ----------- |
+### Banker
+
+| Namn | Positioner | Källa |
+| ---- | ---------- | ----- |
 
