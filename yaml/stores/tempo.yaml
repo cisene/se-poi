@@ -1,3 +1,12 @@
+meta:
+  layer:
+    name: Tempo
+    type: store-chain, groceries
+    web: https://tempo.se/
+    source: https://github.com/cisene/se-poi/yaml/stores/tempo.yaml
+    templatename: "stores-tempo"
+  updated: 2023-01-08 18:59:00+0000
+
 locations:
 
 - location:
