@@ -23,17 +23,17 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 ### Livsmedel
 
-| Namn                                                         | Positioner | Källa                                          |
-| ------------------------------------------------------------ | ---------- | ---------------------------------------------- |
-| [City Gross](https://sv.wikipedia.org/wiki/City_Gross)       |            | [citygross.yaml](./yaml/stores/citygross.yaml) |
-| [Coop Sverige](https://sv.wikipedia.org/wiki/Coop_Sverige)   |            | [coop.yaml](./yaml/stores/coop.yaml)           |
-| [Hemköp](https://sv.wikipedia.org/wiki/Hemk%C3%B6p)          |            | [hemköp.yaml](./yaml/stores/hemköp.yaml)       |
-| [ICA](https://sv.wikipedia.org/wiki/Ica) (Hemsida: [ica.se](https://www.ica.se/)) |            | [ica.yaml](./yaml/stores/ica.yaml)             |
-| [Lidl](https://sv.wikipedia.org/wiki/Lidl)                   |            |                                                |
+| Namn                                                         | Positioner | Källa                                                        |
+| ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
+| [City Gross](https://sv.wikipedia.org/wiki/City_Gross)       |            | [citygross.yaml](./yaml/stores/citygross.yaml)               |
+| [Coop Sverige](https://sv.wikipedia.org/wiki/Coop_Sverige)   |            | [coop.yaml](./yaml/stores/coop.yaml)                         |
+| [Hemköp](https://sv.wikipedia.org/wiki/Hemk%C3%B6p)          |            | [hemköp.yaml](./yaml/stores/hemköp.yaml)                     |
+| [ICA](https://sv.wikipedia.org/wiki/Ica)                     |            | [ica.yaml](./yaml/stores/ica.yaml)                           |
+| [Lidl](https://sv.wikipedia.org/wiki/Lidl)                   |            |                                                              |
 | [Systembolaget](https://sv.wikipedia.org/wiki/Systembolaget) Butiker |            | [systembolaget-butiker.yaml](./yaml/stores/systembolaget-butiker.yaml) |
 | [Systembolaget](https://sv.wikipedia.org/wiki/Systembolaget) Ombud |            | [systembolaget-ombud.yaml](./yaml/stores/systembolaget-ombud.yaml) |
-| [Tempo](https://sv.wikipedia.org/wiki/Tempo_(butikskedja)) (Hemsida: [tempo.se](https://www.tempo.se/)) |            | [tempo.yaml](./yaml/stores/tempo.yaml)         |
-| [Willys](https://sv.wikipedia.org/wiki/Willys) (Hemsida: [willys.se](https://www.willys.se/)) |            | [willys.yaml](./yaml/stores/willys.yaml)       |
+| [Tempo](https://sv.wikipedia.org/wiki/Tempo_(butikskedja))   |            | [tempo.yaml](./yaml/stores/tempo.yaml)                       |
+| [Willys](https://sv.wikipedia.org/wiki/Willys)               |            | [willys.yaml](./yaml/stores/willys.yaml)                     |
 
 
 ### Tobak och tidningar
@@ -58,12 +58,12 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 | Namn                                                         | Positioner | Källa                                                  |
 | ------------------------------------------------------------ | ---------- | ------------------------------------------------------ |
-| [Bik Bok](https://sv.wikipedia.org/wiki/Bik_Bok)             |            |                                                        |
-| [Brothers](https://sv.wikipedia.org/wiki/Brothers_(f%C3%B6retag)) |            |                                                        |
-| [Carlings](https://sv.wikipedia.org/wiki/Carlings)           |            |                                                        |
-| [Cubus](https://sv.wikipedia.org/wiki/Cubus)                 |            |                                                        |
-| [Dressmann](https://sv.wikipedia.org/wiki/Dressmann)         |            |                                                        |
-| [Gina Tricot](https://sv.wikipedia.org/wiki/Gina_Tricot)     |            |                                                        |
+| [Bik Bok](https://sv.wikipedia.org/wiki/Bik_Bok)             |            | [bikbok.yaml](./yaml/stores/bikbok.yaml)               |
+| [Brothers](https://sv.wikipedia.org/wiki/Brothers_(f%C3%B6retag)) |            | [brothers.yaml](./yaml/stores/brothers.yaml)         |
+| [Carlings](https://sv.wikipedia.org/wiki/Carlings)           |            | [carlings.yaml](./yaml/stores/carlings.yaml)              |
+| [Cubus](https://sv.wikipedia.org/wiki/Cubus)                 |            | [cubus.yaml](./yaml/stores/cubus.yaml)                  |
+| [Dressmann](https://sv.wikipedia.org/wiki/Dressmann)         |            | [dressman.yaml](./yaml/stores/dressman.yaml)           |
+| [Gina Tricot](https://sv.wikipedia.org/wiki/Gina_Tricot)     |            | [ginatricot.yaml](./yamn/stores/ginatricot.yaml)       |
 | [Guldfynd](https://sv.wikipedia.org/wiki/Guldfynd)           |            |                                                        |
 | [H&M](https://sv.wikipedia.org/wiki/Hennes_%26_Mauritz)      |            |                                                        |
 | [Hallbergs Guld](https://sv.wikipedia.org/wiki/Hallbergs_Guldsmeds_AB) |            |                                                        |
