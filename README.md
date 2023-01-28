@@ -258,11 +258,10 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 ### Banker
 
-| Namn                                                         | Positioner | Källa                                     |
-| ------------------------------------------------------------ | ---------- | ----------------------------------------- |
-| [Bankomat](https://sv.wikipedia.org/wiki/Bankomat)           |            |                                           |
-| Exchange                                                     |            |                                           |
-| [Forex](https://sv.wikipedia.org/wiki/Forex_(f%C3%B6retag))  |            | [forex.yaml](./yaml/financial/forex.yaml) |
+| Namn                                                         | Positioner | Källa                                           |
+| ------------------------------------------------------------ | ---------- | ----------------------------------------------- |
+| [Bankomat](https://sv.wikipedia.org/wiki/Bankomat)           |            | [bankomat.yaml](./yaml/financial/bankomat.yaml) |
+| [Forex](https://sv.wikipedia.org/wiki/Forex_(f%C3%B6retag))  |            | [forex.yaml](./yaml/financial/forex.yaml)       |
 | [Handelsbanken](https://sv.wikipedia.org/wiki/Svenska_Handelsbanken) |            |                                           |
 | [Nordea](https://sv.wikipedia.org/wiki/Nordea)               |            |                                           |
 | [SEB](https://sv.wikipedia.org/wiki/Skandinaviska_Enskilda_Banken) |            |                                           |
