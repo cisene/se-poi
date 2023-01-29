@@ -59,19 +59,19 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | Namn                                                         | Positioner | Källa                                                  |
 | ------------------------------------------------------------ | ---------- | ------------------------------------------------------ |
 | [Bik Bok](https://sv.wikipedia.org/wiki/Bik_Bok)             |            | [bikbok.yaml](./yaml/stores/bikbok.yaml)               |
-| [Brothers](https://sv.wikipedia.org/wiki/Brothers_(f%C3%B6retag)) |            | [brothers.yaml](./yaml/stores/brothers.yaml)         |
-| [Carlings](https://sv.wikipedia.org/wiki/Carlings)           |            | [carlings.yaml](./yaml/stores/carlings.yaml)              |
-| [Cubus](https://sv.wikipedia.org/wiki/Cubus)                 |            | [cubus.yaml](./yaml/stores/cubus.yaml)                  |
+| [Brothers](https://sv.wikipedia.org/wiki/Brothers_(f%C3%B6retag)) |            | [brothers.yaml](./yaml/stores/brothers.yaml)           |
+| [Carlings](https://sv.wikipedia.org/wiki/Carlings)           |            | [carlings.yaml](./yaml/stores/carlings.yaml)           |
+| [Cubus](https://sv.wikipedia.org/wiki/Cubus)                 |            | [cubus.yaml](./yaml/stores/cubus.yaml)                 |
 | [Dressmann](https://sv.wikipedia.org/wiki/Dressmann)         |            | [dressman.yaml](./yaml/stores/dressman.yaml)           |
 | [Gina Tricot](https://sv.wikipedia.org/wiki/Gina_Tricot)     |            | [ginatricot.yaml](./yamn/stores/ginatricot.yaml)       |
 | [Guldfynd](https://sv.wikipedia.org/wiki/Guldfynd)           |            | [guldfynd.yaml](./yaml/stores/guldfynd.yaml)           |
 | [H&M](https://sv.wikipedia.org/wiki/Hennes_%26_Mauritz)      |            | [hm.yaml](./yaml/stores/hm.yaml)                       |
 | [Hallbergs Guld](https://sv.wikipedia.org/wiki/Hallbergs_Guldsmeds_AB) |            |                                                        |
-| [Indiska](https://sv.wikipedia.org/wiki/Indiska_Magasinet)   |            |                                                        |
-| [Jack & Jones](https://sv.wikipedia.org/wiki/Jack_%26_Jones) |            |                                                        |
+| [Indiska](https://sv.wikipedia.org/wiki/Indiska_Magasinet)   |            | [indiska.yaml](./yaml/stores/indiska.yaml)             |
+| [Jack & Jones](https://sv.wikipedia.org/wiki/Jack_%26_Jones) |            | [jackandjones.yaml](./yaml/stores/jackandjones.yaml)   |
 | [Kappahl](https://sv.wikipedia.org/wiki/Kappahl)             |            |                                                        |
-| [Kicks](https://sv.wikipedia.org/wiki/Kicks)                 |            |                                                        |
-| [Lindex](https://sv.wikipedia.org/wiki/Lindex)               |            |                                                        |
+| [Kicks](https://sv.wikipedia.org/wiki/Kicks)                 |            | [kicks.yaml](./yaml/stores/kicks.yaml)                 |
+| [Lindex](https://sv.wikipedia.org/wiki/Lindex)               |            | [lindex.yaml](./yaml/stores/lindex.yaml)               |
 | [Normal](https://sv.wikipedia.org/wiki/Normal_(butikskedja)) |            |                                                        |
 | [Polarn O. Pyret](https://sv.wikipedia.org/wiki/Polarn_O._Pyret) |            |                                                        |
 | [The Body Shop](https://sv.wikipedia.org/wiki/The_Body_Shop) |            |                                                        |
@@ -132,19 +132,19 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 ### Bygg, verktyg
 
-| Namn                                                         | Positioner | Källa |
-| ------------------------------------------------------------ | ---------- | ----- |
-| [Ahlsell](https://sv.wikipedia.org/wiki/Ahlsell_(f%C3%B6retag)) |            |       |
-| [Bauhaus](https://sv.wikipedia.org/wiki/Bauhaus_(butikskedja)) |            | [bauhaus.yaml](./yaml/stores/bauhaus.yaml)  |
-| [Beijer Byggmaterial](https://sv.wikipedia.org/wiki/Beijer_Byggmaterial) |            |       |
-| [Bolist](https://sv.wikipedia.org/wiki/Bolist)               |            |       |
-| [Byggma](https://sv.wikipedia.org/wiki/Byggma)               |            |       |
-| [Byggmax](https://sv.wikipedia.org/wiki/Byggmax)             |            | [byggmax.yaml](./yaml/stores/byggmax.yaml)  |
-| [Jula](https://sv.wikipedia.org/wiki/Jula_(f%C3%B6retag))    |            |       |
-| [Järnia](https://sv.wikipedia.org/wiki/J%C3%A4rnia)          |            |       |
-| [K-Rauta](https://sv.wikipedia.org/wiki/K-Rauta)             |            |       |
-| [Optimera](https://sv.wikipedia.org/wiki/Optimera_Svenska_AB) |            |       |
-| [XL-BYGG](https://sv.wikipedia.org/wiki/XL-Bygg)             |            |       |
+| Namn                                                         | Positioner | Källa                                      |
+| ------------------------------------------------------------ | ---------- | ------------------------------------------ |
+| [Ahlsell](https://sv.wikipedia.org/wiki/Ahlsell_(f%C3%B6retag)) |            |                                            |
+| [Bauhaus](https://sv.wikipedia.org/wiki/Bauhaus_(butikskedja)) |            | [bauhaus.yaml](./yaml/stores/bauhaus.yaml) |
+| [Beijer Byggmaterial](https://sv.wikipedia.org/wiki/Beijer_Byggmaterial) |            |                                            |
+| [Bolist](https://sv.wikipedia.org/wiki/Bolist)               |            |                                            |
+| [Byggma](https://sv.wikipedia.org/wiki/Byggma)               |            |                                            |
+| [Byggmax](https://sv.wikipedia.org/wiki/Byggmax)             |            | [byggmax.yaml](./yaml/stores/byggmax.yaml) |
+| [Jula](https://sv.wikipedia.org/wiki/Jula_(f%C3%B6retag))    |            |                                            |
+| [Järnia](https://sv.wikipedia.org/wiki/J%C3%A4rnia)          |            |                                            |
+| [K-Rauta](https://sv.wikipedia.org/wiki/K-Rauta)             |            |                                            |
+| [Optimera](https://sv.wikipedia.org/wiki/Optimera_Svenska_AB) |            |                                            |
+| [XL-BYGG](https://sv.wikipedia.org/wiki/XL-Bygg)             |            |                                            |
 
 
 
@@ -162,16 +162,17 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 ### Heminredning och dekorationer
 
-| Namn                                             | Positioner | Källa                                              |
-| ------------------------------------------------ | ---------- | -------------------------------------------------- |
-| [Cervera](https://sv.wikipedia.org/wiki/Cervera) |            |                                                    |
-| [Dollarstore](https://sv.wikipedia.org/wiki/Dollarstore) |            | [dollarstore.yaml](./yaml/stores/dollarstore.yaml) |
+| Namn                                                         | Positioner | Källa                                              |
+| ------------------------------------------------------------ | ---------- | -------------------------------------------------- |
+| [Cervera](https://sv.wikipedia.org/wiki/Cervera)             |            |                                                    |
+| [Dollarstore](https://sv.wikipedia.org/wiki/Dollarstore)     |            | [dollarstore.yaml](./yaml/stores/dollarstore.yaml) |
 | [Flying Tiger Copenhagen](https://sv.wikipedia.org/wiki/Flying_Tiger_Copenhagen) |            |                                                    |
-| [Hemtex](https://sv.wikipedia.org/wiki/Hemtex)           |            |                                                    |
-| [IKEA](https://sv.wikipedia.org/wiki/Ikea)               |            |                                                    |
-| [Jysk](https://sv.wikipedia.org/wiki/Jysk)               |            |                                                    |
-| [Lagerhaus](https://sv.wikipedia.org/wiki/Lagerhaus)     |            |                                                    |
-| [Åhlens](https://sv.wikipedia.org/wiki/%C3%85hl%C3%A9ns) |            | [ahlens.yaml](./yaml/stores/ahlens.yaml)   |
+| [Hemtex](https://sv.wikipedia.org/wiki/Hemtex)               |            |                                                    |
+| [IKEA](https://sv.wikipedia.org/wiki/Ikea)                   |            |                                                    |
+| [Jysk](https://sv.wikipedia.org/wiki/Jysk)                   |            |                                                    |
+| [Lagerhaus](https://sv.wikipedia.org/wiki/Lagerhaus)         |            |                                                    |
+| [Mio](https://sv.wikipedia.org/wiki/Mio_(butikskedja))       |            | [mio-möbler.yaml](./yaml/stores/mio-möbler.yaml)   |
+| [Åhlens](https://sv.wikipedia.org/wiki/%C3%85hl%C3%A9ns)     |            | [ahlens.yaml](./yaml/stores/ahlens.yaml)           |
 
 
 
@@ -180,10 +181,10 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | Namn                                                         | Positioner | Källa |
 | ------------------------------------------------------------ | ---------- | ----- |
 | [Apotek Hjärtat](https://sv.wikipedia.org/wiki/Apotek_Hjärtat) |            |       |
-| [Apoteket AB](https://sv.wikipedia.org/wiki/Apoteket_AB) |            |       |
+| [Apoteket AB](https://sv.wikipedia.org/wiki/Apoteket_AB)     |            |       |
 | [Apoteksgruppen](https://sv.wikipedia.org/wiki/Apoteksgruppen) |            |       |
 | [Kronans Apotek](https://sv.wikipedia.org/wiki/Kronans_Apotek) |            |       |
-| [LloydsApotek](https://sv.wikipedia.org/wiki/LloydsApotek) |            |       |
+| [LloydsApotek](https://sv.wikipedia.org/wiki/LloydsApotek)   |            |       |
 
 
 
@@ -224,17 +225,17 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 ### Restauranter
 
-| Namn        | Positioner | Källa |
-| ----------- | ---------- | ----- |
-| [Burger King](https://sv.wikipedia.org/wiki/Burger_King) |            |       |
-| [KFC](https://sv.wikipedia.org/wiki/Kentucky_Fried_Chicken) |            |       |
+| Namn                                                         | Positioner | Källa |
+| ------------------------------------------------------------ | ---------- | ----- |
+| [Burger King](https://sv.wikipedia.org/wiki/Burger_King)     |            |       |
+| [KFC](https://sv.wikipedia.org/wiki/Kentucky_Fried_Chicken)  |            |       |
 | [Max Hamburgerrestauranger](https://sv.wikipedia.org/wiki/Max_Hamburgerrestauranger) |            |       |
 | [McDonald's](https://sv.wikipedia.org/wiki/McDonald%E2%80%99s) |            |       |
-| [Pizza Hut](https://sv.wikipedia.org/wiki/Pizza_Hut) |            |       |
+| [Pizza Hut](https://sv.wikipedia.org/wiki/Pizza_Hut)         |            |       |
 | [Sibylla](https://sv.wikipedia.org/wiki/Sibylla_(snabbmatskedja)) |            |       |
-| [Sushi Yama](https://sv.wikipedia.org/wiki/Sushi_Yama) |            |                                                              |
-| YumYum | | |
-| Pinchos | | |
+| [Sushi Yama](https://sv.wikipedia.org/wiki/Sushi_Yama)       |            |       |
+| YumYum                                                       |            |       |
+| Pinchos                                                      |            |       |
 
 
 ### Caféer, Kaffe och Tea
@@ -262,10 +263,10 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | ------------------------------------------------------------ | ---------- | ----------------------------------------------- |
 | [Bankomat](https://sv.wikipedia.org/wiki/Bankomat)           |            | [bankomat.yaml](./yaml/financial/bankomat.yaml) |
 | [Forex](https://sv.wikipedia.org/wiki/Forex_(f%C3%B6retag))  |            | [forex.yaml](./yaml/financial/forex.yaml)       |
-| [Handelsbanken](https://sv.wikipedia.org/wiki/Svenska_Handelsbanken) |            |                                           |
-| [Nordea](https://sv.wikipedia.org/wiki/Nordea)               |            |                                           |
-| [SEB](https://sv.wikipedia.org/wiki/Skandinaviska_Enskilda_Banken) |            |                                           |
-| [Swedbank](https://sv.wikipedia.org/wiki/Swedbank)           |            |                                           |
+| [Handelsbanken](https://sv.wikipedia.org/wiki/Svenska_Handelsbanken) |            |                                                 |
+| [Nordea](https://sv.wikipedia.org/wiki/Nordea)               |            |                                                 |
+| [SEB](https://sv.wikipedia.org/wiki/Skandinaviska_Enskilda_Banken) |            |                                                 |
+| [Swedbank](https://sv.wikipedia.org/wiki/Swedbank)           |            |                                                 |
 
 
 
@@ -291,10 +292,10 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | Namn                                                         | Positioner | Källa                                                |
 | ------------------------------------------------------------ | ---------- | ---------------------------------------------------- |
 | [Best Western](https://sv.wikipedia.org/wiki/Best_Western)   |            | [best-western.yaml](./yaml/hotels/best-western.yaml) |
-| [Clarion Hotels](https://sv.wikipedia.org/wiki/Clarion_Hotels) |            | [choice.yaml](./yaml/hotels/choice.yaml)  |
+| [Clarion Hotels](https://sv.wikipedia.org/wiki/Clarion_Hotels) |            | [choice.yaml](./yaml/hotels/choice.yaml)             |
 | [Elite Hotels](https://sv.wikipedia.org/wiki/Elite_Hotels)   |            |                                                      |
-| [Nordic Choice Hotels](https://sv.wikipedia.org/wiki/Nordic_Choice_Hotels) |            | [choice.yaml](./yaml/hotels/choice.yaml) |
-| [Quality Hotel](https://sv.wikipedia.org/wiki/Nordic_Choice_Hotels) |            | [choice.yaml](./yaml/hotels/choice.yaml) |
+| [Nordic Choice Hotels](https://sv.wikipedia.org/wiki/Nordic_Choice_Hotels) |            | [choice.yaml](./yaml/hotels/choice.yaml)             |
+| [Quality Hotel](https://sv.wikipedia.org/wiki/Nordic_Choice_Hotels) |            | [choice.yaml](./yaml/hotels/choice.yaml)             |
 | [Scandic Hotels](https://sv.wikipedia.org/wiki/Scandic_Hotels) |            | [scandic.yaml](./yaml/hotels/scandic.yaml)           |
 |                                                              |            |                                                      |
 
