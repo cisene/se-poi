@@ -29,7 +29,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | [Coop Sverige](https://sv.wikipedia.org/wiki/Coop_Sverige)   |            | [coop.yaml](./yaml/stores/coop.yaml)                         |
 | [Hemköp](https://sv.wikipedia.org/wiki/Hemk%C3%B6p)          |            | [hemköp.yaml](./yaml/stores/hemköp.yaml)                     |
 | [ICA](https://sv.wikipedia.org/wiki/Ica)                     |            | [ica.yaml](./yaml/stores/ica.yaml)                           |
-| [Lidl](https://sv.wikipedia.org/wiki/Lidl)                   |            |                                                              |
+| [Lidl](https://sv.wikipedia.org/wiki/Lidl)                   |            | [lidl.yaml](./yaml/stores/lidl.yaml)                         |
 | [Systembolaget](https://sv.wikipedia.org/wiki/Systembolaget) Butiker |            | [systembolaget-butiker.yaml](./yaml/stores/systembolaget-butiker.yaml) |
 | [Systembolaget](https://sv.wikipedia.org/wiki/Systembolaget) Ombud |            | [systembolaget-ombud.yaml](./yaml/stores/systembolaget-ombud.yaml) |
 | [Tempo](https://sv.wikipedia.org/wiki/Tempo_(butikskedja))   |            | [tempo.yaml](./yaml/stores/tempo.yaml)                       |
@@ -42,7 +42,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | ----------------------------------------------------------- | ---------- | ---------------------------------------------------- |
 | [7-Eleven](https://sv.wikipedia.org/wiki/7-Eleven)          |            | [seven-eleven.yaml](./yaml/stores/seven-eleven.yaml) |
 | MyWay                                                       |            | [myway.yaml](./yaml/stores/myway.yaml)               |
-| [Pressbyrån](https://sv.wikipedia.org/wiki/Pressbyr%C3%A5n) |            |                                                      |
+| [Pressbyrån](https://sv.wikipedia.org/wiki/Pressbyr%C3%A5n) |            | [pressbyrån.yaml](./yaml/stores/pressbyrån.yaml)     |
 
 
 
