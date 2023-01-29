@@ -64,8 +64,8 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | [Cubus](https://sv.wikipedia.org/wiki/Cubus)                 |            | [cubus.yaml](./yaml/stores/cubus.yaml)                  |
 | [Dressmann](https://sv.wikipedia.org/wiki/Dressmann)         |            | [dressman.yaml](./yaml/stores/dressman.yaml)           |
 | [Gina Tricot](https://sv.wikipedia.org/wiki/Gina_Tricot)     |            | [ginatricot.yaml](./yamn/stores/ginatricot.yaml)       |
-| [Guldfynd](https://sv.wikipedia.org/wiki/Guldfynd)           |            |                                                        |
-| [H&M](https://sv.wikipedia.org/wiki/Hennes_%26_Mauritz)      |            |                                                        |
+| [Guldfynd](https://sv.wikipedia.org/wiki/Guldfynd)           |            | [guldfynd.yaml](./yaml/stores/guldfynd.yaml)           |
+| [H&M](https://sv.wikipedia.org/wiki/Hennes_%26_Mauritz)      |            | [hm.yaml](./yaml/stores/hm.yaml)                       |
 | [Hallbergs Guld](https://sv.wikipedia.org/wiki/Hallbergs_Guldsmeds_AB) |            |                                                        |
 | [Indiska](https://sv.wikipedia.org/wiki/Indiska_Magasinet)   |            |                                                        |
 | [Jack & Jones](https://sv.wikipedia.org/wiki/Jack_%26_Jones) |            |                                                        |
