@@ -72,7 +72,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | [Kappahl](https://sv.wikipedia.org/wiki/Kappahl)             |            |                                                        |
 | [Kicks](https://sv.wikipedia.org/wiki/Kicks)                 |            | [kicks.yaml](./yaml/stores/kicks.yaml)                 |
 | [Lindex](https://sv.wikipedia.org/wiki/Lindex)               |            | [lindex.yaml](./yaml/stores/lindex.yaml)               |
-| [Normal](https://sv.wikipedia.org/wiki/Normal_(butikskedja)) |            |                                                        |
+| [Normal](https://sv.wikipedia.org/wiki/Normal_(butikskedja)) |            | [normal.yaml](./yaml/stores/normal.yaml)               |
 | [Polarn O. Pyret](https://sv.wikipedia.org/wiki/Polarn_O._Pyret) |            |                                                        |
 | [The Body Shop](https://sv.wikipedia.org/wiki/The_Body_Shop) |            |                                                        |
 | [Vero Moda](https://sv.wikipedia.org/wiki/Vero_Moda)         |            |                                                        |
