@@ -1,0 +1,432 @@
+meta:
+  name: stores/arkenzoo.yaml
+  web: null
+  wikipedia: null
+  category: null
+  locations: 85
+
+locations:
+- location: Arken Zoo Ängelholm
+  city: Ängelholm
+  latitude: 56.253746
+  longitude: 12.891922
+
+- location: Arken Zoo Bålsta
+  city: Bålsta
+  latitude: 59.567745
+  longitude: 17.529018
+
+- location: Arken Zoo Bollebygd
+  city: Bollebygd
+  latitude: 57.66877
+  longitude: 12.571873
+
+- location: Arken Zoo Borås Knalleland
+  city: Borås
+  latitude: 57.732311
+  longitude: 12.93305
+
+- location: Arken Zoo Borås Lundaskog
+  city: Borås
+  latitude: 57.713352
+  longitude: 12.860431
+
+- location: Arken Zoo Borås Trandögatan
+  city: Borås
+  latitude: 57.71088
+  longitude: 12.945998
+
+- location: Arken Zoo Borlänge
+  city: Borlänge
+  latitude: 60.478725
+  longitude: 15.418871
+
+- location: Arken Zoo Enköping
+  city: Enköping
+  latitude: 59.652454
+  longitude: 17.081545
+
+- location: Arken Zoo Eskilstuna Tuna Park
+  city: Eskilstuna
+  latitude: 59.375317
+  longitude: 16.469013
+
+- location: Arken Zoo Eslöv
+  city: Eslöv
+  latitude: 55.841846
+  longitude: 13.323761
+
+- location: Arken Zoo Falkenberg
+  city: Falkenberg
+  latitude: 56.903976
+  longitude: 12.481631
+
+- location: Arken Zoo Falköping
+  city: Falköping
+  latitude: 58.16193
+  longitude: 13.564233
+
+- location: Arken Zoo Falun
+  city: Falun
+  latitude: 60.604557
+  longitude: 15.66654
+
+- location: Arken Zoo Finspång
+  city: Finspång
+  latitude: 58.706581
+  longitude: 15.773438
+
+- location: Arken Zoo Gävle Hemlingby
+  city: Gävle
+  latitude: 60.644981
+  longitude: 17.14525
+
+- location: Arken Zoo Gävle Valbo
+  city: Gävle
+  latitude: 60.627422
+  longitude: 16.988785
+
+- location: Arken Zoo Göteborg Sisjön 1
+  city: Göteborg
+  latitude: 57.64061
+  longitude: 11.94838
+
+- location: Arken Zoo Göteborg Eriksberg
+  city: Göteborg
+  latitude: 57.709373
+  longitude: 11.921422
+
+- location: Arken Zoo Göteborg Femman
+  city: Göteborg
+  latitude: 57.708462
+  longitude: 11.969497
+
+- location: Arken Zoo Göteborg Torpavallen
+  city: Göteborg
+  latitude: 57.723671
+  longitude: 12.027133
+
+- location: Arken Zoo Göteborg Sisjön 2
+  city: Göteborg
+  latitude: 57.642227
+  longitude: 11.94768
+
+- location: Arken Zoo Halmstad Stenalyckan
+  city: Halmstad
+  latitude: 56.665359
+  longitude: 12.90818
+
+- location: Arken Zoo Halmstad Flygstaden
+  city: Halmstad
+  latitude: 56.677597
+  longitude: 12.806277
+
+- location: Arken Zoo Haninge Handen
+  city: Haninge
+  latitude: 59.175701
+  longitude: 18.143049
+
+- location: Arken Zoo Haninge Port 73
+  city: Haninge
+  latitude: 59.179241
+  longitude: 18.149223
+
+- location: Arken Zoo Helsingborg Väla
+  city: Helsingborg
+  latitude: 56.09351
+  longitude: 12.7581
+
+- location: Arken Zoo Helsingborg Regementsvägen
+  city: Helsingborg
+  latitude: 0.0
+  longitude: 0.0
+
+- location: Arken Zoo Hörby
+  city: Hörby
+  latitude: 55.790699
+  longitude: 13.679068
+
+- location: Arken Zoo Hudiksvall
+  city: Hudiksvall
+  latitude: 61.73296
+  longitude: 17.094391
+
+- location: Arken Zoo Järfälla Barkarby
+  city: Järfälla
+  latitude: 59.410065
+  longitude: 17.836803
+
+- location: Arken Zoo Järfälla Viksjö Centrum
+  city: Järfälla
+  latitude: 59.411572
+  longitude: 17.802414
+
+- location: Arken Zoo Jönköping A6
+  city: Jönköping
+  latitude: 57.772472
+  longitude: 14.197411
+
+- location: Arken Zoo Jönköping Solåsen
+  city: Jönköping
+  latitude: 57.767193
+  longitude: 14.172878
+
+- location: Arken Zoo Karlskoga
+  city: Karlskoga
+  latitude: 59.326538
+  longitude: 14.526704
+
+- location: Arken Zoo Karlskrona Amiralen
+  city: Karlskrona
+  latitude: 56.196751
+  longitude: 15.6477
+
+- location: Arken Zoo Karlstad
+  city: Karlstad
+  latitude: 59.374977
+  longitude: 13.439754
+
+- location: Arken Zoo Kristianstad Härlöv
+  city: Kristianstad
+  latitude: 56.022881
+  longitude: 14.118
+
+- location: Arken Zoo Kungsbacka Borgås
+  city: Kungsbacka
+  latitude: 57.516209
+  longitude: 12.075003
+
+- location: Arken Zoo Lidköping
+  city: Lidköping
+  latitude: 58.495369
+  longitude: 13.182623
+
+- location: Arken Zoo Luleå Storheden
+  city: Luleå
+  latitude: 65.616875
+  longitude: 22.051954
+
+- location: Arken Zoo Lund Nova
+  city: Lund
+  latitude: 55.714703
+  longitude: 13.15357
+
+- location: Arken Zoo Malmö Burlöv
+  city: Malmö
+  latitude: 55.63953
+  longitude: 13.08385
+
+- location: Arken Zoo Malmö Toftanäs
+  city: Malmö
+  latitude: 55.597168
+  longitude: 13.094892
+
+- location: Arken Zoo Malmö Svågertorp
+  city: Malmö
+  latitude: 55.551132
+  longitude: 12.993464
+
+- location: Arken Zoo Mora
+  city: Mora
+  latitude: 61.008362
+  longitude: 14.590383
+
+- location: Arken Zoo Motala
+  city: Motala
+  latitude: 58.557644
+  longitude: 15.032276
+
+- location: Arken Zoo Nacka Forum
+  city: Nacka
+  latitude: 59.309982
+  longitude: 18.16527
+
+- location: Arken Zoo Norrköping Ingelsta Handelsområde
+  city: Norrköping
+  latitude: 58.61269
+  longitude: 16.16596
+
+- location: Arken Zoo Norrköping Ingelsta Shopping
+  city: Norrköping
+  latitude: 58.61845
+  longitude: 16.154413
+
+- location: Arken Zoo Norrköping Mirum Galleria
+  city: Norrköping
+  latitude: 58.587746
+  longitude: 16.192421
+
+- location: Arken Zoo Norrtälje
+  city: Norrtälje
+  latitude: 59.750286
+  longitude: 18.69206
+
+- location: Arken Zoo Nyköping
+  city: Nyköping
+  latitude: 58.771378
+  longitude: 17.018978
+
+- location: Arken Zoo Örebro Marieberg Galleria
+  city: Örebro
+  latitude: 59.21727
+  longitude: 15.138066
+
+- location: Arken Zoo Örebro Eurostop
+  city: Örebro
+  latitude: 59.296085
+  longitude: 15.197855
+
+- location: Arken Zoo Piteå BackCity
+  city: Piteå
+  latitude: 65.323196
+  longitude: 21.445461
+
+- location: Arken Zoo Skellefteå
+  city: Skellefteå
+  latitude: 64.764771
+  longitude: 21.020943
+
+- location: Arken Zoo Skövde
+  city: Skövde
+  latitude: 58.403797
+  longitude: 13.866814
+
+- location: Arken Zoo Sollentuna Häggvik
+  city: Sollentuna
+  latitude: 59.440601
+  longitude: 17.931829
+
+- location: Arken Zoo Täby
+  city: Täby
+  latitude: 59.446568
+  longitude: 18.073658
+
+- location: Arken Zoo Stockholm Odenplan
+  city: Stockholm
+  latitude: 59.34354
+  longitude: 18.050159
+
+- location: Arken Zoo Stockholm Kungsholmen
+  city: Stockholm
+  latitude: 59.333912
+  longitude: 18.035345
+
+- location: Arken Zoo Stockholm Kungens Kurva
+  city: Stockholm
+  latitude: 59.272549
+  longitude: 17.922728
+
+- location: Arken Zoo Stockholm Liljeholmen
+  city: Stockholm
+  latitude: 59.309277
+  longitude: 18.02277
+
+- location: Arken Zoo Stockholm Arninge
+  city: Stockholm
+  latitude: 59.461452
+  longitude: 18.132885
+
+- location: Arken Zoo Sundsvall City
+  city: Sundsvall
+  latitude: 62.391918
+  longitude: 17.304029
+
+- location: Arken Zoo Sundsvall Birsta
+  city: Sundsvall
+  latitude: 62.440525
+  longitude: 17.3326
+
+- location: Arken Zoo Töcksfors
+  city: Töckfors
+  latitude: 59.510826
+  longitude: 11.819967
+
+- location: Arken Zoo Trelleborg
+  city: Trelleborg
+  latitude: 55.384045
+  longitude: 13.120787
+
+- location: Arken Zoo Trollhättan Etage
+  city: Trollhättan
+  latitude: 58.312378
+  longitude: 12.308698
+
+- location: Arken Zoo Uddevalla Östra Torp
+  city: Uddevalla
+  latitude: 58.35453
+  longitude: 11.820734
+
+- location: Arken Zoo Uddevalla Torp Köpcentrum
+  city: Uddevalla
+  latitude: 58.353661
+  longitude: 11.808435
+
+- location: Arken Zoo Umeå Strömpilen
+  city: Umeå
+  latitude: 63.797752
+  longitude: 20.303835
+
+- location: Arken Zoo Stockholm Upplands Väsby
+  city: Upplands Väsby
+  latitude: 59.497475
+  longitude: 17.92761
+
+- location: Arken Zoo Uppsala Boländerna
+  city: Uppsala
+  latitude: 59.846561
+  longitude: 17.68697
+
+- location: Arken Zoo Uppsala Gränby
+  city: Uppsala
+  latitude: 59.886162
+  longitude: 17.668789
+
+- location: Arken Zoo Uppsala Stenhagen
+  city: Uppsala
+  latitude: 59.849659
+  longitude: 17.561914
+
+- location: Arken Zoo Varberg
+  city: Varberg
+  latitude: 57.123978
+  longitude: 12.261157
+
+- location: Arken Zoo Värmdö Mölnvik
+  city: Värmdö
+  latitude: 59.312832
+  longitude: 18.420679
+
+- location: Arken Zoo Västerås Erikslund 2
+  city: Västerås
+  latitude: 59.611252
+  longitude: 16.45929
+
+- location: Arken Zoo Västerås Hälla
+  city: Västerås
+  latitude: 59.61187
+  longitude: 16.611221
+
+- location: Västerås City
+  city: Västerås
+  latitude: 59.611759
+  longitude: 16.543837
+
+- location: Arken Zoo Västerås Erikslund 1
+  city: Västerås
+  latitude: 59.612907
+  longitude: 16.465195
+
+- location: Arken Zoo Växjö Samarkand
+  city: Växjö
+  latitude: 56.881351
+  longitude: 14.76549
+
+- location: Arken Zoo Vetlanda
+  city: Vetlanda
+  latitude: 57.442627
+  longitude: 15.069081
+
+- location: Arken Zoo Ystad
+  city: Ystad
+  latitude: 55.43877
+  longitude: 13.834235

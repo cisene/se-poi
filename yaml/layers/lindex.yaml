@@ -1,0 +1,3080 @@
+meta:
+  name: Lindex
+  web: null
+  wikipedia: null
+  category: null
+  locations: 439
+
+locations:
+- location: Barkarby
+  urn: urn:lindex:store:id:359
+  city: Järfälla
+  country: Sweden
+  latitude: 59.415615
+  longitude: 17.859989
+
+- location: Praha, Westfield Chodov
+  urn: urn:lindex:store:id:682
+  city: Praha
+  country: Czech Republic
+  latitude: 50.031489
+  longitude: 14.490137
+
+- location: Uppsala Stenhagen
+  urn: urn:lindex:store:id:109
+  city: Uppsala
+  country: Sweden
+  latitude: 59.8493
+  longitude: 17.558913
+
+- location: Tripla
+  urn: urn:lindex:store:id:494
+  city: Helsinki
+  country: Finland
+  latitude: 60.203882
+  longitude: 24.931395
+
+- location: Ostrava, Forum Nová Karolina
+  urn: urn:lindex:store:id:655
+  city: Ostrava
+  country: Czech Republic
+  latitude: 49.830843
+  longitude: 18.285343
+
+- location: Riga Plaza
+  urn: urn:lindex:store:id:547
+  city: Riga
+  country: Latvia
+  latitude: 56.92593
+  longitude: 24.105544
+
+- location: Brno, City
+  urn: urn:lindex:store:id:660
+  city: Brno
+  country: Czech Republic
+  latitude: 49.195387
+  longitude: 16.606936
+
+- location: Mariestad
+  urn: urn:lindex:store:id:124
+  city: Mariestad
+  country: Sweden
+  latitude: 58.709853
+  longitude: 13.823666
+
+- location: Belgrade Ušće Shopping Center
+  urn: urn:lindex:store:id:592
+  city: Novi Beograd
+  country: Serbia
+  latitude: 44.815669
+  longitude: 20.437042
+
+- location: Riga Origo
+  urn: urn:lindex:store:id:551
+  city: Riga
+  country: Latvia
+  latitude: 56.947012
+  longitude: 24.120406
+
+- location: Uddevalla City
+  urn: urn:lindex:store:id:012
+  city: Uddevalla
+  country: Sweden
+  latitude: 58.3498427
+  longitude: 11.9325138
+
+- location: Puuvilla Pori
+  urn: urn:lindex:store:id:484
+  city: Pori
+  country: Finland
+  latitude: 61.494109
+  longitude: 21.799966
+
+- location: Mosjøen
+  urn: urn:lindex:store:id:259
+  city: Mosjøen
+  country: Norway
+  latitude: 65.839761
+  longitude: 13.1923009
+
+- location: Jönköping City
+  urn: urn:lindex:store:id:002
+  city: Jönköping
+  country: Sweden
+  latitude: 57.782434
+  longitude: 14.172856
+
+- location: Praha, Novodvorská Plaza
+  urn: urn:lindex:store:id:665
+  city: Praha
+  country: Czech Republic
+  latitude: 50.0267644
+  longitude: 14.4329117
+
+- location: Mora
+  urn: urn:lindex:store:id:179
+  city: Mora
+  country: Sweden
+  latitude: 61.004485
+  longitude: 14.538231
+
+- location: Jyväskylä
+  urn: urn:lindex:store:id:416
+  city: Jyväskylä
+  country: Finland
+  latitude: 62.2431105
+  longitude: 25.7471064
+
+- location: C4 Kristianstad
+  urn: urn:lindex:store:id:306
+  city: Kristianstad
+  country: Sweden
+  latitude: 56.025557
+  longitude: 14.207204
+
+- location: Södertälje City
+  urn: urn:lindex:store:id:090
+  city: Södertälje
+  country: Sweden
+  latitude: 59.19659
+  longitude: 17.626849
+
+- location: Øyrane Torg, Bergen
+  urn: urn:lindex:store:id:959
+  city: Indre Arna (bergen)
+  country: Norway
+  latitude: 60.421328
+  longitude: 5.464919
+
+- location: Bollnäs
+  urn: urn:lindex:store:id:193
+  city: Bollnäs
+  country: Sweden
+  latitude: 61.348011
+  longitude: 16.394905
+
+- location: Visby
+  urn: urn:lindex:store:id:156
+  city: Visby
+  country: Sweden
+  latitude: 57.637039
+  longitude: 18.301726
+
+- location: Mo i Rana
+  urn: urn:lindex:store:id:238
+  city: Mo I Rana
+  country: Norway
+  latitude: 66.311044
+  longitude: 14.135111
+
+- location: Sortland
+  urn: urn:lindex:store:id:257
+  city: Sortland
+  country: Norway
+  latitude: 68.6960864
+  longitude: 15.4170963
+
+- location: Siauliai
+  urn: urn:lindex:store:id:581
+  city: Šiauliai
+  country: Lithuania
+  latitude: 55.928289
+  longitude: 23.307985
+
+- location: Kristiansand S
+  urn: urn:lindex:store:id:062
+  city: Kristiansand
+  country: Norway
+  latitude: 58.1466426
+  longitude: 7.991225
+
+- location: Stockholm Fältöversten
+  urn: urn:lindex:store:id:029
+  city: Stockholm
+  country: Sweden
+  latitude: 59.339075
+  longitude: 18.091145
+
+- location: Gran
+  urn: urn:lindex:store:id:267
+  city: Gran
+  country: Norway
+  latitude: 60.3559718
+  longitude: 10.5718537
+
+- location: Trnava, City Arena
+  urn: urn:lindex:store:id:921
+  city: Trnava
+  country: Slovakia
+  latitude: 48.3732326
+  longitude: 17.5911027
+
+- location: Örebro City
+  urn: urn:lindex:store:id:014
+  city: Örebro
+  country: Sweden
+  latitude: 59.271358
+  longitude: 15.212513
+
+- location: Kerava
+  urn: urn:lindex:store:id:434
+  city: Kerava
+  country: Finland
+  latitude: 60.4038119
+  longitude: 25.098538
+
+- location: Domina Riga
+  urn: urn:lindex:store:id:540
+  city: Riga
+  country: Latvia
+  latitude: 56.966304
+  longitude: 24.162422
+
+- location: Farsta
+  urn: urn:lindex:store:id:183
+  city: Farsta
+  country: Sweden
+  latitude: 59.242698
+  longitude: 18.093464
+
+- location: Mikkeli
+  urn: urn:lindex:store:id:439
+  city: Mikkeli
+  country: Finland
+  latitude: 61.6894184
+  longitude: 27.2720756
+
+- location: Oslo City
+  urn: urn:lindex:store:id:223
+  city: Oslo
+  country: Norway
+  latitude: 59.9125713
+  longitude: 10.7514139
+
+- location: Halmstad City
+  urn: urn:lindex:store:id:088
+  city: Halmstad
+  country: Sweden
+  latitude: 56.674032
+  longitude: 12.858323
+
+- location: Akropole Alfa
+  urn: urn:lindex:store:id:545
+  city: Riga
+  country: Latvia
+  latitude: 56.982558
+  longitude: 24.203802
+
+- location: Upplands Väsby
+  urn: urn:lindex:store:id:162
+  city: Upplands Väsby
+  country: Sweden
+  latitude: 59.518326
+  longitude: 17.911637
+
+- location: Tallinn, Rocca al Mare
+  urn: urn:lindex:store:id:507
+  city: Tallinn
+  country: Estonia
+  latitude: 59.4263295
+  longitude: 24.6518402
+
+- location: Sickla
+  urn: urn:lindex:store:id:381
+  city: Nacka
+  country: Sweden
+  latitude: 59.305954
+  longitude: 18.12378
+
+- location: Lappeenranta
+  urn: urn:lindex:store:id:451
+  city: Lappeenranta (villmanstrand)
+  country: Finland
+  latitude: 61.0555668
+  longitude: 28.1898409
+
+- location: Sandviken
+  urn: urn:lindex:store:id:121
+  city: Sandviken
+  country: Sweden
+  latitude: 60.620123
+  longitude: 16.777045
+
+- location: Jönköping A6
+  urn: urn:lindex:store:id:112
+  city: Jönköping
+  country: Sweden
+  latitude: 57.771002
+  longitude: 14.203785
+
+- location: Mölndal Galleria
+  urn: urn:lindex:store:id:305
+  city: Mölndal
+  country: Sweden
+  latitude: 57.6552058
+  longitude: 12.0147018
+
+- location: Kivihaka Vaasa
+  urn: urn:lindex:store:id:467
+  city: Vaasa
+  country: Finland
+  latitude: 63.1116928
+  longitude: 21.6579155
+
+- location: Sarajevo, ARIA Center, Kids
+  urn: urn:lindex:store:id:884
+  city: Sarajevo
+  country: Bosnia and Herzegovina
+  latitude: 43.8584
+  longitude: 18.41673
+
+- location: Karlskoga
+  urn: urn:lindex:store:id:180
+  city: Karlskoga
+  country: Sweden
+  latitude: 59.325896
+  longitude: 14.524243
+
+- location: Seppä
+  urn: urn:lindex:store:id:487
+  city: Jyväskylä
+  country: Finland
+  latitude: 62.255825
+  longitude: 25.776058
+
+- location: Ski
+  urn: urn:lindex:store:id:214
+  city: Ski
+  country: Norway
+  latitude: 59.7168969
+  longitude: 10.8363142
+
+- location: Ulsteinvik, Blåhuset
+  urn: urn:lindex:store:id:956
+  city: Ulsteinvik
+  country: Norway
+  latitude: 62.3425577
+  longitude: 5.848386
+
+- location: Sundsvall Birsta
+  urn: urn:lindex:store:id:031
+  city: Sundsvall
+  country: Sweden
+  latitude: 62.4469989
+  longitude: 17.3359381
+
+- location: Mörby
+  urn: urn:lindex:store:id:166
+  city: Danderyd
+  country: Sweden
+  latitude: 59.39851
+  longitude: 18.03614
+
+- location: Ideapark Oulu
+  urn: urn:lindex:store:id:485
+  city: Oulu
+  country: Finland
+  latitude: 65.076662
+  longitude: 25.446272
+
+- location: Jakobsberg
+  urn: urn:lindex:store:id:155
+  city: Järfälla
+  country: Sweden
+  latitude: 59.423166
+  longitude: 17.8368726
+
+- location: Tornio
+  urn: urn:lindex:store:id:466
+  city: Tornio
+  country: Finland
+  latitude: 65.84341
+  longitude: 24.143777
+
+- location: Borg Storsenter
+  urn: urn:lindex:store:id:250
+  city: Sarpsborg
+  country: Norway
+  latitude: 59.274279
+  longitude: 11.082218
+
+- location: Torslanda Amhult
+  urn: urn:lindex:store:id:357
+  city: Torslanda
+  country: Sweden
+  latitude: 57.709576
+  longitude: 11.774357
+
+- location: Malmö Emporia
+  urn: urn:lindex:store:id:392
+  city: Malmö
+  country: Sweden
+  latitude: 55.564832
+  longitude: 12.972366
+
+- location: Manglerud
+  urn: urn:lindex:store:id:269
+  city: Oslo
+  country: Norway
+  latitude: 59.8973674
+  longitude: 10.8136395
+
+- location: Älmhult
+  urn: urn:lindex:store:id:377
+  city: Älmhult
+  country: Sweden
+  latitude: 56.553125
+  longitude: 14.140555
+
+- location: Stockholm Fridhemsplan
+  urn: urn:lindex:store:id:362
+  city: Stockholm
+  country: Sweden
+  latitude: 59.33346
+  longitude: 18.031597
+
+- location: Moss Amfisentret
+  urn: urn:lindex:store:id:281
+  city: Moss
+  country: Norway
+  latitude: 59.43659
+  longitude: 10.664975
+
+- location: Kilden
+  urn: urn:lindex:store:id:233
+  city: Stavanger
+  country: Norway
+  latitude: 58.947824
+  longitude: 5.739912
+
+- location: Norrköping Ingelsta
+  urn: urn:lindex:store:id:167
+  city: Norrköping
+  country: Sweden
+  latitude: 58.618091
+  longitude: 16.15604
+
+- location: Molas, Kaunas
+  urn: urn:lindex:store:id:575
+  city: Kaunas
+  country: Lithuania
+  latitude: 54.8993569
+  longitude: 23.9675839
+
+- location: Gislaved
+  urn: urn:lindex:store:id:113
+  city: Gislaved
+  country: Sweden
+  latitude: 57.3019157
+  longitude: 13.5378619
+
+- location: Elverum
+  urn: urn:lindex:store:id:239
+  city: Elverum
+  country: Norway
+  latitude: 60.885991
+  longitude: 11.562114
+
+- location: Fields Copenhagen
+  urn: urn:lindex:store:id:785
+  city: København K
+  country: Denmark
+  latitude: 55.631138
+  longitude: 12.5782
+
+- location: Knarvik
+  urn: urn:lindex:store:id:262
+  city: Isdalstø (knarvik)
+  country: Norway
+  latitude: 60.5479488
+  longitude: 5.28751639
+
+- location: Orminge
+  urn: urn:lindex:store:id:171
+  city: Saltsjö-boo
+  country: Sweden
+  latitude: 59.326854
+  longitude: 18.257096
+
+- location: Seinäjoki
+  urn: urn:lindex:store:id:431
+  city: Seinäjoki
+  country: Finland
+  latitude: 62.7882856
+  longitude: 22.8384172
+
+- location: Högdalen
+  urn: urn:lindex:store:id:107
+  city: Bandhagen
+  country: Sweden
+  latitude: 59.263859
+  longitude: 18.041133
+
+- location: Joensuu
+  urn: urn:lindex:store:id:408
+  city: Joensuu
+  country: Finland
+  latitude: 62.6022249
+  longitude: 29.7634423
+
+- location: Arkaden Torgterrassen
+  urn: urn:lindex:store:id:221
+  city: Stavanger
+  country: Norway
+  latitude: 58.9707417
+  longitude: 5.7359736
+
+- location: Spice Riga
+  urn: urn:lindex:store:id:541
+  city: Riga
+  country: Latvia
+  latitude: 56.929771
+  longitude: 24.0365578
+
+- location: Haugesund Oasen
+  urn: urn:lindex:store:id:261
+  city: Karmsund
+  country: Norway
+  latitude: 59.3780104
+  longitude: 5.3068272
+
+- location: Banská Bystrica, Terminal
+  urn: urn:lindex:store:id:924
+  city: Banská Bystrica
+  country: Slovakia
+  latitude: 48.7350102
+  longitude: 19.1601459
+
+- location: Koskikeskus Tampere
+  urn: urn:lindex:store:id:420
+  city: Tampere
+  country: Finland
+  latitude: 61.495692
+  longitude: 23.767536
+
+- location: Piteå
+  urn: urn:lindex:store:id:128
+  city: Piteå
+  country: Sweden
+  latitude: 65.316068
+  longitude: 21.481951
+
+- location: Ale Torg
+  urn: urn:lindex:store:id:197
+  city: Nödinge
+  country: Sweden
+  latitude: 57.894879
+  longitude: 12.047071
+
+- location: Sala
+  urn: urn:lindex:store:id:102
+  city: Sala
+  country: Sweden
+  latitude: 59.9192449
+  longitude: 16.6060024
+
+- location: Ulemiste
+  urn: urn:lindex:store:id:501
+  city: Tallinn
+  country: Estonia
+  latitude: 59.42188
+  longitude: 24.793908
+
+- location: Sunne
+  urn: urn:lindex:store:id:380
+  city: Sunne
+  country: Sweden
+  latitude: 59.837449
+  longitude: 13.143382
+
+- location: Trenčín, NC Laugaricio
+  urn: urn:lindex:store:id:916
+  city: Trenčín
+  country: Slovakia
+  latitude: 48.8638831
+  longitude: 18.0241836
+
+- location: Gävle
+  urn: urn:lindex:store:id:093
+  city: Gävle
+  country: Sweden
+  latitude: 60.674389
+  longitude: 17.140298
+
+- location: Burlöv
+  urn: urn:lindex:store:id:086
+  city: Arlöv
+  country: Sweden
+  latitude: 55.640288
+  longitude: 13.083615
+
+- location: Simrishamn
+  urn: urn:lindex:store:id:186
+  city: Simrishamn
+  country: Sweden
+  latitude: 55.55623
+  longitude: 14.347419
+
+- location: Malmö Södergatan
+  urn: urn:lindex:store:id:164
+  city: Malmö
+  country: Sweden
+  latitude: 55.603591
+  longitude: 13.001473
+
+- location: Sarajevo, ARIA Center
+  urn: urn:lindex:store:id:881
+  city: Sarajevo
+  country: Bosnia and Herzegovina
+  latitude: 43.858708
+  longitude: 18.41662
+
+- location: Lohja
+  urn: urn:lindex:store:id:437
+  city: Lohja
+  country: Finland
+  latitude: 60.251113
+  longitude: 24.069682
+
+- location: Ostrava, Avion
+  urn: urn:lindex:store:id:651
+  city: Ostrava
+  country: Czech Republic
+  latitude: 49.802029
+  longitude: 18.227881
+
+- location: Tromsø
+  urn: urn:lindex:store:id:208
+  city: Tromsø
+  country: Norway
+  latitude: 69.6517985
+  longitude: 18.9573464
+
+- location: Stockholm Centralstation
+  urn: urn:lindex:store:id:391
+  city: Stockholm
+  country: Sweden
+  latitude: 59.33069
+  longitude: 18.05825
+
+- location: Huddinge
+  urn: urn:lindex:store:id:115
+  city: Huddinge
+  country: Sweden
+  latitude: 59.235712
+  longitude: 17.981948
+
+- location: Hansa Turku
+  urn: urn:lindex:store:id:404
+  city: Turku
+  country: Finland
+  latitude: 60.450839
+  longitude: 22.263961
+
+- location: Göteborg Kungsgatan
+  urn: urn:lindex:store:id:153
+  city: Göteborg
+  country: Sweden
+  latitude: 57.704763
+  longitude: 11.968003
+
+- location: Skanssi Turku
+  urn: urn:lindex:store:id:469
+  city: Turku
+  country: Finland
+  latitude: 60.429402
+  longitude: 22.320983
+
+- location: Ilidža, Grand Centar
+  urn: urn:lindex:store:id:886
+  city: Sarajevo
+  country: Bosnia and Herzegovina
+  latitude: 43.82956
+  longitude: 18.31191
+
+- location: Prešov Eperia
+  urn: urn:lindex:store:id:925
+  city: Prešov
+  country: Slovakia
+  latitude: 48.9888826
+  longitude: 21.262933
+
+- location: Helsingborg Väla
+  urn: urn:lindex:store:id:046
+  city: Ödåkra-väla
+  country: Sweden
+  latitude: 56.091827
+  longitude: 12.755896
+
+- location: Jelgava
+  urn: urn:lindex:store:id:550
+  city: Jelgava
+  country: Latvia
+  latitude: 56.667647
+  longitude: 23.760123
+
+- location: Bø
+  urn: urn:lindex:store:id:249
+  city: Bø I Telemark
+  country: Norway
+  latitude: 59.4111982
+  longitude: 9.0710904
+
+- location: Kiruna
+  urn: urn:lindex:store:id:174
+  city: Kiruna
+  country: Sweden
+  latitude: 67.8494597
+  longitude: 20.3069973
+
+- location: Malmö S Förstadsgatan
+  urn: urn:lindex:store:id:173
+  city: Malmö
+  country: Sweden
+  latitude: 55.597177
+  longitude: 13.000956
+
+- location: Kungens Kurva
+  urn: urn:lindex:store:id:344
+  city: Kungens Kurva
+  country: Sweden
+  latitude: 59.2694455
+  longitude: 17.916688
+
+- location: Lippulaiva
+  urn: urn:lindex:store:id:409
+  city: Espoo
+  country: Finland
+  latitude: 60.14902
+  longitude: 24.65615
+
+- location: Trelleborg
+  urn: urn:lindex:store:id:089
+  city: Trelleborg
+  country: Sweden
+  latitude: 55.373729
+  longitude: 13.157166
+
+- location: Norrtälje
+  urn: urn:lindex:store:id:123
+  city: Norrtälje
+  country: Sweden
+  latitude: 59.75088
+  longitude: 18.6941063
+
+- location: České Budějovice, IGY Centrum
+  urn: urn:lindex:store:id:659
+  city: České Budějovice
+  country: Czech Republic
+  latitude: 48.9844087
+  longitude: 14.4732181
+
+- location: Tunis Amir Centre
+  urn: urn:lindex:store:id:530
+  city: La Soukra
+  country: Tunisia
+  latitude: 36.8816
+  longitude: 10.253626
+
+- location: Leknes
+  urn: urn:lindex:store:id:274
+  city: Leknes
+  country: Norway
+  latitude: 68.1486224
+  longitude: 13.6177992
+
+- location: Bryne
+  urn: urn:lindex:store:id:283
+  city: Bryne
+  country: Norway
+  latitude: 58.7358648
+  longitude: 5.64008199
+
+- location: Tønsberg
+  urn: urn:lindex:store:id:072
+  city: Tønsberg
+  country: Norway
+  latitude: 59.2695642
+  longitude: 10.4116095
+
+- location: Lambertseter
+  urn: urn:lindex:store:id:263
+  city: Oslo
+  country: Norway
+  latitude: 59.8746947
+  longitude: 10.8105384
+
+- location: Otta
+  urn: urn:lindex:store:id:296
+  city: Otta
+  country: Norway
+  latitude: 61.770814
+  longitude: 9.540864
+
+- location: Karlovy Vary , Varyáda
+  urn: urn:lindex:store:id:661
+  city: Karlovy Vary
+  country: Czech Republic
+  latitude: 50.2264942
+  longitude: 12.841079
+
+- location: Jumbo Vantaa
+  urn: urn:lindex:store:id:446
+  city: Vantaa
+  country: Finland
+  latitude: 60.291068
+  longitude: 24.963263
+
+- location: Stockholm Drottninggatan
+  urn: urn:lindex:store:id:307
+  city: Stockholm
+  country: Sweden
+  latitude: 59.331267
+  longitude: 18.063947
+
+- location: Reykjavik, Kringlan Women
+  urn: urn:lindex:store:id:898
+  city: Reykjavik
+  country: Iceland
+  latitude: 64.13031
+  longitude: -21.89643
+
+- location: Selfoss
+  urn: urn:lindex:store:id:828
+  city: Selfoss
+  country: Iceland
+  latitude: 64.1012
+  longitude: -21.88444
+
+- location: Hässleholm
+  urn: urn:lindex:store:id:048
+  city: Hässleholm
+  country: Sweden
+  latitude: 56.158683
+  longitude: 13.766364
+
+- location: Skien, Herkules
+  urn: urn:lindex:store:id:218
+  city: Skien
+  country: Norway
+  latitude: 59.1965481
+  longitude: 9.6035843
+
+- location: Baystreet
+  urn: urn:lindex:store:id:784
+  city: St. Julian's
+  country: Malta
+  latitude: 35.92478
+  longitude: 14.487536
+
+- location: Täby Centrum
+  urn: urn:lindex:store:id:366
+  city: Täby
+  country: Sweden
+  latitude: 59.444726
+  longitude: 18.071267
+
+- location: Umeå City
+  urn: urn:lindex:store:id:013
+  city: Umeå
+  country: Sweden
+  latitude: 63.8262172
+  longitude: 20.2612993
+
+- location: Falköping
+  urn: urn:lindex:store:id:122
+  city: Falköping
+  country: Sweden
+  latitude: 58.16132
+  longitude: 13.553277
+
+- location: Oskarshamn
+  urn: urn:lindex:store:id:039
+  city: Oskarshamn
+  country: Sweden
+  latitude: 57.264737
+  longitude: 16.446799
+
+- location: Stjørdal
+  urn: urn:lindex:store:id:258
+  city: Stjørdal
+  country: Norway
+  latitude: 63.4689329
+  longitude: 10.9247501
+
+- location: Valbo
+  urn: urn:lindex:store:id:169
+  city: Gävle
+  country: Sweden
+  latitude: 60.633705
+  longitude: 16.995255
+
+- location: Karlskrona Amiralen
+  urn: urn:lindex:store:id:355
+  city: Lyckeby
+  country: Sweden
+  latitude: 56.196669
+  longitude: 15.64161
+
+- location: Limhamn
+  urn: urn:lindex:store:id:375
+  city: Limhamn
+  country: Sweden
+  latitude: 55.581677
+  longitude: 12.932587
+
+- location: Malmö Kronprinsen
+  urn: urn:lindex:store:id:043
+  city: Malmö
+  country: Sweden
+  latitude: 55.5983367
+  longitude: 12.9817456
+
+- location: Praha, Galerie Harfa
+  urn: urn:lindex:store:id:656
+  city: Praha
+  country: Czech Republic
+  latitude: 50.1037043
+  longitude: 14.4909078
+
+- location: Trollhättan Överby
+  urn: urn:lindex:store:id:140
+  city: Trollhättan
+  country: Sweden
+  latitude: 58.312771
+  longitude: 12.304219
+
+- location: De La Gardie
+  urn: urn:lindex:store:id:504
+  city: Tallinn
+  country: Estonia
+  latitude: 59.4368328
+  longitude: 24.7489685
+
+- location: Åkersberga
+  urn: urn:lindex:store:id:168
+  city: Åkersberga
+  country: Sweden
+  latitude: 59.480203
+  longitude: 18.297322
+
+- location: Liberec, Forum
+  urn: urn:lindex:store:id:653
+  city: Liberec
+  country: Czech Republic
+  latitude: 50.7660413
+  longitude: 15.0558997
+
+- location: Sandefjord
+  urn: urn:lindex:store:id:067
+  city: Sandefjord
+  country: Norway
+  latitude: 59.13102
+  longitude: 10.22511
+
+- location: Umeå Avion Shopping
+  urn: urn:lindex:store:id:398
+  city: Umeå
+  country: Sweden
+  latitude: 63.8077522
+  longitude: 20.2546559
+
+- location: Partille Allum
+  urn: urn:lindex:store:id:365
+  city: Partille
+  country: Sweden
+  latitude: 57.738674
+  longitude: 12.10575
+
+- location: Bodø
+  urn: urn:lindex:store:id:222
+  city: Bodø
+  country: Norway
+  latitude: 67.2838296
+  longitude: 14.3782913
+
+- location: Kotka
+  urn: urn:lindex:store:id:463
+  city: Kotka
+  country: Finland
+  latitude: 60.466654
+  longitude: 26.944613
+
+- location: Växjö City
+  urn: urn:lindex:store:id:020
+  city: Växjö
+  country: Sweden
+  latitude: 56.878842
+  longitude: 14.806029
+
+- location: Kremmergaarden Ålesund
+  urn: urn:lindex:store:id:941
+  city: Ålesund
+  country: Norway
+  latitude: 62.471058
+  longitude: 6.153811
+
+- location: Borås Knallerian
+  urn: urn:lindex:store:id:132
+  city: Borås
+  country: Sweden
+  latitude: 57.73513
+  longitude: 12.937626
+
+- location: Kongsvinger
+  urn: urn:lindex:store:id:289
+  city: Kongsvinger
+  country: Norway
+  latitude: 60.1909347
+  longitude: 11.9962067
+
+- location: Praha, Metropole Zličín
+  urn: urn:lindex:store:id:678
+  city: Praha
+  country: Czech Republic
+  latitude: 50.053291
+  longitude: 14.28755
+
+- location: Egersund
+  urn: urn:lindex:store:id:272
+  city: Egersund
+  country: Norway
+  latitude: 58.4536386
+  longitude: 6.0040219
+
+- location: Iso Omena Espoo
+  urn: urn:lindex:store:id:454
+  city: Espoo
+  country: Finland
+  latitude: 60.1616971
+  longitude: 24.7379489
+
+- location: Egilsstadir
+  urn: urn:lindex:store:id:829
+  city: Egilsstaðir
+  country: Iceland
+  latitude: 65.263349
+  longitude: 14.405158
+
+- location: Eidsvoll
+  urn: urn:lindex:store:id:960
+  city: Råholt
+  country: Norway
+  latitude: 60.2811314
+  longitude: 11.1739161
+
+- location: Aleksanterinkatu 17 Helsinki
+  urn: urn:lindex:store:id:491
+  city: Helsinki
+  country: Finland
+  latitude: 60.168975
+  longitude: 24.943521
+
+- location: Mikkola Pori
+  urn: urn:lindex:store:id:448
+  city: Pori
+  country: Finland
+  latitude: 61.4541749
+  longitude: 21.8392029
+
+- location: Borlänge Kupolen
+  urn: urn:lindex:store:id:172
+  city: Borlänge
+  country: Sweden
+  latitude: 60.4842866
+  longitude: 15.4187327
+
+- location: Stockholm Sergelgatan
+  urn: urn:lindex:store:id:394
+  city: Stockholm
+  country: Sweden
+  latitude: 59.333565
+  longitude: 18.0630866
+
+- location: Nacka Forum
+  urn: urn:lindex:store:id:192
+  city: Nacka
+  country: Sweden
+  latitude: 59.310107
+  longitude: 18.163568
+
+- location: Skövde Elins Esplanad
+  urn: urn:lindex:store:id:106
+  city: Skövde
+  country: Sweden
+  latitude: 58.405408
+  longitude: 13.855419
+
+- location: Karlskrona City
+  urn: urn:lindex:store:id:028
+  city: Karlskrona
+  country: Sweden
+  latitude: 56.162277
+  longitude: 15.584033
+
+- location: Vällingby
+  urn: urn:lindex:store:id:010
+  city: Vällingby
+  country: Sweden
+  latitude: 59.3622277
+  longitude: 17.8740147
+
+- location: Kaunas, Mega
+  urn: urn:lindex:store:id:579
+  city: Kaunas
+  country: Lithuania
+  latitude: 54.939849
+  longitude: 23.8932306
+
+- location: Mölnvik Värmdö
+  urn: urn:lindex:store:id:356
+  city: Gustavsberg
+  country: Sweden
+  latitude: 59.313163
+  longitude: 18.430109
+
+- location: Halmstad Hallarna
+  urn: urn:lindex:store:id:177
+  city: Halmstad
+  country: Sweden
+  latitude: 56.6559217
+  longitude: 12.9100396
+
+- location: Linköping Tornby
+  urn: urn:lindex:store:id:165
+  city: Linköping
+  country: Sweden
+  latitude: 58.432667
+  longitude: 15.586064
+
+- location: Lyngdal
+  urn: urn:lindex:store:id:268
+  city: Lyngdal
+  country: Norway
+  latitude: 58.1378832
+  longitude: 7.0696034
+
+- location: Globen
+  urn: urn:lindex:store:id:130
+  city: Johanneshov
+  country: Sweden
+  latitude: 59.2934517
+  longitude: 18.0806516
+
+- location: Strömstad
+  urn: urn:lindex:store:id:353
+  city: Strömstad
+  country: Sweden
+  latitude: 58.939926
+  longitude: 11.176295
+
+- location: Sudurnes Krossmoi
+  urn: urn:lindex:store:id:899
+  city: Reykjanesbær
+  country: Iceland
+  latitude: 63.99376
+  longitude: -22.54945
+
+- location: Goodman Hämeenlinna
+  urn: urn:lindex:store:id:482
+  city: Hämeenlinna
+  country: Finland
+  latitude: 60.993686
+  longitude: 24.457153
+
+- location: Egilsstadir
+  urn: urn:lindex:store:id:827
+  city: Egilsstaðir
+  country: Iceland
+  latitude: 64.10283
+  longitude: -21.88057
+
+- location: Kristinehamn
+  urn: urn:lindex:store:id:114
+  city: Kristinehamn
+  country: Sweden
+  latitude: 59.308185
+  longitude: 14.110157
+
+- location: Linderud, Oslo
+  urn: urn:lindex:store:id:232
+  city: Oslo
+  country: Norway
+  latitude: 59.942818
+  longitude: 10.835364
+
+- location: Førde
+  urn: urn:lindex:store:id:245
+  city: Førde
+  country: Norway
+  latitude: 61.4514933
+  longitude: 5.8493271
+
+- location: Trio Lahti
+  urn: urn:lindex:store:id:405
+  city: Lahti
+  country: Finland
+  latitude: 60.9830639
+  longitude: 25.6632485
+
+- location: Östersund City
+  urn: urn:lindex:store:id:033
+  city: Östersund
+  country: Sweden
+  latitude: 63.177857
+  longitude: 14.636714
+
+- location: Kongahälla
+  urn: urn:lindex:store:id:308
+  city: Kungälv
+  country: Sweden
+  latitude: 57.873483
+  longitude: 11.967831
+
+- location: Helsingborg Söder
+  urn: urn:lindex:store:id:018
+  city: Helsingborg
+  country: Sweden
+  latitude: 56.040737
+  longitude: 12.701612
+
+- location: Moss
+  urn: urn:lindex:store:id:204
+  city: Moss
+  country: Norway
+  latitude: 59.446912
+  longitude: 10.7037479
+
+- location: Pärnu
+  urn: urn:lindex:store:id:503
+  city: Pärnu
+  country: Estonia
+  latitude: 58.3709803
+  longitude: 24.5513347
+
+- location: Doha Mirqab Mall
+  urn: urn:lindex:store:id:645
+  city: Doha
+  country: Qatar
+  latitude: 25.27314
+  longitude: 51.501536
+
+- location: Lounakeskus, Tartu
+  urn: urn:lindex:store:id:506
+  city: Tartu
+  country: Estonia
+  latitude: 58.3584809
+  longitude: 26.6761838
+
+- location: Märsta Centrum
+  urn: urn:lindex:store:id:300
+  city: Märsta
+  country: Sweden
+  latitude: 59.620285
+  longitude: 17.856052
+
+- location: Gällivare
+  urn: urn:lindex:store:id:008
+  city: Gällivare
+  country: Sweden
+  latitude: 67.134643
+  longitude: 20.661539
+
+- location: Helsingborg Kullagatan
+  urn: urn:lindex:store:id:045
+  city: Helsingborg
+  country: Sweden
+  latitude: 56.047543
+  longitude: 12.693754
+
+- location: Sunndalsøra
+  urn: urn:lindex:store:id:286
+  city: Sunndalsøra
+  country: Norway
+  latitude: 62.6728807
+  longitude: 8.5660367
+
+- location: Uppsala City
+  urn: urn:lindex:store:id:047
+  city: Uppsala
+  country: Sweden
+  latitude: 59.85924
+  longitude: 17.637889
+
+- location: Landskrona
+  urn: urn:lindex:store:id:032
+  city: Landskrona
+  country: Sweden
+  latitude: 55.871219
+  longitude: 12.832943
+
+- location: Mariehamn, Åland
+  urn: urn:lindex:store:id:400
+  city: Mariehamn, Åland
+  country: Finland
+  latitude: 60.099718
+  longitude: 19.942146
+
+- location: Reykjavik, Kringlan
+  urn: urn:lindex:store:id:897
+  city: Reykjavik
+  country: Iceland
+  latitude: 64.13105
+  longitude: -21.893384
+
+- location: Västerås Igor
+  urn: urn:lindex:store:id:349
+  city: Västerås
+  country: Sweden
+  latitude: 59.61176
+  longitude: 16.544581
+
+- location: Ängelholm
+  urn: urn:lindex:store:id:142
+  city: Ängelholm
+  country: Sweden
+  latitude: 56.245261
+  longitude: 12.862968
+
+- location: Matkus Kuopio
+  urn: urn:lindex:store:id:476
+  city: Kuopio
+  country: Finland
+  latitude: 62.8229026
+  longitude: 27.6037743
+
+- location: Lycksele
+  urn: urn:lindex:store:id:386
+  city: Lycksele
+  country: Sweden
+  latitude: 64.595014
+  longitude: 18.677231
+
+- location: Tveita Senter Oslo
+  urn: urn:lindex:store:id:292
+  city: Oslo
+  country: Norway
+  latitude: 59.9140998
+  longitude: 10.8416294
+
+- location: Drøbak
+  urn: urn:lindex:store:id:287
+  city: Drøbak
+  country: Norway
+  latitude: 59.6729266
+  longitude: 10.6585872
+
+- location: Alingsås Vimpeln
+  urn: urn:lindex:store:id:343
+  city: Alingsås
+  country: Sweden
+  latitude: 57.9244237
+  longitude: 12.5449172
+
+- location: Stratford Kids
+  urn: urn:lindex:store:id:792
+  city: London
+  country: United Kingdom
+  latitude: 51.5440834
+  longitude: -0.0078993
+
+- location: Tirana, Ring Centre
+  urn: urn:lindex:store:id:565
+  city: Tirana
+  country: Albania
+  latitude: 41.332535
+  longitude: 19.803817
+
+- location: Hradec Kralove, Futurum
+  urn: urn:lindex:store:id:664
+  city: Hradec Kralove
+  country: Czech Republic
+  latitude: 50.196578
+  longitude: 15.848283
+
+- location: Leira
+  urn: urn:lindex:store:id:291
+  city: Leira
+  country: Norway
+  latitude: 60.97135
+  longitude: 9.2890906
+
+- location: Daugavpils
+  urn: urn:lindex:store:id:549
+  city: Daugavpils
+  country: Latvia
+  latitude: 55.872172
+  longitude: 26.517605
+
+- location: Kvadrat Sandnes
+  urn: urn:lindex:store:id:069
+  city: Sandnes
+  country: Norway
+  latitude: 58.8763917
+  longitude: 5.7221345
+
+- location: Byporten Oslo
+  urn: urn:lindex:store:id:944
+  city: Oslo
+  country: Norway
+  latitude: 59.912313
+  longitude: 10.75089
+
+- location: Ulricehamn
+  urn: urn:lindex:store:id:352
+  city: Ulricehamn
+  country: Sweden
+  latitude: 57.792315
+  longitude: 13.412794
+
+- location: REDI
+  urn: urn:lindex:store:id:490
+  city: Helsinki
+  country: Finland
+  latitude: 60.189612
+  longitude: 24.980923
+
+- location: Olomouc,Galerie Šantovka
+  urn: urn:lindex:store:id:671
+  city: Olomouc
+  country: Czech Republic
+  latitude: 49.588024
+  longitude: 17.2557195
+
+- location: Galleriet, Bergen
+  urn: urn:lindex:store:id:224
+  city: Bergen
+  country: Norway
+  latitude: 60.392917
+  longitude: 5.324409
+
+- location: Kopavogur, Smáralind
+  urn: urn:lindex:store:id:895
+  city: Kópavogur
+  country: Iceland
+  latitude: 64.101555
+  longitude: -21.88474
+
+- location: Vilnius, Ozas
+  urn: urn:lindex:store:id:576
+  city: Vilnius
+  country: Lithuania
+  latitude: 54.713515
+  longitude: 25.273919
+
+- location: Rakvere
+  urn: urn:lindex:store:id:505
+  city: Rakvere
+  country: Estonia
+  latitude: 59.3636749
+  longitude: 26.3392778
+
+- location: Ratina Tampere
+  urn: urn:lindex:store:id:489
+  city: Tampere
+  country: Finland
+  latitude: 61.493045
+  longitude: 23.767601
+
+- location: Entresse Espoo
+  urn: urn:lindex:store:id:471
+  city: Espoo
+  country: Finland
+  latitude: 60.203553
+  longitude: 24.658718
+
+- location: Mostar Mepas Mall
+  urn: urn:lindex:store:id:889
+  city: Mostar
+  country: Bosnia and Herzegovina
+  latitude: 43.34822
+  longitude: 17.80478
+
+- location: Tasta, Stavanger
+  urn: urn:lindex:store:id:955
+  city: Stavanger
+  country: Norway
+  latitude: 58.9844067
+  longitude: 5.6906679
+
+- location: Pristina, Albi mall
+  urn: urn:lindex:store:id:596
+  city: Prishtine
+  country: Kosovo
+  latitude: 42.63264
+  longitude: 21.15209
+
+- location: Martin
+  urn: urn:lindex:store:id:926
+  city: Martin
+  country: Slovakia
+  latitude: 49.062418
+  longitude: 18.920133
+
+- location: Stenungsund
+  urn: urn:lindex:store:id:126
+  city: Stenungsund
+  country: Sweden
+  latitude: 58.070016
+  longitude: 11.819362
+
+- location: Linköping City
+  urn: urn:lindex:store:id:015
+  city: Linköping
+  country: Sweden
+  latitude: 58.41017
+  longitude: 15.625914
+
+- location: Vesturland Akranes
+  urn: urn:lindex:store:id:826
+  city: Akranes Vesturland
+  country: Iceland
+  latitude: 64.32182
+  longitude: -22.06998
+
+- location: Olofström
+  urn: urn:lindex:store:id:133
+  city: Olofström
+  country: Sweden
+  latitude: 56.275127
+  longitude: 14.54394
+
+- location: Ludvika
+  urn: urn:lindex:store:id:125
+  city: Ludvika
+  country: Sweden
+  latitude: 60.149763
+  longitude: 15.186206
+
+- location: Kokkola
+  urn: urn:lindex:store:id:415
+  city: Kokkola
+  country: Finland
+  latitude: 63.836695
+  longitude: 23.128409
+
+- location: Zeppelin Kempele
+  urn: urn:lindex:store:id:424
+  city: Kempele
+  country: Finland
+  latitude: 64.902022
+  longitude: 25.537851
+
+- location: Värnamo
+  urn: urn:lindex:store:id:022
+  city: Värnamo
+  country: Sweden
+  latitude: 57.1842401
+  longitude: 14.0404685
+
+- location: Lielahti Tampere
+  urn: urn:lindex:store:id:481
+  city: Tampere
+  country: Finland
+  latitude: 61.5198279
+  longitude: 23.6692063
+
+- location: Pirkkala Tampere
+  urn: urn:lindex:store:id:457
+  city: Pirkkala (tampere)
+  country: Finland
+  latitude: 61.4673755
+  longitude: 23.7196329
+
+- location: Oslo Grensen
+  urn: urn:lindex:store:id:278
+  city: Oslo
+  country: Norway
+  latitude: 59.91385
+  longitude: 10.74397
+
+- location: Narva, Estonia
+  urn: urn:lindex:store:id:510
+  city: Narva
+  country: Estonia
+  latitude: 59.3809406
+  longitude: 28.175865
+
+- location: Ylivieska
+  urn: urn:lindex:store:id:478
+  city: Ylivieska
+  country: Finland
+  latitude: 64.0630693
+  longitude: 24.5538961
+
+- location: Huskvarna
+  urn: urn:lindex:store:id:374
+  city: Huskvarna
+  country: Sweden
+  latitude: 57.790165
+  longitude: 14.275742
+
+- location: Göteborg Avenyn
+  urn: urn:lindex:store:id:150
+  city: Göteborg
+  country: Sweden
+  latitude: 57.6990471
+  longitude: 11.9761657
+
+- location: Vilnius, GO9
+  urn: urn:lindex:store:id:570
+  city: Vilnius
+  country: Lithuania
+  latitude: 54.687226
+  longitude: 25.281631
+
+- location: Riga Galerija Centrs
+  urn: urn:lindex:store:id:542
+  city: Riga
+  country: Latvia
+  latitude: 56.948015
+  longitude: 24.112717
+
+- location: Bromma
+  urn: urn:lindex:store:id:389
+  city: Bromma
+  country: Sweden
+  latitude: 59.355412
+  longitude: 17.956174
+
+- location: Hamar
+  urn: urn:lindex:store:id:065
+  city: Hamar
+  country: Norway
+  latitude: 60.7943902
+  longitude: 11.0722399
+
+- location: Norrköping Spiralen
+  urn: urn:lindex:store:id:009
+  city: Norrköping
+  country: Sweden
+  latitude: 58.5864558
+  longitude: 16.1907132
+
+- location: Nyköping
+  urn: urn:lindex:store:id:027
+  city: Nyköping
+  country: Sweden
+  latitude: 58.751545
+  longitude: 17.004086
+
+- location: Köping
+  urn: urn:lindex:store:id:019
+  city: Köping
+  country: Sweden
+  latitude: 59.513624
+  longitude: 15.997306
+
+- location: Rauma
+  urn: urn:lindex:store:id:450
+  city: Rauma
+  country: Finland
+  latitude: 61.1301221
+  longitude: 21.5071
+
+- location: Lund Nova
+  urn: urn:lindex:store:id:042
+  city: Lund
+  country: Sweden
+  latitude: 55.713648
+  longitude: 13.160479
+
+- location: Plzen, Olympia
+  urn: urn:lindex:store:id:683
+  city: Plzen
+  country: Czech Republic
+  latitude: 49.7456709
+  longitude: 13.436915
+
+- location: Skövde City
+  urn: urn:lindex:store:id:011
+  city: Skövde
+  country: Sweden
+  latitude: 58.3905315
+  longitude: 13.842931
+
+- location: Alti Harebakken
+  urn: urn:lindex:store:id:251
+  city: Arendal
+  country: Norway
+  latitude: 58.4752
+  longitude: 8.74686
+
+- location: Skärholmen
+  urn: urn:lindex:store:id:052
+  city: Skärholmen
+  country: Sweden
+  latitude: 59.275409
+  longitude: 17.908005
+
+- location: Imatra
+  urn: urn:lindex:store:id:459
+  city: Imatra
+  country: Finland
+  latitude: 61.1709003
+  longitude: 28.7704695
+
+- location: Sarajevo, Importanne
+  urn: urn:lindex:store:id:880
+  city: Sarajevo
+  country: Bosnia and Herzegovina
+  latitude: 43.854988
+  longitude: 18.399504
+
+- location: Forum Helsinki
+  urn: urn:lindex:store:id:443
+  city: Helsinki
+  country: Finland
+  latitude: 60.1692443
+  longitude: 24.9381779
+
+- location: Bratislava, Aupark
+  urn: urn:lindex:store:id:923
+  city: Bratislava
+  country: Slovakia
+  latitude: 48.132637
+  longitude: 17.109207
+
+- location: Göteborg Centralhuset
+  urn: urn:lindex:store:id:310
+  city: Göteborg
+  country: Sweden
+  latitude: 57.709515
+  longitude: 11.972523
+
+- location: Vänersborg
+  urn: urn:lindex:store:id:082
+  city: Vänersborg
+  country: Sweden
+  latitude: 58.380077
+  longitude: 12.323186
+
+- location: Sarajevo City Center
+  urn: urn:lindex:store:id:883
+  city: Sarajevo
+  country: Bosnia and Herzegovina
+  latitude: 43.85563
+  longitude: 18.40809
+
+- location: Tom Center Bijeljina
+  urn: urn:lindex:store:id:893
+  city: Bijeljina
+  country: Bosnia and Herzegovina
+  latitude: 44.76302
+  longitude: 19.20863
+
+- location: Azur City
+  urn: urn:lindex:store:id:531
+  city: Boumhel
+  country: Tunisia
+  latitude: 36.726545
+  longitude: 10.25752
+
+- location: Göteborg Backaplan
+  urn: urn:lindex:store:id:087
+  city: Göteborg
+  country: Sweden
+  latitude: 57.723292
+  longitude: 11.953663
+
+- location: Stockholm Sergels Torg
+  urn: urn:lindex:store:id:049
+  city: Stockholm
+  country: Sweden
+  latitude: 59.3327846
+  longitude: 18.0636908
+
+- location: Örnsköldsvik
+  urn: urn:lindex:store:id:146
+  city: Örnsköldsvik
+  country: Sweden
+  latitude: 63.29063
+  longitude: 18.715577
+
+- location: Östersund Lillänge
+  urn: urn:lindex:store:id:378
+  city: Östersund
+  country: Sweden
+  latitude: 63.174281
+  longitude: 14.692963
+
+- location: Salo
+  urn: urn:lindex:store:id:407
+  city: Salo
+  country: Finland
+  latitude: 60.3862498
+  longitude: 23.1240552
+
+- location: Strømmen
+  urn: urn:lindex:store:id:231
+  city: Strømmen
+  country: Norway
+  latitude: 59.947874
+  longitude: 11.007128
+
+- location: Liepaja
+  urn: urn:lindex:store:id:548
+  city: Liepaja
+  country: Latvia
+  latitude: 56.511419
+  longitude: 21.017037
+
+- location: Lidingö
+  urn: urn:lindex:store:id:178
+  city: Lidingö
+  country: Sweden
+  latitude: 59.3658728
+  longitude: 18.1343607
+
+- location: Motala
+  urn: urn:lindex:store:id:131
+  city: Motala
+  country: Sweden
+  latitude: 58.53684
+  longitude: 15.035498
+
+- location: Göteborg Nordstan
+  urn: urn:lindex:store:id:030
+  city: Göteborg
+  country: Sweden
+  latitude: 57.708084
+  longitude: 11.969339
+
+- location: Larvik
+  urn: urn:lindex:store:id:226
+  city: Larvik
+  country: Norway
+  latitude: 59.0684847
+  longitude: 10.0472659
+
+- location: Västra Frölunda
+  urn: urn:lindex:store:id:036
+  city: Västra Frölunda
+  country: Sweden
+  latitude: 57.6513546
+  longitude: 11.9110119
+
+- location: Molde
+  urn: urn:lindex:store:id:207
+  city: Molde
+  country: Norway
+  latitude: 62.7370853
+  longitude: 7.15850009
+
+- location: City syd, Tiller
+  urn: urn:lindex:store:id:212
+  city: Trondheim
+  country: Norway
+  latitude: 63.3619123
+  longitude: 10.3789421
+
+- location: Karisma Lahti
+  urn: urn:lindex:store:id:475
+  city: Lahti
+  country: Finland
+  latitude: 60.9817488
+  longitude: 25.7365202
+
+- location: Mall of Scandinavia
+  urn: urn:lindex:store:id:396
+  city: Solna
+  country: Sweden
+  latitude: 59.369793
+  longitude: 18.004274
+
+- location: Madla torg, Stavanger
+  urn: urn:lindex:store:id:297
+  city: Hafrsfjord
+  country: Norway
+  latitude: 58.9523241
+  longitude: 5.6788266
+
+- location: Kuopio
+  urn: urn:lindex:store:id:413
+  city: Kuopio
+  country: Finland
+  latitude: 62.890829
+  longitude: 27.676804
+
+- location: Kaunas, Akropolis
+  urn: urn:lindex:store:id:580
+  city: Kaunas
+  country: Lithuania
+  latitude: 54.892493
+  longitude: 23.919246
+
+- location: Bratislava, Bory
+  urn: urn:lindex:store:id:920
+  city: Bratislava
+  country: Slovakia
+  latitude: 48.205544
+  longitude: 17.033573
+
+- location: Revontuli Rovaniemi
+  urn: urn:lindex:store:id:492
+  city: Rovaniemi
+  country: Finland
+  latitude: 66.503478
+  longitude: 25.724158
+
+- location: Tumba
+  urn: urn:lindex:store:id:184
+  city: Tumba
+  country: Sweden
+  latitude: 59.199159
+  longitude: 17.834937
+
+- location: Karlstad Bergvik
+  urn: urn:lindex:store:id:147
+  city: Karlstad
+  country: Sweden
+  latitude: 59.376571
+  longitude: 13.426711
+
+- location: Fredrikstad Torvbyen
+  urn: urn:lindex:store:id:074
+  city: Fredrikstad
+  country: Norway
+  latitude: 59.2145896
+  longitude: 10.9398865
+
+- location: Stockholm Odenplan
+  urn: urn:lindex:store:id:364
+  city: Stockholm
+  country: Sweden
+  latitude: 59.342888
+  longitude: 18.051965
+
+- location: Falkenberg
+  urn: urn:lindex:store:id:189
+  city: Falkenberg
+  country: Sweden
+  latitude: 56.904546
+  longitude: 12.49094
+
+- location: Ronneby
+  urn: urn:lindex:store:id:194
+  city: Ronneby
+  country: Sweden
+  latitude: 56.210244
+  longitude: 15.277857
+
+- location: Hakaniemi Helsinki
+  urn: urn:lindex:store:id:430
+  city: Helsinki
+  country: Finland
+  latitude: 60.1790971
+  longitude: 24.9496264
+
+- location: Örebro Marieberg
+  urn: urn:lindex:store:id:005
+  city: Örebro
+  country: Sweden
+  latitude: 59.217931
+  longitude: 15.13854
+
+- location: Uddevalla Torp
+  urn: urn:lindex:store:id:159
+  city: Uddevalla
+  country: Sweden
+  latitude: 58.354486
+  longitude: 11.811361
+
+- location: Mölnlycke
+  urn: urn:lindex:store:id:345
+  city: Mölnlycke
+  country: Sweden
+  latitude: 57.65887
+  longitude: 12.11692
+
+- location: Jessheim
+  urn: urn:lindex:store:id:254
+  city: Jessheim
+  country: Norway
+  latitude: 60.142964
+  longitude: 11.172755
+
+- location: Avesta
+  urn: urn:lindex:store:id:191
+  city: Avesta
+  country: Sweden
+  latitude: 60.145908
+  longitude: 16.168257
+
+- location: Tammisaari
+  urn: urn:lindex:store:id:462
+  city: Tammisaari
+  country: Finland
+  latitude: 59.976159
+  longitude: 23.437834
+
+- location: Varberg
+  urn: urn:lindex:store:id:024
+  city: Varberg
+  country: Sweden
+  latitude: 57.105499
+  longitude: 12.249856
+
+- location: Jihlava, City Park
+  urn: urn:lindex:store:id:673
+  city: Jihlava
+  country: Czech Republic
+  latitude: 49.392801
+  longitude: 15.593314
+
+- location: Nybro
+  urn: urn:lindex:store:id:119
+  city: Nybro
+  country: Sweden
+  latitude: 56.744087
+  longitude: 15.906283
+
+- location: Gjøvik
+  urn: urn:lindex:store:id:203
+  city: Gjøvik
+  country: Norway
+  latitude: 60.7999625
+  longitude: 10.6934228
+
+- location: Pardubice , Atrium Palác
+  urn: urn:lindex:store:id:674
+  city: Pardubice
+  country: Czech Republic
+  latitude: 50.038041
+  longitude: 15.76833
+
+- location: Trollhättan City
+  urn: urn:lindex:store:id:056
+  city: Trollhättan
+  country: Sweden
+  latitude: 58.284818
+  longitude: 12.291411
+
+- location: Zlín, Centro
+  urn: urn:lindex:store:id:670
+  city: Zlín
+  country: Czech Republic
+  latitude: 49.2037246
+  longitude: 17.5724719
+
+- location: Luleå Storheden
+  urn: urn:lindex:store:id:188
+  city: Luleå
+  country: Sweden
+  latitude: 65.618666
+  longitude: 22.041546
+
+- location: Pietarsaari
+  urn: urn:lindex:store:id:406
+  city: Pietarsaari
+  country: Finland
+  latitude: 63.6749703
+  longitude: 22.701207
+
+- location: Vimmerby
+  urn: urn:lindex:store:id:152
+  city: Vimmerby
+  country: Sweden
+  latitude: 57.666733
+  longitude: 15.853695
+
+- location: Sollefteå
+  urn: urn:lindex:store:id:369
+  city: Sollefteå
+  country: Sweden
+  latitude: 63.167382
+  longitude: 17.268863
+
+- location: Stockholm Liljeholms Torg
+  urn: urn:lindex:store:id:384
+  city: Stockholm
+  country: Sweden
+  latitude: 59.30983
+  longitude: 18.022023
+
+- location: Metro Senter
+  urn: urn:lindex:store:id:943
+  city: Lørenskog
+  country: Norway
+  latitude: 59.927737
+  longitude: 10.960474
+
+- location: Sello Espoo
+  urn: urn:lindex:store:id:458
+  city: Espoo
+  country: Finland
+  latitude: 60.2177297
+  longitude: 24.8122364
+
+- location: Gulskogen, Drammen
+  urn: urn:lindex:store:id:201
+  city: Drammen
+  country: Norway
+  latitude: 59.742603
+  longitude: 10.15805
+
+- location: Eksjö
+  urn: urn:lindex:store:id:383
+  city: Eksjö
+  country: Sweden
+  latitude: 57.664868
+  longitude: 14.973077
+
+- location: Nivy Bratislava
+  urn: urn:lindex:store:id:928
+  city: Bratislava
+  country: Slovakia
+  latitude: 48.146491
+  longitude: 17.127119
+
+- location: Banja Luka Delta Planet
+  urn: urn:lindex:store:id:892
+  city: Banja Luka
+  country: Bosnia and Herzegovina
+  latitude: 44.78011
+  longitude: 17.20704
+
+- location: Bratislava, Vivo!
+  urn: urn:lindex:store:id:917
+  city: Bratislava
+  country: Slovakia
+  latitude: 48.168433
+  longitude: 17.139873
+
+- location: Kalmar Giraffen
+  urn: urn:lindex:store:id:371
+  city: Kalmar
+  country: Sweden
+  latitude: 56.670435
+  longitude: 16.338393
+
+- location: Harstad Alti
+  urn: urn:lindex:store:id:075
+  city: Harstad
+  country: Norway
+  latitude: 68.79901
+  longitude: 16.54678
+
+- location: Malmö Triangeln
+  urn: urn:lindex:store:id:393
+  city: Malmö
+  country: Sweden
+  latitude: 55.595311
+  longitude: 13.001243
+
+- location: Vetlanda
+  urn: urn:lindex:store:id:077
+  city: Vetlanda
+  country: Sweden
+  latitude: 57.425566
+  longitude: 15.086482
+
+- location: Lillestrøm
+  urn: urn:lindex:store:id:073
+  city: Lillestrøm
+  country: Norway
+  latitude: 59.9563288
+  longitude: 11.0503407
+
+- location: Novi Sad Promenada Mall
+  urn: urn:lindex:store:id:590
+  city: Novi Sad
+  country: Serbia
+  latitude: 45.24531
+  longitude: 19.84361
+
+- location: Västervik
+  urn: urn:lindex:store:id:139
+  city: Västervik
+  country: Sweden
+  latitude: 57.757811
+  longitude: 16.639652
+
+- location: Vestkanten, Loddefjo
+  urn: urn:lindex:store:id:230
+  city: Loddefjord
+  country: Norway
+  latitude: 60.3634747
+  longitude: 5.2340873
+
+- location: Kalmar Hansa
+  urn: urn:lindex:store:id:388
+  city: Kalmar
+  country: Sweden
+  latitude: 56.687049
+  longitude: 16.320158
+
+- location: Liertoppen
+  urn: urn:lindex:store:id:225
+  city: Lierskogen
+  country: Norway
+  latitude: 59.81138
+  longitude: 10.30598
+
+- location: Eslöv
+  urn: urn:lindex:store:id:101
+  city: Eslöv
+  country: Sweden
+  latitude: 55.840232
+  longitude: 13.302941
+
+- location: Malmö Mobilia
+  urn: urn:lindex:store:id:017
+  city: Malmö
+  country: Sweden
+  latitude: 55.580272
+  longitude: 13.0046303
+
+- location: Westfield Shepherd's Bush
+  urn: urn:lindex:store:id:791
+  city: London
+  country: United Kingdom
+  latitude: 51.5067365
+  longitude: -0.2248838
+
+- location: Tuzla, Bingo City Centar
+  urn: urn:lindex:store:id:885
+  city: Tuzla
+  country: Bosnia and Herzegovina
+  latitude: 44.538867
+  longitude: 18.66464
+
+- location: Maxi Sandnes
+  urn: urn:lindex:store:id:940
+  city: Sandnes
+  country: Norway
+  latitude: 58.848104
+  longitude: 5.740135
+
+- location: Kinna
+  urn: urn:lindex:store:id:103
+  city: Kinna
+  country: Sweden
+  latitude: 57.506988
+  longitude: 12.69265
+
+- location: Lund Klosterg
+  urn: urn:lindex:store:id:304
+  city: Lund
+  country: Sweden
+  latitude: 55.704098
+  longitude: 13.190795
+
+- location: Katrineholm
+  urn: urn:lindex:store:id:038
+  city: Katrineholm
+  country: Sweden
+  latitude: 58.994191
+  longitude: 16.209847
+
+- location: Hyvinkää
+  urn: urn:lindex:store:id:440
+  city: Hyvinkää
+  country: Finland
+  latitude: 60.6322277
+  longitude: 24.8639854
+
+- location: Itis Helsinki
+  urn: urn:lindex:store:id:419
+  city: Helsinki
+  country: Finland
+  latitude: 60.212016
+  longitude: 25.083057
+
+- location: Ylöjärvi
+  urn: urn:lindex:store:id:472
+  city: Ylöjärvi
+  country: Finland
+  latitude: 61.5575647
+  longitude: 23.5695847
+
+- location: Sollentuna C
+  urn: urn:lindex:store:id:157
+  city: Sollentuna
+  country: Sweden
+  latitude: 59.428336
+  longitude: 17.952106
+
+- location: Nitra, Mlyny
+  urn: urn:lindex:store:id:915
+  city: Nitra
+  country: Slovakia
+  latitude: 48.3070269
+  longitude: 18.0864453
+
+- location: Akropolis Klaipeda
+  urn: urn:lindex:store:id:582
+  city: Klaipėda
+  country: Lithuania
+  latitude: 55.4135
+  longitude: 21.09244
+
+- location: Teplice, Galerie Teplice
+  urn: urn:lindex:store:id:672
+  city: Teplice
+  country: Czech Republic
+  latitude: 50.6404
+  longitude: 13.8239
+
+- location: Sørlandssenteret
+  urn: urn:lindex:store:id:217
+  city: Kristiansand
+  country: Norway
+  latitude: 58.1798227
+  longitude: 8.131512
+
+- location: Valmiera
+  urn: urn:lindex:store:id:546
+  city: Valmiera
+  country: Latvia
+  latitude: 57.5384166
+  longitude: 25.4237599
+
+- location: Arvika
+  urn: urn:lindex:store:id:079
+  city: Arvika
+  country: Sweden
+  latitude: 59.655357
+  longitude: 12.592662
+
+- location: Kongsberg
+  urn: urn:lindex:store:id:243
+  city: Kongsberg
+  country: Norway
+  latitude: 59.6685128
+  longitude: 9.65275
+
+- location: Växjö Grand Samarkand
+  urn: urn:lindex:store:id:136
+  city: Växjö
+  country: Sweden
+  latitude: 56.884842
+  longitude: 14.766025
+
+- location: Pärnukeskus, Pärnu
+  urn: urn:lindex:store:id:509
+  city: Pärnu
+  country: Estonia
+  latitude: 58.387399
+  longitude: 24.501347
+
+- location: Alingsås Storken
+  urn: urn:lindex:store:id:003
+  city: Alingsås
+  country: Sweden
+  latitude: 57.929998
+  longitude: 12.536419
+
+- location: Lerum
+  urn: urn:lindex:store:id:083
+  city: Lerum
+  country: Sweden
+  latitude: 57.751594
+  longitude: 12.248306
+
+- location: Skellefteå Solbacken
+  urn: urn:lindex:store:id:390
+  city: Skellefteå
+  country: Sweden
+  latitude: 64.764349
+  longitude: 21.023113
+
+- location: Belgrade ADA mall
+  urn: urn:lindex:store:id:591
+  city: New Belgrade
+  country: Serbia
+  latitude: 44.7875
+  longitude: 20.41848
+
+- location: Østfoldhallen, Fredrikstad
+  urn: urn:lindex:store:id:229
+  city: Fredrikstad
+  country: Norway
+  latitude: 59.2519118
+  longitude: 10.9934537
+
+- location: RYO Panevezys
+  urn: urn:lindex:store:id:571
+  city: Panevezys
+  country: Lithuania
+  latitude: 55.7292584
+  longitude: 24.3128646
+
+- location: Vilnius Akropolis
+  urn: urn:lindex:store:id:572
+  city: Vilnius
+  country: Lithuania
+  latitude: 54.709959
+  longitude: 25.261829
+
+- location: Kalmar Storgatan
+  urn: urn:lindex:store:id:021
+  city: Kalmar
+  country: Sweden
+  latitude: 56.663207
+  longitude: 16.362243
+
+- location: Kladno, Central
+  urn: urn:lindex:store:id:676
+  city: Kladno
+  country: Czech Republic
+  latitude: 50.142638
+  longitude: 14.102656
+
+- location: Main Street Paola
+  urn: urn:lindex:store:id:780
+  city: Paola
+  country: Malta
+  latitude: 35.872969
+  longitude: 14.507486
+
+- location: Bratislava Avion
+  urn: urn:lindex:store:id:927
+  city: Bratislava
+  country: Slovakia
+  latitude: 48.166947
+  longitude: 17.180123
+
+- location: Kaari Helsinki
+  urn: urn:lindex:store:id:474
+  city: Helsinki
+  country: Finland
+  latitude: 60.237404
+  longitude: 24.890943
+
+- location: Praha, Nový Smíchov
+  urn: urn:lindex:store:id:667
+  city: Praha
+  country: Czech Republic
+  latitude: 50.0722027
+  longitude: 14.4029441
+
+- location: Nässjö
+  urn: urn:lindex:store:id:092
+  city: Nässjö
+  country: Sweden
+  latitude: 57.6544671
+  longitude: 14.6943189
+
+- location: Karlstad 15-huset
+  urn: urn:lindex:store:id:050
+  city: Karlstad
+  country: Sweden
+  latitude: 59.379069
+  longitude: 13.502289
+
+- location: Stord
+  urn: urn:lindex:store:id:256
+  city: Stord
+  country: Norway
+  latitude: 59.7785818
+  longitude: 5.4994227
+
+- location: Enköping
+  urn: urn:lindex:store:id:134
+  city: Enköping
+  country: Sweden
+  latitude: 59.635083
+  longitude: 17.079175
+
+- location: Buskerud Storsenter
+  urn: urn:lindex:store:id:220
+  city: Krokstadelva
+  country: Norway
+  latitude: 59.756484
+  longitude: 10.000225
+
+- location: Stockholm Ringen
+  urn: urn:lindex:store:id:054
+  city: Stockholm
+  country: Sweden
+  latitude: 59.3081016
+  longitude: 18.0740144
+
+- location: Södertälje Vasa
+  urn: urn:lindex:store:id:342
+  city: Södertälje
+  country: Sweden
+  latitude: 59.187176
+  longitude: 17.575898
+
+- location: Porvoo
+  urn: urn:lindex:store:id:441
+  city: Porvoo
+  country: Finland
+  latitude: 60.39341
+  longitude: 25.66219
+
+- location: Oulu Keskusta
+  urn: urn:lindex:store:id:488
+  city: Oulu
+  country: Finland
+  latitude: 65.011685
+  longitude: 25.470322
+
+- location: Malmö Jägersro
+  urn: urn:lindex:store:id:055
+  city: Malmö
+  country: Sweden
+  latitude: 55.570508
+  longitude: 13.058041
+
+- location: Mylly Turku
+  urn: urn:lindex:store:id:455
+  city: Raisio
+  country: Finland
+  latitude: 60.4907012
+  longitude: 22.2015027
+
+- location: Belgrade Rajiceva
+  urn: urn:lindex:store:id:589
+  city: Belgrade
+  country: Serbia
+  latitude: 44.82014
+  longitude: 20.4543
+
+- location: Sirkus Shopping, Trondheim
+  urn: urn:lindex:store:id:957
+  city: Trondheim
+  country: Norway
+  latitude: 63.43627
+  longitude: 10.455996
+
+- location: Karlshamn
+  urn: urn:lindex:store:id:023
+  city: Karlshamn
+  country: Sweden
+  latitude: 56.171982
+  longitude: 14.860656
+
+- location: Falun
+  urn: urn:lindex:store:id:117
+  city: Falun
+  country: Sweden
+  latitude: 60.605681
+  longitude: 15.631554
+
+- location: Bergen Storsenter
+  urn: urn:lindex:store:id:264
+  city: Bergen
+  country: Norway
+  latitude: 60.3893741
+  longitude: 5.3327081
+
+- location: Åsane
+  urn: urn:lindex:store:id:202
+  city: Nyborg
+  country: Norway
+  latitude: 60.47045
+  longitude: 5.32314
+
+- location: Kolbotn Torg
+  urn: urn:lindex:store:id:958
+  city: Kolbotn
+  country: Norway
+  latitude: 59.809956
+  longitude: 10.79999
+
+- location: Hudiksvall
+  urn: urn:lindex:store:id:129
+  city: Hudiksvall
+  country: Sweden
+  latitude: 61.729206
+  longitude: 17.10286
+
+- location: Kungsbacka
+  urn: urn:lindex:store:id:096
+  city: Kungsbacka
+  country: Sweden
+  latitude: 57.492532
+  longitude: 12.074688
+
+- location: Praha, Atrium Flora
+  urn: urn:lindex:store:id:675
+  city: Praha
+  country: Czech Republic
+  latitude: 50.0782928
+  longitude: 14.4612969
+
+- location: Mjölby
+  urn: urn:lindex:store:id:108
+  city: Mjölby
+  country: Sweden
+  latitude: 58.326409
+  longitude: 15.125881
+
+- location: Uppsala Gränby
+  urn: urn:lindex:store:id:185
+  city: Uppsala
+  country: Sweden
+  latitude: 59.8772025
+  longitude: 17.6738585
+
+- location: Västerås Erikslund
+  urn: urn:lindex:store:id:348
+  city: Västerås
+  country: Sweden
+  latitude: 59.609299
+  longitude: 16.454909
+
+- location: Tasku, Tartu
+  urn: urn:lindex:store:id:508
+  city: Tartu
+  country: Estonia
+  latitude: 58.3776731
+  longitude: 26.7305032
+
+- location: Majorstua, Oslo
+  urn: urn:lindex:store:id:236
+  city: Oslo
+  country: Norway
+  latitude: 59.926958
+  longitude: 10.720199
+
+- location: Trondheim
+  urn: urn:lindex:store:id:205
+  city: Trondheim
+  country: Norway
+  latitude: 63.432616
+  longitude: 10.393436
+
+- location: Skellefteå City
+  urn: urn:lindex:store:id:058
+  city: Skellefteå
+  country: Sweden
+  latitude: 64.751342
+  longitude: 20.95295
+
+- location: Bodø City Nord
+  urn: urn:lindex:store:id:963
+  city: Bodø
+  country: Norway
+  latitude: 67.277482
+  longitude: 14.423669
+
+- location: Linköping Ekholmen
+  urn: urn:lindex:store:id:347
+  city: Linköping
+  country: Sweden
+  latitude: 58.38053
+  longitude: 15.681348
+
+- location: Alti Arendal
+  urn: urn:lindex:store:id:260
+  city: Arendal
+  country: Norway
+  latitude: 58.4593956
+  longitude: 8.76257568
+
+- location: Praha, Palladium
+  urn: urn:lindex:store:id:677
+  city: Praha
+  country: Czech Republic
+  latitude: 50.089144
+  longitude: 14.428534
+
+- location: Belgrade Beo Mall
+  urn: urn:lindex:store:id:593
+  city: Belgrad
+  country: Serbia
+  latitude: 44.784434
+  longitude: 20.500857
+
+- location: Nynäshamn
+  urn: urn:lindex:store:id:373
+  city: Nynäshamn
+  country: Sweden
+  latitude: 58.903783
+  longitude: 17.947163
+
+- location: Haninge Port 73
+  urn: urn:lindex:store:id:382
+  city: Haninge
+  country: Sweden
+  latitude: 59.179419
+  longitude: 18.14921
+
+- location: Ainoa Espoo
+  urn: urn:lindex:store:id:486
+  city: Espoo
+  country: Finland
+  latitude: 60.17632
+  longitude: 24.805217
+
+- location: Sarpsborg
+  urn: urn:lindex:store:id:060
+  city: Sarpsborg
+  country: Norway
+  latitude: 59.283514
+  longitude: 11.107479
+
+- location: Vuosaari Helsinki
+  urn: urn:lindex:store:id:433
+  city: Helsinki
+  country: Finland
+  latitude: 60.2073724
+  longitude: 25.1450585
+
+- location: Hønefoss
+  urn: urn:lindex:store:id:206
+  city: Hønefoss
+  country: Norway
+  latitude: 60.1647549
+  longitude: 10.2542539
+
+- location: Kouvola
+  urn: urn:lindex:store:id:436
+  city: Kouvola
+  country: Finland
+  latitude: 60.8694548
+  longitude: 26.7040289
+
+- location: Göteborg Eriksberg
+  urn: urn:lindex:store:id:376
+  city: Göteborg
+  country: Sweden
+  latitude: 57.708492
+  longitude: 11.919469
+
+- location: Boden
+  urn: urn:lindex:store:id:196
+  city: Boden
+  country: Sweden
+  latitude: 65.8241
+  longitude: 21.687686
+
+- location: Lillehammer
+  urn: urn:lindex:store:id:228
+  city: Lillehammer
+  country: Norway
+  latitude: 61.1146871
+  longitude: 10.4514194
+
+- location: Kristianstad City
+  urn: urn:lindex:store:id:007
+  city: Kristianstad
+  country: Sweden
+  latitude: 56.029715
+  longitude: 14.157531
+
+- location: Strängnäs
+  urn: urn:lindex:store:id:137
+  city: Strängnäs
+  country: Sweden
+  latitude: 59.376399
+  longitude: 17.026914
+
+- location: Pristina Rexhep Luci
+  urn: urn:lindex:store:id:598
+  city: Kosovo
+  country: Kosovo
+  latitude: 11.1111111
+  longitude: 11.1111111
+
+- location: Myyrmäki Vantaa
+  urn: urn:lindex:store:id:423
+  city: Vantaa
+  country: Finland
+  latitude: 60.2601432
+  longitude: 24.8534583
+
+- location: Ústí nad Labem, Forum
+  urn: urn:lindex:store:id:654
+  city: Ústí Nad Labem
+  country: Czech Republic
+  latitude: 50.658698
+  longitude: 14.041058
+
+- location: Lidköping
+  urn: urn:lindex:store:id:041
+  city: Lidköping
+  country: Sweden
+  latitude: 58.504549
+  longitude: 13.155283
+
+- location: Borås City
+  urn: urn:lindex:store:id:094
+  city: Borås
+  country: Sweden
+  latitude: 57.72058
+  longitude: 12.939393
+
+- location: Ystad
+  urn: urn:lindex:store:id:059
+  city: Ystad
+  country: Sweden
+  latitude: 55.4294881
+  longitude: 13.8206726
+
+- location: Säffle
+  urn: urn:lindex:store:id:181
+  city: Säffle
+  country: Sweden
+  latitude: 59.132654
+  longitude: 12.929124
+
+- location: Sartor
+  urn: urn:lindex:store:id:961
+  city: Straume
+  country: Norway
+  latitude: 60.358637
+  longitude: 5.124785
+
+- location: Bergen Askøy
+  urn: urn:lindex:store:id:275
+  city: Kleppestø
+  country: Norway
+  latitude: 60.410259
+  longitude: 5.22709
+
+- location: Jekta Tromsø
+  urn: urn:lindex:store:id:248
+  city: Tromsø
+  country: Norway
+  latitude: 69.6745303
+  longitude: 18.9210001
+
+- location: Fornebu S KIDS
+  urn: urn:lindex:store:id:942
+  city: Fornebu
+  country: Norway
+  latitude: 59.893654
+  longitude: 10.619928
+
+- location: Västerås Hälla
+  urn: urn:lindex:store:id:025
+  city: Västerås
+  country: Sweden
+  latitude: 59.6103761
+  longitude: 16.6211831
+
+- location: Ljungby
+  urn: urn:lindex:store:id:145
+  city: Ljungby
+  country: Sweden
+  latitude: 56.835044
+  longitude: 13.941302
+
+- location: Mellbystrand
+  urn: urn:lindex:store:id:097
+  city: Mellbystrand
+  country: Sweden
+  latitude: 56.503114
+  longitude: 12.956307
+
+- location: Luleå Smedjan
+  urn: urn:lindex:store:id:084
+  city: Luleå
+  country: Sweden
+  latitude: 65.583925
+  longitude: 22.152958
+
+- location: Alta
+  urn: urn:lindex:store:id:280
+  city: Alta
+  country: Norway
+  latitude: 69.9654997
+  longitude: 23.2720241
+
+- location: Magasinet Drammen
+  urn: urn:lindex:store:id:070
+  city: Drammen
+  country: Norway
+  latitude: 59.742892
+  longitude: 10.206923
+
+- location: Vormsund
+  urn: urn:lindex:store:id:298
+  city: Vormsund
+  country: Norway
+  latitude: 60.1511657
+  longitude: 11.4105906
+
+- location: Bålsta
+  urn: urn:lindex:store:id:104
+  city: Bålsta
+  country: Sweden
+  latitude: 59.56718
+  longitude: 17.53006
+
+- location: Belgrade, Mercator Centar
+  urn: urn:lindex:store:id:585
+  city: Belgrade
+  country: Serbia
+  latitude: 44.817422
+  longitude: 20.41272
+
+- location: Hallsberg
+  urn: urn:lindex:store:id:138
+  city: Hallsberg
+  country: Sweden
+  latitude: 59.065671
+  longitude: 15.109458
+
+- location: Solna Centrum
+  urn: urn:lindex:store:id:151
+  city: Solna
+  country: Sweden
+  latitude: 59.359161
+  longitude: 18.001655
+
+- location: Höllviken
+  urn: urn:lindex:store:id:387
+  city: Höllviken
+  country: Sweden
+  latitude: 55.426316
+  longitude: 12.965375
+
+- location: Praha, Letňany
+  urn: urn:lindex:store:id:679
+  city: Praha
+  country: Czech Republic
+  latitude: 50.136561
+  longitude: 14.502472
+
+- location: Akureyri, Glerartorg
+  urn: urn:lindex:store:id:896
+  city: Akureyri
+  country: Iceland
+  latitude: 65.689603
+  longitude: -18.10312
+
+- location: Vilnius, Panorama
+  urn: urn:lindex:store:id:578
+  city: Vilnius
+  country: Lithuania
+  latitude: 54.7003939
+  longitude: 25.2577801
+
+- location: Löddeköpinge
+  urn: urn:lindex:store:id:144
+  city: Löddeköpinge
+  country: Sweden
+  latitude: 55.769118
+  longitude: 12.990325
+
+- location: Brno, Olympia
+  urn: urn:lindex:store:id:650
+  city: Brno (modřice)
+  country: Czech Republic
+  latitude: 49.1381282
+  longitude: 16.6330227
+
+- location: Järvenpää
+  urn: urn:lindex:store:id:444
+  city: Järvenpää
+  country: Finland
+  latitude: 60.470603
+  longitude: 25.08447
+
+- location: Banja Luka, Boska Centar
+  urn: urn:lindex:store:id:882
+  city: Banja Luka
+  country: Bosnia and Herzegovina
+  latitude: 44.772251
+  longitude: 17.191059
+
+- location: Košice, Optima
+  urn: urn:lindex:store:id:919
+  city: Košice
+  country: Slovakia
+  latitude: 48.6967883
+  longitude: 21.2359472
+
+- location: Vaasa
+  urn: urn:lindex:store:id:426
+  city: Vaasa
+  country: Finland
+  latitude: 63.097028
+  longitude: 21.6163711
+
+- location: Savonlinna
+  urn: urn:lindex:store:id:418
+  city: Savonlinna
+  country: Finland
+  latitude: 61.870252
+  longitude: 28.8770428
+
+- location: Poprad, Forum
+  urn: urn:lindex:store:id:922
+  city: Poprad
+  country: Slovakia
+  latitude: 49.0539
+  longitude: 20.298
+
+- location: Moa Ålesund
+  urn: urn:lindex:store:id:242
+  city: Ålesund
+  country: Norway
+  latitude: 62.465964
+  longitude: 6.355709
+
+- location: Färjestaden
+  urn: urn:lindex:store:id:141
+  city: Färjestaden
+  country: Sweden
+  latitude: 56.652064
+  longitude: 16.46993
+
+- location: Sandvika Storsenter
+  urn: urn:lindex:store:id:253
+  city: Sandvika
+  country: Norway
+  latitude: 59.8899514
+  longitude: 10.5205397
+
+- location: Stockholm Hötorget
+  urn: urn:lindex:store:id:176
+  city: Stockholm
+  country: Sweden
+  latitude: 59.335092
+  longitude: 18.061185
+
+- location: Ideapark Lempäälä
+  urn: urn:lindex:store:id:464
+  city: Lempäälä
+  country: Finland
+  latitude: 61.361545
+  longitude: 23.7953074
+
+- location: Högsbo 421
+  urn: urn:lindex:store:id:372
+  city: Västra Frölunda
+  country: Sweden
+  latitude: 57.650593
+  longitude: 11.94953
+
+- location: Lagunen
+  urn: urn:lindex:store:id:076
+  city: Bergen
+  country: Norway
+  latitude: 60.2969511
+  longitude: 5.3301663
+
+- location: Brotorvet, Brevik
+  urn: urn:lindex:store:id:952
+  city: Stathelle
+  country: Norway
+  latitude: 59.0450318
+  longitude: 9.6944631
+
+- location: Tranås
+  urn: urn:lindex:store:id:078
+  city: Tranås
+  country: Sweden
+  latitude: 58.036131
+  longitude: 14.97681
+
+- location: Eskilstuna Tuna Park
+  urn: urn:lindex:store:id:358
+  city: Eskilstuna
+  country: Sweden
+  latitude: 59.3715785
+  longitude: 16.471461
+
+- location: Amfi os, Bergen
+  urn: urn:lindex:store:id:216
+  city: Os
+  country: Norway
+  latitude: 60.202279
+  longitude: 5.456558

@@ -1,0 +1,331 @@
+meta:
+  name: Jack & Jones
+  web: null
+  wikipedia: null
+  category: null
+  locations: 54
+
+locations:
+- location: Jönköping - Asecs
+  urn: urn:jackandjones:store:id:5356
+  city: Jönköping
+  latitude: 57.77330017089844
+  longitude: 14.203399658203125
+
+- location: Falkenberg - Stortorget
+  urn: urn:jackandjones:store:id:10281
+  city: Falkenberg
+  latitude: 56.905399322509766
+  longitude: 12.49120044708252
+
+- location: Gävle
+  urn: urn:jackandjones:store:id:2391
+  city: Gävle
+  latitude: 60.67409896850586
+  longitude: 17.13990020751953
+
+- location: Stockholm - Glashuset
+  urn: urn:jackandjones:store:id:2508
+  city: Stockholm
+  latitude: 59.33430099487305
+  longitude: 18.060699462890625
+
+- location: Skärholmen
+  urn: urn:jackandjones:store:id:2523
+  city: Skärholmen
+  latitude: 59.27519989013672
+  longitude: 17.907400131225586
+
+- location: Piteå
+  urn: urn:jackandjones:store:id:2607
+  city: Piteå
+  latitude: 65.31590270996094
+  longitude: 21.481800079345703
+
+- location: Torp
+  urn: urn:jackandjones:store:id:10330
+  city: Uddevalla
+  latitude: 58.354000091552734
+  longitude: 11.81089973449707
+
+- location: Östersund - Mittpunkten
+  urn: urn:jackandjones:store:id:2699
+  city: Östersund
+  latitude: 63.175201416015625
+  longitude: 14.638999938964844
+
+- location: Nordstan Göteborg
+  urn: urn:jackandjones:store:id:2707
+  city: Göteborg
+  latitude: 57.70750045776367
+  longitude: 11.969499588012695
+
+- location: Norrköping - Ingelsta
+  urn: urn:jackandjones:store:id:2726
+  city: Norrköping
+  latitude: 58.61869812011719
+  longitude: 16.156999588012695
+
+- location: Västerås - Igor
+  urn: urn:jackandjones:store:id:2747
+  city: Västerås
+  latitude: 59.61180114746094
+  longitude: 16.544599533081055
+
+- location: Valbo
+  urn: urn:jackandjones:store:id:2794
+  city: Valbo
+  latitude: 60.633201599121094
+  longitude: 16.993900299072266
+
+- location: Farsta
+  urn: urn:jackandjones:store:id:2825
+  city: Farsta
+  latitude: 59.204898834228516
+  longitude: 18.151599884033203
+
+- location: Birsta - Sundsvall
+  urn: urn:jackandjones:store:id:2862
+  city: Sundsvall
+  latitude: 62.446998596191406
+  longitude: 17.335899353027344
+
+- location: Mall of Scandinavia, Solna
+  urn: urn:jackandjones:store:id:2866
+  city: Solna
+  latitude: 59.36980056762695
+  longitude: 18.0039005279541
+
+- location: Bromma
+  urn: urn:jackandjones:store:id:2877
+  city: Bromma
+  latitude: 59.35580062866211
+  longitude: 17.955400466918945
+
+- location: Kristianstad - C4 Shopping
+  urn: urn:jackandjones:store:id:2887
+  city: Kristianstad
+  latitude: 56.02560043334961
+  longitude: 14.20009994506836
+
+- location: Partille - Allum Köpcentrum
+  urn: urn:jackandjones:store:id:2911
+  city: Partille
+  latitude: 57.739200592041016
+  longitude: 12.106200218200684
+
+- location: Täby
+  urn: urn:jackandjones:store:id:3022
+  city: Täby
+  latitude: 59.44490051269531
+  longitude: 18.072399139404297
+
+- location: Väla
+  urn: urn:jackandjones:store:id:3025
+  city: Ödåkra
+  latitude: 56.09109878540039
+  longitude: 12.75510025024414
+
+- location: Kungsmässan
+  urn: urn:jackandjones:store:id:3026
+  city: Kungsbacka
+  latitude: 57.49169921875
+  longitude: 12.07450008392334
+
+- location: Ikano
+  urn: urn:jackandjones:store:id:3028
+  city: Linköping
+  latitude: 58.43280029296875
+  longitude: 15.588600158691406
+
+- location: Linköping
+  urn: urn:jackandjones:store:id:3029
+  city: Linköping
+  latitude: 58.410301208496094
+  longitude: 15.622400283813477
+
+- location: Skellefteå
+  urn: urn:jackandjones:store:id:3057
+  city: Skellefteå
+  latitude: 64.7500991821289
+  longitude: 20.95439910888672
+
+- location: Novalund
+  urn: urn:jackandjones:store:id:3059
+  city: Lund
+  latitude: 55.714298248291016
+  longitude: 13.159899711608887
+
+- location: Eskilstuna - Tuna Park
+  urn: urn:jackandjones:store:id:3074
+  city: Eskilstuna
+  latitude: 59.371700286865234
+  longitude: 16.468799591064453
+
+- location: Borlänge
+  urn: urn:jackandjones:store:id:3105
+  city: Borlänge
+  latitude: 60.48429870605469
+  longitude: 15.418399810791016
+
+- location: Värnamo
+  urn: urn:jackandjones:store:id:10030
+  city: Värnamo
+  latitude: 57.18519973754883
+  longitude: 14.040800094604492
+
+- location: Gränby
+  urn: urn:jackandjones:store:id:3145
+  city: Uppsala
+  latitude: 59.87730026245117
+  longitude: 17.674100875854492
+
+- location: Norrköping - Spiralen
+  urn: urn:jackandjones:store:id:3545
+  city: Norrköping
+  latitude: 58.58599853515625
+  longitude: 16.189599990844727
+
+- location: Lidköping
+  urn: urn:jackandjones:store:id:10033
+  city: Lidköping
+  latitude: 58.50450134277344
+  longitude: 13.154600143432617
+
+- location: Frölunda Torg
+  urn: urn:jackandjones:store:id:3576
+  city: Västra Frölunda
+  latitude: 57.6515998840332
+  longitude: 11.911800384521484
+
+- location: Backaplan
+  urn: urn:jackandjones:store:id:10417
+  city: Göteborg
+  latitude: 57.72159957885742
+  longitude: 11.951600074768066
+
+- location: Växjö Samarkand
+  urn: urn:jackandjones:store:id:10421
+  city: Växjö
+  latitude: 56.8848991394043
+  longitude: 14.766300201416016
+
+- location: Malmö - Emporia
+  urn: urn:jackandjones:store:id:3728
+  city: Malmö
+  latitude: 55.56449890136719
+  longitude: 12.973400115966797
+
+- location: Sickla Köpkvarter
+  urn: urn:jackandjones:store:id:3737
+  city: Nacka
+  latitude: 59.30609893798828
+  longitude: 18.124399185180664
+
+- location: Kalmar
+  urn: urn:jackandjones:store:id:10422
+  city: Kalmar
+  latitude: 56.687198638916016
+  longitude: 16.319700241088867
+
+- location: Marieberg
+  urn: urn:jackandjones:store:id:3744
+  city: Örebro
+  latitude: 59.21770095825195
+  longitude: 15.138400077819824
+
+- location: Umeå - Ikano
+  urn: urn:jackandjones:store:id:3760
+  city: Umeå
+  latitude: 63.80670166015625
+  longitude: 20.2539005279541
+
+- location: Nacka - Forum
+  urn: urn:jackandjones:store:id:3794
+  city: Nacka
+  latitude: 59.310699462890625
+  longitude: 18.16360092163086
+
+- location: Karlskrona - Amiralen
+  urn: urn:jackandjones:store:id:12255
+  city: Karlskrona
+  latitude: 56.1968994140625
+  longitude: 15.64169979095459
+
+- location: Halmstad - Eurostop
+  urn: urn:jackandjones:store:id:12971
+  city: Halmstad
+  latitude: 56.65570068359375
+  longitude: 12.910599708557129
+
+- location: Malmö - Mobilia
+  urn: urn:jackandjones:store:id:2399
+  city: Malmö
+  latitude: 55.5802001953125
+  longitude: 13.003700256347656
+
+- location: Skovde - Elins Esplanad
+  urn: urn:jackandjones:store:id:4710
+  city: Skovde
+  latitude: 58.404998779296875
+  longitude: 13.855999946594238
+
+- location: Varberg - Torggatan
+  urn: urn:jackandjones:store:id:4837
+  city: Varberg
+  latitude: 57.10540008544922
+  longitude: 12.248900413513184
+
+- location: Alingsås - Storken
+  urn: urn:jackandjones:store:id:10993
+  city: Alingsås
+  latitude: 57.9297981262207
+  longitude: 12.535699844360352
+
+- location: Örnsköldsvik - Oskargallerian
+  urn: urn:jackandjones:store:id:4933
+  city: Örnsköldsvik
+  latitude: 63.29100036621094
+  longitude: 18.714000701904297
+
+- location: Falköping
+  urn: urn:jackandjones:store:id:4956
+  city: Falköping
+  latitude: 58.161800384521484
+  longitude: 13.55210018157959
+
+- location: Kungälv - Kongahälla Shopping
+  urn: urn:jackandjones:store:id:14003
+  city: Kungälv
+  latitude: 57.873600006103516
+  longitude: 11.967599868774414
+
+- location: Borås - StorKnallen
+  urn: urn:jackandjones:store:id:5003
+  city: Boras
+  latitude: 57.73270034790039
+  longitude: 12.9399995803833
+
+- location: Luleå - Smedjan
+  urn: urn:jackandjones:store:id:5004
+  city: Lulea
+  latitude: 65.58390045166016
+  longitude: 22.153099060058594
+
+- location: Mölndal - Mölndal Galleria
+  urn: urn:jackandjones:store:id:5063
+  city: Molndal
+  latitude: 57.65399932861328
+  longitude: 12.014699935913086
+
+- location: Bergvik
+  urn: urn:jackandjones:store:id:10104
+  city: Karlstad
+  latitude: 59.377201080322266
+  longitude: 13.427200317382812
+
+- location: Kungsbacka - Hede Fashion Outlet
+  urn: urn:jackandjones:store:id:5386
+  city: Kungsbacka
+  latitude: 57.513301849365234
+  longitude: 12.074899673461914

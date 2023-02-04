@@ -1,0 +1,373 @@
+meta:
+  name: The Body Shop
+  web: null
+  wikipedia: https://sv.wikipedia.org/wiki/The_Body_Shop
+  category: butiker->skönhet
+  locations: 61
+
+locations:
+- location: Uppsala Granby Centrum
+  urn: urn:thebodyshop:store:id:3844
+  city: Uppsala
+  latitude: 59.8772961
+  longitude: 17.6729833
+
+- location: Forumkvarteret
+  urn: urn:thebodyshop:store:id:3830
+  city: Uppsala
+  latitude: 59.85815599999999
+  longitude: 17.6418184
+
+- location: Täby
+  urn: urn:thebodyshop:store:id:3826
+  city: Täby
+  latitude: 59.4441965
+  longitude: 18.0710459
+
+- location: Sollentuna Centrum
+  urn: urn:thebodyshop:store:id:4508
+  city: Sollentuna
+  latitude: 59.4282114
+  longitude: 17.9507628
+
+- location: SQO Barkarby Outlet
+  urn: urn:thebodyshop:store:id:7188
+  city: Järfälla
+  latitude: 59.41772030000001
+  longitude: 17.8564213
+
+- location: Westfield Mall of Scandanavia
+  urn: urn:thebodyshop:store:id:7324
+  city: Solna
+  latitude: 59.370465
+  longitude: 18.0020127
+
+- location: Stockholm Fältöversten
+  urn: urn:thebodyshop:store:id:4561
+  city: Stockholm
+  latitude: 59.3394542
+  longitude: 18.0931233
+
+- location: Stockholm Sturegallerian
+  urn: urn:thebodyshop:store:id:2947
+  city: Stockholm
+  latitude: 59.3361332
+  longitude: 18.0732213
+
+- location: Stockholm Drottninggatan
+  urn: urn:thebodyshop:store:id:3788
+  city: Stockholm
+  latitude: 59.33380930000001
+  longitude: 18.0612915
+
+- location: Bromma Blocks
+  urn: urn:thebodyshop:store:id:7097
+  city: Bromma
+  latitude: 59.355572
+  longitude: 17.955459
+
+- location: Kongahälla Center
+  urn: urn:thebodyshop:store:id:3838
+  city: Kungälv
+  latitude: 57.873438
+  longitude: 11.967813
+
+- location: Torp Köpcentrum
+  urn: urn:thebodyshop:store:id:7388
+  city: Herrestad
+  latitude: 58.354437
+  longitude: 11.811187
+
+- location: Sturegallerian
+  urn: urn:thebodyshop:store:id:2947
+  city: Stockholm
+  latitude: 59.336062
+  longitude: 18.073437
+
+- location: Drottninggatan
+  urn: urn:thebodyshop:store:id:3788
+  city: Stockholm
+  latitude: 59.333813
+  longitude: 18.061312
+
+- location: Frölunda Torg
+  urn: urn:thebodyshop:store:id:3842
+  city: Västra Frölunda
+  latitude: 57.652438
+  longitude: 11.912937
+
+- location: Triangeln
+  urn: urn:thebodyshop:store:id:7033
+  city: Malmö
+  latitude: 55.594938
+  longitude: 13.001313
+
+- location: Liljeholmstorget
+  urn: urn:thebodyshop:store:id:4460
+  city: Stockholm
+  latitude: 59.309687
+  longitude: 18.022188
+
+- location: Täby
+  urn: urn:thebodyshop:store:id:3826
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Uppsala Forum
+  urn: urn:thebodyshop:store:id:3830
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Karlskrona
+  urn: urn:thebodyshop:store:id:3839
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Kristianstad
+  urn: urn:thebodyshop:store:id:3805
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Sundsvall Birsta
+  urn: urn:thebodyshop:store:id:3824
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Farsta
+  urn: urn:thebodyshop:store:id:3791
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Gävle
+  urn: urn:thebodyshop:store:id:3793
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Nova Lund
+  urn: urn:thebodyshop:store:id:4679
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Halmstad
+  urn: urn:thebodyshop:store:id:3797
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Sollentuna Centrum
+  urn: urn:thebodyshop:store:id:4508
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Linköping I-huset
+  urn: urn:thebodyshop:store:id:4946
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Linköping City
+  urn: urn:thebodyshop:store:id:4397
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Stockholm Götgatan
+  urn: urn:thebodyshop:store:id:3796
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Fältöversten
+  urn: urn:thebodyshop:store:id:4561
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Vällingby
+  urn: urn:thebodyshop:store:id:4225
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Falun
+  urn: urn:thebodyshop:store:id:3790
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Visby
+  urn: urn:thebodyshop:store:id:3836
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Bergvik
+  urn: urn:thebodyshop:store:id:7356
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Västerås Erikslund
+  urn: urn:thebodyshop:store:id:4680
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Stenugnsund
+  urn: urn:thebodyshop:store:id:7129
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Eskilstuna
+  urn: urn:thebodyshop:store:id:3789
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Nacka Forum
+  urn: urn:thebodyshop:store:id:4383
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Skärholmen
+  urn: urn:thebodyshop:store:id:4594
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Göteborg Fredsgatan
+  urn: urn:thebodyshop:store:id:3996
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Lund
+  urn: urn:thebodyshop:store:id:3809
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Stockholm Ringen
+  urn: urn:thebodyshop:store:id:7061
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Kupolen Borlänge
+  urn: urn:thebodyshop:store:id:3960
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Sundsvall City
+  urn: urn:thebodyshop:store:id:3825
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Sundsvall Birsta
+  urn: urn:thebodyshop:store:id:3825
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Umeå Utopia
+  urn: urn:thebodyshop:store:id:3829
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Umeå Avion
+  urn: urn:thebodyshop:store:id:7375
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Uppsala Gränby
+  urn: urn:thebodyshop:store:id:3844
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Visby
+  urn: urn:thebodyshop:store:id:3836
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Växjö Grandsamarkand
+  urn: urn:thebodyshop:store:id:9553
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Norrköping
+  urn: urn:thebodyshop:store:id:3812
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Gallerian
+  urn: urn:thebodyshop:store:id:3792
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Trollhättan
+  urn: urn:thebodyshop:store:id:4883
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Väla Helsingborg
+  urn: urn:thebodyshop:store:id:3815
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Kullagatan Helsingborg
+  urn: urn:thebodyshop:store:id:3798
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Borås
+  urn: urn:thebodyshop:store:id:3786
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Allum
+  urn: urn:thebodyshop:store:id:4657
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Lidköping
+  urn: urn:thebodyshop:store:id:3806
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Mölndal
+  urn: urn:thebodyshop:store:id:7651
+  city: null
+  latitude: null
+  longitude: null
+
+- location: Kungsbacka
+  urn: urn:thebodyshop:store:id:3841
+  city: null
+  latitude: null
+  longitude: null

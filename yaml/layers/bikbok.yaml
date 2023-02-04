@@ -1,0 +1,391 @@
+meta:
+  name: stores/bikbok.yaml
+  web: null
+  wikipedia: null
+  category: null
+  locations: 64
+
+locations:
+- location: Bik Bok - Avion Shopping Umeå
+  urn: urn:Bik Bok:store:id:671
+  city: Umeå
+  latitude: 63.8073983
+  longitude: 20.2554207
+
+- location: Bik Bok - Bergvik
+  urn: urn:Bik Bok:store:id:673
+  city: Karlstad
+  latitude: 59.3774841
+  longitude: 13.424850300000003
+
+- location: Bik Bok - Bik Bok Gränby
+  urn: urn:Bik Bok:store:id:675
+  city: Uppsala
+  latitude: 59.8770191
+  longitude: 17.6726587
+
+- location: Bik Bok - Mölndal Galleria
+  urn: urn:Bik Bok:store:id:K23
+  city: Mölndal
+  latitude: 57.65530099999999
+  longitude: 12.012981699999955
+
+- location: Bik Bok - Skärholmen
+  urn: urn:Bik Bok:store:id:65C
+  city: Skärholmen
+  latitude: 59.2750065
+  longitude: 17.9071592
+
+- location: Bik Bok - Stockholm Götgatan
+  urn: urn:Bik Bok:store:id:66E
+  city: Stockholm
+  latitude: 59.3175543
+  longitude: 18.071574
+
+- location: Bik Bok - C4 Shopping
+  urn: urn:Bik Bok:store:id:K03
+  city: Kristianstad
+  latitude: 56.0267309
+  longitude: 14.202255
+
+- location: Bik Bok - Charlottenberg
+  urn: urn:Bik Bok:store:id:69A
+  city: Charlottenberg
+  latitude: 59.8818857
+  longitude: 12.2898056
+
+- location: Bik Bok - Emporia
+  urn: urn:Bik Bok:store:id:K15
+  city: Malmö
+  latitude: 55.563615
+  longitude: 12.9746158
+
+- location: Bik Bok - Erikslund
+  urn: urn:Bik Bok:store:id:K14
+  city: Västerås
+  latitude: 59.609689818236
+  longitude: 16.453683972359
+
+- location: Bik Bok - Falun Centrum
+  urn: urn:Bik Bok:store:id:K19
+  city: Falun
+  latitude: 60.60564429999999
+  longitude: 15.631754
+
+- location: Bik Bok - Farsta Centrum
+  urn: urn:Bik Bok:store:id:656
+  city: Farsta
+  latitude: 59.2424863
+  longitude: 18.0896823
+
+- location: Bik Bok - Femman
+  urn: urn:Bik Bok:store:id:676
+  city: Göteborg
+  latitude: 57.7084607
+  longitude: 11.9694972
+
+- location: Bik Bok - Frölunda Torg
+  urn: urn:Bik Bok:store:id:66B
+  city: Västra Frölunda
+  latitude: 57.6509194
+  longitude: 11.9094479
+
+- location: Bik Bok - Gallerian Stockholm
+  urn: urn:Bik Bok:store:id:K13
+  city: Stockholm
+  latitude: 59.330287
+  longitude: 18.067492
+
+- location: Bik Bok - Hallarna
+  urn: urn:Bik Bok:store:id:K20
+  city: Halmstad
+  latitude: 56.6553285
+  longitude: 12.911350599999992
+
+- location: Bik Bok - Halmstad
+  urn: urn:Bik Bok:store:id:66C
+  city: Halmstad
+  latitude: 56.6751481
+  longitude: 12.858052
+
+- location: Bik Bok - Haninge
+  urn: urn:Bik Bok:store:id:68E
+  city: Haninge
+  latitude: 59.1692356
+  longitude: 18.1399962
+
+- location: Bik Bok - Huddinge Centrum
+  urn: urn:Bik Bok:store:id:K21
+  city: Huddinge
+  latitude: 59.23655400000001
+  longitude: 17.98187759999996
+
+- location: Bik Bok - Hudiksvall
+  urn: urn:Bik Bok:store:id:65B
+  city: Hudiksvall
+  latitude: 61.7278187
+  longitude: 17.105369800000062
+
+- location: Bik Bok - Igor Kvarteret
+  urn: urn:Bik Bok:store:id:K22
+  city: Västerås
+  latitude: 59.60930199999999
+  longitude: 16.54672519999997
+
+- location: Bik Bok - Ikano-huset
+  urn: urn:Bik Bok:store:id:678
+  city: Linköping
+  latitude: 58.43291
+  longitude: 15.588473
+
+- location: Bik Bok - Jönköping
+  urn: urn:Bik Bok:store:id:68F
+  city: Jönköping
+  latitude: 57.773317
+  longitude: 14.2030843
+
+- location: Bik Bok - Kalmar Bilbyggarvägen
+  urn: urn:Bik Bok:store:id:K07
+  city: Kalmar
+  latitude: 56.6869844
+  longitude: 16.3198073
+
+- location: Bik Bok - Kalmar Storgatan
+  urn: urn:Bik Bok:store:id:67E
+  city: Kalmar
+  latitude: 56.6635342
+  longitude: 16.363338
+
+- location: Bik Bok - Karlshamn
+  urn: urn:Bik Bok:store:id:K12
+  city: Karlshamn
+  latitude: 56.1705015
+  longitude: 14.8608075
+
+- location: Bik Bok - Karlskrona
+  urn: urn:Bik Bok:store:id:69D
+  city: Karlskrona
+  latitude: 56.162105
+  longitude: 15.5835964
+
+- location: Bik Bok - Karlstad
+  urn: urn:Bik Bok:store:id:68C
+  city: Karlstad
+  latitude: 59.3796505
+  longitude: 13.5003308
+
+- location: Bik Bok - Kompassen
+  urn: urn:Bik Bok:store:id:K18
+  city: Göteborg
+  latitude: 57.7054711
+  longitude: 11.970628099999999
+
+- location: Bik Bok - Kungsmässan
+  urn: urn:Bik Bok:store:id:65A
+  city: Kungsbacka
+  latitude: 57.4915093
+  longitude: 12.0750207
+
+- location: Bik Bok - Kupolen
+  urn: urn:Bik Bok:store:id:K08
+  city: Borlänge
+  latitude: 60.4844285
+  longitude: 15.4184574
+
+- location: Bik Bok - Linköping Tannerforsgatan
+  urn: urn:Bik Bok:store:id:69B
+  city: Linköping
+  latitude: 58.4100327
+  longitude: 15.6235534
+
+- location: Bik Bok - Luleå
+  urn: urn:Bik Bok:store:id:674
+  city: Luleå
+  latitude: 65.5846668
+  longitude: 22.1552419
+
+- location: Bik Bok - Lund
+  urn: urn:Bik Bok:store:id:660
+  city: Lund
+  latitude: 55.7139224
+  longitude: 13.1599079
+
+- location: Bik Bok - Mall of Scandinavia
+  urn: urn:Bik Bok:store:id:67F
+  city: Solna
+  latitude: 59.3702139
+  longitude: 18.003782
+
+- location: Bik Bok - Marieberg
+  urn: urn:Bik Bok:store:id:653
+  city: Örebro
+  latitude: 59.2164725
+  longitude: 15.137866
+
+- location: Bik Bok - Nordby
+  urn: urn:Bik Bok:store:id:K05
+  city: Strømstad
+  latitude: 59.06525198938231
+  longitude: 11.204720020294205
+
+- location: Bik Bok - Norrköping
+  urn: urn:Bik Bok:store:id:657
+  city: Norrköping
+  latitude: 58.5874818
+  longitude: 16.1887884
+
+- location: Bik Bok - Nyköping
+  urn: urn:Bik Bok:store:id:69E
+  city: Nyköping
+  latitude: 58.7519655
+  longitude: 17.0063026
+
+- location: Bik Bok - Partille
+  urn: urn:Bik Bok:store:id:68D
+  city: Partille
+  latitude: 57.7379056
+  longitude: 12.1057756
+
+- location: Bik Bok - Piteå
+  urn: urn:Bik Bok:store:id:K11
+  city: Piteå
+  latitude: 65.3173960352581
+  longitude: 21.479318618774414
+
+- location: Bik Bok - Skellefteå
+  urn: urn:Bik Bok:store:id:664
+  city: Skellefteå
+  latitude: 64.7500853
+  longitude: 20.9543996
+
+- location: Bik Bok - Skövde
+  urn: urn:Bik Bok:store:id:K06
+  city: Skövde
+  latitude: 58.3905243
+  longitude: 13.8461111
+
+- location: Bik Bok - Sollentuna
+  urn: urn:Bik Bok:store:id:K16
+  city: Sollentuna
+  latitude: 59.428169
+  longitude: 17.9519491
+
+- location: Bik Bok - Stockholm
+  urn: urn:Bik Bok:store:id:K01
+  city: Stockholm
+  latitude: 59.3348279
+  longitude: 18.0599678
+
+- location: Bik Bok - Sundsvall
+  urn: urn:Bik Bok:store:id:K02
+  city: Sundsvall
+  latitude: 62.4471247
+  longitude: 17.3358768
+
+- location: Bik Bok - Södertälje
+  urn: urn:Bik Bok:store:id:K04
+  city: Södertälje
+  latitude: 59.1959869
+  longitude: 17.6281678
+
+- location: Bik Bok - Torggatan
+  urn: urn:Bik Bok:store:id:672
+  city: Borås
+  latitude: 57.721584
+  longitude: 12.940258399999948
+
+- location: Bik Bok - Triangeln
+  urn: urn:Bik Bok:store:id:669
+  city: Malmö
+  latitude: 55.595529
+  longitude: 13.0029927
+
+- location: Bik Bok - Trollhättan
+  urn: urn:Bik Bok:store:id:K10
+  city: Trollhättan
+  latitude: 58.3124882
+  longitude: 12.307847
+
+- location: Bik Bok - Tuna Park
+  urn: urn:Bik Bok:store:id:65F
+  city: Eskilstuna
+  latitude: 59.3717236
+  longitude: 16.4688053
+
+- location: Bik Bok - Täby
+  urn: urn:Bik Bok:store:id:658
+  city: Täby
+  latitude: 59.4442633
+  longitude: 18.0714449
+
+- location: Bik Bok - Töcksfors
+  urn: urn:Bik Bok:store:id:67B
+  city: Töcksfors
+  latitude: 59.5057696
+  longitude: 11.8447332
+
+- location: Bik Bok - Uddevalla
+  urn: urn:Bik Bok:store:id:677
+  city: Uddevalla
+  latitude: 58.3541086
+  longitude: 11.8111797
+
+- location: Bik Bok - Umeå
+  urn: urn:Bik Bok:store:id:666
+  city: Umeå
+  latitude: 63.8257224
+  longitude: 20.2659536
+
+- location: Bik Bok - Uppsala
+  urn: urn:Bik Bok:store:id:652
+  city: Uppsala
+  latitude: 59.8581325
+  longitude: 17.64208
+
+- location: Bik Bok - Valbo
+  urn: urn:Bik Bok:store:id:67C
+  city: Valbo
+  latitude: 60.633282
+  longitude: 16.994236
+
+- location: Bik Bok - Visby
+  urn: urn:Bik Bok:store:id:69F
+  city: Visby
+  latitude: 57.6378432
+  longitude: 18.2995965
+
+- location: Bik Bok - Väla
+  urn: urn:Bik Bok:store:id:65D
+  city: Ödåkra
+  latitude: 56.09145989999999
+  longitude: 12.7567573
+
+- location: Bik Bok - Vällingby
+  urn: urn:Bik Bok:store:id:69C
+  city: Vällingby
+  latitude: 59.36276309999999
+  longitude: 17.873885599999994
+
+- location: Bik Bok - Växjö Hejaregatan
+  urn: urn:Bik Bok:store:id:K09
+  city: Växjö
+  latitude: 56.8848277
+  longitude: 14.7651728
+
+- location: Bik Bok - Örebro
+  urn: urn:Bik Bok:store:id:66D
+  city: Örebro
+  latitude: 59.2710056
+  longitude: 15.2122552
+
+- location: Bik Bok - Örnsköldsvik
+  urn: urn:Bik Bok:store:id:66F
+  city: Örnsköldsvik
+  latitude: 63.290885
+  longitude: 18.713441
+
+- location: Bik Bok - Östersund
+  urn: urn:Bik Bok:store:id:68A
+  city: Östersund
+  latitude: 63.1768635
+  longitude: 14.636923

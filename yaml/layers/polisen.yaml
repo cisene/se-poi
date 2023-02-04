@@ -1,0 +1,1757 @@
+meta:
+  name: Polisen
+  web: https://polisen.se/
+  wikipedia: https://sv.wikipedia.org/wiki/Polisen_i_Sverige
+  category: myndigheter
+  locations: 350
+
+locations:
+- location: Polisen Kungälv
+  city: Kungälv
+  latitude: 57.870562
+  longitude: 11.972188
+
+- location: Polisen Alingsås
+  city: Alingsås
+  latitude: 57.930187
+  longitude: 12.529563
+
+- location: Polisen Älmhult
+  city: Älmhult
+  latitude: 56.540688
+  longitude: 14.128687
+
+- location: Polisen Älvdalen
+  city: Älvdalen
+  latitude: 61.228313
+  longitude: 14.039938
+
+- location: Polisen Alvesta
+  city: Alvesta
+  latitude: 56.900312
+  longitude: 14.555063
+
+- location: Polisen Älvkarleby
+  city: Älvkarleby
+  latitude: null
+  longitude: null
+
+- location: Polisen Älvsbyn
+  city: Älvsbyn
+  latitude: 65.677437
+  longitude: 20.997687
+
+- location: Polisen Åmål
+  city: Åmål
+  latitude: 59.051313
+  longitude: 12.704438
+
+- location: Polisen Aneby
+  city: Aneby
+  latitude: null
+  longitude: null
+
+- location: Polisen Ånge
+  city: Ånge
+  latitude: 62.524687
+  longitude: 15.664562
+
+- location: Polisen Ängelholm
+  city: Ängelholm
+  latitude: 56.248062
+  longitude: 12.895062
+
+- location: Polisen Arboga
+  city: Arboga
+  latitude: null
+  longitude: null
+
+- location: Polisen Åre
+  city: Åre
+  latitude: 63.395312
+  longitude: 13.095688
+
+- location: Polisen Årjäng
+  city: Årjäng
+  latitude: 59.393187
+  longitude: 12.134062
+
+- location: Polisen Arjeplog
+  city: Arjeplog
+  latitude: null
+  longitude: null
+
+- location: Polisen Arvidsjaur
+  city: Arvidsjaur
+  latitude: null
+  longitude: null
+
+- location: Polisen Arvika
+  city: Arvika
+  latitude: 59.653937
+  longitude: 12.602688
+
+- location: Polisen Åsele
+  city: Åsele
+  latitude: null
+  longitude: null
+
+- location: Polisen Askersund
+  city: Askersund
+  latitude: 58.879562
+  longitude: 14.905812
+
+- location: Polisen Åstorp
+  city: Åstorp
+  latitude: 56.134812
+  longitude: 12.948438
+
+- location: Polisen Åtvidaberg
+  city: Åtvidaberg
+  latitude: null
+  longitude: null
+
+- location: Polisen Avesta
+  city: Avesta
+  latitude: 60.146563
+  longitude: 16.164313
+
+- location: Polisen Båstad
+  city: Båstad
+  latitude: 56.426437
+  longitude: 12.846687
+
+- location: Polisen Bengtsfors
+  city: Bengtsfors
+  latitude: 59.031562
+  longitude: 12.219188
+
+- location: Polisen Berg
+  city: Berg
+  latitude: null
+  longitude: null
+
+- location: Polisen Bjurholm
+  city: Bjurholm
+  latitude: null
+  longitude: null
+
+- location: Polisen Bjuv
+  city: Bjuv
+  latitude: 56.083938
+  longitude: 12.911687
+
+- location: Polisen Boden
+  city: Boden
+  latitude: 65.825063
+  longitude: 21.698813
+
+- location: Polisen Bollebygd
+  city: Bollebygd
+  latitude: null
+  longitude: null
+
+- location: Polisen Bollnäs
+  city: Bollnäs
+  latitude: 61.349812
+  longitude: 16.397687
+
+- location: Polisen Borås
+  city: Borås
+  latitude: 57.723562
+  longitude: 12.941187
+
+- location: Polisen Borgholm
+  city: Borgholm
+  latitude: 56.874437
+  longitude: 16.658687
+
+- location: Polisen Borlänge
+  city: Borlänge
+  latitude: 60.485937
+  longitude: 15.436187
+
+- location: Polisen Botkyrka
+  city: Botkyrka
+  latitude: null
+  longitude: null
+
+- location: Polisen Boxholm
+  city: Boxholm
+  latitude: null
+  longitude: null
+
+- location: Polisen Bräcke
+  city: Bräcke
+  latitude: null
+  longitude: null
+
+- location: Polisen Bromölla
+  city: Bromölla
+  latitude: null
+  longitude: null
+
+- location: Polisen Burlöv
+  city: Burlöv
+  latitude: 55.633312
+  longitude: 13.070438
+
+- location: Polisen Dals-ed
+  city: Dals-ed
+  latitude: null
+  longitude: null
+
+- location: Polisen Danderyd
+  city: Danderyd
+  latitude: null
+  longitude: null
+
+- location: Polisen Degerfors
+  city: Degerfors
+  latitude: 59.238062
+  longitude: 14.433687
+
+- location: Polisen Dorotea
+  city: Dorotea
+  latitude: null
+  longitude: null
+
+- location: Polisen Eda
+  city: Eda
+  latitude: 59.883437
+  longitude: 12.302688
+
+- location: Polisen Ekerö
+  city: Ekerö
+  latitude: 59.289812
+  longitude: 17.811438
+
+- location: Polisen Eksjö
+  city: Eksjö
+  latitude: 57.659562
+  longitude: 14.961688
+
+- location: Polisen Emmaboda
+  city: Emmaboda
+  latitude: 56.630437
+  longitude: 15.533188
+
+- location: Polisen Enköping
+  city: Enköping
+  latitude: 59.636938
+  longitude: 17.083562
+
+- location: Polisen Eskilstuna
+  city: Eskilstuna
+  latitude: 59.368813
+  longitude: 16.515937
+
+- location: Polisen Eslöv
+  city: Eslöv
+  latitude: 55.830062
+  longitude: 13.309188
+
+- location: Polisen Essunga
+  city: Essunga
+  latitude: null
+  longitude: null
+
+- location: Polisen Fagersta
+  city: Fagersta
+  latitude: null
+  longitude: null
+
+- location: Polisen Falkenberg
+  city: Falkenberg
+  latitude: null
+  longitude: null
+
+- location: Polisen Falköping
+  city: Falköping
+  latitude: null
+  longitude: null
+
+- location: Polisen Falun
+  city: Falun
+  latitude: null
+  longitude: null
+
+- location: Polisen Färgelanda
+  city: Färgelanda
+  latitude: null
+  longitude: null
+
+- location: Polisen Filipstad
+  city: Filipstad
+  latitude: null
+  longitude: null
+
+- location: Polisen Finspång
+  city: Finspång
+  latitude: null
+  longitude: null
+
+- location: Polisen Flen
+  city: Flen
+  latitude: null
+  longitude: null
+
+- location: Polisen Forshaga
+  city: Forshaga
+  latitude: null
+  longitude: null
+
+- location: Polisen Gagnef
+  city: Gagnef
+  latitude: null
+  longitude: null
+
+- location: Polisen Gällivare
+  city: Gällivare
+  latitude: null
+  longitude: null
+
+- location: Polisen Gävle
+  city: Gävle
+  latitude: null
+  longitude: null
+
+- location: Polisen Gislaved
+  city: Gislaved
+  latitude: null
+  longitude: null
+
+- location: Polisen Gnesta
+  city: Gnesta
+  latitude: null
+  longitude: null
+
+- location: Polisen Gnosjö
+  city: Gnosjö
+  latitude: null
+  longitude: null
+
+- location: Polisen Göteborg
+  city: Göteborg
+  latitude: null
+  longitude: null
+
+- location: Polisen Götene
+  city: Götene
+  latitude: null
+  longitude: null
+
+- location: Polisen Gotland
+  city: Gotland
+  latitude: null
+  longitude: null
+
+- location: Polisen Grästorp
+  city: Grästorp
+  latitude: null
+  longitude: null
+
+- location: Polisen Grums
+  city: Grums
+  latitude: null
+  longitude: null
+
+- location: Polisen Gullspång
+  city: Gullspång
+  latitude: null
+  longitude: null
+
+- location: Polisen Habo
+  city: Habo
+  latitude: null
+  longitude: null
+
+- location: Polisen Håbo
+  city: Håbo
+  latitude: null
+  longitude: null
+
+- location: Polisen Hagfors
+  city: Hagfors
+  latitude: null
+  longitude: null
+
+- location: Polisen Hällefors
+  city: Hällefors
+  latitude: null
+  longitude: null
+
+- location: Polisen Hallsberg
+  city: Hallsberg
+  latitude: null
+  longitude: null
+
+- location: Polisen Hallstahammar
+  city: Hallstahammar
+  latitude: null
+  longitude: null
+
+- location: Polisen Halmstad
+  city: Halmstad
+  latitude: null
+  longitude: null
+
+- location: Polisen Hammarö
+  city: Hammarö
+  latitude: null
+  longitude: null
+
+- location: Polisen Haninge
+  city: Haninge
+  latitude: null
+  longitude: null
+
+- location: Polisen Haparanda
+  city: Haparanda
+  latitude: null
+  longitude: null
+
+- location: Polisen Härjedalen
+  city: Härjedalen
+  latitude: null
+  longitude: null
+
+- location: Polisen Härnösand
+  city: Härnösand
+  latitude: null
+  longitude: null
+
+- location: Polisen Härryda
+  city: Härryda
+  latitude: null
+  longitude: null
+
+- location: Polisen Hässleholm
+  city: Hässleholm
+  latitude: null
+  longitude: null
+
+- location: Polisen Heby
+  city: Heby
+  latitude: null
+  longitude: null
+
+- location: Polisen Hedemora
+  city: Hedemora
+  latitude: null
+  longitude: null
+
+- location: Polisen Helsingborg
+  city: Helsingborg
+  latitude: null
+  longitude: null
+
+- location: Polisen Herrljunga
+  city: Herrljunga
+  latitude: null
+  longitude: null
+
+- location: Polisen Hjo
+  city: Hjo
+  latitude: null
+  longitude: null
+
+- location: Polisen Hofors
+  city: Hofors
+  latitude: null
+  longitude: null
+
+- location: Polisen Höganäs
+  city: Höganäs
+  latitude: null
+  longitude: null
+
+- location: Polisen Högsby
+  city: Högsby
+  latitude: null
+  longitude: null
+
+- location: Polisen Höör
+  city: Höör
+  latitude: null
+  longitude: null
+
+- location: Polisen Hörby
+  city: Hörby
+  latitude: null
+  longitude: null
+
+- location: Polisen Huddinge
+  city: Huddinge
+  latitude: null
+  longitude: null
+
+- location: Polisen Hudiksvall
+  city: Hudiksvall
+  latitude: null
+  longitude: null
+
+- location: Polisen Hultsfred
+  city: Hultsfred
+  latitude: null
+  longitude: null
+
+- location: Polisen Hylte
+  city: Hylte
+  latitude: null
+  longitude: null
+
+- location: Polisen Järfälla
+  city: Järfälla
+  latitude: null
+  longitude: null
+
+- location: Polisen Jokkmokk
+  city: Jokkmokk
+  latitude: null
+  longitude: null
+
+- location: Polisen Jönköping
+  city: Jönköping
+  latitude: null
+  longitude: null
+
+- location: Polisen Kalix
+  city: Kalix
+  latitude: null
+  longitude: null
+
+- location: Polisen Kalmar
+  city: Kalmar
+  latitude: null
+  longitude: null
+
+- location: Polisen Karlsborg
+  city: Karlsborg
+  latitude: null
+  longitude: null
+
+- location: Polisen Karlshamn
+  city: Karlshamn
+  latitude: null
+  longitude: null
+
+- location: Polisen Karlskoga
+  city: Karlskoga
+  latitude: null
+  longitude: null
+
+- location: Polisen Karlskrona
+  city: Karlskrona
+  latitude: null
+  longitude: null
+
+- location: Polisen Karlstad
+  city: Karlstad
+  latitude: null
+  longitude: null
+
+- location: Polisen Katrineholm
+  city: Katrineholm
+  latitude: null
+  longitude: null
+
+- location: Polisen Kävlinge
+  city: Kävlinge
+  latitude: null
+  longitude: null
+
+- location: Polisen Kil
+  city: Kil
+  latitude: null
+  longitude: null
+
+- location: Polisen Kinda
+  city: Kinda
+  latitude: null
+  longitude: null
+
+- location: Polisen Kiruna
+  city: Kiruna
+  latitude: null
+  longitude: null
+
+- location: Polisen Klippan
+  city: Klippan
+  latitude: null
+  longitude: null
+
+- location: Polisen Knivsta
+  city: Knivsta
+  latitude: null
+  longitude: null
+
+- location: Polisen Köping
+  city: Köping
+  latitude: null
+  longitude: null
+
+- location: Polisen Kramfors
+  city: Kramfors
+  latitude: null
+  longitude: null
+
+- location: Polisen Kristianstad
+  city: Kristianstad
+  latitude: null
+  longitude: null
+
+- location: Polisen Kristinehamn
+  city: Kristinehamn
+  latitude: null
+  longitude: null
+
+- location: Polisen Krokom
+  city: Krokom
+  latitude: null
+  longitude: null
+
+- location: Polisen Kumla
+  city: Kumla
+  latitude: null
+  longitude: null
+
+- location: Polisen Kungälv
+  city: Kungälv
+  latitude: null
+  longitude: null
+
+- location: Polisen Kungsbacka
+  city: Kungsbacka
+  latitude: null
+  longitude: null
+
+- location: Polisen Kungsör
+  city: Kungsör
+  latitude: null
+  longitude: null
+
+- location: Polisen Laholm
+  city: Laholm
+  latitude: null
+  longitude: null
+
+- location: Polisen Landskrona
+  city: Landskrona
+  latitude: null
+  longitude: null
+
+- location: Polisen Laxå
+  city: Laxå
+  latitude: null
+  longitude: null
+
+- location: Polisen Lekeberg
+  city: Lekeberg
+  latitude: null
+  longitude: null
+
+- location: Polisen Leksand
+  city: Leksand
+  latitude: null
+  longitude: null
+
+- location: Polisen Lerum
+  city: Lerum
+  latitude: null
+  longitude: null
+
+- location: Polisen Lessebo
+  city: Lessebo
+  latitude: null
+  longitude: null
+
+- location: Polisen Lidingö
+  city: Lidingö
+  latitude: null
+  longitude: null
+
+- location: Polisen Lidköping
+  city: Lidköping
+  latitude: null
+  longitude: null
+
+- location: Polisen Lilla edet
+  city: Lilla edet
+  latitude: null
+  longitude: null
+
+- location: Polisen Lindesberg
+  city: Lindesberg
+  latitude: null
+  longitude: null
+
+- location: Polisen Linköping
+  city: Linköping
+  latitude: null
+  longitude: null
+
+- location: Polisen Ljungby
+  city: Ljungby
+  latitude: null
+  longitude: null
+
+- location: Polisen Ljusdal
+  city: Ljusdal
+  latitude: null
+  longitude: null
+
+- location: Polisen Ljusnarsberg
+  city: Ljusnarsberg
+  latitude: null
+  longitude: null
+
+- location: Polisen Lomma
+  city: Lomma
+  latitude: null
+  longitude: null
+
+- location: Polisen Ludvika
+  city: Ludvika
+  latitude: null
+  longitude: null
+
+- location: Polisen Luleå
+  city: Luleå
+  latitude: null
+  longitude: null
+
+- location: Polisen Lund
+  city: Lund
+  latitude: null
+  longitude: null
+
+- location: Polisen Lycksele
+  city: Lycksele
+  latitude: null
+  longitude: null
+
+- location: Polisen Lysekil
+  city: Lysekil
+  latitude: null
+  longitude: null
+
+- location: Polisen Malå
+  city: Malå
+  latitude: null
+  longitude: null
+
+- location: Polisen Malmö
+  city: Malmö
+  latitude: null
+  longitude: null
+
+- location: Polisen Malung-Sälen
+  city: Malung-Sälen
+  latitude: null
+  longitude: null
+
+- location: Polisen Mariestad
+  city: Mariestad
+  latitude: null
+  longitude: null
+
+- location: Polisen Mark
+  city: Mark
+  latitude: null
+  longitude: null
+
+- location: Polisen Markaryd
+  city: Markaryd
+  latitude: null
+  longitude: null
+
+- location: Polisen Mellerud
+  city: Mellerud
+  latitude: null
+  longitude: null
+
+- location: Polisen Mjölby
+  city: Mjölby
+  latitude: null
+  longitude: null
+
+- location: Polisen Mölndal
+  city: Mölndal
+  latitude: null
+  longitude: null
+
+- location: Polisen Mönsterås
+  city: Mönsterås
+  latitude: null
+  longitude: null
+
+- location: Polisen Mora
+  city: Mora
+  latitude: null
+  longitude: null
+
+- location: Polisen Mörbylånga
+  city: Mörbylånga
+  latitude: null
+  longitude: null
+
+- location: Polisen Motala
+  city: Motala
+  latitude: null
+  longitude: null
+
+- location: Polisen Mullsjö
+  city: Mullsjö
+  latitude: null
+  longitude: null
+
+- location: Polisen Munkedal
+  city: Munkedal
+  latitude: null
+  longitude: null
+
+- location: Polisen Munkfors
+  city: Munkfors
+  latitude: null
+  longitude: null
+
+- location: Polisen Nacka
+  city: Nacka
+  latitude: null
+  longitude: null
+
+- location: Polisen Nässjö
+  city: Nässjö
+  latitude: null
+  longitude: null
+
+- location: Polisen Nora
+  city: Nora
+  latitude: null
+  longitude: null
+
+- location: Polisen Norberg
+  city: Norberg
+  latitude: null
+  longitude: null
+
+- location: Polisen Nordanstig
+  city: Nordanstig
+  latitude: null
+  longitude: null
+
+- location: Polisen Nordmaling
+  city: Nordmaling
+  latitude: null
+  longitude: null
+
+- location: Polisen Norrköping
+  city: Norrköping
+  latitude: null
+  longitude: null
+
+- location: Polisen Norrtälje
+  city: Norrtälje
+  latitude: null
+  longitude: null
+
+- location: Polisen Norsjö
+  city: Norsjö
+  latitude: null
+  longitude: null
+
+- location: Polisen Nybro
+  city: Nybro
+  latitude: null
+  longitude: null
+
+- location: Polisen Nyköping
+  city: Nyköping
+  latitude: null
+  longitude: null
+
+- location: Polisen Nykvarn
+  city: Nykvarn
+  latitude: null
+  longitude: null
+
+- location: Polisen Nynäshamn
+  city: Nynäshamn
+  latitude: null
+  longitude: null
+
+- location: Polisen Ockelbo
+  city: Ockelbo
+  latitude: null
+  longitude: null
+
+- location: Polisen Öckerö
+  city: Öckerö
+  latitude: null
+  longitude: null
+
+- location: Polisen Ödeshög
+  city: Ödeshög
+  latitude: null
+  longitude: null
+
+- location: Polisen Olofström
+  city: Olofström
+  latitude: null
+  longitude: null
+
+- location: Polisen Örebro
+  city: Örebro
+  latitude: null
+  longitude: null
+
+- location: Polisen Örkelljunga
+  city: Örkelljunga
+  latitude: null
+  longitude: null
+
+- location: Polisen Örnsköldsvik
+  city: Örnsköldsvik
+  latitude: null
+  longitude: null
+
+- location: Polisen Orsa
+  city: Orsa
+  latitude: null
+  longitude: null
+
+- location: Polisen Orust
+  city: Orust
+  latitude: null
+  longitude: null
+
+- location: Polisen Osby
+  city: Osby
+  latitude: null
+  longitude: null
+
+- location: Polisen Oskarshamn
+  city: Oskarshamn
+  latitude: null
+  longitude: null
+
+- location: Polisen Österåker
+  city: Österåker
+  latitude: null
+  longitude: null
+
+- location: Polisen Östersund
+  city: Östersund
+  latitude: null
+  longitude: null
+
+- location: Polisen Östhammar
+  city: Östhammar
+  latitude: null
+  longitude: null
+
+- location: Polisen Östra göinge
+  city: Östra göinge
+  latitude: null
+  longitude: null
+
+- location: Polisen Ovanåker
+  city: Ovanåker
+  latitude: null
+  longitude: null
+
+- location: Polisen Överkalix
+  city: Överkalix
+  latitude: null
+  longitude: null
+
+- location: Polisen Övertorneå
+  city: Övertorneå
+  latitude: null
+  longitude: null
+
+- location: Polisen Oxelösund
+  city: Oxelösund
+  latitude: null
+  longitude: null
+
+- location: Polisen Pajala
+  city: Pajala
+  latitude: null
+  longitude: null
+
+- location: Polisen Partille
+  city: Partille
+  latitude: null
+  longitude: null
+
+- location: Polisen Perstorp
+  city: Perstorp
+  latitude: null
+  longitude: null
+
+- location: Polisen Piteå
+  city: Piteå
+  latitude: null
+  longitude: null
+
+- location: Polisen Ragunda
+  city: Ragunda
+  latitude: null
+  longitude: null
+
+- location: Polisen Rättvik
+  city: Rättvik
+  latitude: null
+  longitude: null
+
+- location: Polisen Robertsfors
+  city: Robertsfors
+  latitude: null
+  longitude: null
+
+- location: Polisen Ronneby
+  city: Ronneby
+  latitude: null
+  longitude: null
+
+- location: Polisen Säffle
+  city: Säffle
+  latitude: null
+  longitude: null
+
+- location: Polisen Sala
+  city: Sala
+  latitude: null
+  longitude: null
+
+- location: Polisen Salem
+  city: Salem
+  latitude: null
+  longitude: null
+
+- location: Polisen Sandviken
+  city: Sandviken
+  latitude: null
+  longitude: null
+
+- location: Polisen Säter
+  city: Säter
+  latitude: null
+  longitude: null
+
+- location: Polisen Sävsjö
+  city: Sävsjö
+  latitude: null
+  longitude: null
+
+- location: Polisen Sigtuna
+  city: Sigtuna
+  latitude: null
+  longitude: null
+
+- location: Polisen Simrishamn
+  city: Simrishamn
+  latitude: null
+  longitude: null
+
+- location: Polisen Sjöbo
+  city: Sjöbo
+  latitude: null
+  longitude: null
+
+- location: Polisen Skara
+  city: Skara
+  latitude: null
+  longitude: null
+
+- location: Polisen Skellefteå
+  city: Skellefteå
+  latitude: null
+  longitude: null
+
+- location: Polisen Skinnskatteberg
+  city: Skinnskatteberg
+  latitude: null
+  longitude: null
+
+- location: Polisen Skövde
+  city: Skövde
+  latitude: null
+  longitude: null
+
+- location: Polisen Skurup
+  city: Skurup
+  latitude: null
+  longitude: null
+
+- location: Polisen Smedjebacken
+  city: Smedjebacken
+  latitude: null
+  longitude: null
+
+- location: Polisen Söderhamn
+  city: Söderhamn
+  latitude: null
+  longitude: null
+
+- location: Polisen Söderköping
+  city: Söderköping
+  latitude: null
+  longitude: null
+
+- location: Polisen Södertälje
+  city: Södertälje
+  latitude: null
+  longitude: null
+
+- location: Polisen Sollefteå
+  city: Sollefteå
+  latitude: null
+  longitude: null
+
+- location: Polisen Sollentuna
+  city: Sollentuna
+  latitude: null
+  longitude: null
+
+- location: Polisen Solna
+  city: Solna
+  latitude: null
+  longitude: null
+
+- location: Polisen Sölvesborg
+  city: Sölvesborg
+  latitude: null
+  longitude: null
+
+- location: Polisen Sorsele
+  city: Sorsele
+  latitude: null
+  longitude: null
+
+- location: Polisen Sotenäs
+  city: Sotenäs
+  latitude: null
+  longitude: null
+
+- location: Polisen Staffanstorp
+  city: Staffanstorp
+  latitude: null
+  longitude: null
+
+- location: Polisen Stenungsund
+  city: Stenungsund
+  latitude: null
+  longitude: null
+
+- location: Polisen Stockholm
+  city: Stockholm
+  latitude: null
+  longitude: null
+
+- location: Polisen Storfors
+  city: Storfors
+  latitude: null
+  longitude: null
+
+- location: Polisen Storuman
+  city: Storuman
+  latitude: null
+  longitude: null
+
+- location: Polisen Strängnäs
+  city: Strängnäs
+  latitude: null
+  longitude: null
+
+- location: Polisen Strömstad
+  city: Strömstad
+  latitude: null
+  longitude: null
+
+- location: Polisen Strömsund
+  city: Strömsund
+  latitude: null
+  longitude: null
+
+- location: Polisen Sundbyberg
+  city: Sundbyberg
+  latitude: null
+  longitude: null
+
+- location: Polisen Sundsvall
+  city: Sundsvall
+  latitude: null
+  longitude: null
+
+- location: Polisen Sunne
+  city: Sunne
+  latitude: null
+  longitude: null
+
+- location: Polisen Surahammar
+  city: Surahammar
+  latitude: null
+  longitude: null
+
+- location: Polisen Svalöv
+  city: Svalöv
+  latitude: null
+  longitude: null
+
+- location: Polisen Svedala
+  city: Svedala
+  latitude: null
+  longitude: null
+
+- location: Polisen Svenljunga
+  city: Svenljunga
+  latitude: null
+  longitude: null
+
+- location: Polisen Täby
+  city: Täby
+  latitude: null
+  longitude: null
+
+- location: Polisen Tanum
+  city: Tanum
+  latitude: null
+  longitude: null
+
+- location: Polisen Tibro
+  city: Tibro
+  latitude: null
+  longitude: null
+
+- location: Polisen Tidaholm
+  city: Tidaholm
+  latitude: null
+  longitude: null
+
+- location: Polisen Tierp
+  city: Tierp
+  latitude: null
+  longitude: null
+
+- location: Polisen Timrå
+  city: Timrå
+  latitude: null
+  longitude: null
+
+- location: Polisen Tingsryd
+  city: Tingsryd
+  latitude: null
+  longitude: null
+
+- location: Polisen Tjörn
+  city: Tjörn
+  latitude: null
+  longitude: null
+
+- location: Polisen Tomelilla
+  city: Tomelilla
+  latitude: null
+  longitude: null
+
+- location: Polisen Töreboda
+  city: Töreboda
+  latitude: null
+  longitude: null
+
+- location: Polisen Torsås
+  city: Torsås
+  latitude: null
+  longitude: null
+
+- location: Polisen Torsby
+  city: Torsby
+  latitude: null
+  longitude: null
+
+- location: Polisen Tranås
+  city: Tranås
+  latitude: null
+  longitude: null
+
+- location: Polisen Tranemo
+  city: Tranemo
+  latitude: null
+  longitude: null
+
+- location: Polisen Trelleborg
+  city: Trelleborg
+  latitude: null
+  longitude: null
+
+- location: Polisen Trollhättan
+  city: Trollhättan
+  latitude: null
+  longitude: null
+
+- location: Polisen Trosa
+  city: Trosa
+  latitude: null
+  longitude: null
+
+- location: Polisen Tyresö
+  city: Tyresö
+  latitude: null
+  longitude: null
+
+- location: Polisen Uddevalla
+  city: Uddevalla
+  latitude: null
+  longitude: null
+
+- location: Polisen Ulricehamn
+  city: Ulricehamn
+  latitude: null
+  longitude: null
+
+- location: Polisen Umeå
+  city: Umeå
+  latitude: null
+  longitude: null
+
+- location: Polisen Upplands väsby
+  city: Upplands väsby
+  latitude: null
+  longitude: null
+
+- location: Polisen Upplands-bro
+  city: Upplands-bro
+  latitude: null
+  longitude: null
+
+- location: Polisen Uppsala
+  city: Uppsala
+  latitude: null
+  longitude: null
+
+- location: Polisen Uppvidinge
+  city: Uppvidinge
+  latitude: null
+  longitude: null
+
+- location: Polisen Vadstena
+  city: Vadstena
+  latitude: null
+  longitude: null
+
+- location: Polisen Vaggeryd
+  city: Vaggeryd
+  latitude: null
+  longitude: null
+
+- location: Polisen Valdemarsvik
+  city: Valdemarsvik
+  latitude: null
+  longitude: null
+
+- location: Polisen Vallentuna
+  city: Vallentuna
+  latitude: null
+  longitude: null
+
+- location: Polisen Vänersborg
+  city: Vänersborg
+  latitude: null
+  longitude: null
+
+- location: Polisen Vännäs
+  city: Vännäs
+  latitude: null
+  longitude: null
+
+- location: Polisen Vansbro
+  city: Vansbro
+  latitude: null
+  longitude: null
+
+- location: Polisen Vara
+  city: Vara
+  latitude: null
+  longitude: null
+
+- location: Polisen Varberg
+  city: Varberg
+  latitude: null
+  longitude: null
+
+- location: Polisen Vårgårda
+  city: Vårgårda
+  latitude: null
+  longitude: null
+
+- location: Polisen Värmdö
+  city: Värmdö
+  latitude: null
+  longitude: null
+
+- location: Polisen Värnamo
+  city: Värnamo
+  latitude: null
+  longitude: null
+
+- location: Polisen Västerås
+  city: Västerås
+  latitude: null
+  longitude: null
+
+- location: Polisen Västervik
+  city: Västervik
+  latitude: null
+  longitude: null
+
+- location: Polisen Vaxholm
+  city: Vaxholm
+  latitude: null
+  longitude: null
+
+- location: Polisen Växjö
+  city: Växjö
+  latitude: null
+  longitude: null
+
+- location: Polisen Vellinge
+  city: Vellinge
+  latitude: null
+  longitude: null
+
+- location: Polisen Vetlanda
+  city: Vetlanda
+  latitude: null
+  longitude: null
+
+- location: Polisen Vilhelmina
+  city: Vilhelmina
+  latitude: null
+  longitude: null
+
+- location: Polisen Vimmerby
+  city: Vimmerby
+  latitude: null
+  longitude: null
+
+- location: Polisen Vindeln
+  city: Vindeln
+  latitude: null
+  longitude: null
+
+- location: Polisen Vingåker
+  city: Vingåker
+  latitude: null
+  longitude: null
+
+- location: Polisen Ydre
+  city: Ydre
+  latitude: null
+  longitude: null
+
+- location: Polisen Ystad
+  city: Ystad
+  latitude: null
+  longitude: null
+
+- location: Polisen Örebro Airport (flygplats)
+  city: Örebro Airport (flygplats)
+  latitude: null
+  longitude: null
+
+- location: Polisen Åseda
+  city: Åseda
+  latitude: null
+  longitude: null
+
+- location: Polisen Åhus
+  city: Åhus
+  latitude: null
+  longitude: null
+
+- location: Polisen Växjö Dalbo
+  city: Växjö Dalbo
+  latitude: null
+  longitude: null
+
+- location: Polisen Växjö cykelförråd
+  city: Växjö cykelförråd
+  latitude: null
+  longitude: null
+
+- location: Polisen Växjö
+  city: Växjö
+  latitude: null
+  longitude: null
+
+- location: Polisen Västberga
+  city: Västberga
+  latitude: null
+  longitude: null
+
+- location: Polisen Vällingby
+  city: Vällingby
+  latitude: null
+  longitude: null
+
+- location: Polisen Vivalla
+  city: Vivalla
+  latitude: null
+  longitude: null
+
+- location: Polisen Visby
+  city: Visby
+  latitude: null
+  longitude: null
+
+- location: Polisen Vagnhärad
+  city: Vagnhärad
+  latitude: null
+  longitude: null
+
+- location: Polisen Uppsala - Beslagsgruppen
+  city: Uppsala - Beslagsgruppen
+  latitude: null
+  longitude: null
+
+- location: Polisen Ullared
+  city: Ullared
+  latitude: null
+  longitude: null
+
+- location: Polisen Tärnaby
+  city: Tärnaby
+  latitude: null
+  longitude: null
+
+- location: Polisen Södra Roslagen (Täby)
+  city: Södra Roslagen (Täby)
+  latitude: null
+  longitude: null
+
+- location: Polisen Sälen
+  city: Sälen
+  latitude: null
+  longitude: null
+
+- location: Polisen Svenstavik
+  city: Svenstavik
+  latitude: null
+  longitude: null
+
+- location: Polisen Sveg
+  city: Sveg
+  latitude: null
+  longitude: null
+
+- location: Polisen Sturup - Malmö Airport
+  city: Sturup - Malmö Airport
+  latitude: null
+  longitude: null
+
+- location: Polisen Stockholm city Södermalm
+  city: Stockholm city Södermalm
+  latitude: null
+  longitude: null
+
+- location: Polisen Stockholm city passexpedition
+  city: Stockholm city passexpedition
+  latitude: null
+  longitude: null
+
+- location: Polisen Stockholm city Norrmalm
+  city: Stockholm city Norrmalm
+  latitude: null
+  longitude: null
+
+- location: Polisen Sollentuna
+  city: Sollentuna
+  latitude: null
+  longitude: null
+
+- location: Polisen Skärholmen
+  city: Skärholmen
+  latitude: null
+  longitude: null
+
+- location: Polisen Skutskär
+  city: Skutskär
+  latitude: null
+  longitude: null
+
+- location: Polisen Skelleftehamn
+  city: Skelleftehamn
+  latitude: null
+  longitude: null
+
+- location: Polisen Skavsta
+  city: Skavsta
+  latitude: null
+  longitude: null
+
+- location: Polisen Scandinavian Mountain Airport (flygplats)
+  city: Scandinavian Mountain Airport (flygplats)
+  latitude: null
+  longitude: null
+
+- location: Polisen Ovanåker - Edsbyn
+  city: Ovanåker - Edsbyn
+  latitude: null
+  longitude: null
+
+- location: Polisen Norrtälje
+  city: Norrtälje
+  latitude: null
+  longitude: null
+
+- location: Polisen Nordanstig - Bergsjö
+  city: Nordanstig - Bergsjö
+  latitude: null
+  longitude: null
+
+- location: Polisen Mölnlycke
+  city: Mölnlycke
+  latitude: null
+  longitude: null
+
+- location: Polisen Mobila poliskontoret i polisområde Blekinge nordöstra Skåne
+  city: Mobila poliskontoret i polisområde Blekinge nordöstra Skåne
+  latitude: null
+  longitude: null
+
+- location: Polisen Mobila poliskontoret i lokalpolisområde Klippan
+  city: Mobila poliskontoret i lokalpolisområde Klippan
+  latitude: null
+  longitude: null
+
+- location: Polisen Mobila kontoret Älvsborg
+  city: Mobila kontoret Älvsborg
+  latitude: null
+  longitude: null
+
+- location: Polisen Mobila kontoret Fyrbodal
+  city: Mobila kontoret Fyrbodal
+  latitude: null
+  longitude: null
+
+- location: Polisen Malung
+  city: Malung
+  latitude: null
+  longitude: null
+
+- location: Polisen Malmö Rosengård
+  city: Malmö Rosengård
+  latitude: null
+  longitude: null
+
+- location: Polisen Malmö Porslinsgatan
+  city: Malmö Porslinsgatan
+  latitude: null
+  longitude: null
+
+- location: Polisen Malmö hittegods/beslag
+  city: Malmö hittegods/beslag
+  latitude: null
+  longitude: null
+
+- location: Polisen Malmö Drottninggatan
+  city: Malmö Drottninggatan
+  latitude: null
+  longitude: null
+
+- location: Polisen Ludvika
+  city: Ludvika
+  latitude: null
+  longitude: null
+
+- location: Polisen Klara
+  city: Klara
+  latitude: null
+  longitude: null
+
+- location: Polisen Kinna
+  city: Kinna
+  latitude: null
+  longitude: null
+
+- location: Polisen Kinda/Ydre
+  city: Kinda/Ydre
+  latitude: null
+  longitude: null
+
+- location: Polisen Karlstad Flygplats
+  city: Karlstad Flygplats
+  latitude: null
+  longitude: null
+
+- location: Polisen Rinkeby
+  city: Stockholm
+  latitude: 59.387438
+  longitude: 17.932063
+
+- location: Polisen Idre
+  city: Idre
+  latitude: 61.858062
+  longitude: 12.712563
+
+- location: Polisen Göteborg Polishuset
+  city: Göteborg Polishuset
+  latitude: 57.705312
+  longitude: 11.982688
+
+- location: Polisen Göteborg Passcentralen
+  city: Göteborg Passcentralen
+  latitude: 57.707687
+  longitude: 11.984188
+
+- location: Polisen Landvetter
+  city: Landvetter
+  latitude: 57.671312
+  longitude: 12.298813
+
+- location: Polisen Göteborg Hittegodscentralen
+  city: Göteborg
+  latitude: 57.709563
+  longitude: 11.983438
+
+- location: Polisen Göteborg City
+  city: Göteborg
+  latitude: 57.707687
+  longitude: 11.983562
+
+- location: Polisen Globen
+  city: Stockholm
+  latitude: 59.292313
+  longitude: 18.082062
+
+- location: Polisen Funäsdalen
+  city: Funäsdalen
+  latitude: 62.544812
+  longitude: 12.546062
+
+- location: Polisen Flemingsberg
+  city: Flemingsberg
+  latitude: 59.216812
+  longitude: 17.947063
+
+- location: Polisen Dala Airport (flygplats)
+  city: Borlänge
+  latitude: 60.429562
+  longitude: 15.507813
+
+- location: Polisen Bålsta
+  city: Bålsta
+  latitude: 59.566562
+  longitude: 17.531687
+
+- location: Polisen Broby
+  city: Broby
+  latitude: 56.252562
+  longitude: 14.078188
+
+- location: Polisen Arlanda
+  city: Arlanda
+  latitude: 59.646438
+  longitude: 17.937812
