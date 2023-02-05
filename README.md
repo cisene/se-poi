@@ -17,285 +17,169 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 
 
-## Butikskedjor
+## Alkoholmonopol
 
+| Namn                                                                                     | Positioner |
+| :--------------------------------------------------------------------------------------- | ---------: |
+| [Systembolaget](https://sv.wikipedia.org/wiki/Systembolaget)                             |        394 |
+| [Systembolaget - Ombud](https://sv.wikipedia.org/wiki/Systembolaget)                     |        412 |
 
 
-### Livsmedel
 
-| Namn                                                         | Positioner | Källa                                                        |
-| ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
-| [City Gross](https://sv.wikipedia.org/wiki/City_Gross)       |            | [citygross.yaml](./yaml/stores/citygross.yaml)               |
-| [Coop Sverige](https://sv.wikipedia.org/wiki/Coop_Sverige)   |            | [coop.yaml](./yaml/stores/coop.yaml)                         |
-| [Hemköp](https://sv.wikipedia.org/wiki/Hemk%C3%B6p)          |            | [hemköp.yaml](./yaml/stores/hemköp.yaml)                     |
-| [ICA](https://sv.wikipedia.org/wiki/Ica)                     |            | [ica.yaml](./yaml/stores/ica.yaml)                           |
-| [Lidl](https://sv.wikipedia.org/wiki/Lidl)                   |            | [lidl.yaml](./yaml/stores/lidl.yaml)                         |
-| [Systembolaget](https://sv.wikipedia.org/wiki/Systembolaget) Butiker |            | [systembolaget-butiker.yaml](./yaml/stores/systembolaget-butiker.yaml) |
-| [Systembolaget](https://sv.wikipedia.org/wiki/Systembolaget) Ombud |            | [systembolaget-ombud.yaml](./yaml/stores/systembolaget-ombud.yaml) |
-| [Tempo](https://sv.wikipedia.org/wiki/Tempo_(butikskedja))   |            | [tempo.yaml](./yaml/stores/tempo.yaml)                       |
-| [Willys](https://sv.wikipedia.org/wiki/Willys)               |            | [willys.yaml](./yaml/stores/willys.yaml)                     |
+## Bank och Valuta
 
+| Namn                                                                                     | Positioner |
+| :--------------------------------------------------------------------------------------- | ---------: |
+| [Bankomat](https://sv.wikipedia.org/wiki/Bankomat)                                       |       1401 |
+| [Forex](https://sv.wikipedia.org/wiki/Forex_(f%C3%B6retag))                              |         83 |
 
-### Tobak och tidningar
 
-| Namn                                                        | Positioner | Källa                                                |
-| ----------------------------------------------------------- | ---------- | ---------------------------------------------------- |
-| [7-Eleven](https://sv.wikipedia.org/wiki/7-Eleven)          |            | [seven-eleven.yaml](./yaml/stores/seven-eleven.yaml) |
-| MyWay                                                       |            | [myway.yaml](./yaml/stores/myway.yaml)               |
-| [Pressbyrån](https://sv.wikipedia.org/wiki/Pressbyr%C3%A5n) |            | [pressbyrån.yaml](./yaml/stores/pressbyrån.yaml)     |
 
+## Bok- och kontorshandlarskedjor
 
+| Namn                                                                                     | Positioner |
+| :--------------------------------------------------------------------------------------- | ---------: |
+| [Akademibokhandeln](https://sv.wikipedia.org/wiki/Akademibokhandeln)                     |         96 |
 
-### Music och Litteratur
 
-| Namn                                                         | Positioner | Källa                                                        |
-| ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
-| [Akademibokhandeln](https://sv.wikipedia.org/wiki/Akademibokhandeln) |            | [akademibokhandeln.yaml](./yaml/stores/akademibokhandeln.yaml) |
 
+## Byggnadsmaterial
 
+| Namn                                                                                     | Positioner |
+| :--------------------------------------------------------------------------------------- | ---------: |
+| [Bauhaus](https://sv.wikipedia.org/wiki/Bauhaus%5F(butikskedja))                         |         13 |
+| [Byggmax](https://sv.wikipedia.org/wiki/Byggmax)                                         |         36 |
 
-### Kläder, skor och skönhet
 
-| Namn                                                         | Positioner | Källa                                                  |
-| ------------------------------------------------------------ | ---------- | ------------------------------------------------------ |
-| [Bik Bok](https://sv.wikipedia.org/wiki/Bik_Bok)             |            | [bikbok.yaml](./yaml/stores/bikbok.yaml)               |
-| [Brothers](https://sv.wikipedia.org/wiki/Brothers_(f%C3%B6retag)) |            | [brothers.yaml](./yaml/stores/brothers.yaml)           |
-| [Carlings](https://sv.wikipedia.org/wiki/Carlings)           |            | [carlings.yaml](./yaml/stores/carlings.yaml)           |
-| [Cubus](https://sv.wikipedia.org/wiki/Cubus)                 |            | [cubus.yaml](./yaml/stores/cubus.yaml)                 |
-| [Dressmann](https://sv.wikipedia.org/wiki/Dressmann)         |            | [dressman.yaml](./yaml/stores/dressman.yaml)           |
-| [Gina Tricot](https://sv.wikipedia.org/wiki/Gina_Tricot)     |            | [ginatricot.yaml](./yamn/stores/ginatricot.yaml)       |
-| [Guldfynd](https://sv.wikipedia.org/wiki/Guldfynd)           |            | [guldfynd.yaml](./yaml/stores/guldfynd.yaml)           |
-| [H&M](https://sv.wikipedia.org/wiki/Hennes_%26_Mauritz)      |            | [hm.yaml](./yaml/stores/hm.yaml)                       |
-| [Hallbergs Guld](https://sv.wikipedia.org/wiki/Hallbergs_Guldsmeds_AB) |            |                                                        |
-| [Indiska](https://sv.wikipedia.org/wiki/Indiska_Magasinet)   |            | [indiska.yaml](./yaml/stores/indiska.yaml)             |
-| [Jack & Jones](https://sv.wikipedia.org/wiki/Jack_%26_Jones) |            | [jackandjones.yaml](./yaml/stores/jackandjones.yaml)   |
-| [Kappahl](https://sv.wikipedia.org/wiki/Kappahl)             |            |                                                        |
-| [Kicks](https://sv.wikipedia.org/wiki/Kicks)                 |            | [kicks.yaml](./yaml/stores/kicks.yaml)                 |
-| [Lindex](https://sv.wikipedia.org/wiki/Lindex)               |            | [lindex.yaml](./yaml/stores/lindex.yaml)               |
-| [Normal](https://sv.wikipedia.org/wiki/Normal_(butikskedja)) |            | [normal.yaml](./yaml/stores/normal.yaml)               |
-| [Polarn O. Pyret](https://sv.wikipedia.org/wiki/Polarn_O._Pyret) |            |                                                        |
-| [The Body Shop](https://sv.wikipedia.org/wiki/The_Body_Shop) |            |                                                        |
-| [Vero Moda](https://sv.wikipedia.org/wiki/Vero_Moda)         |            |                                                        |
-| Albrekts Guld                                                |            | [albrekts-guld.yaml](./yaml/stores/albrekts-guld.yaml) |
-| Lyko                                                         |            |                                                        |
-| Rituals                                                      |            |                                                        |
-| Volt                                                         |            | [volt-fashion.yaml](./yaml/stores/volt-fashion.yaml)   |
-| Zizzi                                                        |            |                                                        |
 
+## Caféer
 
+| Namn                                                                                     | Positioner |
+| :--------------------------------------------------------------------------------------- | ---------: |
+| [Espresso House](https://sv.wikipedia.org/wiki/Espresso_House)                           |        545 |
+| [Kahls The & Kaffehandel](https://sv.wikipedia.org/wiki/Kahls_kaffe_AB)                  |         22 |
+| [Waynes Coffee](https://sv.wikipedia.org/wiki/Wayne%27s_Coffee)                          |         72 |
 
-### Skor
 
-| Namn                                                   | Positioner | Källa |
-| ------------------------------------------------------ | ---------- | ----- |
-| [Deichmann](https://sv.wikipedia.org/wiki/Deichmann)   |            |       |
-| [DinSko](https://sv.wikipedia.org/wiki/Din_sko)        |            |       |
-| [Scorett](https://sv.wikipedia.org/wiki/Scorett)       |            |       |
-| [Skopunkten](https://sv.wikipedia.org/wiki/Skopunkten) |            |       |
 
+## Dagligvarukedjor
 
+| Namn                                                                                     | Positioner |
+| :--------------------------------------------------------------------------------------- | ---------: |
+| [7-Eleven](https://sv.wikipedia.org/wiki/7-Eleven)                                       |         79 |
+| [City Gross](https://sv.wikipedia.org/wiki/City_Gross)                                   |         42 |
+| [Coop](https://sv.wikipedia.org/wiki/Coop_Sverige)                                       |        811 |
+| [Hemköp](https://sv.wikipedia.org/wiki/Hemk%C3%B6p)                                      |        183 |
+| [ICA](https://sv.wikipedia.org/wiki/Ica)                                                 |       1288 |
+| [Lidl](https://sv.wikipedia.org/wiki/Lidl)                                               |        310 |
+| [Pressbyrån](https://sv.wikipedia.org/wiki/Pressbyr%C3%A5n)                              |        314 |
+| [Tempo](https://sv.wikipedia.org/wiki/Tempo_(butikskedja))                               |        140 |
+| [Willys](https://sv.wikipedia.org/wiki/Willys)                                           |        227 |
 
 
-### Optik
-| Namn                                                   | Positioner | Källa |
-| ------------------------------------------------------ | ---------- | ----- |
-| [Specsavers](https://sv.wikipedia.org/wiki/Specsavers) |            |       |
-| [Synoptik](https://sv.wikipedia.org/wiki/Synoptik)     |            |       |
-| [Synsam](https://sv.wikipedia.org/wiki/Synsam)         |            |       |
 
+## Djur och Fritid
 
-### Sport och Fritid
+| Namn                                                                                     | Positioner |
+| :--------------------------------------------------------------------------------------- | ---------: |
+| [ArkenZoo](https://sv.wikipedia.org/wiki/Arken_Zoo)                                      |         85 |
 
-| Namn                                                         | Positioner | Källa |
-| ------------------------------------------------------------ | ---------- | ----- |
-| [Intersport](https://sv.wikipedia.org/wiki/Intersport)       |            |       |
-| [Lekia](https://sv.wikipedia.org/wiki/Lekia)                 |            |       |
-| [Stadium](https://sv.wikipedia.org/wiki/Stadium_(detaljhandelskedja)) |            |       |
-| [XXL](https://sv.wikipedia.org/wiki/XXL_(detaljhandelskedja)) |            |       |
-| Friskis & Svettis                                            |            |       |
 
 
+## Guldsmeder och Juvelerare
 
-### Vitvaror och Eletronik
+| Namn                                                                                     | Positioner |
+| :--------------------------------------------------------------------------------------- | ---------: |
+| Albrekts Guld                                                                            |         39 |
+| [Guldfynd](https://sv.wikipedia.org/wiki/Guldfynd)                                       |        116 |
 
-| Namn                                                         | Positioner | Källa                                              |
-| ------------------------------------------------------------ | ---------- | -------------------------------------------------- |
-| [Clas Ohlson](https://sv.wikipedia.org/wiki/Clas_Ohlson)     |            | [clas-ohlson.yaml](./yaml/stores/clas-ohlson.yaml) |
-| [Elgiganten](https://sv.wikipedia.org/wiki/Elgiganten)       |            |                                                    |
-| [Kjell & Company](https://sv.wikipedia.org/wiki/Kjell_%26_Company) |            |                                                    |
-| [MediaMarkt](https://sv.wikipedia.org/wiki/Media_Markt)      |            | [mediamarkt.yaml](./yaml/stores/mediamarkt.yaml)   |
-| [Rusta](https://sv.wikipedia.org/wiki/Rusta)                 |            |                                                    |
-| [Siba](https://sv.wikipedia.org/wiki/Siba)                   |            |                                                    |
-| [ÖoB](https://sv.wikipedia.org/wiki/%C3%96oB)                |            |                                                    |
 
 
+## Hemelektronik
 
-### Bygg, verktyg
+| Namn                                                                                     | Positioner |
+| :--------------------------------------------------------------------------------------- | ---------: |
+| [MediaMarkt](https://sv.wikipedia.org/wiki/Media_Markt)                                  |         29 |
 
-| Namn                                                         | Positioner | Källa                                      |
-| ------------------------------------------------------------ | ---------- | ------------------------------------------ |
-| [Ahlsell](https://sv.wikipedia.org/wiki/Ahlsell_(f%C3%B6retag)) |            |                                            |
-| [Bauhaus](https://sv.wikipedia.org/wiki/Bauhaus_(butikskedja)) |            | [bauhaus.yaml](./yaml/stores/bauhaus.yaml) |
-| [Beijer Byggmaterial](https://sv.wikipedia.org/wiki/Beijer_Byggmaterial) |            |                                            |
-| [Bolist](https://sv.wikipedia.org/wiki/Bolist)               |            |                                            |
-| [Byggma](https://sv.wikipedia.org/wiki/Byggma)               |            |                                            |
-| [Byggmax](https://sv.wikipedia.org/wiki/Byggmax)             |            | [byggmax.yaml](./yaml/stores/byggmax.yaml) |
-| [Jula](https://sv.wikipedia.org/wiki/Jula_(f%C3%B6retag))    |            |                                            |
-| [Järnia](https://sv.wikipedia.org/wiki/J%C3%A4rnia)          |            |                                            |
-| [K-Rauta](https://sv.wikipedia.org/wiki/K-Rauta)             |            |                                            |
-| [Optimera](https://sv.wikipedia.org/wiki/Optimera_Svenska_AB) |            |                                            |
-| [XL-BYGG](https://sv.wikipedia.org/wiki/XL-Bygg)             |            |                                            |
 
 
+## Heminredning
 
+| Namn                                                                                     | Positioner |
+| :--------------------------------------------------------------------------------------- | ---------: |
+| [Mio](https://sv.wikipedia.org/wiki/Mio_(butikskedja))                                   |         75 |
 
-### Telefoni, Bredband och Internet
 
-| Namn                                                         | Positioner | Källa                                        |
-| ------------------------------------------------------------ | ---------- | -------------------------------------------- |
-| [3Butiken](https://sv.wikipedia.org/wiki/Hi3G_Access)        |            | [3Butiker.yaml](./yaml/stores/3Butiker.yaml) |
-| [Tele 2](https://sv.wikipedia.org/wiki/Tele2)                |            |                                              |
-| [Telenor](https://sv.wikipedia.org/wiki/Telenor)             |            |                                              |
-| [Telia Sverige](https://sv.wikipedia.org/wiki/Telia_Sverige) |            |                                              |
 
+## Hotel och Övernattning
 
+| Namn                                                                                     | Positioner |
+| :--------------------------------------------------------------------------------------- | ---------: |
+| [Best Western](https://sv.wikipedia.org/wiki/Best_Western)                               |         89 |
+| [Nordic Choice Hotels](https://sv.wikipedia.org/wiki/Nordic_Choice_Hotels)               |         68 |
+| [Scandic Hotels](https://sv.wikipedia.org/wiki/Scandic_Hotels)                           |         76 |
 
-### Heminredning och dekorationer
 
-| Namn                                                         | Positioner | Källa                                              |
-| ------------------------------------------------------------ | ---------- | -------------------------------------------------- |
-| [Cervera](https://sv.wikipedia.org/wiki/Cervera)             |            |                                                    |
-| [Dollarstore](https://sv.wikipedia.org/wiki/Dollarstore)     |            | [dollarstore.yaml](./yaml/stores/dollarstore.yaml) |
-| [Flying Tiger Copenhagen](https://sv.wikipedia.org/wiki/Flying_Tiger_Copenhagen) |            |                                                    |
-| [Hemtex](https://sv.wikipedia.org/wiki/Hemtex)               |            |                                                    |
-| [IKEA](https://sv.wikipedia.org/wiki/Ikea)                   |            |                                                    |
-| [Jysk](https://sv.wikipedia.org/wiki/Jysk)                   |            |                                                    |
-| [Lagerhaus](https://sv.wikipedia.org/wiki/Lagerhaus)         |            |                                                    |
-| [Mio](https://sv.wikipedia.org/wiki/Mio_(butikskedja))       |            | [mio-möbler.yaml](./yaml/stores/mio-möbler.yaml)   |
-| [Åhlens](https://sv.wikipedia.org/wiki/%C3%85hl%C3%A9ns)     |            | [ahlens.yaml](./yaml/stores/ahlens.yaml)           |
 
+## Järnfackhandelskedjor
 
+| Namn                                                                                     | Positioner |
+| :--------------------------------------------------------------------------------------- | ---------: |
+| [Clas Ohlson](https://sv.wikipedia.org/wiki/Clas_Ohlson)                                 |         46 |
 
-### Apotek
 
-| Namn                                                         | Positioner | Källa |
-| ------------------------------------------------------------ | ---------- | ----- |
-| [Apotek Hjärtat](https://sv.wikipedia.org/wiki/Apotek_Hjärtat) |            |       |
-| [Apoteket AB](https://sv.wikipedia.org/wiki/Apoteket_AB)     |            |       |
-| [Apoteksgruppen](https://sv.wikipedia.org/wiki/Apoteksgruppen) |            |       |
-| [Kronans Apotek](https://sv.wikipedia.org/wiki/Kronans_Apotek) |            |       |
-| [LloydsApotek](https://sv.wikipedia.org/wiki/LloydsApotek)   |            |       |
 
+## Kläder och konfektion
 
+| Namn                                                                                     | Positioner |
+| :--------------------------------------------------------------------------------------- | ---------: |
+| [Bik Bok](https://sv.wikipedia.org/wiki/Bik_Bok)                                         |         64 |
+| [Brothers](https://sv.wikipedia.org/wiki/Brothers_(f%C3%B6retag))                        |         43 |
+| [Carlings](https://sv.wikipedia.org/wiki/Carlings)                                       |        159 |
+| [Cubus](https://sv.wikipedia.org/wiki/Cubus)                                             |        279 |
+| [Dressman](https://sv.wikipedia.org/wiki/Dressmann)                                      |        179 |
+| [Gina Tricot](https://sv.wikipedia.org/wiki/Gina_Tricot)                                 |         77 |
+| [Hennes & Mauritz](https://sv.wikipedia.org/wiki/Hennes_%26_Mauritz)                     |        118 |
+| [Indiska Magasinet](https://sv.wikipedia.org/wiki/Indiska_Magasinet)                     |         40 |
+| [Jack & Jones](https://sv.wikipedia.org/wiki/Jack_%26_Jones)                             |         54 |
+| [Kicks](https://sv.wikipedia.org/wiki/Kicks)                                             |        129 |
+| [Lindex](https://sv.wikipedia.org/wiki/Lindex)                                           |        439 |
+| [Polarn O. Pyret](https://sv.wikipedia.org/wiki/Polarn_O._Pyret)                         |         39 |
+| [The Body Shop](https://sv.wikipedia.org/wiki/The_Body_Shop)                             |         61 |
+| [Volt Fashion](https://sv.wikipedia.org/wiki/Varner-Gruppen)                             |         41 |
+| [Åhléns](https://sv.wikipedia.org/wiki/%C3%85hl%C3%A9ns)                                 |         83 |
 
-### Drivmedel
 
-| Namn                                                         | Positioner | Källa |
-| ------------------------------------------------------------ | ---------- | ----- |
-| [Circle-K](https://sv.wikipedia.org/wiki/Circle_K)           |            |       |
-| [Preem](https://sv.wikipedia.org/wiki/Preem)                 |            |       |
-| [QStar](https://sv.wikipedia.org/wiki/Qstar)                 |            |       |
-| [Bilisten](https://sv.wikipedia.org/wiki/Bilisten)           |            |       |
-| [Din-X](https://sv.wikipedia.org/wiki/Din-X)                 |            |       |
-| [Green Petroleum](https://sv.wikipedia.org/wiki/Green_Petroleum) |            |       |
-| [Ingo](https://sv.wikipedia.org/wiki/Ingo)                   |            |       |
-| [OKQ8](https://sv.wikipedia.org/wiki/OKQ8)                   |            |       |
-| Pump                                                         |            |       |
-| [Shell](https://sv.wikipedia.org/wiki/Shell)                 |            |       |
-| [Tanka](https://sv.wikipedia.org/wiki/Tanka_(bensinstationskedja)) |            |       |
-| [St1](https://sv.wikipedia.org/wiki/St1)                     |            |       |
-| [Uno-X](https://sv.wikipedia.org/wiki/Uno-X_(Sverige))       |            |       |
 
+## Lågpriskedjor
 
+| Namn                                                                                     | Positioner |
+| :--------------------------------------------------------------------------------------- | ---------: |
+| [Dollarstore](https://sv.wikipedia.org/wiki/Dollarstore)                                 |        129 |
+| [Normal](https://sv.wikipedia.org/wiki/Normal_(butikskedja))                             |         75 |
 
-### Serviceverkstäder
 
-| Namn                                                       | Positioner | Källa |
-| ---------------------------------------------------------- | ---------- | ----- |
-| AD Bildelar                                                |            |       |
-| [AutoExperten](https://sv.wikipedia.org/wiki/Autoexperten) |            |       |
-| [Carglass](https://sv.wikipedia.org/wiki/Carglass)         |            |       |
-| MECA                                                       |            |       |
-| Mechanum                                                   |            |       |
-| [Mekonomen](https://sv.wikipedia.org/wiki/Mekonomen)       |            |       |
-| Ryds Bilglas                                               |            |       |
 
+## Servicebutiker
 
+| Namn                                                                                     | Positioner |
+| :--------------------------------------------------------------------------------------- | ---------: |
+| MyWay                                                                                    |        137 |
 
 
-### Restauranter
 
-| Namn                                                         | Positioner | Källa |
-| ------------------------------------------------------------ | ---------- | ----- |
-| [Burger King](https://sv.wikipedia.org/wiki/Burger_King)     |            |       |
-| [KFC](https://sv.wikipedia.org/wiki/Kentucky_Fried_Chicken)  |            |       |
-| [Max Hamburgerrestauranger](https://sv.wikipedia.org/wiki/Max_Hamburgerrestauranger) |            |       |
-| [McDonald's](https://sv.wikipedia.org/wiki/McDonald%E2%80%99s) |            |       |
-| [Pizza Hut](https://sv.wikipedia.org/wiki/Pizza_Hut)         |            |       |
-| [Sibylla](https://sv.wikipedia.org/wiki/Sibylla_(snabbmatskedja)) |            |       |
-| [Sushi Yama](https://sv.wikipedia.org/wiki/Sushi_Yama)       |            |       |
-| YumYum                                                       |            |       |
-| Pinchos                                                      |            |       |
+## Snabbmatskedjor
 
+| Namn                                                                                     | Positioner |
+| :--------------------------------------------------------------------------------------- | ---------: |
+| [Max Hamburgerrestauranger](https://sv.wikipedia.org/wiki/Max_Hamburgerrestauranger)     |        113 |
+| [McDonald's](https://sv.wikipedia.org/wiki/McDonald%E2%80%99s)                           |        215 |
 
-### Caféer, Kaffe och Tea
 
-| Namn                                                         | Positioner | Källa                                                        |
-| ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
-| [Espresso House](https://sv.wikipedia.org/wiki/Espresso_House) |            | [espressohouse.yaml](./yaml/cafes/espressohouse.yaml)        |
-| [Kahls The & Kaffehandel](https://sv.wikipedia.org/wiki/Kahls_kaffe_AB) |            | [kahls-the-och-kaffehandel.yaml](./yaml/cafes/kahls-the-och-kaffehandel.yaml) |
-| [Wayne's Coffee](https://sv.wikipedia.org/wiki/Wayne%27s_Coffee) |            | [waynes-coffee.yaml](./yaml/cafes/waynes-coffee.yaml)        |
 
+## Telefonibutikskedjor
 
-
-### Pubar och Barer
-
-| Namn                    | Positioner | Källa                                                        |
-| ----------------------- | ---------- | ------------------------------------------------------------ |
-| [Harrys](https://sv.wikipedia.org/wiki/Harrys) | | |
-| [O'Learys](https://sv.wikipedia.org/wiki/O%27Learys) | | |
-| [The Bishop's Arms](https://sv.wikipedia.org/wiki/Bishops_Arms) | | |
-
-
-### Banker
-
-| Namn                                                         | Positioner | Källa                                           |
-| ------------------------------------------------------------ | ---------- | ----------------------------------------------- |
-| [Bankomat](https://sv.wikipedia.org/wiki/Bankomat)           |            | [bankomat.yaml](./yaml/financial/bankomat.yaml) |
-| [Forex](https://sv.wikipedia.org/wiki/Forex_(f%C3%B6retag))  |            | [forex.yaml](./yaml/financial/forex.yaml)       |
-| [Handelsbanken](https://sv.wikipedia.org/wiki/Svenska_Handelsbanken) |            |                                                 |
-| [Nordea](https://sv.wikipedia.org/wiki/Nordea)               |            |                                                 |
-| [SEB](https://sv.wikipedia.org/wiki/Skandinaviska_Enskilda_Banken) |            |                                                 |
-| [Swedbank](https://sv.wikipedia.org/wiki/Swedbank)           |            |                                                 |
-
-
-
-### Djurvård
-
-| Namn  | Positioner | Källa                                     |
-| ----- | ---------- | ----------------------------------------- |
-| [ArkenZoo](https://sv.wikipedia.org/wiki/Arken_Zoo) |            | [arkenzoo.yaml](./yaml/stores/arkenzoo.yaml)                 |
-| [Granngården](https://sv.wikipedia.org/wiki/Granng%C3%A5rden_AB) |            |                                                              |
-
-
-
-### Osorterat
-| Namn  | Positioner | Källa                                     |
-| ----- | ---------- | ----------------------------------------- |
-| Johnells                |            |                                                              |
-
-
-
-
-
-## Hotell
-| Namn                                                         | Positioner | Källa                                                |
-| ------------------------------------------------------------ | ---------- | ---------------------------------------------------- |
-| [Best Western](https://sv.wikipedia.org/wiki/Best_Western)   |            | [best-western.yaml](./yaml/hotels/best-western.yaml) |
-| [Clarion Hotels](https://sv.wikipedia.org/wiki/Clarion_Hotels) |            | [choice.yaml](./yaml/hotels/choice.yaml)             |
-| [Elite Hotels](https://sv.wikipedia.org/wiki/Elite_Hotels)   |            |                                                      |
-| [Nordic Choice Hotels](https://sv.wikipedia.org/wiki/Nordic_Choice_Hotels) |            | [choice.yaml](./yaml/hotels/choice.yaml)             |
-| [Quality Hotel](https://sv.wikipedia.org/wiki/Nordic_Choice_Hotels) |            | [choice.yaml](./yaml/hotels/choice.yaml)             |
-| [Scandic Hotels](https://sv.wikipedia.org/wiki/Scandic_Hotels) |            | [scandic.yaml](./yaml/hotels/scandic.yaml)           |
-|                                                              |            |                                                      |
+| Namn                                                                                     | Positioner |
+| :--------------------------------------------------------------------------------------- | ---------: |
+| [3 Butiken](https://sv.wikipedia.org/wiki/Hi3G_Access)                                   |         14 |
 
