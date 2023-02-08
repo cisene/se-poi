@@ -26,6 +26,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 
 
+
 ## Bank och Valuta
 
 | Namn                                                                                     | Positioner |
@@ -35,11 +36,13 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 
 
+
 ## Bok- och kontorshandlarskedjor
 
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
 | [Akademibokhandeln](https://sv.wikipedia.org/wiki/Akademibokhandeln)                     |         96 |
+
 
 
 
@@ -52,6 +55,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 
 
+
 ## Caféer
 
 | Namn                                                                                     | Positioner |
@@ -59,6 +63,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | [Espresso House](https://sv.wikipedia.org/wiki/Espresso_House)                           |        545 |
 | [Kahls The & Kaffehandel](https://sv.wikipedia.org/wiki/Kahls_kaffe_AB)                  |         22 |
 | [Waynes Coffee](https://sv.wikipedia.org/wiki/Wayne%27s_Coffee)                          |         72 |
+
 
 
 
@@ -78,11 +83,13 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 
 
+
 ## Djur och Fritid
 
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
 | [ArkenZoo](https://sv.wikipedia.org/wiki/Arken_Zoo)                                      |         85 |
+
 
 
 
@@ -95,6 +102,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 
 
+
 ## Hemelektronik
 
 | Namn                                                                                     | Positioner |
@@ -103,11 +111,13 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 
 
+
 ## Heminredning
 
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
 | [Mio](https://sv.wikipedia.org/wiki/Mio_(butikskedja))                                   |         75 |
+
 
 
 
@@ -121,11 +131,13 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 
 
+
 ## Järnfackhandelskedjor
 
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
 | [Clas Ohlson](https://sv.wikipedia.org/wiki/Clas_Ohlson)                                 |         46 |
+
 
 
 
@@ -151,12 +163,14 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 
 
+
 ## Lågpriskedjor
 
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
 | [Dollarstore](https://sv.wikipedia.org/wiki/Dollarstore)                                 |        129 |
 | [Normal](https://sv.wikipedia.org/wiki/Normal_(butikskedja))                             |         75 |
+
 
 
 
@@ -168,12 +182,14 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 
 
+
 ## Snabbmatskedjor
 
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
 | [Max Hamburgerrestauranger](https://sv.wikipedia.org/wiki/Max_Hamburgerrestauranger)     |        113 |
 | [McDonald's](https://sv.wikipedia.org/wiki/McDonald%E2%80%99s)                           |        215 |
+
 
 
 
