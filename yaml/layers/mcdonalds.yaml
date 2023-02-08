@@ -6,15 +6,25 @@ meta:
   locations: 215
 
 locations:
-- location: McDonald's Jönköping
+- location: McDonald's Sjukhusgatan
   city: Jönköping
   latitude: 57.77224
-  longitude: 14.19821
+  longitude: 14.19824
+
+- location: McDonald's Jönköping
+  city: Jönköping
+  latitude: 57.76304
+  longitude: 14.1524
 
 - location: McDonald's Jönköping
   city: Jönköping
   latitude: 57.77422
   longitude: 14.20401
+
+- location: McDonald's Jönköping
+  city: Jönköping
+  latitude: 57.78233
+  longitude: 14.17248
 
 - location: McDonald's Kista
   city: Kista
@@ -371,20 +381,10 @@ locations:
   latitude: 58.61936
   longitude: 16.15409
 
-- location: McDonald's Jönköping
-  city: Jönköping
-  latitude: 57.76304
-  longitude: 14.1524
-
 - location: McDonald's Säffle
   city: Säffle
   latitude: 59.13552
   longitude: 12.91809
-
-- location: McDonald's Jönköping
-  city: Jönköping
-  latitude: 57.78233
-  longitude: 14.17248
 
 - location: McDonald's Stockholm
   city: Stockholm
