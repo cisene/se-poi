@@ -6,10 +6,420 @@ meta:
   locations: 215
 
 locations:
-- location: McDonald's Sjukhusgatan
-  city: Jönköping
-  latitude: 57.77224
-  longitude: 14.19824
+- location: McDonald's Strömstad
+  city: Strömstad
+  latitude: 59.06009
+  longitude: 11.21374
+
+- location: McDonald's Uddevalla
+  city: Uddevalla
+  latitude: 58.3524
+  longitude: 11.8092
+
+- location: McDonald's Stenungsund
+  city: Stenungsund
+  latitude: 58.06186
+  longitude: 11.81754
+
+- location: McDonald's Töcksfors
+  city: Töcksfors
+  latitude: 59.510201
+  longitude: 11.8191
+
+- location: McDonald's Västra Frölunda
+  city: Västra Frölunda
+  latitude: 57.65147
+  longitude: 11.91068
+
+- location: McDonald's Västra Frölunda
+  city: Västra Frölunda
+  latitude: 57.64673
+  longitude: 11.91617
+
+- location: McDonald's Uddevalla
+  city: Uddevalla
+  latitude: 58.34957
+  longitude: 11.93268
+
+- location: McDonald's Göteborg
+  city: Göteborg
+  latitude: 57.7195
+  longitude: 11.9333
+
+- location: McDonald's Göteborg
+  city: Göteborg
+  latitude: 57.72129
+  longitude: 11.95278
+
+- location: McDonald's Göteborg
+  city: Göteborg
+  latitude: 57.70454
+  longitude: 11.96781
+
+- location: McDonald's Göteborg
+  city: Göteborg
+  latitude: 57.70985
+  longitude: 11.96848
+
+- location: McDonald's Göteborg
+  city: Göteborg
+  latitude: 57.70755
+  longitude: 11.96961
+
+- location: McDonald's Göteborg
+  city: Göteborg
+  latitude: 57.70856
+  longitude: 11.96986
+
+- location: McDonald's Kungälv
+  city: Kungälv
+  latitude: 57.87528
+  longitude: 11.97209
+
+- location: McDonald's Göteborg
+  city: Göteborg
+  latitude: 57.69938
+  longitude: 11.97684
+
+- location: McDonald's Mölndal
+  city: Mölndal
+  latitude: 57.64619
+  longitude: 11.98506
+
+- location: McDonald's Göteborg
+  city: Göteborg
+  latitude: 57.69983
+  longitude: 11.98695
+
+- location: McDonald's Hisings Backa
+  city: Hisings Backa
+  latitude: 57.747
+  longitude: 11.9921
+
+- location: McDonald's Hisings Backa
+  city: Hisings Backa
+  latitude: 57.77328
+  longitude: 11.99924
+
+- location: McDonald's Nödinge
+  city: Nödinge
+  latitude: 57.8952
+  longitude: 12.0464
+
+- location: McDonald's Angered
+  city: Angered
+  latitude: 57.79639
+  longitude: 12.0502
+
+- location: McDonald's Kållered
+  city: Kållered
+  latitude: 57.60205
+  longitude: 12.05023
+
+- location: McDonald's Kungsbacka
+  city: Kungsbacka
+  latitude: 57.47399
+  longitude: 12.05994
+
+- location: McDonald's Kungsbacka
+  city: Kungsbacka
+  latitude: 57.49199
+  longitude: 12.0711
+
+- location: McDonald's Partille
+  city: Partille
+  latitude: 57.74116
+  longitude: 12.12537
+
+- location: McDonald's Varberg
+  city: Varberg
+  latitude: 57.17048
+  longitude: 12.23556
+
+- location: McDonald's Varberg
+  city: Varberg
+  latitude: 57.12408
+  longitude: 12.26284
+
+- location: McDonald's Charlottenberg
+  city: Charlottenberg
+  latitude: 59.8807
+  longitude: 12.29022
+
+- location: McDonald's Trollhättan
+  city: Trollhättan
+  latitude: 58.31444
+  longitude: 12.30698
+
+- location: McDonald's Falkenberg
+  city: Falkenberg
+  latitude: 56.93158
+  longitude: 12.51732
+
+- location: McDonald's Alingsås
+  city: Alingsås
+  latitude: 57.92543
+  longitude: 12.52961
+
+- location: McDonald's Arvika
+  city: Arvika
+  latitude: 59.66132
+  longitude: 12.61313
+
+- location: McDonald's Helsingborg
+  city: Helsingborg
+  latitude: 56.04451
+  longitude: 12.69374
+
+- location: McDonald's Kinna
+  city: Kinna
+  latitude: 57.50471
+  longitude: 12.69912
+
+- location: McDonald's Helsingborg
+  city: Helsingborg
+  latitude: 56.05767
+  longitude: 12.70483
+
+- location: McDonald's Ödåkra
+  city: Ödåkra
+  latitude: 56.0907
+  longitude: 12.7565
+
+- location: McDonald's Helsingborg
+  city: Helsingborg
+  latitude: 56.01679
+  longitude: 12.76108
+
+- location: McDonald's Vårgårda
+  city: Vårgårda
+  latitude: 58.041
+  longitude: 12.8008
+
+- location: McDonald's Landskrona
+  city: Landskrona
+  latitude: 55.87122
+  longitude: 12.85256
+
+- location: McDonald's Halmstad
+  city: Halmstad
+  latitude: 56.67447
+  longitude: 12.85815
+
+- location: McDonald's Hyllinge
+  city: Hyllinge
+  latitude: 56.0991
+  longitude: 12.86
+
+- location: McDonald's Ängelholm
+  city: Ängelholm
+  latitude: 56.25035
+  longitude: 12.89303
+
+- location: McDonald's Halmstad
+  city: Halmstad
+  latitude: 56.65612
+  longitude: 12.90761
+
+- location: McDonald's Säffle
+  city: Säffle
+  latitude: 59.13552
+  longitude: 12.91809
+
+- location: McDonald's Borås
+  city: Borås
+  latitude: 57.73281
+  longitude: 12.93512
+
+- location: McDonald's Borås
+  city: Borås
+  latitude: 57.7321
+  longitude: 12.93844
+
+- location: McDonald's Borås
+  city: Borås
+  latitude: 57.72034
+  longitude: 12.93853
+
+- location: McDonald's Mellbystrand
+  city: Mellbystrand
+  latitude: 56.50194
+  longitude: 12.95675
+
+- location: McDonald's Borås
+  city: Borås
+  latitude: 57.72034
+  longitude: 12.97327
+
+- location: McDonald's Malmö
+  city: Malmö
+  latitude: 55.56265
+  longitude: 12.97647
+
+- location: McDonald's Löddeköpinge
+  city: Löddeköpinge
+  latitude: 55.76785
+  longitude: 12.98934
+
+- location: McDonald's Malmö
+  city: Malmö
+  latitude: 55.60295
+  longitude: 13.00144
+
+- location: McDonald's Malmö
+  city: Malmö
+  latitude: 55.59581
+  longitude: 13.0027
+
+- location: McDonald's Malmö
+  city: Malmö
+  latitude: 55.5811
+  longitude: 13.00396
+
+- location: McDonald's Malmö
+  city: Malmö
+  latitude: 55.58237
+  longitude: 13.01152
+
+- location: McDonald's Malmö
+  city: Malmö
+  latitude: 55.60839
+  longitude: 13.02886
+
+- location: McDonald's Malmö
+  city: Malmö
+  latitude: 55.55075
+  longitude: 13.03298
+
+- location: McDonald's Malmö
+  city: Malmö
+  latitude: 55.5839
+  longitude: 13.05514
+
+- location: McDonald's Burlöv
+  city: Burlöv
+  latitude: 55.6397
+  longitude: 13.0856
+
+- location: McDonald's Lomma
+  city: Lomma
+  latitude: 55.68459
+  longitude: 13.09063
+
+- location: McDonald's Lidköping
+  city: Lidköping
+  latitude: 58.49307
+  longitude: 13.13872
+
+- location: McDonald's Trelleborg
+  city: Trelleborg
+  latitude: 55.37322
+  longitude: 13.15617
+
+- location: McDonald's Lund
+  city: Lund
+  latitude: 55.70127
+  longitude: 13.1964
+
+- location: McDonald's Lund
+  city: Lund
+  latitude: 55.72066
+  longitude: 13.20147
+
+- location: McDonald's Sälen
+  city: Sälen
+  latitude: 61.15458
+  longitude: 13.20341
+
+- location: McDonald's Staffanstorp
+  city: Staffanstorp
+  latitude: 55.64253
+  longitude: 13.23692
+
+- location: McDonald's Svedala
+  city: Svedala
+  latitude: 55.51567
+  longitude: 13.24537
+
+- location: McDonald's Eslöv
+  city: Eslöv
+  latitude: 55.84011
+  longitude: 13.32799
+
+- location: McDonald's Örkelljunga
+  city: Örkelljunga
+  latitude: 56.2842
+  longitude: 13.3377
+
+- location: McDonald's Karlstad
+  city: Karlstad
+  latitude: 59.37765
+  longitude: 13.42287
+
+- location: McDonald's Skara
+  city: Skara
+  latitude: 58.39019
+  longitude: 13.46068
+
+- location: McDonald's Karlstad
+  city: Karlstad
+  latitude: 59.38373
+  longitude: 13.47575
+
+- location: McDonald's Karlstad
+  city: Karlstad
+  latitude: 59.3792
+  longitude: 13.497
+
+- location: McDonald's Falköping
+  city: Falköping
+  latitude: 58.15944
+  longitude: 13.57251
+
+- location: McDonald's Ystad, Ystad
+  city: Ystad, Ystad
+  latitude: 55.43859
+  longitude: 13.79134
+
+- location: McDonald's Mariestad
+  city: Mariestad
+  latitude: 58.67844
+  longitude: 13.81728
+
+- location: McDonald's Hässleholm
+  city: Hässleholm
+  latitude: 56.17062
+  longitude: 13.81885
+
+- location: McDonald's Skövde
+  city: Skövde
+  latitude: 58.39031
+  longitude: 13.84617
+
+- location: McDonald's Skövde
+  city: Skövde
+  latitude: 58.40664
+  longitude: 13.85493
+
+- location: McDonald's Ljungby
+  city: Ljungby
+  latitude: 56.81418
+  longitude: 13.90632
+
+- location: McDonald's Värnamo
+  city: Värnamo
+  latitude: 57.16311
+  longitude: 14.07376
+
+- location: McDonald's Kristianstad
+  city: Kristianstad
+  latitude: 56.02319
+  longitude: 14.14385
+
+- location: McDonald's Kristinehamn
+  city: Kristinehamn
+  latitude: 59.31469
+  longitude: 14.14822
 
 - location: McDonald's Jönköping
   city: Jönköping
@@ -18,1065 +428,655 @@ locations:
 
 - location: McDonald's Jönköping
   city: Jönköping
-  latitude: 57.77422
-  longitude: 14.20401
-
-- location: McDonald's Jönköping
-  city: Jönköping
   latitude: 57.78233
   longitude: 14.17248
 
-- location: McDonald's Kista
-  city: Kista
-  latitude: 59.41382
-  longitude: 17.92978
-
-- location: McDonald's Nödinge
-  city: Nödinge
-  latitude: 57.8952
-  longitude: 12.0464
-
-- location: McDonald's Alingsås
-  city: Alingsås
-  latitude: 57.92543
-  longitude: 12.52961
-
-- location: McDonald's Bromma
-  city: Bromma
-  latitude: 59.33288
-  longitude: 17.97978
-
-- location: McDonald's Angered
-  city: Angered
-  latitude: 57.79639
-  longitude: 12.0502
-
-- location: McDonald's Göteborg
-  city: Göteborg
-  latitude: 57.69938
-  longitude: 11.97684
-
-- location: McDonald's Göteborg
-  city: Göteborg
-  latitude: 57.72129
-  longitude: 11.95278
-
-- location: McDonald's Järfälla
-  city: Järfälla
-  latitude: 59.41825
-  longitude: 17.85689
-
-- location: McDonald's Kalmar
-  city: Kalmar
-  latitude: 56.6611
-  longitude: 16.36407
-
-- location: McDonald's Nyköping
-  city: Nyköping
-  latitude: 58.74879
-  longitude: 16.98062
-
-- location: McDonald's Karlstad
-  city: Karlstad
-  latitude: 59.37765
-  longitude: 13.42287
-
-- location: McDonald's Sundsvall
-  city: Sundsvall
-  latitude: 62.44823
-  longitude: 17.33765
-
-- location: McDonald's Borås
-  city: Borås
-  latitude: 57.72034
-  longitude: 12.93853
-
-- location: McDonald's Linköping
-  city: Linköping
-  latitude: 58.39898
-  longitude: 15.65372
-
-- location: McDonald's Bromma
-  city: Bromma
-  latitude: 59.33843
-  longitude: 17.93831
-
-- location: McDonald's Kumla
-  city: Kumla
-  latitude: 59.0644
-  longitude: 15.004
-
-- location: McDonald's Burlöv
-  city: Burlöv
-  latitude: 55.6397
-  longitude: 13.0856
-
-- location: McDonald's Hisings Backa
-  city: Hisings Backa
-  latitude: 57.77328
-  longitude: 11.99924
-
-- location: McDonald's Stockholm
-  city: Stockholm
-  latitude: 59.32973
-  longitude: 18.05921
-
-- location: McDonald's Sundsvall
-  city: Sundsvall
-  latitude: 62.38673
-  longitude: 17.31747
-
-- location: McDonald's Charlottenberg
-  city: Charlottenberg
-  latitude: 59.8807
-  longitude: 12.29022
-
-- location: McDonald's Sollentuna
-  city: Sollentuna
-  latitude: 59.46999
-  longitude: 17.91601
-
-- location: McDonald's Karlshamn
-  city: Karlshamn
-  latitude: 56.18793
-  longitude: 14.84704
-
-- location: McDonald's Norsborg
-  city: Norsborg
-  latitude: 59.23666
-  longitude: 17.83136
-
-- location: McDonald's Västerås
-  city: Västerås
-  latitude: 59.61322
-  longitude: 16.46965
-
-- location: McDonald's Umeå
-  city: Umeå
-  latitude: 63.85232
-  longitude: 20.29569
-
-- location: McDonald's Eskilstuna
-  city: Eskilstuna
-  latitude: 59.37162
-  longitude: 16.5115
-
-- location: McDonald's Eslöv
-  city: Eslöv
-  latitude: 55.84011
-  longitude: 13.32799
-
-- location: McDonald's Arlandastad
-  city: Arlandastad
-  latitude: 59.60686
-  longitude: 17.8955
-
-- location: McDonald's Halmstad
-  city: Halmstad
-  latitude: 56.65612
-  longitude: 12.90761
-
-- location: McDonald's Falkenberg
-  city: Falkenberg
-  latitude: 56.93158
-  longitude: 12.51732
-
-- location: McDonald's Falköping
-  city: Falköping
-  latitude: 58.15944
-  longitude: 13.57251
-
-- location: McDonald's Falun
-  city: Falun
-  latitude: 60.60781
-  longitude: 15.65321
-
-- location: McDonald's Farsta
-  city: Farsta
-  latitude: 59.24275
-  longitude: 18.09025
-
-- location: McDonald's Norrköping
-  city: Norrköping
-  latitude: 58.58696
-  longitude: 16.18879
-
-- location: McDonald's Oskarshamn
-  city: Oskarshamn
-  latitude: 57.26318
-  longitude: 16.4303
-
-- location: McDonald's Stockholm
-  city: Stockholm
-  latitude: 59.31424
-  longitude: 18.07452
-
-- location: McDonald's Uppsala
-  city: Uppsala
-  latitude: 59.85747
-  longitude: 17.6411
-
-- location: McDonald's Västra Frölunda
-  city: Västra Frölunda
-  latitude: 57.64673
-  longitude: 11.91617
-
-- location: McDonald's Västra Frölunda
-  city: Västra Frölunda
-  latitude: 57.65147
-  longitude: 11.91068
-
-- location: McDonald's Enköping
-  city: Enköping
-  latitude: 59.65385
-  longitude: 17.08429
-
-- location: McDonald's Uppsala
-  city: Uppsala
-  latitude: 59.85842
-  longitude: 17.68053
-
-- location: McDonald's Upplands Väsby
-  city: Upplands Väsby
-  latitude: 59.54929
-  longitude: 17.9009
-
-- location: McDonald's Malmö
-  city: Malmö
-  latitude: 55.60295
-  longitude: 13.00144
-
-- location: McDonald's Arvika
-  city: Arvika
-  latitude: 59.66132
-  longitude: 12.61313
-
-- location: McDonald's Kalmar
-  city: Kalmar
-  latitude: 56.67157
-  longitude: 16.33614
-
-- location: McDonald's Johanneshov
-  city: Johanneshov
-  latitude: 59.29318
-  longitude: 18.08189
-
-- location: McDonald's Visby
-  city: Visby
-  latitude: 57.63769
-  longitude: 18.30068
-
-- location: McDonald's Gävle
-  city: Gävle
-  latitude: 60.673912
-  longitude: 17.141039
-
-- location: McDonald's Sandviken
-  city: Sandviken
-  latitude: 60.62332
-  longitude: 16.77083
-
-- location: McDonald's Göteborg
-  city: Göteborg
-  latitude: 57.70755
-  longitude: 11.96961
-
-- location: McDonald's Stockholm
-  city: Stockholm
-  latitude: 59.30899
-  longitude: 18.076
-
-- location: McDonald's Norrköping
-  city: Norrköping
-  latitude: 58.57397
-  longitude: 16.21198
-
-- location: McDonald's Norsborg
-  city: Norsborg
-  latitude: 59.24
-  longitude: 17.82924
-
-- location: McDonald's Halmstad
-  city: Halmstad
-  latitude: 56.67447
-  longitude: 12.85815
-
-- location: McDonald's Stockholm
-  city: Stockholm
-  latitude: 59.33309
-  longitude: 18.07215
-
-- location: McDonald's Haninge
-  city: Haninge
-  latitude: 59.16835
-  longitude: 18.13958
-
-- location: McDonald's Hedemora
-  city: Hedemora
-  latitude: 60.2847
-  longitude: 15.9914
-
-- location: McDonald's Malmö
-  city: Malmö
-  latitude: 55.58237
-  longitude: 13.01152
-
-- location: McDonald's Gävle
-  city: Gävle
-  latitude: 60.65899
-  longitude: 17.16345
-
-- location: McDonald's Kungens Kurva
-  city: Kungens Kurva
-  latitude: 59.26635
-  longitude: 17.91044
-
-- location: McDonald's Stockholm
-  city: Stockholm
-  latitude: 59.31784
-  longitude: 18.05306
-
-- location: McDonald's Huddinge
-  city: Huddinge
-  latitude: 59.23456
-  longitude: 17.98191
-
-- location: McDonald's Hudiksvall
-  city: Hudiksvall
-  latitude: 61.73266
-  longitude: 17.09981
-
-- location: McDonald's Borås
-  city: Borås
-  latitude: 57.72034
-  longitude: 12.97327
-
-- location: McDonald's Hyllinge
-  city: Hyllinge
-  latitude: 56.0991
-  longitude: 12.86
-
-- location: McDonald's Täby
-  city: Täby
-  latitude: 59.44542
-  longitude: 18.12185
-
-- location: McDonald's Sollentuna
-  city: Sollentuna
-  latitude: 59.438911
-  longitude: 17.935406
-
-- location: McDonald's Västerås
-  city: Västerås
-  latitude: 59.60934
-  longitude: 16.62444
-
-- location: McDonald's Stockholm
-  city: Stockholm
-  latitude: 59.334978
-  longitude: 18.061158
-
-- location: McDonald's Norrköping
-  city: Norrköping
-  latitude: 58.61936
-  longitude: 16.15409
-
-- location: McDonald's Säffle
-  city: Säffle
-  latitude: 59.13552
-  longitude: 12.91809
-
-- location: McDonald's Stockholm
-  city: Stockholm
-  latitude: 59.33812
-  longitude: 18.09093
+- location: McDonald's Sjukhusgatan
+  city: Jönköping
+  latitude: 57.77224
+  longitude: 14.19824
+
+- location: McDonald's Jönköping
+  city: Jönköping
+  latitude: 57.77422
+  longitude: 14.20401
 
 - location: McDonald's Karlskoga
   city: Karlskoga
   latitude: 59.32514
   longitude: 14.52687
 
-- location: McDonald's Karlstad
-  city: Karlstad
-  latitude: 59.3792
-  longitude: 13.497
-
-- location: McDonald's Kinna
-  city: Kinna
-  latitude: 57.50471
-  longitude: 12.69912
-
-- location: McDonald's Kista
-  city: Kista
-  latitude: 59.40403
-  longitude: 17.94304
-
-- location: McDonald's Norrköping
-  city: Norrköping
-  latitude: 58.56871
-  longitude: 16.07959
-
-- location: McDonald's Helsingborg
-  city: Helsingborg
-  latitude: 56.04451
-  longitude: 12.69374
-
-- location: McDonald's Kristinehamn
-  city: Kristinehamn
-  latitude: 59.31469
-  longitude: 14.14822
-
-- location: McDonald's Karlskrona
-  city: Karlskrona
-  latitude: 56.16255
-  longitude: 15.58491
-
-- location: McDonald's Huddinge
-  city: Huddinge
-  latitude: 59.27411
-  longitude: 17.91977
-
-- location: McDonald's Kungsbacka
-  city: Kungsbacka
-  latitude: 57.49199
-  longitude: 12.0711
-
-- location: McDonald's Kungsbacka
-  city: Kungsbacka
-  latitude: 57.47399
-  longitude: 12.05994
-
-- location: McDonald's Stockholm
-  city: Stockholm
-  latitude: 59.3362
-  longitude: 18.0704
-
-- location: McDonald's Göteborg
-  city: Göteborg
-  latitude: 57.70454
-  longitude: 11.96781
-
-- location: McDonald's Kungälv
-  city: Kungälv
-  latitude: 57.87528
-  longitude: 11.97209
-
-- location: McDonald's Borlänge
-  city: Borlänge
-  latitude: 60.48569
-  longitude: 15.41686
-
-- location: McDonald's Kållered
-  city: Kållered
-  latitude: 57.60205
-  longitude: 12.05023
-
-- location: McDonald's Landskrona
-  city: Landskrona
-  latitude: 55.87122
-  longitude: 12.85256
-
-- location: McDonald's Varberg
-  city: Varberg
-  latitude: 57.12408
-  longitude: 12.26284
-
-- location: McDonald's Stockholm
-  city: Stockholm
-  latitude: 59.31049
-  longitude: 18.02302
-
-- location: McDonald's Östersund
-  city: Östersund
-  latitude: 63.17704
-  longitude: 14.69205
-
-- location: McDonald's Sälen
-  city: Sälen
-  latitude: 61.15458
-  longitude: 13.20341
-
-- location: McDonald's Kungens Kurva
-  city: Kungens Kurva
-  latitude: 59.26503
-  longitude: 17.89723
-
-- location: McDonald's Linköping
-  city: Linköping
-  latitude: 58.40911
-  longitude: 15.62529
-
-- location: McDonald's Malmö
-  city: Malmö
-  latitude: 55.55075
-  longitude: 13.03298
-
-- location: McDonald's Lomma
-  city: Lomma
-  latitude: 55.68459
-  longitude: 13.09063
-
-- location: McDonald's Löddeköpinge
-  city: Löddeköpinge
-  latitude: 55.76785
-  longitude: 12.98934
-
-- location: McDonald's Göteborg
-  city: Göteborg
-  latitude: 57.70985
-  longitude: 11.96848
-
-- location: McDonald's Malmö
-  city: Malmö
-  latitude: 55.56265
-  longitude: 12.97647
-
-- location: McDonald's Södertälje
-  city: Södertälje
-  latitude: 59.19488
-  longitude: 17.62928
-
-- location: McDonald's Örebro
-  city: Örebro
-  latitude: 59.218
-  longitude: 15.1367
-
-- location: McDonald's Mariestad
-  city: Mariestad
-  latitude: 58.67844
-  longitude: 13.81728
-
-- location: McDonald's Ludvika
-  city: Ludvika
-  latitude: 60.1515
-  longitude: 15.19061
-
 - location: McDonald's Mora
   city: Mora
   latitude: 61.00882
   longitude: 14.59051
-
-- location: McDonald's Haninge
-  city: Haninge
-  latitude: 59.17686
-  longitude: 18.1483
-
-- location: McDonald's Katrineholm
-  city: Katrineholm
-  latitude: 58.99576
-  longitude: 16.21193
-
-- location: McDonald's Mellbystrand
-  city: Mellbystrand
-  latitude: 56.50194
-  longitude: 12.95675
-
-- location: McDonald's Malmö
-  city: Malmö
-  latitude: 55.60839
-  longitude: 13.02886
-
-- location: McDonald's Mjölby
-  city: Mjölby
-  latitude: 58.32372
-  longitude: 15.09217
-
-- location: McDonald's Luleå
-  city: Luleå
-  latitude: 65.60276
-  longitude: 22.13344
-
-- location: McDonald's Malmö
-  city: Malmö
-  latitude: 55.5811
-  longitude: 13.00396
-
-- location: McDonald's Södertälje
-  city: Södertälje
-  latitude: 59.2004
-  longitude: 17.66267
-
-- location: McDonald's Motala
-  city: Motala
-  latitude: 58.53103
-  longitude: 15.0439
-
-- location: McDonald's Lund
-  city: Lund
-  latitude: 55.70127
-  longitude: 13.1964
-
-- location: McDonald's Mölndal
-  city: Mölndal
-  latitude: 57.64619
-  longitude: 11.98506
-
-- location: McDonald's Nacka
-  city: Nacka
-  latitude: 59.31294
-  longitude: 18.16089
-
-- location: McDonald's Strömstad
-  city: Strömstad
-  latitude: 59.06009
-  longitude: 11.21374
-
-- location: McDonald's Lund
-  city: Lund
-  latitude: 55.72066
-  longitude: 13.20147
-
-- location: McDonald's Växjö
-  city: Växjö
-  latitude: 56.9021
-  longitude: 14.82823
-
-- location: McDonald's Skövde
-  city: Skövde
-  latitude: 58.40664
-  longitude: 13.85493
-
-- location: McDonald's Norrtälje
-  city: Norrtälje
-  latitude: 59.74796
-  longitude: 18.68659
-
-- location: McDonald's Nybro
-  city: Nybro
-  latitude: 56.73511
-  longitude: 15.93372
-
-- location: McDonald's Stockholm
-  city: Stockholm
-  latitude: 59.33503
-  longitude: 18.0779
-
-- location: McDonald's Sköndal
-  city: Sköndal
-  latitude: 59.26252
-  longitude: 18.10016
-
-- location: McDonald's Upplands Väsby
-  city: Upplands Väsby
-  latitude: 59.54964
-  longitude: 17.89814
-
-- location: McDonald's Göteborg
-  city: Göteborg
-  latitude: 57.70856
-  longitude: 11.96986
-
-- location: McDonald's Göteborg
-  city: Göteborg
-  latitude: 57.7195
-  longitude: 11.9333
-
-- location: McDonald's Stockholm
-  city: Stockholm
-  latitude: 59.33083
-  longitude: 18.06852
-
-- location: McDonald's Malmö
-  city: Malmö
-  latitude: 55.5839
-  longitude: 13.05514
-
-- location: McDonald's Sundbyberg
-  city: Sundbyberg
-  latitude: 59.37997
-  longitude: 17.94404
-
-- location: McDonald's Borås
-  city: Borås
-  latitude: 57.73281
-  longitude: 12.93512
-
-- location: McDonald's Skövde
-  city: Skövde
-  latitude: 58.39031
-  longitude: 13.84617
-
-- location: McDonald's Växjö
-  city: Växjö
-  latitude: 56.88293
-  longitude: 14.76413
-
-- location: McDonald's Göteborg
-  city: Göteborg
-  latitude: 57.69983
-  longitude: 11.98695
-
-- location: McDonald's Stockholm
-  city: Stockholm
-  latitude: 59.33356
-  longitude: 18.06385
-
-- location: McDonald's Nacka
-  city: Nacka
-  latitude: 59.3056
-  longitude: 18.1287
-
-- location: McDonald's Skara
-  city: Skara
-  latitude: 58.39019
-  longitude: 13.46068
-
-- location: McDonald's Västerås
-  city: Västerås
-  latitude: 59.61064
-  longitude: 16.54956
-
-- location: McDonald's Partille
-  city: Partille
-  latitude: 57.74116
-  longitude: 12.12537
-
-- location: McDonald's Arlanda
-  city: Arlanda
-  latitude: 59.64889
-  longitude: 17.93039
-
-- location: McDonald's Skärholmen
-  city: Skärholmen
-  latitude: 59.27617
-  longitude: 17.90709
-
-- location: McDonald's Stockholm
-  city: Stockholm
-  latitude: 59.31922
-  longitude: 18.07379
-
-- location: McDonald's Solna
-  city: Solna
-  latitude: 59.35282
-  longitude: 18.01664
-
-- location: McDonald's Staffanstorp
-  city: Staffanstorp
-  latitude: 55.64253
-  longitude: 13.23692
-
-- location: McDonald's Helsingborg
-  city: Helsingborg
-  latitude: 56.05767
-  longitude: 12.70483
-
-- location: McDonald's Västerås
-  city: Västerås
-  latitude: 59.63641
-  longitude: 16.56363
-
-- location: McDonald's Uppsala
-  city: Uppsala
-  latitude: 59.84972
-  longitude: 17.56102
-
-- location: McDonald's Stenungsund
-  city: Stenungsund
-  latitude: 58.06186
-  longitude: 11.81754
-
-- location: McDonald's Hisings Backa
-  city: Hisings Backa
-  latitude: 57.747
-  longitude: 11.9921
-
-- location: McDonald's Hässleholm
-  city: Hässleholm
-  latitude: 56.17062
-  longitude: 13.81885
-
-- location: McDonald's Norrköping
-  city: Norrköping
-  latitude: 58.60275
-  longitude: 16.16553
-
-- location: McDonald's Sundsvall
-  city: Sundsvall
-  latitude: 62.39145
-  longitude: 17.30416
-
-- location: McDonald's Borås
-  city: Borås
-  latitude: 57.7321
-  longitude: 12.93844
-
-- location: McDonald's Strängnäs
-  city: Strängnäs
-  latitude: 59.3285
-  longitude: 17.0174
-
-- location: McDonald's Köping
-  city: Köping
-  latitude: 59.51785
-  longitude: 15.9664
-
-- location: McDonald's Järfälla
-  city: Järfälla
-  latitude: 59.46917
-  longitude: 17.81084
-
-- location: McDonald's Sundbyberg
-  city: Sundbyberg
-  latitude: 59.36206
-  longitude: 17.96879
-
-- location: McDonald's Sundsvall
-  city: Sundsvall
-  latitude: 62.4415
-  longitude: 17.3302
-
-- location: McDonald's Stockholm
-  city: Stockholm
-  latitude: 59.34345
-  longitude: 18.05589
-
-- location: McDonald's Svedala
-  city: Svedala
-  latitude: 55.51567
-  longitude: 13.24537
-
-- location: McDonald's Arboga
-  city: Arboga
-  latitude: 59.42578
-  longitude: 15.82736
-
-- location: McDonald's Haninge
-  city: Haninge
-  latitude: 59.18097
-  longitude: 18.16063
-
-- location: McDonald's Söderhamn
-  city: Söderhamn
-  latitude: 61.2984
-  longitude: 17.02815
-
-- location: McDonald's Örebro
-  city: Örebro
-  latitude: 59.26456
-  longitude: 15.19817
-
-- location: McDonald's Ljungby
-  city: Ljungby
-  latitude: 56.81418
-  longitude: 13.90632
-
-- location: McDonald's Stockholm
-  city: Stockholm
-  latitude: 59.33373
-  longitude: 18.03226
-
-- location: McDonald's Linköping
-  city: Linköping
-  latitude: 58.43264
-  longitude: 15.59008
-
-- location: McDonald's Uddevalla
-  city: Uddevalla
-  latitude: 58.3524
-  longitude: 11.8092
-
-- location: McDonald's Värnamo
-  city: Värnamo
-  latitude: 57.16311
-  longitude: 14.07376
-
-- location: McDonald's Trelleborg
-  city: Trelleborg
-  latitude: 55.37322
-  longitude: 13.15617
-
-- location: McDonald's Malmö
-  city: Malmö
-  latitude: 55.59581
-  longitude: 13.0027
-
-- location: McDonald's Tumba
-  city: Tumba
-  latitude: 59.19859
-  longitude: 17.84152
-
-- location: McDonald's Tyresö
-  city: Tyresö
-  latitude: 59.24928
-  longitude: 18.23099
-
-- location: McDonald's Täby
-  city: Täby
-  latitude: 59.4449
-  longitude: 18.0711
-
-- location: McDonald's Töcksfors
-  city: Töcksfors
-  latitude: 59.510201
-  longitude: 11.8191
-
-- location: McDonald's Uddevalla
-  city: Uddevalla
-  latitude: 58.34957
-  longitude: 11.93268
-
-- location: McDonald's Umeå
-  city: Umeå
-  latitude: 63.826
-  longitude: 20.26189
-
-- location: McDonald's Upplands Väsby
-  city: Upplands Väsby
-  latitude: 59.51494
-  longitude: 17.92701
-
-- location: McDonald's Uppsala
-  city: Uppsala
-  latitude: 59.86809
-  longitude: 17.66113
-
-- location: McDonald's Valbo
-  city: Valbo
-  latitude: 60.63233
-  longitude: 16.99072
-
-- location: McDonald's Linköping
-  city: Linköping
-  latitude: 58.40655
-  longitude: 15.57794
-
-- location: McDonald's Varberg
-  city: Varberg
-  latitude: 57.17048
-  longitude: 12.23556
-
-- location: McDonald's Västerås
-  city: Västerås
-  latitude: 59.60934
-  longitude: 16.54652
-
-- location: McDonald's Stockholm
-  city: Stockholm
-  latitude: 59.33108
-  longitude: 18.05915
-
-- location: McDonald's Karlskrona
-  city: Karlskrona
-  latitude: 56.20409
-  longitude: 15.64363
-
-- location: McDonald's Vetlanda
-  city: Vetlanda
-  latitude: 57.41573
-  longitude: 15.09122
-
-- location: McDonald's Kristianstad
-  city: Kristianstad
-  latitude: 56.02319
-  longitude: 14.14385
-
-- location: McDonald's Vårgårda
-  city: Vårgårda
-  latitude: 58.041
-  longitude: 12.8008
-
-- location: McDonald's Karlstad
-  city: Karlstad
-  latitude: 59.38373
-  longitude: 13.47575
-
-- location: McDonald's Ödåkra
-  city: Ödåkra
-  latitude: 56.0907
-  longitude: 12.7565
-
-- location: McDonald's Vällingby
-  city: Vällingby
-  latitude: 59.36277
-  longitude: 17.87512
-
-- location: McDonald's Gustavsberg
-  city: Gustavsberg
-  latitude: 59.313
-  longitude: 18.427
-
-- location: McDonald's Hägersten
-  city: Hägersten
-  latitude: 59.29292
-  longitude: 18.00039
-
-- location: McDonald's Eskilstuna
-  city: Eskilstuna
-  latitude: 59.39331
-  longitude: 16.46705
-
-- location: McDonald's Nyköping
-  city: Nyköping
-  latitude: 58.75176
-  longitude: 17.00447
-
-- location: McDonald's Västervik
-  city: Västervik
-  latitude: 57.75969
-  longitude: 16.63685
-
-- location: McDonald's Örebro
-  city: Örebro
-  latitude: 59.27341
-  longitude: 15.17602
-
-- location: McDonald's Växjö
-  city: Växjö
-  latitude: 56.87907
-  longitude: 14.80273
-
-- location: McDonald's Ystad, Ystad
-  city: Ystad, Ystad
-  latitude: 55.43859
-  longitude: 13.79134
-
-- location: McDonald's Lidköping
-  city: Lidköping
-  latitude: 58.49307
-  longitude: 13.13872
-
-- location: McDonald's Åkersberga
-  city: Åkersberga
-  latitude: 59.48065
-  longitude: 18.28469
-
-- location: McDonald's Årsta
-  city: Årsta
-  latitude: 59.28648
-  longitude: 18.04978
-
-- location: McDonald's Älvsjö
-  city: Älvsjö
-  latitude: 59.27231
-  longitude: 18.01251
-
-- location: McDonald's Ängelholm
-  city: Ängelholm
-  latitude: 56.25035
-  longitude: 12.89303
-
-- location: McDonald's Helsingborg
-  city: Helsingborg
-  latitude: 56.01679
-  longitude: 12.76108
-
-- location: McDonald's Örebro
-  city: Örebro
-  latitude: 59.26983
-  longitude: 15.2098
-
-- location: McDonald's Örkelljunga
-  city: Örkelljunga
-  latitude: 56.2842
-  longitude: 13.3377
 
 - location: McDonald's Östersund
   city: Östersund
   latitude: 63.17867
   longitude: 14.63657
 
-- location: McDonald's Trollhättan
-  city: Trollhättan
-  latitude: 58.31444
-  longitude: 12.30698
+- location: McDonald's Östersund
+  city: Östersund
+  latitude: 63.17704
+  longitude: 14.69205
+
+- location: McDonald's Växjö
+  city: Växjö
+  latitude: 56.88293
+  longitude: 14.76413
+
+- location: McDonald's Växjö
+  city: Växjö
+  latitude: 56.87907
+  longitude: 14.80273
+
+- location: McDonald's Växjö
+  city: Växjö
+  latitude: 56.9021
+  longitude: 14.82823
+
+- location: McDonald's Karlshamn
+  city: Karlshamn
+  latitude: 56.18793
+  longitude: 14.84704
+
+- location: McDonald's Kumla
+  city: Kumla
+  latitude: 59.0644
+  longitude: 15.004
+
+- location: McDonald's Motala
+  city: Motala
+  latitude: 58.53103
+  longitude: 15.0439
+
+- location: McDonald's Vetlanda
+  city: Vetlanda
+  latitude: 57.41573
+  longitude: 15.09122
+
+- location: McDonald's Mjölby
+  city: Mjölby
+  latitude: 58.32372
+  longitude: 15.09217
+
+- location: McDonald's Örebro
+  city: Örebro
+  latitude: 59.218
+  longitude: 15.1367
+
+- location: McDonald's Örebro
+  city: Örebro
+  latitude: 59.27341
+  longitude: 15.17602
+
+- location: McDonald's Ludvika
+  city: Ludvika
+  latitude: 60.1515
+  longitude: 15.19061
+
+- location: McDonald's Örebro
+  city: Örebro
+  latitude: 59.26456
+  longitude: 15.19817
+
+- location: McDonald's Örebro
+  city: Örebro
+  latitude: 59.26983
+  longitude: 15.2098
+
+- location: McDonald's Borlänge
+  city: Borlänge
+  latitude: 60.48569
+  longitude: 15.41686
+
+- location: McDonald's Linköping
+  city: Linköping
+  latitude: 58.40655
+  longitude: 15.57794
+
+- location: McDonald's Karlskrona
+  city: Karlskrona
+  latitude: 56.16255
+  longitude: 15.58491
+
+- location: McDonald's Linköping
+  city: Linköping
+  latitude: 58.43264
+  longitude: 15.59008
+
+- location: McDonald's Linköping
+  city: Linköping
+  latitude: 58.40911
+  longitude: 15.62529
+
+- location: McDonald's Karlskrona
+  city: Karlskrona
+  latitude: 56.20409
+  longitude: 15.64363
+
+- location: McDonald's Falun
+  city: Falun
+  latitude: 60.60781
+  longitude: 15.65321
+
+- location: McDonald's Linköping
+  city: Linköping
+  latitude: 58.39898
+  longitude: 15.65372
+
+- location: McDonald's Arboga
+  city: Arboga
+  latitude: 59.42578
+  longitude: 15.82736
+
+- location: McDonald's Nybro
+  city: Nybro
+  latitude: 56.73511
+  longitude: 15.93372
+
+- location: McDonald's Köping
+  city: Köping
+  latitude: 59.51785
+  longitude: 15.9664
+
+- location: McDonald's Hedemora
+  city: Hedemora
+  latitude: 60.2847
+  longitude: 15.9914
+
+- location: McDonald's Norrköping
+  city: Norrköping
+  latitude: 58.56871
+  longitude: 16.07959
+
+- location: McDonald's Norrköping
+  city: Norrköping
+  latitude: 58.61936
+  longitude: 16.15409
+
+- location: McDonald's Norrköping
+  city: Norrköping
+  latitude: 58.60275
+  longitude: 16.16553
+
+- location: McDonald's Norrköping
+  city: Norrköping
+  latitude: 58.58696
+  longitude: 16.18879
+
+- location: McDonald's Katrineholm
+  city: Katrineholm
+  latitude: 58.99576
+  longitude: 16.21193
+
+- location: McDonald's Norrköping
+  city: Norrköping
+  latitude: 58.57397
+  longitude: 16.21198
+
+- location: McDonald's Kalmar
+  city: Kalmar
+  latitude: 56.67157
+  longitude: 16.33614
+
+- location: McDonald's Kalmar
+  city: Kalmar
+  latitude: 56.6611
+  longitude: 16.36407
+
+- location: McDonald's Oskarshamn
+  city: Oskarshamn
+  latitude: 57.26318
+  longitude: 16.4303
+
+- location: McDonald's Eskilstuna
+  city: Eskilstuna
+  latitude: 59.39331
+  longitude: 16.46705
+
+- location: McDonald's Västerås
+  city: Västerås
+  latitude: 59.61322
+  longitude: 16.46965
+
+- location: McDonald's Eskilstuna
+  city: Eskilstuna
+  latitude: 59.37162
+  longitude: 16.5115
+
+- location: McDonald's Västerås
+  city: Västerås
+  latitude: 59.60934
+  longitude: 16.54652
+
+- location: McDonald's Västerås
+  city: Västerås
+  latitude: 59.61064
+  longitude: 16.54956
+
+- location: McDonald's Västerås
+  city: Västerås
+  latitude: 59.63641
+  longitude: 16.56363
+
+- location: McDonald's Västerås
+  city: Västerås
+  latitude: 59.60934
+  longitude: 16.62444
+
+- location: McDonald's Västervik
+  city: Västervik
+  latitude: 57.75969
+  longitude: 16.63685
+
+- location: McDonald's Sandviken
+  city: Sandviken
+  latitude: 60.62332
+  longitude: 16.77083
+
+- location: McDonald's Nyköping
+  city: Nyköping
+  latitude: 58.74879
+  longitude: 16.98062
+
+- location: McDonald's Valbo
+  city: Valbo
+  latitude: 60.63233
+  longitude: 16.99072
+
+- location: McDonald's Nyköping
+  city: Nyköping
+  latitude: 58.75176
+  longitude: 17.00447
+
+- location: McDonald's Strängnäs
+  city: Strängnäs
+  latitude: 59.3285
+  longitude: 17.0174
+
+- location: McDonald's Söderhamn
+  city: Söderhamn
+  latitude: 61.2984
+  longitude: 17.02815
+
+- location: McDonald's Enköping
+  city: Enköping
+  latitude: 59.65385
+  longitude: 17.08429
+
+- location: McDonald's Hudiksvall
+  city: Hudiksvall
+  latitude: 61.73266
+  longitude: 17.09981
+
+- location: McDonald's Gävle
+  city: Gävle
+  latitude: 60.673912
+  longitude: 17.141039
+
+- location: McDonald's Gävle
+  city: Gävle
+  latitude: 60.65899
+  longitude: 17.16345
+
+- location: McDonald's Sundsvall
+  city: Sundsvall
+  latitude: 62.39145
+  longitude: 17.30416
+
+- location: McDonald's Sundsvall
+  city: Sundsvall
+  latitude: 62.38673
+  longitude: 17.31747
+
+- location: McDonald's Sundsvall
+  city: Sundsvall
+  latitude: 62.4415
+  longitude: 17.3302
+
+- location: McDonald's Sundsvall
+  city: Sundsvall
+  latitude: 62.44823
+  longitude: 17.33765
+
+- location: McDonald's Uppsala
+  city: Uppsala
+  latitude: 59.84972
+  longitude: 17.56102
+
+- location: McDonald's Södertälje
+  city: Södertälje
+  latitude: 59.19488
+  longitude: 17.62928
+
+- location: McDonald's Uppsala
+  city: Uppsala
+  latitude: 59.85747
+  longitude: 17.6411
+
+- location: McDonald's Uppsala
+  city: Uppsala
+  latitude: 59.86809
+  longitude: 17.66113
+
+- location: McDonald's Södertälje
+  city: Södertälje
+  latitude: 59.2004
+  longitude: 17.66267
+
+- location: McDonald's Uppsala
+  city: Uppsala
+  latitude: 59.85842
+  longitude: 17.68053
+
+- location: McDonald's Järfälla
+  city: Järfälla
+  latitude: 59.46917
+  longitude: 17.81084
+
+- location: McDonald's Norsborg
+  city: Norsborg
+  latitude: 59.24
+  longitude: 17.82924
+
+- location: McDonald's Norsborg
+  city: Norsborg
+  latitude: 59.23666
+  longitude: 17.83136
+
+- location: McDonald's Tumba
+  city: Tumba
+  latitude: 59.19859
+  longitude: 17.84152
+
+- location: McDonald's Järfälla
+  city: Järfälla
+  latitude: 59.41825
+  longitude: 17.85689
+
+- location: McDonald's Vällingby
+  city: Vällingby
+  latitude: 59.36277
+  longitude: 17.87512
+
+- location: McDonald's Arlandastad
+  city: Arlandastad
+  latitude: 59.60686
+  longitude: 17.8955
+
+- location: McDonald's Kungens Kurva
+  city: Kungens Kurva
+  latitude: 59.26503
+  longitude: 17.89723
+
+- location: McDonald's Upplands Väsby
+  city: Upplands Väsby
+  latitude: 59.54964
+  longitude: 17.89814
+
+- location: McDonald's Upplands Väsby
+  city: Upplands Väsby
+  latitude: 59.54929
+  longitude: 17.9009
+
+- location: McDonald's Skärholmen
+  city: Skärholmen
+  latitude: 59.27617
+  longitude: 17.90709
+
+- location: McDonald's Kungens Kurva
+  city: Kungens Kurva
+  latitude: 59.26635
+  longitude: 17.91044
+
+- location: McDonald's Sollentuna
+  city: Sollentuna
+  latitude: 59.46999
+  longitude: 17.91601
+
+- location: McDonald's Huddinge
+  city: Huddinge
+  latitude: 59.27411
+  longitude: 17.91977
+
+- location: McDonald's Upplands Väsby
+  city: Upplands Väsby
+  latitude: 59.51494
+  longitude: 17.92701
+
+- location: McDonald's Kista
+  city: Kista
+  latitude: 59.41382
+  longitude: 17.92978
+
+- location: McDonald's Arlanda
+  city: Arlanda
+  latitude: 59.64889
+  longitude: 17.93039
+
+- location: McDonald's Sollentuna
+  city: Sollentuna
+  latitude: 59.438911
+  longitude: 17.935406
+
+- location: McDonald's Bromma
+  city: Bromma
+  latitude: 59.33843
+  longitude: 17.93831
+
+- location: McDonald's Kista
+  city: Kista
+  latitude: 59.40403
+  longitude: 17.94304
+
+- location: McDonald's Sundbyberg
+  city: Sundbyberg
+  latitude: 59.37997
+  longitude: 17.94404
+
+- location: McDonald's Sundbyberg
+  city: Sundbyberg
+  latitude: 59.36206
+  longitude: 17.96879
+
+- location: McDonald's Bromma
+  city: Bromma
+  latitude: 59.33288
+  longitude: 17.97978
+
+- location: McDonald's Huddinge
+  city: Huddinge
+  latitude: 59.23456
+  longitude: 17.98191
+
+- location: McDonald's Hägersten
+  city: Hägersten
+  latitude: 59.29292
+  longitude: 18.00039
+
+- location: McDonald's Älvsjö
+  city: Älvsjö
+  latitude: 59.27231
+  longitude: 18.01251
+
+- location: McDonald's Solna
+  city: Solna
+  latitude: 59.35282
+  longitude: 18.01664
+
+- location: McDonald's Stockholm
+  city: Stockholm
+  latitude: 59.31049
+  longitude: 18.02302
+
+- location: McDonald's Stockholm
+  city: Stockholm
+  latitude: 59.33373
+  longitude: 18.03226
+
+- location: McDonald's Årsta
+  city: Årsta
+  latitude: 59.28648
+  longitude: 18.04978
+
+- location: McDonald's Stockholm
+  city: Stockholm
+  latitude: 59.31784
+  longitude: 18.05306
+
+- location: McDonald's Stockholm
+  city: Stockholm
+  latitude: 59.34345
+  longitude: 18.05589
+
+- location: McDonald's Stockholm
+  city: Stockholm
+  latitude: 59.33108
+  longitude: 18.05915
+
+- location: McDonald's Stockholm
+  city: Stockholm
+  latitude: 59.32973
+  longitude: 18.05921
+
+- location: McDonald's Stockholm
+  city: Stockholm
+  latitude: 59.334978
+  longitude: 18.061158
+
+- location: McDonald's Stockholm
+  city: Stockholm
+  latitude: 59.33356
+  longitude: 18.06385
+
+- location: McDonald's Stockholm
+  city: Stockholm
+  latitude: 59.33083
+  longitude: 18.06852
+
+- location: McDonald's Stockholm
+  city: Stockholm
+  latitude: 59.3362
+  longitude: 18.0704
+
+- location: McDonald's Täby
+  city: Täby
+  latitude: 59.4449
+  longitude: 18.0711
+
+- location: McDonald's Stockholm
+  city: Stockholm
+  latitude: 59.33309
+  longitude: 18.07215
+
+- location: McDonald's Stockholm
+  city: Stockholm
+  latitude: 59.31922
+  longitude: 18.07379
+
+- location: McDonald's Stockholm
+  city: Stockholm
+  latitude: 59.31424
+  longitude: 18.07452
+
+- location: McDonald's Stockholm
+  city: Stockholm
+  latitude: 59.30899
+  longitude: 18.076
+
+- location: McDonald's Stockholm
+  city: Stockholm
+  latitude: 59.33503
+  longitude: 18.0779
+
+- location: McDonald's Johanneshov
+  city: Johanneshov
+  latitude: 59.29318
+  longitude: 18.08189
+
+- location: McDonald's Farsta
+  city: Farsta
+  latitude: 59.24275
+  longitude: 18.09025
+
+- location: McDonald's Stockholm
+  city: Stockholm
+  latitude: 59.33812
+  longitude: 18.09093
+
+- location: McDonald's Sköndal
+  city: Sköndal
+  latitude: 59.26252
+  longitude: 18.10016
+
+- location: McDonald's Täby
+  city: Täby
+  latitude: 59.44542
+  longitude: 18.12185
+
+- location: McDonald's Nacka
+  city: Nacka
+  latitude: 59.3056
+  longitude: 18.1287
+
+- location: McDonald's Haninge
+  city: Haninge
+  latitude: 59.16835
+  longitude: 18.13958
+
+- location: McDonald's Haninge
+  city: Haninge
+  latitude: 59.17686
+  longitude: 18.1483
+
+- location: McDonald's Haninge
+  city: Haninge
+  latitude: 59.18097
+  longitude: 18.16063
+
+- location: McDonald's Nacka
+  city: Nacka
+  latitude: 59.31294
+  longitude: 18.16089
+
+- location: McDonald's Tyresö
+  city: Tyresö
+  latitude: 59.24928
+  longitude: 18.23099
+
+- location: McDonald's Åkersberga
+  city: Åkersberga
+  latitude: 59.48065
+  longitude: 18.28469
+
+- location: McDonald's Visby
+  city: Visby
+  latitude: 57.63769
+  longitude: 18.30068
+
+- location: McDonald's Gustavsberg
+  city: Gustavsberg
+  latitude: 59.313
+  longitude: 18.427
+
+- location: McDonald's Norrtälje
+  city: Norrtälje
+  latitude: 59.74796
+  longitude: 18.68659
+
+- location: McDonald's Umeå
+  city: Umeå
+  latitude: 63.826
+  longitude: 20.26189
+
+- location: McDonald's Umeå
+  city: Umeå
+  latitude: 63.85232
+  longitude: 20.29569
+
+- location: McDonald's Luleå
+  city: Luleå
+  latitude: 65.60276
+  longitude: 22.13344

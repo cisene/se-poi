@@ -6,1925 +6,11 @@ meta:
   locations: 545
 
 locations:
-- location: Skomakaregatan MAL
-  urn: urn:espressohouse:store:id:101
-  city: Malmö
-  latitude: 55.60451
-  longitude: 13.00077
-
-- location: Lilla Nova
-  urn: urn:espressohouse:store:id:106
-  city: Lund
-  latitude: 55.71437
-  longitude: 13.1596
-
-- location: Göteborg C - STORA
-  urn: urn:espressohouse:store:id:107
-  city: Göteborg
-  latitude: 57.708974
-  longitude: 11.97278
-
-- location: Hansa MAL
-  urn: urn:espressohouse:store:id:110
-  city: Malmö
-  latitude: 55.603228
-  longitude: 13.003544
-
-- location: Vasagatan GÖT
-  urn: urn:espressohouse:store:id:113
-  city: Göteborg
-  latitude: 57.69836
-  longitude: 11.96644
-
-- location: Mobilia Södra Huset
-  urn: urn:espressohouse:store:id:114
-  city: Malmö
-  latitude: 55.579991
-  longitude: 13.003574
-
-- location: Västra Hamnen
-  urn: urn:espressohouse:store:id:117
-  city: Malmö
-  latitude: 55.61063
-  longitude: 12.973
-
-- location: Kajpromenaden HEL
-  urn: urn:espressohouse:store:id:118
-  city: Helsingborg
-  latitude: 56.04976
-  longitude: 12.68652
-
-- location: Hallarna HAL
-  urn: urn:espressohouse:store:id:119
-  city: Halmstad
-  latitude: 56.65575
-  longitude: 12.90998
-
-- location: Ilva
-  urn: urn:espressohouse:store:id:122
-  city: Malmö
-  latitude: 55.55347
-  longitude: 12.993548
-
-- location: Köpmansgatan HAL
-  urn: urn:espressohouse:store:id:123
-  city: Halmstad
-  latitude: 56.67565
-  longitude: 12.85802
-
-- location: Lund C LUN
-  urn: urn:espressohouse:store:id:126
-  city: Lund
-  latitude: 55.70523
-  longitude: 13.18782
-
-- location: Landvetter Utrikes
-  urn: urn:espressohouse:store:id:127
-  city: Härryda
-  latitude: 57.6703
-  longitude: 12.297531
-
-- location: Burlöv Center MAL
-  urn: urn:espressohouse:store:id:130
-  city: Arlöv
-  latitude: 55.63953
-  longitude: 13.08372
-
-- location: Kungsmässan, Lilla
-  urn: urn:espressohouse:store:id:131
-  city: Kungsbacka
-  latitude: 57.492021
-  longitude: 12.074202
-
-- location: Malmö C - Entréhall
-  urn: urn:espressohouse:store:id:134
-  city: Malmö
-  latitude: 55.60892
-  longitude: 12.99957
-
-- location: Gallerian STO
-  urn: urn:espressohouse:store:id:135
-  city: Stockholm
-  latitude: 59.3324
-  longitude: 18.0672
-
-- location: Västerlånggatan STO
-  urn: urn:espressohouse:store:id:136
-  city: Stockholm
-  latitude: 59.32403
-  longitude: 18.07065
-
-- location: Mörby Centrum T-bana
-  urn: urn:espressohouse:store:id:138
-  city: Danderyd
-  latitude: 59.39841
-  longitude: 18.03666
-
-- location: Gullmarsplan T-bana
-  urn: urn:espressohouse:store:id:139
-  city: Johanneshov
-  latitude: 59.298981
-  longitude: 18.080844
-
-- location: Centralhallen
-  urn: urn:espressohouse:store:id:141
-  city: Stockholm
-  latitude: 59.33023
-  longitude: 18.0592
-
-- location: Femmanhuset lilla
-  urn: urn:espressohouse:store:id:145
-  city: Göteborg
-  latitude: 57.70853
-  longitude: 11.96999
-
-- location: Göteborg C - LILLA
-  urn: urn:espressohouse:store:id:146
-  city: Göteborg
-  latitude: 57.709323
-  longitude: 11.973086
-
-- location: Kungsgatan TRO
-  urn: urn:espressohouse:store:id:151
-  city: Trollhättan
-  latitude: 58.28516
-  longitude: 12.29086
-
-- location: Solna Centrum
-  urn: urn:espressohouse:store:id:153
-  city: Solna
-  latitude: 59.35923
-  longitude: 18.00107
-
-- location: Kungsgatan ALI
-  urn: urn:espressohouse:store:id:154
-  city: Alingsås
-  latitude: 57.93
-  longitude: 12.53629
-
-- location: V Köpmansgatan STE
-  urn: urn:espressohouse:store:id:155
-  city: Steunungsund
-  latitude: 58.06852
-  longitude: 11.81656
-
-- location: Arkaden GÖT
-  urn: urn:espressohouse:store:id:157
-  city: Göteborg
-  latitude: 57.70627
-  longitude: 11.96908
-
-- location: Sveavägen STO
-  urn: urn:espressohouse:store:id:158
-  city: Stockholm
-  latitude: 59.34064
-  longitude: 18.05893
-
-- location: Kullagatan HEL
-  urn: urn:espressohouse:store:id:160
-  city: Helsingborg
-  latitude: 56.04726
-  longitude: 12.69433
-
-- location: Forum Nacka, Övre plan
-  urn: urn:espressohouse:store:id:161
-  city: Nacka
-  latitude: 59.30942
-  longitude: 18.16443
-
-- location: Sickla STO
-  urn: urn:espressohouse:store:id:163
-  city: Nacka
-  latitude: 59.30605
-  longitude: 18.12322
-
-- location: Sollentuna Centrum STO
-  urn: urn:espressohouse:store:id:164
-  city: Sollentuna
-  latitude: 59.42912
-  longitude: 17.95152
-
-- location: Marieberg C ÖRE
-  urn: urn:espressohouse:store:id:165
-  city: Örebro
-  latitude: 59.2165
-  longitude: 15.1391
-
-- location: Vasagatan STO
-  urn: urn:espressohouse:store:id:169
-  city: Stockholm
-  latitude: 59.33337
-  longitude: 18.0565
-
-- location: Storgatan ÄNG
-  urn: urn:espressohouse:store:id:171
-  city: Ängelholm
-  latitude: 56.24288
-  longitude: 12.86229
-
-- location: Stora Brogatan BOR
-  urn: urn:espressohouse:store:id:173
-  city: Borås
-  latitude: 57.7205
-  longitude: 12.93945
-
-- location: Storgatan MAL
-  urn: urn:espressohouse:store:id:174
-  city: Malmö
-  latitude: 55.5998
-  longitude: 13.00185
-
-- location: Nygatan LIN
-  urn: urn:espressohouse:store:id:175
-  city: Linköping
-  latitude: 58.40995
-  longitude: 15.62404
-
-- location: Överby TRO
-  urn: urn:espressohouse:store:id:177
-  city: Trollhättan
-  latitude: 58.31201
-  longitude: 12.30644
-
-- location: Lindhagen STO
-  urn: urn:espressohouse:store:id:178
-  city: Stockholm
-  latitude: 59.3372
-  longitude: 18.0094
-
-- location: Kungsgatan ESK
-  urn: urn:espressohouse:store:id:181
-  city: Eskilstuna
-  latitude: 59.37132
-  longitude: 16.51074
-
-- location: Tyresö C STO
-  urn: urn:espressohouse:store:id:182
-  city: Tyresö
-  latitude: 59.24443
-  longitude: 18.22833
-
-- location: Helsingborg C Express
-  urn: urn:espressohouse:store:id:184
-  city: Helsingborg
-  latitude: 56.0437
-  longitude: 12.69365
-
-- location: Drottninggatan UDD
-  urn: urn:espressohouse:store:id:186
-  city: Uddevalla
-  latitude: 58.34976
-  longitude: 11.93378
-
-- location: Dalagatan
-  urn: urn:espressohouse:store:id:187
-  city: Stockholm
-  latitude: 59.3395
-  longitude: 18.0476
-
-- location: V Vallgatan Varberg
-  urn: urn:espressohouse:store:id:188
-  city: Varberg
-  latitude: 57.10623
-  longitude: 12.2475
-
-- location: Odengatan STO
-  urn: urn:espressohouse:store:id:189
-  city: Stockholm
-  latitude: 59.34438
-  longitude: 18.05752
-
-- location: Stortorget Ystad
-  urn: urn:espressohouse:store:id:190
-  city: Ystad
-  latitude: 55.42982
-  longitude: 13.81982
-
-- location: Östermalmstorg Södra T-bana
-  urn: urn:espressohouse:store:id:191
-  city: Stockholm
-  latitude: 59.33522
-  longitude: 18.07479
-
-- location: Köpmangatan ÖRE
-  urn: urn:espressohouse:store:id:193
-  city: Örebro
-  latitude: 59.2722
-  longitude: 15.21338
-
-- location: Fridhemsplan STO
-  urn: urn:espressohouse:store:id:194
-  city: Stockholm
-  latitude: 59.3324
-  longitude: 18.02899
-
-- location: Södra Larmgatan GÖT
-  urn: urn:espressohouse:store:id:195
-  city: Göteborg
-  latitude: 57.70354
-  longitude: 11.9664
-
-- location: Sturup
-  urn: urn:espressohouse:store:id:196
-  city: Malmö-Sturup
-  latitude: 55.538743
-  longitude: 13.372457
-
-- location: Drottninggatan KAR
-  urn: urn:espressohouse:store:id:197
-  city: Karlstad
-  latitude: 59.3794
-  longitude: 13.49963
-
-- location: Hantverkargatan VÄS
-  urn: urn:espressohouse:store:id:199
-  city: Västerås
-  latitude: 59.61066
-  longitude: 16.54625
-
-- location: Drottninggatan NOR
-  urn: urn:espressohouse:store:id:200
-  city: Norrköping
-  latitude: 58.58756
-  longitude: 16.18844
-
-- location: Östergatan LAN
-  urn: urn:espressohouse:store:id:201
-  city: Landskrona
-  latitude: 55.87059
-  longitude: 12.83218
-
-- location: Asecs entré C
-  urn: urn:espressohouse:store:id:202
-  city: Jönköping
-  latitude: 57.77389
-  longitude: 14.20349
-
-- location: Bromma Blocks STO
-  urn: urn:espressohouse:store:id:205
-  city: Bromma
-  latitude: 59.3557
-  longitude: 17.9565
-
-- location: Stora Frölunda
-  urn: urn:espressohouse:store:id:206
-  city: Västra Frölunda
-  latitude: 57.65105
-  longitude: 11.90888
-
-- location: Väla HEL
-  urn: urn:espressohouse:store:id:207
-  city: Ödåkra
-  latitude: 56.09206
-  longitude: 12.75669
-
-- location: Vasaplan STO
-  urn: urn:espressohouse:store:id:212
-  city: Stockholm
-  latitude: 59.33144
-  longitude: 18.05798
-
-- location: Samarkand VÄX
-  urn: urn:espressohouse:store:id:214
-  city: Växjö
-  latitude: 56.88483
-  longitude: 14.76504
-
-- location: Farsta Centrum - Entréplan
-  urn: urn:espressohouse:store:id:217
-  city: Farsta
-  latitude: 59.24298
-  longitude: 18.0914
-
-- location: Regeringsgatan STO
-  urn: urn:espressohouse:store:id:218
-  city: Stockholm
-  latitude: 59.33485
-  longitude: 18.06776
-
-- location: NK STO
-  urn: urn:espressohouse:store:id:219
-  city: Stockholm
-  latitude: 59.3329
-  longitude: 18.06911
-
-- location: Erikslund Västerås (nedre bar)
-  urn: urn:espressohouse:store:id:220
-  city: Västerås
-  latitude: 59.60984
-  longitude: 16.45315
-
-- location: Sankt Per Gallerian UPP
-  urn: urn:espressohouse:store:id:221
-  city: Uppsala
-  latitude: 59.85953
-  longitude: 17.63739
-
-- location: Malmö C - vid Spår 5
-  urn: urn:espressohouse:store:id:222
-  city: Malmö
-  latitude: 55.60953
-  longitude: 13.0011
-
-- location: Jönköping Central JÖN
-  urn: urn:espressohouse:store:id:223
-  city: Jönköping
-  latitude: 57.78432
-  longitude: 14.16285
-
-- location: Västerås Punkt VÄS
-  urn: urn:espressohouse:store:id:224
-  city: Västerås
-  latitude: 59.609904
-  longitude: 16.546781
-
-- location: Sveavägen 96
-  urn: urn:espressohouse:store:id:225
-  city: Stockholm
-  latitude: 59.34207
-  longitude: 18.05757
-
-- location: Haninge Centrum STO
-  urn: urn:espressohouse:store:id:226
-  city: Haninge
-  latitude: 59.1695
-  longitude: 18.1407
-
-- location: Triangelns Köpcentrum MAL
-  urn: urn:espressohouse:store:id:230
-  city: Malmö
-  latitude: 55.59481
-  longitude: 13.00066
-
-- location: Västermalmsgallerian STO
-  urn: urn:espressohouse:store:id:234
-  city: Stockholm
-  latitude: 59.33466
-  longitude: 18.0322
-
-- location: Fältöversten STO
-  urn: urn:espressohouse:store:id:235
-  city: Stockholm
-  latitude: 59.33881
-  longitude: 18.09074
-
-- location: Kungsgatan GÖT
-  urn: urn:espressohouse:store:id:236
-  city: Göteborg
-  latitude: 57.70374
-  longitude: 11.96209
-
-- location: Femmanhuset Stora
-  urn: urn:espressohouse:store:id:238
-  city: Göteborg
-  latitude: 57.7086
-  longitude: 11.96937
-
-- location: Bruksgatan HBG
-  urn: urn:espressohouse:store:id:244
-  city: Helsingborg
-  latitude: 56.04491
-  longitude: 12.69655
-
-- location: Täby Centrum 2
-  urn: urn:espressohouse:store:id:245
-  city: Täby
-  latitude: 59.443995
-  longitude: 18.07162
-
-- location: Skövde Central SKÖ
-  urn: urn:espressohouse:store:id:248
-  city: Skövde
-  latitude: 58.38984
-  longitude: 13.85197
-
-- location: Forum Nacka, Nedre plan
-  urn: urn:espressohouse:store:id:249
-  city: Nacka
-  latitude: 59.309568
-  longitude: 18.164399
-
-- location: Storgatan HAL
-  urn: urn:espressohouse:store:id:250
-  city: Halmstad
-  latitude: 56.67631
-  longitude: 12.8592
-
-- location: Limhamn
-  urn: urn:espressohouse:store:id:251
-  city: Limhamn
-  latitude: 55.58178
-  longitude: 12.93382
-
-- location: Emporia - Plan 2
-  urn: urn:espressohouse:store:id:253
-  city: Malmö
-  latitude: 55.563692
-  longitude: 12.972022
-
-- location: Övre Avenyn
-  urn: urn:espressohouse:store:id:254
-  city: Göteborg
-  latitude: 57.69963
-  longitude: 11.97642
-
-- location: Valbo Gävle
-  urn: urn:espressohouse:store:id:255
-  city: Valbo
-  latitude: 60.6336
-  longitude: 16.9944
-
-- location: Stora Nova
-  urn: urn:espressohouse:store:id:257
-  city: Lund
-  latitude: 55.7138
-  longitude: 13.15923
-
-- location: Kista Galleria
-  urn: urn:espressohouse:store:id:258
-  city: Kista
-  latitude: 59.4033
-  longitude: 17.9444
-
-- location: Kalmar Storgatan 10
-  urn: urn:espressohouse:store:id:259
-  city: Kalmar
-  latitude: 56.66311
-  longitude: 16.36176
-
-- location: Lund Central 2
-  urn: urn:espressohouse:store:id:261
-  city: Lund
-  latitude: 55.70514
-  longitude: 13.18706
-
-- location: Brunnsparken
-  urn: urn:espressohouse:store:id:262
-  city: Göteborg
-  latitude: 57.7071
-  longitude: 11.96805
-
-- location: Skärholmen 2
-  urn: urn:espressohouse:store:id:263
-  city: Skärholmen
-  latitude: 59.27515
-  longitude: 17.9059
-
-- location: Älvsjö station
-  urn: urn:espressohouse:store:id:265
-  city: Älvsjö
-  latitude: 59.27801
-  longitude: 18.00835
-
-- location: Hässleholm station
-  urn: urn:espressohouse:store:id:266
-  city: Hässleholm
-  latitude: 56.15733
-  longitude: 13.76331
-
-- location: Kungsgatan 27 STO
-  urn: urn:espressohouse:store:id:267
-  city: Stockholm
-  latitude: 59.33583
-  longitude: 18.06705
-
-- location: Avion Shopping Umeå
-  urn: urn:espressohouse:store:id:268
-  city: Umeå
-  latitude: 63.807885
-  longitude: 20.254597
-
-- location: Konserthuset
-  urn: urn:espressohouse:store:id:270
-  city: Stockholm
-  latitude: 59.33529
-  longitude: 18.06266
-
-- location: Boulevard Kristianstad
-  urn: urn:espressohouse:store:id:271
-  city: Kristianstad
-  latitude: 56.030538
-  longitude: 14.158444
-
-- location: Förstadsgatan
-  urn: urn:espressohouse:store:id:272
-  city: Malmö
-  latitude: 55.59739
-  longitude: 13.00103
-
-- location: Cityterminalen
-  urn: urn:espressohouse:store:id:273
-  city: Stockholm
-  latitude: 59.33122
-  longitude: 18.05679
-
-- location: Drottninggatan Södra
-  urn: urn:espressohouse:store:id:274
-  city: Stockholm
-  latitude: 59.33107
-  longitude: 18.06474
-
-- location: Västervik
-  urn: urn:espressohouse:store:id:276
-  city: Västervik
-  latitude: 57.75868
-  longitude: 16.63781
-
-- location: Hötorget Tunnelbana
-  urn: urn:espressohouse:store:id:277
-  city: Stockholm
-  latitude: 59.3358
-  longitude: 18.0641
-
-- location: Kungsmässan, Stora
-  urn: urn:espressohouse:store:id:278
-  city: Kungsbacka
-  latitude: 57.493278
-  longitude: 12.074003
-
-- location: Linköping Central
-  urn: urn:espressohouse:store:id:279
-  city: Linköping
-  latitude: 58.41604
-  longitude: 15.62571
-
-- location: Värnhemstorget
-  urn: urn:espressohouse:store:id:280
-  city: Malmö
-  latitude: 55.60598
-  longitude: 13.02342
-
-- location: Kristianstad Station
-  urn: urn:espressohouse:store:id:281
-  city: Kristianstad
-  latitude: 56.03176
-  longitude: 14.1515
-
-- location: Kupolen Borlänge
-  urn: urn:espressohouse:store:id:282
-  city: Borlänge
-  latitude: 60.48418
-  longitude: 15.41797
-
-- location: Göteborg C3 - EXPRESS
-  urn: urn:espressohouse:store:id:284
-  city: Göteborg
-  latitude: 57.70897
-  longitude: 11.97352
-
-- location: Ingelsta Norrköping
-  urn: urn:espressohouse:store:id:285
-  city: Norrköping
-  latitude: 58.61759
-  longitude: 16.15675
-
-- location: Mall of Scandinavia - Stora vid Hemköp
-  urn: urn:espressohouse:store:id:287
-  city: Solna
-  latitude: 59.369851
-  longitude: 18.004634
-
-- location: Norrlandsgatan
-  urn: urn:espressohouse:store:id:289
-  city: Stockholm
-  latitude: 59.33509
-  longitude: 18.07185
-
-- location: Sundsvall
-  urn: urn:espressohouse:store:id:290
-  city: Sundsvall
-  latitude: 62.39108
-  longitude: 17.30453
-
-- location: Östersund
-  urn: urn:espressohouse:store:id:291
-  city: Östersund
-  latitude: 63.178084
-  longitude: 14.636687
-
-- location: Utopia Umeå
-  urn: urn:espressohouse:store:id:292
-  city: Umeå
-  latitude: 63.826495
-  longitude: 20.264143
-
-- location: Karlskrona
-  urn: urn:espressohouse:store:id:293
-  city: Karlskrona
-  latitude: 56.161774
-  longitude: 15.586892
-
-- location: Skellefteå
-  urn: urn:espressohouse:store:id:294
-  city: Skellefteå
-  latitude: 64.750802
-  longitude: 20.952084
-
-- location: Norrtälje
-  urn: urn:espressohouse:store:id:295
-  city: Norrtälje
-  latitude: 59.757149
-  longitude: 18.701675
-
-- location: Uppsala C
-  urn: urn:espressohouse:store:id:296
-  city: Uppsala
-  latitude: 59.858681
-  longitude: 17.645987
-
-- location: Kungsholmsgatan STO
-  urn: urn:espressohouse:store:id:299
-  city: Stockholm
-  latitude: 59.331419
-  longitude: 18.046589
-
-- location: Västra Storgatan NY
-  urn: urn:espressohouse:store:id:300
-  city: Nyköping
-  latitude: 58.751764
-  longitude: 17.004133
-
-- location: Motala
-  urn: urn:espressohouse:store:id:301
-  city: Motala
-  latitude: 58.536977
-  longitude: 15.036381
-
-- location: Tuna Park
-  urn: urn:espressohouse:store:id:302
-  city: Eskilstuna
-  latitude: 59.371345
-  longitude: 16.470114
-
-- location: Uddevalla Torp
-  urn: urn:espressohouse:store:id:303
-  city: Uddevalla
-  latitude: 58.353374
-  longitude: 11.809419
-
-- location: Solna Station
-  urn: urn:espressohouse:store:id:304
-  city: Stockholm
-  latitude: 59.368489
-  longitude: 18.00856
-
-- location: Karlstad Bergvik
-  urn: urn:espressohouse:store:id:305
-  city: Karlstad
-  latitude: 59.376711
-  longitude: 13.425934
-
-- location: Stockholm C Nedre
-  urn: urn:espressohouse:store:id:306
-  city: Stockholm
-  latitude: 59.330393
-  longitude: 18.05874
-
-- location: Götgatsbacken
-  urn: urn:espressohouse:store:id:308
-  city: Stockholm
-  latitude: 59.31812
-  longitude: 18.07143
-
-- location: Löddeköpinge Center Syd
-  urn: urn:espressohouse:store:id:309
-  city: Löddeköpinge
-  latitude: 55.769848
-  longitude: 12.990411
-
-- location: Södertälje station
-  urn: urn:espressohouse:store:id:310
-  city: Södertälje
-  latitude: 59.192436
-  longitude: 17.626578
-
-- location: Drottninggatan Norr
-  urn: urn:espressohouse:store:id:311
-  city: Stockholm
-  latitude: 59.336516
-  longitude: 18.058863
-
-- location: Drottninggatan Plattan
-  urn: urn:espressohouse:store:id:312
-  city: Stockholm
-  latitude: 59.331789
-  longitude: 18.063326
-
-- location: Sundbyberg
-  urn: urn:espressohouse:store:id:313
-  city: Sundbyberg
-  latitude: 59.360875
-  longitude: 17.970194
-
-- location: Stortorget Malmö
-  urn: urn:espressohouse:store:id:314
-  city: Malmö
-  latitude: 55.606875
-  longitude: 12.999491
-
-- location: Kungsgatan Umeå
-  urn: urn:espressohouse:store:id:315
-  city: Umeå
-  latitude: 63.826306
-  longitude: 20.259819
-
-- location: Järntorget
-  urn: urn:espressohouse:store:id:316
-  city: Göteborg
-  latitude: 57.69983
-  longitude: 11.95189
-
-- location: Nässjö Central
-  urn: urn:espressohouse:store:id:317
-  city: Nässjö
-  latitude: 57.652249
-  longitude: 14.694821
-
-- location: Borås Station
-  urn: urn:espressohouse:store:id:318
-  city: Borås
-  latitude: 57.720821
-  longitude: 12.932257
-
-- location: Västerås Station
-  urn: urn:espressohouse:store:id:319
-  city: Västerås
-  latitude: 59.60642
-  longitude: 16.548033
-
-- location: Täby Centrum Modestråket
-  urn: urn:espressohouse:store:id:320
-  city: Täby
-  latitude: 59.444315
-  longitude: 18.070277
-
-- location: Visby
-  urn: urn:espressohouse:store:id:321
-  city: Visby
-  latitude: 57.637822
-  longitude: 18.301426
-
-- location: Smedjan Luleå
-  urn: urn:espressohouse:store:id:322
-  city: Luleå
-  latitude: 65.584246
-  longitude: 22.152694
-
-- location: Storgatan Växjö
-  urn: urn:espressohouse:store:id:323
-  city: Växjö
-  latitude: 56.878927
-  longitude: 14.807041
-
-- location: Lomma
-  urn: urn:espressohouse:store:id:324
-  city: Lomma
-  latitude: 55.675402
-  longitude: 13.069622
-
-- location: Amiralen Karlskrona
-  urn: urn:espressohouse:store:id:325
-  city: Lyckeby
-  latitude: 56.19699
-  longitude: 15.642188
-
-- location: Tornby LIN
-  urn: urn:espressohouse:store:id:326
-  city: Linköping
-  latitude: 58.433044
-  longitude: 15.588421
-
-- location: Liljeholmstorget STO
-  urn: urn:espressohouse:store:id:328
-  city: Stockholm
-  latitude: 59.309427
-  longitude: 18.022747
-
-- location: C4 Shopping Kristianstad
-  urn: urn:espressohouse:store:id:329
-  city: Kristianstad
-  latitude: 56.02644
-  longitude: 14.20029
-
-- location: Tekniska Högskolan T-bana
-  urn: urn:espressohouse:store:id:330
-  city: Stockholm
-  latitude: 59.345903
-  longitude: 18.071491
-
-- location: Norrköping C
-  urn: urn:espressohouse:store:id:331
-  city: Norrköping
-  latitude: 58.596424
-  longitude: 16.184282
-
-- location: Borås Knallerian
-  urn: urn:espressohouse:store:id:332
-  city: Borås
-  latitude: 57.732928
-  longitude: 12.937158
-
-- location: Odenplan
-  urn: urn:espressohouse:store:id:334
-  city: Stockholm
-  latitude: 59.343339
-  longitude: 18.049754
-
-- location: Huddinge Sjukhus
-  urn: urn:espressohouse:store:id:337
-  city: Stockholm
-  latitude: 59.220938
-  longitude: 17.938291
-
-- location: Örebro Station
-  urn: urn:espressohouse:store:id:338
-  city: Örebro
-  latitude: 59.278638
-  longitude: 15.211598
-
-- location: Nordby
-  urn: urn:espressohouse:store:id:339
-  city: Strömstad
-  latitude: 59.064136
-  longitude: 11.208221
-
-- location: Globen
-  urn: urn:espressohouse:store:id:340
-  city: Stockholm
-  latitude: 59.292914
-  longitude: 18.08135
-
-- location: Gamla Stan
-  urn: urn:espressohouse:store:id:341
-  city: Stockholm
-  latitude: 59.323541
-  longitude: 18.068718
-
-- location: Stortorget Lund
-  urn: urn:espressohouse:store:id:342
-  city: Lund
-  latitude: 55.703134
-  longitude: 13.193797
-
-- location: Värnamo
-  urn: urn:espressohouse:store:id:343
-  city: Värnamo
-  latitude: 57.185163
-  longitude: 14.041149
-
-- location: Våghustorget ÖRE
-  urn: urn:espressohouse:store:id:344
-  city: Örebro
-  latitude: 59.269983
-  longitude: 15.210456
-
-- location: Trelleborg
-  urn: urn:espressohouse:store:id:345
-  city: Trelleborg
-  latitude: 55.37365
-  longitude: 13.15859
-
-- location: Hässleholm City
-  urn: urn:espressohouse:store:id:347
-  city: Hässleholm
-  latitude: 56.157944
-  longitude: 13.764386
-
-- location: Falkenberg
-  urn: urn:espressohouse:store:id:348
-  city: Falkenberg
-  latitude: 56.9034
-  longitude: 12.4908
-
-- location: Mölndal Galleria
-  urn: urn:espressohouse:store:id:349
-  city: Mölndal
-  latitude: 57.65351
-  longitude: 12.01204
-
-- location: Gränby Centrum
-  urn: urn:espressohouse:store:id:350
-  city: Gränby
-  latitude: 59.877325
-  longitude: 17.673821
-
-- location: Arlanda Express
-  urn: urn:espressohouse:store:id:351
-  city: Stockholm-Arlanda
-  latitude: 59.649631
-  longitude: 17.924875
-
-- location: Barkarby Outlet
-  urn: urn:espressohouse:store:id:352
-  city: Järfälla
-  latitude: 59.416954
-  longitude: 17.856166
-
-- location: UMAS
-  urn: urn:espressohouse:store:id:353
-  city: Malmö
-  latitude: 55.587713
-  longitude: 13.000035
-
-- location: Väsby Centrum
-  urn: urn:espressohouse:store:id:356
-  city: Upplands Väsby
-  latitude: 59.518643
-  longitude: 17.910136
-
-- location: Södertälje
-  urn: urn:espressohouse:store:id:357
-  city: Södertälje
-  latitude: 59.194814
-  longitude: 17.627995
-
-- location: Vällingby
-  urn: urn:espressohouse:store:id:358
-  city: Vällingby
-  latitude: 59.363303
-  longitude: 17.872591
-
-- location: Emporia - Plan 3
-  urn: urn:espressohouse:store:id:359
-  city: Malmö
-  latitude: 55.563615
-  longitude: 12.974616
-
-- location: Partille Allum
-  urn: urn:espressohouse:store:id:360
-  city: Partille
-  latitude: 57.739274
-  longitude: 12.106112
-
-- location: Lidköping city
-  urn: urn:espressohouse:store:id:361
-  city: Lidköping
-  latitude: 58.504488
-  longitude: 13.155698
-
-- location: Kungspassagen
-  urn: urn:espressohouse:store:id:363
-  city: Göteborg
-  latitude: 57.704709
-  longitude: 11.967799
-
-- location: Falun
-  urn: urn:espressohouse:store:id:364
-  city: Falun
-  latitude: 60.605754
-  longitude: 15.632101
-
-- location: Märsta Centrum
-  urn: urn:espressohouse:store:id:365
-  city: Märsta
-  latitude: 59.620727
-  longitude: 17.855776
-
-- location: Mölnlycke
-  urn: urn:espressohouse:store:id:366
-  city: Mölnlycke
-  latitude: 57.658908
-  longitude: 12.116847
-
-- location: Backaplan
-  urn: urn:espressohouse:store:id:367
-  city: Göteborg
-  latitude: 57.721814
-  longitude: 11.951707
-
-- location: Örnsköldsvik
-  urn: urn:espressohouse:store:id:368
-  city: Örnsköldsvik
-  latitude: 63.288665
-  longitude: 18.716685
-
-- location: Citybanan
-  urn: urn:espressohouse:store:id:369
-  city: Stockholm
-  latitude: 59.33172
-  longitude: 18.05973
-
-- location: Huddinge Centrum
-  urn: urn:espressohouse:store:id:370
-  city: Huddinge
-  latitude: 59.236432
-  longitude: 17.980133
-
-- location: Flemingsberg
-  urn: urn:espressohouse:store:id:371
-  city: Flemingsberg
-  latitude: 59.217694
-  longitude: 17.946146
-
-- location: Mittpunkten Östersund
-  urn: urn:espressohouse:store:id:372
-  city: Östersund
-  latitude: 63.175572
-  longitude: 14.638125
-
-- location: Jakobsbergs Centrum
-  urn: urn:espressohouse:store:id:373
-  city: Jakobsberg
-  latitude: 59.424149
-  longitude: 17.833317
-
-- location: Åkersberga Centrum
-  urn: urn:espressohouse:store:id:374
-  city: Åkersberga C
-  latitude: 59.479622
-  longitude: 18.298194
-
-- location: Gävle City
-  urn: urn:espressohouse:store:id:375
-  city: Gävle
-  latitude: 60.674349
-  longitude: 17.143246
-
-- location: Östra Storgatan Jönköping
-  urn: urn:espressohouse:store:id:376
-  city: Jönköping
-  latitude: 57.782018
-  longitude: 14.173314
-
-- location: Härnösand
-  urn: urn:espressohouse:store:id:377
-  city: Härnösand
-  latitude: 62.631831
-  longitude: 17.938359
-
-- location: Forumgallerian
-  urn: urn:espressohouse:store:id:378
-  city: Uppsala
-  latitude: 59.857667
-  longitude: 17.641176
-
-- location: Eslöv
-  urn: urn:espressohouse:store:id:379
-  city: Eslöv
-  latitude: 55.838377
-  longitude: 13.303505
-
-- location: Spekeröd DT
-  urn: urn:espressohouse:store:id:380
-  city: Spekeröd
-  latitude: 58.023833
-  longitude: 11.84683
-
-- location: Heron City
-  urn: urn:espressohouse:store:id:381
-  city: Huddinge
-  latitude: 59.267201
-  longitude: 17.910267
-
-- location: Tumba Centrum
-  urn: urn:espressohouse:store:id:382
-  city: Tumba
-  latitude: 59.19912
-  longitude: 17.835496
-
-- location: Linnégatan
-  urn: urn:espressohouse:store:id:383
-  city: Göteborg
-  latitude: 57.696527
-  longitude: 11.951769
-
-- location: Nedre Avenyn
-  urn: urn:espressohouse:store:id:384
-  city: Göteborg
-  latitude: 57.701698
-  longitude: 11.973983
-
-- location: Katrineholm
-  urn: urn:espressohouse:store:id:385
-  city: Katrineholm
-  latitude: 58.994301
-  longitude: 16.20972
-
-- location: Mall of Scandinavia - Plan 0 vid Åhléns
-  urn: urn:espressohouse:store:id:386
-  city: Solna
-  latitude: 59.371127
-  longitude: 18.003308
-
-- location: Falköping
-  urn: urn:espressohouse:store:id:387
-  city: Falköping
-  latitude: 58.161411
-  longitude: 13.553427
-
-- location: Helsingborg lasarett
-  urn: urn:espressohouse:store:id:388
-  city: Helsingborg
-  latitude: 56.046343
-  longitude: 12.704512
-
-- location: Gamlestadens Resecentrum
-  urn: urn:espressohouse:store:id:390
-  city: Göteborg
-  latitude: 57.728062
-  longitude: 12.00465
-
-- location: Piteå
-  urn: urn:espressohouse:store:id:391
-  city: Piteå
-  latitude: 65.317075
-  longitude: 21.478915
-
-- location: Nynäshamn
-  urn: urn:espressohouse:store:id:392
-  city: Nynäshamn
-  latitude: 58.903434
-  longitude: 17.947267
-
-- location: Bålsta Centrum
-  urn: urn:espressohouse:store:id:393
-  city: Bålsta
-  latitude: 59.566903
-  longitude: 17.530088
-
-- location: Karlstad 15-huset
-  urn: urn:espressohouse:store:id:394
-  city: Karlstad
-  latitude: 59.379049
-  longitude: 13.502027
-
-- location: D29
-  urn: urn:espressohouse:store:id:395
-  city: Stockholm
-  latitude: 59.331191
-  longitude: 18.063958
-
-- location: Arlanda Sky City
-  urn: urn:espressohouse:store:id:396
-  city: Stockholm-Arlanda
-  latitude: 59.648698
-  longitude: 17.929403
-
-- location: Elins Esplanad
-  urn: urn:espressohouse:store:id:397
-  city: Skövde
-  latitude: 58.40436
-  longitude: 13.85436
-
-- location: Vanadisplan
-  urn: urn:espressohouse:store:id:398
-  city: Stockholm
-  latitude: 59.345242
-  longitude: 18.040318
-
-- location: Visby Airport
-  urn: urn:espressohouse:store:id:399
-  city: Visby
-  latitude: 57.660529
-  longitude: 18.338789
-
-- location: Arvika
-  urn: urn:espressohouse:store:id:400
-  city: Arvika
-  latitude: 59.65413
-  longitude: 12.59078
-
-- location: Nyköpingsbro
-  urn: urn:espressohouse:store:id:401
-  city: Nyköping
-  latitude: 58.749145
-  longitude: 16.921247
-
-- location: Oskarshamn
-  urn: urn:espressohouse:store:id:402
-  city: Oskarshamn
-  latitude: 57.265906
-  longitude: 16.446943
-
-- location: Strykjärnet Norrköping
-  urn: urn:espressohouse:store:id:403
-  city: Norrköping
-  latitude: 58.588756
-  longitude: 16.17979
-
-- location: Mora
-  urn: urn:espressohouse:store:id:404
-  city: Mora
-  latitude: 61.00474
-  longitude: 14.53748
-
-- location: Gävle Station
-  urn: urn:espressohouse:store:id:406
-  city: Gävle
-  latitude: 60.67628
-  longitude: 17.150293
-
-- location: Strängnäs
-  urn: urn:espressohouse:store:id:407
-  city: Strängnäs
-  latitude: 59.37608
-  longitude: 17.03016
-
-- location: Hudiksvall
-  urn: urn:espressohouse:store:id:408
-  city: Hudiksvall
-  latitude: 61.7276
-  longitude: 17.10594
-
-- location: Sandviken
-  urn: urn:espressohouse:store:id:409
-  city: Sandviken
-  latitude: 60.62163
-  longitude: 16.77556
-
-- location: Kungens Kurva
-  urn: urn:espressohouse:store:id:410
-  city: Huddinge
-  latitude: 59.269628
-  longitude: 17.91674
-
-- location: Ludvika
-  urn: urn:espressohouse:store:id:411
-  city: Ludvika
-  latitude: 60.14933
-  longitude: 15.1859
-
-- location: Töcksfors
-  urn: urn:espressohouse:store:id:412
-  city: Töcksfors
-  latitude: 59.50632
-  longitude: 11.84314
-
-- location: Karlskoga
-  urn: urn:espressohouse:store:id:414
-  city: Karlskoga
-  latitude: 59.326205
-  longitude: 14.523621
-
-- location: Luleå Airport (öppettider anpassade efter flygavgångar)
-  urn: urn:espressohouse:store:id:415
-  city: Luleå
-  latitude: 65.549043
-  longitude: 22.121482
-
-- location: Kongahälla
-  urn: urn:espressohouse:store:id:416
-  city: Kungälv
-  latitude: 57.87397
-  longitude: 11.96832
-
-- location: Värnamo Road
-  urn: urn:espressohouse:store:id:417
-  city: Värnamo
-  latitude: 57.160487
-  longitude: 14.075766
-
-- location: Sahlgrenska
-  urn: urn:espressohouse:store:id:418
-  city: Göteborg
-  latitude: 57.68277
-  longitude: 11.96159
-
-- location: Kungälvs Sjukhus
-  urn: urn:espressohouse:store:id:419
-  city: Kungälv
-  latitude: 57.8781
-  longitude: 11.97014
-
-- location: Östra Sjukhuset
-  urn: urn:espressohouse:store:id:420
-  city: Göteborg
-  latitude: 57.72214
-  longitude: 12.05239
-
-- location: Skövde Sjukhus
-  urn: urn:espressohouse:store:id:421
-  city: Skövde
-  latitude: 58.42718
-  longitude: 13.85259
-
-- location: Ljungby
-  urn: urn:espressohouse:store:id:422
-  city: Ljungby
-  latitude: 56.833972
-  longitude: 13.941288
-
-- location: Mariestad Road 423
-  urn: urn:espressohouse:store:id:423
-  city: Mariestad
-  latitude: 58.69254
-  longitude: 13.85761
-
-- location: Götgatan 58
-  urn: urn:espressohouse:store:id:424
-  city: Stockholm
-  latitude: 59.31401
-  longitude: 18.0734
-
-- location: Drottninggatan Boden
-  urn: urn:espressohouse:store:id:425
-  city: Boden
-  latitude: 65.820405
-  longitude: 21.674632
-
-- location: Kvarteret Giraffen
-  urn: urn:espressohouse:store:id:426
-  city: Kalmar
-  latitude: 56.66919
-  longitude: 16.33908
-
-- location: Lilla Frölunda
-  urn: urn:espressohouse:store:id:427
-  city: Västra frölunda
-  latitude: 57.65096
-  longitude: 11.90938
-
-- location: Mall Of Scandinavia - Design Gallery
-  urn: urn:espressohouse:store:id:428
-  city: Solna
-  latitude: 59.370542
-  longitude: 18.002903
-
-- location: Vetlanda
-  urn: urn:espressohouse:store:id:429
-  city: Vetlanda
-  latitude: 57.426189
-  longitude: 15.08558
-
-- location: Vänersborg
-  urn: urn:espressohouse:store:id:430
-  city: Vänersborg
-  latitude: 58.38006
-  longitude: 12.32254
-
-- location: Nordstan
-  urn: urn:espressohouse:store:id:431
-  city: Göteborg
-  latitude: 57.70784
-  longitude: 11.96948
-
-- location: Stockholm central metro
-  urn: urn:espressohouse:store:id:432
-  city: Stockholm
-  latitude: 59.33123
-  longitude: 18.05879
-
-- location: Hammarby sjöstad
-  urn: urn:espressohouse:store:id:433
-  city: Stockholm
-  latitude: 59.302921
-  longitude: 18.08802
-
-- location: Hede Fashion Outlet
-  urn: urn:espressohouse:store:id:434
-  city: Kungsbacka
-  latitude: 57.5134
-  longitude: 12.075
-
-- location: Övre Hallen
-  urn: urn:espressohouse:store:id:435
-  city: Stockholm
-  latitude: 59.33067
-  longitude: 18.0572
-
-- location: Högdalen
-  urn: urn:espressohouse:store:id:436
-  city: Stockholm
-  latitude: 59.26359
-  longitude: 18.042186
-
-- location: Linköping Gränden
-  urn: urn:espressohouse:store:id:437
-  city: Linköping
-  latitude: 58.40889
-  longitude: 15.62551
-
-- location: Mjölby
-  urn: urn:espressohouse:store:id:438
-  city: Mjölby
-  latitude: 58.32589
-  longitude: 15.12613
-
-- location: Mobilia Torget
-  urn: urn:espressohouse:store:id:439
-  city: Malmö
-  latitude: 55.581459
-  longitude: 13.0028
-
-- location: Karlshamn
-  urn: urn:espressohouse:store:id:440
-  city: Karlshamn
-  latitude: 56.17047
-  longitude: 14.86297
-
-- location: Varberg Nord DT
-  urn: urn:espressohouse:store:id:441
-  city: Varberg
-  latitude: 57.168394
-  longitude: 12.275574
-
-- location: Växjö Central
-  urn: urn:espressohouse:store:id:442
-  city: Växjö
-  latitude: 56.8769
-  longitude: 14.8058
-
-- location: Tranås
-  urn: urn:espressohouse:store:id:443
-  city: Tranås
-  latitude: 58.034081
-  longitude: 14.97506
-
-- location: Asecs 2
-  urn: urn:espressohouse:store:id:444
-  city: Jönköping
-  latitude: 57.773876
-  longitude: 14.203966
-
-- location: Skövde Torget
-  urn: urn:espressohouse:store:id:445
-  city: Skövde
-  latitude: 58.38917
-  longitude: 13.84512
-
-- location: Klarabergsgatan
-  urn: urn:espressohouse:store:id:446
-  city: Stockholm
-  latitude: 59.3312
-  longitude: 18.0596
-
-- location: Vallentuna Centrum
-  urn: urn:espressohouse:store:id:448
-  city: Vallentuna
-  latitude: 59.5337
-  longitude: 18.07883
-
-- location: Scandinavium
-  urn: urn:espressohouse:store:id:449
-  city: Göteborg
-  latitude: 57.6999
-  longitude: 11.9877
-
-- location: Nordregate
-  urn: urn:espressohouse:store:id:801
-  city: Oslo
-  latitude: 59.92115
-  longitude: 10.75748
-
-- location: Pilestredet
-  urn: urn:espressohouse:store:id:802
-  city: Oslo
-  latitude: 59.92008
-  longitude: 10.73483
-
-- location: Byporten
-  urn: urn:espressohouse:store:id:804
-  city: Oslo
-  latitude: 59.91177
-  longitude: 10.75142
-
-- location: Continental
-  urn: urn:espressohouse:store:id:805
-  city: Oslo
-  latitude: 59.913912
-  longitude: 10.732994
-
-- location: Ullevål Sykehus
-  urn: urn:espressohouse:store:id:806
-  city: Oslo
-  latitude: 59.93694
-  longitude: 10.73693
-
-- location: Parkveien
-  urn: urn:espressohouse:store:id:808
-  city: Oslo
-  latitude: 59.92053
-  longitude: 10.72741
-
-- location: Valkyriegata
-  urn: urn:espressohouse:store:id:809
-  city: Oslo
-  latitude: 59.92891
-  longitude: 10.71745
-
-- location: Bogstadveien 36
-  urn: urn:espressohouse:store:id:813
-  city: Oslo
-  latitude: 59.926743
-  longitude: 10.720339
-
-- location: Oslo Galleriet
-  urn: urn:espressohouse:store:id:814
-  city: Oslo
-  latitude: 59.911944
-  longitude: 10.756474
-
-- location: Aker Brygge
-  urn: urn:espressohouse:store:id:815
-  city: Oslo
-  latitude: 59.910503
-  longitude: 10.728505
-
-- location: Oslo S Flytogterminalen
-  urn: urn:espressohouse:store:id:818
-  city: Oslo
-  latitude: 59.910875
-  longitude: 10.750736
-
-- location: Gunerius
-  urn: urn:espressohouse:store:id:819
-  city: Oslo
-  latitude: 59.91426
-  longitude: 10.753011
-
-- location: Bergen Storsenter
-  urn: urn:espressohouse:store:id:821
-  city: Bergen
-  latitude: 60.38923
-  longitude: 5.33183
-
-- location: Solli Plass
-  urn: urn:espressohouse:store:id:824
-  city: Oslo
-  latitude: 59.91457
-  longitude: 10.71942
-
-- location: Torshov
-  urn: urn:espressohouse:store:id:825
-  city: Oslo
-  latitude: 59.934721
-  longitude: 10.763997
-
-- location: Stovner Senter
-  urn: urn:espressohouse:store:id:827
-  city: Oslo
-  latitude: 59.96215
-  longitude: 10.92453
-
-- location: Sandvika Stasjon
-  urn: urn:espressohouse:store:id:828
-  city: Sandvika
-  latitude: 59.89302
-  longitude: 10.52602
-
-- location: Sandvika Senter
-  urn: urn:espressohouse:store:id:829
-  city: Sandvika
-  latitude: 59.890196
-  longitude: 10.519765
-
 - location: Bergen flygplats
   urn: urn:espressohouse:store:id:830
   city: Bergen
   latitude: 60.289588
   longitude: 5.226525
-
-- location: Trondheim Torg
-  urn: urn:espressohouse:store:id:832
-  city: Trondheim
-  latitude: 63.430189
-  longitude: 10.393456
-
-- location: City Lade
-  urn: urn:espressohouse:store:id:833
-  city: Trondheim
-  latitude: 63.444521
-  longitude: 10.445299
-
-- location: Gulskogen
-  urn: urn:espressohouse:store:id:834
-  city: Drammen
-  latitude: 59.742657
-  longitude: 10.157698
-
-- location: Lysaker
-  urn: urn:espressohouse:store:id:835
-  city: Lysaker
-  latitude: 59.913568
-  longitude: 10.637165
-
-- location: Byporten Plan 2
-  urn: urn:espressohouse:store:id:836
-  city: Oslo
-  latitude: 59.91177
-  longitude: 10.75142
-
-- location: Lagunen
-  urn: urn:espressohouse:store:id:837
-  city: Rådal
-  latitude: 60.297023
-  longitude: 5.330682
-
-- location: Glasmagasinet
-  urn: urn:espressohouse:store:id:838
-  city: Oslo
-  latitude: 59.913282
-  longitude: 10.745324
-
-- location: CC Hamar Stadion
-  urn: urn:espressohouse:store:id:839
-  city: Hamar
-  latitude: 60.795821
-  longitude: 11.079154
-
-- location: Ski Storsenter
-  urn: urn:espressohouse:store:id:840
-  city: Ski
-  latitude: 59.716699
-  longitude: 10.836632
-
-- location: Nygaardsgata
-  urn: urn:espressohouse:store:id:841
-  city: Fredrikstad
-  latitude: 59.213009
-  longitude: 10.938715
-
-- location: Stavanger Jernbanestasjon
-  urn: urn:espressohouse:store:id:844
-  city: Stavanger
-  latitude: 58.96689
-  longitude: 5.732095
-
-- location: Torgallmenningen
-  urn: urn:espressohouse:store:id:845
-  city: Bergen
-  latitude: 60.392723
-  longitude: 5.3232
-
-- location: Strømmen Storsenter
-  urn: urn:espressohouse:store:id:846
-  city: Strømmen
-  latitude: 59.94711
-  longitude: 11.00753
-
-- location: Åsane
-  urn: urn:espressohouse:store:id:847
-  city: Ulset
-  latitude: 60.466975
-  longitude: 5.321166
-
-- location: Nordbyen
-  urn: urn:espressohouse:store:id:849
-  city: Larvik
-  latitude: 59.068485
-  longitude: 10.047266
-
-- location: Farmandstredet
-  urn: urn:espressohouse:store:id:850
-  city: Tønsberg
-  latitude: 59.26928
-  longitude: 10.41176
-
-- location: Kolbotn Torg
-  urn: urn:espressohouse:store:id:851
-  city: Kolbotn
-  latitude: 59.81002
-  longitude: 10.79992
-
-- location: Amfi Moa
-  urn: urn:espressohouse:store:id:852
-  city: Ålesund
-  latitude: 62.46482
-  longitude: 6.35154
-
-- location: Stortorvet Kongsberg
-  urn: urn:espressohouse:store:id:853
-  city: Kongsberg
-  latitude: 59.67034
-  longitude: 9.65151
-
-- location: 854 Steinkjer
-  urn: urn:espressohouse:store:id:854
-  city: Steinkjer
-  latitude: 64.01124
-  longitude: 11.49162
-
-- location: Down Town
-  urn: urn:espressohouse:store:id:855
-  city: Porsgrunn
-  latitude: 59.13778
-  longitude: 9.64108
-
-- location: Oslo S Hovedhallen
-  urn: urn:espressohouse:store:id:856
-  city: Oslo
-  latitude: 59.91079
-  longitude: 10.74989
-
-- location: Hvaltorvet
-  urn: urn:espressohouse:store:id:857
-  city: Sandefjord
-  latitude: 59.129879
-  longitude: 10.226855
-
-- location: Horten Sentrum
-  urn: urn:espressohouse:store:id:858
-  city: Horten
-  latitude: 59.41608
-  longitude: 10.48562
-
-- location: Nordregate
-  urn: urn:espressohouse:store:id:859
-  city: Trondheim
-  latitude: 63.43107
-  longitude: 10.3979
-
-- location: Lillehammer
-  urn: urn:espressohouse:store:id:860
-  city: Lillehammer
-  latitude: 61.11489
-  longitude: 10.46675
-
-- location: Asker Stasjon
-  urn: urn:espressohouse:store:id:861
-  city: Asker
-  latitude: 59.8344
-  longitude: 10.4353
-
-- location: Linderud Senter
-  urn: urn:espressohouse:store:id:862
-  city: Oslo
-  latitude: 59.943241
-  longitude: 10.83547
-
-- location: Moldetorget
-  urn: urn:espressohouse:store:id:863
-  city: Molde
-  latitude: 62.736912
-  longitude: 7.15896
-
-- location: Arendal
-  urn: urn:espressohouse:store:id:864
-  city: Arendal
-  latitude: 58.45949
-  longitude: 8.76346
-
-- location: Hønefoss Sentrum
-  urn: urn:espressohouse:store:id:865
-  city: Hønefoss
-  latitude: 60.165088
-  longitude: 10.255642
-
-- location: Vinterbro
-  urn: urn:espressohouse:store:id:866
-  city: Vinterbro
-  latitude: 59.74376
-  longitude: 10.76722
-
-- location: Storbyen Sarpsborg
-  urn: urn:espressohouse:store:id:867
-  city: Sarpsborg
-  latitude: 59.28408
-  longitude: 11.10699
-
-- location: Storkaia
-  urn: urn:espressohouse:store:id:868
-  city: Kristiansund
-  latitude: 63.11063
-  longitude: 7.73295
-
-- location: Ullevål Stadion
-  urn: urn:espressohouse:store:id:869
-  city: Oslo
-  latitude: 59.94856
-  longitude: 10.73282
-
-- location: CC Gjøvik
-  urn: urn:espressohouse:store:id:870
-  city: Gjøvik
-  latitude: 60.8005
-  longitude: 10.6938
-
-- location: Sjøgata Bodø
-  urn: urn:espressohouse:store:id:871
-  city: Bodø
-  latitude: 67.2838
-  longitude: 14.3769
-
-- location: Førde
-  urn: urn:espressohouse:store:id:872
-  city: Førde
-  latitude: 61.452106
-  longitude: 5.85088
-
-- location: Herkules
-  urn: urn:espressohouse:store:id:873
-  city: Skien
-  latitude: 59.196557
-  longitude: 9.603459
-
-- location: Bystasjonen Sandnes
-  urn: urn:espressohouse:store:id:874
-  city: Sandnes
-  latitude: 58.85149
-  longitude: 5.73631
-
-- location: Harstad
-  urn: urn:espressohouse:store:id:875
-  city: Harstad
-  latitude: 68.798917
-  longitude: 16.546777
-
-- location: Tista Senter Halden
-  urn: urn:espressohouse:store:id:876
-  city: Halden
-  latitude: 59.1214
-  longitude: 11.382
 
 - location: Oasen, Bergen
   urn: urn:espressohouse:store:id:877
@@ -1932,695 +18,71 @@ locations:
   latitude: 60.348959
   longitude: 5.291804
 
-- location: Kamppi HKI
-  urn: urn:espressohouse:store:id:1201
-  city: Helsinki
-  latitude: 60.169094
-  longitude: 24.93355
-
-- location: Forum HKI
-  urn: urn:espressohouse:store:id:1204
-  city: Helsinki
-  latitude: 60.169306
-  longitude: 24.938208
-
-- location: Iso Omena ESP
-  urn: urn:espressohouse:store:id:1205
-  city: ESPOO
-  latitude: 60.16214
-  longitude: 24.738306
-
-- location: Kaari HKI
-  urn: urn:espressohouse:store:id:1207
-  city: Helsinki
-  latitude: 60.236541
-  longitude: 24.891805
-
-- location: Itis HKI
-  urn: urn:espressohouse:store:id:1208
-  city: Helsinki
-  latitude: 60.212017
-  longitude: 25.083053
-
-- location: Malmin Nova HKI
-  urn: urn:espressohouse:store:id:1209
-  city: Helsinki
-  latitude: 60.251498
-  longitude: 25.012565
-
-- location: Lauttis HKI
-  urn: urn:espressohouse:store:id:1210
-  city: Helsinki
-  latitude: 60.160432
-  longitude: 24.881572
-
-- location: Citycenter HKI
-  urn: urn:espressohouse:store:id:1211
-  city: HELSINKI
-  latitude: 60.169867
-  longitude: 24.941893
-
-- location: Kluuvi HKI
-  urn: urn:espressohouse:store:id:1212
-  city: Helsinki
-  latitude: 60.169165
-  longitude: 24.947996
-
-- location: Seppä JKL
-  urn: urn:espressohouse:store:id:1214
-  city: Jyväskylä
-  latitude: 62.256303
-  longitude: 25.775191
-
-- location: University Metro HKI
-  urn: urn:espressohouse:store:id:1215
-  city: Helsinki
-  latitude: 60.171184
-  longitude: 24.947345
-
-- location: Töölöntori
-  urn: urn:espressohouse:store:id:1216
-  city: Helsinki
-  latitude: 60.179728
-  longitude: 24.922731
-
-- location: Hansa TKU
-  urn: urn:espressohouse:store:id:1217
-  city: Turku
-  latitude: 60.449912
-  longitude: 22.264066
-
-- location: Kauppakatu JKL
-  urn: urn:espressohouse:store:id:1218
-  city: Jyväskylä
-  latitude: 62.243232
-  longitude: 25.747795
-
-- location: Mikonkatu HKI
-  urn: urn:espressohouse:store:id:1219
-  city: Helsinki
-  latitude: 60.170258
-  longitude: 24.945783
-
-- location: Jumbo
-  urn: urn:espressohouse:store:id:1220
-  city: Vantaa
-  latitude: 60.291901
-  longitude: 24.965132
-
-- location: Fredrikinkatu HKI
-  urn: urn:espressohouse:store:id:1221
-  city: Helsinki
-  latitude: 60.162828
-  longitude: 24.939475
-
-- location: Asemantunneli HKI
-  urn: urn:espressohouse:store:id:1223
-  city: HELSINKI
-  latitude: 60.170822
-  longitude: 24.941476
-
-- location: Iso Roba
-  urn: urn:espressohouse:store:id:1225
-  city: Helsinki
-  latitude: 60.163999
-  longitude: 24.944252
-
-- location: Otaniemi
-  urn: urn:espressohouse:store:id:1226
-  city: Espoo
-  latitude: 60.186451
-  longitude: 24.822399
-
-- location: Stockmann TRE
-  urn: urn:espressohouse:store:id:1227
-  city: Tampere
-  latitude: 61.499021
-  longitude: 23.770383
-
-- location: Ratina
-  urn: urn:espressohouse:store:id:1228
-  city: Tampere
-  latitude: 61.49447
-  longitude: 23.76875
-
-- location: Yliopistonkatu TKU
-  urn: urn:espressohouse:store:id:1229
-  city: TURKU
-  latitude: 60.451686
-  longitude: 22.264539
-
-- location: Aleksanterinkatu Lahti
-  urn: urn:espressohouse:store:id:1230
-  city: Lahti
-  latitude: 60.983278
-  longitude: 25.658238
-
-- location: Flamingo
-  urn: urn:espressohouse:store:id:1231
-  city: Vantaa
-  latitude: 60.29079
-  longitude: 24.96909
-
-- location: Matkus
-  urn: urn:espressohouse:store:id:1232
-  city: Kuopio
-  latitude: 62.82148
-  longitude: 27.60605
-
-- location: Metro Hakaniemi
-  urn: urn:espressohouse:store:id:1233
-  city: Helsinki
-  latitude: 60.178795
-  longitude: 24.950413
-
-- location: Espen Vaasa
-  urn: urn:espressohouse:store:id:1234
-  city: Vaasa
-  latitude: 63.09656
-  longitude: 21.61796
-
-- location: Trio Lahti
-  urn: urn:espressohouse:store:id:1235
-  city: Lahti
-  latitude: 60.9828
-  longitude: 25.66245
-
-- location: 1236 REDI
-  urn: urn:espressohouse:store:id:1236
-  city: Helsinki
-  latitude: 60.187364
-  longitude: 24.978215
-
-- location: Kotka Pasaati
-  urn: urn:espressohouse:store:id:1237
-  city: Kotka
-  latitude: 60.46663
-  longitude: 26.94601
-
-- location: Pori Puuvilla
-  urn: urn:espressohouse:store:id:1238
-  city: Pori
-  latitude: 61.4952
-  longitude: 21.8011
-
-- location: Turku Skanssi
-  urn: urn:espressohouse:store:id:1240
-  city: Turku
-  latitude: 60.4298
-  longitude: 22.32189
-
-- location: Ruoholahti
-  urn: urn:espressohouse:store:id:1241
-  city: Helsinki
-  latitude: 60.16317
-  longitude: 24.914149
-
-- location: Mylly Raisio
-  urn: urn:espressohouse:store:id:1242
-  city: Raisio
-  latitude: 60.49078
-  longitude: 22.201066
-
-- location: Outlet Helsinki
-  urn: urn:espressohouse:store:id:1243
-  city: Helsinki
-  latitude: 60.274715
-  longitude: 25.08158
-
-- location: Tripla 1. krs
-  urn: urn:espressohouse:store:id:1244
-  city: Helsinki
-  latitude: 60.198655
-  longitude: 24.931373
-
-- location: Helsinki-Vantaa Airport
-  urn: urn:espressohouse:store:id:1245
-  city: Vantaa
-  latitude: 60.310991
-  longitude: 24.969045
-
-- location: Entresse
-  urn: urn:espressohouse:store:id:1246
-  city: Espoo
-  latitude: 60.204102
-  longitude: 24.65921
-
-- location: Ainoa
-  urn: urn:espressohouse:store:id:1247
-  city: Espoo
-  latitude: 60.17624
-  longitude: 24.80713
-
-- location: Willa Hyvinkää
-  urn: urn:espressohouse:store:id:1248
-  city: Hyvinkää
-  latitude: 60.63133
-  longitude: 24.86528
-
-- location: Ideapark Lempäälä
-  urn: urn:espressohouse:store:id:1249
-  city: Lempäälä
-  latitude: 61.361465
-  longitude: 23.795153
-
-- location: Ideapark Seinäjoki
-  urn: urn:espressohouse:store:id:1250
-  city: Seinäjoki
-  latitude: 62.792275
-  longitude: 22.801418
-
-- location: Salo Plaza
-  urn: urn:espressohouse:store:id:1251
-  city: Salo
-  latitude: 60.386518
-  longitude: 23.123636
-
-- location: Veturi Kouvola
-  urn: urn:espressohouse:store:id:1252
-  city: Kuusankoski
-  latitude: 60.87513
-  longitude: 26.65329
-
-- location: Tripla 4. krs
-  urn: urn:espressohouse:store:id:1253
-  city: Helsinki
-  latitude: 60.198619
-  longitude: 24.931194
-
-- location: Porvoo Lundi
-  urn: urn:espressohouse:store:id:1254
-  city: Porvoo
-  latitude: 60.39383
-  longitude: 25.66406
-
-- location: Zeppelin Kempele
-  urn: urn:espressohouse:store:id:1255
-  city: Kempele
-  latitude: 64.9034
-  longitude: 25.5387
-
-- location: Oulu Rotuaari
-  urn: urn:espressohouse:store:id:1256
-  city: Oulu
-  latitude: 65.01249
-  longitude: 25.47058
-
-- location: Iso Omena 2 MEET aukio
-  urn: urn:espressohouse:store:id:1257
-  city: Espoo
-  latitude: 60.16153
-  longitude: 24.73771
-
-- location: Chydenia Kokkola
-  urn: urn:espressohouse:store:id:1258
-  city: Kokkola
-  latitude: 63.836411
-  longitude: 23.13479
-
-- location: Ideapark Oulu
-  urn: urn:espressohouse:store:id:1260
-  city: Oulu
-  latitude: 65.075958
-  longitude: 25.447491
-
-- location: Järvenpää
-  urn: urn:espressohouse:store:id:1261
-  city: Järvenpää
-  latitude: 60.470394
-  longitude: 25.087499
-
-- location: Sampokeskus Rovaniemi
-  urn: urn:espressohouse:store:id:1262
-  city: Rovaniemi
-  latitude: 66.50213
-  longitude: 25.73027
-
-- location: Akseli Mikkeli
-  urn: urn:espressohouse:store:id:1263
-  city: Mikkeli
-  latitude: 61.68869
-  longitude: 27.27204
-
-- location: Sello
-  urn: urn:espressohouse:store:id:1264
-  city: Espoo
-  latitude: 60.21814
-  longitude: 24.81282
-
-- location: Rewell Vaasa
-  urn: urn:espressohouse:store:id:1265
-  city: Vaasa
-  latitude: 63.095919
-  longitude: 21.614569
-
-- location: Koskikeskus Tampere
-  urn: urn:espressohouse:store:id:1266
-  city: Tampere
-  latitude: 61.495658
-  longitude: 23.766663
-
-- location: Börs TKU
-  urn: urn:espressohouse:store:id:1267
-  city: Turku
-  latitude: 60.451187
-  longitude: 22.268466
-
-- location: Karisma Lahti
-  urn: urn:espressohouse:store:id:1268
-  city: Lahti
-  latitude: 60.98147
-  longitude: 25.73723
-
-- location: Sibeliuksenkatu Hämeenlinna
-  urn: urn:espressohouse:store:id:1269
-  city: Hämeenlinna
-  latitude: 60.995966
-  longitude: 24.464698
-
-- location: Carlson Kuopio
-  urn: urn:espressohouse:store:id:1270
-  city: Kuopio
-  latitude: 62.89282
-  longitude: 27.67579
-
-- location: Airport Landside
-  urn: urn:espressohouse:store:id:1271
-  city: Vantaa
-  latitude: 60.31857
-  longitude: 24.968
-
-- location: Iso Kristiina
-  urn: urn:espressohouse:store:id:1272
-  city: Lappeenranta
-  latitude: 61.05679
-  longitude: 28.1941
-
-- location: Columbus
-  urn: urn:espressohouse:store:id:1274
-  city: Helsinki
-  latitude: 60.207561
-  longitude: 25.145221
-
-- location: Lippulaiva
-  urn: urn:espressohouse:store:id:1275
-  city: Espoo
-  latitude: 60.149365
-  longitude: 24.655572
-
-- location: Epstori SJK
-  urn: urn:espressohouse:store:id:1276
-  city: Seinäjoki
-  latitude: 62.79048
-  longitude: 22.84164
-
-- location: Lohja
-  urn: urn:espressohouse:store:id:1277
-  city: Lohja
-  latitude: 60.25022
-  longitude: 24.06458
-
-- location: Hertsi
-  urn: urn:espressohouse:store:id:1278
-  city: Helsinki
-  latitude: 60.19423
-  longitude: 25.0334
-
-- location: Nordic Box Ratina
-  urn: urn:espressohouse:store:id:1279
-  city: Tampere
-  latitude: 61.49447
-  longitude: 23.76875
-
-- location: Rajalla
-  urn: urn:espressohouse:store:id:1280
-  city: Tornio
-  latitude: 65.843429
-  longitude: 24.145284
-
-- location: Toriportti
-  urn: urn:espressohouse:store:id:1281
-  city: Oulu
-  latitude: 65.012602
-  longitude: 25.468112
-
-- location: Espresso House IsoKarhu Pori
-  urn: urn:espressohouse:store:id:1282
-  city: Pori
-  latitude: 61.48428
-  longitude: 21.79732
-
-- location: Kaivopiha
-  urn: urn:espressohouse:store:id:1283
-  city: Helsinki
-  latitude: 60.16982
-  longitude: 24.94112
-
-- location: Højbro Plads
-  urn: urn:espressohouse:store:id:7101
-  city: København K
-  latitude: 55.678747
-  longitude: 12.580288
-
-- location: Odense Banegårds Center
-  urn: urn:espressohouse:store:id:7103
-  city: Odense
-  latitude: 55.40116
-  longitude: 10.38783
-
-- location: Banegaardspladsen
-  urn: urn:espressohouse:store:id:7106
-  city: Aarhus
-  latitude: 56.15061
-  longitude: 10.20285
-
-- location: Vimmelskaftet
-  urn: urn:espressohouse:store:id:7107
-  city: København K
-  latitude: 55.678785
-  longitude: 12.573841
-
-- location: Vestergade
-  urn: urn:espressohouse:store:id:7109
-  city: Odense
-  latitude: 55.39504
-  longitude: 10.38444
-
-- location: Amagerbrogade
-  urn: urn:espressohouse:store:id:7110
-  city: København S
-  latitude: 55.663
-  longitude: 12.602234
-
-- location: Frederiksgade
-  urn: urn:espressohouse:store:id:7111
-  city: Aarhus C
-  latitude: 56.15627
-  longitude: 10.20683
-
-- location: Waterfront Shoppingcenter
-  urn: urn:espressohouse:store:id:7116
-  city: Hellerup
-  latitude: 55.725807
-  longitude: 12.579091
-
-- location: Fisketorvet
-  urn: urn:espressohouse:store:id:7117
-  city: København V
-  latitude: 55.661858
-  longitude: 12.561271
-
-- location: Rundetårn
-  urn: urn:espressohouse:store:id:7118
-  city: København K
-  latitude: 55.681451
-  longitude: 12.574928
-
-- location: Nytorv
-  urn: urn:espressohouse:store:id:7119
-  city: Aalborg
-  latitude: 57.0486
-  longitude: 9.92128
-
-- location: Bernstorffsgade
-  urn: urn:espressohouse:store:id:7120
-  city: København V
-  latitude: 55.673842
-  longitude: 12.564694
-
-- location: Torvegade
-  urn: urn:espressohouse:store:id:7121
-  city: København K
-  latitude: 55.672918
-  longitude: 12.590857
-
-- location: Ryesgade
-  urn: urn:espressohouse:store:id:7122
-  city: Aarhus
-  latitude: 56.15176
-  longitude: 10.20472
-
-- location: Ved Vesterport
-  urn: urn:espressohouse:store:id:7123
-  city: København V
-  latitude: 55.675281
-  longitude: 12.561222
-
-- location: Lyngby Hovedgade
-  urn: urn:espressohouse:store:id:7124
-  city: Kongens Lyngby
-  latitude: 55.769537
-  longitude: 12.505192
-
-- location: Field's, Plan 0
-  urn: urn:espressohouse:store:id:7125
-  city: København S
-  latitude: 55.630345
-  longitude: 12.57739
-
-- location: Vejle
-  urn: urn:espressohouse:store:id:7128
-  city: Vejle
-  latitude: 55.70772
-  longitude: 9.53278
-
-- location: Falkoner Allé
-  urn: urn:espressohouse:store:id:7129
-  city: Frederiksberg
-  latitude: 55.680971
-  longitude: 12.534533
-
-- location: Rosengårdcentret
-  urn: urn:espressohouse:store:id:7130
-  city: Odense
-  latitude: 55.38376
-  longitude: 10.42593
-
-- location: Spinderiet
-  urn: urn:espressohouse:store:id:7131
-  city: Valby
-  latitude: 55.664774
-  longitude: 12.512582
-
-- location: Ballerup
-  urn: urn:espressohouse:store:id:7132
-  city: Ballerup
-  latitude: 55.729009
-  longitude: 12.355861
-
-- location: Glostrup Shoppingcenter
-  urn: urn:espressohouse:store:id:7134
-  city: Glostrup
-  latitude: 55.665688
-  longitude: 12.397853
-
-- location: Slagelse
-  urn: urn:espressohouse:store:id:7135
-  city: Slagelse
-  latitude: 55.40619
-  longitude: 11.35512
-
-- location: Rådhuspladsen
-  urn: urn:espressohouse:store:id:7136
-  city: København V
-  latitude: 55.67579
-  longitude: 12.567059
-
-- location: Kongens Nytorv
-  urn: urn:espressohouse:store:id:7137
-  city: København K
-  latitude: 55.68148
-  longitude: 12.58555
-
-- location: Kolding
-  urn: urn:espressohouse:store:id:7139
-  city: Kolding
-  latitude: 55.513358
-  longitude: 9.458637
-
-- location: Waves Shoppingcenter
-  urn: urn:espressohouse:store:id:7140
-  city: Greve
-  latitude: 55.59795
-  longitude: 12.32891
-
-- location: Bruuns Galleri
-  urn: urn:espressohouse:store:id:7141
-  city: Aarhus
-  latitude: 56.14912
-  longitude: 10.20378
-
-- location: Lyngby Storcenter
-  urn: urn:espressohouse:store:id:7142
-  city: Kongens Lyngby
-  latitude: 55.772584
-  longitude: 12.50591
-
-- location: Torvehallerne
-  urn: urn:espressohouse:store:id:7144
-  city: København K
-  latitude: 55.684254
-  longitude: 12.570523
-
-- location: Ro’s Torv
-  urn: urn:espressohouse:store:id:7145
-  city: Roskilde
-  latitude: 55.6424
-  longitude: 12.10095
-
-- location: Østerbrogade
-  urn: urn:espressohouse:store:id:7146
-  city: København Ø
-  latitude: 55.699296
-  longitude: 12.578317
-
-- location: Hovedbanegården
-  urn: urn:espressohouse:store:id:7147
-  city: København V
-  latitude: 55.67273
-  longitude: 12.566
-
-- location: Field's, Plan 1
-  urn: urn:espressohouse:store:id:7148
-  city: København S
-  latitude: 55.630981
-  longitude: 12.575792
-
-- location: City 2
-  urn: urn:espressohouse:store:id:7151
-  city: Taastrup
-  latitude: 55.643852
-  longitude: 12.277641
-
-- location: Rødovre Centrum
-  urn: urn:espressohouse:store:id:7152
-  city: Rødovre
-  latitude: 55.67848
-  longitude: 12.455471
-
-- location: Kronen Vanløse
-  urn: urn:espressohouse:store:id:7153
-  city: Vanløse
-  latitude: 55.687834
-  longitude: 12.490992
-
-- location: Slotsarkaderne
-  urn: urn:espressohouse:store:id:7154
-  city: Hillerød
-  latitude: 55.929025
-  longitude: 12.298619
-
-- location: Tivoli
-  urn: urn:espressohouse:store:id:7155
-  city: København V
-  latitude: 55.6744
-  longitude: 12.565
-
-- location: Bispensgade
-  urn: urn:espressohouse:store:id:7156
-  city: Aalborg
-  latitude: 57.049543
-  longitude: 9.919131
+- location: Åsane
+  urn: urn:espressohouse:store:id:847
+  city: Ulset
+  latitude: 60.466975
+  longitude: 5.321166
+
+- location: Torgallmenningen
+  urn: urn:espressohouse:store:id:845
+  city: Bergen
+  latitude: 60.392723
+  longitude: 5.3232
+
+- location: Lagunen
+  urn: urn:espressohouse:store:id:837
+  city: Rådal
+  latitude: 60.297023
+  longitude: 5.330682
+
+- location: Bergen Storsenter
+  urn: urn:espressohouse:store:id:821
+  city: Bergen
+  latitude: 60.38923
+  longitude: 5.33183
+
+- location: Stavanger Jernbanestasjon
+  urn: urn:espressohouse:store:id:844
+  city: Stavanger
+  latitude: 58.96689
+  longitude: 5.732095
+
+- location: Bystasjonen Sandnes
+  urn: urn:espressohouse:store:id:874
+  city: Sandnes
+  latitude: 58.85149
+  longitude: 5.73631
+
+- location: Førde
+  urn: urn:espressohouse:store:id:872
+  city: Førde
+  latitude: 61.452106
+  longitude: 5.85088
+
+- location: Amfi Moa
+  urn: urn:espressohouse:store:id:852
+  city: Ålesund
+  latitude: 62.46482
+  longitude: 6.35154
+
+- location: Moldetorget
+  urn: urn:espressohouse:store:id:863
+  city: Molde
+  latitude: 62.736912
+  longitude: 7.15896
+
+- location: Storkaia
+  urn: urn:espressohouse:store:id:868
+  city: Kristiansund
+  latitude: 63.11063
+  longitude: 7.73295
+
+- location: Mauritiusplatz
+  urn: urn:espressohouse:store:id:26503
+  city: Wiesbaden
+  latitude: 50.08197
+  longitude: 8.23907
 
 - location: Esbjerg
   urn: urn:espressohouse:store:id:7157
@@ -2628,53 +90,17 @@ locations:
   latitude: 55.4663
   longitude: 8.44863
 
-- location: CPH Lufthavn T2
-  urn: urn:espressohouse:store:id:7158
-  city: Kastrup
-  latitude: 55.628546
-  longitude: 12.645803
+- location: MTZ
+  urn: urn:espressohouse:store:id:26005
+  city: Sulzbach
+  latitude: 50.11844
+  longitude: 8.52849
 
-- location: Rigshospitalet
-  urn: urn:espressohouse:store:id:7159
-  city: København Ø
-  latitude: 55.69598
-  longitude: 12.56665
-
-- location: CPH Lufthavn T3
-  urn: urn:espressohouse:store:id:7160
-  city: Kastrup
-  latitude: 55.628125
-  longitude: 12.649597
-
-- location: Søndergade 15
-  urn: urn:espressohouse:store:id:7161
-  city: Århus
-  latitude: 56.15486
-  longitude: 10.20721
-
-- location: Østerport
-  urn: urn:espressohouse:store:id:7162
-  city: København Ø
-  latitude: 55.692505
-  longitude: 12.587246
-
-- location: Friis Shoppingcenter
-  urn: urn:espressohouse:store:id:7164
-  city: Aalborg
-  latitude: 57.04755
-  longitude: 9.92666
-
-- location: Kennedy Arkaden
-  urn: urn:espressohouse:store:id:7165
-  city: Aalborg
-  latitude: 57.04232
-  longitude: 9.91835
-
-- location: Sønderborg (Borgen)
-  urn: urn:espressohouse:store:id:7166
-  city: Sønderborg
-  latitude: 54.90933
-  longitude: 9.79135
+- location: Bahnhofstraße / Loom
+  urn: urn:espressohouse:store:id:23301
+  city: Bielefeld
+  latitude: 52.02574
+  longitude: 8.53235
 
 - location: Holstebro
   urn: urn:espressohouse:store:id:7167
@@ -2682,293 +108,17 @@ locations:
   latitude: 56.35895
   longitude: 8.61722
 
-- location: Hørsholm Midtpunkt
-  urn: urn:espressohouse:store:id:7168
-  city: Hørsholm
-  latitude: 55.88201
-  longitude: 12.49579
-
-- location: Viborg
-  urn: urn:espressohouse:store:id:7169
-  city: Viborg
-  latitude: 56.44974
-  longitude: 9.409
-
-- location: Herningcentret
-  urn: urn:espressohouse:store:id:7170
-  city: Herning
-  latitude: 56.135391
-  longitude: 8.9981
-
-- location: Scandic Webers
-  urn: urn:espressohouse:store:id:7171
-  city: København V
-  latitude: 55.67314
-  longitude: 12.56091
-
-- location: Amager Centeret
-  urn: urn:espressohouse:store:id:7172
-  city: København S
-  latitude: 55.66283
-  longitude: 12.60379
-
-- location: Scandic Nørreport
-  urn: urn:espressohouse:store:id:7173
-  city: København K
-  latitude: 55.68386
-  longitude: 12.57185
-
-- location: CPH Lufthavn Landside
-  urn: urn:espressohouse:store:id:7174
-  city: Kastrup
-  latitude: 55.62959
-  longitude: 12.64844
-
-- location: Oslo Plads
-  urn: urn:espressohouse:store:id:7175
-  city: KBH Ø
-  latitude: 55.69198
-  longitude: 12.58825
-
-- location: Farum Bytorv
-  urn: urn:espressohouse:store:id:7176
-  city: Farum
-  latitude: 55.814495
-  longitude: 12.379699
-
-- location: Ringsted
-  urn: urn:espressohouse:store:id:7177
-  city: Ringsted
-  latitude: 55.451
-  longitude: 11.7855
-
-- location: Næstved
-  urn: urn:espressohouse:store:id:7178
-  city: Næstved
-  latitude: 55.230189
-  longitude: 11.760942
-
-- location: Hjørring
-  urn: urn:espressohouse:store:id:7180
-  city: Hjørring
-  latitude: 57.45741
-  longitude: 9.99133
-
-- location: Søborg
-  urn: urn:espressohouse:store:id:7181
-  city: Søborg
-  latitude: 55.73305
-  longitude: 12.51726
-
-- location: Ilva Ishøj
-  urn: urn:espressohouse:store:id:7182
-  city: Ishøj
-  latitude: 55.61923
-  longitude: 12.33709
-
-- location: Scandic Spectrum
-  urn: urn:espressohouse:store:id:7183
-  city: København
-  latitude: 55.66959
-  longitude: 12.57379
-
-- location: Frederiksberggade
-  urn: urn:espressohouse:store:id:7184
-  city: København K
-  latitude: 55.677281
-  longitude: 12.571292
-
-- location: Victor Borges Plads
-  urn: urn:espressohouse:store:id:7186
-  city: København Ø
-  latitude: 55.701711
-  longitude: 12.580913
-
-- location: Plantorama, Hillerød
-  urn: urn:espressohouse:store:id:7305
-  city: Hillerød
-  latitude: 55.926963
-  longitude: 12.264985
-
-- location: Baresso Lalandia
-  urn: urn:espressohouse:store:id:7307
-  city: Billund
-  latitude: 55.73329
-  longitude: 9.13854
-
 - location: Barista Station
-  urn: urn:espressohouse:store:id:7503
-  city: Vanløse
-  latitude: 55.695301
-  longitude: 12.49865
+  urn: urn:espressohouse:store:id:750322
+  city: Holstebro
+  latitude: 56.3767
+  longitude: 8.6198
 
-- location: Knesebeckstraße
-  urn: urn:espressohouse:store:id:21008
-  city: Berlin
-  latitude: 52.51075
-  longitude: 13.32286
-
-- location: Schönhauser Allee
-  urn: urn:espressohouse:store:id:21009
-  city: Berlin
-  latitude: 52.54992
-  longitude: 13.41332
-
-- location: Potsdamer Platz
-  urn: urn:espressohouse:store:id:21010
-  city: Berlin
-  latitude: 52.509819
-  longitude: 13.375976
-
-- location: Berlin Domaquarree
-  urn: urn:espressohouse:store:id:21011
-  city: Berlin
-  latitude: 52.51989
-  longitude: 13.40393
-
-- location: B Friedrichstraße
-  urn: urn:espressohouse:store:id:21012
-  city: Berlin
-  latitude: 52.52648
-  longitude: 13.38705
-
-- location: Chausseestraße
-  urn: urn:espressohouse:store:id:21013
-  city: Berlin
-  latitude: 52.530949
-  longitude: 13.383331
-
-- location: Steglitz
-  urn: urn:espressohouse:store:id:21014
-  city: Berlin
-  latitude: 52.457133
-  longitude: 13.32229
-
-- location: Fernsehturm
-  urn: urn:espressohouse:store:id:21016
-  city: Berlin
-  latitude: 52.52082
-  longitude: 13.40971
-
-- location: B Gartenstraße
-  urn: urn:espressohouse:store:id:21017
-  city: Berlin
-  latitude: 52.533069
-  longitude: 13.387533
-
-- location: Potsdamer Platz / Sony Center
-  urn: urn:espressohouse:store:id:21018
-  city: Berlin
-  latitude: 52.51067
-  longitude: 13.37627
-
-- location: Besselpark / Friedrichstr.
-  urn: urn:espressohouse:store:id:21020
-  city: Berlin
-  latitude: 52.50327
-  longitude: 13.39074
-
-- location: Potsdam Bahnhof
-  urn: urn:espressohouse:store:id:21401
-  city: Potsdam
-  latitude: 52.39247
-  longitude: 13.06713
-
-- location: Thalia Theater
-  urn: urn:espressohouse:store:id:22005
-  city: Hamburg
-  latitude: 53.55177
-  longitude: 9.99822
-
-- location: Espresso House AEZ
-  urn: urn:espressohouse:store:id:22006
-  city: Hamburg
-  latitude: 53.6546
-  longitude: 10.09341
-
-- location: Eppendorfer Baum
-  urn: urn:espressohouse:store:id:22007
-  city: Hamburg
-  latitude: 53.5841
-  longitude: 9.98416
-
-- location: Europa Passage
-  urn: urn:espressohouse:store:id:22008
-  city: Hamburg
-  latitude: 53.55182
-  longitude: 9.99533
-
-- location: Kurze Mühren
-  urn: urn:espressohouse:store:id:22011
-  city: Hamburg
-  latitude: 53.55286
-  longitude: 10.00377
-
-- location: Grindelhof
-  urn: urn:espressohouse:store:id:22013
-  city: Hamburg
-  latitude: 53.56789
-  longitude: 9.98168
-
-- location: Hamburg Gustav-Mahler-Platz
-  urn: urn:espressohouse:store:id:22017
-  city: Hamburg
-  latitude: 53.55662
-  longitude: 9.98996
-
-- location: St. Georg
-  urn: urn:espressohouse:store:id:22018
-  city: Hamburg
-  latitude: 53.55782
-  longitude: 10.01178
-
-- location: Gertigstrasse
-  urn: urn:espressohouse:store:id:22019
-  city: Hamburg
-  latitude: 53.58126
-  longitude: 10.0122
-
-- location: Mittelweg
-  urn: urn:espressohouse:store:id:22022
-  city: Hamburg
-  latitude: 53.57122
-  longitude: 9.995319
-
-- location: Hamburg Vorsetzen
-  urn: urn:espressohouse:store:id:22027
-  city: Hamburg
-  latitude: 53.54425
-  longitude: 9.97775
-
-- location: HH Bahnhof Altona
-  urn: urn:espressohouse:store:id:22028
-  city: Hamburg
-  latitude: 53.55397
-  longitude: 9.93423
-
-- location: S-Bahn Barmbek
-  urn: urn:espressohouse:store:id:22029
-  city: Hamburg
-  latitude: 53.58788
-  longitude: 10.04381
-
-- location: Gänsemarkt
-  urn: urn:espressohouse:store:id:22030
-  city: Hamburg
-  latitude: 53.55534
-  longitude: 9.98857
-
-- location: LG Am Sande
-  urn: urn:espressohouse:store:id:22101
-  city: Lüneburg
-  latitude: 53.24775
-  longitude: 10.40917
-
-- location: HL Bahnhof
-  urn: urn:espressohouse:store:id:22301
-  city: Lübeck
-  latitude: 53.867225
-  longitude: 10.670502
+- location: Arendal
+  urn: urn:espressohouse:store:id:864
+  city: Arendal
+  latitude: 58.45949
+  longitude: 8.76346
 
 - location: HB Obernstraße
   urn: urn:espressohouse:store:id:22804
@@ -2982,17 +132,143 @@ locations:
   latitude: 53.08168
   longitude: 8.81349
 
-- location: Zöllnerstraße
-  urn: urn:espressohouse:store:id:22901
-  city: Celle
-  latitude: 52.62446
-  longitude: 10.08258
+- location: Barista Station
+  urn: urn:espressohouse:store:id:75034
+  city: Holsted
+  latitude: 55.5232
+  longitude: 8.90319
 
-- location: Hannover HBF
-  urn: urn:espressohouse:store:id:23001
-  city: Hannover
-  latitude: 52.37592
-  longitude: 9.74125
+- location: Herningcentret
+  urn: urn:espressohouse:store:id:7170
+  city: Herning
+  latitude: 56.135391
+  longitude: 8.9981
+
+- location: Barista Station
+  urn: urn:espressohouse:store:id:750329
+  city: Herning
+  latitude: 56.1261
+  longitude: 9.0038
+
+- location: Barista Station
+  urn: urn:espressohouse:store:id:75033
+  city: Sunds
+  latitude: 56.20051
+  longitude: 9.0201
+
+- location: Baresso Lalandia
+  urn: urn:espressohouse:store:id:7307
+  city: Billund
+  latitude: 55.73329
+  longitude: 9.13854
+
+- location: Lalandia
+  urn: urn:espressohouse:store:id:73071
+  city: Billund
+  latitude: 55.73329
+  longitude: 9.13854
+
+- location: Barista Station
+  urn: urn:espressohouse:store:id:750332
+  city: Billund
+  latitude: 55.7461
+  longitude: 9.1495
+
+- location: Barista Station
+  urn: urn:espressohouse:store:id:750325
+  city: Rødekro
+  latitude: 55.0684
+  longitude: 9.3614
+
+- location: Barista Station
+  urn: urn:espressohouse:store:id:750330
+  city: Viborg
+  latitude: 56.4499
+  longitude: 9.389
+
+- location: Barista Station
+  urn: urn:espressohouse:store:id:750328
+  city: Viborg
+  latitude: 56.4492
+  longitude: 9.4062
+
+- location: Viborg
+  urn: urn:espressohouse:store:id:7169
+  city: Viborg
+  latitude: 56.44974
+  longitude: 9.409
+
+- location: Barista Station
+  urn: urn:espressohouse:store:id:750324
+  city: Kolding
+  latitude: 55.5134
+  longitude: 9.4567
+
+- location: Kolding
+  urn: urn:espressohouse:store:id:7139
+  city: Kolding
+  latitude: 55.513358
+  longitude: 9.458637
+
+- location: Barista Station
+  urn: urn:espressohouse:store:id:750319
+  city: Kolding
+  latitude: 55.514
+  longitude: 9.4621
+
+- location: Barista Station
+  urn: urn:espressohouse:store:id:75039
+  city: Kolding
+  latitude: 55.50595
+  longitude: 9.50578
+
+- location: Vejle
+  urn: urn:espressohouse:store:id:7128
+  city: Vejle
+  latitude: 55.70772
+  longitude: 9.53278
+
+- location: Barista Station
+  urn: urn:espressohouse:store:id:750336
+  city: Vejle
+  latitude: 55.7266
+  longitude: 9.5817
+
+- location: Barista Station
+  urn: urn:espressohouse:store:id:75032
+  city: Vejle Øst
+  latitude: 55.73212
+  longitude: 9.60325
+
+- location: Herkules
+  urn: urn:espressohouse:store:id:873
+  city: Skien
+  latitude: 59.196557
+  longitude: 9.603459
+
+- location: Down Town
+  urn: urn:espressohouse:store:id:855
+  city: Porsgrunn
+  latitude: 59.13778
+  longitude: 9.64108
+
+- location: Stortorvet Kongsberg
+  urn: urn:espressohouse:store:id:853
+  city: Kongsberg
+  latitude: 59.67034
+  longitude: 9.65151
+
+- location: Barista Station
+  urn: urn:espressohouse:store:id:750331
+  city: Hedensted
+  latitude: 55.787
+  longitude: 9.6681
+
+- location: Barista Station
+  urn: urn:espressohouse:store:id:750333
+  city: Nørager
+  latitude: 56.7832
+  longitude: 9.692
 
 - location: Limburgstraße
   urn: urn:espressohouse:store:id:23007
@@ -3006,113 +282,17 @@ locations:
   latitude: 52.37531
   longitude: 9.73897
 
-- location: Bahnhofstraße / Loom
-  urn: urn:espressohouse:store:id:23301
-  city: Bielefeld
-  latitude: 52.02574
-  longitude: 8.53235
+- location: Hannover HBF
+  urn: urn:espressohouse:store:id:23001
+  city: Hannover
+  latitude: 52.37592
+  longitude: 9.74125
 
-- location: Göttingen Hauptbahnhof
-  urn: urn:espressohouse:store:id:23702
-  city: Göttingen
-  latitude: 51.53656
-  longitude: 9.92695
-
-- location: MTZ
-  urn: urn:espressohouse:store:id:26005
-  city: Sulzbach
-  latitude: 50.11844
-  longitude: 8.52849
-
-- location: Mauritiusplatz
-  urn: urn:espressohouse:store:id:26503
-  city: Wiesbaden
-  latitude: 50.08197
-  longitude: 8.23907
-
-- location: Plantorama, Aalborg
-  urn: urn:espressohouse:store:id:73051
-  city: Aalborg SV
-  latitude: 56.99786
-  longitude: 9.86549
-
-- location: Plantorama, Egå
-  urn: urn:espressohouse:store:id:73052
-  city: Egå
-  latitude: 56.23455
-  longitude: 10.29508
-
-- location: Lalandia
-  urn: urn:espressohouse:store:id:73071
-  city: Billund
-  latitude: 55.73329
-  longitude: 9.13854
-
-- location: Lalandia Rødby
-  urn: urn:espressohouse:store:id:73072
-  city: Rødby
-  latitude: 54.66606
-  longitude: 11.33354
-
-- location: Barista Station
-  urn: urn:espressohouse:store:id:75031
-  city: Odense C
-  latitude: 55.4065
-  longitude: 10.38497
-
-- location: Barista Station
-  urn: urn:espressohouse:store:id:75032
-  city: Vejle Øst
-  latitude: 55.73212
-  longitude: 9.60325
-
-- location: Barista Station
-  urn: urn:espressohouse:store:id:75033
-  city: Sunds
-  latitude: 56.20051
-  longitude: 9.0201
-
-- location: Barista Station
-  urn: urn:espressohouse:store:id:75034
-  city: Holsted
-  latitude: 55.5232
-  longitude: 8.90319
-
-- location: Barista Station
-  urn: urn:espressohouse:store:id:75035
-  city: Nyborg
-  latitude: 55.30744
-  longitude: 10.81033
-
-- location: Barista Station
-  urn: urn:espressohouse:store:id:75036
-  city: Ringsted
-  latitude: 55.484852
-  longitude: 11.8505
-
-- location: Barista Station
-  urn: urn:espressohouse:store:id:75037
-  city: Viby J
-  latitude: 56.11388
-  longitude: 10.15193
-
-- location: Barista Station
-  urn: urn:espressohouse:store:id:75038
-  city: Hvidovre
-  latitude: 55.6633
-  longitude: 12.45633
-
-- location: Barista Station
-  urn: urn:espressohouse:store:id:75039
-  city: Kolding
-  latitude: 55.50595
-  longitude: 9.50578
-
-- location: Barista Station
-  urn: urn:espressohouse:store:id:750311
-  city: Kalundborg
-  latitude: 55.67636
-  longitude: 11.10495
+- location: Sønderborg (Borgen)
+  urn: urn:espressohouse:store:id:7166
+  city: Sønderborg
+  latitude: 54.90933
+  longitude: 9.79135
 
 - location: Barista Station
   urn: urn:espressohouse:store:id:750312
@@ -3121,10 +301,166 @@ locations:
   longitude: 9.82052
 
 - location: Barista Station
-  urn: urn:espressohouse:store:id:750313
-  city: Vallensbæk
-  latitude: 55.644291
-  longitude: 12.37357
+  urn: urn:espressohouse:store:id:750321
+  city: Horsens
+  latitude: 55.8586
+  longitude: 9.8479
+
+- location: Plantorama, Aalborg
+  urn: urn:espressohouse:store:id:73051
+  city: Aalborg SV
+  latitude: 56.99786
+  longitude: 9.86549
+
+- location: Kennedy Arkaden
+  urn: urn:espressohouse:store:id:7165
+  city: Aalborg
+  latitude: 57.04232
+  longitude: 9.91835
+
+- location: Bispensgade
+  urn: urn:espressohouse:store:id:7156
+  city: Aalborg
+  latitude: 57.049543
+  longitude: 9.919131
+
+- location: Barista Station
+  urn: urn:espressohouse:store:id:750318
+  city: Aalborg
+  latitude: 57.0425
+  longitude: 9.9194
+
+- location: Nytorv
+  urn: urn:espressohouse:store:id:7119
+  city: Aalborg
+  latitude: 57.0486
+  longitude: 9.92128
+
+- location: Friis Shoppingcenter
+  urn: urn:espressohouse:store:id:7164
+  city: Aalborg
+  latitude: 57.04755
+  longitude: 9.92666
+
+- location: Göttingen Hauptbahnhof
+  urn: urn:espressohouse:store:id:23702
+  city: Göttingen
+  latitude: 51.53656
+  longitude: 9.92695
+
+- location: HH Bahnhof Altona
+  urn: urn:espressohouse:store:id:22028
+  city: Hamburg
+  latitude: 53.55397
+  longitude: 9.93423
+
+- location: Hamburg Vorsetzen
+  urn: urn:espressohouse:store:id:22027
+  city: Hamburg
+  latitude: 53.54425
+  longitude: 9.97775
+
+- location: Grindelhof
+  urn: urn:espressohouse:store:id:22013
+  city: Hamburg
+  latitude: 53.56789
+  longitude: 9.98168
+
+- location: Eppendorfer Baum
+  urn: urn:espressohouse:store:id:22007
+  city: Hamburg
+  latitude: 53.5841
+  longitude: 9.98416
+
+- location: Gänsemarkt
+  urn: urn:espressohouse:store:id:22030
+  city: Hamburg
+  latitude: 53.55534
+  longitude: 9.98857
+
+- location: Hamburg Gustav-Mahler-Platz
+  urn: urn:espressohouse:store:id:22017
+  city: Hamburg
+  latitude: 53.55662
+  longitude: 9.98996
+
+- location: Hjørring
+  urn: urn:espressohouse:store:id:7180
+  city: Hjørring
+  latitude: 57.45741
+  longitude: 9.99133
+
+- location: Mittelweg
+  urn: urn:espressohouse:store:id:22022
+  city: Hamburg
+  latitude: 53.57122
+  longitude: 9.995319
+
+- location: Europa Passage
+  urn: urn:espressohouse:store:id:22008
+  city: Hamburg
+  latitude: 53.55182
+  longitude: 9.99533
+
+- location: Thalia Theater
+  urn: urn:espressohouse:store:id:22005
+  city: Hamburg
+  latitude: 53.55177
+  longitude: 9.99822
+
+- location: Kurze Mühren
+  urn: urn:espressohouse:store:id:22011
+  city: Hamburg
+  latitude: 53.55286
+  longitude: 10.00377
+
+- location: St. Georg
+  urn: urn:espressohouse:store:id:22018
+  city: Hamburg
+  latitude: 53.55782
+  longitude: 10.01178
+
+- location: Gertigstrasse
+  urn: urn:espressohouse:store:id:22019
+  city: Hamburg
+  latitude: 53.58126
+  longitude: 10.0122
+
+- location: S-Bahn Barmbek
+  urn: urn:espressohouse:store:id:22029
+  city: Hamburg
+  latitude: 53.58788
+  longitude: 10.04381
+
+- location: Nordbyen
+  urn: urn:espressohouse:store:id:849
+  city: Larvik
+  latitude: 59.068485
+  longitude: 10.047266
+
+- location: Barista Station
+  urn: urn:espressohouse:store:id:750320
+  city: Randers
+  latitude: 56.4129
+  longitude: 10.0752
+
+- location: Zöllnerstraße
+  urn: urn:espressohouse:store:id:22901
+  city: Celle
+  latitude: 52.62446
+  longitude: 10.08258
+
+- location: Espresso House AEZ
+  urn: urn:espressohouse:store:id:22006
+  city: Hamburg
+  latitude: 53.6546
+  longitude: 10.09341
+
+- location: Plantorama Tilst
+  urn: urn:espressohouse:store:id:750337
+  city: Tilst
+  latitude: 56.18498
+  longitude: 10.09585
 
 - location: Barista Station
   urn: urn:espressohouse:store:id:750314
@@ -3133,10 +469,118 @@ locations:
   longitude: 10.1341
 
 - location: Barista Station
-  urn: urn:espressohouse:store:id:750315
-  city: København V
-  latitude: 55.6735
-  longitude: 12.5649
+  urn: urn:espressohouse:store:id:75037
+  city: Viby J
+  latitude: 56.11388
+  longitude: 10.15193
+
+- location: Gulskogen
+  urn: urn:espressohouse:store:id:834
+  city: Drammen
+  latitude: 59.742657
+  longitude: 10.157698
+
+- location: Barista Station
+  urn: urn:espressohouse:store:id:750334
+  city: Skejby
+  latitude: 56.2064
+  longitude: 10.1748
+
+- location: Banegaardspladsen
+  urn: urn:espressohouse:store:id:7106
+  city: Aarhus
+  latitude: 56.15061
+  longitude: 10.20285
+
+- location: Bruuns Galleri
+  urn: urn:espressohouse:store:id:7141
+  city: Aarhus
+  latitude: 56.14912
+  longitude: 10.20378
+
+- location: Ryesgade
+  urn: urn:espressohouse:store:id:7122
+  city: Aarhus
+  latitude: 56.15176
+  longitude: 10.20472
+
+- location: Frederiksgade
+  urn: urn:espressohouse:store:id:7111
+  city: Aarhus C
+  latitude: 56.15627
+  longitude: 10.20683
+
+- location: Søndergade 15
+  urn: urn:espressohouse:store:id:7161
+  city: Århus
+  latitude: 56.15486
+  longitude: 10.20721
+
+- location: Hvaltorvet
+  urn: urn:espressohouse:store:id:857
+  city: Sandefjord
+  latitude: 59.129879
+  longitude: 10.226855
+
+- location: Hønefoss Sentrum
+  urn: urn:espressohouse:store:id:865
+  city: Hønefoss
+  latitude: 60.165088
+  longitude: 10.255642
+
+- location: Plantorama, Egå
+  urn: urn:espressohouse:store:id:73052
+  city: Egå
+  latitude: 56.23455
+  longitude: 10.29508
+
+- location: Vestergade
+  urn: urn:espressohouse:store:id:7109
+  city: Odense
+  latitude: 55.39504
+  longitude: 10.38444
+
+- location: Barista Station
+  urn: urn:espressohouse:store:id:75031
+  city: Odense C
+  latitude: 55.4065
+  longitude: 10.38497
+
+- location: Odense Banegårds Center
+  urn: urn:espressohouse:store:id:7103
+  city: Odense
+  latitude: 55.40116
+  longitude: 10.38783
+
+- location: Trondheim Torg
+  urn: urn:espressohouse:store:id:832
+  city: Trondheim
+  latitude: 63.430189
+  longitude: 10.393456
+
+- location: Nordregate
+  urn: urn:espressohouse:store:id:859
+  city: Trondheim
+  latitude: 63.43107
+  longitude: 10.3979
+
+- location: LG Am Sande
+  urn: urn:espressohouse:store:id:22101
+  city: Lüneburg
+  latitude: 53.24775
+  longitude: 10.40917
+
+- location: Farmandstredet
+  urn: urn:espressohouse:store:id:850
+  city: Tønsberg
+  latitude: 59.26928
+  longitude: 10.41176
+
+- location: Rosengårdcentret
+  urn: urn:espressohouse:store:id:7130
+  city: Odense
+  latitude: 55.38376
+  longitude: 10.42593
 
 - location: Barista Station
   urn: urn:espressohouse:store:id:750316
@@ -3145,112 +589,280 @@ locations:
   longitude: 10.427
 
 - location: Barista Station
-  urn: urn:espressohouse:store:id:750317
-  city: København S
-  latitude: 55.6303
-  longitude: 12.5782
-
-- location: Barista Station
-  urn: urn:espressohouse:store:id:750318
-  city: Aalborg
-  latitude: 57.0425
-  longitude: 9.9194
-
-- location: Barista Station
-  urn: urn:espressohouse:store:id:750319
-  city: Kolding
-  latitude: 55.514
-  longitude: 9.4621
-
-- location: Barista Station
-  urn: urn:espressohouse:store:id:750320
-  city: Randers
-  latitude: 56.4129
-  longitude: 10.0752
-
-- location: Barista Station
-  urn: urn:espressohouse:store:id:750321
-  city: Horsens
-  latitude: 55.8586
-  longitude: 9.8479
-
-- location: Barista Station
-  urn: urn:espressohouse:store:id:750322
-  city: Holstebro
-  latitude: 56.3767
-  longitude: 8.6198
-
-- location: Barista Station
-  urn: urn:espressohouse:store:id:750323
-  city: Skovlunde
-  latitude: 55.7134
-  longitude: 12.4183
-
-- location: Barista Station
-  urn: urn:espressohouse:store:id:750324
-  city: Kolding
-  latitude: 55.5134
-  longitude: 9.4567
-
-- location: Barista Station
-  urn: urn:espressohouse:store:id:750325
-  city: Rødekro
-  latitude: 55.0684
-  longitude: 9.3614
-
-- location: Barista Station
   urn: urn:espressohouse:store:id:750326
   city: Odense
   latitude: 55.38643
   longitude: 10.42846
 
-- location: Barista Station
-  urn: urn:espressohouse:store:id:750327
-  city: Greve
-  latitude: 55.5846
-  longitude: 12.2579
+- location: Asker Stasjon
+  urn: urn:espressohouse:store:id:861
+  city: Asker
+  latitude: 59.8344
+  longitude: 10.4353
+
+- location: City Lade
+  urn: urn:espressohouse:store:id:833
+  city: Trondheim
+  latitude: 63.444521
+  longitude: 10.445299
+
+- location: Lillehammer
+  urn: urn:espressohouse:store:id:860
+  city: Lillehammer
+  latitude: 61.11489
+  longitude: 10.46675
+
+- location: Horten Sentrum
+  urn: urn:espressohouse:store:id:858
+  city: Horten
+  latitude: 59.41608
+  longitude: 10.48562
+
+- location: Sandvika Senter
+  urn: urn:espressohouse:store:id:829
+  city: Sandvika
+  latitude: 59.890196
+  longitude: 10.519765
+
+- location: Sandvika Stasjon
+  urn: urn:espressohouse:store:id:828
+  city: Sandvika
+  latitude: 59.89302
+  longitude: 10.52602
+
+- location: Lysaker
+  urn: urn:espressohouse:store:id:835
+  city: Lysaker
+  latitude: 59.913568
+  longitude: 10.637165
+
+- location: HL Bahnhof
+  urn: urn:espressohouse:store:id:22301
+  city: Lübeck
+  latitude: 53.867225
+  longitude: 10.670502
+
+- location: CC Gjøvik
+  urn: urn:espressohouse:store:id:870
+  city: Gjøvik
+  latitude: 60.8005
+  longitude: 10.6938
+
+- location: Valkyriegata
+  urn: urn:espressohouse:store:id:809
+  city: Oslo
+  latitude: 59.92891
+  longitude: 10.71745
+
+- location: Solli Plass
+  urn: urn:espressohouse:store:id:824
+  city: Oslo
+  latitude: 59.91457
+  longitude: 10.71942
+
+- location: Bogstadveien 36
+  urn: urn:espressohouse:store:id:813
+  city: Oslo
+  latitude: 59.926743
+  longitude: 10.720339
+
+- location: Parkveien
+  urn: urn:espressohouse:store:id:808
+  city: Oslo
+  latitude: 59.92053
+  longitude: 10.72741
+
+- location: Aker Brygge
+  urn: urn:espressohouse:store:id:815
+  city: Oslo
+  latitude: 59.910503
+  longitude: 10.728505
+
+- location: Ullevål Stadion
+  urn: urn:espressohouse:store:id:869
+  city: Oslo
+  latitude: 59.94856
+  longitude: 10.73282
+
+- location: Continental
+  urn: urn:espressohouse:store:id:805
+  city: Oslo
+  latitude: 59.913912
+  longitude: 10.732994
+
+- location: Pilestredet
+  urn: urn:espressohouse:store:id:802
+  city: Oslo
+  latitude: 59.92008
+  longitude: 10.73483
+
+- location: Ullevål Sykehus
+  urn: urn:espressohouse:store:id:806
+  city: Oslo
+  latitude: 59.93694
+  longitude: 10.73693
+
+- location: Glasmagasinet
+  urn: urn:espressohouse:store:id:838
+  city: Oslo
+  latitude: 59.913282
+  longitude: 10.745324
+
+- location: Oslo S Hovedhallen
+  urn: urn:espressohouse:store:id:856
+  city: Oslo
+  latitude: 59.91079
+  longitude: 10.74989
+
+- location: Oslo S Flytogterminalen
+  urn: urn:espressohouse:store:id:818
+  city: Oslo
+  latitude: 59.910875
+  longitude: 10.750736
+
+- location: Byporten
+  urn: urn:espressohouse:store:id:804
+  city: Oslo
+  latitude: 59.91177
+  longitude: 10.75142
+
+- location: Byporten Plan 2
+  urn: urn:espressohouse:store:id:836
+  city: Oslo
+  latitude: 59.91177
+  longitude: 10.75142
+
+- location: Gunerius
+  urn: urn:espressohouse:store:id:819
+  city: Oslo
+  latitude: 59.91426
+  longitude: 10.753011
+
+- location: Oslo Galleriet
+  urn: urn:espressohouse:store:id:814
+  city: Oslo
+  latitude: 59.911944
+  longitude: 10.756474
+
+- location: Nordregate
+  urn: urn:espressohouse:store:id:801
+  city: Oslo
+  latitude: 59.92115
+  longitude: 10.75748
+
+- location: Torshov
+  urn: urn:espressohouse:store:id:825
+  city: Oslo
+  latitude: 59.934721
+  longitude: 10.763997
+
+- location: Vinterbro
+  urn: urn:espressohouse:store:id:866
+  city: Vinterbro
+  latitude: 59.74376
+  longitude: 10.76722
+
+- location: Kolbotn Torg
+  urn: urn:espressohouse:store:id:851
+  city: Kolbotn
+  latitude: 59.81002
+  longitude: 10.79992
 
 - location: Barista Station
-  urn: urn:espressohouse:store:id:750328
-  city: Viborg
-  latitude: 56.4492
-  longitude: 9.4062
+  urn: urn:espressohouse:store:id:75035
+  city: Nyborg
+  latitude: 55.30744
+  longitude: 10.81033
+
+- location: Linderud Senter
+  urn: urn:espressohouse:store:id:862
+  city: Oslo
+  latitude: 59.943241
+  longitude: 10.83547
+
+- location: Ski Storsenter
+  urn: urn:espressohouse:store:id:840
+  city: Ski
+  latitude: 59.716699
+  longitude: 10.836632
+
+- location: Stovner Senter
+  urn: urn:espressohouse:store:id:827
+  city: Oslo
+  latitude: 59.96215
+  longitude: 10.92453
+
+- location: Nygaardsgata
+  urn: urn:espressohouse:store:id:841
+  city: Fredrikstad
+  latitude: 59.213009
+  longitude: 10.938715
+
+- location: Strømmen Storsenter
+  urn: urn:espressohouse:store:id:846
+  city: Strømmen
+  latitude: 59.94711
+  longitude: 11.00753
+
+- location: CC Hamar Stadion
+  urn: urn:espressohouse:store:id:839
+  city: Hamar
+  latitude: 60.795821
+  longitude: 11.079154
 
 - location: Barista Station
-  urn: urn:espressohouse:store:id:750329
-  city: Herning
-  latitude: 56.1261
-  longitude: 9.0038
+  urn: urn:espressohouse:store:id:750311
+  city: Kalundborg
+  latitude: 55.67636
+  longitude: 11.10495
 
-- location: Barista Station
-  urn: urn:espressohouse:store:id:750330
-  city: Viborg
-  latitude: 56.4499
-  longitude: 9.389
+- location: Storbyen Sarpsborg
+  urn: urn:espressohouse:store:id:867
+  city: Sarpsborg
+  latitude: 59.28408
+  longitude: 11.10699
 
-- location: Barista Station
-  urn: urn:espressohouse:store:id:750331
-  city: Hedensted
-  latitude: 55.787
-  longitude: 9.6681
+- location: Nordby
+  urn: urn:espressohouse:store:id:339
+  city: Strömstad
+  latitude: 59.064136
+  longitude: 11.208221
 
-- location: Barista Station
-  urn: urn:espressohouse:store:id:750332
-  city: Billund
-  latitude: 55.7461
-  longitude: 9.1495
+- location: Lalandia Rødby
+  urn: urn:espressohouse:store:id:73072
+  city: Rødby
+  latitude: 54.66606
+  longitude: 11.33354
 
-- location: Barista Station
-  urn: urn:espressohouse:store:id:750333
-  city: Nørager
-  latitude: 56.7832
-  longitude: 9.692
+- location: Slagelse
+  urn: urn:espressohouse:store:id:7135
+  city: Slagelse
+  latitude: 55.40619
+  longitude: 11.35512
 
-- location: Barista Station
-  urn: urn:espressohouse:store:id:750334
-  city: Skejby
-  latitude: 56.2064
-  longitude: 10.1748
+- location: Tista Senter Halden
+  urn: urn:espressohouse:store:id:876
+  city: Halden
+  latitude: 59.1214
+  longitude: 11.382
+
+- location: 854 Steinkjer
+  urn: urn:espressohouse:store:id:854
+  city: Steinkjer
+  latitude: 64.01124
+  longitude: 11.49162
+
+- location: Næstved
+  urn: urn:espressohouse:store:id:7178
+  city: Næstved
+  latitude: 55.230189
+  longitude: 11.760942
+
+- location: Ringsted
+  urn: urn:espressohouse:store:id:7177
+  city: Ringsted
+  latitude: 55.451
+  longitude: 11.7855
 
 - location: Barista Station
   urn: urn:espressohouse:store:id:750335
@@ -3258,20 +870,2408 @@ locations:
   latitude: 55.45351
   longitude: 11.78807
 
-- location: Barista Station
-  urn: urn:espressohouse:store:id:750336
-  city: Vejle
-  latitude: 55.7266
-  longitude: 9.5817
+- location: Uddevalla Torp
+  urn: urn:espressohouse:store:id:303
+  city: Uddevalla
+  latitude: 58.353374
+  longitude: 11.809419
 
-- location: Plantorama Tilst
-  urn: urn:espressohouse:store:id:750337
-  city: Tilst
-  latitude: 56.18498
-  longitude: 10.09585
+- location: V Köpmansgatan STE
+  urn: urn:espressohouse:store:id:155
+  city: Steunungsund
+  latitude: 58.06852
+  longitude: 11.81656
+
+- location: Töcksfors
+  urn: urn:espressohouse:store:id:412
+  city: Töcksfors
+  latitude: 59.50632
+  longitude: 11.84314
+
+- location: Spekeröd DT
+  urn: urn:espressohouse:store:id:380
+  city: Spekeröd
+  latitude: 58.023833
+  longitude: 11.84683
+
+- location: Barista Station
+  urn: urn:espressohouse:store:id:75036
+  city: Ringsted
+  latitude: 55.484852
+  longitude: 11.8505
+
+- location: Stora Frölunda
+  urn: urn:espressohouse:store:id:206
+  city: Västra Frölunda
+  latitude: 57.65105
+  longitude: 11.90888
+
+- location: Lilla Frölunda
+  urn: urn:espressohouse:store:id:427
+  city: Västra frölunda
+  latitude: 57.65096
+  longitude: 11.90938
+
+- location: Drottninggatan UDD
+  urn: urn:espressohouse:store:id:186
+  city: Uddevalla
+  latitude: 58.34976
+  longitude: 11.93378
+
+- location: Backaplan
+  urn: urn:espressohouse:store:id:367
+  city: Göteborg
+  latitude: 57.721814
+  longitude: 11.951707
+
+- location: Linnégatan
+  urn: urn:espressohouse:store:id:383
+  city: Göteborg
+  latitude: 57.696527
+  longitude: 11.951769
+
+- location: Järntorget
+  urn: urn:espressohouse:store:id:316
+  city: Göteborg
+  latitude: 57.69983
+  longitude: 11.95189
+
+- location: Sahlgrenska
+  urn: urn:espressohouse:store:id:418
+  city: Göteborg
+  latitude: 57.68277
+  longitude: 11.96159
+
+- location: Kungsgatan GÖT
+  urn: urn:espressohouse:store:id:236
+  city: Göteborg
+  latitude: 57.70374
+  longitude: 11.96209
+
+- location: Södra Larmgatan GÖT
+  urn: urn:espressohouse:store:id:195
+  city: Göteborg
+  latitude: 57.70354
+  longitude: 11.9664
+
+- location: Vasagatan GÖT
+  urn: urn:espressohouse:store:id:113
+  city: Göteborg
+  latitude: 57.69836
+  longitude: 11.96644
+
+- location: Kungspassagen
+  urn: urn:espressohouse:store:id:363
+  city: Göteborg
+  latitude: 57.704709
+  longitude: 11.967799
+
+- location: Brunnsparken
+  urn: urn:espressohouse:store:id:262
+  city: Göteborg
+  latitude: 57.7071
+  longitude: 11.96805
+
+- location: Kongahälla
+  urn: urn:espressohouse:store:id:416
+  city: Kungälv
+  latitude: 57.87397
+  longitude: 11.96832
+
+- location: Arkaden GÖT
+  urn: urn:espressohouse:store:id:157
+  city: Göteborg
+  latitude: 57.70627
+  longitude: 11.96908
+
+- location: Femmanhuset Stora
+  urn: urn:espressohouse:store:id:238
+  city: Göteborg
+  latitude: 57.7086
+  longitude: 11.96937
+
+- location: Nordstan
+  urn: urn:espressohouse:store:id:431
+  city: Göteborg
+  latitude: 57.70784
+  longitude: 11.96948
+
+- location: Femmanhuset lilla
+  urn: urn:espressohouse:store:id:145
+  city: Göteborg
+  latitude: 57.70853
+  longitude: 11.96999
+
+- location: Kungälvs Sjukhus
+  urn: urn:espressohouse:store:id:419
+  city: Kungälv
+  latitude: 57.8781
+  longitude: 11.97014
+
+- location: Göteborg C - STORA
+  urn: urn:espressohouse:store:id:107
+  city: Göteborg
+  latitude: 57.708974
+  longitude: 11.97278
+
+- location: Göteborg C - LILLA
+  urn: urn:espressohouse:store:id:146
+  city: Göteborg
+  latitude: 57.709323
+  longitude: 11.973086
+
+- location: Göteborg C3 - EXPRESS
+  urn: urn:espressohouse:store:id:284
+  city: Göteborg
+  latitude: 57.70897
+  longitude: 11.97352
+
+- location: Nedre Avenyn
+  urn: urn:espressohouse:store:id:384
+  city: Göteborg
+  latitude: 57.701698
+  longitude: 11.973983
+
+- location: Övre Avenyn
+  urn: urn:espressohouse:store:id:254
+  city: Göteborg
+  latitude: 57.69963
+  longitude: 11.97642
+
+- location: Scandinavium
+  urn: urn:espressohouse:store:id:449
+  city: Göteborg
+  latitude: 57.6999
+  longitude: 11.9877
+
+- location: Gamlestadens Resecentrum
+  urn: urn:espressohouse:store:id:390
+  city: Göteborg
+  latitude: 57.728062
+  longitude: 12.00465
+
+- location: Mölndal Galleria
+  urn: urn:espressohouse:store:id:349
+  city: Mölndal
+  latitude: 57.65351
+  longitude: 12.01204
+
+- location: Östra Sjukhuset
+  urn: urn:espressohouse:store:id:420
+  city: Göteborg
+  latitude: 57.72214
+  longitude: 12.05239
+
+- location: Kungsmässan, Stora
+  urn: urn:espressohouse:store:id:278
+  city: Kungsbacka
+  latitude: 57.493278
+  longitude: 12.074003
+
+- location: Kungsmässan, Lilla
+  urn: urn:espressohouse:store:id:131
+  city: Kungsbacka
+  latitude: 57.492021
+  longitude: 12.074202
+
+- location: Hede Fashion Outlet
+  urn: urn:espressohouse:store:id:434
+  city: Kungsbacka
+  latitude: 57.5134
+  longitude: 12.075
+
+- location: Ro’s Torv
+  urn: urn:espressohouse:store:id:7145
+  city: Roskilde
+  latitude: 55.6424
+  longitude: 12.10095
+
+- location: Partille Allum
+  urn: urn:espressohouse:store:id:360
+  city: Partille
+  latitude: 57.739274
+  longitude: 12.106112
+
+- location: Mölnlycke
+  urn: urn:espressohouse:store:id:366
+  city: Mölnlycke
+  latitude: 57.658908
+  longitude: 12.116847
+
+- location: V Vallgatan Varberg
+  urn: urn:espressohouse:store:id:188
+  city: Varberg
+  latitude: 57.10623
+  longitude: 12.2475
+
+- location: Barista Station
+  urn: urn:espressohouse:store:id:750327
+  city: Greve
+  latitude: 55.5846
+  longitude: 12.2579
+
+- location: Plantorama, Hillerød
+  urn: urn:espressohouse:store:id:7305
+  city: Hillerød
+  latitude: 55.926963
+  longitude: 12.264985
+
+- location: Varberg Nord DT
+  urn: urn:espressohouse:store:id:441
+  city: Varberg
+  latitude: 57.168394
+  longitude: 12.275574
+
+- location: City 2
+  urn: urn:espressohouse:store:id:7151
+  city: Taastrup
+  latitude: 55.643852
+  longitude: 12.277641
+
+- location: Kungsgatan TRO
+  urn: urn:espressohouse:store:id:151
+  city: Trollhättan
+  latitude: 58.28516
+  longitude: 12.29086
+
+- location: Landvetter Utrikes
+  urn: urn:espressohouse:store:id:127
+  city: Härryda
+  latitude: 57.6703
+  longitude: 12.297531
+
+- location: Slotsarkaderne
+  urn: urn:espressohouse:store:id:7154
+  city: Hillerød
+  latitude: 55.929025
+  longitude: 12.298619
+
+- location: Överby TRO
+  urn: urn:espressohouse:store:id:177
+  city: Trollhättan
+  latitude: 58.31201
+  longitude: 12.30644
+
+- location: Vänersborg
+  urn: urn:espressohouse:store:id:430
+  city: Vänersborg
+  latitude: 58.38006
+  longitude: 12.32254
+
+- location: Waves Shoppingcenter
+  urn: urn:espressohouse:store:id:7140
+  city: Greve
+  latitude: 55.59795
+  longitude: 12.32891
+
+- location: Ilva Ishøj
+  urn: urn:espressohouse:store:id:7182
+  city: Ishøj
+  latitude: 55.61923
+  longitude: 12.33709
+
+- location: Ballerup
+  urn: urn:espressohouse:store:id:7132
+  city: Ballerup
+  latitude: 55.729009
+  longitude: 12.355861
+
+- location: Barista Station
+  urn: urn:espressohouse:store:id:750313
+  city: Vallensbæk
+  latitude: 55.644291
+  longitude: 12.37357
+
+- location: Farum Bytorv
+  urn: urn:espressohouse:store:id:7176
+  city: Farum
+  latitude: 55.814495
+  longitude: 12.379699
+
+- location: Glostrup Shoppingcenter
+  urn: urn:espressohouse:store:id:7134
+  city: Glostrup
+  latitude: 55.665688
+  longitude: 12.397853
+
+- location: Barista Station
+  urn: urn:espressohouse:store:id:750323
+  city: Skovlunde
+  latitude: 55.7134
+  longitude: 12.4183
+
+- location: Rødovre Centrum
+  urn: urn:espressohouse:store:id:7152
+  city: Rødovre
+  latitude: 55.67848
+  longitude: 12.455471
+
+- location: Barista Station
+  urn: urn:espressohouse:store:id:75038
+  city: Hvidovre
+  latitude: 55.6633
+  longitude: 12.45633
 
 - location: Plantorama, Hørsholm
   urn: urn:espressohouse:store:id:750338
   city: Hørsholm
   latitude: 55.90164
   longitude: 12.48698
+
+- location: Falkenberg
+  urn: urn:espressohouse:store:id:348
+  city: Falkenberg
+  latitude: 56.9034
+  longitude: 12.4908
+
+- location: Kronen Vanløse
+  urn: urn:espressohouse:store:id:7153
+  city: Vanløse
+  latitude: 55.687834
+  longitude: 12.490992
+
+- location: Hørsholm Midtpunkt
+  urn: urn:espressohouse:store:id:7168
+  city: Hørsholm
+  latitude: 55.88201
+  longitude: 12.49579
+
+- location: Barista Station
+  urn: urn:espressohouse:store:id:7503
+  city: Vanløse
+  latitude: 55.695301
+  longitude: 12.49865
+
+- location: Lyngby Hovedgade
+  urn: urn:espressohouse:store:id:7124
+  city: Kongens Lyngby
+  latitude: 55.769537
+  longitude: 12.505192
+
+- location: Lyngby Storcenter
+  urn: urn:espressohouse:store:id:7142
+  city: Kongens Lyngby
+  latitude: 55.772584
+  longitude: 12.50591
+
+- location: Spinderiet
+  urn: urn:espressohouse:store:id:7131
+  city: Valby
+  latitude: 55.664774
+  longitude: 12.512582
+
+- location: Søborg
+  urn: urn:espressohouse:store:id:7181
+  city: Søborg
+  latitude: 55.73305
+  longitude: 12.51726
+
+- location: Falkoner Allé
+  urn: urn:espressohouse:store:id:7129
+  city: Frederiksberg
+  latitude: 55.680971
+  longitude: 12.534533
+
+- location: Kungsgatan ALI
+  urn: urn:espressohouse:store:id:154
+  city: Alingsås
+  latitude: 57.93
+  longitude: 12.53629
+
+- location: Scandic Webers
+  urn: urn:espressohouse:store:id:7171
+  city: København V
+  latitude: 55.67314
+  longitude: 12.56091
+
+- location: Ved Vesterport
+  urn: urn:espressohouse:store:id:7123
+  city: København V
+  latitude: 55.675281
+  longitude: 12.561222
+
+- location: Fisketorvet
+  urn: urn:espressohouse:store:id:7117
+  city: København V
+  latitude: 55.661858
+  longitude: 12.561271
+
+- location: Bernstorffsgade
+  urn: urn:espressohouse:store:id:7120
+  city: København V
+  latitude: 55.673842
+  longitude: 12.564694
+
+- location: Barista Station
+  urn: urn:espressohouse:store:id:750315
+  city: København V
+  latitude: 55.6735
+  longitude: 12.5649
+
+- location: Tivoli
+  urn: urn:espressohouse:store:id:7155
+  city: København V
+  latitude: 55.6744
+  longitude: 12.565
+
+- location: Hovedbanegården
+  urn: urn:espressohouse:store:id:7147
+  city: København V
+  latitude: 55.67273
+  longitude: 12.566
+
+- location: Rigshospitalet
+  urn: urn:espressohouse:store:id:7159
+  city: København Ø
+  latitude: 55.69598
+  longitude: 12.56665
+
+- location: Rådhuspladsen
+  urn: urn:espressohouse:store:id:7136
+  city: København V
+  latitude: 55.67579
+  longitude: 12.567059
+
+- location: Torvehallerne
+  urn: urn:espressohouse:store:id:7144
+  city: København K
+  latitude: 55.684254
+  longitude: 12.570523
+
+- location: Frederiksberggade
+  urn: urn:espressohouse:store:id:7184
+  city: København K
+  latitude: 55.677281
+  longitude: 12.571292
+
+- location: Scandic Nørreport
+  urn: urn:espressohouse:store:id:7173
+  city: København K
+  latitude: 55.68386
+  longitude: 12.57185
+
+- location: Scandic Spectrum
+  urn: urn:espressohouse:store:id:7183
+  city: København
+  latitude: 55.66959
+  longitude: 12.57379
+
+- location: Vimmelskaftet
+  urn: urn:espressohouse:store:id:7107
+  city: København K
+  latitude: 55.678785
+  longitude: 12.573841
+
+- location: Rundetårn
+  urn: urn:espressohouse:store:id:7118
+  city: København K
+  latitude: 55.681451
+  longitude: 12.574928
+
+- location: Field's, Plan 1
+  urn: urn:espressohouse:store:id:7148
+  city: København S
+  latitude: 55.630981
+  longitude: 12.575792
+
+- location: Field's, Plan 0
+  urn: urn:espressohouse:store:id:7125
+  city: København S
+  latitude: 55.630345
+  longitude: 12.57739
+
+- location: Barista Station
+  urn: urn:espressohouse:store:id:750317
+  city: København S
+  latitude: 55.6303
+  longitude: 12.5782
+
+- location: Østerbrogade
+  urn: urn:espressohouse:store:id:7146
+  city: København Ø
+  latitude: 55.699296
+  longitude: 12.578317
+
+- location: Waterfront Shoppingcenter
+  urn: urn:espressohouse:store:id:7116
+  city: Hellerup
+  latitude: 55.725807
+  longitude: 12.579091
+
+- location: Højbro Plads
+  urn: urn:espressohouse:store:id:7101
+  city: København K
+  latitude: 55.678747
+  longitude: 12.580288
+
+- location: Victor Borges Plads
+  urn: urn:espressohouse:store:id:7186
+  city: København Ø
+  latitude: 55.701711
+  longitude: 12.580913
+
+- location: Kongens Nytorv
+  urn: urn:espressohouse:store:id:7137
+  city: København K
+  latitude: 55.68148
+  longitude: 12.58555
+
+- location: Østerport
+  urn: urn:espressohouse:store:id:7162
+  city: København Ø
+  latitude: 55.692505
+  longitude: 12.587246
+
+- location: Oslo Plads
+  urn: urn:espressohouse:store:id:7175
+  city: KBH Ø
+  latitude: 55.69198
+  longitude: 12.58825
+
+- location: Arvika
+  urn: urn:espressohouse:store:id:400
+  city: Arvika
+  latitude: 59.65413
+  longitude: 12.59078
+
+- location: Torvegade
+  urn: urn:espressohouse:store:id:7121
+  city: København K
+  latitude: 55.672918
+  longitude: 12.590857
+
+- location: Amagerbrogade
+  urn: urn:espressohouse:store:id:7110
+  city: København S
+  latitude: 55.663
+  longitude: 12.602234
+
+- location: Amager Centeret
+  urn: urn:espressohouse:store:id:7172
+  city: København S
+  latitude: 55.66283
+  longitude: 12.60379
+
+- location: CPH Lufthavn T2
+  urn: urn:espressohouse:store:id:7158
+  city: Kastrup
+  latitude: 55.628546
+  longitude: 12.645803
+
+- location: CPH Lufthavn Landside
+  urn: urn:espressohouse:store:id:7174
+  city: Kastrup
+  latitude: 55.62959
+  longitude: 12.64844
+
+- location: CPH Lufthavn T3
+  urn: urn:espressohouse:store:id:7160
+  city: Kastrup
+  latitude: 55.628125
+  longitude: 12.649597
+
+- location: Kajpromenaden HEL
+  urn: urn:espressohouse:store:id:118
+  city: Helsingborg
+  latitude: 56.04976
+  longitude: 12.68652
+
+- location: Helsingborg C Express
+  urn: urn:espressohouse:store:id:184
+  city: Helsingborg
+  latitude: 56.0437
+  longitude: 12.69365
+
+- location: Kullagatan HEL
+  urn: urn:espressohouse:store:id:160
+  city: Helsingborg
+  latitude: 56.04726
+  longitude: 12.69433
+
+- location: Bruksgatan HBG
+  urn: urn:espressohouse:store:id:244
+  city: Helsingborg
+  latitude: 56.04491
+  longitude: 12.69655
+
+- location: Helsingborg lasarett
+  urn: urn:espressohouse:store:id:388
+  city: Helsingborg
+  latitude: 56.046343
+  longitude: 12.704512
+
+- location: Väla HEL
+  urn: urn:espressohouse:store:id:207
+  city: Ödåkra
+  latitude: 56.09206
+  longitude: 12.75669
+
+- location: Östergatan LAN
+  urn: urn:espressohouse:store:id:201
+  city: Landskrona
+  latitude: 55.87059
+  longitude: 12.83218
+
+- location: Köpmansgatan HAL
+  urn: urn:espressohouse:store:id:123
+  city: Halmstad
+  latitude: 56.67565
+  longitude: 12.85802
+
+- location: Storgatan HAL
+  urn: urn:espressohouse:store:id:250
+  city: Halmstad
+  latitude: 56.67631
+  longitude: 12.8592
+
+- location: Storgatan ÄNG
+  urn: urn:espressohouse:store:id:171
+  city: Ängelholm
+  latitude: 56.24288
+  longitude: 12.86229
+
+- location: Hallarna HAL
+  urn: urn:espressohouse:store:id:119
+  city: Halmstad
+  latitude: 56.65575
+  longitude: 12.90998
+
+- location: Borås Station
+  urn: urn:espressohouse:store:id:318
+  city: Borås
+  latitude: 57.720821
+  longitude: 12.932257
+
+- location: Limhamn
+  urn: urn:espressohouse:store:id:251
+  city: Limhamn
+  latitude: 55.58178
+  longitude: 12.93382
+
+- location: Borås Knallerian
+  urn: urn:espressohouse:store:id:332
+  city: Borås
+  latitude: 57.732928
+  longitude: 12.937158
+
+- location: Stora Brogatan BOR
+  urn: urn:espressohouse:store:id:173
+  city: Borås
+  latitude: 57.7205
+  longitude: 12.93945
+
+- location: Emporia - Plan 2
+  urn: urn:espressohouse:store:id:253
+  city: Malmö
+  latitude: 55.563692
+  longitude: 12.972022
+
+- location: Västra Hamnen
+  urn: urn:espressohouse:store:id:117
+  city: Malmö
+  latitude: 55.61063
+  longitude: 12.973
+
+- location: Emporia - Plan 3
+  urn: urn:espressohouse:store:id:359
+  city: Malmö
+  latitude: 55.563615
+  longitude: 12.974616
+
+- location: Löddeköpinge Center Syd
+  urn: urn:espressohouse:store:id:309
+  city: Löddeköpinge
+  latitude: 55.769848
+  longitude: 12.990411
+
+- location: Ilva
+  urn: urn:espressohouse:store:id:122
+  city: Malmö
+  latitude: 55.55347
+  longitude: 12.993548
+
+- location: Stortorget Malmö
+  urn: urn:espressohouse:store:id:314
+  city: Malmö
+  latitude: 55.606875
+  longitude: 12.999491
+
+- location: Malmö C - Entréhall
+  urn: urn:espressohouse:store:id:134
+  city: Malmö
+  latitude: 55.60892
+  longitude: 12.99957
+
+- location: UMAS
+  urn: urn:espressohouse:store:id:353
+  city: Malmö
+  latitude: 55.587713
+  longitude: 13.000035
+
+- location: Triangelns Köpcentrum MAL
+  urn: urn:espressohouse:store:id:230
+  city: Malmö
+  latitude: 55.59481
+  longitude: 13.00066
+
+- location: Skomakaregatan MAL
+  urn: urn:espressohouse:store:id:101
+  city: Malmö
+  latitude: 55.60451
+  longitude: 13.00077
+
+- location: Förstadsgatan
+  urn: urn:espressohouse:store:id:272
+  city: Malmö
+  latitude: 55.59739
+  longitude: 13.00103
+
+- location: Malmö C - vid Spår 5
+  urn: urn:espressohouse:store:id:222
+  city: Malmö
+  latitude: 55.60953
+  longitude: 13.0011
+
+- location: Storgatan MAL
+  urn: urn:espressohouse:store:id:174
+  city: Malmö
+  latitude: 55.5998
+  longitude: 13.00185
+
+- location: Mobilia Torget
+  urn: urn:espressohouse:store:id:439
+  city: Malmö
+  latitude: 55.581459
+  longitude: 13.0028
+
+- location: Hansa MAL
+  urn: urn:espressohouse:store:id:110
+  city: Malmö
+  latitude: 55.603228
+  longitude: 13.003544
+
+- location: Mobilia Södra Huset
+  urn: urn:espressohouse:store:id:114
+  city: Malmö
+  latitude: 55.579991
+  longitude: 13.003574
+
+- location: Värnhemstorget
+  urn: urn:espressohouse:store:id:280
+  city: Malmö
+  latitude: 55.60598
+  longitude: 13.02342
+
+- location: Potsdam Bahnhof
+  urn: urn:espressohouse:store:id:21401
+  city: Potsdam
+  latitude: 52.39247
+  longitude: 13.06713
+
+- location: Lomma
+  urn: urn:espressohouse:store:id:324
+  city: Lomma
+  latitude: 55.675402
+  longitude: 13.069622
+
+- location: Burlöv Center MAL
+  urn: urn:espressohouse:store:id:130
+  city: Arlöv
+  latitude: 55.63953
+  longitude: 13.08372
+
+- location: Lidköping city
+  urn: urn:espressohouse:store:id:361
+  city: Lidköping
+  latitude: 58.504488
+  longitude: 13.155698
+
+- location: Trelleborg
+  urn: urn:espressohouse:store:id:345
+  city: Trelleborg
+  latitude: 55.37365
+  longitude: 13.15859
+
+- location: Stora Nova
+  urn: urn:espressohouse:store:id:257
+  city: Lund
+  latitude: 55.7138
+  longitude: 13.15923
+
+- location: Lilla Nova
+  urn: urn:espressohouse:store:id:106
+  city: Lund
+  latitude: 55.71437
+  longitude: 13.1596
+
+- location: Lund Central 2
+  urn: urn:espressohouse:store:id:261
+  city: Lund
+  latitude: 55.70514
+  longitude: 13.18706
+
+- location: Lund C LUN
+  urn: urn:espressohouse:store:id:126
+  city: Lund
+  latitude: 55.70523
+  longitude: 13.18782
+
+- location: Stortorget Lund
+  urn: urn:espressohouse:store:id:342
+  city: Lund
+  latitude: 55.703134
+  longitude: 13.193797
+
+- location: Eslöv
+  urn: urn:espressohouse:store:id:379
+  city: Eslöv
+  latitude: 55.838377
+  longitude: 13.303505
+
+- location: Steglitz
+  urn: urn:espressohouse:store:id:21014
+  city: Berlin
+  latitude: 52.457133
+  longitude: 13.32229
+
+- location: Knesebeckstraße
+  urn: urn:espressohouse:store:id:21008
+  city: Berlin
+  latitude: 52.51075
+  longitude: 13.32286
+
+- location: Sturup
+  urn: urn:espressohouse:store:id:196
+  city: Malmö-Sturup
+  latitude: 55.538743
+  longitude: 13.372457
+
+- location: Potsdamer Platz
+  urn: urn:espressohouse:store:id:21010
+  city: Berlin
+  latitude: 52.509819
+  longitude: 13.375976
+
+- location: Potsdamer Platz / Sony Center
+  urn: urn:espressohouse:store:id:21018
+  city: Berlin
+  latitude: 52.51067
+  longitude: 13.37627
+
+- location: Chausseestraße
+  urn: urn:espressohouse:store:id:21013
+  city: Berlin
+  latitude: 52.530949
+  longitude: 13.383331
+
+- location: B Friedrichstraße
+  urn: urn:espressohouse:store:id:21012
+  city: Berlin
+  latitude: 52.52648
+  longitude: 13.38705
+
+- location: B Gartenstraße
+  urn: urn:espressohouse:store:id:21017
+  city: Berlin
+  latitude: 52.533069
+  longitude: 13.387533
+
+- location: Besselpark / Friedrichstr.
+  urn: urn:espressohouse:store:id:21020
+  city: Berlin
+  latitude: 52.50327
+  longitude: 13.39074
+
+- location: Berlin Domaquarree
+  urn: urn:espressohouse:store:id:21011
+  city: Berlin
+  latitude: 52.51989
+  longitude: 13.40393
+
+- location: Fernsehturm
+  urn: urn:espressohouse:store:id:21016
+  city: Berlin
+  latitude: 52.52082
+  longitude: 13.40971
+
+- location: Schönhauser Allee
+  urn: urn:espressohouse:store:id:21009
+  city: Berlin
+  latitude: 52.54992
+  longitude: 13.41332
+
+- location: Karlstad Bergvik
+  urn: urn:espressohouse:store:id:305
+  city: Karlstad
+  latitude: 59.376711
+  longitude: 13.425934
+
+- location: Drottninggatan KAR
+  urn: urn:espressohouse:store:id:197
+  city: Karlstad
+  latitude: 59.3794
+  longitude: 13.49963
+
+- location: Karlstad 15-huset
+  urn: urn:espressohouse:store:id:394
+  city: Karlstad
+  latitude: 59.379049
+  longitude: 13.502027
+
+- location: Falköping
+  urn: urn:espressohouse:store:id:387
+  city: Falköping
+  latitude: 58.161411
+  longitude: 13.553427
+
+- location: Hässleholm station
+  urn: urn:espressohouse:store:id:266
+  city: Hässleholm
+  latitude: 56.15733
+  longitude: 13.76331
+
+- location: Hässleholm City
+  urn: urn:espressohouse:store:id:347
+  city: Hässleholm
+  latitude: 56.157944
+  longitude: 13.764386
+
+- location: Stortorget Ystad
+  urn: urn:espressohouse:store:id:190
+  city: Ystad
+  latitude: 55.42982
+  longitude: 13.81982
+
+- location: Skövde Torget
+  urn: urn:espressohouse:store:id:445
+  city: Skövde
+  latitude: 58.38917
+  longitude: 13.84512
+
+- location: Skövde Central SKÖ
+  urn: urn:espressohouse:store:id:248
+  city: Skövde
+  latitude: 58.38984
+  longitude: 13.85197
+
+- location: Skövde Sjukhus
+  urn: urn:espressohouse:store:id:421
+  city: Skövde
+  latitude: 58.42718
+  longitude: 13.85259
+
+- location: Elins Esplanad
+  urn: urn:espressohouse:store:id:397
+  city: Skövde
+  latitude: 58.40436
+  longitude: 13.85436
+
+- location: Mariestad Road 423
+  urn: urn:espressohouse:store:id:423
+  city: Mariestad
+  latitude: 58.69254
+  longitude: 13.85761
+
+- location: Ljungby
+  urn: urn:espressohouse:store:id:422
+  city: Ljungby
+  latitude: 56.833972
+  longitude: 13.941288
+
+- location: Värnamo
+  urn: urn:espressohouse:store:id:343
+  city: Värnamo
+  latitude: 57.185163
+  longitude: 14.041149
+
+- location: Värnamo Road
+  urn: urn:espressohouse:store:id:417
+  city: Värnamo
+  latitude: 57.160487
+  longitude: 14.075766
+
+- location: Kristianstad Station
+  urn: urn:espressohouse:store:id:281
+  city: Kristianstad
+  latitude: 56.03176
+  longitude: 14.1515
+
+- location: Boulevard Kristianstad
+  urn: urn:espressohouse:store:id:271
+  city: Kristianstad
+  latitude: 56.030538
+  longitude: 14.158444
+
+- location: Jönköping Central JÖN
+  urn: urn:espressohouse:store:id:223
+  city: Jönköping
+  latitude: 57.78432
+  longitude: 14.16285
+
+- location: Östra Storgatan Jönköping
+  urn: urn:espressohouse:store:id:376
+  city: Jönköping
+  latitude: 57.782018
+  longitude: 14.173314
+
+- location: C4 Shopping Kristianstad
+  urn: urn:espressohouse:store:id:329
+  city: Kristianstad
+  latitude: 56.02644
+  longitude: 14.20029
+
+- location: Asecs entré C
+  urn: urn:espressohouse:store:id:202
+  city: Jönköping
+  latitude: 57.77389
+  longitude: 14.20349
+
+- location: Asecs 2
+  urn: urn:espressohouse:store:id:444
+  city: Jönköping
+  latitude: 57.773876
+  longitude: 14.203966
+
+- location: Sjøgata Bodø
+  urn: urn:espressohouse:store:id:871
+  city: Bodø
+  latitude: 67.2838
+  longitude: 14.3769
+
+- location: Karlskoga
+  urn: urn:espressohouse:store:id:414
+  city: Karlskoga
+  latitude: 59.326205
+  longitude: 14.523621
+
+- location: Mora
+  urn: urn:espressohouse:store:id:404
+  city: Mora
+  latitude: 61.00474
+  longitude: 14.53748
+
+- location: Östersund
+  urn: urn:espressohouse:store:id:291
+  city: Östersund
+  latitude: 63.178084
+  longitude: 14.636687
+
+- location: Mittpunkten Östersund
+  urn: urn:espressohouse:store:id:372
+  city: Östersund
+  latitude: 63.175572
+  longitude: 14.638125
+
+- location: Nässjö Central
+  urn: urn:espressohouse:store:id:317
+  city: Nässjö
+  latitude: 57.652249
+  longitude: 14.694821
+
+- location: Samarkand VÄX
+  urn: urn:espressohouse:store:id:214
+  city: Växjö
+  latitude: 56.88483
+  longitude: 14.76504
+
+- location: Växjö Central
+  urn: urn:espressohouse:store:id:442
+  city: Växjö
+  latitude: 56.8769
+  longitude: 14.8058
+
+- location: Storgatan Växjö
+  urn: urn:espressohouse:store:id:323
+  city: Växjö
+  latitude: 56.878927
+  longitude: 14.807041
+
+- location: Karlshamn
+  urn: urn:espressohouse:store:id:440
+  city: Karlshamn
+  latitude: 56.17047
+  longitude: 14.86297
+
+- location: Tranås
+  urn: urn:espressohouse:store:id:443
+  city: Tranås
+  latitude: 58.034081
+  longitude: 14.97506
+
+- location: Motala
+  urn: urn:espressohouse:store:id:301
+  city: Motala
+  latitude: 58.536977
+  longitude: 15.036381
+
+- location: Vetlanda
+  urn: urn:espressohouse:store:id:429
+  city: Vetlanda
+  latitude: 57.426189
+  longitude: 15.08558
+
+- location: Mjölby
+  urn: urn:espressohouse:store:id:438
+  city: Mjölby
+  latitude: 58.32589
+  longitude: 15.12613
+
+- location: Marieberg C ÖRE
+  urn: urn:espressohouse:store:id:165
+  city: Örebro
+  latitude: 59.2165
+  longitude: 15.1391
+
+- location: Ludvika
+  urn: urn:espressohouse:store:id:411
+  city: Ludvika
+  latitude: 60.14933
+  longitude: 15.1859
+
+- location: Våghustorget ÖRE
+  urn: urn:espressohouse:store:id:344
+  city: Örebro
+  latitude: 59.269983
+  longitude: 15.210456
+
+- location: Örebro Station
+  urn: urn:espressohouse:store:id:338
+  city: Örebro
+  latitude: 59.278638
+  longitude: 15.211598
+
+- location: Köpmangatan ÖRE
+  urn: urn:espressohouse:store:id:193
+  city: Örebro
+  latitude: 59.2722
+  longitude: 15.21338
+
+- location: Kupolen Borlänge
+  urn: urn:espressohouse:store:id:282
+  city: Borlänge
+  latitude: 60.48418
+  longitude: 15.41797
+
+- location: Karlskrona
+  urn: urn:espressohouse:store:id:293
+  city: Karlskrona
+  latitude: 56.161774
+  longitude: 15.586892
+
+- location: Tornby LIN
+  urn: urn:espressohouse:store:id:326
+  city: Linköping
+  latitude: 58.433044
+  longitude: 15.588421
+
+- location: Nygatan LIN
+  urn: urn:espressohouse:store:id:175
+  city: Linköping
+  latitude: 58.40995
+  longitude: 15.62404
+
+- location: Linköping Gränden
+  urn: urn:espressohouse:store:id:437
+  city: Linköping
+  latitude: 58.40889
+  longitude: 15.62551
+
+- location: Linköping Central
+  urn: urn:espressohouse:store:id:279
+  city: Linköping
+  latitude: 58.41604
+  longitude: 15.62571
+
+- location: Falun
+  urn: urn:espressohouse:store:id:364
+  city: Falun
+  latitude: 60.605754
+  longitude: 15.632101
+
+- location: Amiralen Karlskrona
+  urn: urn:espressohouse:store:id:325
+  city: Lyckeby
+  latitude: 56.19699
+  longitude: 15.642188
+
+- location: Ingelsta Norrköping
+  urn: urn:espressohouse:store:id:285
+  city: Norrköping
+  latitude: 58.61759
+  longitude: 16.15675
+
+- location: Strykjärnet Norrköping
+  urn: urn:espressohouse:store:id:403
+  city: Norrköping
+  latitude: 58.588756
+  longitude: 16.17979
+
+- location: Norrköping C
+  urn: urn:espressohouse:store:id:331
+  city: Norrköping
+  latitude: 58.596424
+  longitude: 16.184282
+
+- location: Drottninggatan NOR
+  urn: urn:espressohouse:store:id:200
+  city: Norrköping
+  latitude: 58.58756
+  longitude: 16.18844
+
+- location: Katrineholm
+  urn: urn:espressohouse:store:id:385
+  city: Katrineholm
+  latitude: 58.994301
+  longitude: 16.20972
+
+- location: Kvarteret Giraffen
+  urn: urn:espressohouse:store:id:426
+  city: Kalmar
+  latitude: 56.66919
+  longitude: 16.33908
+
+- location: Kalmar Storgatan 10
+  urn: urn:espressohouse:store:id:259
+  city: Kalmar
+  latitude: 56.66311
+  longitude: 16.36176
+
+- location: Oskarshamn
+  urn: urn:espressohouse:store:id:402
+  city: Oskarshamn
+  latitude: 57.265906
+  longitude: 16.446943
+
+- location: Erikslund Västerås (nedre bar)
+  urn: urn:espressohouse:store:id:220
+  city: Västerås
+  latitude: 59.60984
+  longitude: 16.45315
+
+- location: Tuna Park
+  urn: urn:espressohouse:store:id:302
+  city: Eskilstuna
+  latitude: 59.371345
+  longitude: 16.470114
+
+- location: Kungsgatan ESK
+  urn: urn:espressohouse:store:id:181
+  city: Eskilstuna
+  latitude: 59.37132
+  longitude: 16.51074
+
+- location: Hantverkargatan VÄS
+  urn: urn:espressohouse:store:id:199
+  city: Västerås
+  latitude: 59.61066
+  longitude: 16.54625
+
+- location: Harstad
+  urn: urn:espressohouse:store:id:875
+  city: Harstad
+  latitude: 68.798917
+  longitude: 16.546777
+
+- location: Västerås Punkt VÄS
+  urn: urn:espressohouse:store:id:224
+  city: Västerås
+  latitude: 59.609904
+  longitude: 16.546781
+
+- location: Västerås Station
+  urn: urn:espressohouse:store:id:319
+  city: Västerås
+  latitude: 59.60642
+  longitude: 16.548033
+
+- location: Västervik
+  urn: urn:espressohouse:store:id:276
+  city: Västervik
+  latitude: 57.75868
+  longitude: 16.63781
+
+- location: Sandviken
+  urn: urn:espressohouse:store:id:409
+  city: Sandviken
+  latitude: 60.62163
+  longitude: 16.77556
+
+- location: Nyköpingsbro
+  urn: urn:espressohouse:store:id:401
+  city: Nyköping
+  latitude: 58.749145
+  longitude: 16.921247
+
+- location: Valbo Gävle
+  urn: urn:espressohouse:store:id:255
+  city: Valbo
+  latitude: 60.6336
+  longitude: 16.9944
+
+- location: Västra Storgatan NY
+  urn: urn:espressohouse:store:id:300
+  city: Nyköping
+  latitude: 58.751764
+  longitude: 17.004133
+
+- location: Strängnäs
+  urn: urn:espressohouse:store:id:407
+  city: Strängnäs
+  latitude: 59.37608
+  longitude: 17.03016
+
+- location: Hudiksvall
+  urn: urn:espressohouse:store:id:408
+  city: Hudiksvall
+  latitude: 61.7276
+  longitude: 17.10594
+
+- location: Gävle City
+  urn: urn:espressohouse:store:id:375
+  city: Gävle
+  latitude: 60.674349
+  longitude: 17.143246
+
+- location: Gävle Station
+  urn: urn:espressohouse:store:id:406
+  city: Gävle
+  latitude: 60.67628
+  longitude: 17.150293
+
+- location: Sundsvall
+  urn: urn:espressohouse:store:id:290
+  city: Sundsvall
+  latitude: 62.39108
+  longitude: 17.30453
+
+- location: Bålsta Centrum
+  urn: urn:espressohouse:store:id:393
+  city: Bålsta
+  latitude: 59.566903
+  longitude: 17.530088
+
+- location: Södertälje station
+  urn: urn:espressohouse:store:id:310
+  city: Södertälje
+  latitude: 59.192436
+  longitude: 17.626578
+
+- location: Södertälje
+  urn: urn:espressohouse:store:id:357
+  city: Södertälje
+  latitude: 59.194814
+  longitude: 17.627995
+
+- location: Sankt Per Gallerian UPP
+  urn: urn:espressohouse:store:id:221
+  city: Uppsala
+  latitude: 59.85953
+  longitude: 17.63739
+
+- location: Forumgallerian
+  urn: urn:espressohouse:store:id:378
+  city: Uppsala
+  latitude: 59.857667
+  longitude: 17.641176
+
+- location: Uppsala C
+  urn: urn:espressohouse:store:id:296
+  city: Uppsala
+  latitude: 59.858681
+  longitude: 17.645987
+
+- location: Gränby Centrum
+  urn: urn:espressohouse:store:id:350
+  city: Gränby
+  latitude: 59.877325
+  longitude: 17.673821
+
+- location: Jakobsbergs Centrum
+  urn: urn:espressohouse:store:id:373
+  city: Jakobsberg
+  latitude: 59.424149
+  longitude: 17.833317
+
+- location: Tumba Centrum
+  urn: urn:espressohouse:store:id:382
+  city: Tumba
+  latitude: 59.19912
+  longitude: 17.835496
+
+- location: Märsta Centrum
+  urn: urn:espressohouse:store:id:365
+  city: Märsta
+  latitude: 59.620727
+  longitude: 17.855776
+
+- location: Barkarby Outlet
+  urn: urn:espressohouse:store:id:352
+  city: Järfälla
+  latitude: 59.416954
+  longitude: 17.856166
+
+- location: Vällingby
+  urn: urn:espressohouse:store:id:358
+  city: Vällingby
+  latitude: 59.363303
+  longitude: 17.872591
+
+- location: Skärholmen 2
+  urn: urn:espressohouse:store:id:263
+  city: Skärholmen
+  latitude: 59.27515
+  longitude: 17.9059
+
+- location: Väsby Centrum
+  urn: urn:espressohouse:store:id:356
+  city: Upplands Väsby
+  latitude: 59.518643
+  longitude: 17.910136
+
+- location: Heron City
+  urn: urn:espressohouse:store:id:381
+  city: Huddinge
+  latitude: 59.267201
+  longitude: 17.910267
+
+- location: Kungens Kurva
+  urn: urn:espressohouse:store:id:410
+  city: Huddinge
+  latitude: 59.269628
+  longitude: 17.91674
+
+- location: Arlanda Express
+  urn: urn:espressohouse:store:id:351
+  city: Stockholm-Arlanda
+  latitude: 59.649631
+  longitude: 17.924875
+
+- location: Arlanda Sky City
+  urn: urn:espressohouse:store:id:396
+  city: Stockholm-Arlanda
+  latitude: 59.648698
+  longitude: 17.929403
+
+- location: Huddinge Sjukhus
+  urn: urn:espressohouse:store:id:337
+  city: Stockholm
+  latitude: 59.220938
+  longitude: 17.938291
+
+- location: Härnösand
+  urn: urn:espressohouse:store:id:377
+  city: Härnösand
+  latitude: 62.631831
+  longitude: 17.938359
+
+- location: Kista Galleria
+  urn: urn:espressohouse:store:id:258
+  city: Kista
+  latitude: 59.4033
+  longitude: 17.9444
+
+- location: Flemingsberg
+  urn: urn:espressohouse:store:id:371
+  city: Flemingsberg
+  latitude: 59.217694
+  longitude: 17.946146
+
+- location: Nynäshamn
+  urn: urn:espressohouse:store:id:392
+  city: Nynäshamn
+  latitude: 58.903434
+  longitude: 17.947267
+
+- location: Sollentuna Centrum STO
+  urn: urn:espressohouse:store:id:164
+  city: Sollentuna
+  latitude: 59.42912
+  longitude: 17.95152
+
+- location: Bromma Blocks STO
+  urn: urn:espressohouse:store:id:205
+  city: Bromma
+  latitude: 59.3557
+  longitude: 17.9565
+
+- location: Sundbyberg
+  urn: urn:espressohouse:store:id:313
+  city: Sundbyberg
+  latitude: 59.360875
+  longitude: 17.970194
+
+- location: Huddinge Centrum
+  urn: urn:espressohouse:store:id:370
+  city: Huddinge
+  latitude: 59.236432
+  longitude: 17.980133
+
+- location: Solna Centrum
+  urn: urn:espressohouse:store:id:153
+  city: Solna
+  latitude: 59.35923
+  longitude: 18.00107
+
+- location: Mall Of Scandinavia - Design Gallery
+  urn: urn:espressohouse:store:id:428
+  city: Solna
+  latitude: 59.370542
+  longitude: 18.002903
+
+- location: Mall of Scandinavia - Plan 0 vid Åhléns
+  urn: urn:espressohouse:store:id:386
+  city: Solna
+  latitude: 59.371127
+  longitude: 18.003308
+
+- location: Mall of Scandinavia - Stora vid Hemköp
+  urn: urn:espressohouse:store:id:287
+  city: Solna
+  latitude: 59.369851
+  longitude: 18.004634
+
+- location: Älvsjö station
+  urn: urn:espressohouse:store:id:265
+  city: Älvsjö
+  latitude: 59.27801
+  longitude: 18.00835
+
+- location: Solna Station
+  urn: urn:espressohouse:store:id:304
+  city: Stockholm
+  latitude: 59.368489
+  longitude: 18.00856
+
+- location: Lindhagen STO
+  urn: urn:espressohouse:store:id:178
+  city: Stockholm
+  latitude: 59.3372
+  longitude: 18.0094
+
+- location: Liljeholmstorget STO
+  urn: urn:espressohouse:store:id:328
+  city: Stockholm
+  latitude: 59.309427
+  longitude: 18.022747
+
+- location: Fridhemsplan STO
+  urn: urn:espressohouse:store:id:194
+  city: Stockholm
+  latitude: 59.3324
+  longitude: 18.02899
+
+- location: Västermalmsgallerian STO
+  urn: urn:espressohouse:store:id:234
+  city: Stockholm
+  latitude: 59.33466
+  longitude: 18.0322
+
+- location: Mörby Centrum T-bana
+  urn: urn:espressohouse:store:id:138
+  city: Danderyd
+  latitude: 59.39841
+  longitude: 18.03666
+
+- location: Vanadisplan
+  urn: urn:espressohouse:store:id:398
+  city: Stockholm
+  latitude: 59.345242
+  longitude: 18.040318
+
+- location: Högdalen
+  urn: urn:espressohouse:store:id:436
+  city: Stockholm
+  latitude: 59.26359
+  longitude: 18.042186
+
+- location: Kungsholmsgatan STO
+  urn: urn:espressohouse:store:id:299
+  city: Stockholm
+  latitude: 59.331419
+  longitude: 18.046589
+
+- location: Dalagatan
+  urn: urn:espressohouse:store:id:187
+  city: Stockholm
+  latitude: 59.3395
+  longitude: 18.0476
+
+- location: Odenplan
+  urn: urn:espressohouse:store:id:334
+  city: Stockholm
+  latitude: 59.343339
+  longitude: 18.049754
+
+- location: Vasagatan STO
+  urn: urn:espressohouse:store:id:169
+  city: Stockholm
+  latitude: 59.33337
+  longitude: 18.0565
+
+- location: Cityterminalen
+  urn: urn:espressohouse:store:id:273
+  city: Stockholm
+  latitude: 59.33122
+  longitude: 18.05679
+
+- location: Övre Hallen
+  urn: urn:espressohouse:store:id:435
+  city: Stockholm
+  latitude: 59.33067
+  longitude: 18.0572
+
+- location: Odengatan STO
+  urn: urn:espressohouse:store:id:189
+  city: Stockholm
+  latitude: 59.34438
+  longitude: 18.05752
+
+- location: Sveavägen 96
+  urn: urn:espressohouse:store:id:225
+  city: Stockholm
+  latitude: 59.34207
+  longitude: 18.05757
+
+- location: Vasaplan STO
+  urn: urn:espressohouse:store:id:212
+  city: Stockholm
+  latitude: 59.33144
+  longitude: 18.05798
+
+- location: Stockholm C Nedre
+  urn: urn:espressohouse:store:id:306
+  city: Stockholm
+  latitude: 59.330393
+  longitude: 18.05874
+
+- location: Stockholm central metro
+  urn: urn:espressohouse:store:id:432
+  city: Stockholm
+  latitude: 59.33123
+  longitude: 18.05879
+
+- location: Drottninggatan Norr
+  urn: urn:espressohouse:store:id:311
+  city: Stockholm
+  latitude: 59.336516
+  longitude: 18.058863
+
+- location: Sveavägen STO
+  urn: urn:espressohouse:store:id:158
+  city: Stockholm
+  latitude: 59.34064
+  longitude: 18.05893
+
+- location: Centralhallen
+  urn: urn:espressohouse:store:id:141
+  city: Stockholm
+  latitude: 59.33023
+  longitude: 18.0592
+
+- location: Klarabergsgatan
+  urn: urn:espressohouse:store:id:446
+  city: Stockholm
+  latitude: 59.3312
+  longitude: 18.0596
+
+- location: Citybanan
+  urn: urn:espressohouse:store:id:369
+  city: Stockholm
+  latitude: 59.33172
+  longitude: 18.05973
+
+- location: Konserthuset
+  urn: urn:espressohouse:store:id:270
+  city: Stockholm
+  latitude: 59.33529
+  longitude: 18.06266
+
+- location: Drottninggatan Plattan
+  urn: urn:espressohouse:store:id:312
+  city: Stockholm
+  latitude: 59.331789
+  longitude: 18.063326
+
+- location: D29
+  urn: urn:espressohouse:store:id:395
+  city: Stockholm
+  latitude: 59.331191
+  longitude: 18.063958
+
+- location: Hötorget Tunnelbana
+  urn: urn:espressohouse:store:id:277
+  city: Stockholm
+  latitude: 59.3358
+  longitude: 18.0641
+
+- location: Drottninggatan Södra
+  urn: urn:espressohouse:store:id:274
+  city: Stockholm
+  latitude: 59.33107
+  longitude: 18.06474
+
+- location: Kungsgatan 27 STO
+  urn: urn:espressohouse:store:id:267
+  city: Stockholm
+  latitude: 59.33583
+  longitude: 18.06705
+
+- location: Gallerian STO
+  urn: urn:espressohouse:store:id:135
+  city: Stockholm
+  latitude: 59.3324
+  longitude: 18.0672
+
+- location: Regeringsgatan STO
+  urn: urn:espressohouse:store:id:218
+  city: Stockholm
+  latitude: 59.33485
+  longitude: 18.06776
+
+- location: Gamla Stan
+  urn: urn:espressohouse:store:id:341
+  city: Stockholm
+  latitude: 59.323541
+  longitude: 18.068718
+
+- location: NK STO
+  urn: urn:espressohouse:store:id:219
+  city: Stockholm
+  latitude: 59.3329
+  longitude: 18.06911
+
+- location: Täby Centrum Modestråket
+  urn: urn:espressohouse:store:id:320
+  city: Täby
+  latitude: 59.444315
+  longitude: 18.070277
+
+- location: Västerlånggatan STO
+  urn: urn:espressohouse:store:id:136
+  city: Stockholm
+  latitude: 59.32403
+  longitude: 18.07065
+
+- location: Götgatsbacken
+  urn: urn:espressohouse:store:id:308
+  city: Stockholm
+  latitude: 59.31812
+  longitude: 18.07143
+
+- location: Tekniska Högskolan T-bana
+  urn: urn:espressohouse:store:id:330
+  city: Stockholm
+  latitude: 59.345903
+  longitude: 18.071491
+
+- location: Täby Centrum 2
+  urn: urn:espressohouse:store:id:245
+  city: Täby
+  latitude: 59.443995
+  longitude: 18.07162
+
+- location: Norrlandsgatan
+  urn: urn:espressohouse:store:id:289
+  city: Stockholm
+  latitude: 59.33509
+  longitude: 18.07185
+
+- location: Götgatan 58
+  urn: urn:espressohouse:store:id:424
+  city: Stockholm
+  latitude: 59.31401
+  longitude: 18.0734
+
+- location: Östermalmstorg Södra T-bana
+  urn: urn:espressohouse:store:id:191
+  city: Stockholm
+  latitude: 59.33522
+  longitude: 18.07479
+
+- location: Vallentuna Centrum
+  urn: urn:espressohouse:store:id:448
+  city: Vallentuna
+  latitude: 59.5337
+  longitude: 18.07883
+
+- location: Gullmarsplan T-bana
+  urn: urn:espressohouse:store:id:139
+  city: Johanneshov
+  latitude: 59.298981
+  longitude: 18.080844
+
+- location: Globen
+  urn: urn:espressohouse:store:id:340
+  city: Stockholm
+  latitude: 59.292914
+  longitude: 18.08135
+
+- location: Hammarby sjöstad
+  urn: urn:espressohouse:store:id:433
+  city: Stockholm
+  latitude: 59.302921
+  longitude: 18.08802
+
+- location: Fältöversten STO
+  urn: urn:espressohouse:store:id:235
+  city: Stockholm
+  latitude: 59.33881
+  longitude: 18.09074
+
+- location: Farsta Centrum - Entréplan
+  urn: urn:espressohouse:store:id:217
+  city: Farsta
+  latitude: 59.24298
+  longitude: 18.0914
+
+- location: Sickla STO
+  urn: urn:espressohouse:store:id:163
+  city: Nacka
+  latitude: 59.30605
+  longitude: 18.12322
+
+- location: Haninge Centrum STO
+  urn: urn:espressohouse:store:id:226
+  city: Haninge
+  latitude: 59.1695
+  longitude: 18.1407
+
+- location: Forum Nacka, Nedre plan
+  urn: urn:espressohouse:store:id:249
+  city: Nacka
+  latitude: 59.309568
+  longitude: 18.164399
+
+- location: Forum Nacka, Övre plan
+  urn: urn:espressohouse:store:id:161
+  city: Nacka
+  latitude: 59.30942
+  longitude: 18.16443
+
+- location: Tyresö C STO
+  urn: urn:espressohouse:store:id:182
+  city: Tyresö
+  latitude: 59.24443
+  longitude: 18.22833
+
+- location: Åkersberga Centrum
+  urn: urn:espressohouse:store:id:374
+  city: Åkersberga C
+  latitude: 59.479622
+  longitude: 18.298194
+
+- location: Visby
+  urn: urn:espressohouse:store:id:321
+  city: Visby
+  latitude: 57.637822
+  longitude: 18.301426
+
+- location: Visby Airport
+  urn: urn:espressohouse:store:id:399
+  city: Visby
+  latitude: 57.660529
+  longitude: 18.338789
+
+- location: Norrtälje
+  urn: urn:espressohouse:store:id:295
+  city: Norrtälje
+  latitude: 59.757149
+  longitude: 18.701675
+
+- location: Örnsköldsvik
+  urn: urn:espressohouse:store:id:368
+  city: Örnsköldsvik
+  latitude: 63.288665
+  longitude: 18.716685
+
+- location: Avion Shopping Umeå
+  urn: urn:espressohouse:store:id:268
+  city: Umeå
+  latitude: 63.807885
+  longitude: 20.254597
+
+- location: Kungsgatan Umeå
+  urn: urn:espressohouse:store:id:315
+  city: Umeå
+  latitude: 63.826306
+  longitude: 20.259819
+
+- location: Utopia Umeå
+  urn: urn:espressohouse:store:id:292
+  city: Umeå
+  latitude: 63.826495
+  longitude: 20.264143
+
+- location: Skellefteå
+  urn: urn:espressohouse:store:id:294
+  city: Skellefteå
+  latitude: 64.750802
+  longitude: 20.952084
+
+- location: Piteå
+  urn: urn:espressohouse:store:id:391
+  city: Piteå
+  latitude: 65.317075
+  longitude: 21.478915
+
+- location: Rewell Vaasa
+  urn: urn:espressohouse:store:id:1265
+  city: Vaasa
+  latitude: 63.095919
+  longitude: 21.614569
+
+- location: Espen Vaasa
+  urn: urn:espressohouse:store:id:1234
+  city: Vaasa
+  latitude: 63.09656
+  longitude: 21.61796
+
+- location: Drottninggatan Boden
+  urn: urn:espressohouse:store:id:425
+  city: Boden
+  latitude: 65.820405
+  longitude: 21.674632
+
+- location: Espresso House IsoKarhu Pori
+  urn: urn:espressohouse:store:id:1282
+  city: Pori
+  latitude: 61.48428
+  longitude: 21.79732
+
+- location: Pori Puuvilla
+  urn: urn:espressohouse:store:id:1238
+  city: Pori
+  latitude: 61.4952
+  longitude: 21.8011
+
+- location: Luleå Airport (öppettider anpassade efter flygavgångar)
+  urn: urn:espressohouse:store:id:415
+  city: Luleå
+  latitude: 65.549043
+  longitude: 22.121482
+
+- location: Smedjan Luleå
+  urn: urn:espressohouse:store:id:322
+  city: Luleå
+  latitude: 65.584246
+  longitude: 22.152694
+
+- location: Mylly Raisio
+  urn: urn:espressohouse:store:id:1242
+  city: Raisio
+  latitude: 60.49078
+  longitude: 22.201066
+
+- location: Hansa TKU
+  urn: urn:espressohouse:store:id:1217
+  city: Turku
+  latitude: 60.449912
+  longitude: 22.264066
+
+- location: Yliopistonkatu TKU
+  urn: urn:espressohouse:store:id:1229
+  city: TURKU
+  latitude: 60.451686
+  longitude: 22.264539
+
+- location: Börs TKU
+  urn: urn:espressohouse:store:id:1267
+  city: Turku
+  latitude: 60.451187
+  longitude: 22.268466
+
+- location: Turku Skanssi
+  urn: urn:espressohouse:store:id:1240
+  city: Turku
+  latitude: 60.4298
+  longitude: 22.32189
+
+- location: Ideapark Seinäjoki
+  urn: urn:espressohouse:store:id:1250
+  city: Seinäjoki
+  latitude: 62.792275
+  longitude: 22.801418
+
+- location: Epstori SJK
+  urn: urn:espressohouse:store:id:1276
+  city: Seinäjoki
+  latitude: 62.79048
+  longitude: 22.84164
+
+- location: Salo Plaza
+  urn: urn:espressohouse:store:id:1251
+  city: Salo
+  latitude: 60.386518
+  longitude: 23.123636
+
+- location: Chydenia Kokkola
+  urn: urn:espressohouse:store:id:1258
+  city: Kokkola
+  latitude: 63.836411
+  longitude: 23.13479
+
+- location: Koskikeskus Tampere
+  urn: urn:espressohouse:store:id:1266
+  city: Tampere
+  latitude: 61.495658
+  longitude: 23.766663
+
+- location: Ratina
+  urn: urn:espressohouse:store:id:1228
+  city: Tampere
+  latitude: 61.49447
+  longitude: 23.76875
+
+- location: Nordic Box Ratina
+  urn: urn:espressohouse:store:id:1279
+  city: Tampere
+  latitude: 61.49447
+  longitude: 23.76875
+
+- location: Stockmann TRE
+  urn: urn:espressohouse:store:id:1227
+  city: Tampere
+  latitude: 61.499021
+  longitude: 23.770383
+
+- location: Ideapark Lempäälä
+  urn: urn:espressohouse:store:id:1249
+  city: Lempäälä
+  latitude: 61.361465
+  longitude: 23.795153
+
+- location: Lohja
+  urn: urn:espressohouse:store:id:1277
+  city: Lohja
+  latitude: 60.25022
+  longitude: 24.06458
+
+- location: Rajalla
+  urn: urn:espressohouse:store:id:1280
+  city: Tornio
+  latitude: 65.843429
+  longitude: 24.145284
+
+- location: Sibeliuksenkatu Hämeenlinna
+  urn: urn:espressohouse:store:id:1269
+  city: Hämeenlinna
+  latitude: 60.995966
+  longitude: 24.464698
+
+- location: Lippulaiva
+  urn: urn:espressohouse:store:id:1275
+  city: Espoo
+  latitude: 60.149365
+  longitude: 24.655572
+
+- location: Entresse
+  urn: urn:espressohouse:store:id:1246
+  city: Espoo
+  latitude: 60.204102
+  longitude: 24.65921
+
+- location: Iso Omena 2 MEET aukio
+  urn: urn:espressohouse:store:id:1257
+  city: Espoo
+  latitude: 60.16153
+  longitude: 24.73771
+
+- location: Iso Omena ESP
+  urn: urn:espressohouse:store:id:1205
+  city: ESPOO
+  latitude: 60.16214
+  longitude: 24.738306
+
+- location: Ainoa
+  urn: urn:espressohouse:store:id:1247
+  city: Espoo
+  latitude: 60.17624
+  longitude: 24.80713
+
+- location: Sello
+  urn: urn:espressohouse:store:id:1264
+  city: Espoo
+  latitude: 60.21814
+  longitude: 24.81282
+
+- location: Otaniemi
+  urn: urn:espressohouse:store:id:1226
+  city: Espoo
+  latitude: 60.186451
+  longitude: 24.822399
+
+- location: Willa Hyvinkää
+  urn: urn:espressohouse:store:id:1248
+  city: Hyvinkää
+  latitude: 60.63133
+  longitude: 24.86528
+
+- location: Lauttis HKI
+  urn: urn:espressohouse:store:id:1210
+  city: Helsinki
+  latitude: 60.160432
+  longitude: 24.881572
+
+- location: Kaari HKI
+  urn: urn:espressohouse:store:id:1207
+  city: Helsinki
+  latitude: 60.236541
+  longitude: 24.891805
+
+- location: Ruoholahti
+  urn: urn:espressohouse:store:id:1241
+  city: Helsinki
+  latitude: 60.16317
+  longitude: 24.914149
+
+- location: Töölöntori
+  urn: urn:espressohouse:store:id:1216
+  city: Helsinki
+  latitude: 60.179728
+  longitude: 24.922731
+
+- location: Tripla 4. krs
+  urn: urn:espressohouse:store:id:1253
+  city: Helsinki
+  latitude: 60.198619
+  longitude: 24.931194
+
+- location: Tripla 1. krs
+  urn: urn:espressohouse:store:id:1244
+  city: Helsinki
+  latitude: 60.198655
+  longitude: 24.931373
+
+- location: Kamppi HKI
+  urn: urn:espressohouse:store:id:1201
+  city: Helsinki
+  latitude: 60.169094
+  longitude: 24.93355
+
+- location: Forum HKI
+  urn: urn:espressohouse:store:id:1204
+  city: Helsinki
+  latitude: 60.169306
+  longitude: 24.938208
+
+- location: Fredrikinkatu HKI
+  urn: urn:espressohouse:store:id:1221
+  city: Helsinki
+  latitude: 60.162828
+  longitude: 24.939475
+
+- location: Kaivopiha
+  urn: urn:espressohouse:store:id:1283
+  city: Helsinki
+  latitude: 60.16982
+  longitude: 24.94112
+
+- location: Asemantunneli HKI
+  urn: urn:espressohouse:store:id:1223
+  city: HELSINKI
+  latitude: 60.170822
+  longitude: 24.941476
+
+- location: Citycenter HKI
+  urn: urn:espressohouse:store:id:1211
+  city: HELSINKI
+  latitude: 60.169867
+  longitude: 24.941893
+
+- location: Iso Roba
+  urn: urn:espressohouse:store:id:1225
+  city: Helsinki
+  latitude: 60.163999
+  longitude: 24.944252
+
+- location: Mikonkatu HKI
+  urn: urn:espressohouse:store:id:1219
+  city: Helsinki
+  latitude: 60.170258
+  longitude: 24.945783
+
+- location: University Metro HKI
+  urn: urn:espressohouse:store:id:1215
+  city: Helsinki
+  latitude: 60.171184
+  longitude: 24.947345
+
+- location: Kluuvi HKI
+  urn: urn:espressohouse:store:id:1212
+  city: Helsinki
+  latitude: 60.169165
+  longitude: 24.947996
+
+- location: Metro Hakaniemi
+  urn: urn:espressohouse:store:id:1233
+  city: Helsinki
+  latitude: 60.178795
+  longitude: 24.950413
+
+- location: Jumbo
+  urn: urn:espressohouse:store:id:1220
+  city: Vantaa
+  latitude: 60.291901
+  longitude: 24.965132
+
+- location: Airport Landside
+  urn: urn:espressohouse:store:id:1271
+  city: Vantaa
+  latitude: 60.31857
+  longitude: 24.968
+
+- location: Helsinki-Vantaa Airport
+  urn: urn:espressohouse:store:id:1245
+  city: Vantaa
+  latitude: 60.310991
+  longitude: 24.969045
+
+- location: Flamingo
+  urn: urn:espressohouse:store:id:1231
+  city: Vantaa
+  latitude: 60.29079
+  longitude: 24.96909
+
+- location: 1236 REDI
+  urn: urn:espressohouse:store:id:1236
+  city: Helsinki
+  latitude: 60.187364
+  longitude: 24.978215
+
+- location: Malmin Nova HKI
+  urn: urn:espressohouse:store:id:1209
+  city: Helsinki
+  latitude: 60.251498
+  longitude: 25.012565
+
+- location: Hertsi
+  urn: urn:espressohouse:store:id:1278
+  city: Helsinki
+  latitude: 60.19423
+  longitude: 25.0334
+
+- location: Outlet Helsinki
+  urn: urn:espressohouse:store:id:1243
+  city: Helsinki
+  latitude: 60.274715
+  longitude: 25.08158
+
+- location: Itis HKI
+  urn: urn:espressohouse:store:id:1208
+  city: Helsinki
+  latitude: 60.212017
+  longitude: 25.083053
+
+- location: Järvenpää
+  urn: urn:espressohouse:store:id:1261
+  city: Järvenpää
+  latitude: 60.470394
+  longitude: 25.087499
+
+- location: Columbus
+  urn: urn:espressohouse:store:id:1274
+  city: Helsinki
+  latitude: 60.207561
+  longitude: 25.145221
+
+- location: Ideapark Oulu
+  urn: urn:espressohouse:store:id:1260
+  city: Oulu
+  latitude: 65.075958
+  longitude: 25.447491
+
+- location: Toriportti
+  urn: urn:espressohouse:store:id:1281
+  city: Oulu
+  latitude: 65.012602
+  longitude: 25.468112
+
+- location: Oulu Rotuaari
+  urn: urn:espressohouse:store:id:1256
+  city: Oulu
+  latitude: 65.01249
+  longitude: 25.47058
+
+- location: Zeppelin Kempele
+  urn: urn:espressohouse:store:id:1255
+  city: Kempele
+  latitude: 64.9034
+  longitude: 25.5387
+
+- location: Aleksanterinkatu Lahti
+  urn: urn:espressohouse:store:id:1230
+  city: Lahti
+  latitude: 60.983278
+  longitude: 25.658238
+
+- location: Trio Lahti
+  urn: urn:espressohouse:store:id:1235
+  city: Lahti
+  latitude: 60.9828
+  longitude: 25.66245
+
+- location: Porvoo Lundi
+  urn: urn:espressohouse:store:id:1254
+  city: Porvoo
+  latitude: 60.39383
+  longitude: 25.66406
+
+- location: Sampokeskus Rovaniemi
+  urn: urn:espressohouse:store:id:1262
+  city: Rovaniemi
+  latitude: 66.50213
+  longitude: 25.73027
+
+- location: Karisma Lahti
+  urn: urn:espressohouse:store:id:1268
+  city: Lahti
+  latitude: 60.98147
+  longitude: 25.73723
+
+- location: Kauppakatu JKL
+  urn: urn:espressohouse:store:id:1218
+  city: Jyväskylä
+  latitude: 62.243232
+  longitude: 25.747795
+
+- location: Seppä JKL
+  urn: urn:espressohouse:store:id:1214
+  city: Jyväskylä
+  latitude: 62.256303
+  longitude: 25.775191
+
+- location: Veturi Kouvola
+  urn: urn:espressohouse:store:id:1252
+  city: Kuusankoski
+  latitude: 60.87513
+  longitude: 26.65329
+
+- location: Kotka Pasaati
+  urn: urn:espressohouse:store:id:1237
+  city: Kotka
+  latitude: 60.46663
+  longitude: 26.94601
+
+- location: Akseli Mikkeli
+  urn: urn:espressohouse:store:id:1263
+  city: Mikkeli
+  latitude: 61.68869
+  longitude: 27.27204
+
+- location: Matkus
+  urn: urn:espressohouse:store:id:1232
+  city: Kuopio
+  latitude: 62.82148
+  longitude: 27.60605
+
+- location: Carlson Kuopio
+  urn: urn:espressohouse:store:id:1270
+  city: Kuopio
+  latitude: 62.89282
+  longitude: 27.67579
+
+- location: Iso Kristiina
+  urn: urn:espressohouse:store:id:1272
+  city: Lappeenranta
+  latitude: 61.05679
+  longitude: 28.1941

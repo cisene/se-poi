@@ -6,96 +6,6 @@ meta:
   locations: 83
 
 locations:
-- location: Åhlens Algatan 21
-  city: Trelleborg
-  latitude: 55.37361
-  longitude: 13.15611
-
-- location: Åhlens Blekegatan 29
-  city: Ystad
-  latitude: 55.43194
-  longitude: 13.81861
-
-- location: Åhlens S:a Förstadsgatan 58
-  city: Malmö
-  latitude: 55.59528
-  longitude: 13.00333
-
-- location: Åhlens Södergatan 15
-  city: Malmö
-  latitude: 55.60389
-  longitude: 13.0
-
-- location: Åhlens St Södergatan 6
-  city: Lund
-  latitude: 55.70167
-  longitude: 13.19167
-
-- location: Åhlens Marknadsvägen 7
-  city: Löddeköpinge
-  latitude: 55.76889
-  longitude: 12.98917
-
-- location: Åhlens Östra Storgatan 63
-  city: Kristianstad
-  latitude: 56.02889
-  longitude: 14.1575
-
-- location: Åhlens Södergatan 30
-  city: Helsingborg
-  latitude: 56.04
-  longitude: 12.70139
-
-- location: Åhlens Kullagatan 12
-  city: Helsingborg
-  latitude: 56.04778
-  longitude: 12.69361
-
-- location: Åhlens Ronnebygatan 34-36
-  city: Karlskrona
-  latitude: 56.16222
-  longitude: 15.58806
-
-- location: Åhlens Storgatan 40
-  city: Ängelholm
-  latitude: 56.24361
-  longitude: 12.8625
-
-- location: Åhlens Norra långgatan 25
-  city: Kalmar
-  latitude: 56.66444
-  longitude: 16.36417
-
-- location: Åhlens Brogatan 14
-  city: Halmstad
-  latitude: 56.67472
-  longitude: 12.85611
-
-- location: Åhlens Storgatan 13
-  city: Växjö
-  latitude: 56.87833
-  longitude: 14.80556
-
-- location: Åhlens Storgatsbacken 14
-  city: Värnamo
-  latitude: 57.18528
-  longitude: 14.03917
-
-- location: Åhlens Vitalag 9
-  city: Vetlanda
-  latitude: 57.42639
-  longitude: 15.08972
-
-- location: Åhlens Nygatan 17
-  city: Kungsbacka
-  latitude: 57.48556
-  longitude: 12.07861
-
-- location: Åhlens Östervägen 6
-  city: Visby
-  latitude: 57.63722
-  longitude: 18.30083
-
 - location: Åhlens Frölunda Torg
   city: Göteborg
   latitude: 57.65111
@@ -116,6 +26,11 @@ locations:
   latitude: 57.65528
   longitude: 12.01278
 
+- location: Åhlens Nygatan 17
+  city: Kungsbacka
+  latitude: 57.48556
+  longitude: 12.07861
+
 - location: Åhlens Nils henrikssons väg 3
   city: Göteborg
   latitude: 57.73667
@@ -126,20 +41,85 @@ locations:
   latitude: 58.28444
   longitude: 12.29083
 
+- location: Åhlens Kullagatan 12
+  city: Helsingborg
+  latitude: 56.04778
+  longitude: 12.69361
+
+- location: Åhlens Södergatan 30
+  city: Helsingborg
+  latitude: 56.04
+  longitude: 12.70139
+
+- location: Åhlens Brogatan 14
+  city: Halmstad
+  latitude: 56.67472
+  longitude: 12.85611
+
+- location: Åhlens Storgatan 40
+  city: Ängelholm
+  latitude: 56.24361
+  longitude: 12.8625
+
 - location: Åhlens Lilla Brogatan 8
   city: Borås
   latitude: 57.71972
   longitude: 12.93833
+
+- location: Åhlens Marknadsvägen 7
+  city: Löddeköpinge
+  latitude: 55.76889
+  longitude: 12.98917
+
+- location: Åhlens Södergatan 15
+  city: Malmö
+  latitude: 55.60389
+  longitude: 13.0
+
+- location: Åhlens S:a Förstadsgatan 58
+  city: Malmö
+  latitude: 55.59528
+  longitude: 13.00333
 
 - location: Åhlens Sveagatan 23
   city: Lidköping
   latitude: 58.50306
   longitude: 13.15333
 
+- location: Åhlens Algatan 21
+  city: Trelleborg
+  latitude: 55.37361
+  longitude: 13.15611
+
+- location: Åhlens St Södergatan 6
+  city: Lund
+  latitude: 55.70167
+  longitude: 13.19167
+
+- location: Åhlens Järnvägsgatan 3
+  city: Karlstad
+  latitude: 59.37889
+  longitude: 13.49861
+
+- location: Åhlens Blekegatan 29
+  city: Ystad
+  latitude: 55.43194
+  longitude: 13.81861
+
 - location: Åhlens Hertig Johans Torg 4
   city: Skövde
   latitude: 58.38972
   longitude: 13.845
+
+- location: Åhlens Storgatsbacken 14
+  city: Värnamo
+  latitude: 57.18528
+  longitude: 14.03917
+
+- location: Åhlens Östra Storgatan 63
+  city: Kristianstad
+  latitude: 56.02889
+  longitude: 14.1575
 
 - location: Åhlens Ö. Storgatan 34
   city: Jönköping
@@ -151,66 +131,6 @@ locations:
   latitude: 57.77361
   longitude: 14.20361
 
-- location: Åhlens Rådhusgatan 29
-  city: Nässjö
-  latitude: 57.65389
-  longitude: 14.69528
-
-- location: Åhlens Ö.Järnvägsgatan 10
-  city: Tranås
-  latitude: 58.03694
-  longitude: 14.97611
-
-- location: Åhlens Ikano-huset
-  city: Linköping
-  latitude: 58.43333
-  longitude: 15.58667
-
-- location: Åhlens Storgatan 11
-  city: LINKÖPING
-  latitude: 58.41139
-  longitude: 15.6275
-
-- location: Åhlens Prästgatan 22
-  city: Norrköping
-  latitude: 58.5875
-  longitude: 16.19056
-
-- location: Åhlens Köpmangatan 18
-  city: Katrineholm
-  latitude: 58.995
-  longitude: 16.20667
-
-- location: Åhlens Storgatan 19
-  city: Västervik
-  latitude: 57.75806
-  longitude: 16.63889
-
-- location: Åhlens V:a Storgatan 27
-  city: Nyköping
-  latitude: 58.75278
-  longitude: 17.00667
-
-- location: Åhlens Storgatan 6
-  city: Södertälje
-  latitude: 59.19694
-  longitude: 17.62694
-
-- location: Åhlens Farsta Plan 25
-  city: Farsta
-  latitude: 59.24278
-  longitude: 18.09111
-
-- location: Åhlens Haninge Centrum
-  city: Haninge
-  latitude: 59.16917
-  longitude: 18.13972
-
-- location: Åhlens Järnvägsgatan 3
-  city: Karlstad
-  latitude: 59.37889
-  longitude: 13.49861
-
 - location: Åhlens Kyrkogatan 18
   city: Mora
   latitude: 61.00444
@@ -220,6 +140,26 @@ locations:
   city: Österund
   latitude: 63.1775
   longitude: 14.63694
+
+- location: Åhlens Rådhusgatan 29
+  city: Nässjö
+  latitude: 57.65389
+  longitude: 14.69528
+
+- location: Åhlens Storgatan 13
+  city: Växjö
+  latitude: 56.87833
+  longitude: 14.80556
+
+- location: Åhlens Ö.Järnvägsgatan 10
+  city: Tranås
+  latitude: 58.03694
+  longitude: 14.97611
+
+- location: Åhlens Vitalag 9
+  city: Vetlanda
+  latitude: 57.42639
+  longitude: 15.08972
 
 - location: Åhlens Storgatan 26
   city: Ludvika
@@ -236,6 +176,21 @@ locations:
   latitude: 60.48417
   longitude: 15.41806
 
+- location: Åhlens Ikano-huset
+  city: Linköping
+  latitude: 58.43333
+  longitude: 15.58667
+
+- location: Åhlens Ronnebygatan 34-36
+  city: Karlskrona
+  latitude: 56.16222
+  longitude: 15.58806
+
+- location: Åhlens Storgatan 11
+  city: LINKÖPING
+  latitude: 58.41139
+  longitude: 15.6275
+
 - location: Åhlens Åsgatan 21
   city: Falun
   latitude: 60.60528
@@ -246,6 +201,21 @@ locations:
   latitude: 60.14583
   longitude: 16.16806
 
+- location: Åhlens Prästgatan 22
+  city: Norrköping
+  latitude: 58.5875
+  longitude: 16.19056
+
+- location: Åhlens Köpmangatan 18
+  city: Katrineholm
+  latitude: 58.995
+  longitude: 16.20667
+
+- location: Åhlens Norra långgatan 25
+  city: Kalmar
+  latitude: 56.66444
+  longitude: 16.36417
+
 - location: Åhlens Långgatan 22
   city: Bollnäs
   latitude: 61.34833
@@ -254,7 +224,7 @@ locations:
 - location: Åhlens Kungsgatan 6
   citry: Eskilstuna
   latitude: 59.37
-  logitude: 16.51583
+  longitude: 16.51583
 
 - location: Åhlens Centra Vasag.10
   city: Västerås
@@ -266,10 +236,20 @@ locations:
   latitude: 59.60806
   longitude: 16.60917
 
+- location: Åhlens Storgatan 19
+  city: Västervik
+  latitude: 57.75806
+  longitude: 16.63889
+
 - location: Åhlens Hyttgatan 37
   city: Sandviken
   latitude: 60.62278
   longitude: 16.77389
+
+- location: Åhlens V:a Storgatan 27
+  city: Nyköping
+  latitude: 58.75278
+  longitude: 17.00667
 
 - location: Åhlens Kungsgatan 21-23
   city: Enköping
@@ -291,6 +271,11 @@ locations:
   latitude: 62.39111
   longitude: 17.30611
 
+- location: Åhlens Storgatan 6
+  city: Södertälje
+  latitude: 59.19694
+  longitude: 17.62694
+
 - location: Åhlens St Torget 5
   city: Uppsala
   latitude: 59.85833
@@ -311,35 +296,55 @@ locations:
   latitude: 62.63222
   longitude: 17.93889
 
-- location: Åhlens Simbag 16
-  city: Nacka
-  latitude: 59.30583
-  longitude: 18.12444
+- location: Åhlens Kista Galleria
+  city: kista
+  latitude: 59.4025
+  longitude: 17.94472
 
-- location: Åhlens Ringvägen 100
-  city: Stockholm
-  latitude: 59.30694
-  longitude: 18.07556
+- location: Åhlens Sturegatan 13
+  city: Sundbyberg
+  latitude: 59.36139
+  longitude: 17.95472
 
-- location: Åhlens Värmdövägen 191
-  city: Nacka
-  latitude: 59.30917
-  longitude: 18.16417
-
-- location: Åhlens Klarabergsgatan 50
-  city: Stockholm
-  latitude: 59.33194
-  longitude: 18.06139
+- location: Åhlens Postgången 40
+  city: SOLNA
+  latitude: 59.36083
+  longitude: 17.99917
 
 - location: Åhlens Drottningholmsv 18
   city: Stockholm
   latitude: 59.33222
   longitude: 18.03028
 
+- location: Åhlens Mörby Centrum
+  city: Danderyd
+  latitude: 59.39833
+  longitude: 18.03639
+
+- location: Åhlens Odengatan 71
+  city: Stockholm
+  latitude: 59.3425
+  longitude: 18.05056
+
+- location: Åhlens Klarabergsgatan 50
+  city: Stockholm
+  latitude: 59.33194
+  longitude: 18.06139
+
 - location: Åhlens Hamngatan 37
   city: Stockholm
   latitude: 59.33222
   longitude: 18.06694
+
+- location: Åhlens Stortorget 223
+  city: Täby
+  latitude: 59.445
+  longitude: 18.07083
+
+- location: Åhlens Ringvägen 100
+  city: Stockholm
+  latitude: 59.30694
+  longitude: 18.07556
 
 - location: Åhlens Nybrogatan 37
   city: Stockholm
@@ -351,35 +356,35 @@ locations:
   latitude: 59.33861
   longitude: 18.09083
 
-- location: Åhlens Odengatan 71
-  city: Stockholm
-  latitude: 59.3425
-  longitude: 18.05056
+- location: Åhlens Farsta Plan 25
+  city: Farsta
+  latitude: 59.24278
+  longitude: 18.09111
 
-- location: Åhlens Postgången 40
-  city: SOLNA
-  latitude: 59.36083
-  longitude: 17.99917
+- location: Åhlens Simbag 16
+  city: Nacka
+  latitude: 59.30583
+  longitude: 18.12444
 
-- location: Åhlens Sturegatan 13
-  city: Sundbyberg
-  latitude: 59.36139
-  longitude: 17.95472
+- location: Åhlens Haninge Centrum
+  city: Haninge
+  latitude: 59.16917
+  longitude: 18.13972
 
-- location: Åhlens Mörby Centrum
-  city: Danderyd
-  latitude: 59.39833
-  longitude: 18.03639
+- location: Åhlens Värmdövägen 191
+  city: Nacka
+  latitude: 59.30917
+  longitude: 18.16417
 
-- location: Åhlens Kista Galleria
-  city: kista
-  latitude: 59.4025
-  longitude: 17.94472
+- location: Åhlens Östervägen 6
+  city: Visby
+  latitude: 57.63722
+  longitude: 18.30083
 
-- location: Åhlens Stortorget 223
-  city: Täby
-  latitude: 59.445
-  longitude: 18.07083
+- location: Åhlens Storgatan 36
+  city: Lycksele
+  latitude: 64.59556
+  longitude: 18.67611
 
 - location: Åhlens Tullportsgatan 16
   city: Norrtälje
@@ -396,11 +401,6 @@ locations:
   latitude: 63.825
   longitude: 20.265
 
-- location: Åhlens Storgatan 36
-  city: Lycksele
-  latitude: 64.59556
-  longitude: 18.67611
-
 - location: Åhlens Nygatan 46
   city: Skellefteå
   latitude: 64.75
@@ -411,12 +411,12 @@ locations:
   latitude: 65.31833
   longitude: 21.47889
 
-- location: Åhlens Storgatan 25
-  city: Luleå
-  latitude: 65.58389
-  longitude: 22.14861
-
 - location: Åhlens Kungsgatan 43
   city: Boden
   latitude: 65.82472
   longitude: 21.68972
+
+- location: Åhlens Storgatan 25
+  city: Luleå
+  latitude: 65.58389
+  longitude: 22.14861

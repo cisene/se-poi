@@ -6,275 +6,59 @@ meta:
   locations: 179
 
 locations:
-- location: Dressmann Alingsås
-  urn: urn:dressman:store:id:391
-  city: Alingsås
-  latitude: 57.93020440000001
-  longitude: 12.535962299999937
+- location: Dressmann Strömstad
+  urn: urn:dressman:store:id:31E
+  city: Strömstad
+  latitude: 58.9383459
+  longitude: 11.179187100000036
 
-- location: Dressmann Arvika
-  urn: urn:dressman:store:id:33A
-  city: Arvika
-  latitude: 59.65413500000002
-  longitude: 12.592298499999917
+- location: Strömstad Galleria
+  urn: urn:dressman:store:id:685
+  city: Strömstad
+  latitude: 58.9462491
+  longitude: 11.188438799999972
 
-- location: Dressmann Avesta
-  urn: urn:dressman:store:id:361
-  city: Avesta
-  latitude: 60.1458815
-  longitude: 16.16825340000002
+- location: Dressmann Tanum
+  urn: urn:dressman:store:id:324
+  city: Tanum
+  latitude: 58.72116239999986
+  longitude: 11.346728900000027
 
-- location: Dressmann Avion Köpcentrum
-  urn: urn:dressman:store:id:367
-  city: Umeå
-  latitude: 63.80552037219089
-  longitude: 20.25477181746828
+- location: Dressmann Uddevalla Torp
+  urn: urn:dressman:store:id:338
+  city: Uddevalla
+  latitude: 58.35433784400271
+  longitude: 11.81209015846254
 
-- location: Dressmann Backaplan
-  urn: urn:dressman:store:id:322
+- location: Dressmann XL Uddevalla Torp
+  urn: urn:dressman:store:id:M64
+  city: Uddevalla
+  latitude: 58.35434678521424
+  longitude: 11.812148673913612
+
+- location: Dressmann Stenungsund
+  urn: urn:dressman:store:id:791
+  city: Stenungsund
+  latitude: 58.068790099999994
+  longitude: 11.81988699999998
+
+- location: Dressmann Töcksfors
+  urn: urn:dressman:store:id:32F
+  city: Töcksfors
+  latitude: 59.50663909999999
+  longitude: 11.843057199999976
+
+- location: Dressmann V Frölunda
+  urn: urn:dressman:store:id:349
   city: Göteborg
-  latitude: 57.72139697313948
-  longitude: 11.952170373016315
+  latitude: 57.65083509246162
+  longitude: 11.911017926458726
 
-- location: Dressmann Barkarby
-  urn: urn:dressman:store:id:797
-  city: Järfälla
-  latitude: 59.4161768
-  longitude: 17.858191900000065
-
-- location: Dressmann Bergvik
-  urn: urn:dressman:store:id:692
-  city: Karlstad
-  latitude: 59.37743090000001
-  longitude: 13.42864320000001
-
-- location: Dressmann Birsta City
-  urn: urn:dressman:store:id:459
-  city: Sundsvall
-  latitude: 62.4471247
-  longitude: 17.33587680000005
-
-- location: Dressmann Boden
-  urn: urn:dressman:store:id:439
-  city: Boden
-  latitude: 65.82533910000002
-  longitude: 21.68947310000002
-
-- location: Dressmann Bollnäs
-  urn: urn:dressman:store:id:454
-  city: Bollnäs
-  latitude: 61.3486153
-  longitude: 16.39375710000001
-
-- location: Dressmann Borlänge Kupolen
-  urn: urn:dressman:store:id:323
-  city: Borlänge
-  latitude: 60.48416640000001
-  longitude: 15.41797070000006
-
-- location: Dressmann Borås City
-  urn: urn:dressman:store:id:396
-  city: Borås
-  latitude: 57.721584
-  longitude: 12.940258
-
-- location: Dressmann Borås Knalleland
-  urn: urn:dressman:store:id:370
-  city: Borås
-  latitude: 57.73524099999999
-  longitude: 12.93837069999995
-
-- location: Dressmann Bromma
-  urn: urn:dressman:store:id:433
-  city: Bromma
-  latitude: 59.35560479999999
-  longitude: 17.95518590000006
-
-- location: Dressmann Burlöv
-  urn: urn:dressman:store:id:320
-  city: Arlöv
-  latitude: 55.6466157
-  longitude: 13.091008099999954
-
-- location: Dressmann Bålsta
-  urn: urn:dressman:store:id:303
-  city: Bålsta
-  latitude: 59.56760189999999
-  longitude: 17.529250700000034
-
-- location: Dressmann C4 Shopping Kristianstad
-  urn: urn:dressman:store:id:336
-  city: Kristianstad
-  latitude: 56.023235
-  longitude: 14.197162
-
-- location: Dressmann Charlottenberg
-  urn: urn:dressman:store:id:33E
-  city: Charlottenberg
-  latitude: 59.8806527
-  longitude: 12.288041399999997
-
-- location: Dressmann Drottninggatan 56
-  urn: urn:dressman:store:id:456
-  city: Stockholm
-  latitude: 59.33284769999999
-  longitude: 18.06200160000003
-
-- location: Dressmann Emporia
-  urn: urn:dressman:store:id:34C
-  city: Malmö
-  latitude: 55.563613
-  longitude: 12.974654
-
-- location: Dressmann Enköping
-  urn: urn:dressman:store:id:390
-  city: Enköping
-  latitude: 59.62838609999999
-  longitude: 17.080647
-
-- location: Dressmann Erikslund
-  urn: urn:dressman:store:id:318
-  city: Västerås
-  latitude: 59.6099764
-  longitude: 16.454807099999993
-
-- location: Dressmann Eskilstuna
-  urn: urn:dressman:store:id:30E
-  city: Eskilstuna
-  latitude: 59.371672
-  longitude: 16.510365
-
-- location: Dressmann Eslöv
-  urn: urn:dressman:store:id:384
-  city: Eslöv
-  latitude: 55.83900449999999
-  longitude: 13.302905600000031
-
-- location: Dressmann Fagersta
-  urn: urn:dressman:store:id:31C
-  city: Fagersta
-  latitude: 60.0037561
-  longitude: 15.793113500000004
-
-- location: Dressmann Falkenberg
-  urn: urn:dressman:store:id:446
-  city: Falkenberg
-  latitude: 56.9043827
-  longitude: 12.4908259
-
-- location: Dressmann Falköping
-  urn: urn:dressman:store:id:358
-  city: Falköping
-  latitude: 58.1609789
-  longitude: 13.555075600000013
-
-- location: Dressmann Falun
-  urn: urn:dressman:store:id:355
-  city: Falun
-  latitude: 60.6065987
-  longitude: 15.63052229999993
-
-- location: Dressmann Farsta
-  urn: urn:dressman:store:id:340
-  city: Farsta
-  latitude: 59.2423385
-  longitude: 18.09198630000003
-
-- location: Dressmann Femman
-  urn: urn:dressman:store:id:339
-  city: Göteborg
-  latitude: 57.7085744
-  longitude: 11.970273099999986
-
-- location: Dressmann Gislaved
-  urn: urn:dressman:store:id:32B
-  city: Gislaved
-  latitude: 57.30180590000001
-  longitude: 13.5374919999999
-
-- location: Dressmann Globen
-  urn: urn:dressman:store:id:357
-  city: Johanneshov
-  latitude: 59.29374824134009
-  longitude: 18.083065631768818
-
-- location: Dressmann Gränby
-  urn: urn:dressman:store:id:399
-  city: Uppsala
-  latitude: 59.87708319999999
-  longitude: 17.670852400000058
-
-- location: Dressmann Gällivare
-  urn: urn:dressman:store:id:393
-  city: Gällivare
-  latitude: 67.1343206
-  longitude: 20.656718100000035
-
-- location: Dressmann Gävle
-  urn: urn:dressman:store:id:343
-  city: Gävle
-  latitude: 60.67391059999999
-  longitude: 17.14120209999998
-
-- location: Dressmann Götgatan
-  urn: urn:dressman:store:id:780
-  city: Stockholm
-  latitude: 59.3137238
-  longitude: 18.07345669999995
-
-- location: Dressmann Halmstad City
-  urn: urn:dressman:store:id:368
-  city: Halmstad
-  latitude: 56.6747534
-  longitude: 12.85795959999995
-
-- location: Dressmann Halmstad Hallarna
-  urn: urn:dressman:store:id:317
-  city: Halmstad
-  latitude: 56.6660444
-  longitude: 12.918350700000019
-
-- location: Dressmann Haninge Centrum
-  urn: urn:dressman:store:id:389
-  city: Haninge
-  latitude: 59.20486690000001
-  longitude: 18.15124549999996
-
-- location: Dressmann Haninge Port 73
-  urn: urn:dressman:store:id:443
-  city: Handen
-  latitude: 59.17924069999999
-  longitude: 18.149223699999993
-
-- location: Dressmann Huddinge
-  urn: urn:dressman:store:id:395
-  city: Huddinge
-  latitude: 59.2354542707414
-  longitude: 17.981343059802157
-
-- location: Dressmann Hudiksvall
-  urn: urn:dressman:store:id:365
-  city: Hudiksvall
-  latitude: 61.72822461251059
-  longitude: 17.10418152809146
-
-- location: Dressmann Hälla
-  urn: urn:dressman:store:id:689
-  city: Västerås
-  latitude: 59.6103079
-  longitude: 16.622302399999967
-
-- location: Dressmann Härnösand
-  urn: urn:dressman:store:id:452
-  city: Härnösand
-  latitude: 62.6316391
-  longitude: 17.93927819999999
-
-- location: Dressmann Hässleholm
-  urn: urn:dressman:store:id:362
-  city: Hässleholm
-  latitude: 56.1585222
-  longitude: 13.766209900000035
+- location: Dressmann Uddevalla
+  urn: urn:dressman:store:id:31A
+  city: Uddevalla
+  latitude: 58.34965039999999
+  longitude: 11.932503999999994
 
 - location: Dressmann Högsbo 421
   urn: urn:dressman:store:id:33F
@@ -282,113 +66,17 @@ locations:
   latitude: 57.65049130000001
   longitude: 11.945746399999962
 
-- location: Dressmann Ingelsta Shopping
-  urn: urn:dressman:store:id:350
-  city: Norrköping
-  latitude: 58.6228673
-  longitude: 16.1650386
+- location: Dressmann XL Backaplan
+  urn: urn:dressman:store:id:M52
+  city: Göteborg
+  latitude: 57.721369577623655
+  longitude: 11.951799625872809
 
-- location: Dressmann Jakobsberg
-  urn: urn:dressman:store:id:375
-  city: Järfälla
-  latitude: 59.4240594
-  longitude: 17.837223999999992
-
-- location: Dressmann Jägersro
-  urn: urn:dressman:store:id:781
-  city: Malmö
-  latitude: 55.5701748
-  longitude: 13.057949000000008
-
-- location: Dressmann Jönköping A6
-  urn: urn:dressman:store:id:398
-  city: Jönköping
-  latitude: 57.7747027845055
-  longitude: 14.20338678359987
-
-- location: Dressmann Jönköping City
-  urn: urn:dressman:store:id:373
-  city: Jönköping
-  latitude: 57.782287
-  longitude: 14.17323009999995
-
-- location: Dressmann Kalmar Giraffen Shopping
-  urn: urn:dressman:store:id:331
-  city: Kalmar
-  latitude: 56.670618
-  longitude: 16.337701
-
-- location: Dressmann Kalmar Hansa
-  urn: urn:dressman:store:id:371
-  city: Kalmar
-  latitude: 56.68698440000001
-  longitude: 16.3198072999999
-
-- location: Dressmann Karlshamn
-  urn: urn:dressman:store:id:385
-  city: Karlshamn
-  latitude: 56.172237
-  longitude: 14.86108680000006
-
-- location: Dressmann Karlskoga
-  urn: urn:dressman:store:id:327
-  city: Karlskoga
-  latitude: 59.32629550000001
-  longitude: 14.525617699999998
-
-- location: Dressmann Karlskrona Amiralen
-  urn: urn:dressman:store:id:438
-  city: Lyckeby
-  latitude: 56.196632017533155
-  longitude: 15.64109373092653
-
-- location: Dressmann Karlskrona City
-  urn: urn:dressman:store:id:792
-  city: Karlskrona
-  latitude: 56.161164
-  longitude: 15.571969
-
-- location: Dressmann Karlstad City
-  urn: urn:dressman:store:id:693
-  city: Karlstad
-  latitude: 59.37937729999999
-  longitude: 13.50119129999996
-
-- location: Dressmann Katrineholm
-  urn: urn:dressman:store:id:359
-  city: Katrineholm
-  latitude: 58.99492359999999
-  longitude: 16.208630399999947
-
-- location: Dressmann Kiruna
-  urn: urn:dressman:store:id:796
-  city: Kiruna
-  latitude: 67.854502
-  longitude: 20.228200499999957
-
-- location: Dressmann Kista Galleria
-  urn: urn:dressman:store:id:311
-  city: Kista
-  latitude: 59.4033695
-  longitude: 17.944321299999956
-
-- location: Dressmann Kristianstad
-  urn: urn:dressman:store:id:321
-  city: Kristianstad
-  latitude: 56.03008579999999
-  longitude: 14.158844499999987
-
-- location: Dressmann Kungens Kurva
-  urn: urn:dressman:store:id:787
-  city: Kurva
-  latitude: 59.27019384621487
-  longitude: 17.916781877315543
-
-- location: Dressmann Kungsbacka
-  urn: urn:dressman:store:id:31B
-  city: Kungsbacka
-  latitude: 57.4914232
-  longitude: 12.0750037999999
+- location: Dressmann Backaplan
+  urn: urn:dressman:store:id:322
+  city: Göteborg
+  latitude: 57.72139697313948
+  longitude: 11.952170373016315
 
 - location: Dressmann Kungsgatan Göteborg
   urn: urn:dressman:store:id:680
@@ -402,149 +90,17 @@ locations:
   latitude: 57.8741368
   longitude: 11.9678469
 
-- location: Dressmann Köping
-  urn: urn:dressman:store:id:683
-  city: Köping
-  latitude: 59.51940539999999
-  longitude: 15.976704899999959
+- location: Dressmann Nordstan
+  urn: urn:dressman:store:id:342
+  city: Göteborg
+  latitude: 57.70880246743164
+  longitude: 11.969090439953709
 
-- location: Dressmann Landskrona
-  urn: urn:dressman:store:id:684
-  city: Landskrona
-  latitude: 55.8712879
-  longitude: 12.83346890000007
-
-- location: Dressmann Lidingö
-  urn: urn:dressman:store:id:696
-  city: Lidingö
-  latitude: 59.36605549999999
-  longitude: 18.135146599999985
-
-- location: Dressmann Lidköping
-  urn: urn:dressman:store:id:784
-  city: Lidköping
-  latitude: 58.50895779999999
-  longitude: 13.14399359999993
-
-- location: Dressmann Liljeholmen
-  urn: urn:dressman:store:id:308
-  city: Stockholm
-  latitude: 59.30999549999999
-  longitude: 18.021806200000015
-
-- location: Dressmann Lillänge Östersund
-  urn: urn:dressman:store:id:799
-  city: Östersund
-  latitude: 63.17445736704449
-  longitude: 14.694952268786665
-
-- location: Dressmann Linköping Gränden
-  urn: urn:dressman:store:id:319
-  city: Linköping
-  latitude: 58.41007210000001
-  longitude: 15.62661950000006
-
-- location: Dressmann Linköping Ikano
-  urn: urn:dressman:store:id:688
-  city: Linköping
-  latitude: 58.43235959999999
-  longitude: 15.587852099999964
-
-- location: Dressmann Ljungby
-  urn: urn:dressman:store:id:305
-  city: Ljungby
-  latitude: 56.8338098
-  longitude: 13.94031459999996
-
-- location: Dressmann Ludvika
-  urn: urn:dressman:store:id:326
-  city: Ludvika
-  latitude: 60.14972969999999
-  longitude: 15.18620740000005
-
-- location: Dressmann Luleå City
-  urn: urn:dressman:store:id:783
-  city: Luleå
-  latitude: 65.58425749999999
-  longitude: 22.153865900000028
-
-- location: Dressmann Luleå Storheden
-  urn: urn:dressman:store:id:372
-  city: Luleå
-  latitude: 65.61907
-  longitude: 22.046531
-
-- location: Dressmann Lycksele
-  urn: urn:dressman:store:id:771
-  city: Lycksele
-  latitude: 64.59493259999999
-  longitude: 18.676687000000015
-
-- location: Dressmann Löddeköpinge
-  urn: urn:dressman:store:id:314
-  city: Löddeköpinge
-  latitude: 55.7688585
-  longitude: 12.99088519999998
-
-- location: Dressmann Mall of Scandinavia
-  urn: urn:dressman:store:id:394
-  city: Solna
-  latitude: 59.37368230000002
-  longitude: 17.99573009999996
-
-- location: Dressmann Marieberg Galleria
-  urn: urn:dressman:store:id:313
-  city: Örebro
-  latitude: 59.2226146
-  longitude: 15.1401482
-
-- location: Dressmann Mariestad
-  urn: urn:dressman:store:id:388
-  city: Mariestad
-  latitude: 58.709874
-  longitude: 13.823487699999987
-
-- location: Dressmann Mellbystrand
-  urn: urn:dressman:store:id:32D
-  city: Mellbystrand
-  latitude: 56.5038418
-  longitude: 12.95580040000004
-
-- location: Dressmann Mirum Galleria
-  urn: urn:dressman:store:id:307
-  city: Norrköping
-  latitude: 58.57339880000001
-  longitude: 16.209589999999935
-
-- location: Dressmann Mjölby
-  urn: urn:dressman:store:id:332
-  city: Mjölby
-  latitude: 58.3256937
-  longitude: 15.125279599999999
-
-- location: Dressmann Mobilia
-  urn: urn:dressman:store:id:329
-  city: Malmö
-  latitude: 55.5811338
-  longitude: 13.00352769999995
-
-- location: Dressmann Mora
-  urn: urn:dressman:store:id:386
-  city: Mora
-  latitude: 61.0043847
-  longitude: 14.53774750000002
-
-- location: Dressmann Motala
-  urn: urn:dressman:store:id:334
-  city: Motala
-  latitude: 58.5371348
-  longitude: 15.037121800000023
-
-- location: Dressmann Märsta Centrum
-  urn: urn:dressman:store:id:316
-  city: Stockholm
-  latitude: 59.620726699999985
-  longitude: 17.85577619999998
+- location: Dressmann Femman
+  urn: urn:dressman:store:id:339
+  city: Göteborg
+  latitude: 57.7085744
+  longitude: 11.970273099999986
 
 - location: Dressmann Mölndal
   urn: urn:dressman:store:id:335
@@ -552,71 +108,17 @@ locations:
   latitude: 57.653945
   longitude: 12.014575
 
-- location: Dressmann Nacka
-  urn: urn:dressman:store:id:356
-  city: Nacka
-  latitude: 59.3094192
-  longitude: 18.164390400000002
-
-- location: Dressmann Nordstan
-  urn: urn:dressman:store:id:342
-  city: Göteborg
-  latitude: 57.70880246743164
-  longitude: 11.969090439953709
-
-- location: Dressmann Norrköping
-  urn: urn:dressman:store:id:344
-  city: Norrköping
-  latitude: 58.58748180000001
-  longitude: 16.18878840000002
-
-- location: Dressmann Norrtälje
-  urn: urn:dressman:store:id:795
-  city: Norrtälje
-  latitude: 59.7574632
-  longitude: 18.69943090000004
-
-- location: Dressmann Nova Lund
-  urn: urn:dressman:store:id:681
-  city: Lund
-  latitude: 55.7139403
-  longitude: 13.15995810000004
-
-- location: Dressmann Nyköping
-  urn: urn:dressman:store:id:352
-  city: Nyköping
-  latitude: 58.7519655
-  longitude: 17.006302600000026
-
-- location: Dressmann Nynäshamn
-  urn: urn:dressman:store:id:448
-  city: Nynäshamn
-  latitude: 58.9034327
-  longitude: 17.947439400000007
-
-- location: Dressmann Nässjö
-  urn: urn:dressman:store:id:774
-  city: Nässjö
-  latitude: 57.65370050000001
-  longitude: 14.6944464
-
 - location: Dressmann Nödinge
   urn: urn:dressman:store:id:381
   city: Nödinge
   latitude: 57.8920506
   longitude: 12.04549510000004
 
-- location: Dressmann Odenplan
-  urn: urn:dressman:store:id:770
-  city: Stockholm
-  latitude: 59.3432719
-  longitude: 18.051259399999935
-
-- location: Dressmann Oskarshamn
-  urn: urn:dressman:store:id:445
-  city: Oskarshamn
-  latitude: 57.265517
-  longitude: 16.44666000000006
+- location: Dressmann Kungsbacka
+  urn: urn:dressman:store:id:31B
+  city: Kungsbacka
+  latitude: 57.4914232
+  longitude: 12.0750037999999
 
 - location: Dressmann Partille
   urn: urn:dressman:store:id:33C
@@ -624,47 +126,233 @@ locations:
   latitude: 57.7390481
   longitude: 12.10417039999993
 
-- location: Dressmann Piteå
-  urn: urn:dressman:store:id:392
-  city: Piteå
-  latitude: 65.3176921
-  longitude: 21.47859070000004
+- location: Dressmann Varberg Gallerian
+  urn: urn:dressman:store:id:306
+  city: Varberg
+  latitude: 57.106026453978984
+  longitude: 12.24756153964233
 
-- location: Dressmann Ronneby
-  urn: urn:dressman:store:id:382
-  city: Ronneby
-  latitude: 56.2111228
-  longitude: 15.27736170000002
+- location: Dressmann Charlottenberg
+  urn: urn:dressman:store:id:33E
+  city: Charlottenberg
+  latitude: 59.8806527
+  longitude: 12.288041399999997
 
-- location: Dressmann Sala
-  urn: urn:dressman:store:id:441
-  city: Sala
-  latitude: 59.92029640000001
-  longitude: 16.605666799999995
+- location: Dressmann Trollhättan Överby
+  urn: urn:dressman:store:id:330
+  city: Trollhättan
+  latitude: 58.316667
+  longitude: 12.316667000000052
 
-- location: Dressmann Simrishamn
-  urn: urn:dressman:store:id:778
-  city: Simrishamn
-  latitude: 55.5569843
-  longitude: 14.350992099999985
+- location: Dressmann Vänersborg
+  urn: urn:dressman:store:id:377
+  city: Vänersborg
+  latitude: 58.3793995
+  longitude: 12.322576099999992
 
-- location: Dressmann Skellefteå City
-  urn: urn:dressman:store:id:353
-  city: Skellefteå
-  latitude: 64.750793
-  longitude: 20.954605600000036
+- location: Dressmann Falkenberg
+  urn: urn:dressman:store:id:446
+  city: Falkenberg
+  latitude: 56.9043827
+  longitude: 12.4908259
 
-- location: Dressmann Skellefteå Solbacken
-  urn: urn:dressman:store:id:337
-  city: Skellefteå
-  latitude: 64.765023
-  longitude: 21.023512200000027
+- location: Dressmann Alingsås
+  urn: urn:dressman:store:id:391
+  city: Alingsås
+  latitude: 57.93020440000001
+  longitude: 12.535962299999937
 
-- location: Dressmann Skärholmen
-  urn: urn:dressman:store:id:310
-  city: Skärholmen
-  latitude: 59.2751546
-  longitude: 17.907985800000006
+- location: Dressmann Arvika
+  urn: urn:dressman:store:id:33A
+  city: Arvika
+  latitude: 59.65413500000002
+  longitude: 12.592298499999917
+
+- location: Dressmann Åmål
+  urn: urn:dressman:store:id:788
+  city: Åmål
+  latitude: 59.05215819999999
+  longitude: 12.70499970000003
+
+- location: Dressmann XL Väla
+  urn: urn:dressman:store:id:M50
+  city: Ödåkra
+  latitude: 56.0900101972086
+  longitude: 12.7589762423278
+
+- location: Dressmann Väla
+  urn: urn:dressman:store:id:341
+  city: Ödåkra
+  latitude: 56.0899264
+  longitude: 12.758997700000009
+
+- location: Dressmann Landskrona
+  urn: urn:dressman:store:id:684
+  city: Landskrona
+  latitude: 55.8712879
+  longitude: 12.83346890000007
+
+- location: Dressmann Halmstad City
+  urn: urn:dressman:store:id:368
+  city: Halmstad
+  latitude: 56.6747534
+  longitude: 12.85795959999995
+
+- location: Dressmann Ängelholm
+  urn: urn:dressman:store:id:687
+  city: Ängelholm
+  latitude: 56.2437765
+  longitude: 12.86273129999995
+
+- location: Dressmann Halmstad Hallarna
+  urn: urn:dressman:store:id:317
+  city: Halmstad
+  latitude: 56.6660444
+  longitude: 12.918350700000019
+
+- location: Dressmann Borås Knalleland
+  urn: urn:dressman:store:id:370
+  city: Borås
+  latitude: 57.73524099999999
+  longitude: 12.93837069999995
+
+- location: Dressmann Borås City
+  urn: urn:dressman:store:id:396
+  city: Borås
+  latitude: 57.721584
+  longitude: 12.940258
+
+- location: Dressmann Mellbystrand
+  urn: urn:dressman:store:id:32D
+  city: Mellbystrand
+  latitude: 56.5038418
+  longitude: 12.95580040000004
+
+- location: Dressmann Emporia
+  urn: urn:dressman:store:id:34C
+  city: Malmö
+  latitude: 55.563613
+  longitude: 12.974654
+
+- location: Dressmann XL Emporia
+  urn: urn:dressman:store:id:M58
+  city: Malmö
+  latitude: 55.563944
+  longitude: 12.974953
+
+- location: Dressmann Löddeköpinge
+  urn: urn:dressman:store:id:314
+  city: Löddeköpinge
+  latitude: 55.7688585
+  longitude: 12.99088519999998
+
+- location: Dressmann Triangeln Köpcentrum
+  urn: urn:dressman:store:id:786
+  city: Malmö
+  latitude: 55.59519684200665
+  longitude: 13.001049667424354
+
+- location: Dressmann Mobilia
+  urn: urn:dressman:store:id:329
+  city: Malmö
+  latitude: 55.5811338
+  longitude: 13.00352769999995
+
+- location: Dressmann Jägersro
+  urn: urn:dressman:store:id:781
+  city: Malmö
+  latitude: 55.5701748
+  longitude: 13.057949000000008
+
+- location: Dressmann XL Burlöv
+  urn: urn:dressman:store:id:M54
+  city: Arlöv
+  latitude: 55.63952829999999
+  longitude: 13.083845900000028
+
+- location: Dressmann Burlöv
+  urn: urn:dressman:store:id:320
+  city: Arlöv
+  latitude: 55.6466157
+  longitude: 13.091008099999954
+
+- location: Dressmann Lidköping
+  urn: urn:dressman:store:id:784
+  city: Lidköping
+  latitude: 58.50895779999999
+  longitude: 13.14399359999993
+
+- location: Dressmann Trelleborg
+  urn: urn:dressman:store:id:437
+  city: Trelleborg
+  latitude: 55.373532
+  longitude: 13.156629100000032
+
+- location: Dressmann Nova Lund
+  urn: urn:dressman:store:id:681
+  city: Lund
+  latitude: 55.7139403
+  longitude: 13.15995810000004
+
+- location: Dressmann Eslöv
+  urn: urn:dressman:store:id:384
+  city: Eslöv
+  latitude: 55.83900449999999
+  longitude: 13.302905600000031
+
+- location: Dressmann Ulricehamn
+  urn: urn:dressman:store:id:682
+  city: Ulricehamn
+  latitude: 57.7922246
+  longitude: 13.41271800000004
+
+- location: Dressmann Bergvik
+  urn: urn:dressman:store:id:692
+  city: Karlstad
+  latitude: 59.37743090000001
+  longitude: 13.42864320000001
+
+- location: Dressmann XL Karlstad
+  urn: urn:dressman:store:id:M67
+  city: Karlstad
+  latitude: 59.378568599999866
+  longitude: 13.499483300000046
+
+- location: Dressmann Karlstad City
+  urn: urn:dressman:store:id:693
+  city: Karlstad
+  latitude: 59.37937729999999
+  longitude: 13.50119129999996
+
+- location: Dressmann Gislaved
+  urn: urn:dressman:store:id:32B
+  city: Gislaved
+  latitude: 57.30180590000001
+  longitude: 13.5374919999999
+
+- location: Dressmann Falköping
+  urn: urn:dressman:store:id:358
+  city: Falköping
+  latitude: 58.1609789
+  longitude: 13.555075600000013
+
+- location: Dressmann Hässleholm
+  urn: urn:dressman:store:id:362
+  city: Hässleholm
+  latitude: 56.1585222
+  longitude: 13.766209900000035
+
+- location: Dressmann Mariestad
+  urn: urn:dressman:store:id:388
+  city: Mariestad
+  latitude: 58.709874
+  longitude: 13.823487699999987
+
+- location: Dressmann Ystad
+  urn: urn:dressman:store:id:351
+  city: Ystad
+  latitude: 55.4303936
+  longitude: 13.823979799999961
 
 - location: Dressmann Skövde City
   urn: urn:dressman:store:id:432
@@ -678,209 +366,11 @@ locations:
   latitude: 58.40552220000001
   longitude: 13.854526999999962
 
-- location: Dressmann Sollefteå
-  urn: urn:dressman:store:id:772
-  city: Sollefteå
-  latitude: 63.1678631
-  longitude: 17.26855820000003
-
-- location: Dressmann Sollentuna Centrum
-  urn: urn:dressman:store:id:785
-  city: Sollentuna
-  latitude: 59.428387
-  longitude: 17.951123
-
-- location: Dressmann Solna
-  urn: urn:dressman:store:id:315
-  city: Solna
-  latitude: 59.3604729
-  longitude: 17.99944579999999
-
-- location: Dressmann Stenungsund
-  urn: urn:dressman:store:id:791
-  city: Stenungsund
-  latitude: 58.068790099999994
-  longitude: 11.81988699999998
-
-- location: Dressmann Strängnäs
-  urn: urn:dressman:store:id:431
-  city: Strängnäs
-  latitude: 59.3761993
-  longitude: 17.027203399999962
-
-- location: Dressmann Strömstad
-  urn: urn:dressman:store:id:31E
-  city: Strömstad
-  latitude: 58.9383459
-  longitude: 11.179187100000036
-
-- location: Dressmann Söderhamn
-  urn: urn:dressman:store:id:447
-  city: Söderhamn
-  latitude: 61.30286520000001
-  longitude: 17.05713109999999
-
-- location: Dressmann Södertälje
-  urn: urn:dressman:store:id:697
-  city: Södertälje
-  latitude: 59.1962613
-  longitude: 17.626747199999954
-
-- location: Dressmann Tanum
-  urn: urn:dressman:store:id:324
-  city: Tanum
-  latitude: 58.72116239999986
-  longitude: 11.346728900000027
-
-- location: Dressmann Tranås
-  urn: urn:dressman:store:id:798
-  city: Tranås
-  latitude: 58.0362009
-  longitude: 14.9772539
-
-- location: Dressmann Trelleborg
-  urn: urn:dressman:store:id:437
-  city: Trelleborg
-  latitude: 55.373532
-  longitude: 13.156629100000032
-
-- location: Dressmann Triangeln Köpcentrum
-  urn: urn:dressman:store:id:786
-  city: Malmö
-  latitude: 55.59519684200665
-  longitude: 13.001049667424354
-
-- location: Dressmann Trollhättan Överby
-  urn: urn:dressman:store:id:330
-  city: Trollhättan
-  latitude: 58.316667
-  longitude: 12.316667000000052
-
-- location: Dressmann Tumba
-  urn: urn:dressman:store:id:782
-  city: Tumba
-  latitude: 59.1991653
-  longitude: 17.83510279999996
-
-- location: Dressmann Tuna Park
-  urn: urn:dressman:store:id:32C
-  city: Eskilstuna
-  latitude: 59.3713444
-  longitude: 16.470114100000046
-
-- location: Dressmann Tyresö
-  urn: urn:dressman:store:id:328
-  city: Tyresö
-  latitude: 59.244194
-  longitude: 18.228916700000013
-
-- location: Dressmann Täby
-  urn: urn:dressman:store:id:348
-  city: Täby
-  latitude: 59.44209739999999
-  longitude: 18.066459500000065
-
-- location: Dressmann Töcksfors
-  urn: urn:dressman:store:id:32F
-  city: Töcksfors
-  latitude: 59.50663909999999
-  longitude: 11.843057199999976
-
-- location: Dressmann Uddevalla
-  urn: urn:dressman:store:id:31A
-  city: Uddevalla
-  latitude: 58.34965039999999
-  longitude: 11.932503999999994
-
-- location: Dressmann Uddevalla Torp
-  urn: urn:dressman:store:id:338
-  city: Uddevalla
-  latitude: 58.35433784400271
-  longitude: 11.81209015846254
-
-- location: Dressmann Ulricehamn
-  urn: urn:dressman:store:id:682
-  city: Ulricehamn
-  latitude: 57.7922246
-  longitude: 13.41271800000004
-
-- location: Dressmann Umeå Ersboda
-  urn: urn:dressman:store:id:457
-  city: Umeå
-  latitude: 63.850599
-  longitude: 20.299914299999955
-
-- location: Dressmann Upplands Väsby
-  urn: urn:dressman:store:id:434
-  city: Upplands
-  latitude: 59.51866529999999
-  longitude: 17.909925199999975
-
-- location: Dressmann Uppsala
-  urn: urn:dressman:store:id:779
-  city: Uppsala
-  latitude: 59.8595242
-  longitude: 17.637519300000008
-
-- location: Dressmann V Frölunda
-  urn: urn:dressman:store:id:349
-  city: Göteborg
-  latitude: 57.65083509246162
-  longitude: 11.911017926458726
-
-- location: Dressmann Valbo
-  urn: urn:dressman:store:id:444
-  city: Valbo
-  latitude: 60.63293782184589
-  longitude: 16.99201623479
-
-- location: Dressmann Varberg Gallerian
-  urn: urn:dressman:store:id:306
-  city: Varberg
-  latitude: 57.106026453978984
-  longitude: 12.24756153964233
-
-- location: Dressmann Vetlanda
-  urn: urn:dressman:store:id:379
-  city: Vetlanda
-  latitude: 57.4256667
-  longitude: 15.08764459999997
-
-- location: Dressmann Vimmerby
-  urn: urn:dressman:store:id:777
-  city: Vimmerby
-  latitude: 57.66665860000001
-  longitude: 15.8536989
-
-- location: Dressmann Visby
-  urn: urn:dressman:store:id:31F
-  city: Visby
-  latitude: 57.63784320000001
-  longitude: 18.2995965
-
-- location: Dressmann Väla
-  urn: urn:dressman:store:id:341
-  city: Ödåkra
-  latitude: 56.0899264
-  longitude: 12.758997700000009
-
-- location: Dressmann Vällingby
-  urn: urn:dressman:store:id:312
-  city: Vällingby
-  latitude: 59.3627148
-  longitude: 17.87398170000006
-
-- location: Dressmann Vänersborg
-  urn: urn:dressman:store:id:377
-  city: Vänersborg
-  latitude: 58.3793995
-  longitude: 12.322576099999992
-
-- location: Dressmann Värmdö
-  urn: urn:dressman:store:id:695
-  city: Gustavsberg
-  latitude: 59.3135278
-  longitude: 18.427294599999982
+- location: Dressmann Ljungby
+  urn: urn:dressman:store:id:305
+  city: Ljungby
+  latitude: 56.8338098
+  longitude: 13.94031459999996
 
 - location: Dressmann Värnamo
   urn: urn:dressman:store:id:387
@@ -888,47 +378,23 @@ locations:
   latitude: 57.185847
   longitude: 14.03931880000004
 
-- location: Dressmann Västervik
-  urn: urn:dressman:store:id:369
-  city: Västervik
-  latitude: 57.7582705
-  longitude: 16.6389781
+- location: Dressmann Kristianstad
+  urn: urn:dressman:store:id:321
+  city: Kristianstad
+  latitude: 56.03008579999999
+  longitude: 14.158844499999987
 
-- location: Dressmann Växjö City
-  urn: urn:dressman:store:id:458
-  city: Växjö
-  latitude: 56.878652
-  longitude: 14.80629550000003
+- location: Dressmann Jönköping City
+  urn: urn:dressman:store:id:373
+  city: Jönköping
+  latitude: 57.782287
+  longitude: 14.17323009999995
 
-- location: Dressmann Växjö Samarkand
-  urn: urn:dressman:store:id:455
-  city: Växjö
-  latitude: 56.8846784
-  longitude: 14.7669617999999
-
-- location: Dressmann XL Avion Shopping
-  urn: urn:dressman:store:id:M68
-  city: Umeå
-  latitude: 63.80552037219089
-  longitude: 20.25477181746828
-
-- location: Dressmann XL Backaplan
-  urn: urn:dressman:store:id:M52
-  city: Göteborg
-  latitude: 57.721369577623655
-  longitude: 11.951799625872809
-
-- location: Dressmann XL Borlänge Kupolen
-  urn: urn:dressman:store:id:M56
-  city: Borlänge
-  latitude: 60.484419
-  longitude: 15.41811
-
-- location: Dressmann XL Burlöv
-  urn: urn:dressman:store:id:M54
-  city: Arlöv
-  latitude: 55.63952829999999
-  longitude: 13.083845900000028
+- location: Dressmann C4 Shopping Kristianstad
+  urn: urn:dressman:store:id:336
+  city: Kristianstad
+  latitude: 56.023235
+  longitude: 14.197162
 
 - location: Dressmann XL C4 Shopping Kristianstad
   urn: urn:dressman:store:id:M63
@@ -936,137 +402,29 @@ locations:
   latitude: 56.023235
   longitude: 14.197162
 
-- location: Dressmann XL Emporia
-  urn: urn:dressman:store:id:M58
-  city: Malmö
-  latitude: 55.563944
-  longitude: 12.974953
+- location: Dressmann Jönköping A6
+  urn: urn:dressman:store:id:398
+  city: Jönköping
+  latitude: 57.7747027845055
+  longitude: 14.20338678359987
 
-- location: Dressmann XL Kalmar Hansa
-  urn: urn:dressman:store:id:M59
-  city: Kalmar
-  latitude: 56.686984
-  longitude: 16.319807
+- location: Dressmann Simrishamn
+  urn: urn:dressman:store:id:778
+  city: Simrishamn
+  latitude: 55.5569843
+  longitude: 14.350992099999985
 
-- location: Dressmann XL Karlstad
-  urn: urn:dressman:store:id:M67
-  city: Karlstad
-  latitude: 59.378568599999866
-  longitude: 13.499483300000046
+- location: Dressmann Karlskoga
+  urn: urn:dressman:store:id:327
+  city: Karlskoga
+  latitude: 59.32629550000001
+  longitude: 14.525617699999998
 
-- location: Dressmann XL Kista Galleria
-  urn: urn:dressman:store:id:M51
-  city: Kista
-  latitude: 59.4033695
-  longitude: 17.94432129999995
-
-- location: Dressmann XL Luleå
-  urn: urn:dressman:store:id:M61
-  city: Luleå
-  latitude: 65.61907
-  longitude: 22.046531
-
-- location: Dressmann XL Marieberg
-  urn: urn:dressman:store:id:M65
-  city: Örebro
-  latitude: 59.215934
-  longitude: 15.139573
-
-- location: Dressmann XL Mjölby
-  urn: urn:dressman:store:id:M55
-  city: Mjölby
-  latitude: 58.3256937
-  longitude: 15.12527959999999
-
-- location: Dressmann XL Skärholmen
-  urn: urn:dressman:store:id:M66
-  city: Skärholmen
-  latitude: 59.27500649999999
-  longitude: 17.907159200000027
-
-- location: Dressmann XL Stockholm City
-  urn: urn:dressman:store:id:M46
-  city: Stockholm
-  latitude: 59.3312778
-  longitude: 18.0591209
-
-- location: Dressmann XL Sundsvall Birsta City
-  urn: urn:dressman:store:id:M48
-  city: Sundsvall
-  latitude: 62.4471247
-  longitude: 17.3358768
-
-- location: Dressmann XL Uddevalla Torp
-  urn: urn:dressman:store:id:M64
-  city: Uddevalla
-  latitude: 58.35434678521424
-  longitude: 11.812148673913612
-
-- location: Dressmann XL Uppsala
-  urn: urn:dressman:store:id:M53
-  city: Uppsala
-  latitude: 59.8454668
-  longitude: 17.693974300000036
-
-- location: Dressmann XL Valbo
-  urn: urn:dressman:store:id:M57
-  city: Valbo
-  latitude: 60.633993
-  longitude: 16.989866
-
-- location: Dressmann XL Väla
-  urn: urn:dressman:store:id:M50
-  city: Ödåkra
-  latitude: 56.0900101972086
-  longitude: 12.7589762423278
-
-- location: Dressmann XL Västerås
-  urn: urn:dressman:store:id:M49
-  city: Västerås
-  latitude: 59.6112412
-  longitude: 16.5449128
-
-- location: Dressmann Ystad
-  urn: urn:dressman:store:id:351
-  city: Ystad
-  latitude: 55.4303936
-  longitude: 13.823979799999961
-
-- location: Dressmann Åkersberga
-  urn: urn:dressman:store:id:690
-  city: Åkersberga
-  latitude: 59.479799
-  longitude: 18.297805599999947
-
-- location: Dressmann Åmål
-  urn: urn:dressman:store:id:788
-  city: Åmål
-  latitude: 59.05215819999999
-  longitude: 12.70499970000003
-
-- location: Dressmann Ängelholm
-  urn: urn:dressman:store:id:687
-  city: Ängelholm
-  latitude: 56.2437765
-  longitude: 12.86273129999995
-
-- location: Dressmann Öland
-  urn: urn:dressman:store:id:354
-  city: Färjestaden
-  latitude: 56.652044418894114
-  longitude: 16.469813168048873
-
-- location: Dressmann Örebro City
-  urn: urn:dressman:store:id:333
-  city: Örebro
-  latitude: 59.27070369999999
-  longitude: 15.21227829999998
-
-- location: Dressmann Örnsköldsvik
-  urn: urn:dressman:store:id:374
-  city: Örnsköldsvik
-  latitude: 63.2908536
-  longitude: 18.712987099999964
+- location: Dressmann Mora
+  urn: urn:dressman:store:id:386
+  city: Mora
+  latitude: 61.0043847
+  longitude: 14.53774750000002
 
 - location: Dressmann Östersund City
   urn: urn:dressman:store:id:360
@@ -1074,8 +432,650 @@ locations:
   latitude: 63.176911
   longitude: 14.63723519999996
 
-- location: Strömstad Galleria
-  urn: urn:dressman:store:id:685
-  city: Strömstad
-  latitude: 58.9462491
-  longitude: 11.188438799999972
+- location: Dressmann Nässjö
+  urn: urn:dressman:store:id:774
+  city: Nässjö
+  latitude: 57.65370050000001
+  longitude: 14.6944464
+
+- location: Dressmann Lillänge Östersund
+  urn: urn:dressman:store:id:799
+  city: Östersund
+  latitude: 63.17445736704449
+  longitude: 14.694952268786665
+
+- location: Dressmann Växjö Samarkand
+  urn: urn:dressman:store:id:455
+  city: Växjö
+  latitude: 56.8846784
+  longitude: 14.7669617999999
+
+- location: Dressmann Växjö City
+  urn: urn:dressman:store:id:458
+  city: Växjö
+  latitude: 56.878652
+  longitude: 14.80629550000003
+
+- location: Dressmann Karlshamn
+  urn: urn:dressman:store:id:385
+  city: Karlshamn
+  latitude: 56.172237
+  longitude: 14.86108680000006
+
+- location: Dressmann Tranås
+  urn: urn:dressman:store:id:798
+  city: Tranås
+  latitude: 58.0362009
+  longitude: 14.9772539
+
+- location: Dressmann Motala
+  urn: urn:dressman:store:id:334
+  city: Motala
+  latitude: 58.5371348
+  longitude: 15.037121800000023
+
+- location: Dressmann Vetlanda
+  urn: urn:dressman:store:id:379
+  city: Vetlanda
+  latitude: 57.4256667
+  longitude: 15.08764459999997
+
+- location: Dressmann XL Mjölby
+  urn: urn:dressman:store:id:M55
+  city: Mjölby
+  latitude: 58.3256937
+  longitude: 15.12527959999999
+
+- location: Dressmann Mjölby
+  urn: urn:dressman:store:id:332
+  city: Mjölby
+  latitude: 58.3256937
+  longitude: 15.125279599999999
+
+- location: Dressmann XL Marieberg
+  urn: urn:dressman:store:id:M65
+  city: Örebro
+  latitude: 59.215934
+  longitude: 15.139573
+
+- location: Dressmann Marieberg Galleria
+  urn: urn:dressman:store:id:313
+  city: Örebro
+  latitude: 59.2226146
+  longitude: 15.1401482
+
+- location: Dressmann Ludvika
+  urn: urn:dressman:store:id:326
+  city: Ludvika
+  latitude: 60.14972969999999
+  longitude: 15.18620740000005
+
+- location: Dressmann Örebro City
+  urn: urn:dressman:store:id:333
+  city: Örebro
+  latitude: 59.27070369999999
+  longitude: 15.21227829999998
+
+- location: Dressmann Ronneby
+  urn: urn:dressman:store:id:382
+  city: Ronneby
+  latitude: 56.2111228
+  longitude: 15.27736170000002
+
+- location: Dressmann Borlänge Kupolen
+  urn: urn:dressman:store:id:323
+  city: Borlänge
+  latitude: 60.48416640000001
+  longitude: 15.41797070000006
+
+- location: Dressmann XL Borlänge Kupolen
+  urn: urn:dressman:store:id:M56
+  city: Borlänge
+  latitude: 60.484419
+  longitude: 15.41811
+
+- location: Dressmann Karlskrona City
+  urn: urn:dressman:store:id:792
+  city: Karlskrona
+  latitude: 56.161164
+  longitude: 15.571969
+
+- location: Dressmann Linköping Ikano
+  urn: urn:dressman:store:id:688
+  city: Linköping
+  latitude: 58.43235959999999
+  longitude: 15.587852099999964
+
+- location: Dressmann Linköping Gränden
+  urn: urn:dressman:store:id:319
+  city: Linköping
+  latitude: 58.41007210000001
+  longitude: 15.62661950000006
+
+- location: Dressmann Falun
+  urn: urn:dressman:store:id:355
+  city: Falun
+  latitude: 60.6065987
+  longitude: 15.63052229999993
+
+- location: Dressmann Karlskrona Amiralen
+  urn: urn:dressman:store:id:438
+  city: Lyckeby
+  latitude: 56.196632017533155
+  longitude: 15.64109373092653
+
+- location: Dressmann Fagersta
+  urn: urn:dressman:store:id:31C
+  city: Fagersta
+  latitude: 60.0037561
+  longitude: 15.793113500000004
+
+- location: Dressmann Vimmerby
+  urn: urn:dressman:store:id:777
+  city: Vimmerby
+  latitude: 57.66665860000001
+  longitude: 15.8536989
+
+- location: Dressmann Köping
+  urn: urn:dressman:store:id:683
+  city: Köping
+  latitude: 59.51940539999999
+  longitude: 15.976704899999959
+
+- location: Dressmann Ingelsta Shopping
+  urn: urn:dressman:store:id:350
+  city: Norrköping
+  latitude: 58.6228673
+  longitude: 16.1650386
+
+- location: Dressmann Avesta
+  urn: urn:dressman:store:id:361
+  city: Avesta
+  latitude: 60.1458815
+  longitude: 16.16825340000002
+
+- location: Dressmann Norrköping
+  urn: urn:dressman:store:id:344
+  city: Norrköping
+  latitude: 58.58748180000001
+  longitude: 16.18878840000002
+
+- location: Dressmann Katrineholm
+  urn: urn:dressman:store:id:359
+  city: Katrineholm
+  latitude: 58.99492359999999
+  longitude: 16.208630399999947
+
+- location: Dressmann Mirum Galleria
+  urn: urn:dressman:store:id:307
+  city: Norrköping
+  latitude: 58.57339880000001
+  longitude: 16.209589999999935
+
+- location: Dressmann XL Kalmar Hansa
+  urn: urn:dressman:store:id:M59
+  city: Kalmar
+  latitude: 56.686984
+  longitude: 16.319807
+
+- location: Dressmann Kalmar Hansa
+  urn: urn:dressman:store:id:371
+  city: Kalmar
+  latitude: 56.68698440000001
+  longitude: 16.3198072999999
+
+- location: Dressmann Kalmar Giraffen Shopping
+  urn: urn:dressman:store:id:331
+  city: Kalmar
+  latitude: 56.670618
+  longitude: 16.337701
+
+- location: Dressmann Bollnäs
+  urn: urn:dressman:store:id:454
+  city: Bollnäs
+  latitude: 61.3486153
+  longitude: 16.39375710000001
+
+- location: Dressmann Oskarshamn
+  urn: urn:dressman:store:id:445
+  city: Oskarshamn
+  latitude: 57.265517
+  longitude: 16.44666000000006
+
+- location: Dressmann Erikslund
+  urn: urn:dressman:store:id:318
+  city: Västerås
+  latitude: 59.6099764
+  longitude: 16.454807099999993
+
+- location: Dressmann Öland
+  urn: urn:dressman:store:id:354
+  city: Färjestaden
+  latitude: 56.652044418894114
+  longitude: 16.469813168048873
+
+- location: Dressmann Tuna Park
+  urn: urn:dressman:store:id:32C
+  city: Eskilstuna
+  latitude: 59.3713444
+  longitude: 16.470114100000046
+
+- location: Dressmann Eskilstuna
+  urn: urn:dressman:store:id:30E
+  city: Eskilstuna
+  latitude: 59.371672
+  longitude: 16.510365
+
+- location: Dressmann XL Västerås
+  urn: urn:dressman:store:id:M49
+  city: Västerås
+  latitude: 59.6112412
+  longitude: 16.5449128
+
+- location: Dressmann Sala
+  urn: urn:dressman:store:id:441
+  city: Sala
+  latitude: 59.92029640000001
+  longitude: 16.605666799999995
+
+- location: Dressmann Hälla
+  urn: urn:dressman:store:id:689
+  city: Västerås
+  latitude: 59.6103079
+  longitude: 16.622302399999967
+
+- location: Dressmann Västervik
+  urn: urn:dressman:store:id:369
+  city: Västervik
+  latitude: 57.7582705
+  longitude: 16.6389781
+
+- location: Dressmann XL Valbo
+  urn: urn:dressman:store:id:M57
+  city: Valbo
+  latitude: 60.633993
+  longitude: 16.989866
+
+- location: Dressmann Valbo
+  urn: urn:dressman:store:id:444
+  city: Valbo
+  latitude: 60.63293782184589
+  longitude: 16.99201623479
+
+- location: Dressmann Nyköping
+  urn: urn:dressman:store:id:352
+  city: Nyköping
+  latitude: 58.7519655
+  longitude: 17.006302600000026
+
+- location: Dressmann Strängnäs
+  urn: urn:dressman:store:id:431
+  city: Strängnäs
+  latitude: 59.3761993
+  longitude: 17.027203399999962
+
+- location: Dressmann Söderhamn
+  urn: urn:dressman:store:id:447
+  city: Söderhamn
+  latitude: 61.30286520000001
+  longitude: 17.05713109999999
+
+- location: Dressmann Enköping
+  urn: urn:dressman:store:id:390
+  city: Enköping
+  latitude: 59.62838609999999
+  longitude: 17.080647
+
+- location: Dressmann Hudiksvall
+  urn: urn:dressman:store:id:365
+  city: Hudiksvall
+  latitude: 61.72822461251059
+  longitude: 17.10418152809146
+
+- location: Dressmann Gävle
+  urn: urn:dressman:store:id:343
+  city: Gävle
+  latitude: 60.67391059999999
+  longitude: 17.14120209999998
+
+- location: Dressmann Sollefteå
+  urn: urn:dressman:store:id:772
+  city: Sollefteå
+  latitude: 63.1678631
+  longitude: 17.26855820000003
+
+- location: Dressmann XL Sundsvall Birsta City
+  urn: urn:dressman:store:id:M48
+  city: Sundsvall
+  latitude: 62.4471247
+  longitude: 17.3358768
+
+- location: Dressmann Birsta City
+  urn: urn:dressman:store:id:459
+  city: Sundsvall
+  latitude: 62.4471247
+  longitude: 17.33587680000005
+
+- location: Dressmann Bålsta
+  urn: urn:dressman:store:id:303
+  city: Bålsta
+  latitude: 59.56760189999999
+  longitude: 17.529250700000034
+
+- location: Dressmann Södertälje
+  urn: urn:dressman:store:id:697
+  city: Södertälje
+  latitude: 59.1962613
+  longitude: 17.626747199999954
+
+- location: Dressmann Uppsala
+  urn: urn:dressman:store:id:779
+  city: Uppsala
+  latitude: 59.8595242
+  longitude: 17.637519300000008
+
+- location: Dressmann Gränby
+  urn: urn:dressman:store:id:399
+  city: Uppsala
+  latitude: 59.87708319999999
+  longitude: 17.670852400000058
+
+- location: Dressmann XL Uppsala
+  urn: urn:dressman:store:id:M53
+  city: Uppsala
+  latitude: 59.8454668
+  longitude: 17.693974300000036
+
+- location: Dressmann Tumba
+  urn: urn:dressman:store:id:782
+  city: Tumba
+  latitude: 59.1991653
+  longitude: 17.83510279999996
+
+- location: Dressmann Jakobsberg
+  urn: urn:dressman:store:id:375
+  city: Järfälla
+  latitude: 59.4240594
+  longitude: 17.837223999999992
+
+- location: Dressmann Märsta Centrum
+  urn: urn:dressman:store:id:316
+  city: Stockholm
+  latitude: 59.620726699999985
+  longitude: 17.85577619999998
+
+- location: Dressmann Barkarby
+  urn: urn:dressman:store:id:797
+  city: Järfälla
+  latitude: 59.4161768
+  longitude: 17.858191900000065
+
+- location: Dressmann Vällingby
+  urn: urn:dressman:store:id:312
+  city: Vällingby
+  latitude: 59.3627148
+  longitude: 17.87398170000006
+
+- location: Dressmann XL Skärholmen
+  urn: urn:dressman:store:id:M66
+  city: Skärholmen
+  latitude: 59.27500649999999
+  longitude: 17.907159200000027
+
+- location: Dressmann Skärholmen
+  urn: urn:dressman:store:id:310
+  city: Skärholmen
+  latitude: 59.2751546
+  longitude: 17.907985800000006
+
+- location: Dressmann Upplands Väsby
+  urn: urn:dressman:store:id:434
+  city: Upplands
+  latitude: 59.51866529999999
+  longitude: 17.909925199999975
+
+- location: Dressmann Kungens Kurva
+  urn: urn:dressman:store:id:787
+  city: Kurva
+  latitude: 59.27019384621487
+  longitude: 17.916781877315543
+
+- location: Dressmann Härnösand
+  urn: urn:dressman:store:id:452
+  city: Härnösand
+  latitude: 62.6316391
+  longitude: 17.93927819999999
+
+- location: Dressmann XL Kista Galleria
+  urn: urn:dressman:store:id:M51
+  city: Kista
+  latitude: 59.4033695
+  longitude: 17.94432129999995
+
+- location: Dressmann Kista Galleria
+  urn: urn:dressman:store:id:311
+  city: Kista
+  latitude: 59.4033695
+  longitude: 17.944321299999956
+
+- location: Dressmann Nynäshamn
+  urn: urn:dressman:store:id:448
+  city: Nynäshamn
+  latitude: 58.9034327
+  longitude: 17.947439400000007
+
+- location: Dressmann Sollentuna Centrum
+  urn: urn:dressman:store:id:785
+  city: Sollentuna
+  latitude: 59.428387
+  longitude: 17.951123
+
+- location: Dressmann Bromma
+  urn: urn:dressman:store:id:433
+  city: Bromma
+  latitude: 59.35560479999999
+  longitude: 17.95518590000006
+
+- location: Dressmann Huddinge
+  urn: urn:dressman:store:id:395
+  city: Huddinge
+  latitude: 59.2354542707414
+  longitude: 17.981343059802157
+
+- location: Dressmann Mall of Scandinavia
+  urn: urn:dressman:store:id:394
+  city: Solna
+  latitude: 59.37368230000002
+  longitude: 17.99573009999996
+
+- location: Dressmann Solna
+  urn: urn:dressman:store:id:315
+  city: Solna
+  latitude: 59.3604729
+  longitude: 17.99944579999999
+
+- location: Dressmann Liljeholmen
+  urn: urn:dressman:store:id:308
+  city: Stockholm
+  latitude: 59.30999549999999
+  longitude: 18.021806200000015
+
+- location: Dressmann Odenplan
+  urn: urn:dressman:store:id:770
+  city: Stockholm
+  latitude: 59.3432719
+  longitude: 18.051259399999935
+
+- location: Dressmann XL Stockholm City
+  urn: urn:dressman:store:id:M46
+  city: Stockholm
+  latitude: 59.3312778
+  longitude: 18.0591209
+
+- location: Dressmann Drottninggatan 56
+  urn: urn:dressman:store:id:456
+  city: Stockholm
+  latitude: 59.33284769999999
+  longitude: 18.06200160000003
+
+- location: Dressmann Täby
+  urn: urn:dressman:store:id:348
+  city: Täby
+  latitude: 59.44209739999999
+  longitude: 18.066459500000065
+
+- location: Dressmann Götgatan
+  urn: urn:dressman:store:id:780
+  city: Stockholm
+  latitude: 59.3137238
+  longitude: 18.07345669999995
+
+- location: Dressmann Globen
+  urn: urn:dressman:store:id:357
+  city: Johanneshov
+  latitude: 59.29374824134009
+  longitude: 18.083065631768818
+
+- location: Dressmann Farsta
+  urn: urn:dressman:store:id:340
+  city: Farsta
+  latitude: 59.2423385
+  longitude: 18.09198630000003
+
+- location: Dressmann Lidingö
+  urn: urn:dressman:store:id:696
+  city: Lidingö
+  latitude: 59.36605549999999
+  longitude: 18.135146599999985
+
+- location: Dressmann Haninge Port 73
+  urn: urn:dressman:store:id:443
+  city: Handen
+  latitude: 59.17924069999999
+  longitude: 18.149223699999993
+
+- location: Dressmann Haninge Centrum
+  urn: urn:dressman:store:id:389
+  city: Haninge
+  latitude: 59.20486690000001
+  longitude: 18.15124549999996
+
+- location: Dressmann Nacka
+  urn: urn:dressman:store:id:356
+  city: Nacka
+  latitude: 59.3094192
+  longitude: 18.164390400000002
+
+- location: Dressmann Tyresö
+  urn: urn:dressman:store:id:328
+  city: Tyresö
+  latitude: 59.244194
+  longitude: 18.228916700000013
+
+- location: Dressmann Åkersberga
+  urn: urn:dressman:store:id:690
+  city: Åkersberga
+  latitude: 59.479799
+  longitude: 18.297805599999947
+
+- location: Dressmann Visby
+  urn: urn:dressman:store:id:31F
+  city: Visby
+  latitude: 57.63784320000001
+  longitude: 18.2995965
+
+- location: Dressmann Värmdö
+  urn: urn:dressman:store:id:695
+  city: Gustavsberg
+  latitude: 59.3135278
+  longitude: 18.427294599999982
+
+- location: Dressmann Lycksele
+  urn: urn:dressman:store:id:771
+  city: Lycksele
+  latitude: 64.59493259999999
+  longitude: 18.676687000000015
+
+- location: Dressmann Norrtälje
+  urn: urn:dressman:store:id:795
+  city: Norrtälje
+  latitude: 59.7574632
+  longitude: 18.69943090000004
+
+- location: Dressmann Örnsköldsvik
+  urn: urn:dressman:store:id:374
+  city: Örnsköldsvik
+  latitude: 63.2908536
+  longitude: 18.712987099999964
+
+- location: Dressmann Kiruna
+  urn: urn:dressman:store:id:796
+  city: Kiruna
+  latitude: 67.854502
+  longitude: 20.228200499999957
+
+- location: Dressmann Avion Köpcentrum
+  urn: urn:dressman:store:id:367
+  city: Umeå
+  latitude: 63.80552037219089
+  longitude: 20.25477181746828
+
+- location: Dressmann XL Avion Shopping
+  urn: urn:dressman:store:id:M68
+  city: Umeå
+  latitude: 63.80552037219089
+  longitude: 20.25477181746828
+
+- location: Dressmann Umeå Ersboda
+  urn: urn:dressman:store:id:457
+  city: Umeå
+  latitude: 63.850599
+  longitude: 20.299914299999955
+
+- location: Dressmann Gällivare
+  urn: urn:dressman:store:id:393
+  city: Gällivare
+  latitude: 67.1343206
+  longitude: 20.656718100000035
+
+- location: Dressmann Skellefteå City
+  urn: urn:dressman:store:id:353
+  city: Skellefteå
+  latitude: 64.750793
+  longitude: 20.954605600000036
+
+- location: Dressmann Skellefteå Solbacken
+  urn: urn:dressman:store:id:337
+  city: Skellefteå
+  latitude: 64.765023
+  longitude: 21.023512200000027
+
+- location: Dressmann Piteå
+  urn: urn:dressman:store:id:392
+  city: Piteå
+  latitude: 65.3176921
+  longitude: 21.47859070000004
+
+- location: Dressmann Boden
+  urn: urn:dressman:store:id:439
+  city: Boden
+  latitude: 65.82533910000002
+  longitude: 21.68947310000002
+
+- location: Dressmann Luleå Storheden
+  urn: urn:dressman:store:id:372
+  city: Luleå
+  latitude: 65.61907
+  longitude: 22.046531
+
+- location: Dressmann XL Luleå
+  urn: urn:dressman:store:id:M61
+  city: Luleå
+  latitude: 65.61907
+  longitude: 22.046531
+
+- location: Dressmann Luleå City
+  urn: urn:dressman:store:id:783
+  city: Luleå
+  latitude: 65.58425749999999
+  longitude: 22.153865900000028

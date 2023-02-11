@@ -6,1079 +6,11 @@ meta:
   locations: 279
 
 locations:
-- location: Espoo, Iso-Omena
-  urn: urn:cubus:store:id:P13
-  city: Espoo
-  latitude: 60.16189678146782
-  longitude: 24.740126987835765
-
-- location: Espoo, Sello
-  urn: urn:cubus:store:id:P44
-  city: Espoo
-  latitude: 60.21711970000001
-  longitude: 24.810264200000063
-
-- location: Forssa,  Prisma
-  urn: urn:cubus:store:id:P54
-  city: Forssa
-  latitude: 60.81219260000002
-  longitude: 23.637033699999925
-
-- location: Hämeenlinna, Goodman
-  urn: urn:cubus:store:id:P42
-  city: Hämeenlinna
-  latitude: 60.99666610000002
-  longitude: 24.45586409999997
-
-- location: Helsinki, Forum
-  urn: urn:cubus:store:id:P12
-  city: Helsinki
-  latitude: 60.16895015124735
-  longitude: 24.93746922645869
-
-- location: Helsinki, Itis
-  urn: urn:cubus:store:id:P28
-  city: Helsinki
-  latitude: 60.2126318
-  longitude: 25.085416699999996
-
-- location: Helsinki, Kamppi
-  urn: urn:cubus:store:id:P39
-  city: Helsinki
-  latitude: 60.16942669999999
-  longitude: 24.933498699999973
-
-- location: Helsinki, Redi
-  urn: urn:cubus:store:id:P59
-  city: Helsinki
-  latitude: 60.189609
-  longitude: 24.98092650000001
-
-- location: Helsinki, Tripla
-  urn: urn:cubus:store:id:P60
-  city: Helsinki
-  latitude: 60.1979145
-  longitude: 24.93044520000001
-
-- location: Hyvinkää, Willa
-  urn: urn:cubus:store:id:P23
-  city: Hyvinkää
-  latitude: 60.6321562
-  longitude: 24.865501799999947
-
-- location: Iisalmi, Iisa
-  urn: urn:cubus:store:id:P56
-  city: Iisalmi
-  latitude: 63.555727
-  longitude: 27.18789620000007
-
-- location: Järvenpää, Prisma
-  urn: urn:cubus:store:id:P49
-  city: Järvenpää
-  latitude: 60.469533899999995
-  longitude: 25.08441130000004
-
-- location: Joensuu, Iso-Myy
-  urn: urn:cubus:store:id:P20
-  city: Joensuu
-  latitude: 62.6017144
-  longitude: 29.763922200000025
-
-- location: Jyväskylä, Forum
-  urn: urn:cubus:store:id:P31
-  city: Jyväskylä
-  latitude: 62.24196809999999
-  longitude: 25.74864070000001
-
-- location: Jyväskylä, Seppä
-  urn: urn:cubus:store:id:P57
-  city: Jyväskylä
-  latitude: 62.2560068
-  longitude: 25.7772559
-
-- location: Kajaani
-  urn: urn:cubus:store:id:P58
-  city: Kajaani
-  latitude: 64.2249637
-  longitude: 27.733611999999994
-
-- location: Kokkola, Chydenia
-  urn: urn:cubus:store:id:P34
-  city: Kokkola
-  latitude: 63.83623919999999
-  longitude: 23.133027500000026
-
-- location: Kotka, Pasaati
-  urn: urn:cubus:store:id:P40
-  city: Kotka
-  latitude: 60.46618040000003
-  longitude: 26.944603899999944
-
-- location: Kouvola, Veturi
-  urn: urn:cubus:store:id:P22
-  city: Kouvola
-  latitude: 60.872097895963066
-  longitude: 26.6554166640625
-
-- location: Kuopio, Matkus
-  urn: urn:cubus:store:id:P24
-  city: Kuopio
-  latitude: 62.8396011
-  longitude: 27.60100639999996
-
-- location: Lahti, Karisma
-  urn: urn:cubus:store:id:P17
-  city: Lahti
-  latitude: 60.9828924
-  longitude: 25.736976000000027
-
-- location: Lahti, Trio
-  urn: urn:cubus:store:id:P46
-  city: Lahti
-  latitude: 60.9826522
-  longitude: 25.662221899999984
-
-- location: Lappeenranta, Galleria
-  urn: urn:cubus:store:id:P25
-  city: Lappeenranta
-  latitude: 61.0558333
-  longitude: 28.1902777
-
-- location: Lempäälä, Ideapark
-  urn: urn:cubus:store:id:P15
-  city: Lempäälä
-  latitude: 61.362645324782214
-  longitude: 23.798539147174097
-
-- location: Mikkeli, Stella
-  urn: urn:cubus:store:id:P30
-  city: Mikkeli
-  latitude: 61.6892918
-  longitude: 27.27528540000003
-
-- location: Oulu, Ideapark
-  urn: urn:cubus:store:id:P45
-  city: Oulu
-  latitude: 65.07617209999997
-  longitude: 25.447315200000062
-
-- location: Oulu, Valkea
-  urn: urn:cubus:store:id:P53
-  city: Oulu
-  latitude: 65.0114222
-  longitude: 25.472096100000044
-
-- location: Oulu, Zeppelin
-  urn: urn:cubus:store:id:P18
-  city: Kempele
-  latitude: 64.9032512
-  longitude: 25.538861300000008
-
-- location: Pori, Puuvilla
-  urn: urn:cubus:store:id:P43
-  city: Pori
-  latitude: 61.49249490000001
-  longitude: 21.798673799999992
-
-- location: Porvoo, Taidetehdas
-  urn: urn:cubus:store:id:P27
-  city: Porvoo
-  latitude: 60.3892707
-  longitude: 25.65755719999993
-
-- location: Raisio, Mylly
-  urn: urn:cubus:store:id:P11
-  city: Turku
-  latitude: 60.4918158
-  longitude: 22.205177100000014
-
-- location: Rauma, Potkur
-  urn: urn:cubus:store:id:P51
-  city: Rauma
-  latitude: 61.12822739999999
-  longitude: 21.50695810000002
-
-- location: Rovaniemi, Sampokeskus
-  urn: urn:cubus:store:id:P16
-  city: Rovaniemi
-  latitude: 66.50170179999999
-  longitude: 25.73062660000005
-
-- location: Salo, Plaza
-  urn: urn:cubus:store:id:P37
-  city: Salo
-  latitude: 60.3863727
-  longitude: 23.124741200000017
-
-- location: Seinäjoki, Ideapark
-  urn: urn:cubus:store:id:P61
-  city: Seinäjoki
-  latitude: 62.79229319999999
-  longitude: 22.801413599999933
-
-- location: Tampere,  Lielahtikeskus
-  urn: urn:cubus:store:id:P41
-  city: Tampere
-  latitude: 61.520478200000014
-  longitude: 23.668612199999952
-
-- location: Tampere, Koskikeskus
-  urn: urn:cubus:store:id:P19
-  city: Tampere
-  latitude: 61.495350672959674
-  longitude: 23.768110291418452
-
-- location: Tornio, Rajalla
-  urn: urn:cubus:store:id:P29
-  city: Tornio
-  latitude: 65.844297
-  longitude: 24.142025800000056
-
-- location: Turku, Kultatalo
-  urn: urn:cubus:store:id:P21
-  city: Turku
-  latitude: 60.4514429
-  longitude: 22.265350200000057
-
-- location: Turku, Skanssi
-  urn: urn:cubus:store:id:P33
-  city: Turku
-  latitude: 60.4296963343581
-  longitude: 22.31892582009891
-
-- location: Vaasa, Espen
-  urn: urn:cubus:store:id:P35
-  city: Vaasa
-  latitude: 63.0964295
-  longitude: 21.616503700000067
-
-- location: Vaasa, GW Galleria
-  urn: urn:cubus:store:id:P26
-  city: Vaasa
-  latitude: 63.1092177
-  longitude: 21.649621499999967
-
-- location: Vantaa, Jumbo
-  urn: urn:cubus:store:id:P38
-  city: Vantaa
-  latitude: 60.29076809999997
-  longitude: 24.96211300000006
-
-- location: Åkrehamn
-  urn: urn:cubus:store:id:869
-  city: Åkrehamn
-  latitude: 59.26421481376275
-  longitude: 5.192456864062478
-
-- location: Ålesund
-  urn: urn:cubus:store:id:882
-  city: Ålesund
-  latitude: 62.4728611
-  longitude: 6.157816099999991
-
-- location: Ålgård
-  urn: urn:cubus:store:id:933
-  city: Ålgård
-  latitude: 58.767080976856064
-  longitude: 5.8502319420138065
-
-- location: Alta
-  urn: urn:cubus:store:id:906
-  city: Alta
-  latitude: 69.9661751
-  longitude: 23.272644899999932
-
-- location: Alti Arendal
-  urn: urn:cubus:store:id:89D
-  city: Arendal
-  latitude: 58.45978643690264
-  longitude: 8.764156579971448
-
-- location: Amanda - Haugesund
-  urn: urn:cubus:store:id:870
-  city: Haugesund
-  latitude: 59.39628404616438
-  longitude: 5.331340204229718
-
-- location: Amfi Kanebogen - Harstad
-  urn: urn:cubus:store:id:915
-  city: Harstad
-  latitude: 68.77960170220655
-  longitude: 16.566331373016396
-
-- location: AMFI Moss
-  urn: urn:cubus:store:id:89E
-  city: Moss
-  latitude: 59.4362761
-  longitude: 10.6649225
-
-- location: AMFI Orkanger
-  urn: urn:cubus:store:id:82F
-  city: Orkanger
-  latitude: 63.2974695
-  longitude: 9.844470300000012
-
-- location: Amfi Os - Bergen
-  urn: urn:cubus:store:id:81D
-  city: Bergen
-  latitude: 60.202431
-  longitude: 5.45627079999997
-
-- location: Åndalsnes
-  urn: urn:cubus:store:id:86D
-  city: Åndalsnes
-  latitude: 62.5674461
-  longitude: 7.687220000000025
-
-- location: Arkaden - Stavanger
-  urn: urn:cubus:store:id:853
-  city: Stavanger
-  latitude: 58.97074747459127
-  longitude: 5.73613367624672
-
-- location: Arkaden Skien
-  urn: urn:cubus:store:id:837
-  city: Skien
-  latitude: 59.19550933591113
-  longitude: 9.602215740228303
-
-- location: Åsane Storsenter - Bergen
-  urn: urn:cubus:store:id:877
-  city: Bergen
-  latitude: 60.46882421632607
-  longitude: 5.324652671813965
-
-- location: Asker
-  urn: urn:cubus:store:id:932
-  city: Asker
-  latitude: 59.836934875194636
-  longitude: 10.434300004229726
-
-- location: Askim
-  urn: urn:cubus:store:id:817
-  city: Askim
-  latitude: 59.58299076585734
-  longitude: 11.16561064232792
-
-- location: Bardufoss
-  urn: urn:cubus:store:id:909
-  city: Bardufoss
-  latitude: 69.0647236016621
-  longitude: 18.513291132788027
-
-- location: Bergen Storsenter
-  urn: urn:cubus:store:id:875
-  city: Bergen
-  latitude: 60.39057510353758
-  longitude: 5.33317206776735
-
-- location: Bjørkelangen
-  urn: urn:cubus:store:id:881
-  city: Bjørkelangen
-  latitude: 59.88406519999999
-  longitude: 11.568471000000045
-
-- location: Bø
-  urn: urn:cubus:store:id:89C
-  city: Bø
-  latitude: 59.41386752742168
-  longitude: 9.065095480755872
-
-- location: Bogstadveien
-  urn: urn:cubus:store:id:861
-  city: Oslo
-  latitude: 59.92554
-  longitude: 10.72222
-
-- location: Bømlo
-  urn: urn:cubus:store:id:86F
-  city: Bømlo
-  latitude: 59.770779
-  longitude: 5.132525999999984
-
-- location: Brekstad
-  urn: urn:cubus:store:id:81C
-  city: Brekstad
-  latitude: 63.6926869
-  longitude: 9.660779200000018
-
-- location: Brønnøysund
-  urn: urn:cubus:store:id:896
-  city: Brønnøysund
-  latitude: 65.4733552
-  longitude: 12.210100099999977
-
-- location: Bryn - Oslo
-  urn: urn:cubus:store:id:811
-  city: Oslo
-  latitude: 59.90355608628896
-  longitude: 10.821312024853569
-
-- location: Bryne
-  urn: urn:cubus:store:id:857
-  city: Bryne
-  latitude: 58.7354397847771
-  longitude: 5.639826279357976
-
-- location: CC Stadion - Hamar
-  urn: urn:cubus:store:id:82C
-  city: Hamar
-  latitude: 60.794939600000006
-  longitude: 11.078641600000001
-
-- location: CC Vest - Lysaker
-  urn: urn:cubus:store:id:807
-  city: Oslo
-  latitude: 59.9176496
-  longitude: 10.636358900000005
-
-- location: City Lade - Trondheim
-  urn: urn:cubus:store:id:81A
-  city: Trondheim
-  latitude: 63.4436928
-  longitude: 10.44652510000005
-
-- location: City Nord - Bodø
-  urn: urn:cubus:store:id:905
-  city: Bodø
-  latitude: 67.28402350793554
-  longitude: 14.408450603484653
-
-- location: City Syd - Trondheim
-  urn: urn:cubus:store:id:889
-  city: Trondheim
-  latitude: 63.36154173950834
-  longitude: 10.376775741577148
-
-- location: Dokka
-  urn: urn:cubus:store:id:846
-  city: Dokka
-  latitude: 60.836190005483736
-  longitude: 10.070967425994922
-
-- location: Down Town - Porsgrunn
-  urn: urn:cubus:store:id:839
-  city: Porsgrunn
-  latitude: 59.1382508304896
-  longitude: 9.642440619018544
-
-- location: Egersund
-  urn: urn:cubus:store:id:855
-  city: Egersund
-  latitude: 58.45306422502407
-  longitude: 6.004177551940984
-
-- location: Elverum
-  urn: urn:cubus:store:id:834
-  city: Elverum
-  latitude: 60.87816830000001
-  longitude: 11.56557459999999
-
-- location: Evje
-  urn: urn:cubus:store:id:83F
-  city: Evje
-  latitude: 58.5871382
-  longitude: 7.807359399999996
-
-- location: Fagernes
-  urn: urn:cubus:store:id:921
-  city: Fagernes
-  latitude: 60.9856452
-  longitude: 9.231857499999933
-
-- location: Farsund
-  urn: urn:cubus:store:id:83B
-  city: Farsund
-  latitude: 58.0959674
-  longitude: 6.803509599999984
-
-- location: Fauske
-  urn: urn:cubus:store:id:903
-  city: Fauske
-  latitude: 67.2583222
-  longitude: 15.395789400000012
-
-- location: Finnsnes
-  urn: urn:cubus:store:id:907
-  city: Finnsnes
-  latitude: 69.22891827010007
-  longitude: 17.978580986755333
-
-- location: Flå
-  urn: urn:cubus:store:id:833
-  city: Flå
-  latitude: 60.42990181742891
-  longitude: 9.460773570361312
-
-- location: Flekkefjord
-  urn: urn:cubus:store:id:920
-  city: Flekkefjord
-  latitude: 58.294470171579555
-  longitude: 6.66649210453047
-
 - location: Florø
   urn: urn:cubus:store:id:86C
   city: Florø
   latitude: 61.6008429
   longitude: 5.0379308000000265
-
-- location: Førde
-  urn: urn:cubus:store:id:880
-  city: Førde
-  latitude: 61.45264040416838
-  longitude: 5.848778080889929
-
-- location: Fornebu
-  urn: urn:cubus:store:id:82A
-  city: Fornebu
-  latitude: 59.892405899999986
-  longitude: 10.621475100000017
-
-- location: Fosnavåg
-  urn: urn:cubus:store:id:86A
-  city: Fosnavåg
-  latitude: 62.3414581
-  longitude: 5.634596299999998
-
-- location: Fredrikstad
-  urn: urn:cubus:store:id:818
-  city: Fredrikstad
-  latitude: 59.214203649879614
-  longitude: 10.939731574868802
-
-- location: Futura - Kristiansund
-  urn: urn:cubus:store:id:885
-  city: Kristiansund
-  latitude: 63.11033459999999
-  longitude: 7.72807899999998
-
-- location: Gjøvik
-  urn: urn:cubus:store:id:828
-  city: Gjøvik
-  latitude: 60.7999914
-  longitude: 10.693629099999953
-
-- location: Glasshuset - Bodø
-  urn: urn:cubus:store:id:904
-  city: Bodø
-  latitude: 67.28380806668244
-  longitude: 14.37950420379593
-
-- location: Gol
-  urn: urn:cubus:store:id:83C
-  city: Gol
-  latitude: 60.702015
-  longitude: 8.939202
-
-- location: Gran
-  urn: urn:cubus:store:id:934
-  city: Gran
-  latitude: 60.3565965
-  longitude: 10.572368099999949
-
-- location: Grensen - Oslo
-  urn: urn:cubus:store:id:831
-  city: Oslo
-  latitude: 59.91382464070309
-  longitude: 10.742701434918217
-
-- location: Grimstad
-  urn: urn:cubus:store:id:81F
-  city: Grimstad
-  latitude: 58.3380228
-  longitude: 8.593188399999999
-
-- location: Gulskogen - Drammen
-  urn: urn:cubus:store:id:806
-  city: Drammen
-  latitude: 59.7425313
-  longitude: 10.157976599999984
-
-- location: Hammerfest
-  urn: urn:cubus:store:id:908
-  city: Hammerfest
-  latitude: 70.66391145321505
-  longitude: 23.681977534393354
-
-- location: Harebakken - Arendal
-  urn: urn:cubus:store:id:918
-  city: Arendal
-  latitude: 58.474403502703694
-  longitude: 8.7468802941041
-
-- location: Herkules - Skien
-  urn: urn:cubus:store:id:838
-  city: Skien
-  latitude: 59.19550933591113
-  longitude: 9.602215740228303
-
-- location: Hitra
-  urn: urn:cubus:store:id:89B
-  city: Hitra
-  latitude: 63.60148577185651
-  longitude: 8.977167565942409
-
-- location: Holmensenteret - Asker
-  urn: urn:cubus:store:id:808
-  city: Asker
-  latitude: 59.854382006610656
-  longitude: 10.488459348678589
-
-- location: Holmestrand
-  urn: urn:cubus:store:id:89A
-  city: Holmestrand
-  latitude: 59.490720126955665
-  longitude: 10.315072830990827
-
-- location: Hønefoss
-  urn: urn:cubus:store:id:866
-  city: Hønefoss
-  latitude: 60.164942167245215
-  longitude: 10.255135817596397
-
-- location: Horisont Åsane - Bergen
-  urn: urn:cubus:store:id:82B
-  city: Bergen
-  latitude: 60.46941190000002
-  longitude: 5.323209600000016
-
-- location: Horten
-  urn: urn:cubus:store:id:917
-  city: Horten
-  latitude: 59.41507143827687
-  longitude: 10.485753873541285
-
-- location: Husnes
-  urn: urn:cubus:store:id:84F
-  city: Husnes
-  latitude: 59.86210509022869
-  longitude: 5.756034411175506
-
-- location: Jærhagen
-  urn: urn:cubus:store:id:87D
-  city: Jærhagen
-  latitude: 58.77949198119894
-  longitude: 5.626237039863307
-
-- location: Jekta - Tromsø
-  urn: urn:cubus:store:id:901
-  city: Tromsø
-  latitude: 69.67456589999999
-  longitude: 18.921029699999963
-
-- location: Jessheim
-  urn: urn:cubus:store:id:926
-  city: Jessheim
-  latitude: 60.1426187
-  longitude: 11.171331099999975
-
-- location: Jørpeland
-  urn: urn:cubus:store:id:931
-  city: Jørpeland
-  latitude: 59.020634
-  longitude: 6.039356
-
-- location: Kirkenes
-  urn: urn:cubus:store:id:88F
-  city: Kirkenes
-  latitude: 69.7283005
-  longitude: 30.03737190000004
-
-- location: Kleppestø - Bergen
-  urn: urn:cubus:store:id:873
-  city: Bergen
-  latitude: 60.40907596701919
-  longitude: 5.226848602294922
-
-- location: Kløfta
-  urn: urn:cubus:store:id:930
-  city: Kløfta
-  latitude: 60.0763961
-  longitude: 11.137649199999942
-
-- location: Knarvik - Bergen
-  urn: urn:cubus:store:id:864
-  city: Bergen
-  latitude: 60.5476427
-  longitude: 5.285966799999983
-
-- location: Kongsberg
-  urn: urn:cubus:store:id:809
-  city: Kongsberg
-  latitude: 59.66861532784709
-  longitude: 9.651702862457341
-
-- location: Kristiansund N
-  urn: urn:cubus:store:id:86B
-  city: Kristiansund
-  latitude: 63.11033459999999
-  longitude: 7.72807899999998
-
-- location: Krokstadelva - Drammen
-  urn: urn:cubus:store:id:843
-  city: Drammen
-  latitude: 59.75650132199442
-  longitude: 10.0009391433166
-
-- location: Kvadrat - Sandnes
-  urn: urn:cubus:store:id:856
-  city: Sandnes
-  latitude: 58.87609588540569
-  longitude: 5.721580010131902
-
-- location: Kyrksæterøra - Trondheim
-  urn: urn:cubus:store:id:84E
-  city: Trondheim
-  latitude: 63.2935066
-  longitude: 9.084184100000016
-
-- location: Lagunen - Bergen
-  urn: urn:cubus:store:id:876
-  city: Bergen
-  latitude: 60.297384247298304
-  longitude: 5.328386306762695
-
-- location: Lakselv
-  urn: urn:cubus:store:id:88E
-  city: Lakselv
-  latitude: 70.0513264
-  longitude: 24.971781899999996
-
-- location: Laksevåg - Bergen
-  urn: urn:cubus:store:id:84A
-  city: Bergen
-  latitude: 60.38951369999999
-  longitude: 5.287006600000041
-
-- location: Larvik
-  urn: urn:cubus:store:id:844
-  city: Larvik
-  latitude: 59.06834207041211
-  longitude: 10.04764455338136
-
-- location: Larvik sentrum
-  urn: urn:cubus:store:id:928
-  city: Larvik
-  latitude: 59.05388747951675
-  longitude: 10.028636941278137
-
-- location: Leknes
-  urn: urn:cubus:store:id:900
-  city: Leknes
-  latitude: 68.14863078069003
-  longitude: 13.609502792358398
-
-- location: Levanger
-  urn: urn:cubus:store:id:891
-  city: Levanger
-  latitude: 63.74246523123511
-  longitude: 11.281181495092824
-
-- location: Liertoppen - Lierskogen Drammen
-  urn: urn:cubus:store:id:813
-  city: Lierskogen Drammen
-  latitude: 59.8112927
-  longitude: 10.305845599999998
-
-- location: Lillehammer
-  urn: urn:cubus:store:id:829
-  city: Lillehammer
-  latitude: 61.1180247
-  longitude: 10.464581199999998
-
-- location: Lillesand
-  urn: urn:cubus:store:id:938
-  city: Lillesand
-  latitude: 58.26230036454278
-  longitude: 8.396667618524134
-
-- location: Lillestrøm
-  urn: urn:cubus:store:id:823
-  city: Lillestrøm
-  latitude: 59.9559204
-  longitude: 11.048614100000009
-
-- location: Linderud - Oslo
-  urn: urn:cubus:store:id:860
-  city: Oslo
-  latitude: 59.94308650212516
-  longitude: 10.835428016394076
-
-- location: Lyngdal
-  urn: urn:cubus:store:id:85E
-  city: Lyngdal
-  latitude: 58.1563627
-  longitude: 7.1016961000000265
-
-- location: Madla
-  urn: urn:cubus:store:id:923
-  city: Hafrsfjord
-  latitude: 58.95211962680123
-  longitude: 5.680640434918246
-
-- location: Magasinet - Drammen
-  urn: urn:cubus:store:id:810
-  city: Drammen
-  latitude: 59.7428686675703
-  longitude: 10.206461152917427
-
-- location: Måløy
-  urn: urn:cubus:store:id:886
-  city: Måløy
-  latitude: 61.92693929999999
-  longitude: 5.144690399999945
-
-- location: Malvik - Trondheim
-  urn: urn:cubus:store:id:814
-  city: Trondheim
-  latitude: 63.4208523
-  longitude: 10.751910700000053
-
-- location: Mandal
-  urn: urn:cubus:store:id:88D
-  city: Mandal
-  latitude: 58.0289915565841
-  longitude: 7.46126282215132
-
-- location: Markedet - Haugesund
-  urn: urn:cubus:store:id:871
-  city: Haugesund
-  latitude: 59.41130023554668
-  longitude: 5.273388334918195
-
-- location: Markensgate - Kristiansand
-  urn: urn:cubus:store:id:849
-  city: Kristiansand
-  latitude: 58.14553617180886
-  longitude: 7.993084073066834
-
-- location: Metro - Lørenskog
-  urn: urn:cubus:store:id:824
-  city: Lørenskog
-  latitude: 59.9280505
-  longitude: 10.957561899999973
-
-- location: Mo i Rana
-  urn: urn:cubus:store:id:895
-  city: Mo i Rana
-  latitude: 66.30786389046915
-  longitude: 14.139056682586329
-
-- location: Moa - Ålesund
-  urn: urn:cubus:store:id:883
-  city: Ålesund
-  latitude: 62.4662823
-  longitude: 6.34969030000002
-
-- location: Morenen - Slitu
-  urn: urn:cubus:store:id:924
-  city: Slitu
-  latitude: 59.5788337
-  longitude: 11.277371000000016
-
-- location: Mortensrud - Oslo
-  urn: urn:cubus:store:id:82D
-  city: Oslo
-  latitude: 59.849684
-  longitude: 10.826903
-
-- location: Mosjøen
-  urn: urn:cubus:store:id:894
-  city: Mosjøen
-  latitude: 65.83991935626419
-  longitude: 13.19024793751214
-
-- location: Mosseporten
-  urn: urn:cubus:store:id:816
-  city: Moss
-  latitude: 59.4462438
-  longitude: 10.70323499999995
-
-- location: Namsos
-  urn: urn:cubus:store:id:893
-  city: Namsos
-  latitude: 64.4674192
-  longitude: 11.504148999999984
-
-- location: Narvik
-  urn: urn:cubus:store:id:935
-  city: Narvik
-  latitude: 68.4412579
-  longitude: 17.435294800000065
-
-- location: Nerstranda - Tromsø
-  urn: urn:cubus:store:id:902
-  city: Tromsø
-  latitude: 69.64650069999999
-  longitude: 18.954854899999987
-
-- location: Nordfjordeid
-  urn: urn:cubus:store:id:83E
-  city: Nordfjordeid
-  latitude: 61.90834040000001
-  longitude: 5.98413400000001
-
-- location: Norheimsund
-  urn: urn:cubus:store:id:87F
-  city: Norheimsund
-  latitude: 60.3727568
-  longitude: 6.145360900000014
-
-- location: Notodden
-  urn: urn:cubus:store:id:81E
-  city: Notodden
-  latitude: 59.56625331523872
-  longitude: 9.221664961651868
-
-- location: Oasen - Bergen
-  urn: urn:cubus:store:id:874
-  city: Bergen
-  latitude: 60.3496069
-  longitude: 5.290166999999997
-
-- location: Odda
-  urn: urn:cubus:store:id:88C
-  city: Odda
-  latitude: 60.0690637
-  longitude: 6.54561620000004
-
-- location: Oppdal
-  urn: urn:cubus:store:id:914
-  city: Oppdal
-  latitude: 62.594569670903226
-  longitude: 9.697245886291512
-
-- location: Ørsta
-  urn: urn:cubus:store:id:85F
-  city: Ørsta
-  latitude: 62.199464
-  longitude: 6.123901
-
-- location: Oslo City
-  urn: urn:cubus:store:id:804
-  city: Oslo
-  latitude: 59.912648643445166
-  longitude: 10.751571342327907
-
-- location: Østfoldhallen - Fredrikstad
-  urn: urn:cubus:store:id:820
-  city: Fredrikstad
-  latitude: 59.25231577245754
-  longitude: 10.994511617999251
-
-- location: Otta
-  urn: urn:cubus:store:id:835
-  city: Otta
-  latitude: 61.7714313
-  longitude: 9.54032010000003
-
-- location: Øyrane Torg - Bergen
-  urn: urn:cubus:store:id:922
-  city: Bergen
-  latitude: 60.4213174
-  longitude: 5.465028200000006
-
-- location: Råholt
-  urn: urn:cubus:store:id:87C
-  city: Råholt
-  latitude: 60.28073670000001
-  longitude: 11.17530229999998
-
-- location: Raufoss
-  urn: urn:cubus:store:id:81B
-  city: Gjøvik
-  latitude: 60.72796600000001
-  longitude: 10.614595300000005
-
-- location: Rjukan
-  urn: urn:cubus:store:id:84B
-  city: Rjukan
-  latitude: 59.8791578
-  longitude: 8.591265600000042
-
-- location: Rørvik
-  urn: urn:cubus:store:id:910
-  city: Rørvik
-  latitude: 64.861812
-  longitude: 11.236508200000003
-
-- location: Roseby - Molde
-  urn: urn:cubus:store:id:85A
-  city: Molde
-  latitude: 62.73925089999999
-  longitude: 7.178279299999986
-
-- location: Sandefjord
-  urn: urn:cubus:store:id:841
-  city: Sandefjord
-  latitude: 59.1301949
-  longitude: 10.226146299999982
-
-- location: Sandens - Kristiansand
-  urn: urn:cubus:store:id:863
-  city: Kristiansand
-  latitude: 58.1447418
-  longitude: 7.994760499999984
-
-- location: Sandnessjøen
-  urn: urn:cubus:store:id:83D
-  city: Sandnessjøen
-  latitude: 66.0222926
-  longitude: 12.635135200000036
-
-- location: Sandvika
-  urn: urn:cubus:store:id:815
-  city: Sandvika
-  latitude: 59.8901103
-  longitude: 10.520380899999964
-
-- location: Sannidal
-  urn: urn:cubus:store:id:851
-  city: Sannidal
-  latitude: 58.89519347145662
-  longitude: 9.285370588302762
-
-- location: Sirkus - Trondheim
-  urn: urn:cubus:store:id:911
-  city: Trondheim
-  latitude: 63.43679929999999
-  longitude: 10.455547600000045
-
-- location: Skedsmokorset
-  urn: urn:cubus:store:id:84C
-  city: Skedsmokorset
-  latitude: 60.0007865
-  longitude: 11.040377600000056
-
-- location: Ski
-  urn: urn:cubus:store:id:913
-  city: Ski
-  latitude: 59.7196318
-  longitude: 10.835879500000033
-
-- location: Sogndal
-  urn: urn:cubus:store:id:929
-  city: Sogndal
-  latitude: 61.232029930074454
-  longitude: 7.10203765239271
-
-- location: Solsiden - Trondheim
-  urn: urn:cubus:store:id:912
-  city: Trondheim
-  latitude: 63.43506382397492
-  longitude: 10.411661038220245
-
-- location: Sørlandssenteret - Kristiansand
-  urn: urn:cubus:store:id:848
-  city: Kristiansand
-  latitude: 58.179917
-  longitude: 8.129542300000026
-
-- location: Sortland
-  urn: urn:cubus:store:id:852
-  city: Sortland
-  latitude: 68.69583899999999
-  longitude: 15.416665299999977
 
 - location: Sotra - Bergen
   urn: urn:cubus:store:id:872
@@ -1086,59 +18,65 @@ locations:
   latitude: 60.35769561187827
   longitude: 5.126928982031245
 
-- location: Stathelle
-  urn: urn:cubus:store:id:836
-  city: Stathelle
-  latitude: 59.04586759999999
-  longitude: 9.693864500000018
+- location: Bømlo
+  urn: urn:cubus:store:id:86F
+  city: Bømlo
+  latitude: 59.770779
+  longitude: 5.132525999999984
 
-- location: Steinkjer
-  urn: urn:cubus:store:id:890
-  city: Steinkjer
-  latitude: 64.01165771306832
-  longitude: 11.489698509509253
+- location: Måløy
+  urn: urn:cubus:store:id:886
+  city: Måløy
+  latitude: 61.92693929999999
+  longitude: 5.144690399999945
 
-- location: Stjørdal
-  urn: urn:cubus:store:id:892
-  city: Stjørdal
-  latitude: 63.46892822627596
-  longitude: 10.923861640258792
+- location: Åkrehamn
+  urn: urn:cubus:store:id:869
+  city: Åkrehamn
+  latitude: 59.26421481376275
+  longitude: 5.192456864062478
 
-- location: Stord
-  urn: urn:cubus:store:id:87B
-  city: Stord
-  latitude: 59.7789605
-  longitude: 5.499533499999984
+- location: Kleppestø - Bergen
+  urn: urn:cubus:store:id:873
+  city: Bergen
+  latitude: 60.40907596701919
+  longitude: 5.226848602294922
 
-- location: Storo - Oslo
-  urn: urn:cubus:store:id:803
-  city: Oslo
-  latitude: 59.94585226666434
-  longitude: 10.77494877576828
+- location: Vestkanten - Bergen
+  urn: urn:cubus:store:id:878
+  city: Bergen
+  latitude: 60.3666667
+  longitude: 5.233333300000027
 
-- location: Stovner - Oslo
-  urn: urn:cubus:store:id:83A
-  city: Oslo
-  latitude: 59.962145
-  longitude: 10.924524
+- location: Markedet - Haugesund
+  urn: urn:cubus:store:id:871
+  city: Haugesund
+  latitude: 59.41130023554668
+  longitude: 5.273388334918195
 
-- location: Strandtorget - Lillehammer
-  urn: urn:cubus:store:id:830
-  city: Lillehammer
-  latitude: 61.1145935
-  longitude: 10.452676099999962
+- location: Knarvik - Bergen
+  urn: urn:cubus:store:id:864
+  city: Bergen
+  latitude: 60.5476427
+  longitude: 5.285966799999983
 
-- location: Strømmen
-  urn: urn:cubus:store:id:825
-  city: Strømmen
-  latitude: 59.9472859
-  longitude: 11.007331000000022
+- location: Laksevåg - Bergen
+  urn: urn:cubus:store:id:84A
+  city: Bergen
+  latitude: 60.38951369999999
+  longitude: 5.287006600000041
 
-- location: Stryn
-  urn: urn:cubus:store:id:884
-  city: Stryn
-  latitude: 61.90334169999999
-  longitude: 6.7192079999999805
+- location: Oasen - Bergen
+  urn: urn:cubus:store:id:874
+  city: Bergen
+  latitude: 60.3496069
+  longitude: 5.290166999999997
+
+- location: Horisont Åsane - Bergen
+  urn: urn:cubus:store:id:82B
+  city: Bergen
+  latitude: 60.46941190000002
+  longitude: 5.323209600000016
 
 - location: Sundt - Bergen
   urn: urn:cubus:store:id:879
@@ -1146,35 +84,11 @@ locations:
   latitude: 60.3923113
   longitude: 5.323941300000001
 
-- location: Sunndalsøra
-  urn: urn:cubus:store:id:85B
-  city: Sunndalsøra
-  latitude: 62.6726463
-  longitude: 8.565603199999941
-
-- location: Surna
-  urn: urn:cubus:store:id:85C
-  city: Surnadal
-  latitude: 62.96942211236485
-  longitude: 8.711716668969757
-
-- location: Svolvær
-  urn: urn:cubus:store:id:805
-  city: Svolvær
-  latitude: 68.23426228154676
-  longitude: 14.559476852416537
-
-- location: Tasta - Stavanger
-  urn: urn:cubus:store:id:859
-  city: Stavanger
-  latitude: 58.982923600000014
-  longitude: 5.67381339999999
-
-- location: Tønsberg
-  urn: urn:cubus:store:id:840
-  city: Tønsberg
-  latitude: 59.27069598809341
-  longitude: 10.409407468579047
+- location: Åsane Storsenter - Bergen
+  urn: urn:cubus:store:id:877
+  city: Bergen
+  latitude: 60.46882421632607
+  longitude: 5.324652671813965
 
 - location: Torgallmenningen - Bergen
   urn: urn:cubus:store:id:822
@@ -1182,35 +96,107 @@ locations:
   latitude: 60.3929949
   longitude: 5.3253683
 
-- location: Torggata - Oslo
-  urn: urn:cubus:store:id:812
-  city: Oslo
-  latitude: 59.91326099999999
-  longitude: 10.7467759
+- location: Lagunen - Bergen
+  urn: urn:cubus:store:id:876
+  city: Bergen
+  latitude: 60.297384247298304
+  longitude: 5.328386306762695
 
-- location: Triaden - Lørenskog
-  urn: urn:cubus:store:id:862
-  city: Lørenskog
-  latitude: 59.91859358750254
-  longitude: 10.95252799987793
+- location: Amanda - Haugesund
+  urn: urn:cubus:store:id:870
+  city: Haugesund
+  latitude: 59.39628404616438
+  longitude: 5.331340204229718
 
-- location: Tromsdalen
-  urn: urn:cubus:store:id:927
-  city: Tromsø
-  latitude: 69.6399623
-  longitude: 18.970861799999966
+- location: Bergen Storsenter
+  urn: urn:cubus:store:id:875
+  city: Bergen
+  latitude: 60.39057510353758
+  longitude: 5.33317206776735
 
-- location: Trondheim Torg
-  urn: urn:cubus:store:id:887
-  city: Trondheim
-  latitude: 63.43029683918225
-  longitude: 10.393033410528574
+- location: Amfi Os - Bergen
+  urn: urn:cubus:store:id:81D
+  city: Bergen
+  latitude: 60.202431
+  longitude: 5.45627079999997
 
-- location: Tynset
-  urn: urn:cubus:store:id:86E
-  city: Tynset
-  latitude: 62.2758524
-  longitude: 10.777007899999944
+- location: Øyrane Torg - Bergen
+  urn: urn:cubus:store:id:922
+  city: Bergen
+  latitude: 60.4213174
+  longitude: 5.465028200000006
+
+- location: Stord
+  urn: urn:cubus:store:id:87B
+  city: Stord
+  latitude: 59.7789605
+  longitude: 5.499533499999984
+
+- location: Jærhagen
+  urn: urn:cubus:store:id:87D
+  city: Jærhagen
+  latitude: 58.77949198119894
+  longitude: 5.626237039863307
+
+- location: Fosnavåg
+  urn: urn:cubus:store:id:86A
+  city: Fosnavåg
+  latitude: 62.3414581
+  longitude: 5.634596299999998
+
+- location: Bryne
+  urn: urn:cubus:store:id:857
+  city: Bryne
+  latitude: 58.7354397847771
+  longitude: 5.639826279357976
+
+- location: Tasta - Stavanger
+  urn: urn:cubus:store:id:859
+  city: Stavanger
+  latitude: 58.982923600000014
+  longitude: 5.67381339999999
+
+- location: Madla
+  urn: urn:cubus:store:id:923
+  city: Hafrsfjord
+  latitude: 58.95211962680123
+  longitude: 5.680640434918246
+
+- location: Kvadrat - Sandnes
+  urn: urn:cubus:store:id:856
+  city: Sandnes
+  latitude: 58.87609588540569
+  longitude: 5.721580010131902
+
+- location: Arkaden - Stavanger
+  urn: urn:cubus:store:id:853
+  city: Stavanger
+  latitude: 58.97074747459127
+  longitude: 5.73613367624672
+
+- location: Vågen - Sandnes
+  urn: urn:cubus:store:id:858
+  city: Sandnes
+  latitude: 58.85116482954766
+  longitude: 5.738123875335759
+
+- location: Husnes
+  urn: urn:cubus:store:id:84F
+  city: Husnes
+  latitude: 59.86210509022869
+  longitude: 5.756034411175506
+
+- location: Førde
+  urn: urn:cubus:store:id:880
+  city: Førde
+  latitude: 61.45264040416838
+  longitude: 5.848778080889929
+
+- location: Ålgård
+  urn: urn:cubus:store:id:933
+  city: Ålgård
+  latitude: 58.767080976856064
+  longitude: 5.8502319420138065
 
 - location: Ulsteinvik
   urn: urn:cubus:store:id:87A
@@ -1218,17 +204,137 @@ locations:
   latitude: 62.3397593
   longitude: 5.854989400000022
 
-- location: Vadsø
-  urn: urn:cubus:store:id:88B
-  city: Vadsø
-  latitude: 70.072022
-  longitude: 29.7531391
+- location: Nordfjordeid
+  urn: urn:cubus:store:id:83E
+  city: Nordfjordeid
+  latitude: 61.90834040000001
+  longitude: 5.98413400000001
 
-- location: Vågen - Sandnes
-  urn: urn:cubus:store:id:858
-  city: Sandnes
-  latitude: 58.85116482954766
-  longitude: 5.738123875335759
+- location: Egersund
+  urn: urn:cubus:store:id:855
+  city: Egersund
+  latitude: 58.45306422502407
+  longitude: 6.004177551940984
+
+- location: Jørpeland
+  urn: urn:cubus:store:id:931
+  city: Jørpeland
+  latitude: 59.020634
+  longitude: 6.039356
+
+- location: Volda
+  urn: urn:cubus:store:id:87E
+  city: Volda
+  latitude: 62.1449453
+  longitude: 6.067282299999988
+
+- location: Ørsta
+  urn: urn:cubus:store:id:85F
+  city: Ørsta
+  latitude: 62.199464
+  longitude: 6.123901
+
+- location: Norheimsund
+  urn: urn:cubus:store:id:87F
+  city: Norheimsund
+  latitude: 60.3727568
+  longitude: 6.145360900000014
+
+- location: Ålesund
+  urn: urn:cubus:store:id:882
+  city: Ålesund
+  latitude: 62.4728611
+  longitude: 6.157816099999991
+
+- location: Moa - Ålesund
+  urn: urn:cubus:store:id:883
+  city: Ålesund
+  latitude: 62.4662823
+  longitude: 6.34969030000002
+
+- location: Voss
+  urn: urn:cubus:store:id:88A
+  city: Voss
+  latitude: 60.6294754
+  longitude: 6.434212099999968
+
+- location: Odda
+  urn: urn:cubus:store:id:88C
+  city: Odda
+  latitude: 60.0690637
+  longitude: 6.54561620000004
+
+- location: Flekkefjord
+  urn: urn:cubus:store:id:920
+  city: Flekkefjord
+  latitude: 58.294470171579555
+  longitude: 6.66649210453047
+
+- location: Stryn
+  urn: urn:cubus:store:id:884
+  city: Stryn
+  latitude: 61.90334169999999
+  longitude: 6.7192079999999805
+
+- location: Farsund
+  urn: urn:cubus:store:id:83B
+  city: Farsund
+  latitude: 58.0959674
+  longitude: 6.803509599999984
+
+- location: Vestnes
+  urn: urn:cubus:store:id:868
+  city: Vestnes
+  latitude: 62.6264365
+  longitude: 7.088384099999985
+
+- location: Lyngdal
+  urn: urn:cubus:store:id:85E
+  city: Lyngdal
+  latitude: 58.1563627
+  longitude: 7.1016961000000265
+
+- location: Sogndal
+  urn: urn:cubus:store:id:929
+  city: Sogndal
+  latitude: 61.232029930074454
+  longitude: 7.10203765239271
+
+- location: Roseby - Molde
+  urn: urn:cubus:store:id:85A
+  city: Molde
+  latitude: 62.73925089999999
+  longitude: 7.178279299999986
+
+- location: Mandal
+  urn: urn:cubus:store:id:88D
+  city: Mandal
+  latitude: 58.0289915565841
+  longitude: 7.46126282215132
+
+- location: Åndalsnes
+  urn: urn:cubus:store:id:86D
+  city: Åndalsnes
+  latitude: 62.5674461
+  longitude: 7.687220000000025
+
+- location: Futura - Kristiansund
+  urn: urn:cubus:store:id:885
+  city: Kristiansund
+  latitude: 63.11033459999999
+  longitude: 7.72807899999998
+
+- location: Kristiansund N
+  urn: urn:cubus:store:id:86B
+  city: Kristiansund
+  latitude: 63.11033459999999
+  longitude: 7.72807899999998
+
+- location: Evje
+  urn: urn:cubus:store:id:83F
+  city: Evje
+  latitude: 58.5871382
+  longitude: 7.807359399999996
 
 - location: Vågsbygd - Kristiansand
   urn: urn:cubus:store:id:847
@@ -1242,11 +348,353 @@ locations:
   latitude: 58.27081124396245
   longitude: 7.971070289611952
 
-- location: Verdal
-  urn: urn:cubus:store:id:888
-  city: Verdal
-  latitude: 63.79179650594676
-  longitude: 11.485070200555356
+- location: Markensgate - Kristiansand
+  urn: urn:cubus:store:id:849
+  city: Kristiansand
+  latitude: 58.14553617180886
+  longitude: 7.993084073066834
+
+- location: Sandens - Kristiansand
+  urn: urn:cubus:store:id:863
+  city: Kristiansand
+  latitude: 58.1447418
+  longitude: 7.994760499999984
+
+- location: Sørlandssenteret - Kristiansand
+  urn: urn:cubus:store:id:848
+  city: Kristiansand
+  latitude: 58.179917
+  longitude: 8.129542300000026
+
+- location: Lillesand
+  urn: urn:cubus:store:id:938
+  city: Lillesand
+  latitude: 58.26230036454278
+  longitude: 8.396667618524134
+
+- location: Sunndalsøra
+  urn: urn:cubus:store:id:85B
+  city: Sunndalsøra
+  latitude: 62.6726463
+  longitude: 8.565603199999941
+
+- location: Rjukan
+  urn: urn:cubus:store:id:84B
+  city: Rjukan
+  latitude: 59.8791578
+  longitude: 8.591265600000042
+
+- location: Grimstad
+  urn: urn:cubus:store:id:81F
+  city: Grimstad
+  latitude: 58.3380228
+  longitude: 8.593188399999999
+
+- location: Surna
+  urn: urn:cubus:store:id:85C
+  city: Surnadal
+  latitude: 62.96942211236485
+  longitude: 8.711716668969757
+
+- location: Harebakken - Arendal
+  urn: urn:cubus:store:id:918
+  city: Arendal
+  latitude: 58.474403502703694
+  longitude: 8.7468802941041
+
+- location: Alti Arendal
+  urn: urn:cubus:store:id:89D
+  city: Arendal
+  latitude: 58.45978643690264
+  longitude: 8.764156579971448
+
+- location: Gol
+  urn: urn:cubus:store:id:83C
+  city: Gol
+  latitude: 60.702015
+  longitude: 8.939202
+
+- location: Hitra
+  urn: urn:cubus:store:id:89B
+  city: Hitra
+  latitude: 63.60148577185651
+  longitude: 8.977167565942409
+
+- location: Bø
+  urn: urn:cubus:store:id:89C
+  city: Bø
+  latitude: 59.41386752742168
+  longitude: 9.065095480755872
+
+- location: Kyrksæterøra - Trondheim
+  urn: urn:cubus:store:id:84E
+  city: Trondheim
+  latitude: 63.2935066
+  longitude: 9.084184100000016
+
+- location: Notodden
+  urn: urn:cubus:store:id:81E
+  city: Notodden
+  latitude: 59.56625331523872
+  longitude: 9.221664961651868
+
+- location: Fagernes
+  urn: urn:cubus:store:id:921
+  city: Fagernes
+  latitude: 60.9856452
+  longitude: 9.231857499999933
+
+- location: Sannidal
+  urn: urn:cubus:store:id:851
+  city: Sannidal
+  latitude: 58.89519347145662
+  longitude: 9.285370588302762
+
+- location: Flå
+  urn: urn:cubus:store:id:833
+  city: Flå
+  latitude: 60.42990181742891
+  longitude: 9.460773570361312
+
+- location: Otta
+  urn: urn:cubus:store:id:835
+  city: Otta
+  latitude: 61.7714313
+  longitude: 9.54032010000003
+
+- location: Arkaden Skien
+  urn: urn:cubus:store:id:837
+  city: Skien
+  latitude: 59.19550933591113
+  longitude: 9.602215740228303
+
+- location: Herkules - Skien
+  urn: urn:cubus:store:id:838
+  city: Skien
+  latitude: 59.19550933591113
+  longitude: 9.602215740228303
+
+- location: Down Town - Porsgrunn
+  urn: urn:cubus:store:id:839
+  city: Porsgrunn
+  latitude: 59.1382508304896
+  longitude: 9.642440619018544
+
+- location: Kongsberg
+  urn: urn:cubus:store:id:809
+  city: Kongsberg
+  latitude: 59.66861532784709
+  longitude: 9.651702862457341
+
+- location: Brekstad
+  urn: urn:cubus:store:id:81C
+  city: Brekstad
+  latitude: 63.6926869
+  longitude: 9.660779200000018
+
+- location: Stathelle
+  urn: urn:cubus:store:id:836
+  city: Stathelle
+  latitude: 59.04586759999999
+  longitude: 9.693864500000018
+
+- location: Oppdal
+  urn: urn:cubus:store:id:914
+  city: Oppdal
+  latitude: 62.594569670903226
+  longitude: 9.697245886291512
+
+- location: AMFI Orkanger
+  urn: urn:cubus:store:id:82F
+  city: Orkanger
+  latitude: 63.2974695
+  longitude: 9.844470300000012
+
+- location: Krokstadelva - Drammen
+  urn: urn:cubus:store:id:843
+  city: Drammen
+  latitude: 59.75650132199442
+  longitude: 10.0009391433166
+
+- location: Larvik sentrum
+  urn: urn:cubus:store:id:928
+  city: Larvik
+  latitude: 59.05388747951675
+  longitude: 10.028636941278137
+
+- location: Larvik
+  urn: urn:cubus:store:id:844
+  city: Larvik
+  latitude: 59.06834207041211
+  longitude: 10.04764455338136
+
+- location: Dokka
+  urn: urn:cubus:store:id:846
+  city: Dokka
+  latitude: 60.836190005483736
+  longitude: 10.070967425994922
+
+- location: Gulskogen - Drammen
+  urn: urn:cubus:store:id:806
+  city: Drammen
+  latitude: 59.7425313
+  longitude: 10.157976599999984
+
+- location: Magasinet - Drammen
+  urn: urn:cubus:store:id:810
+  city: Drammen
+  latitude: 59.7428686675703
+  longitude: 10.206461152917427
+
+- location: Sandefjord
+  urn: urn:cubus:store:id:841
+  city: Sandefjord
+  latitude: 59.1301949
+  longitude: 10.226146299999982
+
+- location: Hønefoss
+  urn: urn:cubus:store:id:866
+  city: Hønefoss
+  latitude: 60.164942167245215
+  longitude: 10.255135817596397
+
+- location: Liertoppen - Lierskogen Drammen
+  urn: urn:cubus:store:id:813
+  city: Lierskogen Drammen
+  latitude: 59.8112927
+  longitude: 10.305845599999998
+
+- location: Holmestrand
+  urn: urn:cubus:store:id:89A
+  city: Holmestrand
+  latitude: 59.490720126955665
+  longitude: 10.315072830990827
+
+- location: City Syd - Trondheim
+  urn: urn:cubus:store:id:889
+  city: Trondheim
+  latitude: 63.36154173950834
+  longitude: 10.376775741577148
+
+- location: Trondheim Torg
+  urn: urn:cubus:store:id:887
+  city: Trondheim
+  latitude: 63.43029683918225
+  longitude: 10.393033410528574
+
+- location: Tønsberg
+  urn: urn:cubus:store:id:840
+  city: Tønsberg
+  latitude: 59.27069598809341
+  longitude: 10.409407468579047
+
+- location: Solsiden - Trondheim
+  urn: urn:cubus:store:id:912
+  city: Trondheim
+  latitude: 63.43506382397492
+  longitude: 10.411661038220245
+
+- location: Asker
+  urn: urn:cubus:store:id:932
+  city: Asker
+  latitude: 59.836934875194636
+  longitude: 10.434300004229726
+
+- location: City Lade - Trondheim
+  urn: urn:cubus:store:id:81A
+  city: Trondheim
+  latitude: 63.4436928
+  longitude: 10.44652510000005
+
+- location: Strandtorget - Lillehammer
+  urn: urn:cubus:store:id:830
+  city: Lillehammer
+  latitude: 61.1145935
+  longitude: 10.452676099999962
+
+- location: Sirkus - Trondheim
+  urn: urn:cubus:store:id:911
+  city: Trondheim
+  latitude: 63.43679929999999
+  longitude: 10.455547600000045
+
+- location: Lillehammer
+  urn: urn:cubus:store:id:829
+  city: Lillehammer
+  latitude: 61.1180247
+  longitude: 10.464581199999998
+
+- location: Horten
+  urn: urn:cubus:store:id:917
+  city: Horten
+  latitude: 59.41507143827687
+  longitude: 10.485753873541285
+
+- location: Holmensenteret - Asker
+  urn: urn:cubus:store:id:808
+  city: Asker
+  latitude: 59.854382006610656
+  longitude: 10.488459348678589
+
+- location: Sandvika
+  urn: urn:cubus:store:id:815
+  city: Sandvika
+  latitude: 59.8901103
+  longitude: 10.520380899999964
+
+- location: Gran
+  urn: urn:cubus:store:id:934
+  city: Gran
+  latitude: 60.3565965
+  longitude: 10.572368099999949
+
+- location: Raufoss
+  urn: urn:cubus:store:id:81B
+  city: Gjøvik
+  latitude: 60.72796600000001
+  longitude: 10.614595300000005
+
+- location: Fornebu
+  urn: urn:cubus:store:id:82A
+  city: Fornebu
+  latitude: 59.892405899999986
+  longitude: 10.621475100000017
+
+- location: CC Vest - Lysaker
+  urn: urn:cubus:store:id:807
+  city: Oslo
+  latitude: 59.9176496
+  longitude: 10.636358900000005
+
+- location: AMFI Moss
+  urn: urn:cubus:store:id:89E
+  city: Moss
+  latitude: 59.4362761
+  longitude: 10.6649225
+
+- location: Gjøvik
+  urn: urn:cubus:store:id:828
+  city: Gjøvik
+  latitude: 60.7999914
+  longitude: 10.693629099999953
+
+- location: Mosseporten
+  urn: urn:cubus:store:id:816
+  city: Moss
+  latitude: 59.4462438
+  longitude: 10.70323499999995
+
+- location: Bogstadveien
+  urn: urn:cubus:store:id:861
+  city: Oslo
+  latitude: 59.92554
+  longitude: 10.72222
+
+- location: Grensen - Oslo
+  urn: urn:cubus:store:id:831
+  city: Oslo
+  latitude: 59.91382464070309
+  longitude: 10.742701434918217
 
 - location: Vestby
   urn: urn:cubus:store:id:939
@@ -1254,17 +702,23 @@ locations:
   latitude: 59.60236559999999
   longitude: 10.7466766
 
-- location: Vestkanten - Bergen
-  urn: urn:cubus:store:id:878
-  city: Bergen
-  latitude: 60.3666667
-  longitude: 5.233333300000027
+- location: Torggata - Oslo
+  urn: urn:cubus:store:id:812
+  city: Oslo
+  latitude: 59.91326099999999
+  longitude: 10.7467759
 
-- location: Vestnes
-  urn: urn:cubus:store:id:868
-  city: Vestnes
-  latitude: 62.6264365
-  longitude: 7.088384099999985
+- location: Oslo City
+  urn: urn:cubus:store:id:804
+  city: Oslo
+  latitude: 59.912648643445166
+  longitude: 10.751571342327907
+
+- location: Malvik - Trondheim
+  urn: urn:cubus:store:id:814
+  city: Trondheim
+  latitude: 63.4208523
+  longitude: 10.751910700000053
 
 - location: Vinterbro
   urn: urn:cubus:store:id:821
@@ -1272,11 +726,161 @@ locations:
   latitude: 59.7397303
   longitude: 10.771300300000007
 
-- location: Volda
-  urn: urn:cubus:store:id:87E
-  city: Volda
-  latitude: 62.1449453
-  longitude: 6.067282299999988
+- location: Storo - Oslo
+  urn: urn:cubus:store:id:803
+  city: Oslo
+  latitude: 59.94585226666434
+  longitude: 10.77494877576828
+
+- location: Tynset
+  urn: urn:cubus:store:id:86E
+  city: Tynset
+  latitude: 62.2758524
+  longitude: 10.777007899999944
+
+- location: Bryn - Oslo
+  urn: urn:cubus:store:id:811
+  city: Oslo
+  latitude: 59.90355608628896
+  longitude: 10.821312024853569
+
+- location: Mortensrud - Oslo
+  urn: urn:cubus:store:id:82D
+  city: Oslo
+  latitude: 59.849684
+  longitude: 10.826903
+
+- location: Linderud - Oslo
+  urn: urn:cubus:store:id:860
+  city: Oslo
+  latitude: 59.94308650212516
+  longitude: 10.835428016394076
+
+- location: Ski
+  urn: urn:cubus:store:id:913
+  city: Ski
+  latitude: 59.7196318
+  longitude: 10.835879500000033
+
+- location: Stjørdal
+  urn: urn:cubus:store:id:892
+  city: Stjørdal
+  latitude: 63.46892822627596
+  longitude: 10.923861640258792
+
+- location: Stovner - Oslo
+  urn: urn:cubus:store:id:83A
+  city: Oslo
+  latitude: 59.962145
+  longitude: 10.924524
+
+- location: Fredrikstad
+  urn: urn:cubus:store:id:818
+  city: Fredrikstad
+  latitude: 59.214203649879614
+  longitude: 10.939731574868802
+
+- location: Triaden - Lørenskog
+  urn: urn:cubus:store:id:862
+  city: Lørenskog
+  latitude: 59.91859358750254
+  longitude: 10.95252799987793
+
+- location: Metro - Lørenskog
+  urn: urn:cubus:store:id:824
+  city: Lørenskog
+  latitude: 59.9280505
+  longitude: 10.957561899999973
+
+- location: Østfoldhallen - Fredrikstad
+  urn: urn:cubus:store:id:820
+  city: Fredrikstad
+  latitude: 59.25231577245754
+  longitude: 10.994511617999251
+
+- location: Strømmen
+  urn: urn:cubus:store:id:825
+  city: Strømmen
+  latitude: 59.9472859
+  longitude: 11.007331000000022
+
+- location: Skedsmokorset
+  urn: urn:cubus:store:id:84C
+  city: Skedsmokorset
+  latitude: 60.0007865
+  longitude: 11.040377600000056
+
+- location: Lillestrøm
+  urn: urn:cubus:store:id:823
+  city: Lillestrøm
+  latitude: 59.9559204
+  longitude: 11.048614100000009
+
+- location: CC Stadion - Hamar
+  urn: urn:cubus:store:id:82C
+  city: Hamar
+  latitude: 60.794939600000006
+  longitude: 11.078641600000001
+
+- location: Kløfta
+  urn: urn:cubus:store:id:930
+  city: Kløfta
+  latitude: 60.0763961
+  longitude: 11.137649199999942
+
+- location: Askim
+  urn: urn:cubus:store:id:817
+  city: Askim
+  latitude: 59.58299076585734
+  longitude: 11.16561064232792
+
+- location: Jessheim
+  urn: urn:cubus:store:id:926
+  city: Jessheim
+  latitude: 60.1426187
+  longitude: 11.171331099999975
+
+- location: Råholt
+  urn: urn:cubus:store:id:87C
+  city: Råholt
+  latitude: 60.28073670000001
+  longitude: 11.17530229999998
+
+- location: Strömstad shoppingcenter
+  urn: urn:cubus:store:id:R17
+  city: Strömstad
+  latitude: 58.9462491
+  longitude: 11.188438799999972
+
+- location: Strömstad Nordby köpcenter
+  urn: urn:cubus:store:id:C36
+  city: Strömstad
+  latitude: 59.06439531676326
+  longitude: 11.207715736242676
+
+- location: Rørvik
+  urn: urn:cubus:store:id:910
+  city: Rørvik
+  latitude: 64.861812
+  longitude: 11.236508200000003
+
+- location: Morenen - Slitu
+  urn: urn:cubus:store:id:924
+  city: Slitu
+  latitude: 59.5788337
+  longitude: 11.277371000000016
+
+- location: Levanger
+  urn: urn:cubus:store:id:891
+  city: Levanger
+  latitude: 63.74246523123511
+  longitude: 11.281181495092824
+
+- location: Tanum
+  urn: urn:cubus:store:id:R14
+  city: Tanum
+  latitude: 58.72116239999999
+  longitude: 11.346728900000027
 
 - location: Vormsund
   urn: urn:cubus:store:id:867
@@ -1284,47 +888,47 @@ locations:
   latitude: 60.151119547191705
   longitude: 11.410734828002887
 
-- location: Voss
-  urn: urn:cubus:store:id:88A
-  city: Voss
-  latitude: 60.6294754
-  longitude: 6.434212099999968
+- location: Verdal
+  urn: urn:cubus:store:id:888
+  city: Verdal
+  latitude: 63.79179650594676
+  longitude: 11.485070200555356
 
-- location: Borås
-  urn: urn:cubus:store:id:C79
-  city: Borås
-  latitude: 57.73304623961419
-  longitude: 12.940530517999264
+- location: Steinkjer
+  urn: urn:cubus:store:id:890
+  city: Steinkjer
+  latitude: 64.01165771306832
+  longitude: 11.489698509509253
 
-- location: Borlänge
-  urn: urn:cubus:store:id:C71
-  city: Borlänge
-  latitude: 60.4841664
-  longitude: 15.417970800000035
+- location: Namsos
+  urn: urn:cubus:store:id:893
+  city: Namsos
+  latitude: 64.4674192
+  longitude: 11.504148999999984
 
-- location: Charlottenberg
-  urn: urn:cubus:store:id:C84
-  city: Charlottenberg
-  latitude: 59.88084651481252
-  longitude: 12.288277434393308
+- location: Elverum
+  urn: urn:cubus:store:id:834
+  city: Elverum
+  latitude: 60.87816830000001
+  longitude: 11.56557459999999
 
-- location: Eskilstuna Tuna Park
-  urn: urn:cubus:store:id:C70
-  city: Eskilstuna
-  latitude: 59.3720175
-  longitude: 16.46906739999997
+- location: Bjørkelangen
+  urn: urn:cubus:store:id:881
+  city: Bjørkelangen
+  latitude: 59.88406519999999
+  longitude: 11.568471000000045
 
-- location: Falun
-  urn: urn:cubus:store:id:C34
-  city: Falun
-  latitude: 60.6054888
-  longitude: 15.632997400000022
+- location: Uddevalla Torp
+  urn: urn:cubus:store:id:R08
+  city: Uddevalla
+  latitude: 58.35386579999999
+  longitude: 11.810428699999989
 
-- location: Gävle Valbo
-  urn: urn:cubus:store:id:C33
-  city: Gävle
-  latitude: 60.633674568085176
-  longitude: 16.992738548596208
+- location: Töcksfors
+  urn: urn:cubus:store:id:C77
+  city: Töcksfors
+  latitude: 59.50578881634009
+  longitude: 11.844652361901808
 
 - location: Göteborg Frölunda Torg
   urn: urn:cubus:store:id:C48
@@ -1332,17 +936,53 @@ locations:
   latitude: 57.65233109999999
   longitude: 11.909260200000062
 
+- location: Kungälv
+  urn: urn:cubus:store:id:R28
+  city: Kungälv
+  latitude: 57.874176
+  longitude: 11.968201099999987
+
 - location: Göteborg Nordstan
   urn: urn:cubus:store:id:C76
   city: Göteborg
   latitude: 57.70744326517507
   longitude: 11.969423973016319
 
-- location: Halmstad Hallarna
-  urn: urn:cubus:store:id:C81
-  city: Halmstad
-  latitude: 56.6553285
-  longitude: 12.911350599999992
+- location: Mölndal
+  urn: urn:cubus:store:id:R25
+  city: Mölndal
+  latitude: 57.65530099999999
+  longitude: 12.012981699999955
+
+- location: Brønnøysund
+  urn: urn:cubus:store:id:896
+  city: Brønnøysund
+  latitude: 65.4733552
+  longitude: 12.210100099999977
+
+- location: Varberg
+  urn: urn:cubus:store:id:R23
+  city: Varberg
+  latitude: 57.1091179
+  longitude: 12.248840299999983
+
+- location: Charlottenberg
+  urn: urn:cubus:store:id:C84
+  city: Charlottenberg
+  latitude: 59.88084651481252
+  longitude: 12.288277434393308
+
+- location: Trollhättan SIBA-huset
+  urn: urn:cubus:store:id:C65
+  city: Trollhättan
+  latitude: 58.31257822156329
+  longitude: 12.307989696386699
+
+- location: Sandnessjøen
+  urn: urn:cubus:store:id:83D
+  city: Sandnessjøen
+  latitude: 66.0222926
+  longitude: 12.635135200000036
 
 - location: Helsingborg Väla
   urn: urn:cubus:store:id:C55
@@ -1350,35 +990,65 @@ locations:
   latitude: 56.09202935075033
   longitude: 12.75530167403565
 
-- location: Jönköping Asecs
-  urn: urn:cubus:store:id:R27
-  city: Jönköping
-  latitude: 57.7737659
-  longitude: 14.20362399999999
+- location: Halmstad Hallarna
+  urn: urn:cubus:store:id:C81
+  city: Halmstad
+  latitude: 56.6553285
+  longitude: 12.911350599999992
 
-- location: Kalmar
-  urn: urn:cubus:store:id:C35
-  city: Kalmar
-  latitude: 56.6870117
-  longitude: 16.320157999999992
+- location: Borås
+  urn: urn:cubus:store:id:C79
+  city: Borås
+  latitude: 57.73304623961419
+  longitude: 12.940530517999264
 
-- location: Karlshamn
-  urn: urn:cubus:store:id:C72
-  city: Karlshamn
-  latitude: 56.17060005427082
-  longitude: 14.860700211639369
+- location: Malmö Emporia
+  urn: urn:cubus:store:id:R05
+  city: Malmö
+  latitude: 55.56361339999999
+  longitude: 12.974653999999987
 
-- location: Karlskrona
-  urn: urn:cubus:store:id:C66
-  city: Karlskrona
-  latitude: 56.16128764111755
-  longitude: 15.582838651512134
+- location: Löddeköpinge
+  urn: urn:cubus:store:id:C63
+  city: Löddeköpinge
+  latitude: 55.76878975523442
+  longitude: 12.988590498034682
 
-- location: Karlskrona Amiralen
-  urn: urn:cubus:store:id:C67
-  city: Karlskrona
-  latitude: 56.1969697
-  longitude: 15.641606499999966
+- location: Malmö Triangeln
+  urn: urn:cubus:store:id:R09
+  city: Malmö
+  latitude: 55.59517020000001
+  longitude: 13.0011678
+
+- location: Malmö Mobilia
+  urn: urn:cubus:store:id:R10
+  city: Malmö
+  latitude: 55.5823865
+  longitude: 13.003158699999972
+
+- location: Lidköping
+  urn: urn:cubus:store:id:C86
+  city: Lidköping
+  latitude: 58.50459000000001
+  longitude: 13.155013599999961
+
+- location: Lund - Nova Lund
+  urn: urn:cubus:store:id:R06
+  city: Lund
+  latitude: 55.7139403
+  longitude: 13.159958200000005
+
+- location: Mosjøen
+  urn: urn:cubus:store:id:894
+  city: Mosjøen
+  latitude: 65.83991935626419
+  longitude: 13.19024793751214
+
+- location: Karlstad Bergvik
+  urn: urn:cubus:store:id:R19
+  city: Karlstad
+  latitude: 59.3774841
+  longitude: 13.424850300000003
 
 - location: Karlstad
   urn: urn:cubus:store:id:C57
@@ -1386,11 +1056,23 @@ locations:
   latitude: 59.3801119
   longitude: 13.49957089999998
 
-- location: Karlstad Bergvik
-  urn: urn:cubus:store:id:R19
-  city: Karlstad
-  latitude: 59.3774841
-  longitude: 13.424850300000003
+- location: Leknes
+  urn: urn:cubus:store:id:900
+  city: Leknes
+  latitude: 68.14863078069003
+  longitude: 13.609502792358398
+
+- location: Skövde
+  urn: urn:cubus:store:id:C30
+  city: Skövde
+  latitude: 58.405364915061455
+  longitude: 13.856608494195598
+
+- location: Mo i Rana
+  urn: urn:cubus:store:id:895
+  city: Mo i Rana
+  latitude: 66.30786389046915
+  longitude: 14.139056682586329
 
 - location: Kristianstad
   urn: urn:cubus:store:id:C94
@@ -1404,23 +1086,83 @@ locations:
   latitude: 56.0267309
   longitude: 14.202255
 
-- location: Kungälv
-  urn: urn:cubus:store:id:R28
-  city: Kungälv
-  latitude: 57.874176
-  longitude: 11.968201099999987
+- location: Jönköping Asecs
+  urn: urn:cubus:store:id:R27
+  city: Jönköping
+  latitude: 57.7737659
+  longitude: 14.20362399999999
 
-- location: Lidköping
-  urn: urn:cubus:store:id:C86
-  city: Lidköping
-  latitude: 58.50459000000001
-  longitude: 13.155013599999961
+- location: Glasshuset - Bodø
+  urn: urn:cubus:store:id:904
+  city: Bodø
+  latitude: 67.28380806668244
+  longitude: 14.37950420379593
 
-- location: Linköping Galleria Gränden
-  urn: urn:cubus:store:id:C56
-  city: Linköping
-  latitude: 58.40947709230232
-  longitude: 15.626891769203212
+- location: City Nord - Bodø
+  urn: urn:cubus:store:id:905
+  city: Bodø
+  latitude: 67.28402350793554
+  longitude: 14.408450603484653
+
+- location: Mora
+  urn: urn:cubus:store:id:C88
+  city: Mora
+  latitude: 61.0044590028574
+  longitude: 14.537786942327898
+
+- location: Svolvær
+  urn: urn:cubus:store:id:805
+  city: Svolvær
+  latitude: 68.23426228154676
+  longitude: 14.559476852416537
+
+- location: Östersund
+  urn: urn:cubus:store:id:C39
+  city: Östersund
+  latitude: 63.17580740000002
+  longitude: 14.638429107934599
+
+- location: Växjö
+  urn: urn:cubus:store:id:C46
+  city: Växjö
+  latitude: 56.88479754191543
+  longitude: 14.7665735319855
+
+- location: Karlshamn
+  urn: urn:cubus:store:id:C72
+  city: Karlshamn
+  latitude: 56.17060005427082
+  longitude: 14.860700211639369
+
+- location: Örebro Marieberg
+  urn: urn:cubus:store:id:C97
+  city: Örebro
+  latitude: 59.217948907979086
+  longitude: 15.137673319580017
+
+- location: Fauske
+  urn: urn:cubus:store:id:903
+  city: Fauske
+  latitude: 67.2583222
+  longitude: 15.395789400000012
+
+- location: Sortland
+  urn: urn:cubus:store:id:852
+  city: Sortland
+  latitude: 68.69583899999999
+  longitude: 15.416665299999977
+
+- location: Borlänge
+  urn: urn:cubus:store:id:C71
+  city: Borlänge
+  latitude: 60.4841664
+  longitude: 15.417970800000035
+
+- location: Karlskrona
+  urn: urn:cubus:store:id:C66
+  city: Karlskrona
+  latitude: 56.16128764111755
+  longitude: 15.582838651512134
 
 - location: Linköping i-Huset
   urn: urn:cubus:store:id:C61
@@ -1428,53 +1170,29 @@ locations:
   latitude: 58.43430063896864
   longitude: 15.585309204199234
 
-- location: Löddeköpinge
-  urn: urn:cubus:store:id:C63
-  city: Löddeköpinge
-  latitude: 55.76878975523442
-  longitude: 12.988590498034682
+- location: Linköping Galleria Gränden
+  urn: urn:cubus:store:id:C56
+  city: Linköping
+  latitude: 58.40947709230232
+  longitude: 15.626891769203212
 
-- location: Luleå Smedjan Gallerian
-  urn: urn:cubus:store:id:C59
-  city: Smedjan Gallerian
-  latitude: 65.583985
-  longitude: 22.153227
+- location: Falun
+  urn: urn:cubus:store:id:C34
+  city: Falun
+  latitude: 60.6054888
+  longitude: 15.632997400000022
 
-- location: Lund - Nova Lund
-  urn: urn:cubus:store:id:R06
-  city: Lund
-  latitude: 55.7139403
-  longitude: 13.159958200000005
+- location: Karlskrona Amiralen
+  urn: urn:cubus:store:id:C67
+  city: Karlskrona
+  latitude: 56.1969697
+  longitude: 15.641606499999966
 
-- location: Malmö Emporia
-  urn: urn:cubus:store:id:R05
-  city: Malmö
-  latitude: 55.56361339999999
-  longitude: 12.974653999999987
-
-- location: Malmö Mobilia
-  urn: urn:cubus:store:id:R10
-  city: Malmö
-  latitude: 55.5823865
-  longitude: 13.003158699999972
-
-- location: Malmö Triangeln
-  urn: urn:cubus:store:id:R09
-  city: Malmö
-  latitude: 55.59517020000001
-  longitude: 13.0011678
-
-- location: Mölndal
-  urn: urn:cubus:store:id:R25
-  city: Mölndal
-  latitude: 57.65530099999999
-  longitude: 12.012981699999955
-
-- location: Mora
-  urn: urn:cubus:store:id:C88
-  city: Mora
-  latitude: 61.0044590028574
-  longitude: 14.537786942327898
+- location: Vimmerby
+  urn: urn:cubus:store:id:C89
+  city: Vimmerby
+  latitude: 57.666486451941395
+  longitude: 15.853699000000006
 
 - location: Norrköping Ingelsta
   urn: urn:cubus:store:id:C31
@@ -1494,23 +1212,11 @@ locations:
   latitude: 58.57299423634448
   longitude: 16.21099350422969
 
-- location: Nyköping
-  urn: urn:cubus:store:id:C32
-  city: Nyköping
-  latitude: 58.75145820963789
-  longitude: 17.003530331877073
-
-- location: Örebro Marieberg
-  urn: urn:cubus:store:id:C97
-  city: Örebro
-  latitude: 59.217948907979086
-  longitude: 15.137673319580017
-
-- location: Örnsköldsvik
-  urn: urn:cubus:store:id:C92
-  city: Örnsköldsvik
-  latitude: 63.28928053934471
-  longitude: 18.71456523544316
+- location: Kalmar
+  urn: urn:cubus:store:id:C35
+  city: Kalmar
+  latitude: 56.6870117
+  longitude: 16.320157999999992
 
 - location: Oskarshamn
   urn: urn:cubus:store:id:R24
@@ -1518,77 +1224,47 @@ locations:
   latitude: 57.2642772
   longitude: 16.446604200000024
 
-- location: Östersund
-  urn: urn:cubus:store:id:C39
-  city: Östersund
-  latitude: 63.17580740000002
-  longitude: 14.638429107934599
+- location: Västerås Erikslund
+  urn: urn:cubus:store:id:C47
+  city: Västerås
+  latitude: 59.611242
+  longitude: 16.462113300000055
 
-- location: Piteå
-  urn: urn:cubus:store:id:C96
-  city: Piteå
-  latitude: 65.3169268996826
-  longitude: 21.479732471827674
+- location: Eskilstuna Tuna Park
+  urn: urn:cubus:store:id:C70
+  city: Eskilstuna
+  latitude: 59.3720175
+  longitude: 16.46906739999997
 
-- location: Skellefteå
-  urn: urn:cubus:store:id:C74
-  city: Skellefteå
-  latitude: 64.7500853
-  longitude: 20.954399700000067
+- location: Västerås Kvarteret Igor
+  urn: urn:cubus:store:id:R12
+  city: Västerås
+  latitude: 59.611817000000016
+  longitude: 16.544552100000026
 
-- location: Skövde
-  urn: urn:cubus:store:id:C30
-  city: Skövde
-  latitude: 58.405364915061455
-  longitude: 13.856608494195598
+- location: Amfi Kanebogen - Harstad
+  urn: urn:cubus:store:id:915
+  city: Harstad
+  latitude: 68.77960170220655
+  longitude: 16.566331373016396
 
-- location: Solna Mall of Scandinavia
-  urn: urn:cubus:store:id:R18
-  city: Stockholm
-  latitude: 59.370663599999986
-  longitude: 17.99965020000001
+- location: Västervik
+  urn: urn:cubus:store:id:R22
+  city: Västervik
+  latitude: 57.7573602
+  longitude: 16.6322497
 
-- location: Stockholm Drottninggatan
-  urn: urn:cubus:store:id:R21
-  city: Stockholm
-  latitude: 59.3344879
-  longitude: 18.06092860000001
+- location: Gävle Valbo
+  urn: urn:cubus:store:id:C33
+  city: Gävle
+  latitude: 60.633674568085176
+  longitude: 16.992738548596208
 
-- location: Stockholm Skärholmen SKHLM
-  urn: urn:cubus:store:id:C91
-  city: Stockholm
-  latitude: 59.27521672181011
-  longitude: 17.908299558335898
-
-- location: Stockholm Sollentuna C
-  urn: urn:cubus:store:id:C40
-  city: Stockholm
-  latitude: 59.42843981814752
-  longitude: 17.95074284973748
-
-- location: Stockholm Täby C
-  urn: urn:cubus:store:id:R07
-  city: Täby
-  latitude: 59.4448623
-  longitude: 18.069507899999962
-
-- location: Stockholm Vällingby
-  urn: urn:cubus:store:id:C45
-  city: Stockholm
-  latitude: 59.36317392402217
-  longitude: 17.87341552618102
-
-- location: Strömstad Nordby köpcenter
-  urn: urn:cubus:store:id:C36
-  city: Strömstad
-  latitude: 59.06439531676326
-  longitude: 11.207715736242676
-
-- location: Strömstad shoppingcenter
-  urn: urn:cubus:store:id:R17
-  city: Strömstad
-  latitude: 58.9462491
-  longitude: 11.188438799999972
+- location: Nyköping
+  urn: urn:cubus:store:id:C32
+  city: Nyköping
+  latitude: 58.75145820963789
+  longitude: 17.003530331877073
 
 - location: Sundsvall Birsta City
   urn: urn:cubus:store:id:C95
@@ -1596,35 +1272,11 @@ locations:
   latitude: 62.4470651462755
   longitude: 17.338215786261003
 
-- location: Tanum
-  urn: urn:cubus:store:id:R14
-  city: Tanum
-  latitude: 58.72116239999999
-  longitude: 11.346728900000027
-
-- location: Töcksfors
-  urn: urn:cubus:store:id:C77
-  city: Töcksfors
-  latitude: 59.50578881634009
-  longitude: 11.844652361901808
-
-- location: Trollhättan SIBA-huset
-  urn: urn:cubus:store:id:C65
-  city: Trollhättan
-  latitude: 58.31257822156329
-  longitude: 12.307989696386699
-
-- location: Uddevalla Torp
-  urn: urn:cubus:store:id:R08
-  city: Uddevalla
-  latitude: 58.35386579999999
-  longitude: 11.810428699999989
-
-- location: Umeå Avion Shopping
-  urn: urn:cubus:store:id:R20
-  city: Umeå
-  latitude: 63.8077522
-  longitude: 20.25465589999999
+- location: Narvik
+  urn: urn:cubus:store:id:935
+  city: Narvik
+  latitude: 68.4412579
+  longitude: 17.435294800000065
 
 - location: Uppsala
   urn: urn:cubus:store:id:C37
@@ -1638,44 +1290,392 @@ locations:
   latitude: 59.87701920000001
   longitude: 17.672658800000022
 
-- location: Varberg
-  urn: urn:cubus:store:id:R23
-  city: Varberg
-  latitude: 57.1091179
-  longitude: 12.248840299999983
+- location: Stockholm Vällingby
+  urn: urn:cubus:store:id:C45
+  city: Stockholm
+  latitude: 59.36317392402217
+  longitude: 17.87341552618102
 
-- location: Västerås Erikslund
-  urn: urn:cubus:store:id:C47
-  city: Västerås
-  latitude: 59.611242
-  longitude: 16.462113300000055
+- location: Stockholm Skärholmen SKHLM
+  urn: urn:cubus:store:id:C91
+  city: Stockholm
+  latitude: 59.27521672181011
+  longitude: 17.908299558335898
 
-- location: Västerås Kvarteret Igor
-  urn: urn:cubus:store:id:R12
-  city: Västerås
-  latitude: 59.611817000000016
-  longitude: 16.544552100000026
+- location: Stockholm Sollentuna C
+  urn: urn:cubus:store:id:C40
+  city: Stockholm
+  latitude: 59.42843981814752
+  longitude: 17.95074284973748
 
-- location: Västervik
-  urn: urn:cubus:store:id:R22
-  city: Västervik
-  latitude: 57.7573602
-  longitude: 16.6322497
+- location: Finnsnes
+  urn: urn:cubus:store:id:907
+  city: Finnsnes
+  latitude: 69.22891827010007
+  longitude: 17.978580986755333
 
-- location: Växjö
-  urn: urn:cubus:store:id:C46
-  city: Växjö
-  latitude: 56.88479754191543
-  longitude: 14.7665735319855
+- location: Solna Mall of Scandinavia
+  urn: urn:cubus:store:id:R18
+  city: Stockholm
+  latitude: 59.370663599999986
+  longitude: 17.99965020000001
 
-- location: Vimmerby
-  urn: urn:cubus:store:id:C89
-  city: Vimmerby
-  latitude: 57.666486451941395
-  longitude: 15.853699000000006
+- location: Stockholm Drottninggatan
+  urn: urn:cubus:store:id:R21
+  city: Stockholm
+  latitude: 59.3344879
+  longitude: 18.06092860000001
+
+- location: Stockholm Täby C
+  urn: urn:cubus:store:id:R07
+  city: Täby
+  latitude: 59.4448623
+  longitude: 18.069507899999962
 
 - location: Visby
   urn: urn:cubus:store:id:C85
   city: Visby
   latitude: 57.63789488528426
   longitude: 18.299607228836066
+
+- location: Bardufoss
+  urn: urn:cubus:store:id:909
+  city: Bardufoss
+  latitude: 69.0647236016621
+  longitude: 18.513291132788027
+
+- location: Örnsköldsvik
+  urn: urn:cubus:store:id:C92
+  city: Örnsköldsvik
+  latitude: 63.28928053934471
+  longitude: 18.71456523544316
+
+- location: Jekta - Tromsø
+  urn: urn:cubus:store:id:901
+  city: Tromsø
+  latitude: 69.67456589999999
+  longitude: 18.921029699999963
+
+- location: Nerstranda - Tromsø
+  urn: urn:cubus:store:id:902
+  city: Tromsø
+  latitude: 69.64650069999999
+  longitude: 18.954854899999987
+
+- location: Tromsdalen
+  urn: urn:cubus:store:id:927
+  city: Tromsø
+  latitude: 69.6399623
+  longitude: 18.970861799999966
+
+- location: Umeå Avion Shopping
+  urn: urn:cubus:store:id:R20
+  city: Umeå
+  latitude: 63.8077522
+  longitude: 20.25465589999999
+
+- location: Skellefteå
+  urn: urn:cubus:store:id:C74
+  city: Skellefteå
+  latitude: 64.7500853
+  longitude: 20.954399700000067
+
+- location: Piteå
+  urn: urn:cubus:store:id:C96
+  city: Piteå
+  latitude: 65.3169268996826
+  longitude: 21.479732471827674
+
+- location: Rauma, Potkur
+  urn: urn:cubus:store:id:P51
+  city: Rauma
+  latitude: 61.12822739999999
+  longitude: 21.50695810000002
+
+- location: Vaasa, Espen
+  urn: urn:cubus:store:id:P35
+  city: Vaasa
+  latitude: 63.0964295
+  longitude: 21.616503700000067
+
+- location: Vaasa, GW Galleria
+  urn: urn:cubus:store:id:P26
+  city: Vaasa
+  latitude: 63.1092177
+  longitude: 21.649621499999967
+
+- location: Pori, Puuvilla
+  urn: urn:cubus:store:id:P43
+  city: Pori
+  latitude: 61.49249490000001
+  longitude: 21.798673799999992
+
+- location: Luleå Smedjan Gallerian
+  urn: urn:cubus:store:id:C59
+  city: Smedjan Gallerian
+  latitude: 65.583985
+  longitude: 22.153227
+
+- location: Raisio, Mylly
+  urn: urn:cubus:store:id:P11
+  city: Turku
+  latitude: 60.4918158
+  longitude: 22.205177100000014
+
+- location: Turku, Kultatalo
+  urn: urn:cubus:store:id:P21
+  city: Turku
+  latitude: 60.4514429
+  longitude: 22.265350200000057
+
+- location: Turku, Skanssi
+  urn: urn:cubus:store:id:P33
+  city: Turku
+  latitude: 60.4296963343581
+  longitude: 22.31892582009891
+
+- location: Seinäjoki, Ideapark
+  urn: urn:cubus:store:id:P61
+  city: Seinäjoki
+  latitude: 62.79229319999999
+  longitude: 22.801413599999933
+
+- location: Salo, Plaza
+  urn: urn:cubus:store:id:P37
+  city: Salo
+  latitude: 60.3863727
+  longitude: 23.124741200000017
+
+- location: Kokkola, Chydenia
+  urn: urn:cubus:store:id:P34
+  city: Kokkola
+  latitude: 63.83623919999999
+  longitude: 23.133027500000026
+
+- location: Alta
+  urn: urn:cubus:store:id:906
+  city: Alta
+  latitude: 69.9661751
+  longitude: 23.272644899999932
+
+- location: Forssa,  Prisma
+  urn: urn:cubus:store:id:P54
+  city: Forssa
+  latitude: 60.81219260000002
+  longitude: 23.637033699999925
+
+- location: Tampere,  Lielahtikeskus
+  urn: urn:cubus:store:id:P41
+  city: Tampere
+  latitude: 61.520478200000014
+  longitude: 23.668612199999952
+
+- location: Hammerfest
+  urn: urn:cubus:store:id:908
+  city: Hammerfest
+  latitude: 70.66391145321505
+  longitude: 23.681977534393354
+
+- location: Tampere, Koskikeskus
+  urn: urn:cubus:store:id:P19
+  city: Tampere
+  latitude: 61.495350672959674
+  longitude: 23.768110291418452
+
+- location: Lempäälä, Ideapark
+  urn: urn:cubus:store:id:P15
+  city: Lempäälä
+  latitude: 61.362645324782214
+  longitude: 23.798539147174097
+
+- location: Tornio, Rajalla
+  urn: urn:cubus:store:id:P29
+  city: Tornio
+  latitude: 65.844297
+  longitude: 24.142025800000056
+
+- location: Hämeenlinna, Goodman
+  urn: urn:cubus:store:id:P42
+  city: Hämeenlinna
+  latitude: 60.99666610000002
+  longitude: 24.45586409999997
+
+- location: Espoo, Iso-Omena
+  urn: urn:cubus:store:id:P13
+  city: Espoo
+  latitude: 60.16189678146782
+  longitude: 24.740126987835765
+
+- location: Espoo, Sello
+  urn: urn:cubus:store:id:P44
+  city: Espoo
+  latitude: 60.21711970000001
+  longitude: 24.810264200000063
+
+- location: Hyvinkää, Willa
+  urn: urn:cubus:store:id:P23
+  city: Hyvinkää
+  latitude: 60.6321562
+  longitude: 24.865501799999947
+
+- location: Helsinki, Tripla
+  urn: urn:cubus:store:id:P60
+  city: Helsinki
+  latitude: 60.1979145
+  longitude: 24.93044520000001
+
+- location: Helsinki, Kamppi
+  urn: urn:cubus:store:id:P39
+  city: Helsinki
+  latitude: 60.16942669999999
+  longitude: 24.933498699999973
+
+- location: Helsinki, Forum
+  urn: urn:cubus:store:id:P12
+  city: Helsinki
+  latitude: 60.16895015124735
+  longitude: 24.93746922645869
+
+- location: Vantaa, Jumbo
+  urn: urn:cubus:store:id:P38
+  city: Vantaa
+  latitude: 60.29076809999997
+  longitude: 24.96211300000006
+
+- location: Lakselv
+  urn: urn:cubus:store:id:88E
+  city: Lakselv
+  latitude: 70.0513264
+  longitude: 24.971781899999996
+
+- location: Helsinki, Redi
+  urn: urn:cubus:store:id:P59
+  city: Helsinki
+  latitude: 60.189609
+  longitude: 24.98092650000001
+
+- location: Järvenpää, Prisma
+  urn: urn:cubus:store:id:P49
+  city: Järvenpää
+  latitude: 60.469533899999995
+  longitude: 25.08441130000004
+
+- location: Helsinki, Itis
+  urn: urn:cubus:store:id:P28
+  city: Helsinki
+  latitude: 60.2126318
+  longitude: 25.085416699999996
+
+- location: Oulu, Ideapark
+  urn: urn:cubus:store:id:P45
+  city: Oulu
+  latitude: 65.07617209999997
+  longitude: 25.447315200000062
+
+- location: Oulu, Valkea
+  urn: urn:cubus:store:id:P53
+  city: Oulu
+  latitude: 65.0114222
+  longitude: 25.472096100000044
+
+- location: Oulu, Zeppelin
+  urn: urn:cubus:store:id:P18
+  city: Kempele
+  latitude: 64.9032512
+  longitude: 25.538861300000008
+
+- location: Porvoo, Taidetehdas
+  urn: urn:cubus:store:id:P27
+  city: Porvoo
+  latitude: 60.3892707
+  longitude: 25.65755719999993
+
+- location: Lahti, Trio
+  urn: urn:cubus:store:id:P46
+  city: Lahti
+  latitude: 60.9826522
+  longitude: 25.662221899999984
+
+- location: Rovaniemi, Sampokeskus
+  urn: urn:cubus:store:id:P16
+  city: Rovaniemi
+  latitude: 66.50170179999999
+  longitude: 25.73062660000005
+
+- location: Lahti, Karisma
+  urn: urn:cubus:store:id:P17
+  city: Lahti
+  latitude: 60.9828924
+  longitude: 25.736976000000027
+
+- location: Jyväskylä, Forum
+  urn: urn:cubus:store:id:P31
+  city: Jyväskylä
+  latitude: 62.24196809999999
+  longitude: 25.74864070000001
+
+- location: Jyväskylä, Seppä
+  urn: urn:cubus:store:id:P57
+  city: Jyväskylä
+  latitude: 62.2560068
+  longitude: 25.7772559
+
+- location: Kouvola, Veturi
+  urn: urn:cubus:store:id:P22
+  city: Kouvola
+  latitude: 60.872097895963066
+  longitude: 26.6554166640625
+
+- location: Kotka, Pasaati
+  urn: urn:cubus:store:id:P40
+  city: Kotka
+  latitude: 60.46618040000003
+  longitude: 26.944603899999944
+
+- location: Iisalmi, Iisa
+  urn: urn:cubus:store:id:P56
+  city: Iisalmi
+  latitude: 63.555727
+  longitude: 27.18789620000007
+
+- location: Mikkeli, Stella
+  urn: urn:cubus:store:id:P30
+  city: Mikkeli
+  latitude: 61.6892918
+  longitude: 27.27528540000003
+
+- location: Kuopio, Matkus
+  urn: urn:cubus:store:id:P24
+  city: Kuopio
+  latitude: 62.8396011
+  longitude: 27.60100639999996
+
+- location: Kajaani
+  urn: urn:cubus:store:id:P58
+  city: Kajaani
+  latitude: 64.2249637
+  longitude: 27.733611999999994
+
+- location: Lappeenranta, Galleria
+  urn: urn:cubus:store:id:P25
+  city: Lappeenranta
+  latitude: 61.0558333
+  longitude: 28.1902777
+
+- location: Vadsø
+  urn: urn:cubus:store:id:88B
+  city: Vadsø
+  latitude: 70.072022
+  longitude: 29.7531391
+
+- location: Joensuu, Iso-Myy
+  urn: urn:cubus:store:id:P20
+  city: Joensuu
+  latitude: 62.6017144
+  longitude: 29.763922200000025
+
+- location: Kirkenes
+  urn: urn:cubus:store:id:88F
+  city: Kirkenes
+  latitude: 69.7283005
+  longitude: 30.03737190000004

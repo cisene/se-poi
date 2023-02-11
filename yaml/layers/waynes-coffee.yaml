@@ -6,320 +6,40 @@ meta:
   locations: 72
 
 locations:
-- location: Waynes Coffee Stockholm
-  city: Stockholm
-  latitude: 59.33295
-  longitude: 18.07017
-
-- location: Waynes Coffee Danderyd
-  city: Danderyd
-  latitude: 59.398584
-  longitude: 18.036396
-
-- location: Waynes Coffee Sundsvall
-  city: Sundsvall
-  latitude: 62.3913536
-  longitude: 17.3044984
-
-- location: Waynes Coffee Falkenberg
-  city: Falkenberg
-  latitude: 56.9032781
-  longitude: 12.4922118
-
-- location: Waynes Coffee Enköping
-  city: Enköping
-  latitude: 59.635552
-  longitude: 17.079132
-
-- location: Waynes Coffee Limhamn
-  city: Limhamn
-  latitude: 55.5880812
-  longitude: 12.9370626
-
-- location: Waynes Coffee Östersund
-  city: Östersund
-  latitude: 63.1681
-  longitude: 14.60157
-
-- location: Waynes Coffee Nyköping
-  city: Nyköping
-  latitude: 58.7511103
-  longitude: 17.0030021
-
-- location: Waynes Coffee Stockholm
-  city: Stockholm
-  latitude: 59.332347
-  longitude: 18.067237
-
 - location: Waynes Coffee Uddevalla
   city: Uddevalla
   latitude: 58.353476
   longitude: 11.81156
-
-- location: Waynes Coffee Solna
-  city: Solna
-  latitude: 59.3487068
-  longitude: 18.032146
-
-- location: Waynes Coffee Åkersberga
-  city: Åkersberga
-  latitude: 59.47993
-  longitude: 18.296727
-
-- location: Waynes Coffee Sala
-  city: Sala
-  latitude: 59.9202129
-  longitude: 16.6068449
-
-- location: Waynes Coffee Linköping
-  city: Linköping
-  latitude: 58.4103482
-  longitude: 15.6227815
-
-- location: Waynes Coffee Malmö
-  city: Malmö
-  latitude: 55.595681
-  longitude: 13.002098
-
-- location: Waynes Coffee Täby
-  city: Täby
-  latitude: 59.4453068
-  longitude: 18.0718978
-
-- location: Waynes Coffee Kristianstad
-  city: Kristianstad
-  latitude: 56.0259106
-  longitude: 14.2058101
-
-- location: Waynes Coffee Helsingborg
-  city: Helsingborg
-  latitude: 56.040563
-  longitude: 12.701338
 
 - location: Waynes Coffee Mölndal
   city: Mölndal
   latitude: 57.65524
   longitude: 12.014693
 
-- location: Waynes Coffee Vetlanda
-  city: Vetlanda
-  latitude: 57.42643
-  longitude: 15.088537
-
 - location: Waynes Coffee Kungsbacka
   city: Kungsbacka
   latitude: 57.513916
   longitude: 12.075425
 
-- location: Waynes Coffee Kalmar
-  city: Kalmar
-  latitude: 56.6610958
-  longitude: 16.3650986
-
-- location: Waynes Coffee Malmö
-  city: Malmö
-  latitude: 55.6139401
-  longitude: 12.9819157
-
-- location: Waynes Coffee Jönköping
-  city: Jönköping
-  latitude: 57.7731615
-  longitude: 14.2051935
-
-- location: Waynes Coffee Östersund
-  city: Östersund
-  latitude: 63.1788488
-  longitude: 14.6364202
-
-- location: Waynes Coffee Örnsköldsvik
-  city: Örnsköldsvik
-  latitude: 63.2890513
-  longitude: 18.715564
-
-- location: Waynes Coffee Upplands Väsby
-  city: Upplands Väsby
-  latitude: 59.5185623
-  longitude: 17.9114036
-
-- location: Waynes Coffee Valbo
-  city: Valbo
-  latitude: 60.633702
-  longitude: 16.99378
-
-- location: Waynes Coffee Uppsala
-  city: Uppsala
-  latitude: 59.857921
-  longitude: 17.639392
-
-- location: Waynes Coffee Umeå
-  city: Umeå
-  latitude: 63.8077522
-  longitude: 20.2546559
-
-- location: Waynes Coffee Södertälje
-  city: Södertälje
-  latitude: 59.1978067
-  longitude: 17.6272174
-
-- location: Waynes Coffee Söderhamn
-  city: Söderhamn
-  latitude: 61.3026001
-  longitude: 17.0562548
-
-- location: Waynes Coffee Sälen
-  city: Sälen
-  latitude: 61.1752033
-  longitude: 12.9988753
-
-- location: Waynes Coffee Sälen
-  city: Sälen
-  latitude: 61.1565422
-  longitude: 13.2043313
-
-- location: Waynes Coffee Sundsvall
-  city: Sundsvall
-  latitude: 62.4471247
-  longitude: 17.3358768
-
-- location: Waynes Coffee Stockholm
-  city: Stockholm
-  latitude: 59.3633524
-  longitude: 17.8729426
-
-- location: Waynes Coffee Sundbyberg
-  city: Sundbyberg
-  latitude: 59.3652934
-  longitude: 17.9738852
-
-- location: Waynes Coffee Solna
-  city: Solna
-  latitude: 59.3592259
-  longitude: 18.0012062
-
-- location: Waynes Coffee Nacka
-  city: Nacka
-  latitude: 59.3060346
-  longitude: 18.124495
-
-- location: Waynes Coffee Nacka
-  city: Nacka
-  latitude: 59.3098448
-  longitude: 18.1643878
-
-- location: Waynes Coffee Stockholm
-  city: Stockholm
-  latitude: 59.3021336
-  longitude: 18.0845307
-
-- location: Waynes Coffee Stockholm
-  city: Stockholm
-  latitude: 59.3166773
-  longitude: 18.072185
-
-- location: Waynes Coffee Stockholm
-  city: Stockholm
-  latitude: 59.3332063
-  longitude: 18.0572934
-
-- location: Waynes Coffee Farsta
-  city: Farsta
-  latitude: 59.2425895
-  longitude: 18.0930186
-
-- location: Waynes Coffee Stockholm
-  city: Stockholm
-  latitude: 59.3316145
-  longitude: 18.0635369
-
-- location: Waynes Coffee Sollentuna
-  city: Sollentuna
-  latitude: 59.4283869
-  longitude: 17.9523762
-
-- location: Waynes Coffee Skövde
-  city: Skövde
-  latitude: 58.405507
-  longitude: 13.855201
-
-- location: Waynes Coffee Skellefteå
-  city: Skellefteå
-  latitude: 64.7657488
-  longitude: 21.0210997
-
-- location: Waynes Coffee Sandviken
-  city: Sandviken
-  latitude: 60.6203984
-  longitude: 16.7789575
-
-- location: Waynes Coffee Stockholm
-  city: Stockholm
-  latitude: 59.3109337
-  longitude: 18.0620727
-
-- location: Waynes Coffee Norrköping
-  city: Norrköping
-  latitude: 58.5870098
-  longitude: 16.1890679
-
-- location: Waynes Coffee Mora
-  city: Mora
-  latitude: 61.0062945
-  longitude: 14.5394899
-
-- location: Waynes Coffee Malmö
-  city: Malmö
-  latitude: 55.6000619
-  longitude: 13.0011579
-
-- location: Waynes Coffee Lund
-  city: Lund
-  latitude: 55.7021932
-  longitude: 13.194458
-
-- location: Waynes Coffee Luleå
-  city: Luleå
-  latitude: 65.5842023
-  longitude: 22.1509512
-
-- location: Waynes Coffee Karlstad
-  city: Karlstad
-  latitude: 59.3806033
-  longitude: 13.501521
-
-- location: Waynes Coffee Karlstad
-  city: Karlstad
-  latitude: 59.3798454
-  longitude: 13.5006986
-
-- location: Waynes Coffee Karlstad
-  city: Karlstad
-  latitude: 59.3774253
-  longitude: 13.4262011
-
-- location: Waynes Coffee Karlskrona
-  city: Karlskrona
-  latitude: 56.1620473
-  longitude: 15.5835565
-
-- location: Waynes Coffee Härnösand
-  city: Härnösand
-  latitude: 62.6331783
-  longitude: 17.9401248
-
-- location: Waynes Coffee Hudiksvall
-  city: Hudiksvall
-  latitude: 61.7276485
-  longitude: 17.1048389
-
-- location: Waynes Coffee Helsingborg
-  city: Helsingborg
-  latitude: 56.0917858
-  longitude: 12.7589356
+- location: Waynes Coffee Falkenberg
+  city: Falkenberg
+  latitude: 56.9032781
+  longitude: 12.4922118
 
 - location: Waynes Coffee Helsingborg
   city: Helsingborg
   latitude: 56.0472818
   longitude: 12.6924915
+
+- location: Waynes Coffee Helsingborg
+  city: Helsingborg
+  latitude: 56.040563
+  longitude: 12.701338
+
+- location: Waynes Coffee Helsingborg
+  city: Helsingborg
+  latitude: 56.0917858
+  longitude: 12.7589356
 
 - location: Waynes Coffee Halmstad
   city: Halmstad
@@ -331,6 +51,166 @@ locations:
   latitude: 56.6553285
   longitude: 12.9113506
 
+- location: Waynes Coffee Limhamn
+  city: Limhamn
+  latitude: 55.5880812
+  longitude: 12.9370626
+
+- location: Waynes Coffee Malmö
+  city: Malmö
+  latitude: 55.6139401
+  longitude: 12.9819157
+
+- location: Waynes Coffee Sälen
+  city: Sälen
+  latitude: 61.1752033
+  longitude: 12.9988753
+
+- location: Waynes Coffee Malmö
+  city: Malmö
+  latitude: 55.6000619
+  longitude: 13.0011579
+
+- location: Waynes Coffee Malmö
+  city: Malmö
+  latitude: 55.595681
+  longitude: 13.002098
+
+- location: Waynes Coffee Lund
+  city: Lund
+  latitude: 55.7021932
+  longitude: 13.194458
+
+- location: Waynes Coffee Sälen
+  city: Sälen
+  latitude: 61.1565422
+  longitude: 13.2043313
+
+- location: Waynes Coffee Karlstad
+  city: Karlstad
+  latitude: 59.3774253
+  longitude: 13.4262011
+
+- location: Waynes Coffee Karlstad
+  city: Karlstad
+  latitude: 59.3798454
+  longitude: 13.5006986
+
+- location: Waynes Coffee Karlstad
+  city: Karlstad
+  latitude: 59.3806033
+  longitude: 13.501521
+
+- location: Waynes Coffee Skövde
+  city: Skövde
+  latitude: 58.405507
+  longitude: 13.855201
+
+- location: Waynes Coffee Jönköping
+  city: Jönköping
+  latitude: 57.7731615
+  longitude: 14.2051935
+
+- location: Waynes Coffee Kristianstad
+  city: Kristianstad
+  latitude: 56.0259106
+  longitude: 14.2058101
+
+- location: Waynes Coffee Mora
+  city: Mora
+  latitude: 61.0062945
+  longitude: 14.5394899
+
+- location: Waynes Coffee Östersund
+  city: Östersund
+  latitude: 63.1681
+  longitude: 14.60157
+
+- location: Waynes Coffee Östersund
+  city: Östersund
+  latitude: 63.1788488
+  longitude: 14.6364202
+
+- location: Waynes Coffee Vetlanda
+  city: Vetlanda
+  latitude: 57.42643
+  longitude: 15.088537
+
+- location: Waynes Coffee Borlänge
+  city: Borlänge
+  latitude: 60.484757
+  longitude: 15.4177412
+
+- location: Waynes Coffee Karlskrona
+  city: Karlskrona
+  latitude: 56.1620473
+  longitude: 15.5835565
+
+- location: Waynes Coffee Linköping
+  city: Linköping
+  latitude: 58.4103482
+  longitude: 15.6227815
+
+- location: Waynes Coffee Falun
+  city: Falun
+  latitude: 60.6068409
+  longitude: 15.628277
+
+- location: Waynes Coffee Avesta
+  city: Avesta
+  latitude: 60.14583
+  longitude: 16.1679213
+
+- location: Waynes Coffee Norrköping
+  city: Norrköping
+  latitude: 58.5870098
+  longitude: 16.1890679
+
+- location: Waynes Coffee Kalmar
+  city: Kalmar
+  latitude: 56.6610958
+  longitude: 16.3650986
+
+- location: Waynes Coffee Eskilstuna
+  city: Eskilstuna
+  latitude: 59.3716392
+  longitude: 16.5118045
+
+- location: Waynes Coffee Sala
+  city: Sala
+  latitude: 59.9202129
+  longitude: 16.6068449
+
+- location: Waynes Coffee Sandviken
+  city: Sandviken
+  latitude: 60.6203984
+  longitude: 16.7789575
+
+- location: Waynes Coffee Valbo
+  city: Valbo
+  latitude: 60.633702
+  longitude: 16.99378
+
+- location: Waynes Coffee Nyköping
+  city: Nyköping
+  latitude: 58.7511103
+  longitude: 17.0030021
+
+- location: Waynes Coffee Söderhamn
+  city: Söderhamn
+  latitude: 61.3026001
+  longitude: 17.0562548
+
+- location: Waynes Coffee Enköping
+  city: Enköping
+  latitude: 59.635552
+  longitude: 17.079132
+
+- location: Waynes Coffee Hudiksvall
+  city: Hudiksvall
+  latitude: 61.7276485
+  longitude: 17.1048389
+
 - location: Waynes Coffee Gävle
   city: Gävle
   latitude: 60.673322
@@ -341,27 +221,147 @@ locations:
   latitude: 60.6745237
   longitude: 17.1438311
 
-- location: Waynes Coffee Falun
-  city: Falun
-  latitude: 60.6068409
-  longitude: 15.628277
+- location: Waynes Coffee Sundsvall
+  city: Sundsvall
+  latitude: 62.3913536
+  longitude: 17.3044984
 
-- location: Waynes Coffee Eskilstuna
-  city: Eskilstuna
-  latitude: 59.3716392
-  longitude: 16.5118045
+- location: Waynes Coffee Sundsvall
+  city: Sundsvall
+  latitude: 62.4471247
+  longitude: 17.3358768
 
-- location: Waynes Coffee Borlänge
-  city: Borlänge
-  latitude: 60.484757
-  longitude: 15.4177412
+- location: Waynes Coffee Södertälje
+  city: Södertälje
+  latitude: 59.1978067
+  longitude: 17.6272174
+
+- location: Waynes Coffee Uppsala
+  city: Uppsala
+  latitude: 59.857921
+  longitude: 17.639392
 
 - location: Waynes Coffee Järfälla
   city: Järfälla
   latitude: 59.4164442
   longitude: 17.8563413
 
-- location: Waynes Coffee Avesta
-  city: Avesta
-  latitude: 60.14583
-  longitude: 16.1679213
+- location: Waynes Coffee Stockholm
+  city: Stockholm
+  latitude: 59.3633524
+  longitude: 17.8729426
+
+- location: Waynes Coffee Upplands Väsby
+  city: Upplands Väsby
+  latitude: 59.5185623
+  longitude: 17.9114036
+
+- location: Waynes Coffee Härnösand
+  city: Härnösand
+  latitude: 62.6331783
+  longitude: 17.9401248
+
+- location: Waynes Coffee Sollentuna
+  city: Sollentuna
+  latitude: 59.4283869
+  longitude: 17.9523762
+
+- location: Waynes Coffee Sundbyberg
+  city: Sundbyberg
+  latitude: 59.3652934
+  longitude: 17.9738852
+
+- location: Waynes Coffee Solna
+  city: Solna
+  latitude: 59.3592259
+  longitude: 18.0012062
+
+- location: Waynes Coffee Solna
+  city: Solna
+  latitude: 59.3487068
+  longitude: 18.032146
+
+- location: Waynes Coffee Danderyd
+  city: Danderyd
+  latitude: 59.398584
+  longitude: 18.036396
+
+- location: Waynes Coffee Stockholm
+  city: Stockholm
+  latitude: 59.3332063
+  longitude: 18.0572934
+
+- location: Waynes Coffee Stockholm
+  city: Stockholm
+  latitude: 59.3109337
+  longitude: 18.0620727
+
+- location: Waynes Coffee Stockholm
+  city: Stockholm
+  latitude: 59.3316145
+  longitude: 18.0635369
+
+- location: Waynes Coffee Stockholm
+  city: Stockholm
+  latitude: 59.332347
+  longitude: 18.067237
+
+- location: Waynes Coffee Stockholm
+  city: Stockholm
+  latitude: 59.33295
+  longitude: 18.07017
+
+- location: Waynes Coffee Täby
+  city: Täby
+  latitude: 59.4453068
+  longitude: 18.0718978
+
+- location: Waynes Coffee Stockholm
+  city: Stockholm
+  latitude: 59.3166773
+  longitude: 18.072185
+
+- location: Waynes Coffee Stockholm
+  city: Stockholm
+  latitude: 59.3021336
+  longitude: 18.0845307
+
+- location: Waynes Coffee Farsta
+  city: Farsta
+  latitude: 59.2425895
+  longitude: 18.0930186
+
+- location: Waynes Coffee Nacka
+  city: Nacka
+  latitude: 59.3060346
+  longitude: 18.124495
+
+- location: Waynes Coffee Nacka
+  city: Nacka
+  latitude: 59.3098448
+  longitude: 18.1643878
+
+- location: Waynes Coffee Åkersberga
+  city: Åkersberga
+  latitude: 59.47993
+  longitude: 18.296727
+
+- location: Waynes Coffee Örnsköldsvik
+  city: Örnsköldsvik
+  latitude: 63.2890513
+  longitude: 18.715564
+
+- location: Waynes Coffee Umeå
+  city: Umeå
+  latitude: 63.8077522
+  longitude: 20.2546559
+
+- location: Waynes Coffee Skellefteå
+  city: Skellefteå
+  latitude: 64.7657488
+  longitude: 21.0210997
+
+- location: Waynes Coffee Luleå
+  city: Luleå
+  latitude: 65.5842023
+  longitude: 22.1509512

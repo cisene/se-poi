@@ -6,30 +6,15 @@ meta:
   locations: 29
 
 locations:
-- location: MediaMarkt Borås
-  city: Borås
-  latitude: 57.731562
-  longitude: 12.931938
-
-- location: MediaMarkt Eskilstuna
-  city: Eskilstuna
-  latitude: 59.374063
-  longitude: 16.467562
-
-- location: MediaMarkt Gävle
-  city: Gävle
-  latitude: 60.627187
-  longitude: 16.989937
+- location: MediaMarkt Göteborg Högsbo
+  city: Göteborg
+  latitude: 57.650813
+  longitude: 11.946813
 
 - location: MediaMarkt Göteborg Bäckebol
   city: Göteborg
   latitude: 57.770063
   longitude: 12.000438
-
-- location: MediaMarkt Göteborg Högsbo
-  city: Göteborg
-  latitude: 57.650813
-  longitude: 11.946813
 
 - location: MediaMarkt Göteborg Torpavallen
   city: Göteborg
@@ -41,65 +26,110 @@ locations:
   latitude: 56.094062
   longitude: 12.762187
 
-- location: MediaMarkt Jönköping
-  city: Jönköping
-  latitude: 57.760438
-  longitude: 14.172937
-
-- location: MediaMarkt Kalmar
-  city: Kalmar
-  latitude: 56.682313
-  longitude: 16.317312
-
-- location: MediaMarkt Kristianstad
-  city: Kristianstad
-  latitude: 56.021062
-  longitude: 14.114562
-
-- location: MediaMarkt Linköping
-  city: Linköping
-  latitude: 58.431687
-  longitude: 15.596937
-
-- location: MediaMarkt Luleå
-  city: Luleå
-  latitude: 65.616812
-  longitude: 22.054688
-
-- location: MediaMarkt Lund
-  city: Lund
-  latitude: 55.714312
-  longitude: 13.152938
+- location: MediaMarkt Borås
+  city: Borås
+  latitude: 57.731562
+  longitude: 12.931938
 
 - location: MediaMarkt Malmö Svågertorp
   city: Malmö
   latitude: 55.550562
   longitude: 12.985062
 
-- location: MediaMarkt Norrköping
-  city: Norrköping
-  latitude: 58.622062
-  longitude: 16.157063
+- location: MediaMarkt Lund
+  city: Lund
+  latitude: 55.714312
+  longitude: 13.152938
 
 - location: MediaMarkt Skövde
   city: Skövde
   latitude: 58.410812
   longitude: 13.878563
 
+- location: MediaMarkt Kristianstad
+  city: Kristianstad
+  latitude: 56.021062
+  longitude: 14.114562
+
+- location: MediaMarkt Jönköping
+  city: Jönköping
+  latitude: 57.760438
+  longitude: 14.172937
+
+- location: MediaMarkt Växjö
+  city: Växjö
+  latitude: 56.878062
+  longitude: 14.770437
+
+- location: MediaMarkt Örebro
+  city: Örebro
+  latitude: 59.219437
+  longitude: 15.142437
+
+- location: MediaMarkt Linköping
+  city: Linköping
+  latitude: 58.431687
+  longitude: 15.596937
+
+- location: MediaMarkt Norrköping
+  city: Norrköping
+  latitude: 58.622062
+  longitude: 16.157063
+
+- location: MediaMarkt Kalmar
+  city: Kalmar
+  latitude: 56.682313
+  longitude: 16.317312
+
+- location: MediaMarkt Västerås
+  city: Västerås
+  latitude: 59.613062
+  longitude: 16.458438
+
+- location: MediaMarkt Eskilstuna
+  city: Eskilstuna
+  latitude: 59.374063
+  longitude: 16.467562
+
+- location: MediaMarkt Gävle
+  city: Gävle
+  latitude: 60.627187
+  longitude: 16.989937
+
+- location: MediaMarkt Sundsvall
+  city: Sundsvall
+  latitude: 62.440188
+  longitude: 17.334562
+
+- location: MediaMarkt Uppsala
+  city: Uppsala
+  latitude: 59.854563
+  longitude: 17.683188
+
 - location: MediaMarkt Stockholm Barkarby
   city: Stockholm
   latitude: 59.413062
   longitude: 17.857813
+
+- location: MediaMarkt Stockholm Heron City
+  city: Stockholm
+  latitude: 59.267187
+  longitude: 17.909188
+
+- location: MediaMarkt Stockholm Westfield Mall of Scandinavia
+  city: Solna
+  latitude: 59.370812
+  longitude: 18.001312
 
 - location: MediaMarkt Stockholm Drottninggatan
   city: Stockholm
   latitude: 59.333188
   longitude: 18.061563
 
-- location: MediaMarkt Stockholm Heron City
-  city: Stockholm
-  latitude: 59.267187
-  longitude: 17.909188
+- location: MediaMarkt Stockholm Täby
+  city: Täby
+  latitude: 59.444812
+  longitude: 18.069812
 
 - location: MediaMarkt Stockholm Länna
   city: Huddinge
@@ -111,42 +141,12 @@ locations:
   latitude: 59.309812
   longitude: 18.163812
 
-- location: MediaMarkt Stockholm Täby
-  city: Täby
-  latitude: 59.444812
-  longitude: 18.069812
-
-- location: MediaMarkt Stockholm Westfield Mall of Scandinavia
-  city: Solna
-  latitude: 59.370812
-  longitude: 18.001312
-
-- location: MediaMarkt Sundsvall
-  city: Sundsvall
-  latitude: 62.440188
-  longitude: 17.334562
-
 - location: MediaMarkt Umeå
   city: Umeå
   latitude: 63.847437
   longitude: 20.156062
 
-- location: MediaMarkt Uppsala
-  city: Uppsala
-  latitude: 59.854563
-  longitude: 17.683188
-
-- location: MediaMarkt Västerås
-  city: Västerås
-  latitude: 59.613062
-  longitude: 16.458438
-
-- location: MediaMarkt Växjö
-  city: Växjö
-  latitude: 56.878062
-  longitude: 14.770437
-
-- location: MediaMarkt Örebro
-  city: Örebro
-  latitude: 59.219437
-  longitude: 15.142437
+- location: MediaMarkt Luleå
+  city: Luleå
+  latitude: 65.616812
+  longitude: 22.054688

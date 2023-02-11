@@ -6,41 +6,29 @@ meta:
   locations: 42
 
 locations:
-- location: City Gross Borås
-  urn: urn:citygross:store:id:21
-  city: Borås
-  latitude: 57.7141742
-  longitude: 12.866981900000042
+- location: Uddevalla
+  urn: urn:citygross:store:id:57
+  city: Uddevalla
+  latitude: 58.3531442
+  longitude: 11.824416299999939
 
-- location: City Gross Bromma
-  urn: urn:citygross:store:id:13
-  city: Bromma
-  latitude: 59.350313
-  longitude: 17.967062
+- location: City Gross Ytterby
+  urn: urn:citygross:store:id:31
+  city: Ytterby
+  latitude: 57.858312
+  longitude: 11.916812
 
-- location: Eskilstuna
-  urn: urn:citygross:store:id:46
-  city: Eskilstuna
-  latitude: 59.3722092
-  longitude: 16.47255700000005
+- location: City Gross Höganäs
+  urn: urn:citygross:store:id:8
+  city: Höganäs
+  latitude: 56.202313
+  longitude: 12.567563
 
-- location: City Gross Falun
-  urn: urn:citygross:store:id:34
-  city: Falun
-  latitude: 60.57697100000001
-  longitude: 15.608302099999946
-
-- location: City Gross Gävle
-  urn: urn:citygross:store:id:35
-  city: Gävle
-  latitude: 60.641813
-  longitude: 17.143187
-
-- location: City Gross Halmstad
-  urn: urn:citygross:store:id:22
-  city: Halmstad
-  latitude: 56.666812
-  longitude: 12.906437
+- location: City Gross Karlshamn
+  urn: urn:citygross:store:id:19
+  city: Karlshamn
+  latitude: 55.6760968
+  longitude: 12.568337199999974
 
 - location: City Gross Helsingborg Berga
   urn: urn:citygross:store:id:60
@@ -54,23 +42,17 @@ locations:
   latitude: 56.0162998
   longitude: 12.753191000000015
 
-- location: City Gross Häggvik
-  urn: urn:citygross:store:id:14
-  city: Häggvik
-  latitude: 59.4367055
-  longitude: 17.9283547
+- location: Landskrona
+  urn: urn:citygross:store:id:9
+  city: Landskrona
+  latitude: 55.8688385
+  longitude: 12.831235600000014
 
-- location: City Gross Hässleholm
-  urn: urn:citygross:store:id:12
-  city: Hässleholm
-  latitude: 56.1549448
-  longitude: 13.75636069999996
-
-- location: City Gross Höganäs
-  urn: urn:citygross:store:id:8
-  city: Höganäs
-  latitude: 56.202313
-  longitude: 12.567563
+- location: City Gross Borås
+  urn: urn:citygross:store:id:21
+  city: Borås
+  latitude: 57.7141742
+  longitude: 12.866981900000042
 
 - location: City Gross Höör
   urn: urn:citygross:store:id:16
@@ -78,71 +60,17 @@ locations:
   latitude: 57.7141742
   longitude: 12.866981900000042
 
-- location: City Gross Jönköping
-  urn: urn:citygross:store:id:23
-  city: Jönköping
-  latitude: 57.765812
-  longitude: 14.202188
+- location: Trollhättan
+  urn: urn:citygross:store:id:1006
+  city: Trollhättan
+  latitude: 57.7141742
+  longitude: 12.866981900000042
 
-- location: City Gross Kalmar
-  urn: urn:citygross:store:id:18
-  city: Kalmar
-  latitude: 56.683563
-  longitude: 16.315937
-
-- location: City Gross Karlshamn
-  urn: urn:citygross:store:id:19
-  city: Karlshamn
-  latitude: 55.6760968
-  longitude: 12.568337199999974
-
-- location: City Gross Karlskrona
-  urn: urn:citygross:store:id:20
-  city: Karlskrona
-  latitude: 56.196687
-  longitude: 15.612938
-
-- location: City Gross Kristianstad
-  urn: urn:citygross:store:id:37
-  city: Kristianstad
-  latitude: 56.0241227
-  longitude: 14.200430299999994
-
-- location: City Gross Kungens kurva
-  urn: urn:citygross:store:id:24
-  city: Huddinge
-  latitude: 59.266063
-  longitude: 17.923437
-
-- location: Landskrona
-  urn: urn:citygross:store:id:9
-  city: Landskrona
-  latitude: 55.8688385
-  longitude: 12.831235600000014
-
-- location: City Gross Linköping Djurgården
-  urn: urn:citygross:store:id:44
-  city: Linköping
-  latitude: 58.386562
-  longitude: 15.588062
-
-- location: City Gross Linköping Tornby
-  urn: urn:citygross:store:id:168
-  city: Linköping
-  latitude: 58.38665159999999
-  longitude: 15.588129299999991
-
-- location: City Gross Ljungby
-  urn: urn:citygross:store:id:5
-  city: Ljungby
-  latitude: 56.815062
-  longitude: 13.906813
-
-- location: City Gross Länna
-  urn: urn:citygross:store:id:25
-  city: Huddinge
-  latitude: 59.196938
-  longitude: 18.123938
+- location: City Gross Halmstad
+  urn: urn:citygross:store:id:22
+  city: Halmstad
+  latitude: 56.666812
+  longitude: 12.906437
 
 - location: City Gross Malmö Hyllie
   urn: urn:citygross:store:id:169
@@ -156,29 +84,11 @@ locations:
   latitude: 55.6117886
   longitude: 13.10106380000002
 
-- location: City Gross Mantorp
-  urn: urn:citygross:store:id:26
-  city: Mantorp
-  latitude: 58.3661954
-  longitude: 15.29473859999996
-
-- location: City Gross Norrköping
-  urn: urn:citygross:store:id:27
-  city: Norrköping
-  latitude: 58.616437
-  longitude: 16.174437
-
-- location: City Gross Nyköping
-  urn: urn:citygross:store:id:28
-  city: Nyköping
-  latitude: 58.772063
-  longitude: 17.016562
-
-- location: City Gross Skara
-  urn: urn:citygross:store:id:30
-  city: Skara
-  latitude: 58.391687
-  longitude: 13.458438
+- location: City Gross Trelleborg
+  urn: urn:citygross:store:id:15
+  city: Trelleborg
+  latitude: 55.374188
+  longitude: 13.189813
 
 - location: City Gross Staffanstorp
   urn: urn:citygross:store:id:11
@@ -186,47 +96,23 @@ locations:
   latitude: 55.639813
   longitude: 13.216062
 
-- location: City Gross Sundsvall
-  urn: urn:citygross:store:id:36
-  city: Sundsvall
-  latitude: 62.413937
-  longitude: 17.339188
+- location: City Gross Skara
+  urn: urn:citygross:store:id:30
+  city: Skara
+  latitude: 58.391687
+  longitude: 13.458438
 
-- location: City Gross Trelleborg
-  urn: urn:citygross:store:id:15
-  city: Trelleborg
-  latitude: 55.374188
-  longitude: 13.189813
+- location: City Gross Hässleholm
+  urn: urn:citygross:store:id:12
+  city: Hässleholm
+  latitude: 56.1549448
+  longitude: 13.75636069999996
 
-- location: Trollhättan
-  urn: urn:citygross:store:id:1006
-  city: Trollhättan
-  latitude: 57.7141742
-  longitude: 12.866981900000042
-
-- location: Uddevalla
-  urn: urn:citygross:store:id:57
-  city: Uddevalla
-  latitude: 58.3531442
-  longitude: 11.824416299999939
-
-- location: City Gross Uppsala Boländerna
-  urn: urn:citygross:store:id:17
-  city: Uppsala
-  latitude: 59.847313
-  longitude: 17.686312
-
-- location: City Gross Uppsala Gränby
-  urn: urn:citygross:store:id:165
-  city: Uppsala
-  latitude: 59.886187
-  longitude: 17.671062
-
-- location: City Gross Värmdö
-  urn: urn:citygross:store:id:166
-  city: Värmdö
-  latitude: 59.310313
-  longitude: 18.383688
+- location: City Gross Ljungby
+  urn: urn:citygross:store:id:5
+  city: Ljungby
+  latitude: 56.815062
+  longitude: 13.906813
 
 - location: City Gross Värnamo
   urn: urn:citygross:store:id:29
@@ -234,11 +120,17 @@ locations:
   latitude: 57.179313
   longitude: 14.005562
 
-- location: City Gross Västerås
-  urn: urn:citygross:store:id:32
-  city: Västerås
-  latitude: 59.609313
-  longitude: 16.452438
+- location: City Gross Kristianstad
+  urn: urn:citygross:store:id:37
+  city: Kristianstad
+  latitude: 56.0241227
+  longitude: 14.200430299999994
+
+- location: City Gross Jönköping
+  urn: urn:citygross:store:id:23
+  city: Jönköping
+  latitude: 57.765812
+  longitude: 14.202188
 
 - location: Växjö
   urn: urn:citygross:store:id:2
@@ -246,14 +138,122 @@ locations:
   latitude: 56.8782337
   longitude: 14.772620200000006
 
-- location: City Gross Ytterby
-  urn: urn:citygross:store:id:31
-  city: Ytterby
-  latitude: 57.858312
-  longitude: 11.916812
-
 - location: City Gross Örebro
   urn: urn:citygross:store:id:33
   city: Örebro
   latitude: 59.294438
   longitude: 15.198688
+
+- location: City Gross Mantorp
+  urn: urn:citygross:store:id:26
+  city: Mantorp
+  latitude: 58.3661954
+  longitude: 15.29473859999996
+
+- location: City Gross Linköping Djurgården
+  urn: urn:citygross:store:id:44
+  city: Linköping
+  latitude: 58.386562
+  longitude: 15.588062
+
+- location: City Gross Linköping Tornby
+  urn: urn:citygross:store:id:168
+  city: Linköping
+  latitude: 58.38665159999999
+  longitude: 15.588129299999991
+
+- location: City Gross Falun
+  urn: urn:citygross:store:id:34
+  city: Falun
+  latitude: 60.57697100000001
+  longitude: 15.608302099999946
+
+- location: City Gross Karlskrona
+  urn: urn:citygross:store:id:20
+  city: Karlskrona
+  latitude: 56.196687
+  longitude: 15.612938
+
+- location: City Gross Norrköping
+  urn: urn:citygross:store:id:27
+  city: Norrköping
+  latitude: 58.616437
+  longitude: 16.174437
+
+- location: City Gross Kalmar
+  urn: urn:citygross:store:id:18
+  city: Kalmar
+  latitude: 56.683563
+  longitude: 16.315937
+
+- location: City Gross Västerås
+  urn: urn:citygross:store:id:32
+  city: Västerås
+  latitude: 59.609313
+  longitude: 16.452438
+
+- location: Eskilstuna
+  urn: urn:citygross:store:id:46
+  city: Eskilstuna
+  latitude: 59.3722092
+  longitude: 16.47255700000005
+
+- location: City Gross Nyköping
+  urn: urn:citygross:store:id:28
+  city: Nyköping
+  latitude: 58.772063
+  longitude: 17.016562
+
+- location: City Gross Gävle
+  urn: urn:citygross:store:id:35
+  city: Gävle
+  latitude: 60.641813
+  longitude: 17.143187
+
+- location: City Gross Sundsvall
+  urn: urn:citygross:store:id:36
+  city: Sundsvall
+  latitude: 62.413937
+  longitude: 17.339188
+
+- location: City Gross Uppsala Gränby
+  urn: urn:citygross:store:id:165
+  city: Uppsala
+  latitude: 59.886187
+  longitude: 17.671062
+
+- location: City Gross Uppsala Boländerna
+  urn: urn:citygross:store:id:17
+  city: Uppsala
+  latitude: 59.847313
+  longitude: 17.686312
+
+- location: City Gross Kungens kurva
+  urn: urn:citygross:store:id:24
+  city: Huddinge
+  latitude: 59.266063
+  longitude: 17.923437
+
+- location: City Gross Häggvik
+  urn: urn:citygross:store:id:14
+  city: Häggvik
+  latitude: 59.4367055
+  longitude: 17.9283547
+
+- location: City Gross Bromma
+  urn: urn:citygross:store:id:13
+  city: Bromma
+  latitude: 59.350313
+  longitude: 17.967062
+
+- location: City Gross Länna
+  urn: urn:citygross:store:id:25
+  city: Huddinge
+  latitude: 59.196938
+  longitude: 18.123938
+
+- location: City Gross Värmdö
+  urn: urn:citygross:store:id:166
+  city: Värmdö
+  latitude: 59.310313
+  longitude: 18.383688

@@ -6,125 +6,75 @@ meta:
   locations: 113
 
 locations:
-- location: Max i Alingsås
-  city: Alingsås
-  latitude: 57.923283
-  longitude: 12.529585
+- location: Max i Strömstad
+  city: Strömstad
+  latitude: 59.06511
+  longitude: 11.20562
 
-- location: Max i Boden
-  city: Boden
-  latitude: 65.81734
-  longitude: 21.70799
-
-- location: Max i Bollnäs
-  city: Bollnäs
-  latitude: 61.348635
-  longitude: 16.38843
-
-- location: Max i Borlänge
-  city: Borlänge
-  latitude: 60.477048
-  longitude: 15.436252
-
-- location: Max i Borås
-  city: Borås
-  latitude: 57.734085
-  longitude: 12.935977
-
-- location: Max i Enköping
-  city: Enköping
-  latitude: 59.65295
-  longitude: 17.081303
-
-- location: Max i Eskilstuna
-  city: Eskilstuna
-  latitude: 59.37484
-  longitude: 16.47011
-
-- location: Max i Eskilstuna
-  city: Eskilstuna
-  latitude: 59.3925
-  longitude: 16.46639
-
-- location: Max i Falkenberg
-  city: Falkenberg
-  latitude: 56.9313908
-  longitude: 12.5176369
-
-- location: Max i Falun
-  city: Falun
-  latitude: 60.60444
-  longitude: 15.64167
-
-- location: Max i Gävle
-  city: Gävle
-  latitude: 60.6393834
-  longitude: 17.1424889
-
-- location: Max i Gävle
-  city: Gävle
-  latitude: 60.66007
-  longitude: 17.16041
-
-- location: Max i Gävle
-  city: Gävle
-  latitude: 60.68083
-  longitude: 17.13691
-
-- location: Max i Bäckebol
-  city: Göteborg
-  latitude: 57.7584746
-  longitude: 11.9931884
-
-- location: Max i Partille
-  city: Göteborg
-  latitude: 57.73754
-  longitude: 12.10513
+- location: Max i Uddevalla
+  city: Uddevalla
+  latitude: 58.35169
+  longitude: 11.81156
 
 - location: Max i Gamla Ullevi
   city: Göteborg
   latitude: 57.706
   longitude: 11.98
 
-- location: Max på Landvetter
+- location: Max på Liseberg - Tornet
   city: Göteborg
-  latitude: 57.668799
-  longitude: 12.292314
+  latitude: 57.6952
+  longitude: 11.9911
 
-- location: Max på Liseberg - Balder
+- location: Max i Bäckebol
   city: Göteborg
-  latitude: 57.6935
-  longitude: 11.9951
+  latitude: 57.7584746
+  longitude: 11.9931884
 
 - location: Max på Liseberg - Storgatan
   city: Göteborg
   latitude: 57.6951
   longitude: 11.994
 
-- location: Max på Liseberg - Tornet
+- location: Max på Liseberg - Balder
   city: Göteborg
-  latitude: 57.6952
-  longitude: 11.9911
+  latitude: 57.6935
+  longitude: 11.9951
 
 - location: Max i Göteborg
   city: Göteborg
   latitude: 57.72397
   longitude: 12.02963
 
-- location: Max i Halmstad
-  city: Halmstad
-  latitude: 56.67801
-  longitude: 12.80364
+- location: Max i Partille
+  city: Göteborg
+  latitude: 57.73754
+  longitude: 12.10513
 
-- location: Max i Halmstad
-  city: Halmstad
-  latitude: 56.65844
-  longitude: 12.90812
+- location: Max i Trollhättan
+  city: Trollhättan
+  latitude: 58.28535
+  longitude: 12.29134
 
-- location: Max i Haparanda
-  city: Haparanda
-  latitude: 65.84106
-  longitude: 24.13335
+- location: Max på Landvetter
+  city: Göteborg
+  latitude: 57.668799
+  longitude: 12.292314
+
+- location: Max i Trollhättan
+  city: Trollhättan
+  latitude: 58.31553
+  longitude: 12.30583
+
+- location: Max i Falkenberg
+  city: Falkenberg
+  latitude: 56.9313908
+  longitude: 12.5176369
+
+- location: Max i Alingsås
+  city: Alingsås
+  latitude: 57.923283
+  longitude: 12.529585
 
 - location: Max i Helsingborg
   city: Helsingborg
@@ -136,125 +86,35 @@ locations:
   latitude: 56.09213
   longitude: 12.76485
 
+- location: Max i Halmstad
+  city: Halmstad
+  latitude: 56.67801
+  longitude: 12.80364
+
 - location: Max i Hyllinge
   city: Helsingborg
   latitude: 56.09957
   longitude: 12.85204
 
-- location: Max i Hudiksvall
-  city: Hudiksvall
-  latitude: 61.7145
-  longitude: 17.046834
+- location: Max i Halmstad
+  city: Halmstad
+  latitude: 56.65844
+  longitude: 12.90812
 
-- location: Max i Jönköping
-  city: Jönköping
-  latitude: 57.78056
-  longitude: 14.22667
-
-- location: Max i Jönköping
-  city: Jönköping
-  latitude: 57.77349
-  longitude: 14.17614
-
-- location: Max i Jönköping
-  city: Jönköping
-  latitude: 57.76517
-  longitude: 14.15294
-
-- location: Max i Kalmar
-  city: Kalmar
-  latitude: 56.69138
-  longitude: 16.31586
-
-- location: Max i Kalmar
-  city: Kalmar
-  latitude: 56.6675
-  longitude: 16.35389
-
-- location: Max i Karlskoga
-  city: Karlskoga
-  latitude: 59.32497
-  longitude: 14.52571
-
-- location: Max i Karlskrona
-  city: Karlskrona
-  latitude: 56.19543
-  longitude: 15.63229
-
-- location: Max i Karlstad
-  city: Karlstad
-  latitude: 59.37901
-  longitude: 13.42536
-
-- location: Max i Karlstad
-  city: Karlstad
-  latitude: 59.38142
-  longitude: 13.46839
-
-- location: Max i Kristianstad
-  city: Kristianstad
-  latitude: 56.02249
-  longitude: 14.14483
-
-- location: Max i Köping
-  city: Köping
-  latitude: 59.52036
-  longitude: 15.97279
-
-- location: Max i Linköping
-  city: Linköping
-  latitude: 58.41762
-  longitude: 15.65716
-
-- location: Max i Linköping
-  city: Linköping
-  latitude: 58.43483
-  longitude: 15.59313
-
-- location: Max i Ljungby
-  city: Ljungby
-  latitude: 56.8125
-  longitude: 13.90722
-
-- location: Max i Luleå
-  city: Luleå
-  latitude: 65.58531
-  longitude: 22.1544
-
-- location: Max i Luleå
-  city: Luleå
-  latitude: 65.60239
-  longitude: 22.13859
-
-- location: Max i Luleå
-  city: Luleå
-  latitude: 65.61809
-  longitude: 22.04153
-
-- location: Max i Luleå
-  city: Luleå
-  latitude: 65.59006
-  longitude: 22.14797
-
-- location: Max i Lund
-  city: Lund
-  latitude: 55.71622
-  longitude: 13.15624
-
-- location: Max i Lund
-  city: Lund
-  latitude: 55.71144
-  longitude: 13.18172
-
-- location: Max i Löddeköpinge
-  city: Löddeköpinge
-  latitude: 55.77137
-  longitude: 12.98831
+- location: Max i Borås
+  city: Borås
+  latitude: 57.734085
+  longitude: 12.935977
 
 - location: Max i Malmö
   city: Malmö
   latitude: 55.56361
   longitude: 12.97194
+
+- location: Max i Löddeköpinge
+  city: Löddeköpinge
+  latitude: 55.77137
+  longitude: 12.98831
 
 - location: Max i Malmö
   city: Malmö
@@ -266,265 +126,85 @@ locations:
   latitude: 55.57195
   longitude: 13.03861
 
-- location: Max i Mjölby
-  city: Mjölby
-  latitude: 58.32389
-  longitude: 15.08972
+- location: Max i Åre
+  city: Åre
+  latitude: 63.40041
+  longitude: 13.07803
 
-- location: Max i Mora
-  city: Mora
-  latitude: 61.006738
-  longitude: 14.5982427
+- location: Max i Lund
+  city: Lund
+  latitude: 55.71622
+  longitude: 13.15624
 
-- location: Max i Norrköping
-  city: Norrköping
-  latitude: 58.61194
-  longitude: 16.15944
+- location: Max i Lund
+  city: Lund
+  latitude: 55.71144
+  longitude: 13.18172
 
-- location: Max i Norrköping
-  city: Norrköping
-  latitude: 58.59741
-  longitude: 16.1898
+- location: Max i Karlstad
+  city: Karlstad
+  latitude: 59.37901
+  longitude: 13.42536
 
-- location: Max i Nyköping
-  city: Nyköping
-  latitude: 58.74833
-  longitude: 16.97857
+- location: Max i Karlstad
+  city: Karlstad
+  latitude: 59.38142
+  longitude: 13.46839
 
-- location: Max i Nyköping
-  city: Nyköping
-  latitude: 58.77317
-  longitude: 17.02339
-
-- location: Max i Piteå
-  city: Piteå
-  latitude: 65.32063
-  longitude: 21.47412
-
-- location: Max i Skellefteå
-  city: Skellefteå
-  latitude: 64.75089
-  longitude: 20.95988
-
-- location: Krysset gatukök
-  city: Skellefteå
-  latitude: 64.7376643
-  longitude: 20.9640529
+- location: Max i Ystad
+  city: Ystad
+  latitude: 55.4291
+  longitude: 13.82101
 
 - location: Max i Skövde
   city: Skövde
   latitude: 58.40839
   longitude: 13.87419
 
-- location: Max på Arlanda
-  city: Stockholm
-  latitude: 59.64765
-  longitude: 17.92853
-
-- location: Max på Arlanda
-  city: Stockholm
-  latitude: 59.65177
-  longitude: 17.93443
-
-- location: Max på Arlanda
-  city: Stockholm
-  latitude: 59.651127
-  longitude: 17.930795
-
-- location: Max i Arninge
-  city: Stockholm
-  latitude: 59.46
-  longitude: 18.12889
-
-- location: Max i Barkarby
-  city: Stockholm
-  latitude: 59.4207
-  longitude: 17.85438
-
-- location: Max i Hammarby Sjöstad
-  city: Stockholm
-  latitude: 59.30215
-  longitude: 18.10321
-
-- location: Max i Häggvik
-  city: Stockholm
-  latitude: 59.4454448
-  longitude: 17.9422731
-
-- location: Max Infra City
-  city: Stockholm
-  latitude: 59.49583
-  longitude: 17.92417
-
-- location: Max i Kista
-  city: Stockholm
-  latitude: 59.40244
-  longitude: 17.94658
-
-- location: Max Hamngatan
-  city: Stockholm
-  latitude: 59.33274
-  longitude: 18.07174
-
-- location: Max i Lidingö
-  city: Stockholm
-  latitude: 59.3483756
-  longitude: 18.1530999
-
-- location: Max i Länna
-  city: Stockholm
-  latitude: 59.2
-  longitude: 18.12944
-
-- location: Max i Mall of Scandinavia
-  city: Stockholm
-  latitude: 59.3694981
-  longitude: 18.0054078
-
-- location: Max i Märsta
-  city: Märsta
-  latitude: 59.6163672
-  longitude: 17.8493643
-
-- location: Max i Roslags-Näsby
-  city: Stockholm
-  latitude: 59.434331
-  longitude: 18.066365
-
-- location: Max i Rotebro
-  city: Stockholm
-  latitude: 59.47065
-  longitude: 17.917537
-
-- location: Max i Slagsta
-  city: Stockholm
-  latitude: 59.253163
-  longitude: 17.854166
-
-- location: Max i Solna
-  city: Stockholm
-  latitude: 59.36046
-  longitude: 17.99429
-
-- location: Max på Torsplan
-  city: Stockholm
-  latitude: 59.346746
-  longitude: 18.032167
-
-- location: Max i Bromma
-  city: Stockholm
-  latitude: 59.35056
-  longitude: 17.95695
-
-- location: Max Vasagatan
-  city: Stockholm
-  latitude: 59.33234
-  longitude: 18.05735
-
-- location: Max i Vårby
-  city: Stockholm
-  latitude: 59.25138
-  longitude: 17.8766
-
-- location: Max i Värmdö
-  city: Stockholm
-  latitude: 59.31207
-  longitude: 18.42505
-
-- location: Max i Strömstad
-  city: Strömstad
-  latitude: 59.06511
-  longitude: 11.20562
-
-- location: Max i Sundsvall
-  city: Sundsvall
-  latitude: 62.44239
-  longitude: 17.34406
-
-- location: Max i Sundsvall
-  city: Sundsvall
-  latitude: 62.38698
-  longitude: 17.31938
-
-- location: Max i Södertälje
-  city: Södertälje
-  latitude: 59.20225
-  longitude: 17.60931
-
-- location: Max i Trollhättan
-  city: Trollhättan
-  latitude: 58.28535
-  longitude: 12.29134
-
-- location: Max i Trollhättan
-  city: Trollhättan
-  latitude: 58.31553
-  longitude: 12.30583
-
-- location: Max i Uddevalla
-  city: Uddevalla
-  latitude: 58.35169
-  longitude: 11.81156
-
-- location: Max i Umeå - Utopia
-  city: Umeå
-  latitude: 63.8257
-  longitude: 20.2645
-
-- location: Max i Umeå
-  city: Umeå
-  latitude: 63.82979
-  longitude: 20.25942
-
-- location: Max i Umeå
-  city: Umeå
-  latitude: 63.804002
-  longitude: 20.254753
-
-- location: Max i Uppsala
-  city: Uppsala
-  latitude: 59.85037
-  longitude: 17.69103
-
-- location: Max i Uppsala
-  city: Uppsala
-  latitude: 59.88565
-  longitude: 17.66553
-
-- location: Max i Uppsala
-  city: Uppsala
-  latitude: 59.86868
-  longitude: 17.65777
-
-- location: Max i Uppsala
-  city: Uppsala
-  latitude: 59.85886
-  longitude: 17.63865
-
-- location: Max i Visby
-  city: Visby
-  latitude: 57.63749
-  longitude: 18.30357
+- location: Max i Ljungby
+  city: Ljungby
+  latitude: 56.8125
+  longitude: 13.90722
 
 - location: Max i Värnamo
   city: Värnamo
   latitude: 57.16323
   longitude: 14.07426
 
-- location: Max i Västerås
-  city: Västerås
-  latitude: 59.6129
-  longitude: 16.46757
+- location: Max i Kristianstad
+  city: Kristianstad
+  latitude: 56.02249
+  longitude: 14.14483
 
-- location: Max i Västerås
-  city: Västerås
-  latitude: 59.61269
-  longitude: 16.6135
+- location: Max i Jönköping
+  city: Jönköping
+  latitude: 57.76517
+  longitude: 14.15294
 
-- location: Max i Västerås
-  city: Västerås
-  latitude: 59.61333
-  longitude: 16.57
+- location: Max i Jönköping
+  city: Jönköping
+  latitude: 57.77349
+  longitude: 14.17614
+
+- location: Max i Jönköping
+  city: Jönköping
+  latitude: 57.78056
+  longitude: 14.22667
+
+- location: Max i Karlskoga
+  city: Karlskoga
+  latitude: 59.32497
+  longitude: 14.52571
+
+- location: Max i Mora
+  city: Mora
+  latitude: 61.006738
+  longitude: 14.5982427
+
+- location: Max i Östersund
+  city: Östersund
+  latitude: 63.16759
+  longitude: 14.64362
 
 - location: Max i Växjö
   city: Växjö
@@ -536,20 +216,10 @@ locations:
   latitude: 56.8607832
   longitude: 14.8193192
 
-- location: Max i Ystad
-  city: Ystad
-  latitude: 55.4291
-  longitude: 13.82101
-
-- location: Max i Åre
-  city: Åre
-  latitude: 63.40041
-  longitude: 13.07803
-
-- location: Max i Örebro
-  city: Örebro
-  latitude: 59.26692
-  longitude: 15.22371
+- location: Max i Mjölby
+  city: Mjölby
+  latitude: 58.32389
+  longitude: 15.08972
 
 - location: Max i Örebro
   city: Örebro
@@ -561,12 +231,342 @@ locations:
   latitude: 59.29738
   longitude: 15.20349
 
+- location: Max i Örebro
+  city: Örebro
+  latitude: 59.26692
+  longitude: 15.22371
+
+- location: Max i Borlänge
+  city: Borlänge
+  latitude: 60.477048
+  longitude: 15.436252
+
+- location: Max i Linköping
+  city: Linköping
+  latitude: 58.43483
+  longitude: 15.59313
+
+- location: Max i Karlskrona
+  city: Karlskrona
+  latitude: 56.19543
+  longitude: 15.63229
+
+- location: Max i Falun
+  city: Falun
+  latitude: 60.60444
+  longitude: 15.64167
+
+- location: Max i Linköping
+  city: Linköping
+  latitude: 58.41762
+  longitude: 15.65716
+
+- location: Max i Köping
+  city: Köping
+  latitude: 59.52036
+  longitude: 15.97279
+
+- location: Max i Norrköping
+  city: Norrköping
+  latitude: 58.61194
+  longitude: 16.15944
+
+- location: Max i Norrköping
+  city: Norrköping
+  latitude: 58.59741
+  longitude: 16.1898
+
+- location: Max i Kalmar
+  city: Kalmar
+  latitude: 56.69138
+  longitude: 16.31586
+
+- location: Max i Kalmar
+  city: Kalmar
+  latitude: 56.6675
+  longitude: 16.35389
+
+- location: Max i Bollnäs
+  city: Bollnäs
+  latitude: 61.348635
+  longitude: 16.38843
+
+- location: Max i Eskilstuna
+  city: Eskilstuna
+  latitude: 59.3925
+  longitude: 16.46639
+
+- location: Max i Västerås
+  city: Västerås
+  latitude: 59.6129
+  longitude: 16.46757
+
+- location: Max i Eskilstuna
+  city: Eskilstuna
+  latitude: 59.37484
+  longitude: 16.47011
+
+- location: Max i Västerås
+  city: Västerås
+  latitude: 59.61333
+  longitude: 16.57
+
+- location: Max i Västerås
+  city: Västerås
+  latitude: 59.61269
+  longitude: 16.6135
+
+- location: Max i Nyköping
+  city: Nyköping
+  latitude: 58.74833
+  longitude: 16.97857
+
+- location: Max i Nyköping
+  city: Nyköping
+  latitude: 58.77317
+  longitude: 17.02339
+
+- location: Max i Hudiksvall
+  city: Hudiksvall
+  latitude: 61.7145
+  longitude: 17.046834
+
+- location: Max i Enköping
+  city: Enköping
+  latitude: 59.65295
+  longitude: 17.081303
+
+- location: Max i Gävle
+  city: Gävle
+  latitude: 60.68083
+  longitude: 17.13691
+
+- location: Max i Gävle
+  city: Gävle
+  latitude: 60.6393834
+  longitude: 17.1424889
+
+- location: Max i Gävle
+  city: Gävle
+  latitude: 60.66007
+  longitude: 17.16041
+
+- location: Max i Sundsvall
+  city: Sundsvall
+  latitude: 62.38698
+  longitude: 17.31938
+
+- location: Max i Sundsvall
+  city: Sundsvall
+  latitude: 62.44239
+  longitude: 17.34406
+
+- location: Max i Södertälje
+  city: Södertälje
+  latitude: 59.20225
+  longitude: 17.60931
+
+- location: Max i Uppsala
+  city: Uppsala
+  latitude: 59.85886
+  longitude: 17.63865
+
+- location: Max i Uppsala
+  city: Uppsala
+  latitude: 59.86868
+  longitude: 17.65777
+
+- location: Max i Uppsala
+  city: Uppsala
+  latitude: 59.88565
+  longitude: 17.66553
+
+- location: Max i Uppsala
+  city: Uppsala
+  latitude: 59.85037
+  longitude: 17.69103
+
+- location: Max i Märsta
+  city: Märsta
+  latitude: 59.6163672
+  longitude: 17.8493643
+
+- location: Max i Slagsta
+  city: Stockholm
+  latitude: 59.253163
+  longitude: 17.854166
+
+- location: Max i Barkarby
+  city: Stockholm
+  latitude: 59.4207
+  longitude: 17.85438
+
+- location: Max i Vårby
+  city: Stockholm
+  latitude: 59.25138
+  longitude: 17.8766
+
+- location: Max i Rotebro
+  city: Stockholm
+  latitude: 59.47065
+  longitude: 17.917537
+
+- location: Max Infra City
+  city: Stockholm
+  latitude: 59.49583
+  longitude: 17.92417
+
+- location: Max på Arlanda
+  city: Stockholm
+  latitude: 59.64765
+  longitude: 17.92853
+
+- location: Max på Arlanda
+  city: Stockholm
+  latitude: 59.651127
+  longitude: 17.930795
+
+- location: Max på Arlanda
+  city: Stockholm
+  latitude: 59.65177
+  longitude: 17.93443
+
+- location: Max i Häggvik
+  city: Stockholm
+  latitude: 59.4454448
+  longitude: 17.9422731
+
+- location: Max i Kista
+  city: Stockholm
+  latitude: 59.40244
+  longitude: 17.94658
+
+- location: Max i Bromma
+  city: Stockholm
+  latitude: 59.35056
+  longitude: 17.95695
+
+- location: Max i Solna
+  city: Stockholm
+  latitude: 59.36046
+  longitude: 17.99429
+
+- location: Max i Mall of Scandinavia
+  city: Stockholm
+  latitude: 59.3694981
+  longitude: 18.0054078
+
+- location: Max på Torsplan
+  city: Stockholm
+  latitude: 59.346746
+  longitude: 18.032167
+
+- location: Max Vasagatan
+  city: Stockholm
+  latitude: 59.33234
+  longitude: 18.05735
+
+- location: Max i Roslags-Näsby
+  city: Stockholm
+  latitude: 59.434331
+  longitude: 18.066365
+
+- location: Max Hamngatan
+  city: Stockholm
+  latitude: 59.33274
+  longitude: 18.07174
+
+- location: Max i Hammarby Sjöstad
+  city: Stockholm
+  latitude: 59.30215
+  longitude: 18.10321
+
+- location: Max i Arninge
+  city: Stockholm
+  latitude: 59.46
+  longitude: 18.12889
+
+- location: Max i Länna
+  city: Stockholm
+  latitude: 59.2
+  longitude: 18.12944
+
+- location: Max i Lidingö
+  city: Stockholm
+  latitude: 59.3483756
+  longitude: 18.1530999
+
+- location: Max i Visby
+  city: Visby
+  latitude: 57.63749
+  longitude: 18.30357
+
+- location: Max i Värmdö
+  city: Stockholm
+  latitude: 59.31207
+  longitude: 18.42505
+
 - location: Max i Örnsköldsvik
   city: Örnsköldsvik
   latitude: 63.29073
   longitude: 18.7051
 
-- location: Max i Östersund
-  city: Östersund
-  latitude: 63.16759
-  longitude: 14.64362
+- location: Max i Umeå
+  city: Umeå
+  latitude: 63.804002
+  longitude: 20.254753
+
+- location: Max i Umeå
+  city: Umeå
+  latitude: 63.82979
+  longitude: 20.25942
+
+- location: Max i Umeå - Utopia
+  city: Umeå
+  latitude: 63.8257
+  longitude: 20.2645
+
+- location: Max i Skellefteå
+  city: Skellefteå
+  latitude: 64.75089
+  longitude: 20.95988
+
+- location: Krysset gatukök
+  city: Skellefteå
+  latitude: 64.7376643
+  longitude: 20.9640529
+
+- location: Max i Piteå
+  city: Piteå
+  latitude: 65.32063
+  longitude: 21.47412
+
+- location: Max i Boden
+  city: Boden
+  latitude: 65.81734
+  longitude: 21.70799
+
+- location: Max i Luleå
+  city: Luleå
+  latitude: 65.61809
+  longitude: 22.04153
+
+- location: Max i Luleå
+  city: Luleå
+  latitude: 65.60239
+  longitude: 22.13859
+
+- location: Max i Luleå
+  city: Luleå
+  latitude: 65.59006
+  longitude: 22.14797
+
+- location: Max i Luleå
+  city: Luleå
+  latitude: 65.58531
+  longitude: 22.1544
+
+- location: Max i Haparanda
+  city: Haparanda
+  latitude: 65.84106
+  longitude: 24.13335

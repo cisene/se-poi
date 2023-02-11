@@ -6,6 +6,11 @@ meta:
   locations: 13
 
 locations:
+- location: Bauhaus Göteborg Hedkärr 103
+  city: Uddevalla
+  latitude: 58.3537
+  longitude: 11.8113
+
 - location: Bauhaus Transportgatan 19
   city: Göteborg
   latitude: 57.7689
@@ -16,45 +21,20 @@ locations:
   latitude: 56.0985
   longitude: 12.8775
 
-- location: Bauhaus Stockholm Barkaby Enköpingsv
-  city: Järfälla
-  latitude: 59.4233
-  longitude: 17.8542
-
 - location: Bauhaus Handelsvägen 1
   city: Löddeköpinge
   latitude: 55.7705
   longitude: 12.9848
-
-- location: Bauhaus Kromgatan 2
-  city: Norrköping
-  latitude: 58.61167
-  longitude: 16.16861
 
 - location: Bauhaus Nornegatan 8
   city: Malmö
   latitude: 55.5531
   longitude: 12.9947
 
-- location: Bauhaus Stockholm Segersbyvägen 26
-  city: Norsborg
-  latitude: 59.2375
-  longitude: 17.8361
-
-- location: Bauhaus Stockholm Gamla Nynäsv 600
-  city: Skogås
-  latitude: 59.1995
-  longitude: 18.1344
-
-- location: Bauhaus Göteborg Hedkärr 103
-  city: Uddevalla
-  latitude: 58.3537
-  longitude: 11.8113
-
-- location: Bauhaus Verkstadsgatan 16
-  city: Uppsala
-  latitude: 59.8477
-  longitude: 17.6874
+- location: Bauhaus Kromgatan 2
+  city: Norrköping
+  latitude: 58.61167
+  longitude: 16.16861
 
 - location: Bauhaus Hallsta Gårdsgatan 1
   city: Västerås
@@ -66,7 +46,27 @@ locations:
   latitude: 62.43944
   longitude: 17.33194
 
+- location: Bauhaus Verkstadsgatan 16
+  city: Uppsala
+  latitude: 59.8477
+  longitude: 17.6874
+
+- location: Bauhaus Stockholm Segersbyvägen 26
+  city: Norsborg
+  latitude: 59.2375
+  longitude: 17.8361
+
+- location: Bauhaus Stockholm Barkaby Enköpingsv
+  city: Järfälla
+  latitude: 59.4233
+  longitude: 17.8542
+
 - location: Bauhaus Stockholm Bryggerivägen 12D
   city: Bromma
   latitude: 59.35
   longitude: 17.96389
+
+- location: Bauhaus Stockholm Gamla Nynäsv 600
+  city: Skogås
+  latitude: 59.1995
+  longitude: 18.1344

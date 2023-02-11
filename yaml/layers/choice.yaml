@@ -6,80 +6,15 @@ meta:
   locations: 68
 
 locations:
-- location: Quality Hotel Konserthuset
-  city: Malmö
-  latitude: 55.59934
-  longitude: 13.00794
+- location: Quality Spa & Resort
+  city: Strömstad
+  latitude: 58.94422
+  longitude: 11.16076
 
-- location: Clarion Collection Hotel Temperance
-  city: Malmö
-  latitude: 55.60382
-  longitude: 12.99839
-
-- location: Comfort Hotel Malmö
-  city: Malmö
-  latitude: 55.61067
-  longitude: 13.00118
-
-- location: Quality Hotel Grand
-  city: Kristianstad
-  latitude: 56.03235
-  longitude: 14.15333
-
-- location: Comfort Hotel Nouveau
-  city: Helsingborg
-  latitude: 56.041
-  longitude: 12.6999
-
-- location: Clarion Grand Hotel
-  city: Helsingborg
-  latitude: 56.0464
-  longitude: 12.6943
-
-- location: Clarion Collection Hotel Carlscrona
-  city: Karlskrona
-  latitude: 56.1669
-  longitude: 15.5904
-
-- location: Quality Hotel
-  city: Halmstad
-  latitude: 56.65399
-  longitude: 12.91181
-
-- location: Clarion Collection Hotel Packhuset
-  city: Kalmar
-  latitude: 56.66134
-  longitude: 16.36555
-
-- location: Clarion Collection Hotel Norre Park
-  city: Halmstad
-  latitude: 56.67808
-  longitude: 12.85864
-
-- location: Quality Hotel
-  city: Växjo
-  latitude: 56.87901
-  longitude: 14.83261
-
-- location: Clarion Collection Hotel Fregatten
-  city: Varberg
-  latitude: 57.10751
-  longitude: 12.24619
-
-- location: Clarion Collection Hotel Post
-  city: Oskarshamn
-  latitude: 57.26475
-  longitude: 16.44947
-
-- location: Clarion Hotel Wisby
-  city: Visby
-  latitude: 57.63856
-  longitude: 18.29079
-
-- location: Quality Hotel Panorama
-  city: Göteborg
-  latitude: 57.68959
-  longitude: 11.98789
+- location: Stenungsbaden Yacht Club
+  city: Stenungsund
+  latitude: 58.0637
+  longitude: 11.8071
 
 - location: Quality Hotel 11
   city: Göteborg
@@ -96,85 +31,75 @@ locations:
   latitude: 57.70879
   longitude: 11.97902
 
-- location: Comfort Hotel Jazz
-  city: Borås
-  latitude: 57.72117
-  longitude: 12.94196
-
 - location: Quality Hotel Winn
   city: Göteborg
   latitude: 57.7309
   longitude: 11.98042
 
-- location: Quality Hotel
-  city: Jönköping
-  latitude: 57.76128
-  longitude: 14.19232
+- location: Quality Hotel Panorama
+  city: Göteborg
+  latitude: 57.68959
+  longitude: 11.98789
 
-- location: Comfort Hotel
-  city: Jönköping
-  latitude: 57.77876
-  longitude: 14.1564
-
-- location: Clarion Collection Hotel Victoria
-  city: Jönköping
-  latitude: 57.78242
-  longitude: 14.16041
-
-- location: Quality Hotel Winn
-  city: Jönköping
-  latitude: 57.81498
-  longitude: 14.2707
-
-- location: Stenungsbaden Yacht Club
-  city: Stenungsund
-  latitude: 58.0637
-  longitude: 11.8071
+- location: Clarion Collection Hotel Fregatten
+  city: Varberg
+  latitude: 57.10751
+  longitude: 12.24619
 
 - location: Quality Hotel
   city: Vänersborg
   latitude: 58.36229
   longitude: 12.31885
 
-- location: Quality Hotel Prisma
-  city: Skövde
-  latitude: 58.3892
-  longitude: 13.8577
+- location: Comfort Hotel Bristol
+  city: Arvika
+  latitude: 59.65511
+  longitude: 12.59346
 
-- location: Clarion Collection Hotel Majoren
-  city: Skövde
-  latitude: 58.39074
-  longitude: 13.85007
+- location: Clarion Grand Hotel
+  city: Helsingborg
+  latitude: 56.0464
+  longitude: 12.6943
 
-- location: Quality Hotel Ekoxen
-  city: Linköping
-  latitude: 58.40565
-  longitude: 15.62428
+- location: Comfort Hotel Nouveau
+  city: Helsingborg
+  latitude: 56.041
+  longitude: 12.6999
 
-- location: Clarion Collection Hotel Kompaniet
-  city: Nyköping
-  latitude: 58.74812
-  longitude: 17.01589
+- location: Clarion Collection Hotel Norre Park
+  city: Halmstad
+  latitude: 56.67808
+  longitude: 12.85864
 
-- location: Quality Spa & Resort
-  city: Strömstad
-  latitude: 58.94422
-  longitude: 11.16076
+- location: Quality Hotel
+  city: Halmstad
+  latitude: 56.65399
+  longitude: 12.91181
 
 - location: Comfort Hotel Royal
   city: Säffle
   latitude: 59.1304
   longitude: 12.9215
 
-- location: Quality Hotel Winn
-  city: Haninge
-  latitude: 59.1655
-  longitude: 18.1349
+- location: Comfort Hotel Jazz
+  city: Borås
+  latitude: 57.72117
+  longitude: 12.94196
 
-- location: Comfort Hotel Bristol
-  city: Arvika
-  latitude: 59.65511
-  longitude: 12.59346
+- location: Clarion Collection Hotel Temperance
+  city: Malmö
+  latitude: 55.60382
+  longitude: 12.99839
+
+- location: Comfort Hotel Malmö
+  city: Malmö
+  latitude: 55.61067
+  longitude: 13.00118
+
+- location: Quality Hotel Konserthuset
+  city: Malmö
+  latitude: 55.59934
+  longitude: 13.00794
 
 - location: Selma Spa
   city: Sunne
@@ -201,10 +126,50 @@ locations:
   latitude: 59.37971
   longitude: 13.50886
 
+- location: Clarion Collection Hotel Majoren
+  city: Skövde
+  latitude: 58.39074
+  longitude: 13.85007
+
+- location: Quality Hotel Prisma
+  city: Skövde
+  latitude: 58.3892
+  longitude: 13.8577
+
+- location: Quality Hotel Grand
+  city: Kristianstad
+  latitude: 56.03235
+  longitude: 14.15333
+
+- location: Comfort Hotel
+  city: Jönköping
+  latitude: 57.77876
+  longitude: 14.1564
+
+- location: Clarion Collection Hotel Victoria
+  city: Jönköping
+  latitude: 57.78242
+  longitude: 14.16041
+
+- location: Quality Hotel
+  city: Jönköping
+  latitude: 57.76128
+  longitude: 14.19232
+
+- location: Quality Hotel Winn
+  city: Jönköping
+  latitude: 57.81498
+  longitude: 14.2707
+
 - location: Clarion Hotel Grand
   city: Östersund
   latitude: 63.1802
   longitude: 14.6363
+
+- location: Quality Hotel
+  city: Växjo
+  latitude: 56.87901
+  longitude: 14.83261
 
 - location: Quality Hotel
   city: Örebro
@@ -221,10 +186,30 @@ locations:
   latitude: 60.48806
   longitude: 15.43028
 
+- location: Clarion Collection Hotel Carlscrona
+  city: Karlskrona
+  latitude: 56.1669
+  longitude: 15.5904
+
+- location: Quality Hotel Ekoxen
+  city: Linköping
+  latitude: 58.40565
+  longitude: 15.62428
+
 - location: Clarion Collection Hotel Bergmästaren
   city: Falun
   latitude: 60.6059
   longitude: 15.6355
+
+- location: Clarion Collection Hotel Packhuset
+  city: Kalmar
+  latitude: 56.66134
+  longitude: 16.36555
+
+- location: Clarion Collection Hotel Post
+  city: Oskarshamn
+  latitude: 57.26475
+  longitude: 16.44947
 
 - location: Quality Hotel
   city: Västerås
@@ -245,6 +230,11 @@ locations:
   city: Västerås
   latitude: 59.60978
   longitude: 16.54601
+
+- location: Clarion Collection Hotel Kompaniet
+  city: Nyköping
+  latitude: 58.74812
+  longitude: 17.01589
 
 - location: Clarion Hotel Winn
   city: Gävle
@@ -321,10 +311,20 @@ locations:
   latitude: 59.30709
   longitude: 18.12023
 
+- location: Quality Hotel Winn
+  city: Haninge
+  latitude: 59.1655
+  longitude: 18.1349
+
 - location: Yasuragi Hasseludden
   city: Saltsjö-Boo
   latitude: 59.3458
   longitude: 18.2404
+
+- location: Clarion Hotel Wisby
+  city: Visby
+  latitude: 57.63856
+  longitude: 18.29079
 
 - location: Clarion Collection Hotel Uman
   city: Umeå

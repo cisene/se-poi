@@ -6,383 +6,11 @@ meta:
   locations: 79
 
 locations:
-- location: 7-Eleven Gbg Kungsportsavenyn 34
-  urn: urn:seveneleven:store:id:17152
-  city: Göteborg
-  latitude: 57.6988144
-  longitude: 11.9773121
-
-- location: 7-Eleven Kungsportsplatsen
-  urn: urn:seveneleven:store:id:15200
-  city: Göteborg
-  latitude: 57.7039
-  longitude: 11.96935
-
-- location: 7-Eleven Drottninggatan 106
-  urn: urn:seveneleven:store:id:21117
-  city: Stockholm
-  latitude: 59.3386765
-  longitude: 18.05671
-
-- location: 7-Eleven Drottning Kristinas Väg
-  urn: urn:seveneleven:store:id:18126
-  city: Stockholm
-  latitude: 59.3465843
-  longitude: 18.0721111
-
-- location: 7-Eleven Hammarbyhöjden
-  urn: urn:seveneleven:store:id:22101
-  city: Johanneshov
-  latitude: 59.295509
-  longitude: 18.102722
-
-- location: 7-Eleven Vasagatan 44
-  urn: urn:seveneleven:store:id:17107
-  city: Stockholm
-  latitude: 59.3336945
-  longitude: 18.0565376
-
-- location: 7-Eleven Birger Jarlsgatan 2
-  urn: urn:seveneleven:store:id:16125
-  city: Stockholm
-  latitude: 59.33326
-  longitude: 18.0756168
-
-- location: 7-Eleven Götgatan 25
-  urn: urn:seveneleven:store:id:19113
-  city: Stockholm
-  latitude: 59.3172836
-  longitude: 18.0717659
-
-- location: 7-Eleven Sundbyberg
-  urn: urn:seveneleven:store:id:18129
-  city: Sundbyberg
-  latitude: 59.362622
-  longitude: 17.970593
-
-- location: 7-Eleven Korsetten
-  urn: urn:seveneleven:store:id:15217
-  city: Göteborg
-  latitude: 57.705529
-  longitude: 11.969163
-
-- location: 7-Eleven Gbg Kungsportsavenyn 14
-  urn: urn:seveneleven:store:id:15155
-  city: Göteborg
-  latitude: 57.70087
-  longitude: 11.9744663
-
-- location: 7-Eleven Sthlm Klarabergsgatan
-  urn: urn:seveneleven:store:id:18147
-  city: Stockholm
-  latitude: 59.3317375
-  longitude: 18.06055
-
-- location: 7-Eleven Express Solna C
-  urn: urn:seveneleven:store:id:15194
-  city: Solna
-  latitude: 59.358698
-  longitude: 17.998882
-
-- location: 7-Eleven Birger Jarlsgatan 39
-  urn: urn:seveneleven:store:id:19136
-  city: Stockholm
-  latitude: 59.33893
-  longitude: 18.068224
-
-- location: 7-Eleven Express Malmö Airport
-  urn: urn:seveneleven:store:id:15182
-  city: Malmö-Sturup
-  latitude: 55.540388
-  longitude: 13.364866
-
-- location: 7-Eleven Sthlm Lilla Bantorget
-  urn: urn:seveneleven:store:id:15191
-  city: Stockholm
-  latitude: 59.335519
-  longitude: 18.05142
-
-- location: 7-Eleven Jönköping Ryhov
-  urn: urn:seveneleven:store:id:15203
-  city: Jönköping
-  latitude: 57.766524
-  longitude: 14.194518
-
-- location: 7-Eleven Malmö Kungalängan
-  urn: urn:seveneleven:store:id:15197
-  city: Malmö
-  latitude: 55.60873
-  longitude: 13.00047
-
-- location: 7-Eleven Gbg Linnégatan 1
-  urn: urn:seveneleven:store:id:16157
-  city: Göteborg
-  latitude: 57.6994247
-  longitude: 11.9520931
-
-- location: 7-Eleven Hantverkargatan 21
-  urn: urn:seveneleven:store:id:20102
-  city: Stockholm
-  latitude: 59.3285
-  longitude: 18.0468769
-
-- location: 7-Eleven Norrtullsgatan
-  urn: urn:seveneleven:store:id:19133
-  city: Stockholm
-  latitude: 59.3443451
-  longitude: 18.04958
-
-- location: 7-Eleven Gbg Västra Hamngatan
-  urn: urn:seveneleven:store:id:16150
-  city: Göteborg
-  latitude: 57.70285
-  longitude: 11.9642811
-
-- location: 7-Eleven Sthlm Storgatan
-  urn: urn:seveneleven:store:id:17146
-  city: Stockholm
-  latitude: 59.3349037
-  longitude: 18.0842476
-
-- location: 7-Eleven Sthlm Centralplan
-  urn: urn:seveneleven:store:id:15177
-  city: Stockholm
-  latitude: 59.3311272
-  longitude: 18.0586586
-
-- location: 7-Eleven Drottninggatan 90 B
-  urn: urn:seveneleven:store:id:15172
-  city: Stockholm
-  latitude: 59.336792
-  longitude: 18.0585136
-
-- location: 7-Eleven Hantverkargatan
-  urn: urn:seveneleven:store:id:18104
-  city: Stockholm
-  latitude: 59.33117
-  longitude: 18.0306435
-
-- location: 7-Eleven Express Gbg Cstn
-  urn: urn:seveneleven:store:id:15207
-  city: Göteborg
-  latitude: 57.709077
-  longitude: 11.973145
-
-- location: 7-Eleven Gbg Berzeliigatan
-  urn: urn:seveneleven:store:id:20148
-  city: Göteborg
-  latitude: 57.6992645
-  longitude: 11.9839869
-
 - location: 7-Eleven Frölunda Torg
   urn: urn:seveneleven:store:id:16151
   city: Västra Frölunda
   latitude: 57.652347
   longitude: 11.910971
-
-- location: 7-Eleven Flemingatan 34
-  urn: urn:seveneleven:store:id:21120
-  city: Stockholm
-  latitude: 59.33416
-  longitude: 18.035817
-
-- location: 7-Eleven Malmö Baltzarsgatan
-  urn: urn:seveneleven:store:id:15186
-  city: Malmö
-  latitude: 55.604555
-  longitude: 13.003187
-
-- location: 7-Eleven Gbg Vasagatan 36
-  urn: urn:seveneleven:store:id:17153
-  city: Göteborg
-  latitude: 57.69876
-  longitude: 11.9694557
-
-- location: 7-Eleven Sthlm Universitetsvägen
-  urn: urn:seveneleven:store:id:15167
-  city: Stockholm
-  latitude: 59.362633
-  longitude: 18.058573
-
-- location: 7-Eleven Regeringsgatan 54
-  urn: urn:seveneleven:store:id:15174
-  city: Stockholm
-  latitude: 59.33523
-  longitude: 18.0676727
-
-- location: 7-Eleven Sthlm Sturegatan 9
-  urn: urn:seveneleven:store:id:17169
-  city: Stockholm
-  latitude: 59.34064
-  longitude: 18.0764637
-
-- location: 7-Eleven Femmahuset Göteborg
-  urn: urn:seveneleven:store:id:15193
-  city: Göteborg
-  latitude: 57.708609
-  longitude: 11.970198
-
-- location: 7-Eleven Citykajen
-  urn: urn:seveneleven:store:id:15190
-  city: Malmö
-  latitude: 55.609023
-  longitude: 12.996244
-
-- location: 7-Eleven Sankt Eriksgatan 44
-  urn: urn:seveneleven:store:id:15214
-  city: Stockholm
-  latitude: 59.33488
-  longitude: 18.033102
-
-- location: 7-Eleven Odengatan 77
-  urn: urn:seveneleven:store:id:18134
-  city: Stockholm
-  latitude: 59.3424339
-  longitude: 18.0488472
-
-- location: 7-Eleven Sthlm Götgatan 90
-  urn: urn:seveneleven:store:id:16170
-  city: Stockholm
-  latitude: 59.3104935
-  longitude: 18.075161
-
-- location: 7-Eleven Dragarbrunnsgatan 39
-  urn: urn:seveneleven:store:id:15220
-  city: Uppsala
-  latitude: 59.859135
-  longitude: 17.64035
-
-- location: 7-Eleven Flemingatan 19
-  urn: urn:seveneleven:store:id:15108
-  city: Stockholm
-  latitude: 59.3328
-  longitude: 18.04516
-
-- location: 7-Eleven 7 Eleven Korsvägen
-  urn: urn:seveneleven:store:id:15219
-  city: Göteborg
-  latitude: 57.696637
-  longitude: 11.986741
-
-- location: 7-Eleven Odengatan 32
-  urn: urn:seveneleven:store:id:18116
-  city: Stockholm
-  latitude: 59.345241
-  longitude: 18.059565
-
-- location: 7-Eleven Klarabergsviadukten 82
-  urn: urn:seveneleven:store:id:15183
-  city: Stockholm
-  latitude: 59.330453
-  longitude: 18.054594
-
-- location: 7-Eleven Hornsbruksgatan
-  urn: urn:seveneleven:store:id:16145
-  city: Stockholm
-  latitude: 59.3159637
-  longitude: 18.0343266
-
-- location: 7-Eleven Gbg Nils Ericsonsplatsen
-  urn: urn:seveneleven:store:id:24101
-  city: Göteborg
-  latitude: 57.709471
-  longitude: 11.972013
-
-- location: 7-Eleven Gyllenstiernsgatan
-  urn: urn:seveneleven:store:id:19132
-  city: Stockholm
-  latitude: 59.337986
-  longitude: 18.101223
-
-- location: 7-Eleven Folkungagatan 52
-  urn: urn:seveneleven:store:id:15215
-  city: Stockholm
-  latitude: 59.314204
-  longitude: 18.074266
-
-- location: 7-Eleven Östra Hamngatan 30-34  7-Eleven
-  urn: urn:seveneleven:store:id:15213
-  city: Göteborg
-  latitude: 57.707158
-  longitude: 11.968223
-
-- location: 7-Eleven Ullevi
-  urn: urn:seveneleven:store:id:15192
-  city: Göteborg
-  latitude: 57.7064
-  longitude: 11.984314
-
-- location: 7-Eleven Norrlandsgatan
-  urn: urn:seveneleven:store:id:15202
-  city: Stockholm
-  latitude: 59.333659
-  longitude: 18.071164
-
-- location: 7-Eleven Odengatan 22
-  urn: urn:seveneleven:store:id:17175
-  city: Stockholm
-  latitude: 59.3457451
-  longitude: 18.06252
-
-- location: 7-Eleven Universitetet T-bana
-  urn: urn:seveneleven:store:id:15210
-  city: Stockholm
-  latitude: 59.365283
-  longitude: 18.054474
-
-- location: 7-Eleven S:t  Eriksgatan 89
-  urn: urn:seveneleven:store:id:21128
-  city: Stockholm
-  latitude: 59.342119
-  longitude: 18.037877
-
-- location: 7-Eleven Incheckningshallen
-  urn: urn:seveneleven:store:id:15205
-  city: Landvetter
-  latitude: 57.668584
-  longitude: 12.296201
-
-- location: 7-Eleven Sthlm Kungsgatan 9
-  urn: urn:seveneleven:store:id:19112
-  city: Stockholm
-  latitude: 59.3360519
-  longitude: 18.0701542
-
-- location: 7-Eleven Sveavägen 55
-  urn: urn:seveneleven:store:id:17105
-  city: Stockholm
-  latitude: 59.340557
-  longitude: 18.058509
-
-- location: 7-Eleven Västerlånggatan 38
-  urn: urn:seveneleven:store:id:16131
-  city: Stockholm
-  latitude: 59.3244743
-  longitude: 18.0699978
-
-- location: 7-Eleven Rörstrandsgatan
-  urn: urn:seveneleven:store:id:19114
-  city: Stockholm
-  latitude: 59.34
-  longitude: 18.0340538
-
-- location: 7-Eleven Gbg Linnégatan 26
-  urn: urn:seveneleven:store:id:17142
-  city: Göteborg
-  latitude: 57.6970139
-  longitude: 11.9512911
-
-- location: 7-Eleven Tegnergatan
-  urn: urn:seveneleven:store:id:21141
-  city: Stockholm
-  latitude: 59.3402
-  longitude: 18.0625019
-
-- location: 7-Eleven Lund Knut den Stores T
-  urn: urn:seveneleven:store:id:15166
-  city: Lund
-  latitude: 55.705437
-  longitude: 13.187603
 
 - location: 7-Eleven Slottsskogsgatan
   urn: urn:seveneleven:store:id:16156
@@ -390,41 +18,17 @@ locations:
   latitude: 57.687371
   longitude: 11.921968
 
-- location: 7-Eleven Linnegatan 27
-  urn: urn:seveneleven:store:id:21109
-  city: Stockholm
-  latitude: 59.3371048
-  longitude: 18.0807323
-
-- location: 7-Eleven Skånegatan 79
-  urn: urn:seveneleven:store:id:20123
-  city: Stockholm
-  latitude: 59.312811
-  longitude: 18.082728
-
-- location: 7-Eleven Arlanda Inrikes
-  urn: urn:seveneleven:store:id:15180
-  city: Stockholm-Arlanda
-  latitude: 59.647881
-  longitude: 17.928566
-
-- location: 7-Eleven Linköping Lus
-  urn: urn:seveneleven:store:id:15198
-  city: Linköping
-  latitude: 58.401532
-  longitude: 15.620724
-
-- location: 7-Eleven Medborgarplatsen 13
-  urn: urn:seveneleven:store:id:19137
-  city: Stockholm
-  latitude: 59.31522
-  longitude: 18.07129
-
-- location: 7-Eleven Drottningtorget
-  urn: urn:seveneleven:store:id:15221
+- location: 7-Eleven Gbg Linnégatan 26
+  urn: urn:seveneleven:store:id:17142
   city: Göteborg
-  latitude: 57.707608
-  longitude: 11.971633
+  latitude: 57.6970139
+  longitude: 11.9512911
+
+- location: 7-Eleven Gbg Linnégatan 1
+  urn: urn:seveneleven:store:id:16157
+  city: Göteborg
+  latitude: 57.6994247
+  longitude: 11.9520931
 
 - location: 7-Eleven Gbg Kungsgatan 20
   urn: urn:seveneleven:store:id:15158
@@ -438,11 +42,101 @@ locations:
   latitude: 57.697365
   longitude: 11.962963
 
-- location: 7-Eleven Valhallavägen 133
-  urn: urn:seveneleven:store:id:19118
-  city: Stockholm
-  latitude: 59.34183
-  longitude: 18.0872612
+- location: 7-Eleven Gbg Västra Hamngatan
+  urn: urn:seveneleven:store:id:16150
+  city: Göteborg
+  latitude: 57.70285
+  longitude: 11.9642811
+
+- location: 7-Eleven Östra Hamngatan 30-34  7-Eleven
+  urn: urn:seveneleven:store:id:15213
+  city: Göteborg
+  latitude: 57.707158
+  longitude: 11.968223
+
+- location: 7-Eleven Korsetten
+  urn: urn:seveneleven:store:id:15217
+  city: Göteborg
+  latitude: 57.705529
+  longitude: 11.969163
+
+- location: 7-Eleven Kungsportsplatsen
+  urn: urn:seveneleven:store:id:15200
+  city: Göteborg
+  latitude: 57.7039
+  longitude: 11.96935
+
+- location: 7-Eleven Gbg Vasagatan 36
+  urn: urn:seveneleven:store:id:17153
+  city: Göteborg
+  latitude: 57.69876
+  longitude: 11.9694557
+
+- location: 7-Eleven Femmahuset Göteborg
+  urn: urn:seveneleven:store:id:15193
+  city: Göteborg
+  latitude: 57.708609
+  longitude: 11.970198
+
+- location: 7-Eleven Drottningtorget
+  urn: urn:seveneleven:store:id:15221
+  city: Göteborg
+  latitude: 57.707608
+  longitude: 11.971633
+
+- location: 7-Eleven Gbg Nils Ericsonsplatsen
+  urn: urn:seveneleven:store:id:24101
+  city: Göteborg
+  latitude: 57.709471
+  longitude: 11.972013
+
+- location: 7-Eleven Express Gbg Cstn
+  urn: urn:seveneleven:store:id:15207
+  city: Göteborg
+  latitude: 57.709077
+  longitude: 11.973145
+
+- location: 7-Eleven Gbg Kungsportsavenyn 14
+  urn: urn:seveneleven:store:id:15155
+  city: Göteborg
+  latitude: 57.70087
+  longitude: 11.9744663
+
+- location: 7-Eleven Gbg Kungsportsavenyn 34
+  urn: urn:seveneleven:store:id:17152
+  city: Göteborg
+  latitude: 57.6988144
+  longitude: 11.9773121
+
+- location: 7-Eleven Gbg Berzeliigatan
+  urn: urn:seveneleven:store:id:20148
+  city: Göteborg
+  latitude: 57.6992645
+  longitude: 11.9839869
+
+- location: 7-Eleven Ullevi
+  urn: urn:seveneleven:store:id:15192
+  city: Göteborg
+  latitude: 57.7064
+  longitude: 11.984314
+
+- location: 7-Eleven 7 Eleven Korsvägen
+  urn: urn:seveneleven:store:id:15219
+  city: Göteborg
+  latitude: 57.696637
+  longitude: 11.986741
+
+- location: 7-Eleven Incheckningshallen
+  urn: urn:seveneleven:store:id:15205
+  city: Landvetter
+  latitude: 57.668584
+  longitude: 12.296201
+
+- location: 7-Eleven Citykajen
+  urn: urn:seveneleven:store:id:15190
+  city: Malmö
+  latitude: 55.609023
+  longitude: 12.996244
 
 - location: 7-Eleven Rådmansgatan 13
   urn: urn:seveneleven:store:id:15209
@@ -450,11 +144,257 @@ locations:
   latitude: 55.594258
   longitude: 12.999864
 
+- location: 7-Eleven Malmö Kungalängan
+  urn: urn:seveneleven:store:id:15197
+  city: Malmö
+  latitude: 55.60873
+  longitude: 13.00047
+
+- location: 7-Eleven Malmö Baltzarsgatan
+  urn: urn:seveneleven:store:id:15186
+  city: Malmö
+  latitude: 55.604555
+  longitude: 13.003187
+
+- location: 7-Eleven Lund Knut den Stores T
+  urn: urn:seveneleven:store:id:15166
+  city: Lund
+  latitude: 55.705437
+  longitude: 13.187603
+
+- location: 7-Eleven Express Malmö Airport
+  urn: urn:seveneleven:store:id:15182
+  city: Malmö-Sturup
+  latitude: 55.540388
+  longitude: 13.364866
+
+- location: 7-Eleven Jönköping Ryhov
+  urn: urn:seveneleven:store:id:15203
+  city: Jönköping
+  latitude: 57.766524
+  longitude: 14.194518
+
+- location: 7-Eleven Linköping Lus
+  urn: urn:seveneleven:store:id:15198
+  city: Linköping
+  latitude: 58.401532
+  longitude: 15.620724
+
+- location: 7-Eleven Dragarbrunnsgatan 39
+  urn: urn:seveneleven:store:id:15220
+  city: Uppsala
+  latitude: 59.859135
+  longitude: 17.64035
+
+- location: 7-Eleven Arlanda Inrikes
+  urn: urn:seveneleven:store:id:15180
+  city: Stockholm-Arlanda
+  latitude: 59.647881
+  longitude: 17.928566
+
+- location: 7-Eleven Sundbyberg
+  urn: urn:seveneleven:store:id:18129
+  city: Sundbyberg
+  latitude: 59.362622
+  longitude: 17.970593
+
+- location: 7-Eleven Express Solna C
+  urn: urn:seveneleven:store:id:15194
+  city: Solna
+  latitude: 59.358698
+  longitude: 17.998882
+
+- location: 7-Eleven Hantverkargatan
+  urn: urn:seveneleven:store:id:18104
+  city: Stockholm
+  latitude: 59.33117
+  longitude: 18.0306435
+
+- location: 7-Eleven Sankt Eriksgatan 44
+  urn: urn:seveneleven:store:id:15214
+  city: Stockholm
+  latitude: 59.33488
+  longitude: 18.033102
+
+- location: 7-Eleven Rörstrandsgatan
+  urn: urn:seveneleven:store:id:19114
+  city: Stockholm
+  latitude: 59.34
+  longitude: 18.0340538
+
+- location: 7-Eleven Hornsbruksgatan
+  urn: urn:seveneleven:store:id:16145
+  city: Stockholm
+  latitude: 59.3159637
+  longitude: 18.0343266
+
+- location: 7-Eleven Flemingatan 34
+  urn: urn:seveneleven:store:id:21120
+  city: Stockholm
+  latitude: 59.33416
+  longitude: 18.035817
+
+- location: 7-Eleven S:t  Eriksgatan 89
+  urn: urn:seveneleven:store:id:21128
+  city: Stockholm
+  latitude: 59.342119
+  longitude: 18.037877
+
+- location: 7-Eleven Flemingatan 19
+  urn: urn:seveneleven:store:id:15108
+  city: Stockholm
+  latitude: 59.3328
+  longitude: 18.04516
+
+- location: 7-Eleven Hantverkargatan 21
+  urn: urn:seveneleven:store:id:20102
+  city: Stockholm
+  latitude: 59.3285
+  longitude: 18.0468769
+
+- location: 7-Eleven Odengatan 77
+  urn: urn:seveneleven:store:id:18134
+  city: Stockholm
+  latitude: 59.3424339
+  longitude: 18.0488472
+
+- location: 7-Eleven Norrtullsgatan
+  urn: urn:seveneleven:store:id:19133
+  city: Stockholm
+  latitude: 59.3443451
+  longitude: 18.04958
+
+- location: 7-Eleven Sthlm Lilla Bantorget
+  urn: urn:seveneleven:store:id:15191
+  city: Stockholm
+  latitude: 59.335519
+  longitude: 18.05142
+
+- location: 7-Eleven Universitetet T-bana
+  urn: urn:seveneleven:store:id:15210
+  city: Stockholm
+  latitude: 59.365283
+  longitude: 18.054474
+
+- location: 7-Eleven Klarabergsviadukten 82
+  urn: urn:seveneleven:store:id:15183
+  city: Stockholm
+  latitude: 59.330453
+  longitude: 18.054594
+
+- location: 7-Eleven Vasagatan 44
+  urn: urn:seveneleven:store:id:17107
+  city: Stockholm
+  latitude: 59.3336945
+  longitude: 18.0565376
+
+- location: 7-Eleven Drottninggatan 106
+  urn: urn:seveneleven:store:id:21117
+  city: Stockholm
+  latitude: 59.3386765
+  longitude: 18.05671
+
+- location: 7-Eleven Sveavägen 55
+  urn: urn:seveneleven:store:id:17105
+  city: Stockholm
+  latitude: 59.340557
+  longitude: 18.058509
+
+- location: 7-Eleven Drottninggatan 90 B
+  urn: urn:seveneleven:store:id:15172
+  city: Stockholm
+  latitude: 59.336792
+  longitude: 18.0585136
+
+- location: 7-Eleven Sthlm Universitetsvägen
+  urn: urn:seveneleven:store:id:15167
+  city: Stockholm
+  latitude: 59.362633
+  longitude: 18.058573
+
+- location: 7-Eleven Sthlm Centralplan
+  urn: urn:seveneleven:store:id:15177
+  city: Stockholm
+  latitude: 59.3311272
+  longitude: 18.0586586
+
+- location: 7-Eleven Odengatan 32
+  urn: urn:seveneleven:store:id:18116
+  city: Stockholm
+  latitude: 59.345241
+  longitude: 18.059565
+
+- location: 7-Eleven Sthlm Klarabergsgatan
+  urn: urn:seveneleven:store:id:18147
+  city: Stockholm
+  latitude: 59.3317375
+  longitude: 18.06055
+
+- location: 7-Eleven Tegnergatan
+  urn: urn:seveneleven:store:id:21141
+  city: Stockholm
+  latitude: 59.3402
+  longitude: 18.0625019
+
+- location: 7-Eleven Odengatan 22
+  urn: urn:seveneleven:store:id:17175
+  city: Stockholm
+  latitude: 59.3457451
+  longitude: 18.06252
+
 - location: 7-Eleven Mariatorget
   urn: urn:seveneleven:store:id:18127
   city: Stockholm
   latitude: 59.3189163
   longitude: 18.0632172
+
+- location: 7-Eleven Regeringsgatan 54
+  urn: urn:seveneleven:store:id:15174
+  city: Stockholm
+  latitude: 59.33523
+  longitude: 18.0676727
+
+- location: 7-Eleven Birger Jarlsgatan 39
+  urn: urn:seveneleven:store:id:19136
+  city: Stockholm
+  latitude: 59.33893
+  longitude: 18.068224
+
+- location: 7-Eleven Västerlånggatan 38
+  urn: urn:seveneleven:store:id:16131
+  city: Stockholm
+  latitude: 59.3244743
+  longitude: 18.0699978
+
+- location: 7-Eleven Sthlm Kungsgatan 9
+  urn: urn:seveneleven:store:id:19112
+  city: Stockholm
+  latitude: 59.3360519
+  longitude: 18.0701542
+
+- location: 7-Eleven Norrlandsgatan
+  urn: urn:seveneleven:store:id:15202
+  city: Stockholm
+  latitude: 59.333659
+  longitude: 18.071164
+
+- location: 7-Eleven Medborgarplatsen 13
+  urn: urn:seveneleven:store:id:19137
+  city: Stockholm
+  latitude: 59.31522
+  longitude: 18.07129
+
+- location: 7-Eleven Götgatan 25
+  urn: urn:seveneleven:store:id:19113
+  city: Stockholm
+  latitude: 59.3172836
+  longitude: 18.0717659
+
+- location: 7-Eleven Drottning Kristinas Väg
+  urn: urn:seveneleven:store:id:18126
+  city: Stockholm
+  latitude: 59.3465843
+  longitude: 18.0721111
 
 - location: 7-Eleven Götgatan 57
   urn: urn:seveneleven:store:id:15119
@@ -462,11 +402,41 @@ locations:
   latitude: 59.3135
   longitude: 18.0736656
 
+- location: 7-Eleven Folkungagatan 52
+  urn: urn:seveneleven:store:id:15215
+  city: Stockholm
+  latitude: 59.314204
+  longitude: 18.074266
+
 - location: 7-Eleven Grev Turegatan/Riddargatan
   urn: urn:seveneleven:store:id:15196
   city: Stockholm
   latitude: 59.33521
   longitude: 18.07492
+
+- location: 7-Eleven Sthlm Götgatan 90
+  urn: urn:seveneleven:store:id:16170
+  city: Stockholm
+  latitude: 59.3104935
+  longitude: 18.075161
+
+- location: 7-Eleven Birger Jarlsgatan 2
+  urn: urn:seveneleven:store:id:16125
+  city: Stockholm
+  latitude: 59.33326
+  longitude: 18.0756168
+
+- location: 7-Eleven Humlegårdsgatan 11
+  urn: urn:seveneleven:store:id:17111
+  city: Stockholm
+  latitude: 59.3365021
+  longitude: 18.0763474
+
+- location: 7-Eleven Sthlm Sturegatan 9
+  urn: urn:seveneleven:store:id:17169
+  city: Stockholm
+  latitude: 59.34064
+  longitude: 18.0764637
 
 - location: 7-Eleven Gullmarsplan
   urn: urn:seveneleven:store:id:16110
@@ -474,8 +444,38 @@ locations:
   latitude: 59.29875
   longitude: 18.079245
 
-- location: 7-Eleven Humlegårdsgatan 11
-  urn: urn:seveneleven:store:id:17111
+- location: 7-Eleven Linnegatan 27
+  urn: urn:seveneleven:store:id:21109
   city: Stockholm
-  latitude: 59.3365021
-  longitude: 18.0763474
+  latitude: 59.3371048
+  longitude: 18.0807323
+
+- location: 7-Eleven Skånegatan 79
+  urn: urn:seveneleven:store:id:20123
+  city: Stockholm
+  latitude: 59.312811
+  longitude: 18.082728
+
+- location: 7-Eleven Sthlm Storgatan
+  urn: urn:seveneleven:store:id:17146
+  city: Stockholm
+  latitude: 59.3349037
+  longitude: 18.0842476
+
+- location: 7-Eleven Valhallavägen 133
+  urn: urn:seveneleven:store:id:19118
+  city: Stockholm
+  latitude: 59.34183
+  longitude: 18.0872612
+
+- location: 7-Eleven Gyllenstiernsgatan
+  urn: urn:seveneleven:store:id:19132
+  city: Stockholm
+  latitude: 59.337986
+  longitude: 18.101223
+
+- location: 7-Eleven Hammarbyhöjden
+  urn: urn:seveneleven:store:id:22101
+  city: Johanneshov
+  latitude: 59.295509
+  longitude: 18.102722

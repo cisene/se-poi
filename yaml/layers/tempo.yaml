@@ -6,221 +6,11 @@ meta:
   locations: 140
 
 locations:
-- location: Tempo Vrångö
-  urn: urn:coop:store:id:140
-  city: Vrångö
-  latitude: 57.575497
-  longitude: 11.7829261
-
-- location: Tempo Viskafors
-  urn: urn:coop:store:id:139
-  city: Viskafors
-  latitude: 57.6346494
-  longitude: 12.8582017
-
-- location: Tempo Vimmerby
-  urn: urn:coop:store:id:138
-  city: Vimmerby
-  latitude: 57.6666799
-  longitude: 15.8669192
-
-- location: Tempo Vikarbyn
-  urn: urn:coop:store:id:137
-  city: Vikarbyn
-  latitude: 60.9100289
-  longitude: 15.0218875
-
-- location: Tempo Vedum
-  urn: urn:coop:store:id:136
-  city: Vedum
-  latitude: 58.1675228
-  longitude: 12.9949473
-
-- location: Tempo Vattholma
-  urn: urn:coop:store:id:135
-  city: Vattholma
-  latitude: 60.0171473
-  longitude: 17.7336134
-
-- location: Tempo Valla
-  urn: urn:coop:store:id:134
-  city: Valla
-  latitude: 59.0200615
-  longitude: 16.3780986
-
-- location: Tempo Vågbro
-  urn: urn:coop:store:id:133
-  city: Vågbro
-  latitude: 61.3235314
-  longitude: 17.0593831
-
-- location: Tempo Upphärad
-  urn: urn:coop:store:id:132
-  city: Upphärad
-  latitude: 58.1593389
-  longitude: 12.3054899
-
-- location: Tempo Tving
-  urn: urn:coop:store:id:131
-  city: Tving
-  latitude: 56.3110739
-  longitude: 15.4646553
-
-- location: Tempo Tuna Vimmerby
-  urn: urn:coop:store:id:130
-  city: Tuna Vimmerby
-  latitude: 57.5765194
-  longitude: 16.1052054
-
-- location: Tempo Tråvad
-  urn: urn:coop:store:id:129
-  city: Tråvad
-  latitude: 58.2513038
-  longitude: 13.0814598
-
-- location: Tempo Töllsjö
-  urn: urn:coop:store:id:128
-  city: Töllsjö
-  latitude: 57.79457
-  longitude: 12.6474499
-
-- location: Tempo Timmernabben
-  urn: urn:coop:store:id:127
-  city: Timmernabben
-  latitude: 56.9772476
-  longitude: 16.4342846
-
-- location: Tempo Tallboda
-  urn: urn:coop:store:id:126
-  city: Tallboda
-  latitude: 58.4264166
-  longitude: 15.678655
-
-- location: Tempo Tällberg
-  urn: urn:coop:store:id:125
-  city: Tällberg
-  latitude: 60.8177241
-  longitude: 15.0191491
-
-- location: Tempo Sundborn, Falun
-  urn: urn:coop:store:id:124
-  city: Sundborn, Falun
-  latitude: 60.6532249
-  longitude: 15.7740108
-
-- location: Tempo Strängnäs
-  urn: urn:coop:store:id:123
-  city: Strängnäs
-  latitude: 59.366118
-  longitude: 17.025107
-
-- location: Tempo Stora Höga
-  urn: urn:coop:store:id:122
-  city: Stora Höga
-  latitude: 58.0162451
-  longitude: 11.8334866
-
-- location: Tempo Storå
-  urn: urn:coop:store:id:121
-  city: Storå
-  latitude: 59.7391838
-  longitude: 15.1961868
-
-- location: Tempo Stockaryd
-  urn: urn:coop:store:id:120
-  city: Stockaryd
-  latitude: 57.3147247
-  longitude: 14.5921191
-
-- location: Tempo Sticklinge
-  urn: urn:coop:store:id:119
-  city: Sticklinge
-  latitude: 59.3828512
-  longitude: 18.1147626
-
-- location: Tempo Stenstorp
-  urn: urn:coop:store:id:118
-  city: Stenstorp
-  latitude: 58.2723098
-  longitude: 13.7146522
-
-- location: Tempo Stenkyrka
-  urn: urn:coop:store:id:117
-  city: Stenkyrka
-  latitude: 57.7471798
-  longitude: 18.564196
-
-- location: Tempo Stale
-  urn: urn:coop:store:id:116
-  city: Stale
-  latitude: 58.4769835
-  longitude: 11.6972878
-
-- location: Tempo Sparreholm
-  urn: urn:coop:store:id:115
-  city: Sparreholm
-  latitude: 59.0707495
-  longitude: 16.8265311
-
-- location: Tempo Solkatten
-  urn: urn:coop:store:id:114
-  city: Solkatten
-  latitude: 57.7912322
-  longitude: 12.3096128
-
-- location: Tempo Solberga
-  urn: urn:coop:store:id:113
-  city: Solberga
-  latitude: 59.2868611
-  longitude: 18.0097393
-
-- location: Tempo Sofiagatan
-  urn: urn:coop:store:id:112
-  city: Sofiagatan
-  latitude: 57.7178345
-  longitude: 12.0156394
-
-- location: Tempo Söderhamn
-  urn: urn:coop:store:id:111
-  city: Söderhamn
-  latitude: 61.3037776
-  longitude: 17.06055
-
-- location: Tempo Skönsmon
-  urn: urn:coop:store:id:110
-  city: Skönsmon
-  latitude: 62.3788713
-  longitude: 17.3395511
-
-- location: Tempo Skogsbo
-  urn: urn:coop:store:id:109
-  city: Skogsbo
-  latitude: 60.158051
-  longitude: 16.1815685
-
-- location: Tempo Skintebo
-  urn: urn:coop:store:id:108
-  city: Skintebo
-  latitude: 57.5897976
-  longitude: 11.9392843
-
-- location: Tempo Skepplanda
-  urn: urn:coop:store:id:107
-  city: Skepplanda
-  latitude: 57.9824147
-  longitude: 12.2118893
-
-- location: Tempo Skatås
-  urn: urn:coop:store:id:106
-  city: Skatås
-  latitude: 57.6969943
-  longitude: 11.9865
-
-- location: Tempo Skår
-  urn: urn:coop:store:id:105
-  city: Skår
-  latitude: 57.6940595
-  longitude: 12.0029019
+- location: Tempo Resö
+  urn: urn:coop:store:id:96
+  city: Resö
+  latitude: 58.803047
+  longitude: 11.165413
 
 - location: Tempo Skaftöhallen
   urn: urn:coop:store:id:104
@@ -228,185 +18,11 @@ locations:
   latitude: 58.2395407
   longitude: 11.4576712
 
-- location: Tempo Singö
-  urn: urn:coop:store:id:103
-  city: Singö
-  latitude: 60.1016866
-  longitude: 18.8052482
-
-- location: Tempo Silverdalen
-  urn: urn:coop:store:id:102
-  city: Silverdalen
-  latitude: 57.5429774
-  longitude: 15.7512067
-
-- location: Tempo Siljansnäs
-  urn: urn:coop:store:id:101
-  city: Siljansnäs
-  latitude: 60.7781158
-  longitude: 14.86036
-
-- location: Tempo Sätila
-  urn: urn:coop:store:id:100
-  city: Sätila
-  latitude: 57.5422374
-  longitude: 12.4327219
-
-- location: Tempo Sannabacken
-  urn: urn:coop:store:id:99
-  city: Sannabacken
-  latitude: 57.6830746
-  longitude: 11.9109049
-
-- location: Tempo Sälen
-  urn: urn:coop:store:id:98
-  city: Sälen
-  latitude: 61.1654325
-  longitude: 13.1774735
-
-- location: Tempo Roslags Näsby
-  urn: urn:coop:store:id:97
-  city: Roslags Näsby
-  latitude: 59.4319444
-  longitude: 18.0613889
-
-- location: Tempo Resö
-  urn: urn:coop:store:id:96
-  city: Resö
-  latitude: 58.803047
-  longitude: 11.165413
-
-- location: Tempo Reftele
-  urn: urn:coop:store:id:95
-  city: Reftele
-  latitude: 57.1741917
-  longitude: 13.5938012
-
-- location: Tempo Rävlanda
-  urn: urn:coop:store:id:94
-  city: Rävlanda
-  latitude: 57.6539579
-  longitude: 12.4980138
-
-- location: Tempo Rätan
-  urn: urn:coop:store:id:93
-  city: Rätan
-  latitude: 62.4691683
-  longitude: 14.5506073
-
-- location: Tempo Ransta
-  urn: urn:coop:store:id:92
-  city: Ransta
-  latitude: 59.8111749
-  longitude: 16.6300065
-
-- location: Tempo Rannebergen
-  urn: urn:coop:store:id:91
-  city: Rannebergen
-  latitude: 57.8041401
-  longitude: 12.0685883
-
-- location: Tempo Ramsjö
-  urn: urn:coop:store:id:90
-  city: Ramsjö
-  latitude: 62.1830898
-  longitude: 15.6494504
-
-- location: Tempo Pershagen
-  urn: urn:coop:store:id:89
-  city: Pershagen
-  latitude: 59.1959473
-  longitude: 17.6279523
-
-- location: Tempo Oxelösund
-  urn: urn:coop:store:id:88
-  city: Oxelösund
-  latitude: 58.6756557
-  longitude: 17.0640148
-
-- location: Tempo Östervåla
-  urn: urn:coop:store:id:87
-  city: Östervåla
-  latitude: 60.1812338
-  longitude: 17.1822403
-
-- location: Tempo Österskär
-  urn: urn:coop:store:id:86
-  city: Österskär
-  latitude: 59.4621966
-  longitude: 18.3092802
-
-- location: Tempo Östberga
-  urn: urn:coop:store:id:85
-  city: Östberga
-  latitude: 59.2888499
-  longitude: 18.0324732
-
-- location: Tempo Orrefors
-  urn: urn:coop:store:id:84
-  city: Orrefors
-  latitude: 56.8386464
-  longitude: 15.7430663
-
-- location: Tempo Örgryte
-  urn: urn:coop:store:id:83
-  city: Örgryte
-  latitude: 57.7013474
-  longitude: 12.0152788
-
-- location: Tempo Olofsbo
-  urn: urn:coop:store:id:82
-  city: Olofsbo
-  latitude: 56.9179153
-  longitude: 12.3887819
-
-- location: Tempo Oden
-  urn: urn:coop:store:id:81
-  city: Oden
-  latitude: 61.3492733
-  longitude: 16.3964821
-
-- location: Tempo Nyköping
-  urn: urn:coop:store:id:80
-  city: Nyköping
-  latitude: 58.7548423
-  longitude: 17.0529879
-
-- location: Tempo Nol
-  urn: urn:coop:store:id:79
-  city: Nol
-  latitude: 57.917606
-  longitude: 12.0618773
-
-- location: Tempo Nockeby
-  urn: urn:coop:store:id:78
-  city: Nockeby
-  latitude: 59.3291088
-  longitude: 17.913313
-
-- location: Tempo Nesma
-  urn: urn:coop:store:id:77
-  city: Nesma
-  latitude: 60.6765899
-  longitude: 17.2137283
-
-- location: Tempo Nås
-  urn: urn:coop:store:id:76
-  city: Nås
-  latitude: 60.45
-  longitude: 14.4833333
-
 - location: Tempo Mollösund
   urn: urn:coop:store:id:75
   city: Mollösund
   latitude: 58.0723541
   longitude: 11.4710102
-
-- location: Tempo Mjölby
-  urn: urn:coop:store:id:74
-  city: Mjölby
-  latitude: 58.318864
-  longitude: 15.136259
 
 - location: Tempo Marstrand
   urn: urn:coop:store:id:73
@@ -414,77 +30,23 @@ locations:
   latitude: 57.8865803
   longitude: 11.5847753
 
-- location: Tempo Mariannelund
-  urn: urn:coop:store:id:72
-  city: Mariannelund
-  latitude: 57.6169024
-  longitude: 15.5717443
+- location: Tempo Stale
+  urn: urn:coop:store:id:116
+  city: Stale
+  latitude: 58.4769835
+  longitude: 11.6972878
 
-- location: Tempo Malmköping
-  urn: urn:coop:store:id:71
-  city: Malmköping
-  latitude: 59.133446
-  longitude: 16.7291323
+- location: Tempo Brännö
+  urn: urn:coop:store:id:16
+  city: Brännö
+  latitude: 57.6440053
+  longitude: 11.7724811
 
-- location: Tempo Lundsbrunn
-  urn: urn:coop:store:id:70
-  city: Lundsbrunn
-  latitude: 58.4720285
-  longitude: 13.4440242
-
-- location: Tempo Lövstagatan
-  urn: urn:coop:store:id:69
-  city: Lövstagatan
-  latitude: 59.2808823
-  longitude: 15.2047211
-
-- location: Tempo Ljusterö
-  urn: urn:coop:store:id:68
-  city: Ljusterö
-  latitude: 59.4921132
-  longitude: 18.5558244
-
-- location: Tempo Linghed
-  urn: urn:coop:store:id:67
-  city: Linghed
-  latitude: 60.7830083
-  longitude: 15.858871
-
-- location: Tempo Linas Livs
-  urn: urn:coop:store:id:66
-  city: Linas Livs
-  latitude: 59.2111539
-  longitude: 17.5920232
-
-- location: Tempo Lillhagsparken
-  urn: urn:coop:store:id:65
-  city: Lillhagsparken
-  latitude: 57.7581732
-  longitude: 11.9492231
-
-- location: Tempo Lilla Essingen
-  urn: urn:coop:store:id:64
-  city: Lilla Essingen
-  latitude: 59.3230121
-  longitude: 18.0053903
-
-- location: Tempo Kyrkhult
-  urn: urn:coop:store:id:63
-  city: Kyrkhult
-  latitude: 56.3545347
-  longitude: 14.5785653
-
-- location: Tempo Kungsäter
-  urn: urn:coop:store:id:62
-  city: Kungsäter
-  latitude: 57.3042508
-  longitude: 12.5624108
-
-- location: Tempo Katthammarsvik
-  urn: urn:coop:store:id:61
-  city: Katthammarsvik
-  latitude: 57.4263763
-  longitude: 18.8410576
+- location: Tempo Vrångö
+  urn: urn:coop:store:id:140
+  city: Vrångö
+  latitude: 57.575497
+  longitude: 11.7829261
 
 - location: Tempo Kärna
   urn: urn:coop:store:id:60
@@ -492,215 +54,23 @@ locations:
   latitude: 57.8445181
   longitude: 11.7916754
 
-- location: Tempo Kareby
-  urn: urn:coop:store:id:59
-  city: Kareby
-  latitude: 57.9052288
-  longitude: 11.9246332
+- location: Tempo Björlanda
+  urn: urn:coop:store:id:8
+  city: Björlanda
+  latitude: 57.7592708
+  longitude: 11.8326648
 
-- location: Tempo Jungfruplatsen
-  urn: urn:coop:store:id:58
-  city: Jungfruplatsen
-  latitude: 57.6598749
-  longitude: 12.0007927
+- location: Tempo Stora Höga
+  urn: urn:coop:store:id:122
+  city: Stora Höga
+  latitude: 58.0162451
+  longitude: 11.8334866
 
-- location: Tempo Järpås
-  urn: urn:coop:store:id:57
-  city: Järpås
-  latitude: 58.3807711
-  longitude: 12.9704705
-
-- location: Tempo Jarlaberg
-  urn: urn:coop:store:id:56
-  city: Jarlaberg
-  latitude: 59.3152685
-  longitude: 18.1687109
-
-- location: Tempo Jakriborg
-  urn: urn:coop:store:id:55
-  city: Jakriborg
-  latitude: 55.6749352
-  longitude: 13.1352476
-
-- location: Tempo Jacob's
-  urn: urn:coop:store:id:54
-  city: Jacob's
-  latitude: 58.3476059
-  longitude: 11.9333774
-
-- location: Tempo Indal
-  urn: urn:coop:store:id:53
-  city: Indal
-  latitude: 62.580545
-  longitude: 17.0952195
-
-- location: Tempo Huskvarna
-  urn: urn:coop:store:id:52
-  city: Huskvarna
-  latitude: 57.7777756
-  longitude: 14.2972549
-
-- location: Tempo Holmsjö
-  urn: urn:coop:store:id:51
-  city: Holmsjö
-  latitude: 56.416528
-  longitude: 15.5432387
-
-- location: Tempo Hestra
-  urn: urn:coop:store:id:50
-  city: Hestra
-  latitude: 57.440286
-  longitude: 13.5984459
-
-- location: Tempo Härnösand
-  urn: urn:coop:store:id:49
-  city: Härnösand
-  latitude: 62.6281232
-  longitude: 17.9251985
-
-- location: Tempo Hammarbyhöjden
-  urn: urn:coop:store:id:48
-  city: Hammarbyhöjden
-  latitude: 59.2982829
-  longitude: 18.089905
-
-- location: Tempo Halltorp
-  urn: urn:coop:store:id:47
-  city: Halltorp
-  latitude: 56.5015374
-  longitude: 16.1035472
-
-- location: Tempo Hallstavik
-  urn: urn:coop:store:id:46
-  city: Hallstavik
-  latitude: 60.0501037
-  longitude: 18.5880615
-
-- location: Tempo Hällby
-  urn: urn:coop:store:id:45
-  city: Hällby
-  latitude: 59.393436
-  longitude: 16.4206666
-
-- location: Tempo Hägersten
-  urn: urn:coop:store:id:44
-  city: Hägersten
-  latitude: 59.3010336
-  longitude: 17.9854006
-
-- location: Tempo Hagalund
-  urn: urn:coop:store:id:43
-  city: Hagalund
-  latitude: 60.4882758
-  longitude: 15.423797
-
-- location: Tempo Hackås
-  urn: urn:coop:store:id:42
-  city: Hackås
-  latitude: 62.9250313
-  longitude: 14.5171186
-
-- location: Tempo Gullbrandstorp
-  urn: urn:coop:store:id:41
-  city: Gullbrandstorp
-  latitude: 56.7034036
-  longitude: 12.7324908
-
-- location: Tempo Guldheden
-  urn: urn:coop:store:id:40
-  city: Guldheden
-  latitude: 57.6895713
-  longitude: 11.9673321
-
-- location: Tempo Grythyttan
-  urn: urn:coop:store:id:39
-  city: Grythyttan
-  latitude: 59.7052518
-  longitude: 14.5341806
-
-- location: Tempo Gröndal
-  urn: urn:coop:store:id:38
-  city: Gröndal
-  latitude: 59.3156115
-  longitude: 18.0143055
-
-- location: Tempo Grillby
-  urn: urn:coop:store:id:37
-  city: Grillby
-  latitude: 59.6247902
-  longitude: 17.2558917
-
-- location: Tempo Getterön
-  urn: urn:coop:store:id:36
-  city: Getterön
-  latitude: 57.1188338
-  longitude: 12.2142518
-
-- location: Tempo Gärds Köpinge
-  urn: urn:coop:store:id:35
-  city: Gärds Köpinge
-  latitude: 55.9464393
-  longitude: 14.1569143
-
-- location: Tempo Gärdet
-  urn: urn:coop:store:id:34
-  city: Gärdet
-  latitude: 58.700623
-  longitude: 13.8163475
-
-- location: Tempo Frövi
-  urn: urn:coop:store:id:33
-  city: Frövi
-  latitude: 59.4703152
-  longitude: 15.36784
-
-- location: Tempo Friggagatan
-  urn: urn:coop:store:id:32
-  city: Friggagatan
-  latitude: 57.710041
-  longitude: 11.9858392
-
-- location: Tempo Frändefors
-  urn: urn:coop:store:id:31
-  city: Frändefors
-  latitude: 58.4949642
-  longitude: 12.2783594
-
-- location: Tempo Fornhöjden
-  urn: urn:coop:store:id:30
-  city: Fornhöjden
-  latitude: 59.1912689
-  longitude: 17.6651883
-
-- location: Tempo Föllinge
-  urn: urn:coop:store:id:29
-  city: Föllinge
-  latitude: 63.6704771
-  longitude: 14.61077
-
-- location: Tempo Fjärås
-  urn: urn:coop:store:id:28
-  city: Fjärås
-  latitude: 57.4609493
-  longitude: 12.1715592
-
-- location: Tempo Fagersanna
-  urn: urn:coop:store:id:27
-  city: Fagersanna
-  latitude: 58.4676321
-  longitude: 14.2956928
-
-- location: Tempo Fågelmara
-  urn: urn:coop:store:id:26
-  city: Fågelmara
-  latitude: 56.2593605
-  longitude: 15.9467308
-
-- location: Tempo Fågelfors
-  urn: urn:coop:store:id:25
-  city: Fågelfors
-  latitude: 57.2027122
-  longitude: 15.845368
+- location: Tempo Sannabacken
+  urn: urn:coop:store:id:99
+  city: Sannabacken
+  latitude: 57.6830746
+  longitude: 11.9109049
 
 - location: Tempo Eriksberg
   urn: urn:coop:store:id:24
@@ -708,17 +78,587 @@ locations:
   latitude: 57.7004409
   longitude: 11.9134839
 
+- location: Tempo Kareby
+  urn: urn:coop:store:id:59
+  city: Kareby
+  latitude: 57.9052288
+  longitude: 11.9246332
+
+- location: Tempo Jacob's
+  urn: urn:coop:store:id:54
+  city: Jacob's
+  latitude: 58.3476059
+  longitude: 11.9333774
+
+- location: Tempo Skintebo
+  urn: urn:coop:store:id:108
+  city: Skintebo
+  latitude: 57.5897976
+  longitude: 11.9392843
+
+- location: Tempo Lillhagsparken
+  urn: urn:coop:store:id:65
+  city: Lillhagsparken
+  latitude: 57.7581732
+  longitude: 11.9492231
+
+- location: Tempo Guldheden
+  urn: urn:coop:store:id:40
+  city: Guldheden
+  latitude: 57.6895713
+  longitude: 11.9673321
+
+- location: Tempo Friggagatan
+  urn: urn:coop:store:id:32
+  city: Friggagatan
+  latitude: 57.710041
+  longitude: 11.9858392
+
+- location: Tempo Bjurslättstorg
+  urn: urn:coop:store:id:10
+  city: Bjurslättstorg
+  latitude: 57.696981
+  longitude: 11.9863834
+
+- location: Tempo Skatås
+  urn: urn:coop:store:id:106
+  city: Skatås
+  latitude: 57.6969943
+  longitude: 11.9865
+
+- location: Tempo Jungfruplatsen
+  urn: urn:coop:store:id:58
+  city: Jungfruplatsen
+  latitude: 57.6598749
+  longitude: 12.0007927
+
+- location: Tempo Skår
+  urn: urn:coop:store:id:105
+  city: Skår
+  latitude: 57.6940595
+  longitude: 12.0029019
+
+- location: Tempo Örgryte
+  urn: urn:coop:store:id:83
+  city: Örgryte
+  latitude: 57.7013474
+  longitude: 12.0152788
+
+- location: Tempo Sofiagatan
+  urn: urn:coop:store:id:112
+  city: Sofiagatan
+  latitude: 57.7178345
+  longitude: 12.0156394
+
+- location: Tempo Nol
+  urn: urn:coop:store:id:79
+  city: Nol
+  latitude: 57.917606
+  longitude: 12.0618773
+
+- location: Tempo Rannebergen
+  urn: urn:coop:store:id:91
+  city: Rannebergen
+  latitude: 57.8041401
+  longitude: 12.0685883
+
+- location: Tempo Fjärås
+  urn: urn:coop:store:id:28
+  city: Fjärås
+  latitude: 57.4609493
+  longitude: 12.1715592
+
+- location: Tempo Skepplanda
+  urn: urn:coop:store:id:107
+  city: Skepplanda
+  latitude: 57.9824147
+  longitude: 12.2118893
+
+- location: Tempo Getterön
+  urn: urn:coop:store:id:36
+  city: Getterön
+  latitude: 57.1188338
+  longitude: 12.2142518
+
+- location: Tempo Frändefors
+  urn: urn:coop:store:id:31
+  city: Frändefors
+  latitude: 58.4949642
+  longitude: 12.2783594
+
+- location: Tempo Upphärad
+  urn: urn:coop:store:id:132
+  city: Upphärad
+  latitude: 58.1593389
+  longitude: 12.3054899
+
+- location: Tempo Solkatten
+  urn: urn:coop:store:id:114
+  city: Solkatten
+  latitude: 57.7912322
+  longitude: 12.3096128
+
+- location: Tempo Brålanda
+  urn: urn:coop:store:id:15
+  city: Brålanda
+  latitude: 58.5611763
+  longitude: 12.3507748
+
+- location: Tempo Olofsbo
+  urn: urn:coop:store:id:82
+  city: Olofsbo
+  latitude: 56.9179153
+  longitude: 12.3887819
+
+- location: Tempo Sätila
+  urn: urn:coop:store:id:100
+  city: Sätila
+  latitude: 57.5422374
+  longitude: 12.4327219
+
+- location: Tempo Rävlanda
+  urn: urn:coop:store:id:94
+  city: Rävlanda
+  latitude: 57.6539579
+  longitude: 12.4980138
+
+- location: Tempo Kungsäter
+  urn: urn:coop:store:id:62
+  city: Kungsäter
+  latitude: 57.3042508
+  longitude: 12.5624108
+
+- location: Tempo Töllsjö
+  urn: urn:coop:store:id:128
+  city: Töllsjö
+  latitude: 57.79457
+  longitude: 12.6474499
+
+- location: Tempo Gullbrandstorp
+  urn: urn:coop:store:id:41
+  city: Gullbrandstorp
+  latitude: 56.7034036
+  longitude: 12.7324908
+
+- location: Tempo Adolfsberg
+  urn: urn:coop:store:id:1
+  city: Adolfsberg
+  latitude: 56.0454312
+  longitude: 12.7454265
+
+- location: Tempo Bäckagård
+  urn: urn:coop:store:id:4
+  city: Bäckagård
+  latitude: 56.6569776
+  longitude: 12.7834847
+
+- location: Tempo Viskafors
+  urn: urn:coop:store:id:139
+  city: Viskafors
+  latitude: 57.6346494
+  longitude: 12.8582017
+
+- location: Tempo Järpås
+  urn: urn:coop:store:id:57
+  city: Järpås
+  latitude: 58.3807711
+  longitude: 12.9704705
+
+- location: Tempo Vedum
+  urn: urn:coop:store:id:136
+  city: Vedum
+  latitude: 58.1675228
+  longitude: 12.9949473
+
+- location: Tempo Tråvad
+  urn: urn:coop:store:id:129
+  city: Tråvad
+  latitude: 58.2513038
+  longitude: 13.0814598
+
+- location: Tempo Jakriborg
+  urn: urn:coop:store:id:55
+  city: Jakriborg
+  latitude: 55.6749352
+  longitude: 13.1352476
+
+- location: Tempo Sälen
+  urn: urn:coop:store:id:98
+  city: Sälen
+  latitude: 61.1654325
+  longitude: 13.1774735
+
+- location: Tempo Lundsbrunn
+  urn: urn:coop:store:id:70
+  city: Lundsbrunn
+  latitude: 58.4720285
+  longitude: 13.4440242
+
+- location: Tempo Reftele
+  urn: urn:coop:store:id:95
+  city: Reftele
+  latitude: 57.1741917
+  longitude: 13.5938012
+
+- location: Tempo Hestra
+  urn: urn:coop:store:id:50
+  city: Hestra
+  latitude: 57.440286
+  longitude: 13.5984459
+
+- location: Tempo Blentarp
+  urn: urn:coop:store:id:11
+  city: Blentarp
+  latitude: 55.5834855
+  longitude: 13.602235
+
+- location: Tempo Stenstorp
+  urn: urn:coop:store:id:118
+  city: Stenstorp
+  latitude: 58.2723098
+  longitude: 13.7146522
+
+- location: Tempo Gärdet
+  urn: urn:coop:store:id:34
+  city: Gärdet
+  latitude: 58.700623
+  longitude: 13.8163475
+
+- location: Tempo Bottnaryd
+  urn: urn:coop:store:id:14
+  city: Bottnaryd
+  latitude: 57.7713757
+  longitude: 13.8255501
+
+- location: Tempo Äppelbo
+  urn: urn:coop:store:id:3
+  city: Äppelbo
+  latitude: 60.4776761
+  longitude: 14.0703179
+
+- location: Tempo Gärds Köpinge
+  urn: urn:coop:store:id:35
+  city: Gärds Köpinge
+  latitude: 55.9464393
+  longitude: 14.1569143
+
+- location: Tempo Fagersanna
+  urn: urn:coop:store:id:27
+  city: Fagersanna
+  latitude: 58.4676321
+  longitude: 14.2956928
+
+- location: Tempo Huskvarna
+  urn: urn:coop:store:id:52
+  city: Huskvarna
+  latitude: 57.7777756
+  longitude: 14.2972549
+
+- location: Tempo Nås
+  urn: urn:coop:store:id:76
+  city: Nås
+  latitude: 60.45
+  longitude: 14.4833333
+
+- location: Tempo Hackås
+  urn: urn:coop:store:id:42
+  city: Hackås
+  latitude: 62.9250313
+  longitude: 14.5171186
+
+- location: Tempo Grythyttan
+  urn: urn:coop:store:id:39
+  city: Grythyttan
+  latitude: 59.7052518
+  longitude: 14.5341806
+
+- location: Tempo Rätan
+  urn: urn:coop:store:id:93
+  city: Rätan
+  latitude: 62.4691683
+  longitude: 14.5506073
+
+- location: Tempo Kyrkhult
+  urn: urn:coop:store:id:63
+  city: Kyrkhult
+  latitude: 56.3545347
+  longitude: 14.5785653
+
+- location: Tempo Stockaryd
+  urn: urn:coop:store:id:120
+  city: Stockaryd
+  latitude: 57.3147247
+  longitude: 14.5921191
+
+- location: Tempo Föllinge
+  urn: urn:coop:store:id:29
+  city: Föllinge
+  latitude: 63.6704771
+  longitude: 14.61077
+
+- location: Tempo Björbo
+  urn: urn:coop:store:id:7
+  city: Björbo
+  latitude: 60.4564595
+  longitude: 14.7307029
+
+- location: Tempo Siljansnäs
+  urn: urn:coop:store:id:101
+  city: Siljansnäs
+  latitude: 60.7781158
+  longitude: 14.86036
+
+- location: Tempo Tällberg
+  urn: urn:coop:store:id:125
+  city: Tällberg
+  latitude: 60.8177241
+  longitude: 15.0191491
+
+- location: Tempo Vikarbyn
+  urn: urn:coop:store:id:137
+  city: Vikarbyn
+  latitude: 60.9100289
+  longitude: 15.0218875
+
+- location: Tempo Mjölby
+  urn: urn:coop:store:id:74
+  city: Mjölby
+  latitude: 58.318864
+  longitude: 15.136259
+
+- location: Tempo Storå
+  urn: urn:coop:store:id:121
+  city: Storå
+  latitude: 59.7391838
+  longitude: 15.1961868
+
+- location: Tempo Lövstagatan
+  urn: urn:coop:store:id:69
+  city: Lövstagatan
+  latitude: 59.2808823
+  longitude: 15.2047211
+
+- location: Tempo Frövi
+  urn: urn:coop:store:id:33
+  city: Frövi
+  latitude: 59.4703152
+  longitude: 15.36784
+
+- location: Tempo Hagalund
+  urn: urn:coop:store:id:43
+  city: Hagalund
+  latitude: 60.4882758
+  longitude: 15.423797
+
+- location: Tempo Tving
+  urn: urn:coop:store:id:131
+  city: Tving
+  latitude: 56.3110739
+  longitude: 15.4646553
+
+- location: Tempo Broakulla
+  urn: urn:coop:store:id:19
+  city: Broakulla
+  latitude: 56.6936102
+  longitude: 15.5294443
+
+- location: Tempo Holmsjö
+  urn: urn:coop:store:id:51
+  city: Holmsjö
+  latitude: 56.416528
+  longitude: 15.5432387
+
+- location: Tempo Mariannelund
+  urn: urn:coop:store:id:72
+  city: Mariannelund
+  latitude: 57.6169024
+  longitude: 15.5717443
+
+- location: Tempo Ramsjö
+  urn: urn:coop:store:id:90
+  city: Ramsjö
+  latitude: 62.1830898
+  longitude: 15.6494504
+
+- location: Tempo Tallboda
+  urn: urn:coop:store:id:126
+  city: Tallboda
+  latitude: 58.4264166
+  longitude: 15.678655
+
+- location: Tempo Orrefors
+  urn: urn:coop:store:id:84
+  city: Orrefors
+  latitude: 56.8386464
+  longitude: 15.7430663
+
+- location: Tempo Silverdalen
+  urn: urn:coop:store:id:102
+  city: Silverdalen
+  latitude: 57.5429774
+  longitude: 15.7512067
+
 - location: Tempo Enviken
   urn: urn:coop:store:id:23
   city: Enviken
   latitude: 60.8096946
   longitude: 15.7562265
 
-- location: Tempo Bureå
-  urn: urn:coop:store:id:22
-  city: Bureå
-  latitude: 64.6175378
-  longitude: 21.198832
+- location: Tempo Sundborn, Falun
+  urn: urn:coop:store:id:124
+  city: Sundborn, Falun
+  latitude: 60.6532249
+  longitude: 15.7740108
+
+- location: Tempo Fågelfors
+  urn: urn:coop:store:id:25
+  city: Fågelfors
+  latitude: 57.2027122
+  longitude: 15.845368
+
+- location: Tempo Linghed
+  urn: urn:coop:store:id:67
+  city: Linghed
+  latitude: 60.7830083
+  longitude: 15.858871
+
+- location: Tempo Vimmerby
+  urn: urn:coop:store:id:138
+  city: Vimmerby
+  latitude: 57.6666799
+  longitude: 15.8669192
+
+- location: Tempo Fågelmara
+  urn: urn:coop:store:id:26
+  city: Fågelmara
+  latitude: 56.2593605
+  longitude: 15.9467308
+
+- location: Tempo Björsäter
+  urn: urn:coop:store:id:9
+  city: Björsäter
+  latitude: 58.3336237
+  longitude: 16.0207196
+
+- location: Tempo Bergkvara
+  urn: urn:coop:store:id:6
+  city: Bergkvara
+  latitude: 56.3944636
+  longitude: 16.0659237
+
+- location: Tempo Halltorp
+  urn: urn:coop:store:id:47
+  city: Halltorp
+  latitude: 56.5015374
+  longitude: 16.1035472
+
+- location: Tempo Tuna Vimmerby
+  urn: urn:coop:store:id:130
+  city: Tuna Vimmerby
+  latitude: 57.5765194
+  longitude: 16.1052054
+
+- location: Tempo Breda Vägen
+  urn: urn:coop:store:id:17
+  city: Breda Vägen
+  latitude: 58.6036889
+  longitude: 16.1609131
+
+- location: Tempo Skogsbo
+  urn: urn:coop:store:id:109
+  city: Skogsbo
+  latitude: 60.158051
+  longitude: 16.1815685
+
+- location: Tempo Valla
+  urn: urn:coop:store:id:134
+  city: Valla
+  latitude: 59.0200615
+  longitude: 16.3780986
+
+- location: Tempo Oden
+  urn: urn:coop:store:id:81
+  city: Oden
+  latitude: 61.3492733
+  longitude: 16.3964821
+
+- location: Tempo Hällby
+  urn: urn:coop:store:id:45
+  city: Hällby
+  latitude: 59.393436
+  longitude: 16.4206666
+
+- location: Tempo Åmot
+  urn: urn:coop:store:id:2
+  city: Åmot
+  latitude: 60.9570476
+  longitude: 16.4323587
+
+- location: Tempo Timmernabben
+  urn: urn:coop:store:id:127
+  city: Timmernabben
+  latitude: 56.9772476
+  longitude: 16.4342846
+
+- location: Tempo Ransta
+  urn: urn:coop:store:id:92
+  city: Ransta
+  latitude: 59.8111749
+  longitude: 16.6300065
+
+- location: Tempo Borgholms Torg
+  urn: urn:coop:store:id:13
+  city: Borgholms Torg
+  latitude: 56.8791898
+  longitude: 16.6558532
+
+- location: Tempo Malmköping
+  urn: urn:coop:store:id:71
+  city: Malmköping
+  latitude: 59.133446
+  longitude: 16.7291323
+
+- location: Tempo Sparreholm
+  urn: urn:coop:store:id:115
+  city: Sparreholm
+  latitude: 59.0707495
+  longitude: 16.8265311
+
+- location: Tempo Strängnäs
+  urn: urn:coop:store:id:123
+  city: Strängnäs
+  latitude: 59.366118
+  longitude: 17.025107
+
+- location: Tempo Nyköping
+  urn: urn:coop:store:id:80
+  city: Nyköping
+  latitude: 58.7548423
+  longitude: 17.0529879
+
+- location: Tempo Vågbro
+  urn: urn:coop:store:id:133
+  city: Vågbro
+  latitude: 61.3235314
+  longitude: 17.0593831
+
+- location: Tempo Söderhamn
+  urn: urn:coop:store:id:111
+  city: Söderhamn
+  latitude: 61.3037776
+  longitude: 17.06055
+
+- location: Tempo Oxelösund
+  urn: urn:coop:store:id:88
+  city: Oxelösund
+  latitude: 58.6756557
+  longitude: 17.0640148
+
+- location: Tempo Indal
+  urn: urn:coop:store:id:53
+  city: Indal
+  latitude: 62.580545
+  longitude: 17.0952195
 
 - location: Tempo Brynäs Centrum
   urn: urn:coop:store:id:21
@@ -732,47 +672,17 @@ locations:
   latitude: 60.6743202
   longitude: 17.1772238
 
-- location: Tempo Broakulla
-  urn: urn:coop:store:id:19
-  city: Broakulla
-  latitude: 56.6936102
-  longitude: 15.5294443
+- location: Tempo Östervåla
+  urn: urn:coop:store:id:87
+  city: Östervåla
+  latitude: 60.1812338
+  longitude: 17.1822403
 
-- location: Tempo Bredsand
-  urn: urn:coop:store:id:18
-  city: Bredsand
-  latitude: 62.3522267
-  longitude: 17.3666444
-
-- location: Tempo Breda Vägen
-  urn: urn:coop:store:id:17
-  city: Breda Vägen
-  latitude: 58.6036889
-  longitude: 16.1609131
-
-- location: Tempo Brännö
-  urn: urn:coop:store:id:16
-  city: Brännö
-  latitude: 57.6440053
-  longitude: 11.7724811
-
-- location: Tempo Brålanda
-  urn: urn:coop:store:id:15
-  city: Brålanda
-  latitude: 58.5611763
-  longitude: 12.3507748
-
-- location: Tempo Bottnaryd
-  urn: urn:coop:store:id:14
-  city: Bottnaryd
-  latitude: 57.7713757
-  longitude: 13.8255501
-
-- location: Tempo Borgholms Torg
-  urn: urn:coop:store:id:13
-  city: Borgholms Torg
-  latitude: 56.8791898
-  longitude: 16.6558532
+- location: Tempo Nesma
+  urn: urn:coop:store:id:77
+  city: Nesma
+  latitude: 60.6765899
+  longitude: 17.2137283
 
 - location: Tempo Bomhus
   urn: urn:coop:store:id:12
@@ -780,41 +690,107 @@ locations:
   latitude: 60.6732238
   longitude: 17.2524497
 
-- location: Tempo Blentarp
-  urn: urn:coop:store:id:11
-  city: Blentarp
-  latitude: 55.5834855
-  longitude: 13.602235
+- location: Tempo Grillby
+  urn: urn:coop:store:id:37
+  city: Grillby
+  latitude: 59.6247902
+  longitude: 17.2558917
 
-- location: Tempo Bjurslättstorg
-  urn: urn:coop:store:id:10
-  city: Bjurslättstorg
-  latitude: 57.696981
-  longitude: 11.9863834
+- location: Tempo Skönsmon
+  urn: urn:coop:store:id:110
+  city: Skönsmon
+  latitude: 62.3788713
+  longitude: 17.3395511
 
-- location: Tempo Björsäter
-  urn: urn:coop:store:id:9
-  city: Björsäter
-  latitude: 58.3336237
-  longitude: 16.0207196
+- location: Tempo Bredsand
+  urn: urn:coop:store:id:18
+  city: Bredsand
+  latitude: 62.3522267
+  longitude: 17.3666444
 
-- location: Tempo Björlanda
-  urn: urn:coop:store:id:8
-  city: Björlanda
-  latitude: 57.7592708
-  longitude: 11.8326648
+- location: Tempo Linas Livs
+  urn: urn:coop:store:id:66
+  city: Linas Livs
+  latitude: 59.2111539
+  longitude: 17.5920232
 
-- location: Tempo Björbo
-  urn: urn:coop:store:id:7
-  city: Björbo
-  latitude: 60.4564595
-  longitude: 14.7307029
+- location: Tempo Pershagen
+  urn: urn:coop:store:id:89
+  city: Pershagen
+  latitude: 59.1959473
+  longitude: 17.6279523
 
-- location: Tempo Bergkvara
-  urn: urn:coop:store:id:6
-  city: Bergkvara
-  latitude: 56.3944636
-  longitude: 16.0659237
+- location: Tempo Fornhöjden
+  urn: urn:coop:store:id:30
+  city: Fornhöjden
+  latitude: 59.1912689
+  longitude: 17.6651883
+
+- location: Tempo Vattholma
+  urn: urn:coop:store:id:135
+  city: Vattholma
+  latitude: 60.0171473
+  longitude: 17.7336134
+
+- location: Tempo Nockeby
+  urn: urn:coop:store:id:78
+  city: Nockeby
+  latitude: 59.3291088
+  longitude: 17.913313
+
+- location: Tempo Härnösand
+  urn: urn:coop:store:id:49
+  city: Härnösand
+  latitude: 62.6281232
+  longitude: 17.9251985
+
+- location: Tempo Hägersten
+  urn: urn:coop:store:id:44
+  city: Hägersten
+  latitude: 59.3010336
+  longitude: 17.9854006
+
+- location: Tempo Lilla Essingen
+  urn: urn:coop:store:id:64
+  city: Lilla Essingen
+  latitude: 59.3230121
+  longitude: 18.0053903
+
+- location: Tempo Solberga
+  urn: urn:coop:store:id:113
+  city: Solberga
+  latitude: 59.2868611
+  longitude: 18.0097393
+
+- location: Tempo Gröndal
+  urn: urn:coop:store:id:38
+  city: Gröndal
+  latitude: 59.3156115
+  longitude: 18.0143055
+
+- location: Tempo Östberga
+  urn: urn:coop:store:id:85
+  city: Östberga
+  latitude: 59.2888499
+  longitude: 18.0324732
+
+- location: Tempo Roslags Näsby
+  urn: urn:coop:store:id:97
+  city: Roslags Näsby
+  latitude: 59.4319444
+  longitude: 18.0613889
+
+- location: Tempo Hammarbyhöjden
+  urn: urn:coop:store:id:48
+  city: Hammarbyhöjden
+  latitude: 59.2982829
+  longitude: 18.089905
+
+- location: Tempo Sticklinge
+  urn: urn:coop:store:id:119
+  city: Sticklinge
+  latitude: 59.3828512
+  longitude: 18.1147626
 
 - location: Tempo Baggeby
   urn: urn:coop:store:id:5
@@ -822,26 +798,50 @@ locations:
   latitude: 59.3547283
   longitude: 18.1330816
 
-- location: Tempo Bäckagård
-  urn: urn:coop:store:id:4
-  city: Bäckagård
-  latitude: 56.6569776
-  longitude: 12.7834847
+- location: Tempo Jarlaberg
+  urn: urn:coop:store:id:56
+  city: Jarlaberg
+  latitude: 59.3152685
+  longitude: 18.1687109
 
-- location: Tempo Äppelbo
-  urn: urn:coop:store:id:3
-  city: Äppelbo
-  latitude: 60.4776761
-  longitude: 14.0703179
+- location: Tempo Österskär
+  urn: urn:coop:store:id:86
+  city: Österskär
+  latitude: 59.4621966
+  longitude: 18.3092802
 
-- location: Tempo Åmot
-  urn: urn:coop:store:id:2
-  city: Åmot
-  latitude: 60.9570476
-  longitude: 16.4323587
+- location: Tempo Ljusterö
+  urn: urn:coop:store:id:68
+  city: Ljusterö
+  latitude: 59.4921132
+  longitude: 18.5558244
 
-- location: Tempo Adolfsberg
-  urn: urn:coop:store:id:1
-  city: Adolfsberg
-  latitude: 56.0454312
-  longitude: 12.7454265
+- location: Tempo Stenkyrka
+  urn: urn:coop:store:id:117
+  city: Stenkyrka
+  latitude: 57.7471798
+  longitude: 18.564196
+
+- location: Tempo Hallstavik
+  urn: urn:coop:store:id:46
+  city: Hallstavik
+  latitude: 60.0501037
+  longitude: 18.5880615
+
+- location: Tempo Singö
+  urn: urn:coop:store:id:103
+  city: Singö
+  latitude: 60.1016866
+  longitude: 18.8052482
+
+- location: Tempo Katthammarsvik
+  urn: urn:coop:store:id:61
+  city: Katthammarsvik
+  latitude: 57.4263763
+  longitude: 18.8410576
+
+- location: Tempo Bureå
+  urn: urn:coop:store:id:22
+  city: Bureå
+  latitude: 64.6175378
+  longitude: 21.198832
