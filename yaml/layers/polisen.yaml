@@ -1,1757 +1,1962 @@
 meta:
   name: Polisen
-  web: https://polisen.se/
+  web: https://www.polisen.se/
   wikipedia: https://sv.wikipedia.org/wiki/Polisen_i_Sverige
-  category: myndigheter
-  locations: 350
+  category: Myndigheter
+  locations: 391
 
 locations:
-- location: Polisen Kungälv
+- location: Polisen
+  city: Strömstad
+  latitude: 58.939312
+  longitude: 11.171188
+
+- location: Polisen
+  city: Tanum
+  latitude: 58.722062
+  longitude: 11.322688
+
+- location: Polisen
+  city: Lysekil
+  latitude: 58.27631
+  longitude: 11.442036
+
+- location: Polisen
+  city: Stenungsund
+  latitude: 58.067437
+  longitude: 11.816813
+
+- location: Polisen
+  city: Tjörn
+  latitude: 58.067437
+  longitude: 11.816813
+
+- location: Polisen
+  city: Tångudden
+  latitude: 57.680309
+  longitude: 11.878978
+
+- location: Polisen
+  city: Västra Frölunda
+  latitude: 57.660568
+  longitude: 11.895559
+
+- location: Polisen
+  city: Göteborg
+  latitude: 57.70015
+  longitude: 11.930522
+
+- location: Polisen
+  city: Dals-ed
+  latitude: 58.912562
+  longitude: 11.931313
+
+- location: Polisen
+  city: Uddevalla
+  latitude: 58.351312
+  longitude: 11.940188
+
+- location: Polisen
+  city: Uddevalla
+  latitude: 58.351254
+  longitude: 11.940228
+
+- location: Polisen
+  city: Göteborg
+  latitude: 57.71986
+  longitude: 11.945516
+
+- location: Polisen
+  city: Göteborg
+  latitude: 57.721043
+  longitude: 11.946803
+
+- location: Polisen
   city: Kungälv
   latitude: 57.870562
   longitude: 11.972188
 
-- location: Polisen Alingsås
-  city: Alingsås
-  latitude: 57.930187
-  longitude: 12.529563
-
-- location: Polisen Älmhult
-  city: Älmhult
-  latitude: 56.540688
-  longitude: 14.128687
-
-- location: Polisen Älvdalen
-  city: Älvdalen
-  latitude: 61.228313
-  longitude: 14.039938
-
-- location: Polisen Alvesta
-  city: Alvesta
-  latitude: 56.900312
-  longitude: 14.555063
-
-- location: Polisen Älvkarleby
-  city: Älvkarleby
-  latitude: null
-  longitude: null
-
-- location: Polisen Älvsbyn
-  city: Älvsbyn
-  latitude: 65.677437
-  longitude: 20.997687
-
-- location: Polisen Åmål
-  city: Åmål
-  latitude: 59.051313
-  longitude: 12.704438
-
-- location: Polisen Aneby
-  city: Aneby
-  latitude: null
-  longitude: null
-
-- location: Polisen Ånge
-  city: Ånge
-  latitude: 62.524687
-  longitude: 15.664562
-
-- location: Polisen Ängelholm
-  city: Ängelholm
-  latitude: 56.248062
-  longitude: 12.895062
-
-- location: Polisen Arboga
-  city: Arboga
-  latitude: null
-  longitude: null
-
-- location: Polisen Åre
-  city: Åre
-  latitude: 63.395312
-  longitude: 13.095688
-
-- location: Polisen Årjäng
-  city: Årjäng
-  latitude: 59.393187
-  longitude: 12.134062
-
-- location: Polisen Arjeplog
-  city: Arjeplog
-  latitude: null
-  longitude: null
-
-- location: Polisen Arvidsjaur
-  city: Arvidsjaur
-  latitude: null
-  longitude: null
-
-- location: Polisen Arvika
-  city: Arvika
-  latitude: 59.653937
-  longitude: 12.602688
-
-- location: Polisen Åsele
-  city: Åsele
-  latitude: null
-  longitude: null
-
-- location: Polisen Askersund
-  city: Askersund
-  latitude: 58.879562
-  longitude: 14.905812
-
-- location: Polisen Åstorp
-  city: Åstorp
-  latitude: 56.134812
-  longitude: 12.948438
-
-- location: Polisen Åtvidaberg
-  city: Åtvidaberg
-  latitude: null
-  longitude: null
-
-- location: Polisen Avesta
-  city: Avesta
-  latitude: 60.146563
-  longitude: 16.164313
-
-- location: Polisen Båstad
-  city: Båstad
-  latitude: 56.426437
-  longitude: 12.846687
-
-- location: Polisen Bengtsfors
-  city: Bengtsfors
-  latitude: 59.031562
-  longitude: 12.219188
-
-- location: Polisen Berg
-  city: Berg
-  latitude: null
-  longitude: null
-
-- location: Polisen Bjurholm
-  city: Bjurholm
-  latitude: null
-  longitude: null
-
-- location: Polisen Bjuv
-  city: Bjuv
-  latitude: 56.083938
-  longitude: 12.911687
-
-- location: Polisen Boden
-  city: Boden
-  latitude: 65.825063
-  longitude: 21.698813
-
-- location: Polisen Bollebygd
-  city: Bollebygd
-  latitude: null
-  longitude: null
-
-- location: Polisen Bollnäs
-  city: Bollnäs
-  latitude: 61.349812
-  longitude: 16.397687
-
-- location: Polisen Borås
-  city: Borås
-  latitude: 57.723562
-  longitude: 12.941187
-
-- location: Polisen Borgholm
-  city: Borgholm
-  latitude: 56.874437
-  longitude: 16.658687
-
-- location: Polisen Borlänge
-  city: Borlänge
-  latitude: 60.485937
-  longitude: 15.436187
-
-- location: Polisen Botkyrka
-  city: Botkyrka
-  latitude: null
-  longitude: null
-
-- location: Polisen Boxholm
-  city: Boxholm
-  latitude: null
-  longitude: null
-
-- location: Polisen Bräcke
-  city: Bräcke
-  latitude: null
-  longitude: null
-
-- location: Polisen Bromölla
-  city: Bromölla
-  latitude: null
-  longitude: null
-
-- location: Polisen Burlöv
-  city: Burlöv
-  latitude: 55.633312
-  longitude: 13.070438
-
-- location: Polisen Dals-ed
-  city: Dals-ed
-  latitude: null
-  longitude: null
-
-- location: Polisen Danderyd
-  city: Danderyd
-  latitude: null
-  longitude: null
-
-- location: Polisen Degerfors
-  city: Degerfors
-  latitude: 59.238062
-  longitude: 14.433687
-
-- location: Polisen Dorotea
-  city: Dorotea
-  latitude: null
-  longitude: null
-
-- location: Polisen Eda
-  city: Eda
-  latitude: 59.883437
-  longitude: 12.302688
-
-- location: Polisen Ekerö
-  city: Ekerö
-  latitude: 59.289812
-  longitude: 17.811438
-
-- location: Polisen Eksjö
-  city: Eksjö
-  latitude: 57.659562
-  longitude: 14.961688
-
-- location: Polisen Emmaboda
-  city: Emmaboda
-  latitude: 56.630437
-  longitude: 15.533188
-
-- location: Polisen Enköping
-  city: Enköping
-  latitude: 59.636938
-  longitude: 17.083562
-
-- location: Polisen Eskilstuna
-  city: Eskilstuna
-  latitude: 59.368813
-  longitude: 16.515937
-
-- location: Polisen Eslöv
-  city: Eslöv
-  latitude: 55.830062
-  longitude: 13.309188
-
-- location: Polisen Essunga
-  city: Essunga
-  latitude: null
-  longitude: null
-
-- location: Polisen Fagersta
-  city: Fagersta
-  latitude: null
-  longitude: null
-
-- location: Polisen Falkenberg
-  city: Falkenberg
-  latitude: null
-  longitude: null
-
-- location: Polisen Falköping
-  city: Falköping
-  latitude: null
-  longitude: null
-
-- location: Polisen Falun
-  city: Falun
-  latitude: null
-  longitude: null
-
-- location: Polisen Färgelanda
-  city: Färgelanda
-  latitude: null
-  longitude: null
-
-- location: Polisen Filipstad
-  city: Filipstad
-  latitude: null
-  longitude: null
-
-- location: Polisen Finspång
-  city: Finspång
-  latitude: null
-  longitude: null
-
-- location: Polisen Flen
-  city: Flen
-  latitude: null
-  longitude: null
-
-- location: Polisen Forshaga
-  city: Forshaga
-  latitude: null
-  longitude: null
-
-- location: Polisen Gagnef
-  city: Gagnef
-  latitude: null
-  longitude: null
-
-- location: Polisen Gällivare
-  city: Gällivare
-  latitude: null
-  longitude: null
-
-- location: Polisen Gävle
-  city: Gävle
-  latitude: null
-  longitude: null
-
-- location: Polisen Gislaved
-  city: Gislaved
-  latitude: null
-  longitude: null
-
-- location: Polisen Gnesta
-  city: Gnesta
-  latitude: null
-  longitude: null
-
-- location: Polisen Gnosjö
-  city: Gnosjö
-  latitude: null
-  longitude: null
-
-- location: Polisen Göteborg
-  city: Göteborg
-  latitude: null
-  longitude: null
-
-- location: Polisen Götene
-  city: Götene
-  latitude: null
-  longitude: null
-
-- location: Polisen Gotland
-  city: Gotland
-  latitude: null
-  longitude: null
-
-- location: Polisen Grästorp
-  city: Grästorp
-  latitude: null
-  longitude: null
-
-- location: Polisen Grums
-  city: Grums
-  latitude: null
-  longitude: null
-
-- location: Polisen Gullspång
-  city: Gullspång
-  latitude: null
-  longitude: null
-
-- location: Polisen Habo
-  city: Habo
-  latitude: null
-  longitude: null
-
-- location: Polisen Håbo
-  city: Håbo
-  latitude: null
-  longitude: null
-
-- location: Polisen Hagfors
-  city: Hagfors
-  latitude: null
-  longitude: null
-
-- location: Polisen Hällefors
-  city: Hällefors
-  latitude: null
-  longitude: null
-
-- location: Polisen Hallsberg
-  city: Hallsberg
-  latitude: null
-  longitude: null
-
-- location: Polisen Hallstahammar
-  city: Hallstahammar
-  latitude: null
-  longitude: null
-
-- location: Polisen Halmstad
-  city: Halmstad
-  latitude: null
-  longitude: null
-
-- location: Polisen Hammarö
-  city: Hammarö
-  latitude: null
-  longitude: null
-
-- location: Polisen Haninge
-  city: Haninge
-  latitude: null
-  longitude: null
-
-- location: Polisen Haparanda
-  city: Haparanda
-  latitude: null
-  longitude: null
-
-- location: Polisen Härjedalen
-  city: Härjedalen
-  latitude: null
-  longitude: null
-
-- location: Polisen Härnösand
-  city: Härnösand
-  latitude: null
-  longitude: null
-
-- location: Polisen Härryda
-  city: Härryda
-  latitude: null
-  longitude: null
-
-- location: Polisen Hässleholm
-  city: Hässleholm
-  latitude: null
-  longitude: null
-
-- location: Polisen Heby
-  city: Heby
-  latitude: null
-  longitude: null
-
-- location: Polisen Hedemora
-  city: Hedemora
-  latitude: null
-  longitude: null
-
-- location: Polisen Helsingborg
-  city: Helsingborg
-  latitude: null
-  longitude: null
-
-- location: Polisen Herrljunga
-  city: Herrljunga
-  latitude: null
-  longitude: null
-
-- location: Polisen Hjo
-  city: Hjo
-  latitude: null
-  longitude: null
-
-- location: Polisen Hofors
-  city: Hofors
-  latitude: null
-  longitude: null
-
-- location: Polisen Höganäs
-  city: Höganäs
-  latitude: null
-  longitude: null
-
-- location: Polisen Högsby
-  city: Högsby
-  latitude: null
-  longitude: null
-
-- location: Polisen Höör
-  city: Höör
-  latitude: null
-  longitude: null
-
-- location: Polisen Hörby
-  city: Hörby
-  latitude: null
-  longitude: null
-
-- location: Polisen Huddinge
-  city: Huddinge
-  latitude: null
-  longitude: null
-
-- location: Polisen Hudiksvall
-  city: Hudiksvall
-  latitude: null
-  longitude: null
-
-- location: Polisen Hultsfred
-  city: Hultsfred
-  latitude: null
-  longitude: null
-
-- location: Polisen Hylte
-  city: Hylte
-  latitude: null
-  longitude: null
-
-- location: Polisen Järfälla
-  city: Järfälla
-  latitude: null
-  longitude: null
-
-- location: Polisen Jokkmokk
-  city: Jokkmokk
-  latitude: null
-  longitude: null
-
-- location: Polisen Jönköping
-  city: Jönköping
-  latitude: null
-  longitude: null
-
-- location: Polisen Kalix
-  city: Kalix
-  latitude: null
-  longitude: null
-
-- location: Polisen Kalmar
-  city: Kalmar
-  latitude: null
-  longitude: null
-
-- location: Polisen Karlsborg
-  city: Karlsborg
-  latitude: null
-  longitude: null
-
-- location: Polisen Karlshamn
-  city: Karlshamn
-  latitude: null
-  longitude: null
-
-- location: Polisen Karlskoga
-  city: Karlskoga
-  latitude: null
-  longitude: null
-
-- location: Polisen Karlskrona
-  city: Karlskrona
-  latitude: null
-  longitude: null
-
-- location: Polisen Karlstad
-  city: Karlstad
-  latitude: null
-  longitude: null
-
-- location: Polisen Katrineholm
-  city: Katrineholm
-  latitude: null
-  longitude: null
-
-- location: Polisen Kävlinge
-  city: Kävlinge
-  latitude: null
-  longitude: null
-
-- location: Polisen Kil
-  city: Kil
-  latitude: null
-  longitude: null
-
-- location: Polisen Kinda
-  city: Kinda
-  latitude: null
-  longitude: null
-
-- location: Polisen Kiruna
-  city: Kiruna
-  latitude: null
-  longitude: null
-
-- location: Polisen Klippan
-  city: Klippan
-  latitude: null
-  longitude: null
-
-- location: Polisen Knivsta
-  city: Knivsta
-  latitude: null
-  longitude: null
-
-- location: Polisen Köping
-  city: Köping
-  latitude: null
-  longitude: null
-
-- location: Polisen Kramfors
-  city: Kramfors
-  latitude: null
-  longitude: null
-
-- location: Polisen Kristianstad
-  city: Kristianstad
-  latitude: null
-  longitude: null
-
-- location: Polisen Kristinehamn
-  city: Kristinehamn
-  latitude: null
-  longitude: null
-
-- location: Polisen Krokom
-  city: Krokom
-  latitude: null
-  longitude: null
-
-- location: Polisen Kumla
-  city: Kumla
-  latitude: null
-  longitude: null
-
-- location: Polisen Kungälv
+- location: Polisen
   city: Kungälv
-  latitude: null
-  longitude: null
-
-- location: Polisen Kungsbacka
-  city: Kungsbacka
-  latitude: null
-  longitude: null
-
-- location: Polisen Kungsör
-  city: Kungsör
-  latitude: null
-  longitude: null
-
-- location: Polisen Laholm
-  city: Laholm
-  latitude: null
-  longitude: null
-
-- location: Polisen Landskrona
-  city: Landskrona
-  latitude: null
-  longitude: null
-
-- location: Polisen Laxå
-  city: Laxå
-  latitude: null
-  longitude: null
-
-- location: Polisen Lekeberg
-  city: Lekeberg
-  latitude: null
-  longitude: null
-
-- location: Polisen Leksand
-  city: Leksand
-  latitude: null
-  longitude: null
-
-- location: Polisen Lerum
-  city: Lerum
-  latitude: null
-  longitude: null
-
-- location: Polisen Lessebo
-  city: Lessebo
-  latitude: null
-  longitude: null
-
-- location: Polisen Lidingö
-  city: Lidingö
-  latitude: null
-  longitude: null
-
-- location: Polisen Lidköping
-  city: Lidköping
-  latitude: null
-  longitude: null
-
-- location: Polisen Lilla edet
-  city: Lilla edet
-  latitude: null
-  longitude: null
-
-- location: Polisen Lindesberg
-  city: Lindesberg
-  latitude: null
-  longitude: null
-
-- location: Polisen Linköping
-  city: Linköping
-  latitude: null
-  longitude: null
-
-- location: Polisen Ljungby
-  city: Ljungby
-  latitude: null
-  longitude: null
-
-- location: Polisen Ljusdal
-  city: Ljusdal
-  latitude: null
-  longitude: null
-
-- location: Polisen Ljusnarsberg
-  city: Ljusnarsberg
-  latitude: null
-  longitude: null
-
-- location: Polisen Lomma
-  city: Lomma
-  latitude: null
-  longitude: null
-
-- location: Polisen Ludvika
-  city: Ludvika
-  latitude: null
-  longitude: null
-
-- location: Polisen Luleå
-  city: Luleå
-  latitude: null
-  longitude: null
-
-- location: Polisen Lund
-  city: Lund
-  latitude: null
-  longitude: null
-
-- location: Polisen Lycksele
-  city: Lycksele
-  latitude: null
-  longitude: null
-
-- location: Polisen Lysekil
-  city: Lysekil
-  latitude: null
-  longitude: null
-
-- location: Polisen Malå
-  city: Malå
-  latitude: null
-  longitude: null
-
-- location: Polisen Malmö
-  city: Malmö
-  latitude: null
-  longitude: null
-
-- location: Polisen Malung-Sälen
-  city: Malung-Sälen
-  latitude: null
-  longitude: null
-
-- location: Polisen Mariestad
-  city: Mariestad
-  latitude: null
-  longitude: null
-
-- location: Polisen Mark
-  city: Mark
-  latitude: null
-  longitude: null
-
-- location: Polisen Markaryd
-  city: Markaryd
-  latitude: null
-  longitude: null
-
-- location: Polisen Mellerud
-  city: Mellerud
-  latitude: null
-  longitude: null
-
-- location: Polisen Mjölby
-  city: Mjölby
-  latitude: null
-  longitude: null
-
-- location: Polisen Mölndal
-  city: Mölndal
-  latitude: null
-  longitude: null
-
-- location: Polisen Mönsterås
-  city: Mönsterås
-  latitude: null
-  longitude: null
-
-- location: Polisen Mora
-  city: Mora
-  latitude: null
-  longitude: null
-
-- location: Polisen Mörbylånga
-  city: Mörbylånga
-  latitude: null
-  longitude: null
-
-- location: Polisen Motala
-  city: Motala
-  latitude: null
-  longitude: null
-
-- location: Polisen Mullsjö
-  city: Mullsjö
-  latitude: null
-  longitude: null
-
-- location: Polisen Munkedal
-  city: Munkedal
-  latitude: null
-  longitude: null
-
-- location: Polisen Munkfors
-  city: Munkfors
-  latitude: null
-  longitude: null
-
-- location: Polisen Nacka
-  city: Nacka
-  latitude: null
-  longitude: null
-
-- location: Polisen Nässjö
-  city: Nässjö
-  latitude: null
-  longitude: null
-
-- location: Polisen Nora
-  city: Nora
-  latitude: null
-  longitude: null
-
-- location: Polisen Norberg
-  city: Norberg
-  latitude: null
-  longitude: null
-
-- location: Polisen Nordanstig
-  city: Nordanstig
-  latitude: null
-  longitude: null
-
-- location: Polisen Nordmaling
-  city: Nordmaling
-  latitude: null
-  longitude: null
-
-- location: Polisen Norrköping
-  city: Norrköping
-  latitude: null
-  longitude: null
-
-- location: Polisen Norrtälje
-  city: Norrtälje
-  latitude: null
-  longitude: null
-
-- location: Polisen Norsjö
-  city: Norsjö
-  latitude: null
-  longitude: null
-
-- location: Polisen Nybro
-  city: Nybro
-  latitude: null
-  longitude: null
-
-- location: Polisen Nyköping
-  city: Nyköping
-  latitude: null
-  longitude: null
-
-- location: Polisen Nykvarn
-  city: Nykvarn
-  latitude: null
-  longitude: null
-
-- location: Polisen Nynäshamn
-  city: Nynäshamn
-  latitude: null
-  longitude: null
-
-- location: Polisen Ockelbo
-  city: Ockelbo
-  latitude: null
-  longitude: null
-
-- location: Polisen Öckerö
-  city: Öckerö
-  latitude: null
-  longitude: null
-
-- location: Polisen Ödeshög
-  city: Ödeshög
-  latitude: null
-  longitude: null
-
-- location: Polisen Olofström
-  city: Olofström
-  latitude: null
-  longitude: null
-
-- location: Polisen Örebro
-  city: Örebro
-  latitude: null
-  longitude: null
-
-- location: Polisen Örkelljunga
-  city: Örkelljunga
-  latitude: null
-  longitude: null
-
-- location: Polisen Örnsköldsvik
-  city: Örnsköldsvik
-  latitude: null
-  longitude: null
-
-- location: Polisen Orsa
-  city: Orsa
-  latitude: null
-  longitude: null
-
-- location: Polisen Orust
-  city: Orust
-  latitude: null
-  longitude: null
-
-- location: Polisen Osby
-  city: Osby
-  latitude: null
-  longitude: null
-
-- location: Polisen Oskarshamn
-  city: Oskarshamn
-  latitude: null
-  longitude: null
-
-- location: Polisen Österåker
-  city: Österåker
-  latitude: null
-  longitude: null
-
-- location: Polisen Östersund
-  city: Östersund
-  latitude: null
-  longitude: null
-
-- location: Polisen Östhammar
-  city: Östhammar
-  latitude: null
-  longitude: null
-
-- location: Polisen Östra göinge
-  city: Östra göinge
-  latitude: null
-  longitude: null
-
-- location: Polisen Ovanåker
-  city: Ovanåker
-  latitude: null
-  longitude: null
-
-- location: Polisen Överkalix
-  city: Överkalix
-  latitude: null
-  longitude: null
-
-- location: Polisen Övertorneå
-  city: Övertorneå
-  latitude: null
-  longitude: null
-
-- location: Polisen Oxelösund
-  city: Oxelösund
-  latitude: null
-  longitude: null
-
-- location: Polisen Pajala
-  city: Pajala
-  latitude: null
-  longitude: null
-
-- location: Polisen Partille
-  city: Partille
-  latitude: null
-  longitude: null
-
-- location: Polisen Perstorp
-  city: Perstorp
-  latitude: null
-  longitude: null
-
-- location: Polisen Piteå
-  city: Piteå
-  latitude: null
-  longitude: null
-
-- location: Polisen Ragunda
-  city: Ragunda
-  latitude: null
-  longitude: null
-
-- location: Polisen Rättvik
-  city: Rättvik
-  latitude: null
-  longitude: null
-
-- location: Polisen Robertsfors
-  city: Robertsfors
-  latitude: null
-  longitude: null
-
-- location: Polisen Ronneby
-  city: Ronneby
-  latitude: null
-  longitude: null
-
-- location: Polisen Säffle
-  city: Säffle
-  latitude: null
-  longitude: null
-
-- location: Polisen Sala
-  city: Sala
-  latitude: null
-  longitude: null
-
-- location: Polisen Salem
-  city: Salem
-  latitude: null
-  longitude: null
-
-- location: Polisen Sandviken
-  city: Sandviken
-  latitude: null
-  longitude: null
-
-- location: Polisen Säter
-  city: Säter
-  latitude: null
-  longitude: null
-
-- location: Polisen Sävsjö
-  city: Sävsjö
-  latitude: null
-  longitude: null
-
-- location: Polisen Sigtuna
-  city: Sigtuna
-  latitude: null
-  longitude: null
-
-- location: Polisen Simrishamn
-  city: Simrishamn
-  latitude: null
-  longitude: null
-
-- location: Polisen Sjöbo
-  city: Sjöbo
-  latitude: null
-  longitude: null
-
-- location: Polisen Skara
-  city: Skara
-  latitude: null
-  longitude: null
-
-- location: Polisen Skellefteå
-  city: Skellefteå
-  latitude: null
-  longitude: null
-
-- location: Polisen Skinnskatteberg
-  city: Skinnskatteberg
-  latitude: null
-  longitude: null
-
-- location: Polisen Skövde
-  city: Skövde
-  latitude: null
-  longitude: null
-
-- location: Polisen Skurup
-  city: Skurup
-  latitude: null
-  longitude: null
-
-- location: Polisen Smedjebacken
-  city: Smedjebacken
-  latitude: null
-  longitude: null
-
-- location: Polisen Söderhamn
-  city: Söderhamn
-  latitude: null
-  longitude: null
-
-- location: Polisen Söderköping
-  city: Söderköping
-  latitude: null
-  longitude: null
-
-- location: Polisen Södertälje
-  city: Södertälje
-  latitude: null
-  longitude: null
-
-- location: Polisen Sollefteå
-  city: Sollefteå
-  latitude: null
-  longitude: null
-
-- location: Polisen Sollentuna
-  city: Sollentuna
-  latitude: null
-  longitude: null
-
-- location: Polisen Solna
-  city: Solna
-  latitude: null
-  longitude: null
-
-- location: Polisen Sölvesborg
-  city: Sölvesborg
-  latitude: null
-  longitude: null
-
-- location: Polisen Sorsele
-  city: Sorsele
-  latitude: null
-  longitude: null
-
-- location: Polisen Sotenäs
-  city: Sotenäs
-  latitude: null
-  longitude: null
-
-- location: Polisen Staffanstorp
-  city: Staffanstorp
-  latitude: null
-  longitude: null
-
-- location: Polisen Stenungsund
-  city: Stenungsund
-  latitude: null
-  longitude: null
-
-- location: Polisen Stockholm
-  city: Stockholm
-  latitude: null
-  longitude: null
-
-- location: Polisen Storfors
-  city: Storfors
-  latitude: null
-  longitude: null
-
-- location: Polisen Storuman
-  city: Storuman
-  latitude: null
-  longitude: null
-
-- location: Polisen Strängnäs
-  city: Strängnäs
-  latitude: null
-  longitude: null
-
-- location: Polisen Strömstad
-  city: Strömstad
-  latitude: null
-  longitude: null
-
-- location: Polisen Strömsund
-  city: Strömsund
-  latitude: null
-  longitude: null
-
-- location: Polisen Sundbyberg
-  city: Sundbyberg
-  latitude: null
-  longitude: null
-
-- location: Polisen Sundsvall
-  city: Sundsvall
-  latitude: null
-  longitude: null
-
-- location: Polisen Sunne
-  city: Sunne
-  latitude: null
-  longitude: null
-
-- location: Polisen Surahammar
-  city: Surahammar
-  latitude: null
-  longitude: null
-
-- location: Polisen Svalöv
-  city: Svalöv
-  latitude: null
-  longitude: null
-
-- location: Polisen Svedala
-  city: Svedala
-  latitude: null
-  longitude: null
-
-- location: Polisen Svenljunga
-  city: Svenljunga
-  latitude: null
-  longitude: null
-
-- location: Polisen Täby
-  city: Täby
-  latitude: null
-  longitude: null
-
-- location: Polisen Tanum
-  city: Tanum
-  latitude: null
-  longitude: null
-
-- location: Polisen Tibro
-  city: Tibro
-  latitude: null
-  longitude: null
-
-- location: Polisen Tidaholm
-  city: Tidaholm
-  latitude: null
-  longitude: null
-
-- location: Polisen Tierp
-  city: Tierp
-  latitude: null
-  longitude: null
-
-- location: Polisen Timrå
-  city: Timrå
-  latitude: null
-  longitude: null
-
-- location: Polisen Tingsryd
-  city: Tingsryd
-  latitude: null
-  longitude: null
-
-- location: Polisen Tjörn
-  city: Tjörn
-  latitude: null
-  longitude: null
-
-- location: Polisen Tomelilla
-  city: Tomelilla
-  latitude: null
-  longitude: null
-
-- location: Polisen Töreboda
-  city: Töreboda
-  latitude: null
-  longitude: null
-
-- location: Polisen Torsås
-  city: Torsås
-  latitude: null
-  longitude: null
-
-- location: Polisen Torsby
-  city: Torsby
-  latitude: null
-  longitude: null
-
-- location: Polisen Tranås
-  city: Tranås
-  latitude: null
-  longitude: null
-
-- location: Polisen Tranemo
-  city: Tranemo
-  latitude: null
-  longitude: null
-
-- location: Polisen Trelleborg
-  city: Trelleborg
-  latitude: null
-  longitude: null
-
-- location: Polisen Trollhättan
-  city: Trollhättan
-  latitude: null
-  longitude: null
-
-- location: Polisen Trosa
-  city: Trosa
-  latitude: null
-  longitude: null
-
-- location: Polisen Tyresö
-  city: Tyresö
-  latitude: null
-  longitude: null
-
-- location: Polisen Uddevalla
-  city: Uddevalla
-  latitude: null
-  longitude: null
-
-- location: Polisen Ulricehamn
-  city: Ulricehamn
-  latitude: null
-  longitude: null
-
-- location: Polisen Umeå
-  city: Umeå
-  latitude: null
-  longitude: null
-
-- location: Polisen Upplands väsby
-  city: Upplands väsby
-  latitude: null
-  longitude: null
-
-- location: Polisen Upplands-bro
-  city: Upplands-bro
-  latitude: null
-  longitude: null
-
-- location: Polisen Uppsala
-  city: Uppsala
-  latitude: null
-  longitude: null
-
-- location: Polisen Uppvidinge
-  city: Uppvidinge
-  latitude: null
-  longitude: null
-
-- location: Polisen Vadstena
-  city: Vadstena
-  latitude: null
-  longitude: null
-
-- location: Polisen Vaggeryd
-  city: Vaggeryd
-  latitude: null
-  longitude: null
-
-- location: Polisen Valdemarsvik
-  city: Valdemarsvik
-  latitude: null
-  longitude: null
-
-- location: Polisen Vallentuna
-  city: Vallentuna
-  latitude: null
-  longitude: null
-
-- location: Polisen Vänersborg
-  city: Vänersborg
-  latitude: null
-  longitude: null
-
-- location: Polisen Vännäs
-  city: Vännäs
-  latitude: null
-  longitude: null
-
-- location: Polisen Vansbro
-  city: Vansbro
-  latitude: null
-  longitude: null
-
-- location: Polisen Vara
-  city: Vara
-  latitude: null
-  longitude: null
-
-- location: Polisen Varberg
-  city: Varberg
-  latitude: null
-  longitude: null
-
-- location: Polisen Vårgårda
-  city: Vårgårda
-  latitude: null
-  longitude: null
-
-- location: Polisen Värmdö
-  city: Värmdö
-  latitude: null
-  longitude: null
-
-- location: Polisen Värnamo
-  city: Värnamo
-  latitude: null
-  longitude: null
-
-- location: Polisen Västerås
-  city: Västerås
-  latitude: null
-  longitude: null
-
-- location: Polisen Västervik
-  city: Västervik
-  latitude: null
-  longitude: null
-
-- location: Polisen Vaxholm
-  city: Vaxholm
-  latitude: null
-  longitude: null
-
-- location: Polisen Växjö
-  city: Växjö
-  latitude: null
-  longitude: null
-
-- location: Polisen Vellinge
-  city: Vellinge
-  latitude: null
-  longitude: null
-
-- location: Polisen Vetlanda
-  city: Vetlanda
-  latitude: null
-  longitude: null
-
-- location: Polisen Vilhelmina
-  city: Vilhelmina
-  latitude: null
-  longitude: null
-
-- location: Polisen Vimmerby
-  city: Vimmerby
-  latitude: null
-  longitude: null
-
-- location: Polisen Vindeln
-  city: Vindeln
-  latitude: null
-  longitude: null
-
-- location: Polisen Vingåker
-  city: Vingåker
-  latitude: null
-  longitude: null
-
-- location: Polisen Ydre
-  city: Ydre
-  latitude: null
-  longitude: null
-
-- location: Polisen Ystad
-  city: Ystad
-  latitude: null
-  longitude: null
-
-- location: Polisen Örebro Airport (flygplats)
-  city: Örebro Airport (flygplats)
-  latitude: null
-  longitude: null
-
-- location: Polisen Åseda
-  city: Åseda
-  latitude: null
-  longitude: null
-
-- location: Polisen Åhus
-  city: Åhus
-  latitude: null
-  longitude: null
-
-- location: Polisen Växjö Dalbo
-  city: Växjö Dalbo
-  latitude: null
-  longitude: null
-
-- location: Polisen Växjö cykelförråd
-  city: Växjö cykelförråd
-  latitude: null
-  longitude: null
-
-- location: Polisen Växjö
-  city: Växjö
-  latitude: null
-  longitude: null
-
-- location: Polisen Västberga
-  city: Västberga
-  latitude: null
-  longitude: null
-
-- location: Polisen Vällingby
-  city: Vällingby
-  latitude: null
-  longitude: null
-
-- location: Polisen Vivalla
-  city: Vivalla
-  latitude: null
-  longitude: null
-
-- location: Polisen Visby
-  city: Visby
-  latitude: null
-  longitude: null
-
-- location: Polisen Vagnhärad
-  city: Vagnhärad
-  latitude: null
-  longitude: null
-
-- location: Polisen Uppsala - Beslagsgruppen
-  city: Uppsala - Beslagsgruppen
-  latitude: null
-  longitude: null
-
-- location: Polisen Ullared
-  city: Ullared
-  latitude: null
-  longitude: null
-
-- location: Polisen Tärnaby
-  city: Tärnaby
-  latitude: null
-  longitude: null
-
-- location: Polisen Södra Roslagen (Täby)
-  city: Södra Roslagen (Täby)
-  latitude: null
-  longitude: null
-
-- location: Polisen Sälen
-  city: Sälen
-  latitude: null
-  longitude: null
-
-- location: Polisen Svenstavik
-  city: Svenstavik
-  latitude: null
-  longitude: null
-
-- location: Polisen Sveg
-  city: Sveg
-  latitude: null
-  longitude: null
-
-- location: Polisen Sturup - Malmö Airport
-  city: Sturup - Malmö Airport
-  latitude: null
-  longitude: null
-
-- location: Polisen Stockholm city Södermalm
-  city: Stockholm city Södermalm
-  latitude: null
-  longitude: null
-
-- location: Polisen Stockholm city passexpedition
-  city: Stockholm city passexpedition
-  latitude: null
-  longitude: null
-
-- location: Polisen Stockholm city Norrmalm
-  city: Stockholm city Norrmalm
-  latitude: null
-  longitude: null
-
-- location: Polisen Sollentuna
-  city: Sollentuna
-  latitude: null
-  longitude: null
-
-- location: Polisen Skärholmen
-  city: Skärholmen
-  latitude: null
-  longitude: null
-
-- location: Polisen Skutskär
-  city: Skutskär
-  latitude: null
-  longitude: null
-
-- location: Polisen Skelleftehamn
-  city: Skelleftehamn
-  latitude: null
-  longitude: null
-
-- location: Polisen Skavsta
-  city: Skavsta
-  latitude: null
-  longitude: null
-
-- location: Polisen Scandinavian Mountain Airport (flygplats)
-  city: Scandinavian Mountain Airport (flygplats)
-  latitude: null
-  longitude: null
-
-- location: Polisen Ovanåker - Edsbyn
-  city: Ovanåker - Edsbyn
-  latitude: null
-  longitude: null
-
-- location: Polisen Norrtälje
-  city: Norrtälje
-  latitude: null
-  longitude: null
-
-- location: Polisen Nordanstig - Bergsjö
-  city: Nordanstig - Bergsjö
-  latitude: null
-  longitude: null
-
-- location: Polisen Mölnlycke
-  city: Mölnlycke
-  latitude: null
-  longitude: null
-
-- location: Polisen Mobila poliskontoret i polisområde Blekinge nordöstra Skåne
-  city: Mobila poliskontoret i polisområde Blekinge nordöstra Skåne
-  latitude: null
-  longitude: null
-
-- location: Polisen Mobila poliskontoret i lokalpolisområde Klippan
-  city: Mobila poliskontoret i lokalpolisområde Klippan
-  latitude: null
-  longitude: null
-
-- location: Polisen Mobila kontoret Älvsborg
-  city: Mobila kontoret Älvsborg
-  latitude: null
-  longitude: null
-
-- location: Polisen Mobila kontoret Fyrbodal
-  city: Mobila kontoret Fyrbodal
-  latitude: null
-  longitude: null
-
-- location: Polisen Malung
-  city: Malung
-  latitude: null
-  longitude: null
-
-- location: Polisen Malmö Rosengård
-  city: Malmö Rosengård
-  latitude: null
-  longitude: null
-
-- location: Polisen Malmö Porslinsgatan
-  city: Malmö Porslinsgatan
-  latitude: null
-  longitude: null
-
-- location: Polisen Malmö hittegods/beslag
-  city: Malmö hittegods/beslag
-  latitude: null
-  longitude: null
-
-- location: Polisen Malmö Drottninggatan
-  city: Malmö Drottninggatan
-  latitude: null
-  longitude: null
-
-- location: Polisen Ludvika
-  city: Ludvika
-  latitude: null
-  longitude: null
-
-- location: Polisen Klara
-  city: Klara
-  latitude: null
-  longitude: null
-
-- location: Polisen Kinna
-  city: Kinna
-  latitude: null
-  longitude: null
-
-- location: Polisen Kinda/Ydre
-  city: Kinda/Ydre
-  latitude: null
-  longitude: null
-
-- location: Polisen Karlstad Flygplats
-  city: Karlstad Flygplats
-  latitude: null
-  longitude: null
-
-- location: Polisen Rinkeby
-  city: Stockholm
-  latitude: 59.387438
-  longitude: 17.932063
-
-- location: Polisen Idre
-  city: Idre
-  latitude: 61.858062
-  longitude: 12.712563
-
-- location: Polisen Göteborg Polishuset
-  city: Göteborg Polishuset
+  latitude: 57.870562
+  longitude: 11.972188
+
+- location: Polisen
+  city: Göteborg
+  latitude: 57.709309
+  longitude: 11.981221
+
+- location: Polisen
+  city: Göteborg
   latitude: 57.705312
   longitude: 11.982688
 
-- location: Polisen Göteborg Passcentralen
-  city: Göteborg Passcentralen
-  latitude: 57.707687
-  longitude: 11.984188
-
-- location: Polisen Landvetter
-  city: Landvetter
-  latitude: 57.671312
-  longitude: 12.298813
-
-- location: Polisen Göteborg Hittegodscentralen
+- location: Polisen
   city: Göteborg
-  latitude: 57.709563
-  longitude: 11.983438
+  latitude: 57.705312
+  longitude: 11.982688
 
-- location: Polisen Göteborg City
+- location: Polisen
   city: Göteborg
   latitude: 57.707687
   longitude: 11.983562
 
-- location: Polisen Globen
-  city: Stockholm
-  latitude: 59.292313
-  longitude: 18.082062
+- location: Polisen
+  city: Mölndal
+  latitude: 57.659397
+  longitude: 12.01976
 
-- location: Polisen Funäsdalen
+- location: Polisen
+  city: Göteborg
+  latitude: 57.699787
+  longitude: 12.026426
+
+- location: Polisen
+  city: Angered
+  latitude: 57.772209
+  longitude: 12.0288
+
+- location: Polisen
+  city: Kungsbacka
+  latitude: 57.485563
+  longitude: 12.080813
+
+- location: Polisen
+  city: Partille
+  latitude: 57.739063
+  longitude: 12.102155
+
+- location: Polisen
+  city: Mölnlycke
+  latitude: 57.658812
+  longitude: 12.114688
+
+- location: Polisen
+  city: Årjäng
+  latitude: 59.393187
+  longitude: 12.134062
+
+- location: Polisen
+  city: Bengtsfors
+  latitude: 59.031562
+  longitude: 12.219188
+
+- location: Polisen
+  city: Varberg
+  latitude: 57.111562
+  longitude: 12.254687
+
+- location: Polisen
+  city: Lerum
+  latitude: 57.768563
+  longitude: 12.265313
+
+- location: Polisen
+  city: Trollhättan
+  latitude: 58.279937
+  longitude: 12.289938
+
+- location: Polisen
+  city: Landvetter
+  latitude: 57.671312
+  longitude: 12.298813
+
+- location: Polisen
+  city: Charlottenberg
+  latitude: 59.883411
+  longitude: 12.302605
+
+- location: Polisen
+  city: Eda
+  latitude: 59.883437
+  longitude: 12.302688
+
+- location: Polisen
+  city: Vänersborg
+  latitude: 58.384313
+  longitude: 12.323937
+
+- location: Polisen
+  city: Falkenberg
+  latitude: 56.906312
+  longitude: 12.488437
+
+- location: Polisen
+  city: Alingsås
+  latitude: 57.930187
+  longitude: 12.529563
+
+- location: Polisen
   city: Funäsdalen
   latitude: 62.544812
   longitude: 12.546062
 
-- location: Polisen Flemingsberg
-  city: Flemingsberg
-  latitude: 59.216812
-  longitude: 17.947063
+- location: Polisen
+  city: Höganäs
+  latitude: 56.200563
+  longitude: 12.557187
 
-- location: Polisen Dala Airport (flygplats)
-  city: Borlänge
-  latitude: 60.429562
-  longitude: 15.507813
+- location: Polisen
+  city: Bollebygd
+  latitude: 57.669562
+  longitude: 12.570812
 
-- location: Polisen Bålsta
-  city: Bålsta
-  latitude: 59.566562
-  longitude: 17.531687
+- location: Polisen
+  city: Arvika
+  latitude: 59.653937
+  longitude: 12.602688
 
-- location: Polisen Broby
+- location: Polisen
+  city: Helsingborg
+  latitude: 56.043636
+  longitude: 12.69319
+
+- location: Polisen
+  city: Kinna
+  latitude: 57.510063
+  longitude: 12.698812
+
+- location: Polisen
+  city: Åmål
+  latitude: 59.051313
+  longitude: 12.704438
+
+- location: Polisen
+  city: Helsingborg
+  latitude: 56.064062
+  longitude: 12.712063
+
+- location: Polisen
+  city: Helsingborg
+  latitude: 56.063881
+  longitude: 12.712358
+
+- location: Polisen
+  city: Idre
+  latitude: 61.858062
+  longitude: 12.712563
+
+- location: Polisen
+  city: Ullared
+  latitude: 57.136312
+  longitude: 12.716938
+
+- location: Polisen
+  city: Ullared
+  latitude: 57.13633
+  longitude: 12.71708
+
+- location: Polisen
+  city: Vårgårda
+  latitude: 58.033187
+  longitude: 12.809062
+
+- location: Polisen
+  city: Vårgårda
+  latitude: 58.033215
+  longitude: 12.80919
+
+- location: Polisen
+  city: Landskrona
+  latitude: 55.869563
+  longitude: 12.829812
+
+- location: Polisen
+  city: Båstad
+  latitude: 56.426437
+  longitude: 12.846687
+
+- location: Polisen
+  city: Halmstad
+  latitude: 56.678438
+  longitude: 12.855313
+
+- location: Polisen
+  city: Ängelholm
+  latitude: 56.24865
+  longitude: 12.871694
+
+- location: Polisen
+  city: Halmstad
+  latitude: 56.682621
+  longitude: 12.889724
+
+- location: Polisen
+  city: Ängelholm
+  latitude: 56.248062
+  longitude: 12.895062
+
+- location: Polisen
+  city: Bjuv
+  latitude: 56.083938
+  longitude: 12.911687
+
+- location: Polisen
+  city: Säffle
+  latitude: 59.133437
+  longitude: 12.923813
+
+- location: Polisen
+  city: Limhamn
+  latitude: 55.575222
+  longitude: 12.933702
+
+- location: Polisen
+  city: Borås
+  latitude: 57.723562
+  longitude: 12.941187
+
+- location: Polisen
+  city: Åstorp
+  latitude: 56.134812
+  longitude: 12.948438
+
+- location: Polisen
+  city: Vara
+  latitude: 58.261187
+  longitude: 12.952813
+
+- location: Polisen
+  city: Malmö
+  latitude: 55.549088
+  longitude: 12.98488
+
+- location: Polisen
+  city: Malmö
+  latitude: 55.549366
+  longitude: 12.98681
+
+- location: Polisen
+  city: Torsby
+  latitude: 60.146937
+  longitude: 13.005813
+
+- location: Polisen
+  city: Malmö
+  latitude: 55.603188
+  longitude: 13.011062
+
+- location: Polisen
+  city: Malmö
+  latitude: 55.606437
+  longitude: 13.016188
+
+- location: Polisen
+  city: Vellinge
+  latitude: 55.474438
+  longitude: 13.018313
+
+- location: Polisen
+  city: Malmö
+  latitude: 55.607246
+  longitude: 13.020446
+
+- location: Polisen
+  city: Malmö
+  latitude: 55.562927
+  longitude: 13.035782
+
+- location: Polisen
+  city: Malmö
+  latitude: 55.622687
+  longitude: 13.041937
+
+- location: Polisen
+  city: Laholm
+  latitude: 56.513188
+  longitude: 13.050187
+
+- location: Polisen
+  city: Laholm
+  latitude: 56.513306
+  longitude: 13.0503
+
+- location: Polisen
+  city: Malmö
+  latitude: 55.587063
+  longitude: 13.050562
+
+- location: Polisen
+  city: Malmö
+  latitude: 55.586437
+  longitude: 13.051236
+
+- location: Polisen
+  city: Malmö
+  latitude: 55.58007
+  longitude: 13.064313
+
+- location: Polisen
+  city: Burlöv
+  latitude: 55.633312
+  longitude: 13.070438
+
+- location: Polisen
+  city: Lomma
+  latitude: 55.674813
+  longitude: 13.072188
+
+- location: Polisen
+  city: Åre
+  latitude: 63.395312
+  longitude: 13.095688
+
+- location: Polisen
+  city: Svalöv
+  latitude: 55.913062
+  longitude: 13.107688
+
+- location: Polisen
+  city: Svenljunga
+  latitude: 57.499188
+  longitude: 13.110938
+
+- location: Polisen
+  city: Grums
+  latitude: 59.351312
+  longitude: 13.111187
+
+- location: Polisen
+  city: Kävlinge
+  latitude: 55.797062
+  longitude: 13.116062
+
+- location: Polisen
+  city: Klippan
+  latitude: 56.137687
+  longitude: 13.125937
+
+- location: Polisen
+  city: Sunne
+  latitude: 59.837187
+  longitude: 13.141687
+
+- location: Polisen
+  city: Lidköping
+  latitude: 58.502187
+  longitude: 13.155062
+
+- location: Polisen
+  city: Svedala
+  latitude: 55.371813
+  longitude: 13.167188
+
+- location: Polisen
+  city: Trelleborg
+  latitude: 55.371813
+  longitude: 13.167188
+
+- location: Polisen
+  city: Lund
+  latitude: 55.704689
+  longitude: 13.183455
+
+- location: Polisen
+  city: Staffanstorp
+  latitude: 55.644063
+  longitude: 13.207562
+
+- location: Polisen
+  city: Lund
+  latitude: 55.694366
+  longitude: 13.219522
+
+- location: Polisen
+  city: Hyltebruk
+  latitude: 57.000937
+  longitude: 13.241938
+
+- location: Polisen
+  city: Sälen
+  latitude: 61.155938
+  longitude: 13.268062
+
+- location: Polisen
+  city: Örkelljunga
+  latitude: 56.283546
+  longitude: 13.281085
+
+- location: Polisen
+  city: Eslöv
+  latitude: 55.830062
+  longitude: 13.309188
+
+- location: Polisen
+  city: Kil
+  latitude: 59.503687
+  longitude: 13.316562
+
+- location: Polisen
+  city: Karlstad
+  latitude: 59.443687
+  longitude: 13.344812
+
+- location: Polisen
+  city: Tranemo
+  latitude: 57.484188
+  longitude: 13.351187
+
+- location: Polisen
+  city: Svedala
+  latitude: 55.540437
+  longitude: 13.366437
+
+- location: Polisen
+  city: Perstorp
+  latitude: 56.137993
+  longitude: 13.396548
+
+- location: Polisen
+  city: Ulricehamn
+  latitude: 57.797812
+  longitude: 13.414063
+
+- location: Polisen
+  city: Skara
+  latitude: 58.385063
+  longitude: 13.441063
+
+- location: Polisen
+  city: Skoghall
+  latitude: 59.322678
+  longitude: 13.4692
+
+- location: Polisen
+  city: Forshaga
+  latitude: 59.530687
+  longitude: 13.479437
+
+- location: Polisen
+  city: Karlstad
+  latitude: 59.391888
+  longitude: 13.488313
+
+- location: Polisen
+  city: Karlstad
+  latitude: 59.390937
+  longitude: 13.490063
+
+- location: Polisen
+  city: Karlstad
+  latitude: 59.384136
+  longitude: 13.490584
+
+- location: Polisen
+  city: Götene
+  latitude: 58.527438
+  longitude: 13.492687
+
+- location: Polisen
+  city: Skurup
+  latitude: 55.479062
+  longitude: 13.503687
+
+- location: Polisen
+  city: Gislaved
+  latitude: 57.302769
+  longitude: 13.543077
+
+- location: Polisen
+  city: Höör
+  latitude: 55.926063
+  longitude: 13.544062
+
+- location: Polisen
+  city: Munkfors
+  latitude: 59.835598
+  longitude: 13.545838
+
+- location: Polisen
+  city: Falköping
+  latitude: 58.161313
+  longitude: 13.558312
+
+- location: Polisen
+  city: Gislaved
+  latitude: 57.297127
+  longitude: 13.560184
+
+- location: Polisen
+  city: Gislaved
+  latitude: 57.295562
+  longitude: 13.567687
+
+- location: Polisen
+  city: Karlstad
+  latitude: 59.391788
+  longitude: 13.57363
+
+- location: Polisen
+  city: Markaryd
+  latitude: 56.46365
+  longitude: 13.597146
+
+- location: Polisen
+  city: Hörby
+  latitude: 55.851188
+  longitude: 13.658812
+
+- location: Polisen
+  city: Hagfors
+  latitude: 60.030187
+  longitude: 13.701313
+
+- location: Polisen
+  city: Sjöbo
+  latitude: 55.632438
+  longitude: 13.708063
+
+- location: Polisen
+  city: Malung
+  latitude: 60.683688
+  longitude: 13.717813
+
+- location: Polisen
+  city: Hässleholm
+  latitude: 56.156312
+  longitude: 13.766813
+
+- location: Polisen
+  city: Ystad
+  latitude: 55.42828
+  longitude: 13.783756
+
+- location: Polisen
+  city: Ystad
+  latitude: 55.439312
+  longitude: 13.827188
+
+- location: Polisen
+  city: Skövde
+  latitude: 58.386688
+  longitude: 13.847938
+
+- location: Polisen
+  city: Ljungby
+  latitude: 56.834688
+  longitude: 13.937563
+
+- location: Polisen
+  city: Tomelilla
+  latitude: 55.542437
+  longitude: 13.957187
+
+- location: Polisen
+  city: Tidaholm
+  latitude: 58.181562
+  longitude: 13.959062
+
+- location: Polisen
+  city: Älvdalen
+  latitude: 61.228313
+  longitude: 14.039938
+
+- location: Polisen
+  city: Värnamo
+  latitude: 57.183312
+  longitude: 14.049938
+
+- location: Polisen
   city: Broby
   latitude: 56.252562
   longitude: 14.078188
 
-- location: Polisen Arlanda
+- location: Polisen
+  city: Kristinehamn
+  latitude: 59.312438
+  longitude: 14.105937
+
+- location: Polisen
+  city: Töreboda
+  latitude: 58.704687
+  longitude: 14.125312
+
+- location: Polisen
+  city: Älmhult
+  latitude: 56.540688
+  longitude: 14.128687
+
+- location: Polisen
+  city: Jönköping
+  latitude: 57.692459
+  longitude: 14.137106
+
+- location: Polisen
+  city: Kristianstad
+  latitude: 56.037562
+  longitude: 14.153937
+
+- location: Polisen
+  city: Tibro
+  latitude: 58.429938
+  longitude: 14.159313
+
+- location: Polisen
+  city: Jönköping
+  latitude: 57.78297
+  longitude: 14.162112
+
+- location: Polisen
+  city: Jönköping
+  latitude: 57.779812
+  longitude: 14.166812
+
+- location: Polisen
+  city: Filipstad
+  latitude: 59.712563
+  longitude: 14.169062
+
+- location: Polisen
+  city: Filipstad
+  latitude: 59.71278
+  longitude: 14.170664
+
+- location: Polisen
+  city: Vansbro
+  latitude: 60.510562
+  longitude: 14.222687
+
+- location: Polisen
+  city: Storfors
+  latitude: 59.529812
+  longitude: 14.272562
+
+- location: Polisen
+  city: Åhus
+  latitude: 55.926687
+  longitude: 14.299938
+
+- location: Polisen
+  city: Simrishamn
+  latitude: 55.554562
+  longitude: 14.351563
+
+- location: Polisen
+  city: Sveg
+  latitude: 62.032312
+  longitude: 14.358187
+
+- location: Polisen
+  city: Degerfors
+  latitude: 59.238062
+  longitude: 14.433687
+
+- location: Polisen
+  city: Berg
+  latitude: 62.767688
+  longitude: 14.438562
+
+- location: Polisen
+  city: Svenstavik
+  latitude: 62.767562
+  longitude: 14.438813
+
+- location: Polisen
+  city: Krokom
+  latitude: 63.327062
+  longitude: 14.447563
+
+- location: Polisen
+  city: Bromölla
+  latitude: 56.072563
+  longitude: 14.465937
+
+- location: Polisen
+  city: Karlskoga
+  latitude: 59.327188
+  longitude: 14.509812
+
+- location: Polisen
+  city: Karlsborg
+  latitude: 58.529312
+  longitude: 14.512062
+
+- location: Polisen
+  city: Karlsborg
+  latitude: 58.529278
+  longitude: 14.512076
+
+- location: Polisen
+  city: Hällefors
+  latitude: 59.783562
+  longitude: 14.520188
+
+- location: Polisen
+  city: Olofström
+  latitude: 56.277214
+  longitude: 14.531159
+
+- location: Polisen
+  city: Alvesta
+  latitude: 56.900312
+  longitude: 14.555063
+
+- location: Polisen
+  city: Sölvesborg
+  latitude: 56.052187
+  longitude: 14.582937
+
+- location: Polisen
+  city: Laxå
+  latitude: 58.98872
+  longitude: 14.616907
+
+- location: Polisen
+  city: Ödeshög
+  latitude: 58.229397
+  longitude: 14.655138
+
+- location: Polisen
+  city: Östersund
+  latitude: 63.177277
+  longitude: 14.659209
+
+- location: Polisen
+  city: Sävsjö
+  latitude: 57.399563
+  longitude: 14.661313
+
+- location: Polisen
+  city: Nässjö
+  latitude: 57.649616
+  longitude: 14.699046
+
+- location: Polisen
+  city: Växjö
+  latitude: 56.891063
+  longitude: 14.797812
+
+- location: Polisen
+  city: Växjö
+  latitude: 56.878062
+  longitude: 14.798562
+
+- location: Polisen
+  city: Växjö
+  latitude: 56.878062
+  longitude: 14.798562
+
+- location: Polisen
+  city: Aneby
+  latitude: 57.836687
+  longitude: 14.805063
+
+- location: Polisen
+  city: Karlshamn
+  latitude: 56.171188
+  longitude: 14.869312
+
+- location: Polisen
+  city: Vadstena
+  latitude: 58.446687
+  longitude: 14.888562
+
+- location: Polisen
+  city: Askersund
+  latitude: 58.879562
+  longitude: 14.905812
+
+- location: Polisen
+  city: Eksjö
+  latitude: 57.659562
+  longitude: 14.961688
+
+- location: Polisen
+  city: Tingsryd
+  latitude: 56.525562
+  longitude: 14.979062
+
+- location: Polisen
+  city: Tranås
+  latitude: 58.035312
+  longitude: 14.985188
+
+- location: Polisen
+  city: Leksand
+  latitude: 60.732312
+  longitude: 14.997687
+
+- location: Polisen
+  city: Ljusnarsberg
+  latitude: 59.875937
+  longitude: 14.998687
+
+- location: Polisen
+  city: Nora
+  latitude: 59.520664
+  longitude: 15.036703
+
+- location: Polisen
+  city: Örebro
+  latitude: 59.227438
+  longitude: 15.046062
+
+- location: Polisen
+  city: Motala
+  latitude: 58.53772
+  longitude: 15.04622
+
+- location: Polisen
+  city: Vintrosa
+  latitude: 59.227802
+  longitude: 15.04688
+
+- location: Polisen
+  city: Boxholm
+  latitude: 58.196938
+  longitude: 15.052688
+
+- location: Polisen
+  city: Vetlanda
+  latitude: 57.424937
+  longitude: 15.089813
+
+- location: Polisen
+  city: Hallsberg
+  latitude: 59.065938
+  longitude: 15.107312
+
+- location: Polisen
+  city: Rättvik
+  latitude: 60.886818
+  longitude: 15.119056
+
+- location: Polisen
+  city: Mjölby
+  latitude: 58.327415
+  longitude: 15.125936
+
+- location: Polisen
+  city: Gagnef
+  latitude: 60.559938
+  longitude: 15.133938
+
+- location: Polisen
+  city: Örebro
+  latitude: 59.242569
+  longitude: 15.136822
+
+- location: Polisen
+  city: Kumla
+  latitude: 59.128105
+  longitude: 15.143585
+
+- location: Polisen
+  city: Ludvika
+  latitude: 60.148312
+  longitude: 15.187563
+
+- location: Polisen
+  city: Örebro
+  latitude: 59.298977
+  longitude: 15.18833
+
+- location: Polisen
+  city: Örebro
+  latitude: 59.278114
+  longitude: 15.216068
+
+- location: Polisen
+  city: Örebro
+  latitude: 59.278188
+  longitude: 15.216188
+
+- location: Polisen
+  city: Örebro
+  latitude: 59.270103
+  longitude: 15.216777
+
+- location: Polisen
+  city: Lindesberg
+  latitude: 59.592188
+  longitude: 15.227812
+
+- location: Polisen
+  city: Örebro
+  latitude: 59.268661
+  longitude: 15.244678
+
+- location: Polisen
+  city: Tärnaby
+  latitude: 65.711438
+  longitude: 15.258062
+
+- location: Polisen
+  city: Ronneby
+  latitude: 56.213687
+  longitude: 15.273813
+
+- location: Polisen
+  city: Ydre
+  latitude: 57.824032
+  longitude: 15.274935
+
+- location: Polisen
+  city: Åseda
+  latitude: 57.171437
+  longitude: 15.344687
+
+- location: Polisen
+  city: Smedjebacken
+  latitude: 60.143062
+  longitude: 15.414813
+
+- location: Polisen
+  city: Bräcke
+  latitude: 62.755688
+  longitude: 15.415688
+
+- location: Polisen
+  city: Borlänge
+  latitude: 60.485937
+  longitude: 15.436187
+
+- location: Polisen Dala Airport
+  city: Borlänge
+  latitude: 60.429649
+  longitude: 15.507752
+
+- location: Polisen
+  city: Borlänge
+  latitude: 60.429562
+  longitude: 15.507813
+
+- location: Polisen
+  city: Linköping
+  latitude: 58.397812
+  longitude: 15.508266
+
+- location: Polisen
+  city: Emmaboda
+  latitude: 56.630437
+  longitude: 15.533188
+
+- location: Polisen
+  city: Strömsund
+  latitude: 63.853813
+  longitude: 15.551938
+
+- location: Polisen
+  city: Karlskrona
+  latitude: 56.165688
+  longitude: 15.584062
+
+- location: Polisen
+  city: Linköping
+  latitude: 58.397152
+  longitude: 15.612915
+
+- location: Polisen
+  city: Linköping
+  latitude: 58.396687
+  longitude: 15.618937
+
+- location: Polisen
+  city: Falun
+  latitude: 60.607188
+  longitude: 15.625813
+
+- location: Polisen
+  city: Kisa
+  latitude: 57.987335
+  longitude: 15.632392
+
+- location: Polisen
+  city: Falun
+  latitude: 60.583454
+  longitude: 15.647575
+
+- location: Polisen
+  city: Ånge
+  latitude: 62.524687
+  longitude: 15.664562
+
+- location: Polisen
+  city: Skinnskatteberg
+  latitude: 59.830188
+  longitude: 15.681687
+
+- location: Polisen
+  city: Säter
+  latitude: 60.346937
+  longitude: 15.747813
+
+- location: Polisen
+  city: Finspång
+  latitude: 58.707812
+  longitude: 15.776438
+
+- location: Polisen
+  city: Fagersta
+  latitude: 60.003687
+  longitude: 15.799437
+
+- location: Polisen
+  city: Edsbyn
+  latitude: 61.377312
+  longitude: 15.817813
+
+- location: Polisen
+  city: Arboga
+  latitude: 59.394188
+  longitude: 15.840563
+
+- location: Polisen
+  city: Hultsfred
+  latitude: 57.486687
+  longitude: 15.841313
+
+- location: Polisen
+  city: Vimmerby
+  latitude: 57.668188
+  longitude: 15.861688
+
+- location: Polisen
+  city: Vingåker
+  latitude: 59.049312
+  longitude: 15.874562
+
+- location: Polisen
+  city: Nybro
+  latitude: 56.745438
+  longitude: 15.910708
+
+- location: Polisen
+  city: Norberg
+  latitude: 60.064266
+  longitude: 15.922503
+
+- location: Polisen
+  city: Köping
+  latitude: 59.516813
+  longitude: 15.964813
+
+- location: Polisen
+  city: Hedemora
+  latitude: 60.277763
+  longitude: 15.987238
+
+- location: Polisen
+  city: Torsås
+  latitude: 56.411313
+  longitude: 15.996313
+
+- location: Polisen
+  city: Åtvidaberg
+  latitude: 58.201062
+  longitude: 15.998687
+
+- location: Polisen
+  city: Kungsör
+  latitude: 59.424942
+  longitude: 16.093279
+
+- location: Polisen
+  city: Kungsör
+  latitude: 59.422438
+  longitude: 16.097812
+
+- location: Polisen
+  city: Ljusdal
+  latitude: 61.827687
+  longitude: 16.101937
+
+- location: Polisen
+  city: Avesta
+  latitude: 60.146563
+  longitude: 16.164313
+
+- location: Polisen
+  city: Norrköping
+  latitude: 58.581398
+  longitude: 16.164772
+
+- location: Polisen
+  city: Katrineholm
+  latitude: 58.993313
+  longitude: 16.202063
+
+- location: Polisen
+  city: Surahammar
+  latitude: 59.705813
+  longitude: 16.222187
+
+- location: Polisen
+  city: Hallstahammar
+  latitude: 59.614062
+  longitude: 16.228813
+
+- location: Polisen
+  city: Hofors
+  latitude: 60.541546
+  longitude: 16.291161
+
+- location: Polisen
+  city: Söderköping
+  latitude: 58.480062
+  longitude: 16.323687
+
+- location: Polisen
+  city: Kalmar
+  latitude: 56.671813
+  longitude: 16.340063
+
+- location: Polisen
+  city: Bollnäs
+  latitude: 61.349812
+  longitude: 16.397687
+
+- location: Polisen
+  city: Dorotea
+  latitude: 64.261437
+  longitude: 16.410438
+
+- location: Polisen
+  city: Oskarshamn
+  latitude: 57.264954
+  longitude: 16.450041
+
+- location: Polisen Liegatan
+  city: Västerås
+  latitude: 59.598724
+  longitude: 16.509066
+
+- location: Polisen
+  city: Eskilstuna
+  latitude: 59.368813
+  longitude: 16.515937
+
+- location: Polisen Övre Kungsgatan 13
+  city: Västerås
+  latitude: 59.608669
+  longitude: 16.539551
+
+- location: Polisen Källgatan 10
+  city: Västerås
+  latitude: 59.607906
+  longitude: 16.541378
+
+- location: Polisen
+  city: Västerås
+  latitude: 59.607687
+  longitude: 16.542187
+
+- location: Polisen
+  city: Flen
+  latitude: 59.055688
+  longitude: 16.589688
+
+- location: Polisen
+  city: Valdemarsvik
+  latitude: 58.205188
+  longitude: 16.600437
+
+- location: Polisen
+  city: Sala
+  latitude: 59.919062
+  longitude: 16.606813
+
+- location: Polisen
+  city: Västervik
+  latitude: 57.766562
+  longitude: 16.607937
+
+- location: Polisen
+  city: Västerås
+  latitude: 59.601955
+  longitude: 16.62825
+
+- location: Polisen
+  city: Borgholm
+  latitude: 56.874437
+  longitude: 16.658687
+
+- location: Polisen
+  city: Vilhelmina
+  latitude: 64.614937
+  longitude: 16.684562
+
+- location: Polisen
+  city: Ockelbo
+  latitude: 60.891518
+  longitude: 16.720621
+
+- location: Polisen
+  city: Sandviken
+  latitude: 60.621938
+  longitude: 16.779562
+
+- location: Polisen
+  city: Heby
+  latitude: 59.938688
+  longitude: 16.863437
+
+- location: Polisen
+  city: Nyköping
+  latitude: 58.78368
+  longitude: 16.922026
+
+- location: Polisen
+  city: Skavsta
+  latitude: 58.783812
+  longitude: 16.922187
+
+- location: Polisen
+  city: Nyköping
+  latitude: 58.749374
+  longitude: 17.015684
+
+- location: Polisen
+  city: Strängnäs
+  latitude: 59.367812
+  longitude: 17.024813
+
+- location: Polisen
+  city: Bergsjö
+  latitude: 61.980563
+  longitude: 17.059938
+
+- location: Polisen
+  city: Söderhamn
+  latitude: 61.304812
+  longitude: 17.060938
+
+- location: Polisen
+  city: Enköping
+  latitude: 59.636938
+  longitude: 17.083562
+
+- location: Polisen
+  city: Hudiksvall
+  latitude: 61.730062
+  longitude: 17.101687
+
+- location: Polisen
+  city: Oxelösund
+  latitude: 58.671013
+  longitude: 17.1066
+
+- location: Polisen
+  city: Storuman
+  latitude: 65.095562
+  longitude: 17.113312
+
+- location: Polisen
+  city: Gävle
+  latitude: 60.674312
+  longitude: 17.150937
+
+- location: Polisen
+  city: Gävle
+  latitude: 60.674244
+  longitude: 17.150982
+
+- location: Polisen
+  city: Gävle
+  latitude: 60.676025
+  longitude: 17.158888
+
+- location: Polisen
+  city: Sollefteå
+  latitude: 63.168563
+  longitude: 17.286812
+
+- location: Polisen
+  city: Sundsvall
+  latitude: 62.391937
+  longitude: 17.295813
+
+- location: Polisen
+  city: Sundsvall
+  latitude: 62.393192
+  longitude: 17.300821
+
+- location: Polisen
+  city: Gnesta
+  latitude: 59.047937
+  longitude: 17.310437
+
+- location: Polisen
+  city: Timrå
+  latitude: 62.483688
+  longitude: 17.322812
+
+- location: Polisen
+  city: Åsele
+  latitude: 64.161937
+  longitude: 17.353687
+
+- location: Polisen
+  city: Skutskär
+  latitude: 60.626062
+  longitude: 17.414313
+
+- location: Polisen
+  city: Vagnhärad
+  latitude: 58.945687
+  longitude: 17.486562
+
+- location: Polisen
+  city: Tierp
+  latitude: 60.341812
+  longitude: 17.511688
+
+- location: Polisen
+  city: Bålsta
+  latitude: 59.566562
+  longitude: 17.531687
+
+- location: Polisen
+  city: Sorsele
+  latitude: 65.534937
+  longitude: 17.540312
+
+- location: Polisen
+  city: Södertälje
+  latitude: 59.206299
+  longitude: 17.592073
+
+- location: Polisen
+  city: Södertälje
+  latitude: 59.177452
+  longitude: 17.606367
+
+- location: Polisen
+  city: Uppsala
+  latitude: 59.888103
+  longitude: 17.61096
+
+- location: Polisen
+  city: Salem
+  latitude: 59.187687
+  longitude: 17.628188
+
+- location: Polisen
+  city: Södertälje
+  latitude: 59.187687
+  longitude: 17.628188
+
+- location: Polisen
+  city: Södertälje
+  latitude: 59.187801
+  longitude: 17.628212
+
+- location: Polisen
+  city: Uppsala
+  latitude: 59.865562
+  longitude: 17.631312
+
+- location: Polisen
+  city: Uppsala
+  latitude: 59.865562
+  longitude: 17.631312
+
+- location: Polisen
+  city: Uppsala
+  latitude: 59.867104
+  longitude: 17.636957
+
+- location: Polisen
+  city: Uppsala
+  latitude: 59.856995
+  longitude: 17.642101
+
+- location: Polisen
+  city: Uppsala
+  latitude: 59.833988
+  longitude: 17.64957
+
+- location: Polisen
+  city: Uppsala
+  latitude: 59.855236
+  longitude: 17.66457
+
+- location: Polisen
+  city: Uppsala
+  latitude: 59.859375
+  longitude: 17.691694
+
+- location: Polisen
+  city: Kungsängen
+  latitude: 59.478928
+  longitude: 17.751711
+
+- location: Polisen
+  city: Kramfors
+  latitude: 62.930062
+  longitude: 17.775188
+
+- location: Polisen
+  city: Knivsta
+  latitude: 59.726687
+  longitude: 17.787937
+
+- location: Polisen
+  city: Ekerö
+  latitude: 59.289812
+  longitude: 17.811438
+
+- location: Polisen
+  city: Botkyrka
+  latitude: 59.198937
+  longitude: 17.828187
+
+- location: Polisen
+  city: Tumba
+  latitude: 59.198883
+  longitude: 17.828192
+
+- location: Polisen
+  city: Upplands-bro
+  latitude: 59.425687
+  longitude: 17.841563
+
+- location: Polisen
+  city: Jakobsberg
+  latitude: 59.425687
+  longitude: 17.841813
+
+- location: Polisen
+  city: Järfälla
+  latitude: 59.425861
+  longitude: 17.842134
+
+- location: Polisen
+  city: Rosersberg
+  latitude: 59.57571
+  longitude: 17.856201
+
+- location: Polisen
+  city: Sigtuna
+  latitude: 59.620937
+  longitude: 17.856437
+
+- location: Polisen
+  city: Vällingby
+  latitude: 59.363563
+  longitude: 17.872438
+
+- location: Polisen
+  city: Arjeplog
+  latitude: 66.051812
+  longitude: 17.894438
+
+- location: Polisen
+  city: Upplands väsby
+  latitude: 59.521812
+  longitude: 17.902313
+
+- location: Polisen
+  city: Skärholmen
+  latitude: 59.273438
+  longitude: 17.907063
+
+- location: Polisen
+  city: Spånga
+  latitude: 59.38744
+  longitude: 17.931986
+
+- location: Polisen
+  city: Stockholm
+  latitude: 59.387438
+  longitude: 17.932063
+
+- location: Polisen
+  city: Härnösand
+  latitude: 62.629062
+  longitude: 17.933062
+
+- location: Polisen
   city: Arlanda
   latitude: 59.646438
   longitude: 17.937812
+
+- location: Polisen
+  city: Bromma
+  latitude: 59.33884
+  longitude: 17.939911
+
+- location: Polisen
+  city: Kista
+  latitude: 59.402035
+  longitude: 17.942568
+
+- location: Polisen
+  city: Huddinge
+  latitude: 59.216812
+  longitude: 17.946688
+
+- location: Polisen
+  city: Flemingsberg
+  latitude: 59.216812
+  longitude: 17.947063
+
+- location: Polisen
+  city: Huddinge
+  latitude: 59.217052
+  longitude: 17.947126
+
+- location: Polisen
+  city: Nynäshamn
+  latitude: 58.903713
+  longitude: 17.948971
+
+- location: Polisen
+  city: Sollentuna
+  latitude: 59.426187
+  longitude: 17.949813
+
+- location: Polisen
+  city: Huddinge
+  latitude: 59.230431
+  longitude: 17.950226
+
+- location: Polisen
+  city: Sundbyberg
+  latitude: 59.387192
+  longitude: 17.95738
+
+- location: Polisen
+  city: Arlanda
+  latitude: 59.658993
+  longitude: 17.972824
+
+- location: Polisen
+  city: Solna
+  latitude: 59.395248
+  longitude: 17.986885
+
+- location: Polisen
+  city: Solna
+  latitude: 59.355312
+  longitude: 18.000937
+
+- location: Polisen
+  city: Sundbyberg
+  latitude: 59.355312
+  longitude: 18.000937
+
+- location: Polisen
+  city: Solna
+  latitude: 59.355282
+  longitude: 18.001759
+
+- location: Polisen
+  city: Hägersten
+  latitude: 59.291954
+  longitude: 18.011045
+
+- location: Polisen
+  city: Västberga
+  latitude: 59.291937
+  longitude: 18.011187
+
+- location: Polisen
+  city: Danderyd
+  latitude: 59.396767
+  longitude: 18.036835
+
+- location: Rikspolisstyrelsen
+  city: Stockholm
+  latitude: 59.331345
+  longitude: 18.037331
+
+- location: Polisen
+  city: Stockholm
+  latitude: 59.331437
+  longitude: 18.037687
+
+- location: Polisen
+  city: Stockholm
+  latitude: 59.332073
+  longitude: 18.038769
+
+- location: Polisen
+  city: Stockholm
+  latitude: 59.332062
+  longitude: 18.038812
+
+- location: Polisen
+  city: Stockholm
+  latitude: 59.330562
+  longitude: 18.039813
+
+- location: Polisen
+  city: Stockholm
+  latitude: 59.330505
+  longitude: 18.039864
+
+- location: Rikspolisstyrelsen
+  city: Stockholm
+  latitude: 59.331951
+  longitude: 18.040478
+
+- location: Polisen
+  city: Stockholm
+  latitude: 59.333797
+  longitude: 18.044737
+
+- location: Polisen
+  city: Stockholm
+  latitude: 59.332886
+  longitude: 18.045551
+
+- location: Polisen
+  city: Stockholm
+  latitude: 59.328243
+  longitude: 18.047892
+
+- location: Polisen
+  city: Stockholm
+  latitude: 59.343693
+  longitude: 18.050505
+
+- location: Polisen
+  city: Stockholm
+  latitude: 59.335556
+  longitude: 18.053907
+
+- location: Polisen
+  city: Stockholm
+  latitude: 59.31625
+  longitude: 18.056313
+
+- location: Polisen
+  city: Stockholm
+  latitude: 59.316812
+  longitude: 18.057437
+
+- location: Polisen
+  city: Stockholm
+  latitude: 59.330585
+  longitude: 18.057447
+
+- location: Polisen
+  city: Stockholm
+  latitude: 59.316929
+  longitude: 18.057505
+
+- location: Polisen
+  city: Stockholm
+  latitude: 59.330562
+  longitude: 18.057688
+
+- location: Polisen
+  city: Stockholm
+  latitude: 59.334427
+  longitude: 18.058689
+
+- location: Polisen
+  city: Täby
+  latitude: 59.444938
+  longitude: 18.069063
+
+- location: Polisen
+  city: Vallentuna
+  latitude: 59.534191
+  longitude: 18.076807
+
+- location: Polisen
+  city: Stockholm
+  latitude: 59.292313
+  longitude: 18.082062
+
+- location: Polisen
+  city: Johanneshov
+  latitude: 59.292198
+  longitude: 18.082087
+
+- location: Polisen
+  city: Vallentuna
+  latitude: 59.533812
+  longitude: 18.084688
+
+- location: Polisen
+  city: Haninge
+  latitude: 59.169688
+  longitude: 18.141062
+
+- location: Polisen
+  city: Handen
+  latitude: 59.169704
+  longitude: 18.141384
+
+- location: Polisen
+  city: Nacka Strand
+  latitude: 59.314987
+  longitude: 18.16437
+
+- location: Polisen
+  city: Åkersberga
+  latitude: 59.479778
+  longitude: 18.296406
+
+- location: Polisen
+  city: Visby
+  latitude: 57.637313
+  longitude: 18.305438
+
+- location: Polisen
+  city: Visby
+  latitude: 57.630596
+  longitude: 18.305637
+
+- location: Polisen
+  city: Vaxholm
+  latitude: 59.404812
+  longitude: 18.316156
+
+- location: Polisen
+  city: Östhammar
+  latitude: 60.259632
+  longitude: 18.367275
+
+- location: Polisen
+  city: Rimbo
+  latitude: 59.741333
+  longitude: 18.370722
+
+- location: Polisen
+  city: Lycksele
+  latitude: 64.594353
+  longitude: 18.679998
+
+- location: Polisen
+  city: Norrtälje
+  latitude: 59.756954
+  longitude: 18.696678
+
+- location: Polisen
+  city: Norrtälje
+  latitude: 59.756687
+  longitude: 18.697313
+
+- location: Polisen
+  city: Örnsköldsvik
+  latitude: 63.292507
+  longitude: 18.718307
+
+- location: Polisen
+  city: Malå
+  latitude: 65.182274
+  longitude: 18.742399
+
+- location: Polisen
+  city: Sandhamn
+  latitude: 59.287506
+  longitude: 18.912409
+
+- location: Polisen
+  city: Arholma
+  latitude: 59.84346
+  longitude: 19.115065
+
+- location: Polisen
+  city: Arvidsjaur
+  latitude: 65.593937
+  longitude: 19.160187
+
+- location: Polisen
+  city: Bjurholm
+  latitude: 63.929313
+  longitude: 19.211688
+
+- location: Polisen
+  city: Norsjö
+  latitude: 64.913239
+  longitude: 19.484476
+
+- location: Polisen
+  city: Nordmaling
+  latitude: 63.567852
+  longitude: 19.500998
+
+- location: Polisen
+  city: Vindeln
+  latitude: 64.202187
+  longitude: 19.718063
+
+- location: Polisen
+  city: Vännäs
+  latitude: 63.904063
+  longitude: 19.752562
+
+- location: Polisen
+  city: Jokkmokk
+  latitude: 66.607563
+  longitude: 19.822812
+
+- location: Polisen
+  city: Kiruna
+  latitude: 67.856437
+  longitude: 20.221063
+
+- location: Polisen
+  city: Umeå
+  latitude: 63.833188
+  longitude: 20.248688
+
+- location: Polisen
+  city: Gällivare
+  latitude: 67.132188
+  longitude: 20.663312
+
+- location: Polisen
+  city: Robertsfors
+  latitude: 64.19352
+  longitude: 20.847795
+
+- location: Polisen
+  city: Skellefteå
+  latitude: 64.748937
+  longitude: 20.958937
+
+- location: Polisen
+  city: Älvsbyn
+  latitude: 65.677437
+  longitude: 20.997687
+
+- location: Polisen
+  city: Skelleftehamn
+  latitude: 64.688187
+  longitude: 21.237313
+
+- location: Polisen
+  city: Piteå
+  latitude: 65.316483
+  longitude: 21.465652
+
+- location: Polisen
+  city: Boden
+  latitude: 65.825063
+  longitude: 21.698813
+
+- location: Polisen
+  city: Luleå
+  latitude: 65.586044
+  longitude: 22.159504
+
+- location: Polisen
+  city: Överkalix
+  latitude: 66.328552
+  longitude: 22.839615
+
+- location: Polisen
+  city: Kalix
+  latitude: 65.855187
+  longitude: 23.132562
+
+- location: Polisen
+  city: Pajala
+  latitude: 67.213455
+  longitude: 23.365952
+
+- location: Polisen
+  city: Övertorneå
+  latitude: 66.38916
+  longitude: 23.657074
+
+- location: Polisen
+  city: Haparanda
+  latitude: 65.838493
+  longitude: 24.140438
