@@ -50,7 +50,7 @@ locations:
 
 - location: Göteborg, Kungsgatan
   urn: urn:kicks:store:id:814
-  city: GÖTEBORG
+  city: Göteborg
   latitude: 57.70491
   longitude: 11.9678
 
@@ -74,7 +74,7 @@ locations:
 
 - location: Mölndal Galleria
   urn: urn:kicks:store:id:970
-  city: MÖLNDAL
+  city: Mölndal
   latitude: 57.65558
   longitude: 12.0158
 
@@ -98,7 +98,7 @@ locations:
 
 - location: Varberg, Torggatan
   urn: urn:kicks:store:id:849
-  city: VARBERG
+  city: Varberg
   latitude: 57.10628
   longitude: 12.24911
 
@@ -146,7 +146,7 @@ locations:
 
 - location: Ödåkra, Välahuset Entré 5
   urn: urn:kicks:store:id:836
-  city: ÖDÅKRA-VÄLA
+  city: Ödåkra-väla
   latitude: 56.09411
   longitude: 12.76049
 
@@ -170,7 +170,7 @@ locations:
 
 - location: Halmstad, Hallarna
   urn: urn:kicks:store:id:853
-  city: HALMSTAD
+  city: Halmstad
   latitude: 56.65729
   longitude: 12.90825
 
@@ -308,7 +308,7 @@ locations:
 
 - location: Jönköping, A6 Center
   urn: urn:kicks:store:id:846
-  city: JÖNKÖPING
+  city: Jönköping
   latitude: 57.77317
   longitude: 14.20324
 
@@ -320,19 +320,19 @@ locations:
 
 - location: Östersund, Mittpunkten
   urn: urn:kicks:store:id:874
-  city: ÖSTERSUND
+  city: Östersund
   latitude: 63.17562
   longitude: 14.6381
 
 - location: Växjö, Grand Samarkand
   urn: urn:kicks:store:id:946
-  city: VÄXJÖ
+  city: Växjö
   latitude: 56.8852
   longitude: 14.76602
 
 - location: Växjö, Tegnér.
   urn: urn:kicks:store:id:830
-  city: VÄXJÖ
+  city: Växjö
   latitude: 56.87881
   longitude: 14.80758
 
@@ -440,7 +440,7 @@ locations:
 
 - location: Norrköping, Mirum Galleria
   urn: urn:kicks:store:id:941
-  city: NORRKÖPING
+  city: Norrköping
   latitude: 58.57322
   longitude: 16.2084
 
@@ -452,13 +452,13 @@ locations:
 
 - location: Kalmar Giraffen
   urn: urn:kicks:store:id:973
-  city: KALMAR
+  city: Kalmar
   latitude: 56.67091
   longitude: 16.33795
 
 - location: Kalmar, Baronen
   urn: urn:kicks:store:id:831
-  city: KALMAR
+  city: Kalmar
   latitude: 56.66356
   longitude: 16.36336
 
@@ -494,7 +494,7 @@ locations:
 
 - location: Sala, Galleria Sala Torg
   urn: urn:kicks:store:id:921
-  city: SALA
+  city: Sala
   latitude: 59.91977
   longitude: 16.6058
 
@@ -512,7 +512,7 @@ locations:
 
 - location: Nyköping, Västerport
   urn: urn:kicks:store:id:825
-  city: NYKÖPING
+  city: Nyköping
   latitude: 58.75178
   longitude: 17.00383
 
@@ -530,7 +530,7 @@ locations:
 
 - location: Sundsvall, In Gallerian
   urn: urn:kicks:store:id:855
-  city: SUNDSVALL
+  city: Sundsvall
   latitude: 62.39183
   longitude: 17.30427
 
@@ -554,13 +554,13 @@ locations:
 
 - location: Uppsala, S:t Per Gallerian
   urn: urn:kicks:store:id:981
-  city: UPPSALA
+  city: Uppsala
   latitude: 59.86035
   longitude: 17.63736
 
 - location: Uppsala, Gränby Centrum
   urn: urn:kicks:store:id:820
-  city: UPPSALA
+  city: Uppsala
   latitude: 59.87767
   longitude: 17.67307
 
@@ -626,7 +626,7 @@ locations:
 
 - location: Stockholm, Västermalmsgalleria
   urn: urn:kicks:store:id:896
-  city: STOCKHOLM
+  city: Stockholm
   latitude: 59.3348
   longitude: 18.03235
 
@@ -650,7 +650,7 @@ locations:
 
 - location: Stockholm, Flagship Gallerian
   urn: urn:kicks:store:id:972
-  city: STOCKHOLM
+  city: Stockholm
   latitude: 59.33122
   longitude: 18.06747
 
@@ -686,7 +686,7 @@ locations:
 
 - location: Handen, Haninge Centrum
   urn: urn:kicks:store:id:827
-  city: HANDEN
+  city: Handen
   latitude: 59.1683
   longitude: 18.13907
 
@@ -746,7 +746,7 @@ locations:
 
 - location: Kiruna, Gallerian
   urn: urn:kicks:store:id:929
-  city: KIRUNA
+  city: Kiruna
   latitude: 67.84938
   longitude: 20.30756
 
