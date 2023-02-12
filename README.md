@@ -157,7 +157,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | [Kicks](https://sv.wikipedia.org/wiki/Kicks)                                             |        129 |
 | [Lindex](https://sv.wikipedia.org/wiki/Lindex)                                           |        439 |
 | [Polarn O. Pyret](https://sv.wikipedia.org/wiki/Polarn_O._Pyret)                         |         39 |
-| [The Body Shop](https://sv.wikipedia.org/wiki/The_Body_Shop)                             |         61 |
+| [The Body Shop](https://sv.wikipedia.org/wiki/The_Body_Shop)                             |         55 |
 | [Volt Fashion](https://sv.wikipedia.org/wiki/Varner-Gruppen)                             |         41 |
 | [Åhléns](https://sv.wikipedia.org/wiki/%C3%85hl%C3%A9ns)                                 |         83 |
 
@@ -170,6 +170,15 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | :--------------------------------------------------------------------------------------- | ---------: |
 | [Dollarstore](https://sv.wikipedia.org/wiki/Dollarstore)                                 |        129 |
 | [Normal](https://sv.wikipedia.org/wiki/Normal_(butikskedja))                             |         75 |
+
+
+
+
+## Myndigheter
+
+| Namn                                                                                     | Positioner |
+| :--------------------------------------------------------------------------------------- | ---------: |
+| [Polisen](https://sv.wikipedia.org/wiki/Polisen_i_Sverige)                               |        391 |
 
 
 
@@ -188,7 +197,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
 | [Max Hamburgerrestauranger](https://sv.wikipedia.org/wiki/Max_Hamburgerrestauranger)     |        113 |
-| [McDonald's](https://sv.wikipedia.org/wiki/McDonald%E2%80%99s)                           |        215 |
+| [McDonald's](https://sv.wikipedia.org/wiki/McDonald%E2%80%99s)                           |        264 |
 
 
 
@@ -198,4 +207,3 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
 | [3 Butiken](https://sv.wikipedia.org/wiki/Hi3G_Access)                                   |         14 |
-
