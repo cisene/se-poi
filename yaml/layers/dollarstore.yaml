@@ -16,19 +16,19 @@ locations:
   urn: urn:dollarstore:store:id:65
   city: Töcksfors
   latitude: 59.509127
-  longitude: 11.8187644
+  longitude: 11.818764
 
 - location: Dollarstore Backaplan
   urn: urn:dollarstore:store:id:110
   city: Göteborg
-  latitude: 57.7244636
-  longitude: 11.9556006
+  latitude: 57.724464
+  longitude: 11.955601
 
 - location: Dollarstore Kungsbacka
   urn: urn:dollarstore:store:id:112
   city: Kungsbacka
-  latitude: 57.51277589999999
-  longitude: 12.0812662
+  latitude: 57.512776
+  longitude: 12.081266
 
 - location: Dollarstore Älvängen
   urn: urn:dollarstore:store:id:59
@@ -51,8 +51,8 @@ locations:
 - location: Dollarstore Trollhättan
   urn: urn:dollarstore:store:id:106
   city: Trollhättan
-  latitude: 58.31560589999999
-  longitude: 12.3008982
+  latitude: 58.315606
+  longitude: 12.300898
 
 - location: Dollarstore Vänersborg
   urn: urn:dollarstore:store:id:69
@@ -81,8 +81,8 @@ locations:
 - location: DollarStore Höganäs
   urn: urn:dollarstore:store:id:125
   city: Höganäs
-  latitude: 56.2131975
-  longitude: 12.5603408
+  latitude: 56.213197
+  longitude: 12.560341
 
 - location: Dollarstore Arvika
   urn: urn:dollarstore:store:id:61
@@ -105,8 +105,8 @@ locations:
 - location: Dollarstore Halmstad
   urn: urn:dollarstore:store:id:109
   city: Halmstad
-  latitude: 56.6744558
-  longitude: 12.7983135
+  latitude: 56.674456
+  longitude: 12.798314
 
 - location: Dollarstore Landskrona
   urn: urn:dollarstore:store:id:42
@@ -147,14 +147,14 @@ locations:
 - location: Dollarstore Laholm
   urn: urn:dollarstore:store:id:119
   city: Laholm
-  latitude: 56.498105328775885
-  longitude: 13.007109736218272
+  latitude: 56.498105
+  longitude: 13.00711
 
 - location: DollarStore Jägersro
   urn: urn:dollarstore:store:id:128
   city: Malmö
-  latitude: 55.5700146
-  longitude: 13.0586591
+  latitude: 55.570015
+  longitude: 13.058659
 
 - location: Dollarstore Toftanäs
   urn: urn:dollarstore:store:id:102
@@ -225,14 +225,14 @@ locations:
 - location: DollarStore Höör
   urn: urn:dollarstore:store:id:129
   city: Höör
-  latitude: 55.95168529999999
-  longitude: 13.5624297
+  latitude: 55.951685
+  longitude: 13.56243
 
 - location: Dollarstore Markaryd
   urn: urn:dollarstore:store:id:127
   city: Markaryd
-  latitude: 56.4464852
-  longitude: 13.6064398
+  latitude: 56.446485
+  longitude: 13.60644
 
 - location: Dollarstore Sjöbo
   urn: urn:dollarstore:store:id:43
@@ -285,8 +285,8 @@ locations:
 - location: Dollarstore Kristinehamn
   urn: urn:dollarstore:store:id:76
   city: Kristinehamn
-  latitude: 59.3130121
-  longitude: 14.1014978
+  latitude: 59.313012
+  longitude: 14.101498
 
 - location: Dollarstore Filipstad
   urn: urn:dollarstore:store:id:49
@@ -298,7 +298,7 @@ locations:
   urn: urn:dollarstore:store:id:136
   city: Jönköping
   latitude: 57.760985
-  longitude: 14.1777886
+  longitude: 14.177789
 
 - location: Dollarstore Kristianstad
   urn: urn:dollarstore:store:id:93
@@ -309,8 +309,8 @@ locations:
 - location: Dollarstore Simrishamn
   urn: urn:dollarstore:store:id:115
   city: Simrishamn
-  latitude: 55.54447198368704
-  longitude: 14.333202493115248
+  latitude: 55.544472
+  longitude: 14.333202
 
 - location: Dollarstore Sveg
   urn: urn:dollarstore:store:id:16
@@ -357,8 +357,8 @@ locations:
 - location: DollarStore Östersund Lillänge
   urn: urn:dollarstore:store:id:130
   city: Östersund
-  latitude: 63.1728819
-  longitude: 14.6950582
+  latitude: 63.172882
+  longitude: 14.695058
 
 - location: Dollarstore Nässjö
   urn: urn:dollarstore:store:id:100
@@ -405,8 +405,8 @@ locations:
 - location: Dollarstore Örebro Marieberg
   urn: urn:dollarstore:store:id:121
   city: Örebro
-  latitude: 59.2182283
-  longitude: 15.1386443
+  latitude: 59.218228
+  longitude: 15.138644
 
 - location: Dollarstore Ludvika
   urn: urn:dollarstore:store:id:3
@@ -429,8 +429,8 @@ locations:
 - location: Dollarstore Borlänge
   urn: urn:dollarstore:store:id:11
   city: Borlänge
-  latitude: 60.4784432
-  longitude: 15.4127321
+  latitude: 60.478443
+  longitude: 15.412732
 
 - location: Dollarstore Strömsund
   urn: urn:dollarstore:store:id:13
@@ -441,7 +441,7 @@ locations:
 - location: Dollarstore Falun
   urn: urn:dollarstore:store:id:111
   city: Falun
-  latitude: 60.5756765
+  latitude: 60.575677
   longitude: 15.610613
 
 - location: Dollarstore Linköping
@@ -472,7 +472,7 @@ locations:
   urn: urn:dollarstore:store:id:126
   city: Hultsfred
   latitude: 57.49484
-  longitude: 15.8416513
+  longitude: 15.841651
 
 - location: Dollarstore Vimmerby
   urn: urn:dollarstore:store:id:68
@@ -507,8 +507,8 @@ locations:
 - location: Dollarstore Avesta
   urn: urn:dollarstore:store:id:118
   city: Avesta
-  latitude: 60.15002399999999
-  longitude: 16.2040704
+  latitude: 60.150024
+  longitude: 16.20407
 
 - location: Dollarstore Katrineholm
   urn: urn:dollarstore:store:id:80
@@ -519,8 +519,8 @@ locations:
 - location: DollarStore Kalmar
   urn: urn:dollarstore:store:id:131
   city: Kalmar
-  latitude: 56.68723139999999
-  longitude: 16.3197184
+  latitude: 56.687231
+  longitude: 16.319718
 
 - location: Dollarstore Söderköping
   urn: urn:dollarstore:store:id:28
@@ -549,8 +549,8 @@ locations:
 - location: Dollarstore Eskilstuna
   urn: urn:dollarstore:store:id:116
   city: Eskilstuna
-  latitude: 59.387379192175686
-  longitude: 16.52904408526381
+  latitude: 59.387379
+  longitude: 16.529044
 
 - location: Dollarstore Västerås Stenby
   urn: urn:dollarstore:store:id:71
@@ -573,14 +573,14 @@ locations:
 - location: Dollarstore Borgholm
   urn: urn:dollarstore:store:id:105
   city: Borgholm
-  latitude: 56.8805305
-  longitude: 16.6711912
+  latitude: 56.88053
+  longitude: 16.671191
 
 - location: Dollarstore Sandviken
   urn: urn:dollarstore:store:id:9
   city: Sandviken
-  latitude: 60.62669949999999
-  longitude: 16.7721534
+  latitude: 60.626699
+  longitude: 16.772153
 
 - location: Dollarstore Söderhamn
   urn: urn:dollarstore:store:id:1
@@ -597,7 +597,7 @@ locations:
 - location: Dollarstore Strängnäs
   urn: urn:dollarstore:store:id:107
   city: Strängnäs
-  latitude: 59.3370462
+  latitude: 59.337046
   longitude: 17.021936
 
 - location: Dollarstore Enköping
@@ -621,8 +621,8 @@ locations:
 - location: Dollarstore Sundsvall
   urn: urn:dollarstore:store:id:22
   city: Sundsvall
-  latitude: 62.442978098834594
-  longitude: 17.342879329635608
+  latitude: 62.442978
+  longitude: 17.342879
 
 - location: Dollarstore Nykvarn
   urn: urn:dollarstore:store:id:63
@@ -681,8 +681,8 @@ locations:
 - location: Dollarstore Häggvik
   urn: urn:dollarstore:store:id:117
   city: Sollentuna
-  latitude: 59.4367055
-  longitude: 17.9283547
+  latitude: 59.436706
+  longitude: 17.928355
 
 - location: Dollarstore Härnösand
   urn: urn:dollarstore:store:id:5
@@ -699,8 +699,8 @@ locations:
 - location: Dollarstore Arninge
   urn: urn:dollarstore:store:id:114
   city: Täby
-  latitude: 59.461523915801905
-  longitude: 18.133019597622692
+  latitude: 59.461524
+  longitude: 18.13302
 
 - location: Dollarstore Haninge
   urn: urn:dollarstore:store:id:96
@@ -711,7 +711,7 @@ locations:
 - location: DollarStore Visby
   urn: urn:dollarstore:store:id:135
   city: Visby
-  latitude: 57.62278000000001
+  latitude: 57.62278
   longitude: 18.3225
 
 - location: Dollarstore Norrtälje
@@ -723,8 +723,8 @@ locations:
 - location: Dollarstore Lycksele
   urn: urn:dollarstore:store:id:8
   city: Lycksele
-  latitude: 64.5828271
-  longitude: 18.6975293
+  latitude: 64.582827
+  longitude: 18.697529
 
 - location: Dollarstore Örnsköldsvik
   urn: urn:dollarstore:store:id:83
@@ -741,8 +741,8 @@ locations:
 - location: Dollarstore Umeå
   urn: urn:dollarstore:store:id:122
   city: Umeå
-  latitude: 63.8482601
-  longitude: 20.3046021
+  latitude: 63.84826
+  longitude: 20.304602
 
 - location: Dollarstore Gällivare
   urn: urn:dollarstore:store:id:18
@@ -754,7 +754,7 @@ locations:
   urn: urn:dollarstore:store:id:120
   city: Skellefteå
   latitude: 64.734276
-  longitude: 20.9719652
+  longitude: 20.971965
 
 - location: Dollarstore Piteå
   urn: urn:dollarstore:store:id:6

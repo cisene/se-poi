@@ -15,14 +15,14 @@ locations:
 - location: Brothers Torp
   urn: urn:brothers:store:id:542
   city: Uddevalla
-  latitude: 58.3447098
-  longitude: 11.8655935
+  latitude: 58.34471
+  longitude: 11.865593
 
 - location: Brothers Göteborg Frölunda Torg
   urn: urn:brothers:store:id:521
   city: Västra frölunda
-  latitude: 57.6517574
-  longitude: 11.9122309
+  latitude: 57.651757
+  longitude: 11.912231
 
 - location: Brothers Göteborg Nordstan
   urn: urn:brothers:store:id:552
@@ -33,26 +33,26 @@ locations:
 - location: Brothers Kungsbacka
   urn: urn:brothers:store:id:560
   city: Kungsbacka
-  latitude: 57.4915093
-  longitude: 12.0750207
+  latitude: 57.491509
+  longitude: 12.075021
 
 - location: Brothers Göteborg Allum
   urn: urn:brothers:store:id:596
   city: Partille
-  latitude: 57.7372798
-  longitude: 12.1062355
+  latitude: 57.73728
+  longitude: 12.106236
 
 - location: Brothers Varberg
   urn: urn:brothers:store:id:548
   city: Varberg
-  latitude: 57.1053865
+  latitude: 57.105387
   longitude: 12.253046
 
 - location: Brothers Väla
   urn: urn:brothers:store:id:540
   city: Ödåkra-Väla
-  latitude: 56.0916984652
-  longitude: 12.7571025
+  latitude: 56.091698
+  longitude: 12.757103
 
 - location: Nowaste Lager - Brothers
   urn: urn:brothers:store:id:549
@@ -69,14 +69,14 @@ locations:
 - location: Brothers Borås Knalleland
   urn: urn:brothers:store:id:556
   city: Borås
-  latitude: 57.7348083
-  longitude: 12.9427535
+  latitude: 57.734808
+  longitude: 12.942754
 
 - location: Brothers Malmö Triangeln
   urn: urn:brothers:store:id:519
   city: Malmö
-  latitude: 55.5958088
-  longitude: 13.0024637
+  latitude: 55.595809
+  longitude: 13.002464
 
 - location: Brothers Malmö Emporia
   urn: urn:brothers:store:id:589
@@ -87,8 +87,8 @@ locations:
 - location: Brothers Nova Lund
   urn: urn:brothers:store:id:563
   city: Lund
-  latitude: 55.7139403
-  longitude: 13.1599581
+  latitude: 55.71394
+  longitude: 13.159958
 
 - location: Brothers Karlstad
   urn: urn:brothers:store:id:511
@@ -100,7 +100,7 @@ locations:
   urn: urn:brothers:store:id:517
   city: Skövde
   latitude: 58.389996
-  longitude: 13.8449993
+  longitude: 13.844999
 
 - location: Brothers C4 Kristianstad
   urn: urn:brothers:store:id:562
@@ -111,92 +111,92 @@ locations:
 - location: Brothers Jönköping Asecs
   urn: urn:brothers:store:id:505
   city: Jönköping
-  latitude: 57.774485338
-  longitude: 14.2039790509
+  latitude: 57.774485
+  longitude: 14.203979
 
 - location: Brothers Växjö
   urn: urn:brothers:store:id:543
   city: Växjö
-  latitude: 56.8786674
-  longitude: 14.8026209
+  latitude: 56.878667
+  longitude: 14.802621
 
 - location: Brothers Örebro Marieberg
   urn: urn:brothers:store:id:590
   city: Örebro
-  latitude: 59.2159345
-  longitude: 15.1395786
+  latitude: 59.215935
+  longitude: 15.139579
 
 - location: Brothers Borlänge Kupolen
   urn: urn:brothers:store:id:576
   city: Borlänge
-  latitude: 60.4841664
-  longitude: 15.4179707
+  latitude: 60.484166
+  longitude: 15.417971
 
 - location: Brothers Linköping Ikea
   urn: urn:brothers:store:id:533
   city: Linköping
-  latitude: 58.4323596
-  longitude: 15.5878521
+  latitude: 58.43236
+  longitude: 15.587852
 
 - location: Brothers Linköping Gränden
   urn: urn:brothers:store:id:526
   city: Linköping
-  latitude: 58.4100721
-  longitude: 15.6266195
+  latitude: 58.410072
+  longitude: 15.62662
 
 - location: Brothers Falun
   urn: urn:brothers:store:id:574
   city: Falun
-  latitude: 60.6060666283
-  longitude: 15.6309554423
+  latitude: 60.606067
+  longitude: 15.630955
 
 - location: Brothers Norrköping
   urn: urn:brothers:store:id:513
   city: Norrköping
-  latitude: 58.5885725791
-  longitude: 16.1905725595
+  latitude: 58.588573
+  longitude: 16.190573
 
 - location: Brothers Erikslund
   urn: urn:brothers:store:id:592
   city: Västerås
-  latitude: 59.6113619
-  longitude: 16.4623956
+  latitude: 59.611362
+  longitude: 16.462396
 
 - location: Brothers Eskilstuna Tuna Park
   urn: urn:brothers:store:id:597
   city: Eskilstuna
-  latitude: 59.3720175
-  longitude: 16.4690674
+  latitude: 59.372017
+  longitude: 16.469067
 
 - location: Brothers Västerås
   urn: urn:brothers:store:id:510
   city: Västerås
   latitude: 59.611817
-  longitude: 16.5445521
+  longitude: 16.544552
 
 - location: Brothers Sundsvall Birsta
   urn: urn:brothers:store:id:567
   city: Sundsvall
-  latitude: 62.4471247
-  longitude: 17.3358768
+  latitude: 62.447125
+  longitude: 17.335877
 
 - location: Brothers Södertälje
   urn: urn:brothers:store:id:536
   city: Södertälje
-  latitude: 59.1958407
-  longitude: 17.6265973
+  latitude: 59.195841
+  longitude: 17.626597
 
 - location: Brothers Uppsala
   urn: urn:brothers:store:id:501
   city: Uppsala
-  latitude: 59.8591005
-  longitude: 17.6382775
+  latitude: 59.8591
+  longitude: 17.638278
 
 - location: Brothers Gränby
   urn: urn:brothers:store:id:584
   city: Uppsala
-  latitude: 59.8773277
-  longitude: 17.6716322
+  latitude: 59.877328
+  longitude: 17.671632
 
 - location: Brothers Mall of Scandinavia
   urn: urn:brothers:store:id:565
@@ -207,20 +207,20 @@ locations:
 - location: Brothers Stockholm Liljeholmen
   urn: urn:brothers:store:id:581
   city: Stockholm
-  latitude: 59.3086056
-  longitude: 18.0214021
+  latitude: 59.308606
+  longitude: 18.021402
 
 - location: Brothers Stockholm Drottninggatan
   urn: urn:brothers:store:id:532
   city: Stockholm
-  latitude: 59.3333053
-  longitude: 18.0618516
+  latitude: 59.333305
+  longitude: 18.061852
 
 - location: Brothers Täby
   urn: urn:brothers:store:id:555
   city: Täby
-  latitude: 59.4420974
-  longitude: 18.0664595
+  latitude: 59.442097
+  longitude: 18.06646
 
 - location: Brothers Gallerian
   urn: urn:brothers:store:id:571
@@ -231,32 +231,32 @@ locations:
 - location: Brothers Stockholm Ringen
   urn: urn:brothers:store:id:534
   city: Stockholm
-  latitude: 59.3075748
-  longitude: 18.0743504
+  latitude: 59.307575
+  longitude: 18.07435
 
 - location: Brothers Stockholm Fältöversten
   urn: urn:brothers:store:id:545
   city: Stockholm
   latitude: 59.338177
-  longitude: 18.0929339
+  longitude: 18.092934
 
 - location: Brothers Sickla
   urn: urn:brothers:store:id:569
   city: Nacka
-  latitude: 59.3060346
+  latitude: 59.306035
   longitude: 18.124495
 
 - location: Brothers Farsta
   urn: urn:brothers:store:id:551
   city: Farsta
-  latitude: 59.2058355
-  longitude: 18.1469087
+  latitude: 59.205835
+  longitude: 18.146909
 
 - location: Brothers Nacka
   urn: urn:brothers:store:id:575
   city: Nacka
-  latitude: 59.3108448
-  longitude: 18.1640397
+  latitude: 59.310845
+  longitude: 18.16404
 
 - location: Brothers Umeå
   urn: urn:brothers:store:id:539

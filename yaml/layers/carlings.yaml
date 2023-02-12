@@ -45,8 +45,8 @@ locations:
 - location: Carlings - Nyborg Horisont
   urn: urn:carlings:store:id:N65
   city: Nyborg
-  latitude: 60.4694119
-  longitude: 5.323209600000041
+  latitude: 60.469412
+  longitude: 5.32321
 
 - location: Carlings - Bergen Torgallmenningen 7
   urn: urn:carlings:store:id:54E
@@ -75,20 +75,20 @@ locations:
 - location: Carlings - Bryne M44
   urn: urn:carlings:store:id:N57
   city: Bryne
-  latitude: 58.7355955
-  longitude: 5.640126699999996
+  latitude: 58.735596
+  longitude: 5.640127
 
 - location: Carlings - Hafrsfjord Madla
   urn: urn:carlings:store:id:53B
   city: Hafrsfjord
-  latitude: 58.9514118
-  longitude: 5.676920099999961
+  latitude: 58.951412
+  longitude: 5.67692
 
 - location: Carlings - Sandnes Kvadrat Kjøpesenter 2
   urn: urn:carlings:store:id:533
   city: Sandnes
-  latitude: 58.85344660000001
-  longitude: 5.731673999999998
+  latitude: 58.853447
+  longitude: 5.731674
 
 - location: Carlings - Stavanger
   urn: urn:carlings:store:id:532
@@ -99,8 +99,8 @@ locations:
 - location: Carlings - Førde Elvetorget
   urn: urn:carlings:store:id:494
   city: Førde
-  latitude: 61.4527704
-  longitude: 5.849072799999931
+  latitude: 61.45277
+  longitude: 5.849073
 
 - location: Carlings - Ålesund AMFI Moa
   urn: urn:carlings:store:id:523
@@ -111,8 +111,8 @@ locations:
 - location: Carlings - Sogndal Sogningen Storsenter
   urn: urn:carlings:store:id:N51
   city: Sogndal
-  latitude: 61.2298509
-  longitude: 7.100492700000018
+  latitude: 61.229851
+  longitude: 7.100493
 
 - location: Carlings - Molde AMFI Roseby
   urn: urn:carlings:store:id:535
@@ -123,8 +123,8 @@ locations:
 - location: Carlings - Alti Mandal
   urn: urn:carlings:store:id:N64
   city: Mandal
-  latitude: 58.0289466
-  longitude: 7.460845100000029
+  latitude: 58.028947
+  longitude: 7.460845
 
 - location: Carlings - Kristiansund Storkaia
   urn: urn:carlings:store:id:51E
@@ -165,8 +165,8 @@ locations:
 - location: Carlings - Kongsberg Stortorvet Senter
   urn: urn:carlings:store:id:N67
   city: Kongsberg
-  latitude: 59.66885069999999
-  longitude: 9.651860800000009
+  latitude: 59.668851
+  longitude: 9.651861
 
 - location: Carlings - Larvik
   urn: urn:carlings:store:id:52A
@@ -225,14 +225,14 @@ locations:
 - location: Carlings - Lillehammer Strandtorget
   urn: urn:carlings:store:id:55D
   city: Lillehammer
-  latitude: 61.114529836769364
-  longitude: 10.450493174560506
+  latitude: 61.11453
+  longitude: 10.450493
 
 - location: Carlings - Trondheim Sirkus Shopping
   urn: urn:carlings:store:id:N52
   city: Trondheim
-  latitude: 63.43679929999999
-  longitude: 10.455547700000011
+  latitude: 63.436799
+  longitude: 10.455548
 
 - location: Carlings - Sandvika Storsenter
   urn: urn:carlings:store:id:518
@@ -243,8 +243,8 @@ locations:
 - location: Carlings - Fornebu Senter
   urn: urn:carlings:store:id:N62
   city: Fornebu
-  latitude: 59.8924059
-  longitude: 10.621475099999998
+  latitude: 59.892406
+  longitude: 10.621475
 
 - location: Carlings - Oslo CC-Vest
   urn: urn:carlings:store:id:522
@@ -285,8 +285,8 @@ locations:
 - location: Carlings - Oslo City
   urn: urn:carlings:store:id:50A
   city: Oslo
-  latitude: 59.912571443260624
-  longitude: 10.752367476196241
+  latitude: 59.912571
+  longitude: 10.752367
 
 - location: Carlings - Oslo Grünerløkka
   urn: urn:carlings:store:id:540
@@ -315,14 +315,14 @@ locations:
 - location: Carlings - Fredrikstad Torvbyen
   urn: urn:carlings:store:id:514
   city: Fredrikstad
-  latitude: 59.21466265896479
-  longitude: 10.939893496760227
+  latitude: 59.214663
+  longitude: 10.939893
 
 - location: Carlings - Lørenskog Triaden Storsenter
   urn: urn:carlings:store:id:N60
   city: Lørenskog
-  latitude: 59.9186184
-  longitude: 10.953515599999946
+  latitude: 59.918618
+  longitude: 10.953516
 
 - location: Carlings - Lørenskog Metro
   urn: urn:carlings:store:id:506
@@ -339,8 +339,8 @@ locations:
 - location: Carlings - CC Hamar
   urn: urn:carlings:store:id:N63
   city: Hamar
-  latitude: 60.7949396
-  longitude: 11.078641599999969
+  latitude: 60.79494
+  longitude: 11.078642
 
 - location: Carlings - Sarpsborg Amfi Borg
   urn: urn:carlings:store:id:52F
@@ -381,14 +381,14 @@ locations:
 - location: Carlings - Namsos Storsenter
   urn: urn:carlings:store:id:543
   city: Namsos
-  latitude: 64.46770409999999
-  longitude: 11.491601299999957
+  latitude: 64.467704
+  longitude: 11.491601
 
 - location: Carlings - Elverum Kremmertorget
   urn: urn:carlings:store:id:530
   city: Elverum
-  latitude: 60.878588407973275
-  longitude: 11.56618911481928
+  latitude: 60.878588
+  longitude: 11.566189
 
 - location: Carlings - Uddevalla Torp Köpcentrum
   urn: urn:carlings:store:id:56A
@@ -447,8 +447,8 @@ locations:
 - location: Carlings - Halmstad Hallarna
   urn: urn:carlings:store:id:N23
   city: Halmstad
-  latitude: 56.6553285
-  longitude: 12.911350599999992
+  latitude: 56.655329
+  longitude: 12.911351
 
 - location: Carlings - Borås Knalleland
   urn: urn:carlings:store:id:59C
@@ -459,8 +459,8 @@ locations:
 - location: Carlings - Malmö Emporia
   urn: urn:carlings:store:id:593
   city: Malmö
-  latitude: 55.56435357423257
-  longitude: 12.974096100524775
+  latitude: 55.564354
+  longitude: 12.974096
 
 - location: Carlings - Malmö Triangeln
   urn: urn:carlings:store:id:591
@@ -495,8 +495,8 @@ locations:
 - location: Carlings - Mo i Rana
   urn: urn:carlings:store:id:508
   city: Mo i Rana
-  latitude: 66.30815009999999
-  longitude: 14.13680869999996
+  latitude: 66.30815
+  longitude: 14.136809
 
 - location: Carlings - Jönköping Östra Storgatan
   urn: urn:carlings:store:id:58F
@@ -507,8 +507,8 @@ locations:
 - location: Carlings - Jönköping A6
   urn: urn:carlings:store:id:N02
   city: Jönköping
-  latitude: 57.7731678
-  longitude: 14.201911300000006
+  latitude: 57.773168
+  longitude: 14.201911
 
 - location: Carlings - Kristianstad C4 Shopping
   urn: urn:carlings:store:id:555
@@ -525,14 +525,14 @@ locations:
 - location: Carlings - Bodø City Nord
   urn: urn:carlings:store:id:55F
   city: Bodø
-  latitude: 67.27712831015792
-  longitude: 14.422568645538377
+  latitude: 67.277128
+  longitude: 14.422569
 
 - location: Carlings - Amfi Svolvær
   urn: urn:carlings:store:id:N55
   city: Svolvær
-  latitude: 68.2333116
-  longitude: 14.559217399999966
+  latitude: 68.233312
+  longitude: 14.559217
 
 - location: Carlings - Östersund
   urn: urn:carlings:store:id:574
@@ -543,8 +543,8 @@ locations:
 - location: Carlings - Växjö Samarkand
   urn: urn:carlings:store:id:N12
   city: Växjö
-  latitude: 56.8848277
-  longitude: 14.76517279999996
+  latitude: 56.884828
+  longitude: 14.765173
 
 - location: Carlings - Örebro Mariebergs köpcentrum
   urn: urn:carlings:store:id:562
@@ -561,8 +561,8 @@ locations:
 - location: Carlings - Sortland Storsenter
   urn: urn:carlings:store:id:55E
   city: Sortland
-  latitude: 68.6942573
-  longitude: 15.415899200000013
+  latitude: 68.694257
+  longitude: 15.415899
 
 - location: Carlings - Borlänge Kupolen
   urn: urn:carlings:store:id:565
@@ -597,8 +597,8 @@ locations:
 - location: Carlings - Norrköping Spiralens Galleria
   urn: urn:carlings:store:id:573
   city: Norrköping
-  latitude: 58.5870832665621
-  longitude: 16.1901352107525
+  latitude: 58.587083
+  longitude: 16.190135
 
 - location: Carlings - Kalmar Modehuset
   urn: urn:carlings:store:id:N10
@@ -609,8 +609,8 @@ locations:
 - location: Carlings - Västerås Erikslunds Köpcentrum
   urn: urn:carlings:store:id:N16
   city: Västerås
-  latitude: 59.60997640000001
-  longitude: 16.45480710000004
+  latitude: 59.609976
+  longitude: 16.454807
 
 - location: Carlings - Eskilstuna Tuna Park
   urn: urn:carlings:store:id:57C
@@ -633,8 +633,8 @@ locations:
 - location: Carlings - Nyköping
   urn: urn:carlings:store:id:N17
   city: Nyköping
-  latitude: 58.7523867
-  longitude: 17.00572139999997
+  latitude: 58.752387
+  longitude: 17.005721
 
 - location: Carlings - Hudiksvall Guldsmeden
   urn: urn:carlings:store:id:579
@@ -675,8 +675,8 @@ locations:
 - location: Carlings - Uppsala Gränby
   urn: urn:carlings:store:id:N19
   city: Uppsala
-  latitude: 59.87701909999999
-  longitude: 17.672658700000056
+  latitude: 59.877019
+  longitude: 17.672659
 
 - location: Carlings - Stockholm Vällingby
   urn: urn:carlings:store:id:57A
@@ -687,26 +687,26 @@ locations:
 - location: Carlings - Stockholm Skärholmen Centrum
   urn: urn:carlings:store:id:59B
   city: Stockholm
-  latitude: 59.27588775788773
-  longitude: 17.906476736068726
+  latitude: 59.275888
+  longitude: 17.906477
 
 - location: Carlings - Stockholm Mall Of Scandinavia
   urn: urn:carlings:store:id:N21
   city: Stockholm
-  latitude: 59.36887909999999
-  longitude: 18.008433400000058
+  latitude: 59.368879
+  longitude: 18.008433
 
 - location: Carlings - Stockholm Drottninggatan
   urn: urn:carlings:store:id:571
   city: Stockholm
-  latitude: 59.331293399999986
-  longitude: 18.064123666131536
+  latitude: 59.331293
+  longitude: 18.064124
 
 - location: Carlings - Stockholm Gallerian
   urn: urn:carlings:store:id:588
   city: Stockholm
-  latitude: 59.3312202
-  longitude: 18.0674676
+  latitude: 59.33122
+  longitude: 18.067468
 
 - location: Carlings - Stockholm Götgatan
   urn: urn:carlings:store:id:N01
@@ -717,14 +717,14 @@ locations:
 - location: Carlings - Stockholm Täby Cenrtum
   urn: urn:carlings:store:id:584
   city: Stockholm
-  latitude: 59.44360451547862
-  longitude: 18.07168471813202
+  latitude: 59.443605
+  longitude: 18.071685
 
 - location: Carlings - Stockholm Farsta
   urn: urn:carlings:store:id:554
   city: Farsta
-  latitude: 59.24288463287253
-  longitude: 18.091441869735718
+  latitude: 59.242885
+  longitude: 18.091442
 
 - location: Carlings - Visby
   urn: urn:carlings:store:id:56F
@@ -741,14 +741,14 @@ locations:
 - location: Carlings - Umeå Avion
   urn: urn:carlings:store:id:N22
   city: Umeå
-  latitude: 63.8067021
-  longitude: 20.2539284
+  latitude: 63.806702
+  longitude: 20.253928
 
 - location: Carlings - Umeå Utopia
   urn: urn:carlings:store:id:580
   city: Umeå
-  latitude: 63.82475880000001
-  longitude: 20.264277600000014
+  latitude: 63.824759
+  longitude: 20.264278
 
 - location: Carlings - Skellefteå Citykompaniet
   urn: urn:carlings:store:id:599
@@ -765,20 +765,20 @@ locations:
 - location: Carlings - Pori Puuvilla
   urn: urn:carlings:store:id:F08
   city: Pori
-  latitude: 61.4924949
-  longitude: 21.79867379999996
+  latitude: 61.492495
+  longitude: 21.798674
 
 - location: Carlings - Luleå Storgatan
   urn: urn:carlings:store:id:N15
   city: Luleå
-  latitude: 65.5845933
-  longitude: 22.15469859999996
+  latitude: 65.584593
+  longitude: 22.154699
 
 - location: Carlings - Raisio Mylly
   urn: urn:carlings:store:id:F41
   city: Raisio
   latitude: 60.491753
-  longitude: 22.201016200000026
+  longitude: 22.201016
 
 - location: Carlings - Turku Hansakortteli
   urn: urn:carlings:store:id:F10
@@ -789,14 +789,14 @@ locations:
 - location: Carlings - Turku Skanssi
   urn: urn:carlings:store:id:F18
   city: Turku
-  latitude: 60.4297193
-  longitude: 22.31935390000001
+  latitude: 60.429719
+  longitude: 22.319354
 
 - location: Carlings - Seinäjoki Ideapark
   urn: urn:carlings:store:id:F49
   city: Seinäjoki
-  latitude: 62.79229319999999
-  longitude: 22.801413599999933
+  latitude: 62.792293
+  longitude: 22.801414
 
 - location: Carlings - Amfi Alta
   urn: urn:carlings:store:id:54D
@@ -813,26 +813,26 @@ locations:
 - location: Carlings - Lempäälä Ideapark
   urn: urn:carlings:store:id:F21
   city: Lempäälä
-  latitude: 61.36261389999999
-  longitude: 23.7985003
+  latitude: 61.362614
+  longitude: 23.7985
 
 - location: Carlings - Tornio Rajalla
   urn: urn:carlings:store:id:F43
   city: Tornio
-  latitude: 65.8429767
-  longitude: 24.143869799999948
+  latitude: 65.842977
+  longitude: 24.14387
 
 - location: Carlings - Hämeenlinna Goodman
   urn: urn:carlings:store:id:F06
   city: Hämeenlinna
-  latitude: 60.99666610000001
-  longitude: 24.455864099999985
+  latitude: 60.996666
+  longitude: 24.455864
 
 - location: Carlings - Espoo Iso Omena
   urn: urn:carlings:store:id:F45
   city: Espoo
-  latitude: 60.1616971
-  longitude: 24.737948800000026
+  latitude: 60.161697
+  longitude: 24.737949
 
 - location: Carlings - Espoo Sello
   urn: urn:carlings:store:id:F13
@@ -843,8 +843,8 @@ locations:
 - location: Carlings - Hyvinkää Willa
   urn: urn:carlings:store:id:F27
   city: Hyvinkää
-  latitude: 60.6321562
-  longitude: 24.865501799999947
+  latitude: 60.632156
+  longitude: 24.865502
 
 - location: Carlings - Helsinki Kamppi
   urn: urn:carlings:store:id:F15
@@ -867,8 +867,8 @@ locations:
 - location: Carlings - Vantaa Jumbo
   urn: urn:carlings:store:id:F25
   city: Vantaa
-  latitude: 60.29182919999999
-  longitude: 24.960836500000028
+  latitude: 60.291829
+  longitude: 24.960837
 
 - location: Carlings - Helsinki Redi
   urn: urn:carlings:store:id:F47
@@ -879,20 +879,20 @@ locations:
 - location: Carlings - Helsinki Itis
   urn: urn:carlings:store:id:F02
   city: Helsinki
-  latitude: 60.20991429999999
-  longitude: 25.0829837
+  latitude: 60.209914
+  longitude: 25.082984
 
 - location: Carlings - Oulu Ideapark
   urn: urn:carlings:store:id:F07
   city: Oulu
-  latitude: 65.0761721
-  longitude: 25.447315200000048
+  latitude: 65.076172
+  longitude: 25.447315
 
 - location: Carlings - Oulu Valkea
   urn: urn:carlings:store:id:F44
   city: Oulu
-  latitude: 65.0114222
-  longitude: 25.472096100000044
+  latitude: 65.011422
+  longitude: 25.472096
 
 - location: Carlings - Kempele Zeppelin
   urn: urn:carlings:store:id:F22
@@ -903,20 +903,20 @@ locations:
 - location: Carlings - Lahti Trio
   urn: urn:carlings:store:id:F29
   city: Lahti
-  latitude: 60.9826522
-  longitude: 25.662221899999963
+  latitude: 60.982652
+  longitude: 25.662222
 
 - location: Carlings - Rovaniemi Revontuli
   urn: urn:carlings:store:id:F40
   city: Rovaniemi
-  latitude: 66.5037978
-  longitude: 25.724181499999986
+  latitude: 66.503798
+  longitude: 25.724181
 
 - location: Carlings - Lahti Karisma
   urn: urn:carlings:store:id:F23
   city: Lahti
-  latitude: 60.9825290148798
-  longitude: 25.736307184655743
+  latitude: 60.982529
+  longitude: 25.736307
 
 - location: Carlings - Jyväskylä Forum
   urn: urn:carlings:store:id:F16
@@ -933,20 +933,20 @@ locations:
 - location: Carlings - Kouvola Veturi
   urn: urn:carlings:store:id:F26
   city: Kuusankoski
-  latitude: 60.87582937628577
-  longitude: 26.65420817826842
+  latitude: 60.875829
+  longitude: 26.654208
 
 - location: Carlings - Kotka Pasaati
   urn: urn:carlings:store:id:F05
   city: Kotka
-  latitude: 60.46618040000001
-  longitude: 26.944603899999947
+  latitude: 60.46618
+  longitude: 26.944604
 
 - location: Carlings - Kuopio Matkus
   urn: urn:carlings:store:id:F28
   city: Kuopio
-  latitude: 62.8395115
-  longitude: 27.60089640000001
+  latitude: 62.839512
+  longitude: 27.600896
 
 - location: Carlings - Lappeenranta Galleria
   urn: urn:carlings:store:id:F01
@@ -957,5 +957,5 @@ locations:
 - location: Carlings - Joensuu Iso Myy
   urn: urn:carlings:store:id:F03
   city: Joensuu
-  latitude: 62.6017741
-  longitude: 29.76391490000003
+  latitude: 62.601774
+  longitude: 29.763915

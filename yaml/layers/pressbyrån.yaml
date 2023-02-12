@@ -111,8 +111,8 @@ locations:
 - location: Kungälvs Resecentrum
   urn: urn:pressbyrån:store:id:50172
   city: Kungälv
-  latitude: 57.87198619125348
-  longitude: 11.968445777893066
+  latitude: 57.871986
+  longitude: 11.968446
 
 - location: Pressbyrån Gbg Nordstadstorget
   urn: urn:pressbyrån:store:id:28140
@@ -321,7 +321,7 @@ locations:
 - location: Pressbyrån H-borg Knutpunkten, Term. 1
   urn: urn:pressbyrån:store:id:65143
   city: Helsingborg
-  latitude: 56.0444198
+  latitude: 56.04442
   longitude: 12.693827
 
 - location: Pressbyrån H-borg Knutpunkten-Centralhallen
@@ -429,8 +429,8 @@ locations:
 - location: Pressbyrån Malmö MAS Långa Raden
   urn: urn:pressbyrån:store:id:65114
   city: Malmö
-  latitude: 55.5875626
-  longitude: 13.0009632
+  latitude: 55.587563
+  longitude: 13.000963
 
 - location: Pressbyrån Malmö Södergatan 11
   urn: urn:pressbyrån:store:id:68100
@@ -459,8 +459,8 @@ locations:
 - location: Pressbyrån Holiday Club Åre
   urn: urn:pressbyrån:store:id:50201
   city: Åre
-  latitude: 63.39810428326375
-  longitude: 13.075875019541808
+  latitude: 63.398104
+  longitude: 13.075875
 
 - location: Resecentrum Trelleborg
   urn: urn:pressbyrån:store:id:50165
@@ -519,14 +519,14 @@ locations:
 - location: Pressbyrån Götene Jvg
   urn: urn:pressbyrån:store:id:25520
   city: Götene
-  latitude: 58.5278969
-  longitude: 13.4925461
+  latitude: 58.527897
+  longitude: 13.492546
 
 - location: Pressbyrån Karlstad Drottningg
   urn: urn:pressbyrån:store:id:28390
   city: Karlstad
   latitude: 59.37927
-  longitude: 13.5001049
+  longitude: 13.500105
 
 - location: Pressbyrån Karlstad Cstn
   urn: urn:pressbyrån:store:id:28389
@@ -538,7 +538,7 @@ locations:
   urn: urn:pressbyrån:store:id:25391
   city: Karlstad
   latitude: 59.38107
-  longitude: 13.5036259
+  longitude: 13.503626
 
 - location: Pressbyrån Falköping Jvg
   urn: urn:pressbyrån:store:id:25227
@@ -591,8 +591,8 @@ locations:
 - location: Pressbyrån Töreboda Kungsgatan
   urn: urn:pressbyrån:store:id:28565
   city: Töreboda
-  latitude: 58.7058258
-  longitude: 14.1273966
+  latitude: 58.705826
+  longitude: 14.127397
 
 - location: Pressbyrån Kristianstad
   urn: urn:pressbyrån:store:id:68181
@@ -609,7 +609,7 @@ locations:
 - location: Pressbyrån Jönköping Barnarpsgatan
   urn: urn:pressbyrån:store:id:25347
   city: Jönköping
-  latitude: 57.7811241
+  latitude: 57.781124
   longitude: 14.16222
 
 - location: Pressbyrån Jönköping Jvg
@@ -675,8 +675,8 @@ locations:
 - location: Pressbyrån Östersunds Sjh
   urn: urn:pressbyrån:store:id:08182
   city: Östersund
-  latitude: 63.1823158
-  longitude: 14.6377993
+  latitude: 63.182316
+  longitude: 14.637799
 
 - location: Pressbyrån Östersund Kärnan
   urn: urn:pressbyrån:store:id:50178
@@ -688,7 +688,7 @@ locations:
   urn: urn:pressbyrån:store:id:28350
   city: Nässjö
   latitude: 57.65243
-  longitude: 14.6949558
+  longitude: 14.694956
 
 - location: Pressbyrån Växjö Storgatan
   urn: urn:pressbyrån:store:id:25377
@@ -760,7 +760,7 @@ locations:
   urn: urn:pressbyrån:store:id:25396
   city: Örebro
   latitude: 59.27243
-  longitude: 15.2120743
+  longitude: 15.212074
 
 - location: Pressbyrån Örebro Järntorget
   urn: urn:pressbyrån:store:id:25398
@@ -922,7 +922,7 @@ locations:
   urn: urn:pressbyrån:store:id:08508
   city: Västerås
   latitude: 59.61034
-  longitude: 16.5458984
+  longitude: 16.545898
 
 - location: Pressbyrån Västerås Cstn
   urn: urn:pressbyrån:store:id:08507
@@ -1024,7 +1024,7 @@ locations:
   urn: urn:pressbyrån:store:id:05655
   city: Uppsala
   latitude: 59.85813
-  longitude: 17.6445522
+  longitude: 17.644552
 
 - location: Pressbyrån Uppsala Cstn
   urn: urn:pressbyrån:store:id:08650
@@ -1054,7 +1054,7 @@ locations:
   urn: urn:pressbyrån:store:id:08442
   city: Tumba
   latitude: 59.1986
-  longitude: 17.8346615
+  longitude: 17.834661
 
 - location: Pressbyrån Hässelby Gård T-bana
   urn: urn:pressbyrån:store:id:05244
@@ -1215,14 +1215,14 @@ locations:
 - location: Pressbyrån Sundbyberg Jvg
   urn: urn:pressbyrån:store:id:05286
   city: Sundbyberg
-  latitude: 59.3606758
-  longitude: 17.9707336
+  latitude: 59.360676
+  longitude: 17.970734
 
 - location: Pressbyrån Sundbyberg T-ban
   urn: urn:pressbyrån:store:id:08220
   city: Sundbyberg
-  latitude: 59.3609428
-  longitude: 17.9720325
+  latitude: 59.360943
+  longitude: 17.972033
 
 - location: Pressbyrån Solna Strand
   urn: urn:pressbyrån:store:id:05206
@@ -1360,7 +1360,7 @@ locations:
   urn: urn:pressbyrån:store:id:41200
   city: Stockholm
   latitude: 59.33459
-  longitude: 18.0317535
+  longitude: 18.031754
 
 - location: Pressbyrån S:t Eriks Ögonsjukhus
   urn: urn:pressbyrån:store:id:50200
@@ -1437,7 +1437,7 @@ locations:
 - location: Pressbyrån Odenplan T-ban
   urn: urn:pressbyrån:store:id:08856
   city: Stockholm
-  latitude: 59.3428345
+  latitude: 59.342835
   longitude: 18.05051
 
 - location: Pressbyrån Sthlm Universitetet T-ban
@@ -1533,7 +1533,7 @@ locations:
 - location: Pressbyrån Klarabergsg, T-baneplan
   urn: urn:pressbyrån:store:id:08103
   city: Stockholm
-  latitude: 59.3325272
+  latitude: 59.332527
   longitude: 18.06002
 
 - location: Pressbyrån Drottninggatan 65, 111 36 Stockholm
@@ -1545,8 +1545,8 @@ locations:
 - location: Pressbyrån Klarabergsgatan 29 Stockholm
   urn: urn:pressbyrån:store:id:50135
   city: Stockholm
-  latitude: 59.3320961
-  longitude: 18.0621681
+  latitude: 59.332096
+  longitude: 18.062168
 
 - location: Pressbyrån Hötorget T-bana/Olof Palmes gata
   urn: urn:pressbyrån:store:id:05117
@@ -1557,13 +1557,13 @@ locations:
 - location: Pressbyrån Hötorget T-ban/Oxtorgsgatan
   urn: urn:pressbyrån:store:id:05118
   city: Stockholm
-  latitude: 59.3349953
+  latitude: 59.334995
   longitude: 18.0627
 
 - location: Pressbyrån Sthlm Södra Station
   urn: urn:pressbyrån:store:id:08193
   city: Stockholm
-  latitude: 59.3141022
+  latitude: 59.314102
   longitude: 18.06279
 
 - location: Pressbyrån Hötorget T-bana Krysset
@@ -1600,7 +1600,7 @@ locations:
   urn: urn:pressbyrån:store:id:05113
   city: Stockholm
   latitude: 59.33597
-  longitude: 18.0676689
+  longitude: 18.067669
 
 - location: Pressbyrån Gallerian, Urban Escape, Stockholm
   urn: urn:pressbyrån:store:id:50199
@@ -1629,8 +1629,8 @@ locations:
 - location: Press-Stop Sthlm Götgatan
   urn: urn:pressbyrån:store:id:41110
   city: Stockholm
-  latitude: 59.3165932
-  longitude: 18.0721111
+  latitude: 59.316593
+  longitude: 18.072111
 
 - location: Pressbyrån Slussen T-bana Södermalmstorg
   urn: urn:pressbyrån:store:id:08180
@@ -1641,8 +1641,8 @@ locations:
 - location: Pressbyrån Hamngatan 11
   urn: urn:pressbyrån:store:id:50159
   city: Stockholm
-  latitude: 59.3328029
-  longitude: 18.072970899999973
+  latitude: 59.332803
+  longitude: 18.072971
 
 - location: Pressbyrån Täby C Stortorget
   urn: urn:pressbyrån:store:id:08500
@@ -1671,7 +1671,7 @@ locations:
 - location: Pressbyrån Sthlm Blasieholmen
   urn: urn:pressbyrån:store:id:05143
   city: Stockholm
-  latitude: 59.3294945
+  latitude: 59.329495
   longitude: 18.074955
 
 - location: Pressbyrån Sthlm Götgatan 94
@@ -1695,8 +1695,8 @@ locations:
 - location: Pressbyrån Östermalmstorg T-ban/Sibyllegatan
   urn: urn:pressbyrån:store:id:08146
   city: Stockholm
-  latitude: 59.3367424
-  longitude: 18.0801239
+  latitude: 59.336742
+  longitude: 18.080124
 
 - location: Pressbyrån Gullmarsplan Yttre
   urn: urn:pressbyrån:store:id:08176
@@ -1768,7 +1768,7 @@ locations:
   urn: urn:pressbyrån:store:id:08195
   city: Stockholm
   latitude: 59.302803
-  longitude: 18.1034641
+  longitude: 18.103464
 
 - location: Pressbyrån Västerhaninge C
   urn: urn:pressbyrån:store:id:05626
@@ -1851,8 +1851,8 @@ locations:
 - location: Pressbyrån Roma Kloster
   urn: urn:pressbyrån:store:id:78688
   city: Romakloster
-  latitude: 57.5054131
-  longitude: 18.4543571
+  latitude: 57.505413
+  longitude: 18.454357
 
 - location: Pressbyrån Norrtälje Hantverkareg
   urn: urn:pressbyrån:store:id:05644
@@ -1863,8 +1863,8 @@ locations:
 - location: Pressbyrån Lasarettsgatan Örnsköldsvik
   urn: urn:pressbyrån:store:id:50132
   city: Örnsköldsvik
-  latitude: 63.2910042
-  longitude: 18.7124825
+  latitude: 63.291004
+  longitude: 18.712483
 
 - location: Pressbyrån Umeå
   urn: urn:pressbyrån:store:id:50125
@@ -1881,7 +1881,7 @@ locations:
 - location: Pressbyrån Storgatan 33 Luleå
   urn: urn:pressbyrån:store:id:50115
   city: Luleå
-  latitude: 65.5841751
+  latitude: 65.584175
   longitude: 22.151083
 
 - location: Pressbyrån Luleå Storgatan 67

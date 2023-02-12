@@ -3,7 +3,7 @@ meta:
   web: https://www.thebodyshop.com/
   wikipedia: https://sv.wikipedia.org/wiki/The_Body_Shop
   category: Kläder och konfektion
-  locations: 62
+  locations: 55
 
 locations:
 - location: The Body Shop Torp Köpcentrum
@@ -213,20 +213,20 @@ locations:
 - location: The Body Shop Forumkvarteret
   urn: urn:thebodyshop:store:id:3830
   city: Uppsala
-  latitude: 59.85815599999999
-  longitude: 17.6418184
+  latitude: 59.858156
+  longitude: 17.641818
 
 - location: The Body Shop Uppsala Gränby Centrum
   urn: urn:thebodyshop:store:id:3844
   city: Uppsala
-  latitude: 59.8772961
-  longitude: 17.6729833
+  latitude: 59.877296
+  longitude: 17.672983
 
 - location: The Body Shop SQO Barkarby Outlet
   urn: urn:thebodyshop:store:id:7188
   city: Järfälla
-  latitude: 59.41772030000001
-  longitude: 17.8564213
+  latitude: 59.41772
+  longitude: 17.856421
 
 - location: The Body Shop Vällingby
   urn: urn:thebodyshop:store:id:4225
@@ -256,7 +256,7 @@ locations:
   urn: urn:thebodyshop:store:id:7324
   city: Solna
   latitude: 59.370465
-  longitude: 18.0020127
+  longitude: 18.002013
 
 - location: The Body Shop Liljeholmstorget
   urn: urn:thebodyshop:store:id:4460

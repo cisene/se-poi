@@ -9,8 +9,8 @@ locations:
 - location: Uddevalla
   urn: urn:citygross:store:id:57
   city: Uddevalla
-  latitude: 58.3531442
-  longitude: 11.824416299999939
+  latitude: 58.353144
+  longitude: 11.824416
 
 - location: City Gross Ytterby
   urn: urn:citygross:store:id:31
@@ -27,8 +27,8 @@ locations:
 - location: City Gross Karlshamn
   urn: urn:citygross:store:id:19
   city: Karlshamn
-  latitude: 55.6760968
-  longitude: 12.568337199999974
+  latitude: 55.676097
+  longitude: 12.568337
 
 - location: City Gross Helsingborg Berga
   urn: urn:citygross:store:id:60
@@ -39,32 +39,32 @@ locations:
 - location: Helsingborg Ättekulla
   urn: urn:citygross:store:id:6
   city: Helsingborg
-  latitude: 56.0162998
-  longitude: 12.753191000000015
+  latitude: 56.0163
+  longitude: 12.753191
 
 - location: Landskrona
   urn: urn:citygross:store:id:9
   city: Landskrona
-  latitude: 55.8688385
-  longitude: 12.831235600000014
+  latitude: 55.868839
+  longitude: 12.831236
 
 - location: City Gross Borås
   urn: urn:citygross:store:id:21
   city: Borås
-  latitude: 57.7141742
-  longitude: 12.866981900000042
+  latitude: 57.714174
+  longitude: 12.866982
 
 - location: City Gross Höör
   urn: urn:citygross:store:id:16
   city: Höör
-  latitude: 57.7141742
-  longitude: 12.866981900000042
+  latitude: 57.714174
+  longitude: 12.866982
 
 - location: Trollhättan
   urn: urn:citygross:store:id:1006
   city: Trollhättan
-  latitude: 57.7141742
-  longitude: 12.866981900000042
+  latitude: 57.714174
+  longitude: 12.866982
 
 - location: City Gross Halmstad
   urn: urn:citygross:store:id:22
@@ -75,14 +75,14 @@ locations:
 - location: City Gross Malmö Hyllie
   urn: urn:citygross:store:id:169
   city: Malmö
-  latitude: 55.5613941
-  longitude: 12.9827731
+  latitude: 55.561394
+  longitude: 12.982773
 
 - location: City Gross Malmö Stora Bernstorp
   urn: urn:citygross:store:id:59
   city: Malmö
-  latitude: 55.6117886
-  longitude: 13.10106380000002
+  latitude: 55.611789
+  longitude: 13.101064
 
 - location: City Gross Trelleborg
   urn: urn:citygross:store:id:15
@@ -105,8 +105,8 @@ locations:
 - location: City Gross Hässleholm
   urn: urn:citygross:store:id:12
   city: Hässleholm
-  latitude: 56.1549448
-  longitude: 13.75636069999996
+  latitude: 56.154945
+  longitude: 13.756361
 
 - location: City Gross Ljungby
   urn: urn:citygross:store:id:5
@@ -123,8 +123,8 @@ locations:
 - location: City Gross Kristianstad
   urn: urn:citygross:store:id:37
   city: Kristianstad
-  latitude: 56.0241227
-  longitude: 14.200430299999994
+  latitude: 56.024123
+  longitude: 14.20043
 
 - location: City Gross Jönköping
   urn: urn:citygross:store:id:23
@@ -135,8 +135,8 @@ locations:
 - location: Växjö
   urn: urn:citygross:store:id:2
   city: Växjö
-  latitude: 56.8782337
-  longitude: 14.772620200000006
+  latitude: 56.878234
+  longitude: 14.77262
 
 - location: City Gross Örebro
   urn: urn:citygross:store:id:33
@@ -147,8 +147,8 @@ locations:
 - location: City Gross Mantorp
   urn: urn:citygross:store:id:26
   city: Mantorp
-  latitude: 58.3661954
-  longitude: 15.29473859999996
+  latitude: 58.366195
+  longitude: 15.294739
 
 - location: City Gross Linköping Djurgården
   urn: urn:citygross:store:id:44
@@ -159,14 +159,14 @@ locations:
 - location: City Gross Linköping Tornby
   urn: urn:citygross:store:id:168
   city: Linköping
-  latitude: 58.38665159999999
-  longitude: 15.588129299999991
+  latitude: 58.386652
+  longitude: 15.588129
 
 - location: City Gross Falun
   urn: urn:citygross:store:id:34
   city: Falun
-  latitude: 60.57697100000001
-  longitude: 15.608302099999946
+  latitude: 60.576971
+  longitude: 15.608302
 
 - location: City Gross Karlskrona
   urn: urn:citygross:store:id:20
@@ -195,8 +195,8 @@ locations:
 - location: Eskilstuna
   urn: urn:citygross:store:id:46
   city: Eskilstuna
-  latitude: 59.3722092
-  longitude: 16.47255700000005
+  latitude: 59.372209
+  longitude: 16.472557
 
 - location: City Gross Nyköping
   urn: urn:citygross:store:id:28
@@ -237,8 +237,8 @@ locations:
 - location: City Gross Häggvik
   urn: urn:citygross:store:id:14
   city: Häggvik
-  latitude: 59.4367055
-  longitude: 17.9283547
+  latitude: 59.436706
+  longitude: 17.928355
 
 - location: City Gross Bromma
   urn: urn:citygross:store:id:13
