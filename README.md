@@ -198,6 +198,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
+| [Burger King](https://sv.wikipedia.org/wiki/Burger_King)                                 |        122 |
 | [Max Hamburgerrestauranger](https://sv.wikipedia.org/wiki/Max_Hamburgerrestauranger)     |        113 |
 | [McDonald's](https://sv.wikipedia.org/wiki/McDonald%E2%80%99s)                           |        264 |
 
