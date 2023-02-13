@@ -50,6 +50,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
+| [AB Karl Hedin Bygghandel](https://sv.wikipedia.org/wiki/AB_Karl_Hedin_Bygghandel)       |         50 |
 | [Bauhaus](https://sv.wikipedia.org/wiki/Bauhaus%5F(butikskedja))                         |         13 |
 | [Byggmax](https://sv.wikipedia.org/wiki/Byggmax)                                         |         36 |
 
