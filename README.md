@@ -16,7 +16,6 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 [[_TOC_]]
 
 
-
 ## Alkoholmonopol
 
 | Namn                                                                                     | Positioner |
@@ -151,7 +150,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | [Brothers](https://sv.wikipedia.org/wiki/Brothers_(f%C3%B6retag))                        |         43 |
 | [Carlings](https://sv.wikipedia.org/wiki/Carlings)                                       |        159 |
 | [Cubus](https://sv.wikipedia.org/wiki/Cubus)                                             |        279 |
-| [Dressman](https://sv.wikipedia.org/wiki/Dressmann)                                      |        179 |
+| [Dressmann](https://sv.wikipedia.org/wiki/Dressmann)                                     |        179 |
 | [Gina Tricot](https://sv.wikipedia.org/wiki/Gina_Tricot)                                 |         77 |
 | [Hennes & Mauritz](https://sv.wikipedia.org/wiki/Hennes_%26_Mauritz)                     |        118 |
 | [Indiska Magasinet](https://sv.wikipedia.org/wiki/Indiska_Magasinet)                     |         40 |
@@ -210,4 +209,6 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
 | [3 Butiken](https://sv.wikipedia.org/wiki/Hi3G_Access)                                   |         14 |
+
+
 
