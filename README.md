@@ -36,6 +36,15 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 
 
+## Biltillbehörskedjor
+
+| Namn                                                                                     | Positioner |
+| :--------------------------------------------------------------------------------------- | ---------: |
+| [Mekonomen](https://sv.wikipedia.org/wiki/Mekonomen)                                     |        501 |
+
+
+
+
 ## Bok- och kontorshandlarskedjor
 
 | Namn                                                                                     | Positioner |
@@ -90,6 +99,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
 | [ArkenZoo](https://sv.wikipedia.org/wiki/Arken_Zoo)                                      |         85 |
+| [Granngården](https://sv.wikipedia.org/wiki/Granng%C3%A5rden_AB)                         |        107 |
 
 
 

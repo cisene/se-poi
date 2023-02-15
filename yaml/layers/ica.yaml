@@ -5628,6 +5628,12 @@ locations:
   latitude: 59.84586
   longitude: 17.63099
 
+- location: ICA Supermarket City, Uppsala
+  urn: urn:ica:store:id:1499
+  city: Uppsala
+  latitude: 59.85904
+  longitude: 17.6379
+
 - location: ICA Supermarket Bro
   urn: urn:ica:store:id:8931
   city: Upplands-Bro
@@ -7727,9 +7733,3 @@ locations:
   city: Haparanda
   latitude: 65.84212
   longitude: 24.11929
-
-- location: ICA Supermarket City, Uppsala
-  urn: urn:ica:store:id:1499
-  city: Uppsala
-  latitude: 5985904.0
-  longitude: 176379.0
