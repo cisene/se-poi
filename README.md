@@ -138,7 +138,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | :--------------------------------------------------------------------------------------- | ---------: |
 | [Best Western](https://sv.wikipedia.org/wiki/Best_Western)                               |         89 |
 | [Nordic Choice Hotels](https://sv.wikipedia.org/wiki/Nordic_Choice_Hotels)               |         68 |
-| [Scandic Hotels](https://sv.wikipedia.org/wiki/Scandic_Hotels)                           |         76 |
+| [Scandic Hotels](https://sv.wikipedia.org/wiki/Scandic_Hotels)                           |        161 |
 
 
 
