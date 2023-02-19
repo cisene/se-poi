@@ -1,9 +1,9 @@
 meta:
   name: Systembolaget - Ombud
-  web: null
+  web: https://www.systembolaget.se/
   wikipedia: https://sv.wikipedia.org/wiki/Systembolaget
   category: Alkoholmonopol
-  locations: 412
+  locations: 413
 
 locations:
 - location: Systembolaget Ombud, Nordkosters Livs
@@ -1325,6 +1325,11 @@ locations:
   city: Krokek
   latitude: 58.66896
   longitude: 16.36853
+
+- location: Systembolaget Ombud, ICA Nära Skansen
+  city: Mörbylånga
+  latitude: 56.52632
+  longitude: 16.37823
 
 - location: Systembolaget Ombud, Spelboa i Arbrå
   city: Arbrå

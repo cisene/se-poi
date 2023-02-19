@@ -1,1977 +1,2695 @@
 meta:
   name: Systembolaget
-  web: null
+  web: https://www.systembolaget.se/
   wikipedia: https://sv.wikipedia.org/wiki/Systembolaget
   category: Alkoholmonopol
-  locations: 394
+  locations: 448
 
 locations:
 - location: Systembolaget Butik, Oslovägen 7
+  urn: urn:systembolaget:store:id:1441
   city: Strömstad
   latitude: 58.94004
   longitude: 11.17689
 
-- location: Systembolaget Butik, Oslovägen 44
+- location: Systembolaget Butik, Oslovägen 56
+  urn: urn:systembolaget:store:id:1442
   city: Strömstad
-  latitude: 58.94434
-  longitude: 11.1844
+  latitude: 58.947312
+  longitude: 11.192016
 
 - location: Systembolaget Butik, Sältevägen 3
+  urn: urn:systembolaget:store:id:1443
   city: Grebbestad
   latitude: 58.69229
   longitude: 11.2555
 
 - location: Systembolaget Butik, Hallindenvägen 2 B
+  urn: urn:systembolaget:store:id:1439
   city: Kungshamn
   latitude: 58.35765
   longitude: 11.26031
 
 - location: Systembolaget Butik, Korsgatan 5
+  urn: urn:systembolaget:store:id:1440
   city: Lysekil
   latitude: 58.27427
   longitude: 11.43424
 
+- location: Systembolaget Butik, Norgårdsvägen 10 B
+  urn: urn:systembolaget:store:id:1425
+  city: Öckerö
+  latitude: 57.708188
+  longitude: 11.654563
+
 - location: Systembolaget Butik, Strömstadsvägen 1
+  urn: urn:systembolaget:store:id:1438
   city: Munkedal
   latitude: 58.46686
   longitude: 11.67454
 
 - location: Systembolaget Butik, Hamntorget
+  urn: urn:systembolaget:store:id:1435
   city: Henån
   latitude: 58.23793
   longitude: 11.67782
 
-- location: Systembolaget Butik, Torp Köpcenter
+- location: Systembolaget Butik, Postflyget 16
+  urn: urn:systembolaget:store:id:1426
+  city: Torslanda
+  latitude: 57.708938
+  longitude: 11.778562
+
+- location: Systembolaget Butik, Torp Köpcentrum
+  urn: urn:systembolaget:store:id:1437
   city: Uddevalla
   latitude: 58.35495
   longitude: 11.81224
 
-- location: Systembolaget Butik, Västanvindsgatan 2
+- location: Systembolaget Butik, Östra Köpmansgatan 25
+  urn: urn:systembolaget:store:id:1434
   city: Stenungsund
-  latitude: 58.06716
-  longitude: 11.81857
+  latitude: 58.067563
+  longitude: 11.817687
 
 - location: Systembolaget Butik, Karl Johansgatan 85
+  urn: urn:systembolaget:store:id:1415
   city: Göteborg
   latitude: 57.69049
   longitude: 11.91348
 
-- location: Systembolaget Butik, Marconigatan 5
-  city: Västra frölunda
+- location: Systembolaget Butik, Frölunda Torg
+  urn: urn:systembolaget:store:id:1420
+  city: Västra Frölunda
   latitude: 57.65145
   longitude: 11.91464
 
 - location: Systembolaget Butik, Kolhamnsgatan 9
+  urn: urn:systembolaget:store:id:1417
   city: Göteborg
   latitude: 57.709
   longitude: 11.92206
 
 - location: Systembolaget Butik, Västerlånggatan 2 B
+  urn: urn:systembolaget:store:id:1436
   city: Uddevalla
   latitude: 58.35345
   longitude: 11.93261
 
-- location: Systembolaget Butik, Delesgatan 7 B
+- location: Systembolaget Butik, Delesgatan 7
+  urn: urn:systembolaget:store:id:1509
   city: Ed
   latitude: 58.91221
   longitude: 11.93572
 
+- location: Systembolaget Butik, Lona Knapes Gata 1
+  urn: urn:systembolaget:store:id:1427
+  city: Västra Frölunda
+  latitude: 57.651063
+  longitude: 11.948688
+
+- location: Systembolaget Butik, Hantverksvägen 2-8
+  urn: urn:systembolaget:store:id:1424
+  city: Askim
+  latitude: 57.642562
+  longitude: 11.949438
+
 - location: Systembolaget Butik, Linnégatan 28 B
+  urn: urn:systembolaget:store:id:1411
   city: Göteborg
   latitude: 57.69699
   longitude: 11.95132
 
+- location: Systembolaget Butik, Krogabacksvägen 12
+  urn: urn:systembolaget:store:id:1422
+  city: Göteborg
+  latitude: 57.598937
+  longitude: 11.952938
+
 - location: Systembolaget Butik, Swedenborgsgatan 5
+  urn: urn:systembolaget:store:id:1414
   city: Göteborg
   latitude: 57.72202
   longitude: 11.9532
 
-- location: Systembolaget Butik, Kungsgatan 16
-  city: Göteborg
-  latitude: 57.7033
-  longitude: 11.96018
+- location: Systembolaget Butik, Älvebacken 7
+  urn: urn:systembolaget:store:id:1432
+  city: Kungälv
+  latitude: 57.874188
+  longitude: 11.966062
 
-- location: Systembolaget Butik, L. Klädpressaregatan 8-16 Nordstan
+- location: Systembolaget Butik, Kungstorget 1
+  urn: urn:systembolaget:store:id:1406
+  city: Göteborg
+  latitude: 57.702938
+  longitude: 11.967187
+
+- location: Systembolaget Butik, Lilla Klädpressaregatan 8-16 Nordstan
+  urn: urn:systembolaget:store:id:1410
   city: Göteborg
   latitude: 57.7096
   longitude: 11.96838
 
+- location: Systembolaget Butik, Lilla Klädpressaregatan 2
+  urn: urn:systembolaget:store:id:1408
+  city: Göteborg
+  latitude: 57.709838
+  longitude: 11.968578
+
 - location: Systembolaget Butik, Kapellplatsen 4 Landala Torg
+  urn: urn:systembolaget:store:id:1412
   city: Göteborg
   latitude: 57.69339
   longitude: 11.97189
 
 - location: Systembolaget Butik, Kungsportsavenyn 18
+  urn: urn:systembolaget:store:id:1404
   city: Göteborg
   latitude: 57.7003
   longitude: 11.97511
 
-- location: Systembolaget Butik, Selma Lagerlöfs Torg
-  city: Hisings backa
-  latitude: 57.74994
-  longitude: 11.98253
-
 - location: Systembolaget Butik, Åvägen 42 Gårda Centrum
+  urn: urn:systembolaget:store:id:1413
   city: Göteborg
   latitude: 57.69799
   longitude: 11.99319
 
 - location: Systembolaget Butik, Centrumvägen 2
+  urn: urn:systembolaget:store:id:1520
   city: Färgelanda
   latitude: 58.56596
   longitude: 11.99371
 
-- location: Systembolaget Butik, Strandgatan 79
-  city: Kungälv
-  latitude: 57.86456
-  longitude: 11.99513
-
-- location: Systembolaget Butik, Kobbarnas vägen 1
+- location: Systembolaget Butik, Kobbarnas Väg 1
+  urn: urn:systembolaget:store:id:1407
   city: Göteborg
   latitude: 57.71421
   longitude: 11.99687
 
-- location: Systembolaget Butik, Brogatan 19
-  city: Mölndal
-  latitude: 57.65535
-  longitude: 12.01377
-
-- location: Systembolaget Butik, Kortedala torg 6
+- location: Systembolaget Butik, Transportgatan 19-21
+  urn: urn:systembolaget:store:id:1416
   city: Göteborg
-  latitude: 57.75125
-  longitude: 12.03155
+  latitude: 57.768937
+  longitude: 11.999813
+
+- location: Systembolaget Butik, Hornsgatan 1
+  urn: urn:systembolaget:store:id:1418
+  city: Göteborg
+  latitude: 57.728687
+  longitude: 12.012187
+
+- location: Systembolaget Butik, Nygatan 8
+  urn: urn:systembolaget:store:id:1431
+  city: Mölndal
+  latitude: 57.654538
+  longitude: 12.015203
 
 - location: Systembolaget Butik, Torpavallsgatan 4
+  urn: urn:systembolaget:store:id:1409
   city: Göteborg
   latitude: 57.72442
   longitude: 12.03325
 
-- location: Systembolaget Butik, Ekenleden 5
+- location: Systembolaget Butik, Ekenleden 12
+  urn: urn:systembolaget:store:id:1429
   city: Kållered
-  latitude: 57.6096
-  longitude: 12.04292
+  latitude: 57.609588
+  longitude: 12.044672
 
-- location: Systembolaget Butik, Nödingevägen 7
+- location: Systembolaget Butik, Ale Torg 7
+  urn: urn:systembolaget:store:id:1521
   city: Nödinge
-  latitude: 57.89209
-  longitude: 12.04614
+  latitude: 57.895063
+  longitude: 12.047187
 
-- location: Systembolaget Butik, Angereds Torg 4
+- location: Systembolaget Butik, Grepgatan 10
+  urn: urn:systembolaget:store:id:1423
   city: Angered
-  latitude: 57.79779
-  longitude: 12.05197
+  latitude: 57.797263
+  longitude: 12.051453
+
+- location: Systembolaget Butik, Hedebrovägen 50
+  urn: urn:systembolaget:store:id:1311
+  city: Kungsbacka
+  latitude: 57.515812
+  longitude: 12.073937
 
 - location: Systembolaget Butik, Nygatan 17
+  urn: urn:systembolaget:store:id:1308
   city: Kungsbacka
   latitude: 57.48518
   longitude: 12.07848
 
 - location: Systembolaget Butik, Kyrktorget 14
+  urn: urn:systembolaget:store:id:1430
   city: Partille
   latitude: 57.73933
   longitude: 12.10691
 
-- location: Systembolaget Butik, Biblioteksvägen 11 B
+- location: Systembolaget Butik, Biblioteksgatan 14 B
+  urn: urn:systembolaget:store:id:1428
   city: Mölnlycke
-  latitude: 57.65735
-  longitude: 12.11267
+  latitude: 57.657938
+  longitude: 12.115953
 
-- location: Systembolaget Butik, Storgatan 15
-  city: Lilla edet
-  latitude: 58.13613
-  longitude: 12.12563
+- location: Systembolaget Butik, Göteborgsvägen 37
+  urn: urn:systembolaget:store:id:1514
+  city: Lilla Edet
+  latitude: 58.137438
+  longitude: 12.128187
 
 - location: Systembolaget Butik, Storgatan 47
+  urn: urn:systembolaget:store:id:1713
   city: Årjäng
   latitude: 59.39189
   longitude: 12.13298
 
-- location: Systembolaget Butik, Berglunds gränd 1
+- location: Systembolaget Butik, Berglunds Gränd 1
+  urn: urn:systembolaget:store:id:1507
   city: Bengtsfors
   latitude: 59.02942
   longitude: 12.22482
 
-- location: Systembolaget Butik, Vallgatan 6
+- location: Systembolaget Butik, Västra-Vallgatan 6
+  urn: urn:systembolaget:store:id:1307
   city: Varberg
   latitude: 57.1052
   longitude: 12.24808
 
-- location: Systembolaget Butik, Stationsv 5
-  city: Storuman
-  latitude: 57.76926
-  longitude: 12.27044
+- location: Systembolaget Butik, Lerum Centrum
+  urn: urn:systembolaget:store:id:1508
+  city: Lerum
+  latitude: 57.770187
+  longitude: 12.269188
 
-- location: Systembolaget Butik, Kungsgatan 57
-  city: Trollhättan
-  latitude: 58.28228
-  longitude: 12.28658
+- location: Systembolaget Butik, Vrångagatan 5
+  urn: urn:systembolaget:store:id:1310
+  city: Varberg
+  latitude: 57.082313
+  longitude: 12.279312
 
-- location: Systembolaget Butik, Storgatan 16
+- location: Systembolaget Butik, Helga Görlins Gata 1
+  urn: urn:systembolaget:store:id:1715
   city: Charlottenberg
-  latitude: 59.88468
-  longitude: 12.29953
+  latitude: 59.881812
+  longitude: 12.289813
 
-- location: Systembolaget Butik, Köpmansgatan 5
+- location: Systembolaget Butik, Kungsgatan 32
+  urn: urn:systembolaget:store:id:1504
+  city: Trollhättan
+  latitude: 58.284863
+  longitude: 12.290578
+
+- location: Systembolaget Butik, Anes Väg 2
+  urn: urn:systembolaget:store:id:1503
+  city: Trollhättan
+  latitude: 58.314187
+  longitude: 12.302938
+
+- location: Systembolaget Butik, Regementsgatan 4 D
+  urn: urn:systembolaget:store:id:1501
   city: Vänersborg
-  latitude: 58.38018
-  longitude: 12.3229
+  latitude: 58.377813
+  longitude: 12.330938
 
 - location: Systembolaget Butik, Storgatan 8
+  urn: urn:systembolaget:store:id:1506
   city: Mellerud
   latitude: 58.7002
   longitude: 12.45189
 
-- location: Systembolaget Butik, Stortorget 3 B
+- location: Systembolaget Butik, Sandgatan 34
+  urn: urn:systembolaget:store:id:1306
   city: Falkenberg
-  latitude: 56.9053
-  longitude: 12.49166
+  latitude: 56.903063
+  longitude: 12.483438
 
 - location: Systembolaget Butik, Kungsgatan 34 C
+  urn: urn:systembolaget:store:id:1518
   city: Alingsås
   latitude: 57.92992
   longitude: 12.53754
 
 - location: Systembolaget Butik, Sjöängsvägen 2
+  urn: urn:systembolaget:store:id:2312
   city: Funäsdalen
   latitude: 62.54604
   longitude: 12.54001
 
-- location: Systembolaget Butik, Köpmansgatan 21
+- location: Systembolaget Butik, Storgatan 58 E
+  urn: urn:systembolaget:store:id:1252
   city: Höganäs
-  latitude: 56.19969
-  longitude: 12.55576
+  latitude: 56.200063
+  longitude: 12.559828
+
+- location: Systembolaget Butik, Krokdalsvägen 4
+  urn: urn:systembolaget:store:id:1433
+  city: Skärhamn
+  latitude: 57.668937
+  longitude: 12.571312
+
+- location: Systembolaget Butik, Göteborgsvägen 21
+  urn: urn:systembolaget:store:id:1511
+  city: Bollebygd
+  latitude: 57.669187
+  longitude: 12.571438
 
 - location: Systembolaget Butik, Storgatan 23
+  urn: urn:systembolaget:store:id:1706
   city: Arvika
   latitude: 59.65425
   longitude: 12.59335
 
 - location: Systembolaget Butik, Torggatan 8
+  urn: urn:systembolaget:store:id:1603
   city: Grästorp
   latitude: 58.33393
   longitude: 12.68097
 
-- location: Systembolaget Butik, Hästmöllegränden 2
+- location: Systembolaget Butik, Drottninggatan 18
+  urn: urn:systembolaget:store:id:1243
   city: Helsingborg
-  latitude: 56.04784
-  longitude: 12.69226
+  latitude: 56.047562
+  longitude: 12.691813
 
 - location: Systembolaget Butik, Boråsvägen 31
+  urn: urn:systembolaget:store:id:1519
   city: Kinna
   latitude: 57.5071
   longitude: 12.69268
 
-- location: Systembolaget Butik, Nelly Krooks gatan 8
-  city: Helsingborg
-  latitude: 56.05785
-  longitude: 12.70064
-
-- location: Systembolaget Butik, Södergatan 39
-  city: Helsingborg
-  latitude: 56.03913
-  longitude: 12.7031
-
-- location: Systembolaget Butik, Mellanbrogatan 6
+- location: Systembolaget Butik, Torggatan 11
+  urn: urn:systembolaget:store:id:1505
   city: Åmål
-  latitude: 59.05215
-  longitude: 12.70405
+  latitude: 59.052037
+  longitude: 12.702047
 
 - location: Systembolaget Butik, Järnvägsgatan 3 B
+  urn: urn:systembolaget:store:id:1616
   city: Nossebro
   latitude: 58.18698
   longitude: 12.71762
 
+- location: Systembolaget Butik, HSB-Vägen 1
+  urn: urn:systembolaget:store:id:2018
+  city: Idre
+  latitude: 61.858062
+  longitude: 12.719938
+
+- location: Systembolaget Butik, Regementsvägen 7
+  urn: urn:systembolaget:store:id:1244
+  city: Helsingborg
+  latitude: 56.065438
+  longitude: 12.719938
+
+- location: Systembolaget Butik, Landskronavägen 33
+  urn: urn:systembolaget:store:id:1242
+  city: Helsingborg
+  latitude: 56.001812
+  longitude: 12.744687
+
 - location: Systembolaget Butik, Väla Centrum
-  city: Ödåkra-väla
+  urn: urn:systembolaget:store:id:1245
+  city: Ödåkra-Väla
   latitude: 56.09149
   longitude: 12.75391
 
+- location: Systembolaget Butik, Kundvägen 5 E
+  urn: urn:systembolaget:store:id:1309
+  city: Halmstad
+  latitude: 56.678187
+  longitude: 12.806812
+
 - location: Systembolaget Butik, Kungsgatan 26
+  urn: urn:systembolaget:store:id:1522
   city: Vårgårda
   latitude: 58.03493
   longitude: 12.80888
 
 - location: Systembolaget Butik, Trädgårdsgatan 9
+  urn: urn:systembolaget:store:id:1248
   city: Landskrona
   latitude: 55.86836
   longitude: 12.83053
 
 - location: Systembolaget Butik, Köpmansgatan 72 D
+  urn: urn:systembolaget:store:id:1108
   city: Båstad
   latitude: 56.42832
   longitude: 12.84537
 
-- location: Systembolaget Butik, Bäckatorget
-  city: Skanör
-  latitude: 55.41201
-  longitude: 12.84569
-
 - location: Systembolaget Butik, Köpmansgatan 5
+  urn: urn:systembolaget:store:id:1301
   city: Halmstad
   latitude: 56.67397
   longitude: 12.85646
 
-- location: Systembolaget Butik, Storgatan 20
+- location: Systembolaget Butik, Storgatan 47 B
+  urn: urn:systembolaget:store:id:1107
   city: Ängelholm
-  latitude: 56.24214
-  longitude: 12.86196
+  latitude: 56.245438
+  longitude: 12.863266
 
-- location: Systembolaget Butik, Eurostop
+- location: Systembolaget Butik, Prästvägen 1
+  urn: urn:systembolaget:store:id:1302
   city: Halmstad
-  latitude: 56.65415
-  longitude: 12.91158
+  latitude: 56.657688
+  longitude: 12.907438
 
-- location: Systembolaget Butik, N. Storgatan 20
+- location: Systembolaget Butik, Norra Storgatan 20
+  urn: urn:systembolaget:store:id:1246
   city: Bjuv
   latitude: 56.08718
   longitude: 12.91413
 
-- location: Systembolaget Butik, Göteborgsvägen 21
-  city: Borås
-  latitude: 57.71921
-  longitude: 12.92508
-
 - location: Systembolaget Butik, Sundsgatan 28
+  urn: urn:systembolaget:store:id:1705
   city: Säffle
   latitude: 59.13153
   longitude: 12.93169
 
-- location: Systembolaget Butik, Ålgårdsvägen 15
+- location: Systembolaget Butik, Algårdsvägen 15
+  urn: urn:systembolaget:store:id:1513
   city: Borås
-  latitude: 57.73293
-  longitude: 12.93298
+  latitude: 57.732687
+  longitude: 12.932937
 
 - location: Systembolaget Butik, Linnégatan 47
+  urn: urn:systembolaget:store:id:1211
   city: Limhamn
   latitude: 55.58158
   longitude: 12.93305
 
 - location: Systembolaget Butik, Allégatan 16
+  urn: urn:systembolaget:store:id:1512
   city: Borås
-  latitude: 57.72322
-  longitude: 12.94056
+  latitude: 57.723062
+  longitude: 12.940437
+
+- location: Systembolaget Butik, Trandögatan 14
+  urn: urn:systembolaget:store:id:1524
+  city: Borås
+  latitude: 57.710938
+  longitude: 12.941313
 
 - location: Systembolaget Butik, Torggatan 15
+  urn: urn:systembolaget:store:id:1112
   city: Åstorp
   latitude: 56.13463
   longitude: 12.94732
 
 - location: Systembolaget Butik, Drottninggatan 10
+  urn: urn:systembolaget:store:id:1604
   city: Vara
   latitude: 58.26236
   longitude: 12.95529
 
-- location: Systembolaget Butik, Köpmansgatan 2
-  city: Oskarström
-  latitude: 56.8017
-  longitude: 12.97568
+- location: Systembolaget Butik, Kungstorpsvägen 10
+  urn: urn:systembolaget:store:id:1227
+  city: Höllviken
+  latitude: 55.426562
+  longitude: 12.965687
 
-- location: Systembolaget Butik, Regementsgatan 70
+- location: Systembolaget Butik, Hyllie Stationsväg 18
+  urn: urn:systembolaget:store:id:1214
   city: Malmö
-  latitude: 55.59849
-  longitude: 12.97923
+  latitude: 55.564687
+  longitude: 12.972563
 
-- location: Systembolaget Butik, Falkmansgatan 1
+- location: Systembolaget Butik, Masttorget 2
+  urn: urn:systembolaget:store:id:1213
   city: Malmö
-  latitude: 55.58878
-  longitude: 12.98391
+  latitude: 55.611312
+  longitude: 12.980562
 
-- location: Systembolaget Butik, Center Syd
+- location: Systembolaget Butik, Regementsgatan 52
+  urn: urn:systembolaget:store:id:1209
+  city: Malmö
+  latitude: 55.598687
+  longitude: 12.985437
+
+- location: Systembolaget Butik, Marknadsvägen 5
+  urn: urn:systembolaget:store:id:1250
   city: Löddeköpinge
-  latitude: 55.76946
-  longitude: 12.98918
+  latitude: 55.768438
+  longitude: 12.991188
 
-- location: Systembolaget Butik, S. Förstadsgatan 50 B
+- location: Systembolaget Butik, Södra Förstadsgatan 50 B
+  urn: urn:systembolaget:store:id:1207
   city: Malmö
   latitude: 55.59609
   longitude: 13.00263
 
-- location: Systembolaget Butik, Mobilia Per Albin Hanssons vägen 40
+- location: Systembolaget Butik, Malmborgsgatan 6
+  urn: urn:systembolaget:store:id:1208
   city: Malmö
-  latitude: 55.58088
-  longitude: 13.00318
+  latitude: 55.602937
+  longitude: 13.003937
 
-- location: Systembolaget Butik, Hansacompagniet Malmborgsgatan 6
+- location: Systembolaget Butik, Stadiongatan 3 D
+  urn: urn:systembolaget:store:id:1206
   city: Malmö
-  latitude: 55.6025
-  longitude: 13.00357
+  latitude: 55.579437
+  longitude: 13.004563
 
 - location: Systembolaget Butik, Nya Torget 3
+  urn: urn:systembolaget:store:id:1712
   city: Torsby
   latitude: 60.13543
   longitude: 13.00776
 
 - location: Systembolaget Butik, Järnvägsgatan 2 L
+  urn: urn:systembolaget:store:id:1226
   city: Vellinge
   latitude: 55.46976
   longitude: 13.02136
 
-- location: Systembolaget Butik, Ö. Förstadsgatan 50-52
+- location: Systembolaget Butik, Fredsgatan 14 B
+  urn: urn:systembolaget:store:id:1203
   city: Malmö
-  latitude: 55.6063
-  longitude: 13.02153
+  latitude: 55.607687
+  longitude: 13.024687
 
 - location: Systembolaget Butik, Storgatan 44
+  urn: urn:systembolaget:store:id:1523
   city: Herrljunga
   latitude: 58.07817
   longitude: 13.02533
 
 - location: Systembolaget Butik, Östertullsgatan 12
+  urn: urn:systembolaget:store:id:1305
   city: Laholm
   latitude: 56.51171
   longitude: 13.0441
 
-- location: Systembolaget Butik, Centrumhuset Strandvägen 96
-  city: Lomma
-  latitude: 55.67207
-  longitude: 13.06945
-
-- location: Systembolaget Butik, Jägersro Center
+- location: Systembolaget Butik, Jägersrovägen 151
+  urn: urn:systembolaget:store:id:1202
   city: Malmö
-  latitude: 55.56436
-  longitude: 13.07952
+  latitude: 55.570062
+  longitude: 13.058687
+
+- location: Systembolaget Butik, Seglaregatan 6
+  urn: urn:systembolaget:store:id:1219
+  city: Lomma
+  latitude: 55.673237
+  longitude: 13.069047
 
 - location: Systembolaget Butik, Burlövs Centrum
+  urn: urn:systembolaget:store:id:1221
   city: Arlöv
   latitude: 55.63903
   longitude: 13.0843
 
-- location: Systembolaget Butik, Årevägen 55
+- location: Systembolaget Butik, Årevägen 49
+  urn: urn:systembolaget:store:id:2310
   city: Åre
-  latitude: 63.39629
-  longitude: 13.08583
+  latitude: 63.395562
+  longitude: 13.087187
 
 - location: Systembolaget Butik, Herrevadsgatan 11 H
+  urn: urn:systembolaget:store:id:1249
   city: Svalöv
   latitude: 55.91301
   longitude: 13.10775
 
-- location: Systembolaget Butik, Mårtensgatan 15 A
+- location: Systembolaget Butik, Stenhuggaregatan 2
+  urn: urn:systembolaget:store:id:1256
   city: Kävlinge
-  latitude: 55.79099
-  longitude: 13.1103
+  latitude: 55.790813
+  longitude: 13.110188
 
 - location: Systembolaget Butik, Boråsvägen 2
+  urn: urn:systembolaget:store:id:1516
   city: Svenljunga
   latitude: 57.49669
   longitude: 13.11075
 
 - location: Systembolaget Butik, Sveagatan 99
+  urn: urn:systembolaget:store:id:1714
   city: Grums
   latitude: 59.35285
   longitude: 13.11247
 
 - location: Systembolaget Butik, Storgatan 23
+  urn: urn:systembolaget:store:id:1109
   city: Klippan
   latitude: 56.13553
   longitude: 13.13098
 
-- location: Systembolaget Butik, Älvgatan 40
+- location: Systembolaget Butik, Kvarngatan 13
+  urn: urn:systembolaget:store:id:1710
   city: Sunne
-  latitude: 59.83663
-  longitude: 13.14451
+  latitude: 59.836687
+  longitude: 13.145188
 
 - location: Systembolaget Butik, Götgatan 15
+  urn: urn:systembolaget:store:id:1602
   city: Lidköping
   latitude: 58.5026
   longitude: 13.1543
 
-- location: Systembolaget Butik, Algatan 26
+- location: Systembolaget Butik, Algatan 16
+  urn: urn:systembolaget:store:id:1225
   city: Trelleborg
-  latitude: 55.37447
-  longitude: 13.15698
+  latitude: 55.374313
+  longitude: 13.157937
+
+- location: Systembolaget Butik, Traktorvägen 4
+  urn: urn:systembolaget:store:id:1253
+  city: Lund
+  latitude: 55.717437
+  longitude: 13.162937
 
 - location: Systembolaget Butik, Bangatan 10
+  urn: urn:systembolaget:store:id:1254
   city: Lund
   latitude: 55.7049
   longitude: 13.18767
 
-- location: Systembolaget Butik, Tullgatan 13
+- location: Systembolaget Butik, Mårtenstorget 1
+  urn: urn:systembolaget:store:id:1255
   city: Lund
-  latitude: 55.69619
-  longitude: 13.19269
+  latitude: 55.701687
+  longitude: 13.195063
 
-- location: Systembolaget Butik, Mårtenstorget 5
-  city: Lund
-  latitude: 55.702
-  longitude: 13.1956
-
-- location: Systembolaget Butik, Bråhögsplatsen 2
+- location: Systembolaget Butik, Bråhögsplatsen 1 C
+  urn: urn:systembolaget:store:id:1232
   city: Staffanstorp
-  latitude: 55.64194
-  longitude: 13.20516
+  latitude: 55.642562
+  longitude: 13.205188
 
 - location: Systembolaget Butik, Storgatan 15
+  urn: urn:systembolaget:store:id:1224
   city: Svedala
   latitude: 55.5085
   longitude: 13.23639
 
-- location: Systembolaget Butik, Storgatan 10
+- location: Systembolaget Butik, Storgatan 10 B
+  urn: urn:systembolaget:store:id:1304
   city: Hyltebruk
   latitude: 56.99639
   longitude: 13.2379
 
 - location: Systembolaget Butik, Centrumhuset
+  urn: urn:systembolaget:store:id:2010
   city: Sälen
   latitude: 61.15565
   longitude: 13.26859
 
-- location: Systembolaget Butik, Stockholmsvägen 5
+- location: Systembolaget Butik, Terrassen 1 B
+  urn: urn:systembolaget:store:id:1113
   city: Örkelljunga
-  latitude: 56.28338
-  longitude: 13.27894
+  latitude: 56.283437
+  longitude: 13.279063
 
-- location: Systembolaget Butik, Södergatan 14
+- location: Systembolaget Butik, Norregatan 6
+  urn: urn:systembolaget:store:id:1257
   city: Eslöv
-  latitude: 55.83743
-  longitude: 13.30302
+  latitude: 55.840438
+  longitude: 13.303937
 
 - location: Systembolaget Butik, Storgatan 16 B
+  urn: urn:systembolaget:store:id:1704
   city: Kil
   latitude: 59.5047
   longitude: 13.32293
 
-- location: Systembolaget Butik, Kristers vägen 3
+- location: Systembolaget Butik, Kristers Väg 3
+  urn: urn:systembolaget:store:id:1220
   city: Dalby
   latitude: 55.66436
   longitude: 13.34893
 
 - location: Systembolaget Butik, Storgatan 25
+  urn: urn:systembolaget:store:id:1515
   city: Tranemo
   latitude: 57.48348
   longitude: 13.35091
 
-- location: Systembolaget Butik, Köpmangatan 11
+- location: Systembolaget Butik, Köpmangatan 14 F
+  urn: urn:systembolaget:store:id:1110
   city: Perstorp
-  latitude: 56.13723
-  longitude: 13.39488
+  latitude: 56.138413
+  longitude: 13.394141
 
-- location: Systembolaget Butik, Boråsvägen 2
+- location: Systembolaget Butik, Järngatan 12 A
+  urn: urn:systembolaget:store:id:1517
   city: Ulricehamn
-  latitude: 57.79609
-  longitude: 13.41411
+  latitude: 57.792363
+  longitude: 13.412266
 
-- location: Systembolaget Butik, Frykmans vägen 1
+- location: Systembolaget Butik, Frykmans Väg 1
+  urn: urn:systembolaget:store:id:1702
   city: Karlstad
   latitude: 59.37917
   longitude: 13.42325
 
 - location: Systembolaget Butik, Marumsgatan 15
+  urn: urn:systembolaget:store:id:1605
   city: Skara
   latitude: 58.38468
   longitude: 13.43498
 
 - location: Systembolaget Butik, Gastkullevägen 1 A
+  urn: urn:systembolaget:store:id:2307
   city: Järpen
   latitude: 63.34664
   longitude: 13.46077
 
 - location: Systembolaget Butik, Åråsvägen 5
+  urn: urn:systembolaget:store:id:1716
   city: Skoghall
   latitude: 59.32792
   longitude: 13.46626
 
 - location: Systembolaget Butik, Järnvägsgatan 24
+  urn: urn:systembolaget:store:id:1703
   city: Forshaga
   latitude: 59.53043
   longitude: 13.48013
 
 - location: Systembolaget Butik, Järnvägsgatan 6 E
+  urn: urn:systembolaget:store:id:1611
   city: Götene
   latitude: 58.52782
   longitude: 13.49253
 
-- location: Systembolaget Butik, Södergatan 2
-  city: Skurup
-  latitude: 55.46796
-  longitude: 13.49396
-
-- location: Systembolaget Butik, Drottninggatan 26-28
+- location: Systembolaget Butik, Järnvägsgatan 2
+  urn: urn:systembolaget:store:id:1701
   city: Karlstad
-  latitude: 59.37927
-  longitude: 13.49854
+  latitude: 59.378687
+  longitude: 13.499688
+
+- location: Systembolaget Butik, Stora Torggatan 8
+  urn: urn:systembolaget:store:id:1222
+  city: Skurup
+  latitude: 55.478813
+  longitude: 13.500937
 
 - location: Systembolaget Butik, Nya Torg 10
+  urn: urn:systembolaget:store:id:1258
   city: Höör
   latitude: 55.93493
   longitude: 13.5388
 
 - location: Systembolaget Butik, Köpmangatan 4
+  urn: urn:systembolaget:store:id:0611
   city: Gislaved
   latitude: 57.3025
   longitude: 13.53888
 
-- location: Systembolaget Butik, Tallbacksvägen 21
+- location: Systembolaget Butik, Tallbacksvägen 21 B
+  urn: urn:systembolaget:store:id:1711
   city: Munkfors
   latitude: 59.83533
   longitude: 13.54536
 
-- location: Systembolaget Butik, St. Torget 17
+- location: Systembolaget Butik, Stora Torget 17
+  urn: urn:systembolaget:store:id:1609
   city: Falköping
   latitude: 58.16096
   longitude: 13.55312
 
+- location: Systembolaget Butik, Rävbergsvägen 17
+  urn: urn:systembolaget:store:id:1718
+  city: Karlstad
+  latitude: 59.396062
+  longitude: 13.579688
+
 - location: Systembolaget Butik, Drottninggatan 32
+  urn: urn:systembolaget:store:id:0705
   city: Markaryd
   latitude: 56.46396
   longitude: 13.59758
 
 - location: Systembolaget Butik, Nya Torg 8
+  urn: urn:systembolaget:store:id:1259
   city: Hörby
   latitude: 55.85185
   longitude: 13.6612
 
 - location: Systembolaget Butik, Storgatan 7
+  urn: urn:systembolaget:store:id:1707
   city: Hagfors
   latitude: 60.03663
   longitude: 13.69378
 
 - location: Systembolaget Butik, Östergatan 10
+  urn: urn:systembolaget:store:id:1231
   city: Sjöbo
   latitude: 55.63013
   longitude: 13.70915
 
 - location: Systembolaget Butik, Grönlandsvägen 35
+  urn: urn:systembolaget:store:id:2008
   city: Malung
   latitude: 60.68298
   longitude: 13.71368
 
 - location: Systembolaget Butik, Köpmansgatan 2
+  urn: urn:systembolaget:store:id:0615
   city: Gnosjö
   latitude: 57.35905
   longitude: 13.73305
 
-- location: Systembolaget Butik, Andra Avenyen 9
+- location: Systembolaget Butik, Borggårdsgatan 1
+  urn: urn:systembolaget:store:id:1106
   city: Hässleholm
-  latitude: 56.15635
-  longitude: 13.76519
+  latitude: 56.154812
+  longitude: 13.759937
 
-- location: Systembolaget Butik, St. Östergatan 13
+- location: Systembolaget Butik, Stora Östergatan 13
+  urn: urn:systembolaget:store:id:1230
   city: Ystad
   latitude: 55.43013
   longitude: 13.8226
 
 - location: Systembolaget Butik, Stockholmsvägen 3
+  urn: urn:systembolaget:store:id:1601
   city: Mariestad
   latitude: 58.7097
   longitude: 13.82588
 
 - location: Systembolaget Butik, Hertig Johans Torg 4
+  urn: urn:systembolaget:store:id:1606
   city: Skövde
   latitude: 58.38978
   longitude: 13.84513
 
+- location: Systembolaget Butik, Nolhagavägen 1
+  urn: urn:systembolaget:store:id:1617
+  city: Skövde
+  latitude: 58.407812
+  longitude: 13.856938
+
 - location: Systembolaget Butik, Järnvägsgatan 29
+  urn: urn:systembolaget:store:id:0616
   city: Mullsjö
   latitude: 57.91531
   longitude: 13.88465
 
 - location: Systembolaget Butik, Eskilsgatan 7
+  urn: urn:systembolaget:store:id:0702
   city: Ljungby
   latitude: 56.83473
   longitude: 13.94107
 
 - location: Systembolaget Butik, Centralgatan 4
+  urn: urn:systembolaget:store:id:1105
   city: Tomelilla
   latitude: 55.54364
   longitude: 13.95328
 
-- location: Systembolaget Butik, Nya Torget 4
+- location: Systembolaget Butik, Gamla Torget 8
+  urn: urn:systembolaget:store:id:1608
   city: Tidaholm
-  latitude: 58.18198
-  longitude: 13.95708
+  latitude: 58.180738
+  longitude: 13.957453
 
-- location: Systembolaget Butik, vägen Järnvägsgatan 18
+- location: Systembolaget Butik, Västra Järnvägsgatan 18
+  urn: urn:systembolaget:store:id:1111
   city: Osby
   latitude: 56.38168
   longitude: 13.99463
 
-- location: Systembolaget Butik, Furuvägen 3
+- location: Systembolaget Butik, Dalgatan 81 H
+  urn: urn:systembolaget:store:id:2013
   city: Älvdalen
-  latitude: 61.23153
-  longitude: 14.03929
+  latitude: 61.229687
+  longitude: 14.036938
 
 - location: Systembolaget Butik, Flanaden
+  urn: urn:systembolaget:store:id:0605
   city: Värnamo
   latitude: 57.18338
   longitude: 14.04086
 
-- location: Systembolaget Butik, Jönköpingsvägen 7
+- location: Systembolaget Butik, Jönkpingsvägen 7 B
+  urn: urn:systembolaget:store:id:0604
   city: Habo
   latitude: 57.9085
   longitude: 14.07449
 
-- location: Systembolaget Butik, Ö. Järnvägsgatan 7
+- location: Systembolaget Butik, Östra Järnvägsgatan 7
+  urn: urn:systembolaget:store:id:1115
   city: Broby
   latitude: 56.25345
   longitude: 14.07513
 
 - location: Systembolaget Butik, Storgatan 9
+  urn: urn:systembolaget:store:id:1613
   city: Gullspång
   latitude: 58.98718
   longitude: 14.09074
 
 - location: Systembolaget Butik, Centralplan 1
+  urn: urn:systembolaget:store:id:0618
   city: Skillingaryd
   latitude: 57.42832
   longitude: 14.09196
 
 - location: Systembolaget Butik, Kungsgatan 43
+  urn: urn:systembolaget:store:id:1709
   city: Kristinehamn
   latitude: 59.3079
   longitude: 14.10873
 
 - location: Systembolaget Butik, Kyrkogatan 24
+  urn: urn:systembolaget:store:id:1612
   city: Töreboda
   latitude: 58.7096
   longitude: 14.12564
 
-- location: Systembolaget Butik, N. Esplanaden 6
+- location: Systembolaget Butik, Norra Esplanaden 6
+  urn: urn:systembolaget:store:id:0703
   city: Älmhult
   latitude: 56.55265
   longitude: 14.14144
 
-- location: Systembolaget Butik, Ö. Boulevarden 5
+- location: Systembolaget Butik, Östra Boulevarden 3
+  urn: urn:systembolaget:store:id:1101
   city: Kristianstad
-  latitude: 56.02962
-  longitude: 14.15877
+  latitude: 56.030938
+  longitude: 14.158188
 
-- location: Systembolaget Butik, Trädgårdsgatan 7
-  city: Jönköping
-  latitude: 57.78278
-  longitude: 14.16174
-
-- location: Systembolaget Butik, Stora Torget 8
+- location: Systembolaget Butik, Centrumgatan 6
+  urn: urn:systembolaget:store:id:1614
   city: Tibro
-  latitude: 58.42512
-  longitude: 14.16335
+  latitude: 58.425187
+  longitude: 14.164188
 
 - location: Systembolaget Butik, Viktoriagatan 3
+  urn: urn:systembolaget:store:id:1708
   city: Filipstad
   latitude: 59.71281
   longitude: 14.17058
 
-- location: Systembolaget Butik, Kompanigatan 16-18 A6
+- location: Systembolaget Butik, Fiskargränd 5
+  urn: urn:systembolaget:store:id:0602
   city: Jönköping
-  latitude: 57.77507
-  longitude: 14.20479
+  latitude: 57.780438
+  longitude: 14.172062
 
-- location: Systembolaget Butik, Allégatan 25
+- location: Systembolaget Butik, Bataljonsgatan 5
+  urn: urn:systembolaget:store:id:0601
+  city: Jönköping
+  latitude: 57.772063
+  longitude: 14.205813
+
+- location: Systembolaget Butik, Norra Allégatan 25
+  urn: urn:systembolaget:store:id:2011
   city: Vansbro
-  latitude: 60.51141
-  longitude: 14.22338
+  latitude: 60.511488
+  longitude: 14.223453
+
+- location: Systembolaget Butik, Djupadalsgatan 12
+  urn: urn:systembolaget:store:id:1717
+  city: Storfors
+  latitude: 59.531188
+  longitude: 14.272562
 
 - location: Systembolaget Butik, Rosenborgsgatan 33
+  urn: urn:systembolaget:store:id:0606
   city: Huskvarna
   latitude: 57.78948
   longitude: 14.27409
 
 - location: Systembolaget Butik, Hamngatan 18
+  urn: urn:systembolaget:store:id:1607
   city: Hjo
   latitude: 58.3037
   longitude: 14.29123
 
-- location: Systembolaget Butik, Köpmannagatan 23
+- location: Systembolaget Butik, Vallgatan 30
+  urn: urn:systembolaget:store:id:1103
   city: Åhus
-  latitude: 55.92632
-  longitude: 14.30178
+  latitude: 55.928687
+  longitude: 14.294688
 
-- location: Systembolaget Butik, St. Rådmansgatan 5
+- location: Systembolaget Butik, Stora Rådmansgatan 5
+  urn: urn:systembolaget:store:id:1104
   city: Simrishamn
   latitude: 55.55725
   longitude: 14.34843
 
 - location: Systembolaget Butik, Fjällvägen 5
+  urn: urn:systembolaget:store:id:2305
   city: Sveg
   latitude: 62.03263
   longitude: 14.3584
 
-- location: Systembolaget Butik, Industrivägen 8
-  city: Gagnef
-  latitude: 60.54674
-  longitude: 14.36362
+- location: Systembolaget Butik, Centrumvägen 3 B
+  urn: urn:systembolaget:store:id:2309
+  city: Svenstavik
+  latitude: 62.767937
+  longitude: 14.432313
+
+- location: Systembolaget Butik, Herrgårdsgatan 12
+  urn: urn:systembolaget:store:id:1808
+  city: Degerfors
+  latitude: 59.238312
+  longitude: 14.432562
 
 - location: Systembolaget Butik, Genvägen 8
+  urn: urn:systembolaget:store:id:2311
   city: Krokom
   latitude: 63.32692
   longitude: 14.4517
 
-- location: Systembolaget Butik, Ribbagårdsgr. 2
+- location: Systembolaget Butik, Storgatan 35
+  urn: urn:systembolaget:store:id:1114
+  city: Bromölla
+  latitude: 56.074313
+  longitude: 14.466687
+
+- location: Systembolaget Butik, Ribbagårdsgränd 2
+  urn: urn:systembolaget:store:id:0619
   city: Gränna
   latitude: 58.02242
   longitude: 14.46699
 
 - location: Systembolaget Butik, Storgatan 9
+  urn: urn:systembolaget:store:id:1610
   city: Karlsborg
   latitude: 58.52912
   longitude: 14.51152
 
-- location: Systembolaget Butik, Ö. Storgatan 34
+- location: Systembolaget Butik, Sikforsvägen 26-28
+  urn: urn:systembolaget:store:id:1812
+  city: Hällefors
+  latitude: 59.783687
+  longitude: 14.520188
+
+- location: Systembolaget Butik, Centrumleden 25
+  urn: urn:systembolaget:store:id:1809
+  city: Karlskoga
+  latitude: 59.325688
+  longitude: 14.524188
+
+- location: Systembolaget Butik, Östra Storgatan 34
+  urn: urn:systembolaget:store:id:1006
   city: Olofström
   latitude: 56.27787
   longitude: 14.52917
 
-- location: Systembolaget Butik, Kyrkogatan 3
+- location: Systembolaget Butik, Kyrkogatan 19
+  urn: urn:systembolaget:store:id:2007
   city: Mora
-  latitude: 61.0039
-  longitude: 14.53695
+  latitude: 61.004438
+  longitude: 14.538563
 
 - location: Systembolaget Butik, Storgatan 14
+  urn: urn:systembolaget:store:id:0704
   city: Alvesta
   latitude: 56.89949
   longitude: 14.55576
 
-- location: Systembolaget Butik, Köpmansgatan 6 C
+- location: Systembolaget Butik, Järnvägsgatan 5
+  urn: urn:systembolaget:store:id:1005
   city: Sölvesborg
-  latitude: 56.05265
-  longitude: 14.58302
+  latitude: 56.049563
+  longitude: 14.582438
 
 - location: Systembolaget Butik, Centralgatan 2
+  urn: urn:systembolaget:store:id:2015
   city: Orsa
   latitude: 61.11901
   longitude: 14.61863
 
+- location: Systembolaget Butik, Centrumtorget 19
+  urn: urn:systembolaget:store:id:1813
+  city: Laxå
+  latitude: 58.985687
+  longitude: 14.619813
+
 - location: Systembolaget Butik, Kyrkgatan 66
+  urn: urn:systembolaget:store:id:2301
   city: Östersund
   latitude: 63.17587
   longitude: 14.63859
 
 - location: Systembolaget Butik, Riddaregatan 1
+  urn: urn:systembolaget:store:id:0522
   city: Ödeshög
   latitude: 58.22942
   longitude: 14.65296
 
 - location: Systembolaget Butik, Storgatan 5
+  urn: urn:systembolaget:store:id:0612
   city: Sävsjö
   latitude: 57.4004
   longitude: 14.66931
 
-- location: Systembolaget Butik, Lillänge
+- location: Systembolaget Butik, Hagvägen 11
+  urn: urn:systembolaget:store:id:2302
   city: Östersund
-  latitude: 63.17447
-  longitude: 14.69417
+  latitude: 63.171063
+  longitude: 14.691313
 
 - location: Systembolaget Butik, Storgatan 34
+  urn: urn:systembolaget:store:id:0607
   city: Nässjö
   latitude: 57.65415
   longitude: 14.69452
 
-- location: Systembolaget Butik, Samarkand
+- location: Systembolaget Butik, Hejaregatan 22
+  urn: urn:systembolaget:store:id:0707
   city: Växjö
-  latitude: 56.88538
-  longitude: 14.76341
+  latitude: 56.885063
+  longitude: 14.763312
 
-- location: Systembolaget Butik, Klostergatan 12-14
+- location: Systembolaget Butik, Storgatan 40
+  urn: urn:systembolaget:store:id:0701
   city: Växjö
-  latitude: 56.87967
-  longitude: 14.80739
+  latitude: 56.879188
+  longitude: 14.800187
 
 - location: Systembolaget Butik, Köpmansgatan 6
+  urn: urn:systembolaget:store:id:0613
   city: Aneby
   latitude: 57.83883
   longitude: 14.81518
 
-- location: Systembolaget Butik, Drottninggatan 71
+- location: Systembolaget Butik, Deltavägen 4
+  urn: urn:systembolaget:store:id:0710
+  city: Växjö
+  latitude: 56.902812
+  longitude: 14.831938
+
+- location: Systembolaget Butik, Drottninggatan 71 B
+  urn: urn:systembolaget:store:id:1004
   city: Karlshamn
   latitude: 56.17257
   longitude: 14.86041
 
+- location: Systembolaget Butik, Stickspåret 2 B
+  urn: urn:systembolaget:store:id:1815
+  city: Fjugesta
+  latitude: 59.174188
+  longitude: 14.872016
+
 - location: Systembolaget Butik, Hovsgatan 4
+  urn: urn:systembolaget:store:id:0509
   city: Vadstena
   latitude: 58.44724
   longitude: 14.88892
 
-- location: Systembolaget Butik, S. Storgatan 4
+- location: Systembolaget Butik, Väderkvarnsgatan 15
+  urn: urn:systembolaget:store:id:1807
+  city: Askersund
+  latitude: 58.879188
+  longitude: 14.903313
+
+- location: Systembolaget Butik, Södra Storgatan 4 C
+  urn: urn:systembolaget:store:id:0609
   city: Eksjö
   latitude: 57.66526
   longitude: 14.97301
 
 - location: Systembolaget Butik, Storgatan 23
+  urn: urn:systembolaget:store:id:0610
   city: Tranås
   latitude: 58.03383
   longitude: 14.97454
 
 - location: Systembolaget Butik, Storgatan 74
+  urn: urn:systembolaget:store:id:0706
   city: Tingsryd
   latitude: 56.52452
   longitude: 14.97963
 
-- location: Systembolaget Butik, Norsgatan 21
+- location: Systembolaget Butik, Gruvfogdegatan 1
+  urn: urn:systembolaget:store:id:1814
+  city: Kopparberg
+  latitude: 59.875687
+  longitude: 14.992687
+
+- location: Systembolaget Butik, Norsgatan 26
+  urn: urn:systembolaget:store:id:2009
   city: Leksand
-  latitude: 60.73023
-  longitude: 14.99822
+  latitude: 60.730312
+  longitude: 14.999063
 
 - location: Systembolaget Butik, Kungsgatan 20
+  urn: urn:systembolaget:store:id:0510
   city: Motala
   latitude: 58.53723
   longitude: 15.03272
 
+- location: Systembolaget Butik, Storgatan 11
+  urn: urn:systembolaget:store:id:1810
+  city: Nora
+  latitude: 59.518937
+  longitude: 15.038563
+
 - location: Systembolaget Butik, Postgatan 5 C
+  urn: urn:systembolaget:store:id:0524
   city: Boxholm
   latitude: 58.19679
   longitude: 15.05592
 
+- location: Systembolaget Butik, Blå-vägen 35
+  urn: urn:systembolaget:store:id:2419
+  city: Hemavan
+  latitude: 65.818938
+  longitude: 15.084312
+
 - location: Systembolaget Butik, Biblioteksgatan 8
+  urn: urn:systembolaget:store:id:0608
   city: Vetlanda
   latitude: 57.42502
   longitude: 15.0846
 
+- location: Systembolaget Butik, Stortorget 4
+  urn: urn:systembolaget:store:id:1805
+  city: Hallsberg
+  latitude: 59.065938
+  longitude: 15.110812
+
 - location: Systembolaget Butik, Storgatan 10
+  urn: urn:systembolaget:store:id:2012
   city: Rättvik
   latitude: 60.88378
   longitude: 15.1185
 
 - location: Systembolaget Butik, Jerikodalsgatan 1-3
+  urn: urn:systembolaget:store:id:0507
   city: Mjölby
   latitude: 58.32582
   longitude: 15.1263
 
+- location: Systembolaget Butik, Industrivägen 8
+  urn: urn:systembolaget:store:id:2016
+  city: Djurås
+  latitude: 60.560812
+  longitude: 15.131813
+
+- location: Systembolaget Butik, Säljarevägen 3
+  urn: urn:systembolaget:store:id:1802
+  city: Örebro
+  latitude: 59.218312
+  longitude: 15.138687
+
+- location: Systembolaget Butik, Köpmangatan 22
+  urn: urn:systembolaget:store:id:1806
+  city: Kumla
+  latitude: 59.125937
+  longitude: 15.143187
+
 - location: Systembolaget Butik, Fredsgatan 15
+  urn: urn:systembolaget:store:id:2006
   city: Ludvika
   latitude: 60.14794
   longitude: 15.18569
 
+- location: Systembolaget Butik, Prologgatan 8
+  urn: urn:systembolaget:store:id:1803
+  city: Örebro
+  latitude: 59.294812
+  longitude: 15.198688
+
+- location: Systembolaget Butik, Kungsgatan 11
+  urn: urn:systembolaget:store:id:1801
+  city: Örebro
+  latitude: 59.270812
+  longitude: 15.214437
+
+- location: Systembolaget Butik, Kristinavägen 41
+  urn: urn:systembolaget:store:id:1811
+  city: Lindesberg
+  latitude: 59.594437
+  longitude: 15.226063
+
+- location: Systembolaget Butik, Sörbyängsvägen 26
+  urn: urn:systembolaget:store:id:1804
+  city: Örebro
+  latitude: 59.252562
+  longitude: 15.231063
+
 - location: Systembolaget Butik, Storgatan 71
+  urn: urn:systembolaget:store:id:0709
   city: Lessebo
   latitude: 56.75175
   longitude: 15.2697
 
 - location: Systembolaget Butik, Strandgatan 4
+  urn: urn:systembolaget:store:id:1003
   city: Ronneby
   latitude: 56.21011
   longitude: 15.27535
 
+- location: Systembolaget Butik, Hagagatan 1 A
+  urn: urn:systembolaget:store:id:0523
+  city: Ydre
+  latitude: 57.824438
+  longitude: 15.276563
+
 - location: Systembolaget Butik, Olofsgatan 10
+  urn: urn:systembolaget:store:id:0708
   city: Åseda
   latitude: 57.17167
   longitude: 15.34407
 
 - location: Systembolaget Butik, Johan Ahlbäcks Plats 4
+  urn: urn:systembolaget:store:id:2014
   city: Smedjebacken
   latitude: 60.14204
   longitude: 15.4136
 
-- location: Systembolaget Butik, Riksvägen 25
-  city: Bräcke
-  latitude: 62.73863
-  longitude: 15.42934
+- location: Systembolaget Butik, Norra Backagatan 5 A
+  urn: urn:systembolaget:store:id:2002
+  city: Borlänge
+  latitude: 60.478437
+  longitude: 15.418812
 
-- location: Systembolaget Butik, Sveagatan 9-11
+- location: Systembolaget Butik, Riksvägen 39
+  urn: urn:systembolaget:store:id:2304
+  city: Bräcke
+  latitude: 62.749063
+  longitude: 15.419812
+
+- location: Systembolaget Butik, Sveagatan 9
+  urn: urn:systembolaget:store:id:2003
   city: Borlänge
   latitude: 60.48688
   longitude: 15.43274
 
 - location: Systembolaget Butik, Hantverkaregatan 7
+  urn: urn:systembolaget:store:id:0813
   city: Emmaboda
   latitude: 56.63063
   longitude: 15.53905
 
 - location: Systembolaget Butik, Storgatan 6
+  urn: urn:systembolaget:store:id:2306
   city: Strömsund
   latitude: 63.85145
   longitude: 15.5583
 
 - location: Systembolaget Butik, Arklimästaregatan 46
+  urn: urn:systembolaget:store:id:1001
   city: Karlskrona
   latitude: 56.16146
   longitude: 15.58128
 
-- location: Systembolaget Butik, Skäggetorps Centrum 3
+- location: Systembolaget Butik, Åsmestadsgatan 6
+  urn: urn:systembolaget:store:id:0525
   city: Linköping
-  latitude: 58.42732
-  longitude: 15.58536
+  latitude: 58.386437
+  longitude: 15.588687
 
-- location: Systembolaget Butik, Gyllentorget
+- location: Systembolaget Butik, Norra Svedengatan 9
+  urn: urn:systembolaget:store:id:0504
   city: Linköping
-  latitude: 58.4097
-  longitude: 15.62637
+  latitude: 58.435187
+  longitude: 15.589063
+
+- location: Systembolaget Butik, Repslagaregatan 25-27
+  urn: urn:systembolaget:store:id:0505
+  city: Linköping
+  latitude: 58.410562
+  longitude: 15.627187
+
+- location: Systembolaget Butik, Falugatan 2
+  urn: urn:systembolaget:store:id:2001
+  city: Falun
+  latitude: 60.606687
+  longitude: 15.629437
 
 - location: Systembolaget Butik, Torggatan 3
+  urn: urn:systembolaget:store:id:0521
   city: Kisa
   latitude: 57.98878
   longitude: 15.63295
 
-- location: Systembolaget Butik, Åsgatan 19
-  city: Falun
-  latitude: 60.6058
-  longitude: 15.63377
-
-- location: Systembolaget Butik, Verkövägen 9
-  city: Karlskrona
-  latitude: 56.19519
-  longitude: 15.6399
+- location: Systembolaget Butik, Verkovägen 9
+  urn: urn:systembolaget:store:id:1002
+  city: Lyckeby
+  latitude: 56.196438
+  longitude: 15.642188
 
 - location: Systembolaget Butik, Järnvägsgatan 7
+  urn: urn:systembolaget:store:id:2209
   city: Ånge
   latitude: 62.52542
   longitude: 15.64958
 
 - location: Systembolaget Butik, Ekholmens Centrum
+  urn: urn:systembolaget:store:id:0501
   city: Linköping
-  latitude: 58.37997
-  longitude: 15.68052
+  latitude: 58.380063
+  longitude: 15.681563
 
 - location: Systembolaget Butik, Centralvägen 7
+  urn: urn:systembolaget:store:id:1913
   city: Skinnskatteberg
   latitude: 59.83033
   longitude: 15.69334
 
 - location: Systembolaget Butik, Gränsgatan 3
+  urn: urn:systembolaget:store:id:2017
   city: Säter
   latitude: 60.34424
   longitude: 15.74785
 
 - location: Systembolaget Butik, Bergslagsvägen 9
+  urn: urn:systembolaget:store:id:0520
   city: Finspång
   latitude: 58.7076
   longitude: 15.77465
 
 - location: Systembolaget Butik, Järntorget 1
+  urn: urn:systembolaget:store:id:1908
   city: Fagersta
   latitude: 60.0041
   longitude: 15.7903
 
-- location: Systembolaget Butik, Långgatan 15
+- location: Systembolaget Butik, Långgatan 17
+  urn: urn:systembolaget:store:id:2110
   city: Edsbyn
-  latitude: 61.37697
-  longitude: 15.81744
+  latitude: 61.375937
+  longitude: 15.817438
 
 - location: Systembolaget Butik, Nygatan 27
+  urn: urn:systembolaget:store:id:1906
   city: Arboga
   latitude: 59.39499
   longitude: 15.84057
 
 - location: Systembolaget Butik, Bryggerigatan 3
+  urn: urn:systembolaget:store:id:0812
   city: Hultsfred
   latitude: 57.48778
   longitude: 15.84231
 
 - location: Systembolaget Butik, Sevedegatan 25 B
+  urn: urn:systembolaget:store:id:0810
   city: Vimmerby
   latitude: 57.66636
   longitude: 15.85239
 
-- location: Systembolaget Butik, Storgatan 11
+- location: Systembolaget Butik, Storgatan 18-20
+  urn: urn:systembolaget:store:id:0412
   city: Vingåker
-  latitude: 59.04264
-  longitude: 15.87091
+  latitude: 59.044937
+  longitude: 15.872563
 
 - location: Systembolaget Butik, Bangatan 9
+  urn: urn:systembolaget:store:id:0811
   city: Nybro
   latitude: 56.74234
   longitude: 15.9051
 
 - location: Systembolaget Butik, Malmgatan 18
+  urn: urn:systembolaget:store:id:1912
   city: Norberg
   latitude: 60.06416
   longitude: 15.92674
 
-- location: Systembolaget Butik, Hökargatan 4
+- location: Systembolaget Butik, Åsgatan 64
+  urn: urn:systembolaget:store:id:2004
   city: Hedemora
-  latitude: 60.27777
-  longitude: 15.98687
+  latitude: 60.277812
+  longitude: 15.984938
 
-- location: Systembolaget Butik, Stora gatan 17
+- location: Systembolaget Butik, Stora Gatan 17
+  urn: urn:systembolaget:store:id:1907
   city: Köping
   latitude: 59.51351
   longitude: 15.99784
 
-- location: Systembolaget Butik, Adelswärdsgatan 4
+- location: Systembolaget Butik, Adelswärdsgatan 4 C
+  urn: urn:systembolaget:store:id:0506
   city: Åtvidaberg
   latitude: 58.2019
   longitude: 15.99835
 
 - location: Systembolaget Butik, Allfargatan 9
+  urn: urn:systembolaget:store:id:0814
   city: Torsås
   latitude: 56.41231
   longitude: 16.00029
 
 - location: Systembolaget Butik, Posttorget
+  urn: urn:systembolaget:store:id:0815
   city: Högsby
   latitude: 57.16636
   longitude: 16.0258
 
-- location: Systembolaget Butik, Drottninggatan 14
+- location: Systembolaget Butik, Drottninggatan 15
+  urn: urn:systembolaget:store:id:1905
   city: Kungsör
-  latitude: 59.42482
-  longitude: 16.09365
+  latitude: 59.423313
+  longitude: 16.096938
 
-- location: Systembolaget Butik, N. Järnvägsgatan 45
+- location: Systembolaget Butik, Norra Järnvägsgatan 45
+  urn: urn:systembolaget:store:id:2109
   city: Ljusdal
   latitude: 61.82682
   longitude: 16.09832
 
-- location: Systembolaget Butik, Ingelsta
+- location: Systembolaget Butik, Blygatan 27
+  urn: urn:systembolaget:store:id:0517
   city: Norrköping
-  latitude: 58.61471
-  longitude: 16.16402
+  latitude: 58.615938
+  longitude: 16.161687
 
-- location: Systembolaget Butik, Markustorget 1
+- location: Systembolaget Butik, Kromgatan 1
+  urn: urn:systembolaget:store:id:0511
+  city: Norrköping
+  latitude: 58.612313
+  longitude: 16.163312
+
+- location: Systembolaget Butik, Kungsgatan 13
+  urn: urn:systembolaget:store:id:2005
   city: Avesta
-  latitude: 60.14574
-  longitude: 16.16689
+  latitude: 60.145063
+  longitude: 16.171937
 
-- location: Systembolaget Butik, Drottninggatan 50
+- location: Systembolaget Butik, Hantverkaregatan 26
+  urn: urn:systembolaget:store:id:0513
   city: Norrköping
-  latitude: 58.58778
-  longitude: 16.18847
-
-- location: Systembolaget Butik, Hospitalsgatan 26
-  city: Norrköping
-  latitude: 58.59139
-  longitude: 16.1912
+  latitude: 58.587187
+  longitude: 16.191187
 
 - location: Systembolaget Butik, Köpmangatan 9
+  urn: urn:systembolaget:store:id:0406
   city: Katrineholm
   latitude: 58.99549
   longitude: 16.20718
 
-- location: Systembolaget Butik, Hageby Centrum
+- location: Systembolaget Butik, Mirum Galleria
+  urn: urn:systembolaget:store:id:0516
   city: Norrköping
-  latitude: 58.57267
-  longitude: 16.21158
+  latitude: 58.572812
+  longitude: 16.209437
 
 - location: Systembolaget Butik, Köpmangatan 27-29
+  urn: urn:systembolaget:store:id:1911
   city: Surahammar
   latitude: 59.708
   longitude: 16.22171
 
 - location: Systembolaget Butik, Hammartorget 5 B
+  urn: urn:systembolaget:store:id:1910
   city: Hallstahammar
   latitude: 59.61451
   longitude: 16.22725
 
-- location: Systembolaget Butik, Centralgatan 20
+- location: Systembolaget Butik, Skolgatan 16
+  urn: urn:systembolaget:store:id:2108
   city: Hofors
-  latitude: 60.54704
-  longitude: 16.2869
+  latitude: 60.546188
+  longitude: 16.285562
 
 - location: Systembolaget Butik, Rådhustorget 2
+  urn: urn:systembolaget:store:id:0518
   city: Söderköping
   latitude: 58.48198
   longitude: 16.32072
 
-- location: Systembolaget Butik, Giraffen
+- location: Systembolaget Butik, Verkstadsgatan 6 D
+  urn: urn:systembolaget:store:id:0801
   city: Kalmar
-  latitude: 56.66956
-  longitude: 16.33767
+  latitude: 56.670437
+  longitude: 16.336312
 
 - location: Systembolaget Butik, Centralgatan 12
+  urn: urn:systembolaget:store:id:2308
   city: Hammarstrand
   latitude: 63.1097
   longitude: 16.35439
 
-- location: Systembolaget Butik, N. Långgatan 23-25
+- location: Systembolaget Butik, Norra Långgatan 23-25
+  urn: urn:systembolaget:store:id:0802
   city: Kalmar
-  latitude: 56.66426
-  longitude: 16.36372
-
-- location: Systembolaget Butik, Köpmangatan 17
-  city: Mörbylånga
-  latitude: 56.52632
-  longitude: 16.37823
+  latitude: 56.664187
+  longitude: 16.363687
 
 - location: Systembolaget Butik, Långgatan 10
+  urn: urn:systembolaget:store:id:2105
   city: Bollnäs
   latitude: 61.34714
   longitude: 16.39299
 
 - location: Systembolaget Butik, Bondevägen 4
+  urn: urn:systembolaget:store:id:0816
   city: Gamleby
   latitude: 57.89869
   longitude: 16.40146
 
 - location: Systembolaget Butik, Parkvägen 1
+  urn: urn:systembolaget:store:id:2412
   city: Dorotea
   latitude: 64.26206
   longitude: 16.41573
 
-- location: Systembolaget Butik, Torggatan 6
+- location: Systembolaget Butik, Åsevadsgatan 3
+  urn: urn:systembolaget:store:id:0807
   city: Mönsterås
-  latitude: 57.04434
-  longitude: 16.44472
+  latitude: 57.041812
+  longitude: 16.443188
 
 - location: Systembolaget Butik, Postmästaregatan 16
+  urn: urn:systembolaget:store:id:0808
   city: Oskarshamn
   latitude: 57.26416
   longitude: 16.44514
 
-- location: Systembolaget Butik, Löpkranegatan 3
+- location: Systembolaget Butik, Traversgatan 10 A
+  urn: urn:systembolaget:store:id:1902
   city: Västerås
-  latitude: 59.61611
-  longitude: 16.46369
+  latitude: 59.616437
+  longitude: 16.464062
 
-- location: Systembolaget Butik, Tuna Park
+- location: Systembolaget Butik, Gunborg Nymans Väg 2
+  urn: urn:systembolaget:store:id:0404
   city: Eskilstuna
   latitude: 59.37557
   longitude: 16.46803
 
-- location: Systembolaget Butik, Levins gränd 1
+- location: Systembolaget Butik, Ölands Köpstad
+  urn: urn:systembolaget:store:id:0806
+  city: Färjestaden
+  latitude: 56.651562
+  longitude: 16.468313
+
+- location: Systembolaget Butik, Storgatan 16
+  urn: urn:systembolaget:store:id:2210
+  city: Ramsele
+  latitude: 63.536938
+  longitude: 16.470813
+
+- location: Systembolaget Butik, Levins Gränd 1
+  urn: urn:systembolaget:store:id:0405
   city: Torshälla
   latitude: 59.42022
   longitude: 16.47624
 
 - location: Systembolaget Butik, Kungsgatan 12
+  urn: urn:systembolaget:store:id:0403
   city: Eskilstuna
   latitude: 59.37027
   longitude: 16.51462
 
-- location: Systembolaget Butik, Smedjegatan 22
+- location: Systembolaget Butik, Vasagatan 21
+  urn: urn:systembolaget:store:id:1901
   city: Västerås
-  latitude: 59.61121
-  longitude: 16.54417
+  latitude: 59.611438
+  longitude: 16.544063
 
-- location: Systembolaget Butik, Götgatan 6
+- location: Systembolaget Butik, Stenbygatan 1
+  urn: urn:systembolaget:store:id:1904
+  city: Västerås
+  latitude: 59.635312
+  longitude: 16.568188
+
+- location: Systembolaget Butik, Götgatan 1
+  urn: urn:systembolaget:store:id:0410
   city: Flen
-  latitude: 59.05925
-  longitude: 16.58909
+  latitude: 59.058437
+  longitude: 16.588687
 
 - location: Systembolaget Butik, Centralplan
+  urn: urn:systembolaget:store:id:0519
   city: Valdemarsvik
   latitude: 58.202
   longitude: 16.60246
 
 - location: Systembolaget Butik, Rådmansgatan 10
+  urn: urn:systembolaget:store:id:1909
   city: Sala
   latitude: 59.92022
   longitude: 16.6068
 
-- location: Systembolaget Butik, Glasvingegatan 5
+- location: Systembolaget Butik, Stockholmsvägen 136 B
+  urn: urn:systembolaget:store:id:1903
   city: Västerås
-  latitude: 59.6099
-  longitude: 16.61013
+  latitude: 59.608688
+  longitude: 16.619937
 
-- location: Systembolaget Butik, Kvarngatan 8
+- location: Systembolaget Butik, Västra Kyrkogatan 34
+  urn: urn:systembolaget:store:id:0809
   city: Västervik
-  latitude: 57.75825
-  longitude: 16.6412
+  latitude: 57.757662
+  longitude: 16.634516
 
-- location: Systembolaget Butik, Volgsjövägen 25
-  city: Vilhelmina
-  latitude: 64.62572
-  longitude: 16.65295
-
-- location: Systembolaget Butik, Ö. Kyrkogatan 19
+- location: Systembolaget Butik, Östra Kyrkogatan 19
+  urn: urn:systembolaget:store:id:0805
   city: Borgholm
   latitude: 56.87867
   longitude: 16.65611
 
-- location: Systembolaget Butik, S. Åsgatan 32
+- location: Systembolaget Butik, Volgsjövägen 44
+  urn: urn:systembolaget:store:id:2407
+  city: Vilhelmina
+  latitude: 64.624188
+  longitude: 16.657812
+
+- location: Systembolaget Butik, Södra Åsgatan 32
+  urn: urn:systembolaget:store:id:2111
   city: Ockelbo
   latitude: 60.88538
   longitude: 16.71439
 
 - location: Systembolaget Butik, Landsvägsgatan 26
+  urn: urn:systembolaget:store:id:0409
   city: Malmköping
   latitude: 59.13163
   longitude: 16.73119
 
 - location: Systembolaget Butik, Köpmangatan 19
+  urn: urn:systembolaget:store:id:2104
   city: Sandviken
   latitude: 60.62022
   longitude: 16.7743
 
-- location: Systembolaget Butik, Löttorpsv.
-  city: Löttorp
-  latitude: 57.16876
-  longitude: 16.96287
-
 - location: Systembolaget Butik, Valbo Köpcentrum
+  urn: urn:systembolaget:store:id:2102
   city: Valbo
   latitude: 60.63453
   longitude: 16.99067
 
-- location: Systembolaget Butik, vägen Kvarngatan 7
+- location: Systembolaget Butik, Västra Storgatan 13
+  urn: urn:systembolaget:store:id:0401
   city: Nyköping
-  latitude: 58.75085
-  longitude: 17.00447
+  latitude: 58.751937
+  longitude: 17.003687
+
+- location: Systembolaget Butik, Gustafsbergsstigen 4
+  urn: urn:systembolaget:store:id:0414
+  city: Nyköping
+  latitude: 58.769937
+  longitude: 17.025562
 
 - location: Systembolaget Butik, Trädgårdsgatan 12
+  urn: urn:systembolaget:store:id:0407
   city: Strängnäs
   latitude: 59.37667
   longitude: 17.02683
 
-- location: Systembolaget Butik, Stationsgatan 5
-  city: Storuman
-  latitude: 65.03083
-  longitude: 17.04116
-
 - location: Systembolaget Butik, Köpmangatan 9
+  urn: urn:systembolaget:store:id:2106
   city: Söderhamn
   latitude: 61.3026
   longitude: 17.05593
 
 - location: Systembolaget Butik, Storgatan 21
+  urn: urn:systembolaget:store:id:2112
   city: Bergsjö
   latitude: 61.98578
   longitude: 17.05803
 
-- location: Systembolaget Butik, Ö. Ringgatan 21
+- location: Systembolaget Butik, Östra Ringgatan 21
+  urn: urn:systembolaget:store:id:0307
   city: Enköping
   latitude: 59.63383
   longitude: 17.08181
 
-- location: Systembolaget Butik, N. Kyrkogatan 14
+- location: Systembolaget Butik, Norra Kyrkogatan 14
+  urn: urn:systembolaget:store:id:2107
   city: Hudiksvall
   latitude: 61.72912
   longitude: 17.10222
 
-- location: Systembolaget Butik, Järntorget 1
+- location: Systembolaget Butik, Järntorget 4
+  urn: urn:systembolaget:store:id:0411
   city: Oxelösund
-  latitude: 58.66936
-  longitude: 17.10376
+  latitude: 58.669812
+  longitude: 17.103938
+
+- location: Systembolaget Butik, Stationsgatan 5
+  urn: urn:systembolaget:store:id:2408
+  city: Storuman
+  latitude: 65.096063
+  longitude: 17.114063
 
 - location: Systembolaget Butik, Drottninggatan 9
+  urn: urn:systembolaget:store:id:2101
   city: Gävle
   latitude: 60.67397
   longitude: 17.13927
 
 - location: Systembolaget Butik, Ingenjörsgatan 5
+  urn: urn:systembolaget:store:id:2103
   city: Gävle
   latitude: 60.64484
   longitude: 17.14434
 
 - location: Systembolaget Butik, Torgvägen 10
+  urn: urn:systembolaget:store:id:1914
   city: Östervåla
   latitude: 60.18168
   longitude: 17.17707
 
 - location: Systembolaget Butik, Storgatan 17-19
+  urn: urn:systembolaget:store:id:0408
   city: Mariefred
   latitude: 59.25925
   longitude: 17.21985
 
 - location: Systembolaget Butik, Storgatan 48
+  urn: urn:systembolaget:store:id:2206
   city: Sollefteå
   latitude: 63.16836
   longitude: 17.26625
 
-- location: Systembolaget Butik, Storgatan 16 A
+- location: Systembolaget Butik, Västra Storgatan 16 A
+  urn: urn:systembolaget:store:id:0413
   city: Gnesta
-  latitude: 59.04864
-  longitude: 17.30578
+  latitude: 59.049062
+  longitude: 17.306938
 
-- location: Systembolaget Butik, Stora Torget
+- location: Systembolaget Butik, Sjögatan 16
+  urn: urn:systembolaget:store:id:2202
   city: Sundsvall
-  latitude: 62.39049
-  longitude: 17.3073
+  latitude: 62.391813
+  longitude: 17.308062
 
 - location: Systembolaget Butik, Köpmangatan 29
+  urn: urn:systembolaget:store:id:2208
   city: Timrå
   latitude: 62.48618
   longitude: 17.32505
 
-- location: Systembolaget Butik, Norra vägen 10
-  city: Nordkoster
-  latitude: 62.41561
-  longitude: 17.34139
+- location: Systembolaget Butik, Gesällvägen 3
+  urn: urn:systembolaget:store:id:2203
+  city: Sundsvall
+  latitude: 62.443812
+  longitude: 17.334938
 
 - location: Systembolaget Butik, Storgatan 33
+  urn: urn:systembolaget:store:id:2409
   city: Åsele
   latitude: 64.16116
   longitude: 17.35162
 
 - location: Systembolaget Butik, Affärsgatan 7
+  urn: urn:systembolaget:store:id:2204
   city: Kvissleby
   latitude: 62.29819
   longitude: 17.37828
 
-- location: Systembolaget Butik, Centralgatan 11
+- location: Systembolaget Butik, Centrumgatan 7
+  urn: urn:systembolaget:store:id:0310
   city: Skutskär
-  latitude: 60.62562
-  longitude: 17.41358
+  latitude: 60.624938
+  longitude: 17.414563
 
-- location: Systembolaget Butik, Centrumvägen 2
+- location: Systembolaget Butik, Centrumvägen 26
+  urn: urn:systembolaget:store:id:0242
   city: Nykvarn
-  latitude: 59.17837
-  longitude: 17.43066
+  latitude: 59.177312
+  longitude: 17.433062
 
 - location: Systembolaget Butik, Centralgatan 14
+  urn: urn:systembolaget:store:id:0308
   city: Tierp
   latitude: 60.34384
   longitude: 17.51424
 
-- location: Systembolaget Butik, Centrumgränd
+- location: Systembolaget Butik, Centrumstråket 2
+  urn: urn:systembolaget:store:id:0306
   city: Bålsta
-  latitude: 59.56716
-  longitude: 17.52776
+  latitude: 59.567312
+  longitude: 17.528562
 
 - location: Systembolaget Butik, Strandvägen 5
+  urn: urn:systembolaget:store:id:2411
   city: Sorsele
   latitude: 65.53493
   longitude: 17.53608
 
-- location: Systembolaget Butik, Ö. Långgatan 35
+- location: Systembolaget Butik, Östra Långgatan 35
+  urn: urn:systembolaget:store:id:0402
   city: Trosa
   latitude: 58.89669
   longitude: 17.54809
 
-- location: Systembolaget Butik, Stenhagen
+- location: Systembolaget Butik, Herrhagsvägen 1
+  urn: urn:systembolaget:store:id:0303
   city: Uppsala
-  latitude: 59.84944
-  longitude: 17.56053
+  latitude: 59.848813
+  longitude: 17.564687
 
 - location: Systembolaget Butik, Genetaleden 7
+  urn: urn:systembolaget:store:id:0209
   city: Södertälje
   latitude: 59.18238
   longitude: 17.61541
 
 - location: Systembolaget Butik, Gästgivaregatan 6 Lunagallerian
+  urn: urn:systembolaget:store:id:0208
   city: Södertälje
   latitude: 59.19699
   longitude: 17.62631
 
-- location: Systembolaget Butik, Skolgatan 6
+- location: Systembolaget Butik, Valthornsvägen 7
+  urn: urn:systembolaget:store:id:0301
   city: Uppsala
-  latitude: 59.86126
-  longitude: 17.62965
+  latitude: 59.810313
+  longitude: 17.629562
 
-- location: Systembolaget Butik, Gottsunda Centrum
+- location: Systembolaget Butik, Dragarbrunnsgatan 48 A
+  urn: urn:systembolaget:store:id:0302
   city: Uppsala
-  latitude: 59.81041
-  longitude: 17.62983
+  latitude: 59.858438
+  longitude: 17.642187
 
-- location: Systembolaget Butik, Svavagallerian
-  city: Uppsala
-  latitude: 59.85805
-  longitude: 17.64285
-
-- location: Systembolaget Butik, Kvarnen Vaksalagatan 30
+- location: Systembolaget Butik, Vaksalagatan 30
+  urn: urn:systembolaget:store:id:0311
   city: Uppsala
   latitude: 59.86206
   longitude: 17.64651
 
-- location: Systembolaget Butik, Gränby Centrum
+- location: Systembolaget Butik, Marknadsgatan 1
+  urn: urn:systembolaget:store:id:0305
   city: Uppsala
-  latitude: 59.87777
-  longitude: 17.67324
+  latitude: 59.877312
+  longitude: 17.674062
 
-- location: Systembolaget Butik, Stora gatan 56 C
+- location: Systembolaget Butik, Stångjärnsgatan 10
+  urn: urn:systembolaget:store:id:0312
+  city: Uppsala
+  latitude: 59.847188
+  longitude: 17.685563
+
+- location: Systembolaget Butik, Stora Gatan 56 C
+  urn: urn:systembolaget:store:id:0207
   city: Sigtuna
   latitude: 59.61701
   longitude: 17.7245
 
 - location: Systembolaget Butik, Kyrkvägen 4 A
+  urn: urn:systembolaget:store:id:0235
   city: Kungsängen
   latitude: 59.47937
   longitude: 17.75051
 
 - location: Systembolaget Butik, Säby Torg 5
+  urn: urn:systembolaget:store:id:0234
   city: Rönninge
   latitude: 59.2011
   longitude: 17.76657
 
 - location: Systembolaget Butik, Kungsgatan 5 B
+  urn: urn:systembolaget:store:id:2205
   city: Kramfors
   latitude: 62.92962
   longitude: 17.7816
 
+- location: Systembolaget Butik, Centralvägen 12
+  urn: urn:systembolaget:store:id:0313
+  city: Knivsta
+  latitude: 59.725938
+  longitude: 17.788063
+
 - location: Systembolaget Butik, Viksjö Centrum Viksjöplan
+  urn: urn:systembolaget:store:id:0241
   city: Järfälla
   latitude: 59.41111
   longitude: 17.80293
 
 - location: Systembolaget Butik, Ångbåtsvägen 4
+  urn: urn:systembolaget:store:id:0231
   city: Ekerö
   latitude: 59.29039
   longitude: 17.80998
 
-- location: Systembolaget Butik, Hallunda Torg
+- location: Systembolaget Butik, Kumla Gårdsväg 30 A
+  urn: urn:systembolaget:store:id:0226
   city: Norsborg
-  latitude: 59.24444
-  longitude: 17.82771
+  latitude: 59.237813
+  longitude: 17.832062
 
-- location: Systembolaget Butik, Tumba torg 8
+- location: Systembolaget Butik, Tumba Torg 8
+  urn: urn:systembolaget:store:id:0225
   city: Tumba
   latitude: 59.19899
   longitude: 17.83339
 
 - location: Systembolaget Butik, Banérstråket
+  urn: urn:systembolaget:store:id:0214
   city: Järfälla
   latitude: 59.42272
   longitude: 17.83629
 
 - location: Systembolaget Butik, Hässelby Torg 3
+  urn: urn:systembolaget:store:id:0148
   city: Hässelby
   latitude: 59.36726
   longitude: 17.84348
 
 - location: Systembolaget Butik, Nymärsta Kulle 3
+  urn: urn:systembolaget:store:id:0218
   city: Märsta
   latitude: 59.61631
   longitude: 17.85948
 
+- location: Systembolaget Butik, Majorsvägen 2 D
+  urn: urn:systembolaget:store:id:0243
+  city: Järfälla
+  latitude: 59.414313
+  longitude: 17.862187
+
 - location: Systembolaget Butik, Ångermannagatan 165
+  urn: urn:systembolaget:store:id:0135
   city: Vällingby
   latitude: 59.36366
   longitude: 17.87378
 
 - location: Systembolaget Butik, Storgatan 15 B
+  urn: urn:systembolaget:store:id:2515
   city: Arjeplog
   latitude: 66.05205
   longitude: 17.89168
 
-- location: Systembolaget Butik, Tenstagången 47
-  city: Spånga
-  latitude: 59.39509
-  longitude: 17.89867
-
-- location: Systembolaget Butik, Uppl. Väsby Dragonvägen 86
-  city: Upplands väsby
+- location: Systembolaget Butik, Dragonvägen 86
+  urn: urn:systembolaget:store:id:0219
+  city: Upplands Väsby
   latitude: 59.51891
   longitude: 17.90933
 
-- location: Systembolaget Butik, Storholmsgatan 21
+- location: Systembolaget Butik, Skärholmsplan 1
+  urn: urn:systembolaget:store:id:0182
   city: Skärholmen
-  latitude: 59.27627
-  longitude: 17.91011
+  latitude: 59.276312
+  longitude: 17.909687
 
 - location: Systembolaget Butik, Konsumentvägen 1
+  urn: urn:systembolaget:store:id:0240
   city: Sollentuna
   latitude: 59.47167
   longitude: 17.9173
 
-- location: Systembolaget Butik, Kungens Kurva Diagonalvägen 10
-  city: Kungens kurva
-  latitude: 59.26656
-  longitude: 17.92169
+- location: Systembolaget Butik, Tangentvägen 2
+  urn: urn:systembolaget:store:id:0232
+  city: Huddinge
+  latitude: 59.270562
+  longitude: 17.921563
 
-- location: Systembolaget Butik, Köpmangatan 1
+- location: Systembolaget Butik, Norra Malmvägen 80-82
+  urn: urn:systembolaget:store:id:0246
+  city: Sollentuna
+  latitude: 59.440438
+  longitude: 17.932938
+
+- location: Systembolaget Butik, Storgatan 26
+  urn: urn:systembolaget:store:id:2201
   city: Härnösand
-  latitude: 62.63253
-  longitude: 17.93814
+  latitude: 62.631687
+  longitude: 17.939437
 
 - location: Systembolaget Butik, Klädesvägen 12
+  urn: urn:systembolaget:store:id:0147
   city: Bromma
   latitude: 59.33943
   longitude: 17.93967
 
-- location: Systembolaget Butik, Kista Centrum
+- location: Systembolaget Butik, Kista Galleria
+  urn: urn:systembolaget:store:id:0150
   city: Kista
   latitude: 59.4021
   longitude: 17.9433
 
-- location: Systembolaget Butik, Nynäshamn Mörbyvägen 3
+- location: Systembolaget Butik, Mörbyvägen 3
+  urn: urn:systembolaget:store:id:0210
   city: Nynäshamn
   latitude: 58.9038
   longitude: 17.9462
 
-- location: Systembolaget Butik, Sollentuna Centrum
+- location: Systembolaget Butik, Sollentunavägen 163 C
+  urn: urn:systembolaget:store:id:0216
   city: Sollentuna
-  latitude: 59.42892
-  longitude: 17.94968
+  latitude: 59.427688
+  longitude: 17.952312
 
-- location: Systembolaget Butik, Ulvsundavägen 191
+- location: Systembolaget Butik, Ulvsundavägen 189 A
+  urn: urn:systembolaget:store:id:0151
   city: Bromma
-  latitude: 59.35395
-  longitude: 17.95752
+  latitude: 59.356063
+  longitude: 17.954062
 
 - location: Systembolaget Butik, Fruängsgången 10
+  urn: urn:systembolaget:store:id:0180
   city: Hägersten
   latitude: 59.28538
   longitude: 17.96522
 
-- location: Systembolaget Butik, Sundbyberg Landsvägen 53 B
+- location: Systembolaget Butik, Landsvägen 53 B
+  urn: urn:systembolaget:store:id:0202
   city: Sundbyberg
   latitude: 59.36136
   longitude: 17.96792
 
+- location: Systembolaget Butik, Östra Madenvägen 10 A
+  urn: urn:systembolaget:store:id:0247
+  city: Sundbyberg
+  latitude: 59.378187
+  longitude: 17.969062
+
 - location: Systembolaget Butik, Sjödalstorget 5
+  urn: urn:systembolaget:store:id:0217
   city: Huddinge
   latitude: 59.23553
   longitude: 17.9819
 
 - location: Systembolaget Butik, Postgången 28
+  urn: urn:systembolaget:store:id:0201
   city: Solna
   latitude: 59.36076
   longitude: 17.99969
 
+- location: Systembolaget Butik, Västbergavägen 4
+  urn: urn:systembolaget:store:id:0176
+  city: Hägersten
+  latitude: 59.294187
+  longitude: 18.003687
+
+- location: Systembolaget Butik, Råsta Strandväg 13 C
+  urn: urn:systembolaget:store:id:0244
+  city: Solna
+  latitude: 59.370188
+  longitude: 18.004688
+
+- location: Systembolaget Butik, Lindhagensgatan 118
+  urn: urn:systembolaget:store:id:0134
+  city: Stockholm
+  latitude: 59.337312
+  longitude: 18.009437
+
+- location: Systembolaget Butik, Älvsjö-Ängsvägen 2-6
+  urn: urn:systembolaget:store:id:0175
+  city: Älvsjö
+  latitude: 59.275312
+  longitude: 18.013312
+
 - location: Systembolaget Butik, Rålambsvägen 7-9
+  urn: urn:systembolaget:store:id:0132
   city: Stockholm
   latitude: 59.32822
   longitude: 18.01861
 
-- location: Systembolaget Butik, Liljeholmstorget 44
+- location: Systembolaget Butik, Liljeholmstorget 3
+  urn: urn:systembolaget:store:id:0171
   city: Stockholm
-  latitude: 59.31001
-  longitude: 18.02337
+  latitude: 59.309687
+  longitude: 18.022188
 
 - location: Systembolaget Butik, Fleminggatan 56
+  urn: urn:systembolaget:store:id:0137
   city: Stockholm
   latitude: 59.33473
   longitude: 18.03035
 
-- location: Systembolaget Butik, Långholmsgatan 21
+- location: Systembolaget Butik, Solnavägen 2 B
+  urn: urn:systembolaget:store:id:0140
+  city: Stockholm
+  latitude: 59.346563
+  longitude: 18.033187
+
+- location: Systembolaget Butik, Långholmsgatan 21 A
+  urn: urn:systembolaget:store:id:0174
   city: Stockholm
   latitude: 59.31631
   longitude: 18.03344
 
-- location: Systembolaget Butik, Golfvägen 2
+- location: Systembolaget Butik, Golfvägen 6 A
+  urn: urn:systembolaget:store:id:0213
   city: Danderyd
-  latitude: 59.39679
-  longitude: 18.03621
-
-- location: Systembolaget Butik, N. Stationsgatan 58-60
-  city: Stockholm
-  latitude: 59.34844
-  longitude: 18.03727
+  latitude: 59.397063
+  longitude: 18.036938
 
 - location: Systembolaget Butik, Odengatan 92
+  urn: urn:systembolaget:store:id:0138
   city: Stockholm
   latitude: 59.34074
   longitude: 18.04224
 
 - location: Systembolaget Butik, Kungsholmstorg 11 A
+  urn: urn:systembolaget:store:id:0133
   city: Stockholm
   latitude: 59.32832
   longitude: 18.04255
 
 - location: Systembolaget Butik, Högdalsgången 19
+  urn: urn:systembolaget:store:id:0177
   city: Bandhagen
   latitude: 59.26316
   longitude: 18.04378
 
+- location: Systembolaget Butik, Fleminggatan 18
+  urn: urn:systembolaget:store:id:0136
+  city: Stockholm
+  latitude: 59.333062
+  longitude: 18.044688
+
 - location: Systembolaget Butik, Odengatan 58
+  urn: urn:systembolaget:store:id:0143
   city: Stockholm
   latitude: 59.34354
   longitude: 18.05349
 
 - location: Systembolaget Butik, Rosenlundsgatan 7
+  urn: urn:systembolaget:store:id:0172
   city: Stockholm
   latitude: 59.31651
   longitude: 18.05581
 
-- location: Systembolaget Butik, Vasagatan 25
-  city: Stockholm
-  latitude: 59.33443
-  longitude: 18.05585
-
-- location: Systembolaget Butik, Klarabergsgatan 62
-  city: Stockholm
-  latitude: 59.33123
-  longitude: 18.05889
-
 - location: Systembolaget Butik, Sveavägen 66
+  urn: urn:systembolaget:store:id:0145
   city: Stockholm
   latitude: 59.33913
   longitude: 18.06018
 
+- location: Systembolaget Butik, Drottninggatan 45
+  urn: urn:systembolaget:store:id:0113
+  city: Stockholm
+  latitude: 59.332437
+  longitude: 18.062312
+
 - location: Systembolaget Butik, Birger Jarlsgatan 84
+  urn: urn:systembolaget:store:id:0144
   city: Stockholm
   latitude: 59.34444
   longitude: 18.06328
 
-- location: Systembolaget Butik, Hötorgshallen 2
+- location: Systembolaget Butik, Hötorgshallen
+  urn: urn:systembolaget:store:id:0110
   city: Stockholm
   latitude: 59.33483
   longitude: 18.06357
 
-- location: Systembolaget Butik, Regeringsgatan 44
+- location: Systembolaget Butik, Norrlandsgatan 3
+  urn: urn:systembolaget:store:id:0114
   city: Stockholm
-  latitude: 59.33403
-  longitude: 18.06791
+  latitude: 59.333188
+  longitude: 18.071188
 
-- location: Systembolaget Butik, Lilla Nygatan 18
-  city: Stockholm
-  latitude: 59.32322
-  longitude: 18.06952
-
-- location: Systembolaget Butik, Söderhallarna endast vin Medborgarplatsen 3
+- location: Systembolaget Butik, Medborgarplatsen 3
+  urn: urn:systembolaget:store:id:0166
   city: Stockholm
   latitude: 59.31451
   longitude: 18.0718
 
-- location: Systembolaget Butik, Täby Centrum Östantorget 151
+- location: Systembolaget Butik, Norra Galleriagången 1024
+  urn: urn:systembolaget:store:id:0215
   city: Täby
-  latitude: 59.44454
-  longitude: 18.07235
+  latitude: 59.444562
+  longitude: 18.073563
 
 - location: Systembolaget Butik, Folkungagatan 56
+  urn: urn:systembolaget:store:id:0165
   city: Stockholm
   latitude: 59.31431
   longitude: 18.07454
 
 - location: Systembolaget Butik, Götgatan 132
+  urn: urn:systembolaget:store:id:0163
   city: Stockholm
   latitude: 59.3085
   longitude: 18.0761
 
 - location: Systembolaget Butik, Tuna Torg 19
+  urn: urn:systembolaget:store:id:0229
   city: Vallentuna
   latitude: 59.53453
   longitude: 18.07672
 
 - location: Systembolaget Butik, Gullmarsplan 4-6
+  urn: urn:systembolaget:store:id:0168
   city: Johanneshov
   latitude: 59.29849
   longitude: 18.07928
 
 - location: Systembolaget Butik, Nybrogatan 47
+  urn: urn:systembolaget:store:id:0104
   city: Stockholm
   latitude: 59.33723
   longitude: 18.07931
 
-- location: Systembolaget Butik, Arenaslingan 10
+- location: Systembolaget Butik, Arenavägen 57
+  urn: urn:systembolaget:store:id:0170
   city: Johanneshov
-  latitude: 59.29219
-  longitude: 18.08357
+  latitude: 59.293188
+  longitude: 18.080937
+
+- location: Systembolaget Butik, Folkungagatan 101
+  urn: urn:systembolaget:store:id:0167
+  city: Stockholm
+  latitude: 59.315687
+  longitude: 18.084437
 
 - location: Systembolaget Butik, Karlaplan 13
+  urn: urn:systembolaget:store:id:0102
   city: Stockholm
   latitude: 59.33823
   longitude: 18.09061
 
-- location: Systembolaget Butik, Storforsplan 56
+- location: Systembolaget Butik, Farstaplan 27
+  urn: urn:systembolaget:store:id:0178
   city: Farsta
-  latitude: 59.24224
-  longitude: 18.09287
+  latitude: 59.242937
+  longitude: 18.091422
+
+- location: Systembolaget Butik, Bobergsgatan 50
+  urn: urn:systembolaget:store:id:0107
+  city: Stockholm
+  latitude: 59.358438
+  longitude: 18.091813
 
 - location: Systembolaget Butik, Karlavägen 100 A
+  urn: urn:systembolaget:store:id:0106
   city: Stockholm
   latitude: 59.33603
   longitude: 18.09713
 
-- location: Systembolaget Butik, Järlaleden 21
+- location: Systembolaget Butik, Lugnets Allé 26-28
+  urn: urn:systembolaget:store:id:0173
+  city: Stockholm
+  latitude: 59.302437
+  longitude: 18.103563
+
+- location: Systembolaget Butik, Kyrkvägen 2
+  urn: urn:systembolaget:store:id:0239
+  city: Västerhaninge
+  latitude: 59.122563
+  longitude: 18.106687
+
+- location: Systembolaget Butik, Sköndalsvägen 3
+  urn: urn:systembolaget:store:id:0179
+  city: Sköndal
+  latitude: 59.260438
+  longitude: 18.106813
+
+- location: Systembolaget Butik, Siroccogatan 7
+  urn: urn:systembolaget:store:id:0237
   city: Nacka
-  latitude: 59.3042
-  longitude: 18.12842
+  latitude: 59.304562
+  longitude: 18.130812
 
 - location: Systembolaget Butik, Friggavägen 24
+  urn: urn:systembolaget:store:id:0211
   city: Lidingö
   latitude: 59.36636
   longitude: 18.13515
 
-- location: Systembolaget Butik, Täby Saluvägen 5
+- location: Systembolaget Butik, Saluvägen 10
+  urn: urn:systembolaget:store:id:0212
   city: Täby
-  latitude: 59.46136
-  longitude: 18.13648
+  latitude: 59.460062
+  longitude: 18.139187
 
 - location: Systembolaget Butik, Drakslingan 12
+  urn: urn:systembolaget:store:id:0222
   city: Haninge
   latitude: 59.16846
   longitude: 18.14
 
-- location: Systembolaget Butik, Skogåstorget 29
+- location: Systembolaget Butik, Skogåsplan 9
+  urn: urn:systembolaget:store:id:0227
   city: Skogås
-  latitude: 59.21781
-  longitude: 18.15182
+  latitude: 59.217813
+  longitude: 18.153312
 
-- location: Systembolaget Butik, Vikdalsvägen 6
+- location: Systembolaget Butik, Österport 2
+  urn: urn:systembolaget:store:id:0245
+  city: Haninge
+  latitude: 59.181313
+  longitude: 18.158687
+
+- location: Systembolaget Butik, Forumvägen 14
+  urn: urn:systembolaget:store:id:0220
   city: Nacka
-  latitude: 59.3099
-  longitude: 18.16276
+  latitude: 59.310137
+  longitude: 18.164266
 
 - location: Systembolaget Butik, Marknadsgränd 29
+  urn: urn:systembolaget:store:id:0221
   city: Tyresö
   latitude: 59.24364
   longitude: 18.23005
 
-- location: Systembolaget Butik, Orminge Ormingeplan 3
-  city: Saltsjö-boo
+- location: Systembolaget Butik, Ormingeplan 3
+  urn: urn:systembolaget:store:id:0230
+  city: Saltsjö-Boo
   latitude: 59.32682
   longitude: 18.25665
 
 - location: Systembolaget Butik, Torggatan 19
+  urn: urn:systembolaget:store:id:0224
   city: Saltsjöbaden
   latitude: 59.28428
   longitude: 18.2769
 
-- location: Systembolaget Butik, Åkersberga C. Storängstorget 1
+- location: Systembolaget Butik, Storängstorget 7
+  urn: urn:systembolaget:store:id:0228
   city: Åkersberga
-  latitude: 59.47987
-  longitude: 18.29661
+  latitude: 59.480062
+  longitude: 18.297812
 
-- location: Systembolaget Butik, Östervägen 3 C
+- location: Systembolaget Butik, Österväg 3 C
+  urn: urn:systembolaget:store:id:0902
   city: Visby
   latitude: 57.63803
   longitude: 18.29968
 
-- location: Systembolaget Butik, Vaxholm Söderhamnen 10
+- location: Systembolaget Butik, Söderhamnen 10
+  urn: urn:systembolaget:store:id:0204
   city: Vaxholm
   latitude: 59.4013
   longitude: 18.34962
 
 - location: Systembolaget Butik, Köpmannagatan 2
+  urn: urn:systembolaget:store:id:0236
   city: Rimbo
   latitude: 59.74374
   longitude: 18.36645
 
 - location: Systembolaget Butik, Storgatan 61
+  urn: urn:systembolaget:store:id:0903
   city: Hemse
   latitude: 57.24064
   longitude: 18.37718
 
-- location: Systembolaget Butik, Gustavsbergs C. Centrum
+- location: Systembolaget Butik, Centrum
+  urn: urn:systembolaget:store:id:0223
   city: Gustavsberg
   latitude: 59.32782
   longitude: 18.39245
 
-- location: Systembolaget Butik, Mölnvik Fenix vägen 4-14
+- location: Systembolaget Butik, Fenix väg 4
+  urn: urn:systembolaget:store:id:0238
   city: Gustavsberg
   latitude: 59.31351
   longitude: 18.42845
 
 - location: Systembolaget Butik, Rådhusgatan 10
+  urn: urn:systembolaget:store:id:0309
   city: Öregrund
   latitude: 60.33973
   longitude: 18.4404
 
 - location: Systembolaget Butik, Centrumtorget
+  urn: urn:systembolaget:store:id:0205
   city: Hallstavik
   latitude: 60.04634
   longitude: 18.60057
 
 - location: Systembolaget Butik, Storgatan 25
+  urn: urn:systembolaget:store:id:2406
   city: Lycksele
   latitude: 64.59409
   longitude: 18.67812
 
-- location: Systembolaget Butik, Norrtälje Tullportsgatan 12
-  city: Norrtälje
-  latitude: 59.75715
-  longitude: 18.70075
-
 - location: Systembolaget Butik, Tullportsgatan 12
+  urn: urn:systembolaget:store:id:0206
   city: Norrtälje
   latitude: 59.75715
   longitude: 18.70075
 
-- location: Systembolaget Butik, Fabriksgatan 9 B
+- location: Systembolaget Butik, Stora Torget 3
+  urn: urn:systembolaget:store:id:2207
   city: Örnsköldsvik
-  latitude: 63.29059
-  longitude: 18.71829
+  latitude: 63.289187
+  longitude: 18.714937
+
+- location: Systembolaget Butik, Hästmarksvägen 6
+  urn: urn:systembolaget:store:id:2211
+  city: Örnsköldsvik
+  latitude: 63.302688
+  longitude: 18.734812
 
 - location: Systembolaget Butik, Storgatan 23
+  urn: urn:systembolaget:store:id:2410
   city: Malå
   latitude: 65.18218
   longitude: 18.74253
 
 - location: Systembolaget Butik, Tullhagsplan 2 B
+  urn: urn:systembolaget:store:id:0904
   city: Slite
   latitude: 57.704
   longitude: 18.80183
 
 - location: Systembolaget Butik, Stationsgatan 21 A
+  urn: urn:systembolaget:store:id:2509
   city: Arvidsjaur
   latitude: 65.59189
   longitude: 19.175
 
 - location: Systembolaget Butik, Storgatan 6
+  urn: urn:systembolaget:store:id:2418
   city: Bjurholm
   latitude: 63.93113
   longitude: 19.21608
 
 - location: Systembolaget Butik, Storgatan 72
+  urn: urn:systembolaget:store:id:2414
   city: Norsjö
   latitude: 64.91351
   longitude: 19.47896
 
 - location: Systembolaget Butik, Affärsvägen 1
+  urn: urn:systembolaget:store:id:2413
   city: Nordmaling
   latitude: 63.56836
   longitude: 19.49424
 
-- location: Systembolaget Butik, Järnvägsallén 9
+- location: Systembolaget Butik, Järnvägsallén 5
+  urn: urn:systembolaget:store:id:2415
   city: Vindeln
-  latitude: 64.2026
-  longitude: 19.71893
+  latitude: 64.202812
+  longitude: 19.718313
 
-- location: Systembolaget Butik, Ö. Järnvägsgatan 7
+- location: Systembolaget Butik, Östra Järnvägsgatan 7
+  urn: urn:systembolaget:store:id:2405
   city: Vännäs
   latitude: 63.9072
   longitude: 19.75185
 
-- location: Systembolaget Butik, Berggatan 9
+- location: Systembolaget Butik, Berggatan 7
+  urn: urn:systembolaget:store:id:2511
   city: Jokkmokk
-  latitude: 66.6072
-  longitude: 19.82939
+  latitude: 66.606813
+  longitude: 19.828562
 
-- location: Systembolaget Butik, Geologgatan 7
-  city: Kiruna
-  latitude: 67.85395
-  longitude: 20.22723
-
-- location: Systembolaget Butik, Wasagallerian
+- location: Systembolaget Butik, Marknadsgatan 5 B
+  urn: urn:systembolaget:store:id:2420
   city: Umeå
-  latitude: 63.82582
-  longitude: 20.26771
+  latitude: 63.805563
+  longitude: 20.255187
 
-- location: Systembolaget Butik, Strömpilen
+- location: Systembolaget Butik, Rådhusesplanaden 6 E
+  urn: urn:systembolaget:store:id:2401
   city: Umeå
-  latitude: 63.79779
-  longitude: 20.30162
+  latitude: 63.826937
+  longitude: 20.265062
+
+- location: Systembolaget Butik, Strömpilsplatsen 29
+  urn: urn:systembolaget:store:id:2402
+  city: Umeå
+  latitude: 63.797812
+  longitude: 20.303812
 
 - location: Systembolaget Butik, Formvägen 4
+  urn: urn:systembolaget:store:id:2416
   city: Umeå
   latitude: 63.85115
   longitude: 20.30476
 
+- location: Systembolaget Butik, Alvar Janssons Gata
+  urn: urn:systembolaget:store:id:2507
+  city: Kiruna
+  latitude: 67.849563
+  longitude: 20.307187
+
 - location: Systembolaget Butik, Hantverkaregatan 15
+  urn: urn:systembolaget:store:id:2508
   city: Gällivare
   latitude: 67.13513
   longitude: 20.66337
 
-- location: Systembolaget Butik, Storgatan 31
+- location: Systembolaget Butik, Storgatan 29 B
+  urn: urn:systembolaget:store:id:2417
   city: Robertsfors
-  latitude: 64.19359
-  longitude: 20.84741
+  latitude: 64.192688
+  longitude: 20.847812
 
-- location: Systembolaget Butik, Nygatan 42
+- location: Systembolaget Butik, Nygatan 50
+  urn: urn:systembolaget:store:id:2404
   city: Skellefteå
-  latitude: 64.75075
-  longitude: 20.95098
+  latitude: 64.750062
+  longitude: 20.954437
 
 - location: Systembolaget Butik, Skolgatan 27
+  urn: urn:systembolaget:store:id:2512
   city: Älvsbyn
   latitude: 65.67287
   longitude: 21.00835
 
-- location: Systembolaget Butik, Solbacken Erikslid
+- location: Systembolaget Butik, Varugatan 22
+  urn: urn:systembolaget:store:id:2403
   city: Skellefteå
-  latitude: 64.76496
-  longitude: 21.02489
+  latitude: 64.765062
+  longitude: 21.024938
 
-- location: Systembolaget Butik, Storgatan 63 A
+- location: Systembolaget Butik, Storgatan 65
+  urn: urn:systembolaget:store:id:2504
   city: Piteå
-  latitude: 65.31771
-  longitude: 21.47757
+  latitude: 65.317688
+  longitude: 21.477438
 
-- location: Systembolaget Butik, Drottninggatan 8
+- location: Systembolaget Butik, Drottninggatan 8 B
+  urn: urn:systembolaget:store:id:2505
   city: Boden
   latitude: 65.82372
   longitude: 21.68612
 
-- location: Systembolaget Butik, Besiktningsvägen 25
-  city: Luleå 2006-06-06
-  latitude: 65.61881
-  longitude: 22.04686
-
-- location: Systembolaget Butik, Storgatan 25
+- location: Systembolaget Butik, Besiktningsvägen 19 A
+  urn: urn:systembolaget:store:id:2503
   city: Luleå
-  latitude: 65.58408
-  longitude: 22.14952
+  latitude: 65.619062
+  longitude: 22.046563
 
-- location: Systembolaget Butik, Storgatan 10
+- location: Systembolaget Butik, Delfingatan 2
+  urn: urn:systembolaget:store:id:2520
+  city: Luleå
+  latitude: 65.595562
+  longitude: 22.148438
+
+- location: Systembolaget Butik, Storgatan 61
+  urn: urn:systembolaget:store:id:2501
+  city: Luleå
+  latitude: 65.585062
+  longitude: 22.159188
+
+- location: Systembolaget Butik, Tvärgatan 2
+  urn: urn:systembolaget:store:id:2516
   city: Överkalix
-  latitude: 66.32862
-  longitude: 22.84278
+  latitude: 66.325688
+  longitude: 22.844938
 
 - location: Systembolaget Butik, Strandgatan 10
+  urn: urn:systembolaget:store:id:2510
   city: Kalix
   latitude: 65.85535
   longitude: 23.1396
 
 - location: Systembolaget Butik, Medborgarvägen 3
+  urn: urn:systembolaget:store:id:2513
   city: Pajala
   latitude: 67.21211
   longitude: 23.36881
 
 - location: Systembolaget Butik, Hemvägen 11
+  urn: urn:systembolaget:store:id:2514
   city: Övertorneå
   latitude: 66.38458
   longitude: 23.65624
 
-- location: Systembolaget Butik, N. Esplanaden 6
+- location: Systembolaget Butik, Norra Esplanaden 8
+  urn: urn:systembolaget:store:id:2506
   city: Haparanda
-  latitude: 65.83903
-  longitude: 24.13047
+  latitude: 65.841062
+  longitude: 24.133063

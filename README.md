@@ -20,8 +20,8 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
-| [Systembolaget](https://sv.wikipedia.org/wiki/Systembolaget)                             |        394 |
-| [Systembolaget - Ombud](https://sv.wikipedia.org/wiki/Systembolaget)                     |        412 |
+| [Systembolaget](https://sv.wikipedia.org/wiki/Systembolaget)                             |        448 |
+| [Systembolaget - Ombud](https://sv.wikipedia.org/wiki/Systembolaget)                     |        413 |
 
 
 
