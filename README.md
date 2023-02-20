@@ -104,6 +104,15 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 
 
+## Drivmedel
+
+| Namn                                                                                     | Positioner |
+| :--------------------------------------------------------------------------------------- | ---------: |
+| [Preem](https://sv.wikipedia.org/wiki/Preem)                                             |        755 |
+
+
+
+
 ## Guldsmeder och Juvelerare
 
 | Namn                                                                                     | Positioner |

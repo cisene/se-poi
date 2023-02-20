@@ -1,0 +1,4537 @@
+meta:
+  name: Preem
+  web: https://www.preem.se/
+  wikipedia: https://sv.wikipedia.org/wiki/Preem
+  category: Drivmedel
+  locations: 755
+
+locations:
+- location: Preem Skjergardsvegen 745, Kolltveit
+  urn: urn:preem:station:id:78269
+  city: Kolltveit
+  latitude: 60.36383
+  longitude: 5.07341
+
+- location: Preem Skogsvågkrysset
+  urn: urn:preem:station:id:78246
+  city: Skogsvåg
+  latitude: 60.26639
+  longitude: 5.07843
+
+- location: Preem Rom
+  urn: urn:preem:station:id:78337
+  city: Lyngdal
+  latitude: 60.35118
+  longitude: 5.13107
+
+- location: Preem Vågsøy
+  urn: urn:preem:station:id:78261
+  city: Deknepollen
+  latitude: 61.92356
+  longitude: 5.15018
+
+- location: Preem Drotningsvikveien 131
+  urn: urn:preem:station:id:78401
+  city: Vestland
+  latitude: 60.37334
+  longitude: 5.18074
+
+- location: Preem Florvågvegen 1
+  urn: urn:preem:station:id:78406
+  city: Vestland
+  latitude: 60.40873
+  longitude: 5.2284
+
+- location: Preem Vestre Karmøyveg 125
+  urn: urn:preem:station:id:78267
+  city: Vedavågen
+  latitude: 59.27739
+  longitude: 5.23913
+
+- location: Preem Hosteland
+  urn: urn:preem:station:id:78434
+  city: Vestland
+  latitude: 60.83302
+  longitude: 5.26406
+
+- location: Preem Karmsundgaten 75
+  urn: urn:preem:station:id:78405
+  city: Rogaland
+  latitude: 59.4061
+  longitude: 5.28771
+
+- location: Preem Dokkeskjærskaien
+  urn: urn:preem:station:id:78299
+  city: Bergen
+  latitude: 60.38649
+  longitude: 5.31614
+
+- location: Preem Åsamyrane 167
+  urn: urn:preem:station:id:78360
+  city: Nyborg
+  latitude: 60.47017
+  longitude: 5.32691
+
+- location: Preem Lyngneset 7
+  urn: urn:preem:station:id:78479
+  city: Sagvåg
+  latitude: 59.774975
+  longitude: 5.393868
+
+- location: Preem Dalevegen
+  urn: urn:preem:station:id:78280
+  city: Dale I Sunnfjord
+  latitude: 61.36506
+  longitude: 5.4042
+
+- location: Preem Eikeskogvegen 78
+  urn: urn:preem:station:id:78321
+  city: Aksdal
+  latitude: 59.40583
+  longitude: 5.45579
+
+- location: Preem Ådnavegen 63
+  urn: urn:preem:station:id:78416
+  city: Vestland
+  latitude: 60.42114
+  longitude: 5.46484
+
+- location: Preem Byvegen 30
+  urn: urn:preem:station:id:78355
+  city: Os
+  latitude: 60.187491
+  longitude: 5.466476
+
+- location: Preem Osterøyveien 925
+  urn: urn:preem:station:id:78441
+  city: Vestland
+  latitude: 60.498673
+  longitude: 5.479659
+
+- location: Preem Skibmannsveien 4
+  urn: urn:preem:station:id:78264
+  city: Tananger
+  latitude: 58.93796
+  longitude: 5.58792
+
+- location: Preem Kongshaugvegen 21
+  urn: urn:preem:station:id:78243
+  city: Sola
+  latitude: 58.88817
+  longitude: 5.64921
+
+- location: Preem Næringsveien 4 A
+  urn: urn:preem:station:id:78455
+  city: Rogaland
+  latitude: 58.812337
+  longitude: 5.717199
+
+- location: Preem Stokkamyrvegen 22
+  urn: urn:preem:station:id:78308
+  city: Sandnes
+  latitude: 58.88244
+  longitude: 5.71955
+
+- location: Preem Torsneset 23
+  urn: urn:preem:station:id:78473
+  city: Eikelandsosen
+  latitude: 60.243475
+  longitude: 5.749798
+
+- location: Preem Stårheim
+  urn: urn:preem:station:id:78207
+  city: Stårheim
+  latitude: 61.91851
+  longitude: 5.76172
+
+- location: Preem Nordsjøvegen 4330
+  urn: urn:preem:station:id:78275
+  city: Sirevåg
+  latitude: 58.52004
+  longitude: 5.80357
+
+- location: Preem Strandebarmsvegen 286
+  urn: urn:preem:station:id:78482
+  city: Strandebarm
+  latitude: 60.268982
+  longitude: 6.010294
+
+- location: Preem Jølstravegen 731
+  urn: urn:preem:station:id:78340
+  city: Vassenden
+  latitude: 61.488045
+  longitude: 6.087427
+
+- location: Preem Steinsdalsvegen 140
+  urn: urn:preem:station:id:78255
+  city: Norheimsund
+  latitude: 60.36952
+  longitude: 6.1211
+
+- location: Preem Sørlandsveien 527
+  urn: urn:preem:station:id:78339
+  city: Helleland
+  latitude: 58.52718
+  longitude: 6.12565
+
+- location: Preem N. Strandgate 50
+  urn: urn:preem:station:id:78471
+  city: Ålesund
+  latitude: 62.47073
+  longitude: 6.13925
+
+- location: Preem N. Strandgate 50
+  urn: urn:preem:station:id:78487
+  city: Ålesund
+  latitude: 62.47073
+  longitude: 6.13925
+
+- location: Preem Hjelmeland
+  urn: urn:preem:station:id:78241
+  city: Hjelmeland
+  latitude: 59.23045
+  longitude: 6.15402
+
+- location: Preem Hålandsosen 10
+  urn: urn:preem:station:id:78474
+  city: Erfjord
+  latitude: 59.347939
+  longitude: 6.23796
+
+- location: Preem Egersundsveien 12
+  urn: urn:preem:station:id:78248
+  city: Hauge I Dalane
+  latitude: 58.34323
+  longitude: 6.28139
+
+- location: Preem Suldalsvegen 10
+  urn: urn:preem:station:id:78242
+  city: Sand
+  latitude: 59.47583
+  longitude: 6.28949
+
+- location: Preem Kong Olavsvei 815
+  urn: urn:preem:station:id:78298
+  city: Kongsvik
+  latitude: 62.47114
+  longitude: 6.35096
+
+- location: Preem Blindheim Industri Vei 4
+  urn: urn:preem:station:id:78316
+  city: Ålesund
+  latitude: 62.43773
+  longitude: 6.37018
+
+- location: Preem Storrviki 2
+  urn: urn:preem:station:id:78247
+  city: Skulestadmo
+  latitude: 60.65709
+  longitude: 6.43614
+
+- location: Preem
+  urn: urn:preem:station:id:78206
+  city: Hornindal
+  latitude: 61.96698
+  longitude: 6.52559
+
+- location: Preem Haukland
+  urn: urn:preem:station:id:78251
+  city: Moi
+  latitude: 58.46084
+  longitude: 6.54023
+
+- location: Preem Kyrkjevegen 200
+  urn: urn:preem:station:id:78217
+  city: Sykkylven
+  latitude: 62.37587
+  longitude: 6.57662
+
+- location: Preem
+  urn: urn:preem:station:id:78219
+  city: Innvik
+  latitude: 61.85182
+  longitude: 6.61452
+
+- location: Preem Valle
+  urn: urn:preem:station:id:78216
+  city: Skodje
+  latitude: 62.47893
+  longitude: 6.66539
+
+- location: Preem Fintland
+  urn: urn:preem:station:id:78244
+  city: Byremo
+  latitude: 58.6687
+  longitude: 6.70926
+
+- location: Preem Bruagrenda 2
+  urn: urn:preem:station:id:78213
+  city: Stryn
+  latitude: 61.90101
+  longitude: 6.71712
+
+- location: Preem Fv60 330
+  urn: urn:preem:station:id:78433
+  city: Møre Og Romsdal
+  latitude: 62.08418
+  longitude: 6.8695
+
+- location: Preem Eidfjordvegen 269
+  urn: urn:preem:station:id:78425
+  city: Vestland
+  latitude: 60.466002
+  longitude: 7.071414
+
+- location: Preem Skorgenes
+  urn: urn:preem:station:id:78318
+  city: Vestnes
+  latitude: 62.57542
+  longitude: 7.1141
+
+- location: Preem Hestnes 2
+  urn: urn:preem:station:id:78432
+  city: Vestland
+  latitude: 61.302053
+  longitude: 7.207868
+
+- location: Preem Eikenveien 117
+  urn: urn:preem:station:id:78335
+  city: Eiken
+  latitude: 58.46442
+  longitude: 7.23246
+
+- location: Preem Årøhaugen 4
+  urn: urn:preem:station:id:78418
+  city: Møre Og Romsdal
+  latitude: 62.74539
+  longitude: 7.24878
+
+- location: Preem Årøsetervn. 1
+  urn: urn:preem:station:id:78332
+  city: Molde
+  latitude: 62.76833
+  longitude: 7.27962
+
+- location: Preem Smibakken 10
+  urn: urn:preem:station:id:78457
+  city: Agder
+  latitude: 58.084048
+  longitude: 7.304192
+
+- location: Preem
+  urn: urn:preem:station:id:78237
+  city: Bykle
+  latitude: 59.3545
+  longitude: 7.35779
+
+- location: Preem Atlanterhavsvegen 3
+  urn: urn:preem:station:id:78215
+  city: Averøy
+  latitude: 63.0098
+  longitude: 7.43136
+
+- location: Preem Skogsfjordveien 148
+  urn: urn:preem:station:id:78477
+  city: Mandal
+  latitude: 58.04021
+  longitude: 7.433925
+
+- location: Preem Voll
+  urn: urn:preem:station:id:78214
+  city: Måndalen
+  latitude: 62.5361
+  longitude: 7.43761
+
+- location: Preem Raumavegen 70
+  urn: urn:preem:station:id:78460
+  city: Åndalsnes
+  latitude: 62.56381
+  longitude: 7.68867
+
+- location: Preem Vadsteinsvikveien 1
+  urn: urn:preem:station:id:78489
+  city: Frei
+  latitude: 63.078324
+  longitude: 7.775684
+
+- location: Preem Verksvegen 1
+  urn: urn:preem:station:id:78238
+  city: Evje
+  latitude: 58.58289
+  longitude: 7.79735
+
+- location: Preem Rosselandsveien 4
+  urn: urn:preem:station:id:78361
+  city: Brennåsen
+  latitude: 58.13479
+  longitude: 7.85651
+
+- location: Preem Mjåvannsvegen 156
+  urn: urn:preem:station:id:78461
+  city: Kristiansand S
+  latitude: 58.13787
+  longitude: 7.87468
+
+- location: Preem Setesdalsveien 216
+  urn: urn:preem:station:id:78300
+  city: Kristiansand S
+  latitude: 58.18134
+  longitude: 7.93477
+
+- location: Preem Vigeland Brugs Veg 2
+  urn: urn:preem:station:id:78362
+  city: Vennesla
+  latitude: 58.25247
+  longitude: 7.96496
+
+- location: Preem Stubøvegen 1
+  urn: urn:preem:station:id:78297
+  city: Eidsvåg I Romsdal
+  latitude: 62.77677
+  longitude: 8.07347
+
+- location: Preem Hånesveien 2
+  urn: urn:preem:station:id:78435
+  city: Agder
+  latitude: 58.166492
+  longitude: 8.093019
+
+- location: Preem
+  urn: urn:preem:station:id:78227
+  city: Bjorli
+  latitude: 62.25862
+  longitude: 8.20576
+
+- location: Preem
+  urn: urn:preem:station:id:78293
+  city: Skjåk
+  latitude: 61.88327
+  longitude: 8.26612
+
+- location: Preem Brønningsmyrkrysset
+  urn: urn:preem:station:id:78277
+  city: Lillesand
+  latitude: 58.23966
+  longitude: 8.29785
+
+- location: Preem Legdene 1
+  urn: urn:preem:station:id:78452
+  city: Agder
+  latitude: 58.239655
+  longitude: 8.297853
+
+- location: Preem Gaupemyrheia 1
+  urn: urn:preem:station:id:78399
+  city: Lillesand
+  latitude: 58.26952
+  longitude: 8.41295
+
+- location: Preem gata 4
+  urn: urn:preem:station:id:78468
+  city: Åmli
+  latitude: 58.764603
+  longitude: 8.482677
+
+- location: Preem Kviteseidvegen 1654
+  urn: urn:preem:station:id:78469
+  city: Vrådal
+  latitude: 59.328313
+  longitude: 8.493396
+
+- location: Preem Treungvegen 385
+  urn: urn:preem:station:id:78483
+  city: Treungen
+  latitude: 59.013343
+  longitude: 8.534953
+
+- location: Preem Tyinvegen 5340
+  urn: urn:preem:station:id:78204
+  city: Vang I Valdres
+  latitude: 61.12685
+  longitude: 8.55002
+
+- location: Preem Industriveien 1
+  urn: urn:preem:station:id:78467
+  city: Seljord
+  latitude: 59.473052
+  longitude: 8.604409
+
+- location: Preem Langedal 2
+  urn: urn:preem:station:id:78259
+  city: Froland
+  latitude: 58.50419
+  longitude: 8.63663
+
+- location: Preem Åsbieveien 15
+  urn: urn:preem:station:id:78312
+  city: Arendal
+  latitude: 58.45871
+  longitude: 8.72114
+
+- location: Preem Skeivegen 8
+  urn: urn:preem:station:id:78449
+  city: Møre Og Romsdal
+  latitude: 62.972425
+  longitude: 8.722478
+
+- location: Preem Hamarvik Næringspark
+  urn: urn:preem:station:id:78320
+  city: Hamarvik
+  latitude: 63.69617
+  longitude: 8.81108
+
+- location: Preem Riddarvegen 6
+  urn: urn:preem:station:id:78282
+  city: Ryfoss
+  latitude: 61.13781
+  longitude: 8.8191
+
+- location: Preem
+  urn: urn:preem:station:id:78281
+  city: Sistranda
+  latitude: 63.71674
+  longitude: 8.8397
+
+- location: Preem Nesveien 2
+  urn: urn:preem:station:id:78427
+  city: Agder
+  latitude: 58.50391
+  longitude: 8.863031
+
+- location: Preem Sentrumsvegen 56
+  urn: urn:preem:station:id:78431
+  city: Viken
+  latitude: 60.700504
+  longitude: 8.954099
+
+- location: Preem Sentrumsvegen 56
+  urn: urn:preem:station:id:78279
+  city: Gol
+  latitude: 60.7005
+  longitude: 8.9541
+
+- location: Preem Kvienga
+  urn: urn:preem:station:id:78240
+  city: Akland
+  latitude: 58.73295
+  longitude: 9.03854
+
+- location: Preem Røn
+  urn: urn:preem:station:id:78258
+  city: Røn
+  latitude: 61.05297
+  longitude: 9.04312
+
+- location: Preem Gjerstadveien 1276
+  urn: urn:preem:station:id:78290
+  city: Gjerstad
+  latitude: 58.82126
+  longitude: 9.07736
+
+- location: Preem Vindeveien 1
+  urn: urn:preem:station:id:78230
+  city: Heggenes
+  latitude: 61.13254
+  longitude: 9.08581
+
+- location: Preem Strengenveien 33
+  urn: urn:preem:station:id:78236
+  city: Lunde
+  latitude: 59.29592
+  longitude: 9.09588
+
+- location: Preem Vågåveien 80
+  urn: urn:preem:station:id:78254
+  city: Vågå
+  latitude: 61.8696
+  longitude: 9.10304
+
+- location: Preem Rukkedalsvegen 1
+  urn: urn:preem:station:id:78486
+  city: Nesbyen
+  latitude: 60.570572
+  longitude: 9.11213
+
+- location: Preem Numedalsvegen 5933
+  urn: urn:preem:station:id:78456
+  city: Viken
+  latitude: 60.041679
+  longitude: 9.154906
+
+- location: Preem Bromma
+  urn: urn:preem:station:id:78205
+  city: Nesbyen
+  latitude: 60.48808
+  longitude: 9.19047
+
+- location: Preem Furumo
+  urn: urn:preem:station:id:78228
+  city: Dovre
+  latitude: 62.01235
+  longitude: 9.20796
+
+- location: Preem Sjukeheimsveien 6
+  urn: urn:preem:station:id:78229
+  city: Rindal
+  latitude: 63.05551
+  longitude: 9.21844
+
+- location: Preem Valdresveien 23
+  urn: urn:preem:station:id:78428
+  city: Innlandet
+  latitude: 60.987441
+  longitude: 9.232865
+
+- location: Preem Kongens Vei 50
+  urn: urn:preem:station:id:78437
+  city: Innlandet
+  latitude: 60.973388
+  longitude: 9.284906
+
+- location: Preem Strand
+  urn: urn:preem:station:id:78444
+  city: Innlandet
+  latitude: 61.849017
+  longitude: 9.427383
+
+- location: Preem Lykkjveien 55
+  urn: urn:preem:station:id:78448
+  city: Trøndelag
+  latitude: 63.093577
+  longitude: 9.598497
+
+- location: Preem Risingvegen 9
+  urn: urn:preem:station:id:78415
+  city: Vestfold Og Telemark
+  latitude: 59.21944
+  longitude: 9.60415
+
+- location: Preem Vallermyrveien 163
+  urn: urn:preem:station:id:78212
+  city: Porsgrunn
+  latitude: 59.12734
+  longitude: 9.68899
+
+- location: Preem Trondheimsveien 1
+  urn: urn:preem:station:id:78225
+  city: Oppdal
+  latitude: 62.59607
+  longitude: 9.69953
+
+- location: Preem Sentrumsveien 116
+  urn: urn:preem:station:id:78445
+  city: Vestfold Og Telemark
+  latitude: 59.283349
+  longitude: 9.731524
+
+- location: Preem Øvregata 23
+  urn: urn:preem:station:id:78458
+  city: Innlandet
+  latitude: 61.593415
+  longitude: 9.756632
+
+- location: Preem Grønørveien 11
+  urn: urn:preem:station:id:78328
+  city: Orkanger
+  latitude: 63.30865
+  longitude: 9.8327
+
+- location: Preem Skotselvveien 90
+  urn: urn:preem:station:id:78423
+  city: Viken
+  latitude: 59.771713
+  longitude: 9.889795
+
+- location: Preem Meierigata 1
+  urn: urn:preem:station:id:78393
+  city: Hokksund
+  latitude: 59.76236
+  longitude: 9.89708
+
+- location: Preem Hallingdalsveien 20
+  urn: urn:preem:station:id:78447
+  city: Viken
+  latitude: 60.23947
+  longitude: 9.92615
+
+- location: Preem Badstutomta
+  urn: urn:preem:station:id:78252
+  city: Rissa
+  latitude: 63.58438
+  longitude: 9.95835
+
+- location: Preem Stalsbergveien 1
+  urn: urn:preem:station:id:78233
+  city: Geithus
+  latitude: 59.91679
+  longitude: 9.96674
+
+- location: Preem Ådalsveien 1161
+  urn: urn:preem:station:id:78381
+  city: Nes I Ådal
+  latitude: 60.56209
+  longitude: 9.99718
+
+- location: Preem Dokken 5
+  urn: urn:preem:station:id:78327
+  city: Dokka
+  latitude: 60.84013
+  longitude: 10.05234
+
+- location: Preem Kindsveien 1
+  urn: urn:preem:station:id:78256
+  city: Tyristrand
+  latitude: 60.08562
+  longitude: 10.09796
+
+- location: Preem Buvikkrysset
+  urn: urn:preem:station:id:78249
+  city: Buvika
+  latitude: 63.30783
+  longitude: 10.17284
+
+- location: Preem Gamleveien 2
+  urn: urn:preem:station:id:78440
+  city: Innlandet
+  latitude: 60.804073
+  longitude: 10.180721
+
+- location: Preem Stasjonsveien
+  urn: urn:preem:station:id:78221
+  city: Fåvang
+  latitude: 61.45375
+  longitude: 10.1884
+
+- location: Preem Moseveien 5
+  urn: urn:preem:station:id:78234
+  city: Hallingby
+  latitude: 60.27709
+  longitude: 10.1888
+
+- location: Preem Soknedal
+  urn: urn:preem:station:id:78226
+  city: Soknedal
+  latitude: 62.94817
+  longitude: 10.19032
+
+- location: Preem Andebuveien 802
+  urn: urn:preem:station:id:78235
+  city: Andebu
+  latitude: 59.30314
+  longitude: 10.20331
+
+- location: Preem Åvegen 7
+  urn: urn:preem:station:id:78208
+  city: Åfjord
+  latitude: 63.96492
+  longitude: 10.21702
+
+- location: Preem Sandebuktveien 2
+  urn: urn:preem:station:id:78211
+  city: Sande I Vestfold
+  latitude: 59.58298
+  longitude: 10.21814
+
+- location: Preem Sandefjordveien 7
+  urn: urn:preem:station:id:78411
+  city: Vestfold Og Telemark
+  latitude: 59.12487
+  longitude: 10.22072
+
+- location: Preem
+  urn: urn:preem:station:id:78224
+  city: Vanvikan
+  latitude: 63.55431
+  longitude: 10.22189
+
+- location: Preem Nøstestranda
+  urn: urn:preem:station:id:78311
+  city: Lierstranda
+  latitude: 59.74699
+  longitude: 10.24248
+
+- location: Preem Hensmoveien, Hensmoen
+  urn: urn:preem:station:id:78319
+  city: Hønefoss
+  latitude: 60.22191
+  longitude: 10.2526
+
+- location: Preem Borgeskogen 45
+  urn: urn:preem:station:id:78322
+  city: Stokke
+  latitude: 59.24616
+  longitude: 10.25319
+
+- location: Preem Osloveien 16
+  urn: urn:preem:station:id:78387
+  city: Hønefoss
+  latitude: 60.15601
+  longitude: 10.25684
+
+- location: Preem Soknesøran 12
+  urn: urn:preem:station:id:78325
+  city: Støren
+  latitude: 63.02879
+  longitude: 10.26434
+
+- location: Preem Stasjonsveien 4
+  urn: urn:preem:station:id:78347
+  city: Kvål
+  latitude: 63.2327
+  longitude: 10.28046
+
+- location: Preem Gausdalsvegen 1155
+  urn: urn:preem:station:id:78429
+  city: Innlandet
+  latitude: 61.217078
+  longitude: 10.282037
+
+- location: Preem Gjellebekkstubben 23
+  urn: urn:preem:station:id:78459
+  city: Lierskogen
+  latitude: 59.81044
+  longitude: 10.30278
+
+- location: Preem Sandmoflaten 4
+  urn: urn:preem:station:id:78333
+  city: Heimdal
+  latitude: 63.33148
+  longitude: 10.35929
+
+- location: Preem Kjøpmannsgaten 41
+  urn: urn:preem:station:id:78475
+  city: Trondheim
+  latitude: 63.431437
+  longitude: 10.40304
+
+- location: Preem Haakon Vii Gate 9
+  urn: urn:preem:station:id:78478
+  city: Trondheim
+  latitude: 63.443598
+  longitude: 10.444411
+
+- location: Preem Løkkegaten 19
+  urn: urn:preem:station:id:78408
+  city: Innlandet
+  latitude: 61.11887
+  longitude: 10.45954
+
+- location: Preem Åsheimveien 32
+  urn: urn:preem:station:id:78200
+  city: Klokkarstua
+  latitude: 59.620185
+  longitude: 10.469332
+
+- location: Preem Rydlandveien 2
+  urn: urn:preem:station:id:78436
+  city: Trøndelag
+  latitude: 63.30164
+  longitude: 10.48559
+
+- location: Preem Rudssletta 90
+  urn: urn:preem:station:id:78400
+  city: Rud
+  latitude: 59.90866
+  longitude: 10.48902
+
+- location: Preem Jakobslivegen 2
+  urn: urn:preem:station:id:78480
+  city: Jakobsli
+  latitude: 63.428144
+  longitude: 10.496914
+
+- location: Preem Drammensveien 444
+  urn: urn:preem:station:id:78389
+  city: Høvik
+  latitude: 59.89996
+  longitude: 10.58486
+
+- location: Preem Storgaten 21
+  urn: urn:preem:station:id:78466
+  city: Raufoss
+  latitude: 60.72218
+  longitude: 10.61175
+
+- location: Preem Bøverbruvegen 11
+  urn: urn:preem:station:id:78442
+  city: Innlandet
+  latitude: 60.685914
+  longitude: 10.613437
+
+- location: Preem Skumsrudveien 25
+  urn: urn:preem:station:id:78373
+  city: Biri
+  latitude: 60.9573
+  longitude: 10.62069
+
+- location: Preem Osloveien 109
+  urn: urn:preem:station:id:78402
+  city: Viken
+  latitude: 59.67456
+  longitude: 10.65686
+
+- location: Preem Drammensveien 215
+  urn: urn:preem:station:id:78390
+  city: Oslo
+  latitude: 59.91786
+  longitude: 10.66042
+
+- location: Preem Ringveien 1
+  urn: urn:preem:station:id:78403
+  city: Innlandet
+  latitude: 60.78508
+  longitude: 10.69282
+
+- location: Preem Vålerveien 157
+  urn: urn:preem:station:id:78304
+  city: Moss
+  latitude: 59.44184
+  longitude: 10.69618
+
+- location: Preem Storgaten 128
+  urn: urn:preem:station:id:78410
+  city: Innlandet
+  latitude: 60.92359
+  longitude: 10.69983
+
+- location: Preem Filipstadveien 2
+  urn: urn:preem:station:id:78306
+  city: Oslo
+  latitude: 59.90906
+  longitude: 10.71425
+
+- location: Preem Vestre Vanemvei 22
+  urn: urn:preem:station:id:78453
+  city: Viken
+  latitude: 59.447965
+  longitude: 10.724402
+
+- location: Preem Sonsveien 99
+  urn: urn:preem:station:id:78348
+  city: Hølen
+  latitude: 59.514854
+  longitude: 10.725692
+
+- location: Preem Kirkeveien 10
+  urn: urn:preem:station:id:78464
+  city: Vestby
+  latitude: 59.60188
+  longitude: 10.74201
+
+- location: Preem Ryggeveien 348
+  urn: urn:preem:station:id:78356
+  city: Rygge
+  latitude: 59.38432
+  longitude: 10.74703
+
+- location: Preem Kongshavnkaia
+  urn: urn:preem:station:id:78301
+  city: Oslo
+  latitude: 59.89632
+  longitude: 10.75414
+
+- location: Preem Sjøskogenveien 2
+  urn: urn:preem:station:id:78346
+  city: Vinterbro
+  latitude: 59.73793
+  longitude: 10.76428
+
+- location: Preem Mosseveien 147
+  urn: urn:preem:station:id:78342
+  city: Oslo
+  latitude: 59.88067
+  longitude: 10.77158
+
+- location: Preem Kveldroveien 44
+  urn: urn:preem:station:id:78341
+  city: Vinterbro
+  latitude: 59.72497
+  longitude: 10.78334
+
+- location: Preem Enebakkveien 135
+  urn: urn:preem:station:id:78413
+  city: Oslo
+  latitude: 59.89512
+  longitude: 10.80274
+
+- location: Preem Stolvstadveien 3
+  urn: urn:preem:station:id:78210
+  city: Rudshøgda
+  latitude: 60.91162
+  longitude: 10.80836
+
+- location: Preem Rudsveien 5
+  urn: urn:preem:station:id:78371
+  city: Rudshøgda
+  latitude: 60.91141
+  longitude: 10.81295
+
+- location: Preem Mosseveien 60
+  urn: urn:preem:station:id:78317
+  city: Råde
+  latitude: 59.35882
+  longitude: 10.83542
+
+- location: Preem Verkseier Furulundsvei 1
+  urn: urn:preem:station:id:78357
+  city: Oslo
+  latitude: 59.927368
+  longitude: 10.851282
+
+- location: Preem Fugleåsen 4
+  urn: urn:preem:station:id:78450
+  city: Viken
+  latitude: 59.772832
+  longitude: 10.851365
+
+- location: Preem Hadelandsveien 1375
+  urn: urn:preem:station:id:78379
+  city: Hakadal
+  latitude: 60.10054
+  longitude: 10.86619
+
+- location: Preem Østre Aker Vei 214
+  urn: urn:preem:station:id:78354
+  city: Oslo
+  latitude: 59.94736
+  longitude: 10.87831
+
+- location: Preem Grorudveien 63
+  urn: urn:preem:station:id:78352
+  city: Oslo
+  latitude: 59.95026
+  longitude: 10.88574
+
+- location: Preem Mosseveien 181
+  urn: urn:preem:station:id:78202
+  city: Gressvik
+  latitude: 59.26127
+  longitude: 10.89212
+
+- location: Preem Carl Bergersensvei 1
+  urn: urn:preem:station:id:78375
+  city: Hagan
+  latitude: 59.98426
+  longitude: 10.92822
+
+- location: Preem Ringsakervegen 15
+  urn: urn:preem:station:id:78250
+  city: Brumunddal
+  latitude: 60.8868
+  longitude: 10.9328
+
+- location: Preem Øvermølnveien 6
+  urn: urn:preem:station:id:78471
+  city: Rørvik
+  latitude: 64.916957
+  longitude: 10.939121
+
+- location: Preem Øvermølnveien 6
+  urn: urn:preem:station:id:78471
+  city: Rørvik
+  latitude: 64.916957
+  longitude: 10.939121
+
+- location: Preem Øvermølnveien 6
+  urn: urn:preem:station:id:78471
+  city: Rørvik
+  latitude: 64.916957
+  longitude: 10.939121
+
+- location: Preem Øvermølnveien 6
+  urn: urn:preem:station:id:78471
+  city: Rørvik
+  latitude: 64.916957
+  longitude: 10.939121
+
+- location: Preem Øvermølnveien 6
+  urn: urn:preem:station:id:78471
+  city: Rørvik
+  latitude: 64.916957
+  longitude: 10.939121
+
+- location: Preem Totenvegen 804
+  urn: urn:preem:station:id:78481
+  city: Skreia
+  latitude: 60.651775
+  longitude: 10.940122
+
+- location: Preem Osloveien 265
+  urn: urn:preem:station:id:78350
+  city: Tomter
+  latitude: 59.618021
+  longitude: 11.003993
+
+- location: Preem Mauravegen 67
+  urn: urn:preem:station:id:78439
+  city: Viken
+  latitude: 60.255569
+  longitude: 11.051544
+
+- location: Preem Glassverkvegen 31
+  urn: urn:preem:station:id:78231
+  city: Hurdal
+  latitude: 60.43987
+  longitude: 11.05662
+
+- location: Preem Gneisveien 8
+  urn: urn:preem:station:id:78330
+  city: Skedsmokorset
+  latitude: 60.01415
+  longitude: 11.05872
+
+- location: Preem Furnesveien 111
+  urn: urn:preem:station:id:78414
+  city: Innlandet
+  latitude: 60.80498
+  longitude: 11.0836
+
+- location: Preem Statsminister Torps Vei 57
+  urn: urn:preem:station:id:78303
+  city: Sarpsborg
+  latitude: 59.26445
+  longitude: 11.11716
+
+- location: Preem Statland
+  urn: urn:preem:station:id:78271
+  city: Nord-statland
+  latitude: 64.49439
+  longitude: 11.13516
+
+- location: Preem Kongsvingerveien 27
+  urn: urn:preem:station:id:78407
+  city: Viken
+  latitude: 60.07759
+  longitude: 11.14604
+
+- location: Preem Storveien 5
+  urn: urn:preem:station:id:78446
+  city: Viken
+  latitude: 59.471152
+  longitude: 11.16522
+
+- location: Preem Kirkeveien 75
+  urn: urn:preem:station:id:78349
+  city: Fetsund
+  latitude: 59.92371
+  longitude: 11.17378
+
+- location: Preem M. Jul Halvorsensvei
+  urn: urn:preem:station:id:78404
+  city: Viken
+  latitude: 60.14137
+  longitude: 11.18099
+
+- location: Preem Åkrestrømmen
+  urn: urn:preem:station:id:78203
+  city: Rendalen
+  latitude: 61.69691
+  longitude: 11.20382
+
+- location: Preem Handverksvegen 40
+  urn: urn:preem:station:id:78438
+  city: Trøndelag
+  latitude: 64.063013
+  longitude: 11.21497
+
+- location: Preem Fetveien 1013
+  urn: urn:preem:station:id:78270
+  city: Gan
+  latitude: 59.88153
+  longitude: 11.22073
+
+- location: Preem Fetveien 1013
+  urn: urn:preem:station:id:78430
+  city: Viken
+  latitude: 59.88153
+  longitude: 11.220732
+
+- location: Preem Hansrudveien
+  urn: urn:preem:station:id:78313
+  city: Stange
+  latitude: 60.71775
+  longitude: 11.22266
+
+- location: Preem S-lag Avd. 88
+  urn: urn:preem:station:id:78263
+  city: Levanger
+  latitude: 63.71704
+  longitude: 11.23112
+
+- location: Preem Sørumsandveien 138
+  urn: urn:preem:station:id:78232
+  city: Sørumsand
+  latitude: 59.98063
+  longitude: 11.24047
+
+- location: Preem Hallindenvägen 20
+  urn: urn:preem:station:id:35364
+  city: Kungshamn
+  latitude: 58.35918
+  longitude: 11.26314
+
+- location: Preem Nedre Vilbergvei 5
+  urn: urn:preem:station:id:78426
+  city: Viken
+  latitude: 60.330544
+  longitude: 11.265697
+
+- location: Preem Svinesundparken 10
+  urn: urn:preem:station:id:78331
+  city: Halden
+  latitude: 59.1301
+  longitude: 11.27399
+
+- location: Preem Moreneveien 5
+  urn: urn:preem:station:id:78307
+  city: Slitu
+  latitude: 59.58149
+  longitude: 11.27837
+
+- location: Preem Båstadveien 635
+  urn: urn:preem:station:id:78424
+  city: Viken
+  latitude: 59.703514
+  longitude: 11.295147
+
+- location: Preem Båstadveien 635
+  urn: urn:preem:station:id:78273
+  city: Båstad
+  latitude: 59.70351
+  longitude: 11.29515
+
+- location: Preem Sagveien 8
+  urn: urn:preem:station:id:78324
+  city: Rakkestad
+  latitude: 59.42644
+  longitude: 11.335
+
+- location: Preem Stasjonsveien 2
+  urn: urn:preem:station:id:78409
+  city: Innlandet
+  latitude: 60.82229
+  longitude: 11.33707
+
+- location: Preem Trondheimsveien 1670
+  urn: urn:preem:station:id:78222
+  city: Rena
+  latitude: 61.16817
+  longitude: 11.34322
+
+- location: Preem Brehogsvägen 1
+  urn: urn:preem:station:id:35050
+  city: Tanumshede
+  latitude: 58.72074
+  longitude: 11.351
+
+- location: Preem Tollef Kildes Gate 12
+  urn: urn:preem:station:id:78412
+  city: Innlandet
+  latitude: 61.1311
+  longitude: 11.37035
+
+- location: Preem Busterudkleiva 45/47
+  urn: urn:preem:station:id:78422
+  city: Viken
+  latitude: 59.13771
+  longitude: 11.380248
+
+- location: Preem Bangsund
+  urn: urn:preem:station:id:78268
+  city: Bangsund
+  latitude: 64.40702
+  longitude: 11.38046
+
+- location: Preem Hyllaveien 2
+  urn: urn:preem:station:id:78223
+  city: Inderøy
+  latitude: 63.84861
+  longitude: 11.40148
+
+- location: Preem Iddeveien 47
+  urn: urn:preem:station:id:78201
+  city: Halden
+  latitude: 59.10791
+  longitude: 11.41846
+
+- location: Preem Haldenveien 823
+  urn: urn:preem:station:id:78465
+  city: Degernes
+  latitude: 59.354451
+  longitude: 11.421242
+
+- location: Preem Landsvägsgatan 48
+  urn: urn:preem:station:id:35450
+  city: Lysekil
+  latitude: 58.28017
+  longitude: 11.45729
+
+- location: Preem Brodalsvägen 20
+  urn: urn:preem:station:id:35030
+  city: Brastad
+  latitude: 58.41424
+  longitude: 11.47869
+
+- location: Preem Akslastien 1
+  urn: urn:preem:station:id:78310
+  city: Spillum
+  latitude: 64.45418
+  longitude: 11.53749
+
+- location: Preem Tegneby 505
+  urn: urn:preem:station:id:35184
+  city: Henån
+  latitude: 58.15081
+  longitude: 11.58998
+
+- location: Preem Svanviks industriområde
+  urn: urn:preem:station:id:1488
+  city: Hjälteby
+  latitude: 58.03023
+  longitude: 11.71282
+
+- location: Preem Braskereidsvegen 2
+  urn: urn:preem:station:id:78253
+  city: Braskereidfoss
+  latitude: 60.72488
+  longitude: 11.80033
+
+- location: Preem Torp Köpcentrum
+  urn: urn:preem:station:id:46101
+  city: Uddevalla
+  latitude: 58.35278
+  longitude: 11.81149
+
+- location: Preem Hjärtholmsv./arendalsv.
+  urn: urn:preem:station:id:4027
+  city: Hisings Backa
+  latitude: 57.70237
+  longitude: 11.830355
+
+- location: Preem Raffinaderivägen 1
+  urn: urn:preem:station:id:31130
+  city: Göteborg
+  latitude: 57.71287
+  longitude: 11.83782
+
+- location: Preem Almåsvägen 1
+  urn: urn:preem:station:id:35420
+  city: Uddevalla
+  latitude: 58.35136
+  longitude: 11.85182
+
+- location: Preem Vikans Industriväg
+  urn: urn:preem:station:id:4067
+  city: Göteborg
+  latitude: 57.70704
+  longitude: 11.85362
+
+- location: Preem Ytterhamnsvägen 1
+  urn: urn:preem:station:id:31213
+  city: Göteborg
+  latitude: 57.70318
+  longitude: 11.85787
+
+- location: Preem Ucklumsvägen 10
+  urn: urn:preem:station:id:35430
+  city: Stenungsund
+  latitude: 58.059525
+  longitude: 11.878216
+
+- location: Preem Skattegårdsvägen 98
+  urn: urn:preem:station:id:31885
+  city: Västra Frölunda
+  latitude: 57.6478
+  longitude: 11.89123
+
+- location: Preem Västra Bräckevägen 50
+  urn: urn:preem:station:id:31156
+  city: Göteborg
+  latitude: 57.705998
+  longitude: 11.891825
+
+- location: Preem Hollandsgatan 1
+  urn: urn:preem:station:id:31905
+  city: Ytterby
+  latitude: 57.86478
+  longitude: 11.92508
+
+- location: Preem Arvid Lindmansgatan 18
+  urn: urn:preem:station:id:31221
+  city: Göteborg
+  latitude: 57.72868
+  longitude: 11.92579
+
+- location: Preem Fiskhamnen 1
+  urn: urn:preem:station:id:4057
+  city: Göteborg
+  latitude: 57.69907
+  longitude: 11.92834
+
+- location: Preem Arntorp 320
+  urn: urn:preem:station:id:1415
+  city: Kareby
+  latitude: 57.90197
+  longitude: 11.93062
+
+- location: Preem Västra Stationsvägen 2a
+  urn: urn:preem:station:id:31052
+  city: Askim
+  latitude: 57.63486
+  longitude: 11.93096
+
+- location: Preem Axel Adlers gata 3
+  urn: urn:preem:station:id:31050
+  city: V:a Frölunda
+  latitude: 57.64725
+  longitude: 11.93225
+
+- location: Preem Bilgatan/truckgatan
+  urn: urn:preem:station:id:4058
+  city: Kungälv
+  latitude: 57.87682
+  longitude: 11.93269
+
+- location: Preem Marklandsgatan 50
+  urn: urn:preem:station:id:31364
+  city: Göteborg
+  latitude: 57.66842
+  longitude: 11.93641
+
+- location: Preem Margretebergsgatan 2
+  urn: urn:preem:station:id:46160
+  city: Göteborg
+  latitude: 57.68077
+  longitude: 11.94455
+
+- location: Preem Horsfjordveien 10
+  urn: urn:preem:station:id:78472
+  city: Bindalseidet
+  latitude: 65.074481
+  longitude: 11.946859
+
+- location: Preem Ångpannegatan 13 Schaktcentralen
+  urn: urn:preem:station:id:4062
+  city: Göteborg
+  latitude: 57.72746
+  longitude: 11.94808
+
+- location: Preem Lundby Hamngata 1
+  urn: urn:preem:station:id:31248
+  city: Göteborg
+  latitude: 57.71992
+  longitude: 11.95905
+
+- location: Preem Kurödsvägen 2
+  urn: urn:preem:station:id:1433
+  city: Uddevalla
+  latitude: 58.35593
+  longitude: 11.96521
+
+- location: Preem Gerles väg 1
+  urn: urn:preem:station:id:1425
+  city: Uddevalla
+  latitude: 58.35478
+  longitude: 11.97277
+
+- location: Preem Södra Tagenevägen 1
+  urn: urn:preem:station:id:31270
+  city: Hisings-backa
+  latitude: 57.75837
+  longitude: 11.9892
+
+- location: Preem Rantorget 1
+  urn: urn:preem:station:id:31602
+  city: Göteborg
+  latitude: 57.7079
+  longitude: 11.99266
+
+- location: Preem Importgatan 2-4
+  urn: urn:preem:station:id:31529
+  city: Hisings-backa
+  latitude: 57.74773
+  longitude: 11.99377
+
+- location: Preem Stigs Center
+  urn: urn:preem:station:id:31530
+  city: Hisings-backa
+  latitude: 57.7473
+  longitude: 11.99401
+
+- location: Preem Kasebergsvägen
+  urn: urn:preem:station:id:4052
+  city: Uddevalla
+  latitude: 58.35491
+  longitude: 11.99411
+
+- location: Preem Uddevallavägen 13
+  urn: urn:preem:station:id:35161
+  city: Färgelanda
+  latitude: 58.56216
+  longitude: 11.99599
+
+- location: Preem Slakthusgatan 10
+  urn: urn:preem:station:id:31481
+  city: Göteborg
+  latitude: 57.73016
+  longitude: 12.00142
+
+- location: Preem Vestre Solørveg 32
+  urn: urn:preem:station:id:78419
+  city: Innlandet
+  latitude: 60.526043
+  longitude: 12.012005
+
+- location: Preem Göteborgsvägen 128
+  urn: urn:preem:station:id:31070
+  city: Bohus
+  latitude: 57.84581
+  longitude: 12.01409
+
+- location: Preem Argongatan 8
+  urn: urn:preem:station:id:4080
+  city: Mölndal
+  latitude: 57.642691
+  longitude: 12.014301
+
+- location: Preem Gottskärsvägen 2
+  urn: urn:preem:station:id:31754
+  city: Onsala
+  latitude: 57.41311
+  longitude: 12.02045
+
+- location: Preem von Utfallsgatan 4b
+  urn: urn:preem:station:id:31510
+  city: Göteborg
+  latitude: 57.72716
+  longitude: 12.02729
+
+- location: Preem Kråketorpsgatan 22
+  urn: urn:preem:station:id:1483
+  city: Mölndal
+  latitude: 57.63737
+  longitude: 12.02927
+
+- location: Preem Nödingevägen 9
+  urn: urn:preem:station:id:31741
+  city: Nödinge
+  latitude: 57.89565
+  longitude: 12.0472
+
+- location: Preem Långavallsgatan 4
+  urn: urn:preem:station:id:4069
+  city: Gunnilse
+  latitude: 57.77385
+  longitude: 12.0587
+
+- location: Preem Sagsjövägen
+  urn: urn:preem:station:id:1484
+  city: Kållered
+  latitude: 57.59821
+  longitude: 12.06104
+
+- location: Preem Gamla Riksvägen 205
+  urn: urn:preem:station:id:31663
+  city: Lindome
+  latitude: 57.57494
+  longitude: 12.07866
+
+- location: Preem Lantmannagatan 1
+  urn: urn:preem:station:id:31585
+  city: Kungsbacka
+  latitude: 57.48621
+  longitude: 12.08138
+
+- location: Preem Göteborgsvägen 110
+  urn: urn:preem:station:id:31819
+  city: Sävedalen
+  latitude: 57.73382
+  longitude: 12.08241
+
+- location: Preem Ljungskilevägen 2
+  urn: urn:preem:station:id:35440
+  city: Lilla Edet
+  latitude: 58.13879
+  longitude: 12.10909
+
+- location: Preem Brodalsvägen 3
+  urn: urn:preem:station:id:4005
+  city: Partille
+  latitude: 57.74378
+  longitude: 12.13259
+
+- location: Preem Skansenvägen 34
+  urn: urn:preem:station:id:35442
+  city: Lilla Edet
+  latitude: 58.148187
+  longitude: 12.133949
+
+- location: Preem Grönnäs 105
+  urn: urn:preem:station:id:31923
+  city: Skepplanda
+  latitude: 57.98735
+  longitude: 12.16327
+
+- location: Preem Grenseveien 664
+  urn: urn:preem:station:id:78746
+  city: Magnor
+  latitude: 59.949538
+  longitude: 12.203354
+
+- location: Preem Trollhättevägen 66
+  urn: urn:preem:station:id:35622
+  city: Sjuntorp
+  latitude: 58.20275
+  longitude: 12.23754
+
+- location: Preem Stampgatan 14
+  urn: urn:preem:station:id:46119
+  city: Vänersborg
+  latitude: 58.339347
+  longitude: 12.238772
+
+- location: Preem Göteborgsvägen 8
+  urn: urn:preem:station:id:31650
+  city: Lerum
+  latitude: 57.76684
+  longitude: 12.26277
+
+- location: Preem Susvindsvägen 15a
+  urn: urn:preem:station:id:46211
+  city: Varberg
+  latitude: 57.123
+  longitude: 12.27654
+
+- location: Preem Stormhallsvägen 10
+  urn: urn:preem:station:id:31870
+  city: Varberg
+  latitude: 57.126
+  longitude: 12.282
+
+- location: Preem Grusvägen
+  urn: urn:preem:station:id:31127
+  city: Gråbo
+  latitude: 57.84208
+  longitude: 12.28894
+
+- location: Preem Emterudsvägen 25
+  urn: urn:preem:station:id:33120
+  city: Charlottenberg
+  latitude: 59.89027
+  longitude: 12.29642
+
+- location: Preem Høylandet
+  urn: urn:preem:station:id:78257
+  city: Høylandet
+  latitude: 64.62814
+  longitude: 12.30572
+
+- location: Preem Anes väg 1
+  urn: urn:preem:station:id:46116
+  city: Trollhättan
+  latitude: 58.31575
+  longitude: 12.30679
+
+- location: Preem Härryda Centrum 2
+  urn: urn:preem:station:id:31534
+  city: Härryda
+  latitude: 57.69023
+  longitude: 12.30922
+
+- location: Preem
+  urn: urn:preem:station:id:78220
+  city: Grong
+  latitude: 64.46502
+  longitude: 12.31393
+
+- location: Preem Kardanvägen 9
+  urn: urn:preem:station:id:4054
+  city: Trollhättan
+  latitude: 58.29347
+  longitude: 12.32149
+
+- location: Preem Storgatan 62
+  urn: urn:preem:station:id:35165
+  city: Brålanda
+  latitude: 58.5597
+  longitude: 12.3573
+
+- location: Preem Högavägen 4
+  urn: urn:preem:station:id:31655
+  city: Floda
+  latitude: 57.8028
+  longitude: 12.36451
+
+- location: Preem Tunhemsvägen 3
+  urn: urn:preem:station:id:46112
+  city: Vargön
+  latitude: 58.35226
+  longitude: 12.39135
+
+- location: Preem Finnskogvegen 2468
+  urn: urn:preem:station:id:78296
+  city: Grue Finnskog
+  latitude: 60.41783
+  longitude: 12.40172
+
+- location: Preem Aleslöv 3
+  urn: urn:preem:station:id:31780
+  city: Rolfstorp
+  latitude: 57.1465
+  longitude: 12.43837
+
+- location: Preem Landsvägsgatan 38
+  urn: urn:preem:station:id:35511
+  city: Mellerud
+  latitude: 58.698156
+  longitude: 12.447681
+
+- location: Preem Charlottenbergsvägen 4
+  urn: urn:preem:station:id:46114
+  city: Alingsås
+  latitude: 57.91758
+  longitude: 12.51713
+
+- location: Preem Mellangårdsvägen 2
+  urn: urn:preem:station:id:12080
+  city: Falkenberg
+  latitude: 56.93222
+  longitude: 12.51771
+
+- location: Preem Kungegårdsgatan 2a
+  urn: urn:preem:station:id:32030
+  city: Alingsås
+  latitude: 57.94017
+  longitude: 12.5264
+
+- location: Preem Skördevägen 2
+  urn: urn:preem:station:id:46045
+  city: Lerberget
+  latitude: 56.18096
+  longitude: 12.56323
+
+- location: Preem Borgens gata 20
+  urn: urn:preem:station:id:4013
+  city: Alingsås
+  latitude: 57.93514
+  longitude: 12.56928
+
+- location: Preem Stationsvägen 16
+  urn: urn:preem:station:id:32105
+  city: Bollebygd
+  latitude: 57.66837
+  longitude: 12.57279
+
+- location: Preem Långvaksvägen 2
+  urn: urn:preem:station:id:33125
+  city: Arvika
+  latitude: 59.6628
+  longitude: 12.62606
+
+- location: Preem Redskapsgatan 1
+  urn: urn:preem:station:id:46106
+  city: Skene
+  latitude: 57.49388
+  longitude: 12.66234
+
+- location: Preem Sydhamnsgatan 12
+  urn: urn:preem:station:id:46047
+  city: Helsingborg
+  latitude: 56.029232
+  longitude: 12.705814
+
+- location: Preem Ängelholmsvägen 38
+  urn: urn:preem:station:id:46041
+  city: Helsingborg
+  latitude: 56.06195
+  longitude: 12.71016
+
+- location: Preem Gustav Adolfs gata 47
+  urn: urn:preem:station:id:46040
+  city: Helsingborg
+  latitude: 56.03617
+  longitude: 12.71168
+
+- location: Preem Stabsgatan 1
+  urn: urn:preem:station:id:46708
+  city: Helsingborg
+  latitude: 56.0611
+  longitude: 12.73475
+
+- location: Preem Södra Hunnetorpsvägen 151
+  urn: urn:preem:station:id:11950
+  city: Helsingborg
+  latitude: 56.0393
+  longitude: 12.74465
+
+- location: Preem Bunkalundsvägen 2
+  urn: urn:preem:station:id:11952
+  city: Helsingborg
+  latitude: 56.01009
+  longitude: 12.76659
+
+- location: Preem Trintegatan 2
+  urn: urn:preem:station:id:46044
+  city: Helsingborg
+  latitude: 56.01936
+  longitude: 12.76706
+
+- location: Preem Hjorthögsvägen 7
+  urn: urn:preem:station:id:46042
+  city: Helsingborg
+  latitude: 56.070526
+  longitude: 12.769203
+
+- location: Preem Knut Påls väg 27
+  urn: urn:preem:station:id:11986
+  city: Helsingborg
+  latitude: 56.04215
+  longitude: 12.77987
+
+- location: Preem Hjultorp 3
+  urn: urn:preem:station:id:32600
+  city: Vårgårda
+  latitude: 58.02303
+  longitude: 12.79045
+
+- location: Preem Västra Borgarhögsvägen 5
+  urn: urn:preem:station:id:11970
+  city: Helsingborg
+  latitude: 56.01634
+  longitude: 12.79619
+
+- location: Preem Örnäsvägen 1
+  urn: urn:preem:station:id:46206
+  city: Halmstad
+  latitude: 56.65961
+  longitude: 12.80755
+
+- location: Preem Furuveien 4
+  urn: urn:preem:station:id:78484
+  city: Trones
+  latitude: 64.741826
+  longitude: 12.843817
+
+- location: Preem Åstorpsvägen 15
+  urn: urn:preem:station:id:12967
+  city: Ängelholm
+  latitude: 56.19459
+  longitude: 12.85463
+
+- location: Preem Österleden 175
+  urn: urn:preem:station:id:46078
+  city: Landskrona
+  latitude: 55.87319
+  longitude: 12.85965
+
+- location: Preem Östergatan 56
+  urn: urn:preem:station:id:49660
+  city: Ängelholm
+  latitude: 56.24879
+  longitude: 12.8686
+
+- location: Preem Företagsvägen 4
+  urn: urn:preem:station:id:51014
+  city: Landskrona
+  latitude: 55.875152
+  longitude: 12.885597
+
+- location: Preem Grönevångsvägen 2
+  urn: urn:preem:station:id:12193
+  city: Halmstad
+  latitude: 56.66007
+  longitude: 12.893
+
+- location: Preem Gjutaregatan 12
+  urn: urn:preem:station:id:1318
+  city: Halmstad
+  latitude: 56.65161
+  longitude: 12.8966
+
+- location: Preem Strandvallen 1
+  urn: urn:preem:station:id:46213
+  city: Halmstad
+  latitude: 56.67573
+  longitude: 12.90814
+
+- location: Preem Hjärnarp Ind.omr, Brovägen 13
+  urn: urn:preem:station:id:12972
+  city: Hjärnarp
+  latitude: 56.32136
+  longitude: 12.91833
+
+- location: Preem Göteborgsvägen 23
+  urn: urn:preem:station:id:32143
+  city: Borås
+  latitude: 57.71715
+  longitude: 12.92229
+
+- location: Preem Lannamärkesvägen 390
+  urn: urn:preem:station:id:49091
+  city: Båstad
+  latitude: 56.388667
+  longitude: 12.937245
+
+- location: Preem Linnégatan 85
+  urn: urn:preem:station:id:46009
+  city: Limhamn
+  latitude: 55.58068
+  longitude: 12.94394
+
+- location: Preem von Lingens väg 2
+  urn: urn:preem:station:id:32140
+  city: Borås
+  latitude: 57.70387
+  longitude: 12.94966
+
+- location: Preem Björkallén 32
+  urn: urn:preem:station:id:49130
+  city: Oskarström
+  latitude: 56.80482
+  longitude: 12.96186
+
+- location: Preem Kungstorpsvägen 4
+  urn: urn:preem:station:id:11184
+  city: Höllviken
+  latitude: 55.42537
+  longitude: 12.96299
+
+- location: Preem Lorensborgsgatan 10
+  urn: urn:preem:station:id:46008
+  city: Malmö
+  latitude: 55.58543
+  longitude: 12.98156
+
+- location: Preem Hultagatan 49b
+  urn: urn:preem:station:id:46113
+  city: Borås
+  latitude: 57.72375
+  longitude: 12.98741
+
+- location: Preem Orrlidsvägen 1
+  urn: urn:preem:station:id:86809
+  city: Sälen
+  latitude: 61.18005
+  longitude: 12.99066
+
+- location: Preem Kornellgatan 2
+  urn: urn:preem:station:id:32260
+  city: Brämhult
+  latitude: 57.72712
+  longitude: 13.00525
+
+- location: Preem Alingsåsvägen 2
+  urn: urn:preem:station:id:46161
+  city: Herrljunga
+  latitude: 58.07808
+  longitude: 13.0136
+
+- location: Preem Eriksfältsgatan 55
+  urn: urn:preem:station:id:46013
+  city: Malmö
+  latitude: 55.57583
+  longitude: 13.01509
+
+- location: Preem Västra Hindbyvägen 2
+  urn: urn:preem:station:id:49047
+  city: Malmö
+  latitude: 55.57698
+  longitude: 13.02393
+
+- location: Preem Ängelholmsvägen 26
+  urn: urn:preem:station:id:49090
+  city: Laholm
+  latitude: 56.50217
+  longitude: 13.03287
+
+- location: Preem Hanögatan 10a
+  urn: urn:preem:station:id:46011
+  city: Malmö
+  latitude: 55.6193
+  longitude: 13.03712
+
+- location: Preem Scheelegatan 50
+  urn: urn:preem:station:id:11587
+  city: Malmö
+  latitude: 55.59027
+  longitude: 13.03777
+
+- location: Preem Kantyxegatan 21
+  urn: urn:preem:station:id:1224
+  city: Malmö
+  latitude: 55.55772
+  longitude: 13.04619
+
+- location: Preem Vinkelgatan 1
+  urn: urn:preem:station:id:46025
+  city: Malmö
+  latitude: 55.627508
+  longitude: 13.055
+
+- location: Preem Thomsons väg 1
+  urn: urn:preem:station:id:46003
+  city: Malmö
+  latitude: 55.58361
+  longitude: 13.05504
+
+- location: Preem Rampvägen
+  urn: urn:preem:station:id:46023
+  city: Burlöv, Arlöv
+  latitude: 55.64217
+  longitude: 13.08551
+
+- location: Preem Stengodsvägen 2
+  urn: urn:preem:station:id:46014
+  city: Oxie
+  latitude: 55.53917
+  longitude: 13.0926
+
+- location: Preem Strandgatan 68
+  urn: urn:preem:station:id:33663
+  city: Slottsbron
+  latitude: 59.31682
+  longitude: 13.09965
+
+- location: Preem Nylännesgatan 1
+  urn: urn:preem:station:id:46105
+  city: Svenljunga
+  latitude: 57.5006
+  longitude: 13.11432
+
+- location: Preem Storgatan 90
+  urn: urn:preem:station:id:11267
+  city: Klippan
+  latitude: 56.13927
+  longitude: 13.11495
+
+- location: Preem Bygatan 1
+  urn: urn:preem:station:id:49721
+  city: Våxtorp
+  latitude: 56.41858
+  longitude: 13.11745
+
+- location: Preem Västra Långgatan 26
+  urn: urn:preem:station:id:46084
+  city: Kävlinge
+  latitude: 55.79752
+  longitude: 13.11773
+
+- location: Preem Mor Marnas väg 2
+  urn: urn:preem:station:id:11515
+  city: Arlöv
+  latitude: 55.6169
+  longitude: 13.1209
+
+- location: Preem Stavstensvägen 158
+  urn: urn:preem:station:id:46096
+  city: Trelleborg
+  latitude: 55.37695
+  longitude: 13.12236
+
+- location: Preem Strandridaregatan 10
+  urn: urn:preem:station:id:11857
+  city: Trelleborg
+  latitude: 55.37407
+  longitude: 13.12904
+
+- location: Preem Jung 1 Jungtorp
+  urn: urn:preem:station:id:34450
+  city: Kvänum
+  latitude: 58.32785
+  longitude: 13.1335
+
+- location: Preem Storgatan 7
+  urn: urn:preem:station:id:46065
+  city: Klippan
+  latitude: 56.1331
+  longitude: 13.13892
+
+- location: Preem Björnänge 825
+  urn: urn:preem:station:id:84020
+  city: Åre
+  latitude: 63.37922
+  longitude: 13.15117
+
+- location: Preem Wennerbergsvägen 26
+  urn: urn:preem:station:id:46108
+  city: Lidköping
+  latitude: 58.49793
+  longitude: 13.17415
+
+- location: Preem Jägaregatan 2
+  urn: urn:preem:station:id:46609
+  city: Lund
+  latitude: 55.72474
+  longitude: 13.18162
+
+- location: Preem Önsvala Allé 2
+  urn: urn:preem:station:id:64210
+  city: Staffanstorp
+  latitude: 55.62931
+  longitude: 13.18653
+
+- location: Preem Kartåsgatan 3
+  urn: urn:preem:station:id:1495
+  city: Lidköping
+  latitude: 58.48963
+  longitude: 13.19482
+
+- location: Preem Långgatan 63
+  urn: urn:preem:station:id:33832
+  city: Vålberg
+  latitude: 59.39633
+  longitude: 13.19554
+
+- location: Preem Tordenskjolds Gate 45
+  urn: urn:preem:station:id:78344
+  city: Mosjøen
+  latitude: 65.83379
+  longitude: 13.19801
+
+- location: Preem Malmövägen 42
+  urn: urn:preem:station:id:46097
+  city: Svedala
+  latitude: 55.51817
+  longitude: 13.20837
+
+- location: Preem Industrivägen 8
+  urn: urn:preem:station:id:1210
+  city: Staffanstorp
+  latitude: 55.65528
+  longitude: 13.22122
+
+- location: Preem Gamla Nissastigen 1
+  urn: urn:preem:station:id:31250
+  city: Hyltebruk
+  latitude: 56.99247
+  longitude: 13.22164
+
+- location: Preem Glimmervägen 1
+  urn: urn:preem:station:id:46081
+  city: Lund
+  latitude: 55.69569
+  longitude: 13.22283
+
+- location: Preem Montörsgatan 6
+  urn: urn:preem:station:id:4110
+  city: Kil
+  latitude: 59.51016
+  longitude: 13.30195
+
+- location: Preem Hjelmsjöstrandsgatan 1
+  urn: urn:preem:station:id:12982
+  city: Örkelljunga
+  latitude: 56.28721
+  longitude: 13.30404
+
+- location: Preem Kvarngatan 56
+  urn: urn:preem:station:id:49391
+  city: Eslöv
+  latitude: 55.83432
+  longitude: 13.30813
+
+- location: Preem Landsvägen 2107
+  urn: urn:preem:station:id:11016
+  city: Anderslöv
+  latitude: 55.44006
+  longitude: 13.30883
+
+- location: Preem Västra Järnvägsgatan 2
+  urn: urn:preem:station:id:49314
+  city: Limmared
+  latitude: 57.536
+  longitude: 13.35221
+
+- location: Preem Boråsvägen 27
+  urn: urn:preem:station:id:46159
+  city: Ulricehamn
+  latitude: 57.80383
+  longitude: 13.40717
+
+- location: Preem Trones
+  urn: urn:preem:station:id:78260
+  city: Trones
+  latitude: 65.5332
+  longitude: 13.40804
+
+- location: Preem Älvdalsvägen 65
+  urn: urn:preem:station:id:33130
+  city: Deje
+  latitude: 59.60911
+  longitude: 13.45416
+
+- location: Preem Erik Järnåkersgata 5
+  urn: urn:preem:station:id:34575
+  city: Skara
+  latitude: 58.3824
+  longitude: 13.45789
+
+- location: Preem Dalbyvägen 29
+  urn: urn:preem:station:id:49361
+  city: Veberöd
+  latitude: 55.64009
+  longitude: 13.48333
+
+- location: Preem Orrspelsvägen 52
+  urn: urn:preem:station:id:1235
+  city: Veberöd
+  latitude: 55.64229
+  longitude: 13.49719
+
+- location: Preem Svaneholmsvägen 3
+  urn: urn:preem:station:id:17630
+  city: Skurup
+  latitude: 55.48286
+  longitude: 13.49881
+
+- location: Preem Asklidenvägen 2
+  urn: urn:preem:station:id:49169
+  city: Skurup
+  latitude: 55.49422
+  longitude: 13.50669
+
+- location: Preem Lundängsgatan 1
+  urn: urn:preem:station:id:34557
+  city: Götene
+  latitude: 58.54001
+  longitude: 13.51722
+
+- location: Preem Falköpingsvägen 22a
+  urn: urn:preem:station:id:34080
+  city: Kinnarp
+  latitude: 58.07924
+  longitude: 13.52222
+
+- location: Preem Pumpgatan 6
+  urn: urn:preem:station:id:33377
+  city: Karlstad
+  latitude: 59.382297
+  longitude: 13.522818
+
+- location: Preem Furubovägen 1
+  urn: urn:preem:station:id:84160
+  city: Hede
+  latitude: 62.42161
+  longitude: 13.53705
+
+- location: Preem Mårtensgatan 1
+  urn: urn:preem:station:id:46523
+  city: Gislaved
+  latitude: 57.30947
+  longitude: 13.54486
+
+- location: Preem Nya Sätoftavägen 2
+  urn: urn:preem:station:id:11232
+  city: Höör
+  latitude: 55.92626
+  longitude: 13.5452
+
+- location: Preem Lovartsgatan 3
+  urn: urn:preem:station:id:4096
+  city: Karlstad
+  latitude: 59.37781
+  longitude: 13.56108
+
+- location: Preem Midfalegatan 2
+  urn: urn:preem:station:id:1617
+  city: Falköping
+  latitude: 58.16296
+  longitude: 13.57246
+
+- location: Preem Rastvägen 1
+  urn: urn:preem:station:id:34085
+  city: Falköping
+  latitude: 58.15991
+  longitude: 13.57349
+
+- location: Preem Mogatan 2
+  urn: urn:preem:station:id:36240
+  city: Hestra
+  latitude: 57.44685
+  longitude: 13.59401
+
+- location: Preem Ulvarydsvägen 1 A
+  urn: urn:preem:station:id:12976
+  city: Markaryd
+  latitude: 56.446
+  longitude: 13.60312
+
+- location: Preem Ringsjövägen 5
+  urn: urn:preem:station:id:46035
+  city: Hörby
+  latitude: 55.85066
+  longitude: 13.65604
+
+- location: Preem Fabriksgatan 1
+  urn: urn:preem:station:id:49093
+  city: Sösdala
+  latitude: 56.03744
+  longitude: 13.68115
+
+- location: Preem Kyrkogårdsvägen 6
+  urn: urn:preem:station:id:1701
+  city: Hagfors
+  latitude: 60.04078
+  longitude: 13.70741
+
+- location: Preem Moravägen 3
+  urn: urn:preem:station:id:86555
+  city: Malung
+  latitude: 60.6841
+  longitude: 13.7168
+
+- location: Preem Graningevägen 2
+  urn: urn:preem:station:id:33535
+  city: Molkom
+  latitude: 59.59841
+  longitude: 13.72129
+
+- location: Preem Ekeröd 5278
+  urn: urn:preem:station:id:15645
+  city: Hörby
+  latitude: 55.90136
+  longitude: 13.73128
+
+- location: Preem Södra Kringelvägen 1
+  urn: urn:preem:station:id:49094
+  city: Hässleholm
+  latitude: 56.15054
+  longitude: 13.77894
+
+- location: Preem Terminalgatan 1
+  urn: urn:preem:station:id:1294
+  city: Hässleholm
+  latitude: 56.15649
+  longitude: 13.81019
+
+- location: Preem Industrigatan 11
+  urn: urn:preem:station:id:34549
+  city: Mariestad
+  latitude: 58.69421
+  longitude: 13.81704
+
+- location: Preem Hammarsmedsgatan 16
+  urn: urn:preem:station:id:1492
+  city: Mariestad
+  latitude: 58.68222
+  longitude: 13.82381
+
+- location: Preem Södra Dragongatan 23
+  urn: urn:preem:station:id:49186
+  city: Ystad
+  latitude: 55.42848
+  longitude: 13.84008
+
+- location: Preem Jule
+  urn: urn:preem:station:id:78265
+  city: Sørli
+  latitude: 64.16781
+  longitude: 13.85492
+
+- location: Preem Bangårdsgatan 2
+  urn: urn:preem:station:id:34646
+  city: Skövde
+  latitude: 58.39324
+  longitude: 13.86676
+
+- location: Preem Bangårdsgatan 11
+  urn: urn:preem:station:id:1450
+  city: Skövde
+  latitude: 58.39806
+  longitude: 13.86989
+
+- location: Preem Ringvägen 8
+  urn: urn:preem:station:id:12467
+  city: Ljungby
+  latitude: 56.816022
+  longitude: 13.908539
+
+- location: Preem Långgatan 2
+  urn: urn:preem:station:id:49083
+  city: Ljungby
+  latitude: 56.82996
+  longitude: 13.92287
+
+- location: Preem Speditörvägen 1
+  urn: urn:preem:station:id:49062
+  city: Värnamo
+  latitude: 57.17583
+  longitude: 14.00225
+
+- location: Preem Kristianstadsgatan 1
+  urn: urn:preem:station:id:16571
+  city: Osby
+  latitude: 56.37798
+  longitude: 14.00463
+
+- location: Preem Radiatorvägen 12
+  urn: urn:preem:station:id:1101
+  city: Osby
+  latitude: 56.36419
+  longitude: 14.01805
+
+- location: Preem Dalgatan 57
+  urn: urn:preem:station:id:86975
+  city: Älvdalen
+  latitude: 61.22467
+  longitude: 14.04331
+
+- location: Preem Malmövägen 5
+  urn: urn:preem:station:id:49054
+  city: Värnamo
+  latitude: 57.18146
+  longitude: 14.05906
+
+- location: Preem Kristianstadsvägen 8
+  urn: urn:preem:station:id:46608
+  city: Knislinge
+  latitude: 56.18855
+  longitude: 14.08605
+
+- location: Preem Kung Knuts väg 49
+  urn: urn:preem:station:id:16415
+  city: Kristianstad
+  latitude: 56.00163
+  longitude: 14.09311
+
+- location: Preem Osbäcksväg 4
+  urn: urn:preem:station:id:36860
+  city: Skillingaryd
+  latitude: 57.45016
+  longitude: 14.10069
+
+- location: Preem Månseryd
+  urn: urn:preem:station:id:36384
+  city: Jönköping
+  latitude: 57.82831
+  longitude: 14.1026
+
+- location: Preem Kabelvägen 21
+  urn: urn:preem:station:id:1281
+  city: Kristianstad
+  latitude: 56.01538
+  longitude: 14.1192
+
+- location: Preem Vegagatan 7
+  urn: urn:preem:station:id:1705
+  city: Kristinehamn
+  latitude: 59.30133
+  longitude: 14.12876
+
+- location: Preem Gamla Slätthultsvägen 3
+  urn: urn:preem:station:id:36933
+  city: Älmhult
+  latitude: 56.5328
+  longitude: 14.1314
+
+- location: Preem Hokvägen 2a
+  urn: urn:preem:station:id:36876
+  city: Vaggeryd
+  latitude: 57.50547
+  longitude: 14.14415
+
+- location: Preem Mellomvika 43
+  urn: urn:preem:station:id:78323
+  city: Mo I Rana
+  latitude: 66.32282
+  longitude: 14.1474
+
+- location: Preem Hagaleden 1
+  urn: urn:preem:station:id:36410
+  city: Jönköping
+  latitude: 57.76233
+  longitude: 14.15127
+
+- location: Preem Möbelvägen 14
+  urn: urn:preem:station:id:36420
+  city: Jönköping
+  latitude: 57.683933
+  longitude: 14.152028
+
+- location: Preem Tegelbruksvägen 11, Näsby
+  urn: urn:preem:station:id:16390
+  city: Kristianstad
+  latitude: 56.04928
+  longitude: 14.15795
+
+- location: Preem Mariestadsvägen 29
+  urn: urn:preem:station:id:46158
+  city: Tibro
+  latitude: 58.43148
+  longitude: 14.15998
+
+- location: Preem Mäster Bonggatan 4e
+  urn: urn:preem:station:id:46072
+  city: Kristianstad
+  latitude: 56.02647
+  longitude: 14.17017
+
+- location: Preem Solåsvägen 8
+  urn: urn:preem:station:id:46570
+  city: Jönköping
+  latitude: 57.76162
+  longitude: 14.17574
+
+- location: Preem Skolvägen 1
+  urn: urn:preem:station:id:46604
+  city: Gärsnäs
+  latitude: 55.54431
+  longitude: 14.19081
+
+- location: Preem Artillerigatan 3
+  urn: urn:preem:station:id:36425
+  city: Jönköping
+  latitude: 57.77946
+  longitude: 14.19349
+
+- location: Preem Rullvägen 4
+  urn: urn:preem:station:id:84465
+  city: Klövsjö
+  latitude: 62.525745
+  longitude: 14.193531
+
+- location: Preem Saltfjellveien 38
+  urn: urn:preem:station:id:78345
+  city: Mo I Rana
+  latitude: 66.32534
+  longitude: 14.19549
+
+- location: Preem Vasavägen 1
+  urn: urn:preem:station:id:46517
+  city: Jönköping
+  latitude: 57.78497
+  longitude: 14.23075
+
+- location: Preem Birkagatan 36
+  urn: urn:preem:station:id:36270
+  city: Huskvarna
+  latitude: 57.7868
+  longitude: 14.25527
+
+- location: Preem Brovägen 1
+  urn: urn:preem:station:id:84528
+  city: Nälden
+  latitude: 63.34288
+  longitude: 14.26527
+
+- location: Preem Grännavägen 20
+  urn: urn:preem:station:id:49348
+  city: Huskvarna
+  latitude: 57.79586
+  longitude: 14.27072
+
+- location: Preem Tullvaktaregatan 3
+  urn: urn:preem:station:id:1102
+  city: Åhus
+  latitude: 55.93266
+  longitude: 14.28118
+
+- location: Preem Jönköpingsvägen 9
+  urn: urn:preem:station:id:36816
+  city: Tenhult
+  latitude: 57.71251
+  longitude: 14.31627
+
+- location: Preem Vättersmålen 1
+  urn: urn:preem:station:id:36120
+  city: Gränna
+  latitude: 57.92467
+  longitude: 14.32001
+
+- location: Preem
+  urn: urn:preem:station:id:78291
+  city: Nygårdsjøen
+  latitude: 67.1102
+  longitude: 14.32892
+
+- location: Preem Storgatan 51
+  urn: urn:preem:station:id:46090
+  city: Simrishamn
+  latitude: 55.55505
+  longitude: 14.33874
+
+- location: Preem Parkgatan 19
+  urn: urn:preem:station:id:84735
+  city: Sveg
+  latitude: 62.03721
+  longitude: 14.38841
+
+- location: Preem Brånan 571
+  urn: urn:preem:station:id:2310
+  city: Åsarna
+  latitude: 62.69273
+  longitude: 14.40473
+
+- location: Preem Bøveien 875
+  urn: urn:preem:station:id:78289
+  city: Straumsjøen
+  latitude: 68.68819
+  longitude: 14.47117
+
+- location: Preem Tians väg 2
+  urn: urn:preem:station:id:46073
+  city: Bromölla
+  latitude: 56.0657
+  longitude: 14.4779
+
+- location: Preem Östersjövägen
+  urn: urn:preem:station:id:1260
+  city: Nymölla
+  latitude: 56.04356
+  longitude: 14.48748
+
+- location: Preem Saxhyttevägen 4
+  urn: urn:preem:station:id:1841
+  city: Hällefors
+  latitude: 59.78713
+  longitude: 14.5023
+
+- location: Preem Brahehus E4
+  urn: urn:preem:station:id:46173
+  city: Gränna
+  latitude: 58.05179
+  longitude: 14.50782
+
+- location: Preem Södra vägen 9
+  urn: urn:preem:station:id:34396
+  city: Karlsborg
+  latitude: 58.52571
+  longitude: 14.5117
+
+- location: Preem Lönsbodavägen 345
+  urn: urn:preem:station:id:46320
+  city: Olofström
+  latitude: 56.30819
+  longitude: 14.51542
+
+- location: Preem Lönsbodavägen 10-5
+  urn: urn:preem:station:id:46317
+  city: Olofström
+  latitude: 56.28207
+  longitude: 14.5204
+
+- location: Preem Dössjonsvägen 19
+  urn: urn:preem:station:id:2070
+  city: Mora
+  latitude: 60.99049
+  longitude: 14.53612
+
+- location: Preem Gruvegaten 1
+  urn: urn:preem:station:id:78218
+  city: Storforshei
+  latitude: 66.40473
+  longitude: 14.53766
+
+- location: Preem Örebrovägen 63
+  urn: urn:preem:station:id:55363
+  city: Karlskoga
+  latitude: 59.3284
+  longitude: 14.5727
+
+- location: Preem Växjövägen 2
+  urn: urn:preem:station:id:36472
+  city: Lammhult
+  latitude: 57.16906
+  longitude: 14.5798
+
+- location: Preem Skålmyrsvägen 35
+  urn: urn:preem:station:id:86227
+  city: Mora
+  latitude: 61.00797
+  longitude: 14.5902
+
+- location: Preem Smedjegatan 2
+  urn: urn:preem:station:id:55420
+  city: Laxå
+  latitude: 58.98423
+  longitude: 14.63434
+
+- location: Preem Rådhusgatan 94
+  urn: urn:preem:station:id:84897
+  city: Östersund
+  latitude: 63.16699
+  longitude: 14.64863
+
+- location: Preem Trådvägen 12
+  urn: urn:preem:station:id:2305
+  city: Östersund
+  latitude: 63.21164
+  longitude: 14.64969
+
+- location: Preem Västra Järnvägsgatan 14
+  urn: urn:preem:station:id:36780
+  city: Sävsjö
+  latitude: 57.40172
+  longitude: 14.66448
+
+- location: Preem Lievägen 2
+  urn: urn:preem:station:id:57869
+  city: Ödeshög
+  latitude: 58.23344
+  longitude: 14.67167
+
+- location: Preem Vallvägen 15
+  urn: urn:preem:station:id:4026
+  city: Östersund
+  latitude: 63.17162
+  longitude: 14.68707
+
+- location: Preem Terminalgatan 5
+  urn: urn:preem:station:id:5013
+  city: Nässjö
+  latitude: 57.677164
+  longitude: 14.690219
+
+- location: Preem Storgatan 47
+  urn: urn:preem:station:id:732
+  city: Ryd
+  latitude: 56.46274
+  longitude: 14.69365
+
+- location: Preem Handskerydsvägen 1a
+  urn: urn:preem:station:id:49347
+  city: Nässjö
+  latitude: 57.64693
+  longitude: 14.70394
+
+- location: Preem Stora Räppevägen 62
+  urn: urn:preem:station:id:4001
+  city: Växjö
+  latitude: 56.885499
+  longitude: 14.728537
+
+- location: Preem Hammerdalsvägen 1
+  urn: urn:preem:station:id:36915
+  city: Växjö
+  latitude: 56.88694
+  longitude: 14.76115
+
+- location: Preem Arabygatan 37
+  urn: urn:preem:station:id:4087
+  city: Växjö
+  latitude: 56.88939
+  longitude: 14.78198
+
+- location: Preem Fabriksvägen
+  urn: urn:preem:station:id:1833
+  city: Aspa Bruk
+  latitude: 58.75775
+  longitude: 14.80567
+
+- location: Preem Torggatan 20 A
+  urn: urn:preem:station:id:36015
+  city: Aneby
+  latitude: 57.83731
+  longitude: 14.80926
+
+- location: Preem Verkstadsvägen 10
+  urn: urn:preem:station:id:1071
+  city: Asarum
+  latitude: 56.19619
+  longitude: 14.81598
+
+- location: Preem Rådjursvägen 2
+  urn: urn:preem:station:id:46305
+  city: Växjö
+  latitude: 56.90376
+  longitude: 14.82751
+
+- location: Preem Östregårdsgatan 51
+  urn: urn:preem:station:id:36926
+  city: Växjö
+  latitude: 56.88001
+  longitude: 14.82895
+
+- location: Preem Sandviksvägen 2
+  urn: urn:preem:station:id:46512
+  city: Växjö
+  latitude: 56.87879
+  longitude: 14.83298
+
+- location: Preem Garagevägen 7
+  urn: urn:preem:station:id:4025
+  city: Brunflo
+  latitude: 63.07115
+  longitude: 14.84204
+
+- location: Preem Dusavägen 2
+  urn: urn:preem:station:id:336
+  city: Växjö
+  latitude: 56.86116
+  longitude: 14.8553
+
+- location: Preem Erik Dahlbergsvägen 60
+  urn: urn:preem:station:id:46537
+  city: Karlshamn
+  latitude: 56.17759
+  longitude: 14.8578
+
+- location: Preem Strömsundsvägen 9b
+  urn: urn:preem:station:id:84208
+  city: Häggenås
+  latitude: 63.39055
+  longitude: 14.90652
+
+- location: Preem Lustenrustvägen 5
+  urn: urn:preem:station:id:55035
+  city: Askersund
+  latitude: 58.8907
+  longitude: 14.91912
+
+- location: Preem Bredkärrsgatan 6
+  urn: urn:preem:station:id:5015
+  city: Tranås
+  latitude: 58.031339
+  longitude: 14.947805
+
+- location: Preem Kråkebergsvägen 1
+  urn: urn:preem:station:id:36155
+  city: Eksjö
+  latitude: 57.6487
+  longitude: 14.94973
+
+- location: Preem Transportvägen 5
+  urn: urn:preem:station:id:36385
+  city: Tingsryd
+  latitude: 56.5355
+  longitude: 14.9573
+
+- location: Preem Säbyvägen 34
+  urn: urn:preem:station:id:46521
+  city: Tranås
+  latitude: 58.02868
+  longitude: 14.96272
+
+- location: Preem Tullgatan 3
+  urn: urn:preem:station:id:49037
+  city: Eksjö
+  latitude: 57.66544
+  longitude: 14.97789
+
+- location: Preem Lokgatan 2
+  urn: urn:preem:station:id:46507
+  city: Tingsryd
+  latitude: 56.52111
+  longitude: 14.98131
+
+- location: Preem Vei 1340, Husnr 3589
+  urn: urn:preem:station:id:78286
+  city: Misvær
+  latitude: 67.11668
+  longitude: 15.00449
+
+- location: Preem Tälleleden/älbergsvägen
+  urn: urn:preem:station:id:1822
+  city: Hallsberg
+  latitude: 59.05949
+  longitude: 15.04043
+
+- location: Preem Dynamovägen 6
+  urn: urn:preem:station:id:531
+  city: Motala
+  latitude: 58.55798
+  longitude: 15.05752
+
+- location: Preem Östermalmsgatan 119
+  urn: urn:preem:station:id:57532
+  city: Motala
+  latitude: 58.55084
+  longitude: 15.06211
+
+- location: Preem Ernst Hedlunds väg 1
+  urn: urn:preem:station:id:86347
+  city: Gagnef
+  latitude: 60.59553
+  longitude: 15.08091
+
+- location: Preem Motalagatan 17
+  urn: urn:preem:station:id:57644
+  city: Skänninge
+  latitude: 58.39953
+  longitude: 15.08482
+
+- location: Preem Trollegatan 3
+  urn: urn:preem:station:id:4015
+  city: Mjölby
+  latitude: 58.321455
+  longitude: 15.086594
+
+- location: Preem Trollegatan 3
+  urn: urn:preem:station:id:4016
+  city: Mjölby
+  latitude: 58.321455
+  longitude: 15.086594
+
+- location: Preem Storgata 60
+  urn: urn:preem:station:id:78351
+  city: Myre
+  latitude: 68.915024
+  longitude: 15.09836
+
+- location: Preem Åhlbyvägen 26
+  urn: urn:preem:station:id:2018
+  city: Insjön
+  latitude: 60.68739
+  longitude: 15.10853
+
+- location: Preem Riksvägen 22
+  urn: urn:preem:station:id:86970
+  city: Rättvik
+  latitude: 60.88796
+  longitude: 15.11239
+
+- location: Preem Ramstadsgatan 6
+  urn: urn:preem:station:id:57520
+  city: Mjölby
+  latitude: 58.32966
+  longitude: 15.11662
+
+- location: Preem Berglundavägen 16
+  urn: urn:preem:station:id:55895
+  city: Örebro
+  latitude: 59.236517
+  longitude: 15.136338
+
+- location: Preem Berglundavägen 20
+  urn: urn:preem:station:id:55884
+  city: Örebro
+  latitude: 59.237
+  longitude: 15.138
+
+- location: Preem Linköpingsvägen 3
+  urn: urn:preem:station:id:530
+  city: Mjölby
+  latitude: 58.33598
+  longitude: 15.16094
+
+- location: Preem Norsebäck 561
+  urn: urn:preem:station:id:1834
+  city: Ervalla
+  latitude: 59.4241
+  longitude: 15.17897
+
+- location: Preem Stafettgatan 3
+  urn: urn:preem:station:id:55522
+  city: Lindesberg
+  latitude: 59.6006
+  longitude: 15.19376
+
+- location: Preem Gustavviksvägen 4
+  urn: urn:preem:station:id:55886
+  city: Örebro
+  latitude: 59.26321
+  longitude: 15.195032
+
+- location: Preem Lars Wivallius väg 2
+  urn: urn:preem:station:id:55002
+  city: Örebro
+  latitude: 59.29238
+  longitude: 15.20293
+
+- location: Preem Verkstadsvägen 3
+  urn: urn:preem:station:id:4125
+  city: Ludvika
+  latitude: 60.148053
+  longitude: 15.210829
+
+- location: Preem Galtsjön 1
+  urn: urn:preem:station:id:45197
+  city: Ronneby
+  latitude: 56.22074
+  longitude: 15.21266
+
+- location: Preem Virkesvägen 5
+  urn: urn:preem:station:id:1820
+  city: Örebro
+  latitude: 59.28925
+  longitude: 15.21461
+
+- location: Preem Örsta 420
+  urn: urn:preem:station:id:1840
+  city: Kumla
+  latitude: 59.12751
+  longitude: 15.22712
+
+- location: Preem Klockarängsvägen 2
+  urn: urn:preem:station:id:55465
+  city: Örebro
+  latitude: 59.31582
+  longitude: 15.22999
+
+- location: Preem Storgatan 56
+  urn: urn:preem:station:id:46306
+  city: Lessebo
+  latitude: 56.75643
+  longitude: 15.26638
+
+- location: Preem Karlshamnsvägen 12
+  urn: urn:preem:station:id:46536
+  city: Ronneby
+  latitude: 56.21615
+  longitude: 15.27169
+
+- location: Preem Gamla Skänningevägen 2
+  urn: urn:preem:station:id:57165
+  city: Borensberg
+  latitude: 58.55787
+  longitude: 15.2828
+
+- location: Preem Hedvägen 3
+  urn: urn:preem:station:id:57517
+  city: Mantorp
+  latitude: 58.36604
+  longitude: 15.29849
+
+- location: Preem Trollebo 829
+  urn: urn:preem:station:id:86705
+  city: Borlänge
+  latitude: 60.43285
+  longitude: 15.34008
+
+- location: Preem Järnvägsgatan 14
+  urn: urn:preem:station:id:36930
+  city: Åseda
+  latitude: 57.16681
+  longitude: 15.35508
+
+- location: Preem Follavegen 88
+  urn: urn:preem:station:id:78462
+  city: Fauske
+  latitude: 67.2721
+  longitude: 15.39729
+
+- location: Preem Follavegen 88
+  urn: urn:preem:station:id:78463
+  city: Fauske
+  latitude: 67.272108
+  longitude: 15.397296
+
+- location: Preem Storjord
+  urn: urn:preem:station:id:78295
+  city: Røkland
+  latitude: 66.81375
+  longitude: 15.40177
+
+- location: Preem Kemivägen 8
+  urn: urn:preem:station:id:55872
+  city: Glanshammar
+  latitude: 59.31487
+  longitude: 15.40814
+
+- location: Preem Ritargatan 5
+  urn: urn:preem:station:id:4045
+  city: Borlänge
+  latitude: 60.47668
+  longitude: 15.41665
+
+- location: Preem Tjärnvägen 6
+  urn: urn:preem:station:id:2308
+  city: Bräcke
+  latitude: 62.75603
+  longitude: 15.41812
+
+- location: Preem Mejselgatan 2
+  urn: urn:preem:station:id:2008
+  city: Borlänge
+  latitude: 60.46825
+  longitude: 15.43471
+
+- location: Preem Siljansvägen 4
+  urn: urn:preem:station:id:86090
+  city: Borlänge
+  latitude: 60.48708
+  longitude: 15.43759
+
+- location: Preem Sigerfjordveien 2
+  urn: urn:preem:station:id:78272
+  city: Sortland
+  latitude: 68.66767
+  longitude: 15.47626
+
+- location: Preem Gjutformsgatan 4 (blåsvädret)
+  urn: urn:preem:station:id:57785
+  city: Ljungsbro
+  latitude: 58.49087
+  longitude: 15.49826
+
+- location: Preem Skräddaruddsgatan 10
+  urn: urn:preem:station:id:4109
+  city: Strömsund
+  latitude: 63.84296
+  longitude: 15.57645
+
+- location: Preem Rydsvägen 1c
+  urn: urn:preem:station:id:57477
+  city: Linköping
+  latitude: 58.40678
+  longitude: 15.57884
+
+- location: Preem Järnvägsgatan 2
+  urn: urn:preem:station:id:36564
+  city: Mariannelund
+  latitude: 57.61715
+  longitude: 15.5823
+
+- location: Preem Heliumgatan 2
+  urn: urn:preem:station:id:46531
+  city: Karlskrona
+  latitude: 56.17263
+  longitude: 15.59735
+
+- location: Preem Ronnebyvägen 3
+  urn: urn:preem:station:id:46535
+  city: Karlskrona
+  latitude: 56.19757
+  longitude: 15.60955
+
+- location: Preem Nedre Heden 1
+  urn: urn:preem:station:id:86222
+  city: Falun
+  latitude: 60.62533
+  longitude: 15.61071
+
+- location: Preem Karlskronavägen 40
+  urn: urn:preem:station:id:49711
+  city: Rödeby
+  latitude: 56.25132
+  longitude: 15.61953
+
+- location: Preem Verkövägen 5
+  urn: urn:preem:station:id:46542
+  city: Karlskrona
+  latitude: 56.19604
+  longitude: 15.63844
+
+- location: Preem Järavägen 2, Vedeby
+  urn: urn:preem:station:id:46316
+  city: Karlskrona
+  latitude: 56.20275
+  longitude: 15.64119
+
+- location: Preem Väringagatan 11
+  urn: urn:preem:station:id:57504
+  city: Linköping
+  latitude: 58.4166
+  longitude: 15.6427
+
+- location: Preem Enebygatan 53
+  urn: urn:preem:station:id:5017
+  city: Kisa
+  latitude: 57.985454
+  longitude: 15.651156
+
+- location: Preem Idögatan 7
+  urn: urn:preem:station:id:532
+  city: Linköping
+  latitude: 58.42295
+  longitude: 15.67486
+
+- location: Preem Idögatan 20
+  urn: urn:preem:station:id:57350
+  city: Linköping
+  latitude: 58.42429
+  longitude: 15.68755
+
+- location: Preem Rottnebyvägen 4
+  urn: urn:preem:station:id:86226
+  city: Falun
+  latitude: 60.58983
+  longitude: 15.71883
+
+- location: Preem Bergslagsvägen 77
+  urn: urn:preem:station:id:56108
+  city: Finspång
+  latitude: 58.70942
+  longitude: 15.75042
+
+- location: Preem Lövparksvägen 11
+  urn: urn:preem:station:id:1943
+  city: Fagersta
+  latitude: 59.98265
+  longitude: 15.80058
+
+- location: Preem Atlantvägen 1
+  urn: urn:preem:station:id:46318
+  city: Målilla
+  latitude: 57.38785
+  longitude: 15.8056
+
+- location: Preem Kristiansbergsvägen 12
+  urn: urn:preem:station:id:86198
+  city: Fagersta
+  latitude: 59.99459
+  longitude: 15.80903
+
+- location: Preem Östra Centralgatan 1
+  urn: urn:preem:station:id:85150
+  city: Edsbyn
+  latitude: 61.37772
+  longitude: 15.82224
+
+- location: Preem Grenvägen 2
+  urn: urn:preem:station:id:805
+  city: Hultsfred
+  latitude: 57.50193
+  longitude: 15.82828
+
+- location: Preem Norra Oskarsgatan 79
+  urn: urn:preem:station:id:14348
+  city: Hultsfred
+  latitude: 57.49443
+  longitude: 15.83754
+
+- location: Preem Brånavägen 1
+  urn: urn:preem:station:id:2106
+  city: Edsbyn
+  latitude: 61.37086
+  longitude: 15.84249
+
+- location: Preem Bensingatan 5
+  urn: urn:preem:station:id:55011
+  city: Arboga
+  latitude: 59.38948
+  longitude: 15.84518
+
+- location: Preem Flygvägen 3a
+  urn: urn:preem:station:id:55015
+  city: Arboga
+  latitude: 59.3964
+  longitude: 15.8869
+
+- location: Preem Fågelvägen 2
+  urn: urn:preem:station:id:46511
+  city: Nybro
+  latitude: 56.73564
+  longitude: 15.93214
+
+- location: Preem Svarvargatan 19
+  urn: urn:preem:station:id:1938
+  city: Norberg
+  latitude: 60.05498
+  longitude: 15.93856
+
+- location: Preem Norholmsvägen 49
+  urn: urn:preem:station:id:4078
+  city: Norsholm
+  latitude: 58.50128
+  longitude: 15.97183
+
+- location: Preem Bäckgatan 16
+  urn: urn:preem:station:id:4014
+  city: Åtvidaberg
+  latitude: 58.2136
+  longitude: 15.9852
+
+- location: Preem Ivarshyttevägen 22
+  urn: urn:preem:station:id:2050
+  city: Hedemora
+  latitude: 60.29403
+  longitude: 15.98599
+
+- location: Preem Sjøvegen 62
+  urn: urn:preem:station:id:78278
+  city: Lødingen
+  latitude: 68.42103
+  longitude: 15.98955
+
+- location: Preem Industrivägen 5
+  urn: urn:preem:station:id:54844
+  city: Köping
+  latitude: 59.50506
+  longitude: 16.00037
+
+- location: Preem Söderleden 3
+  urn: urn:preem:station:id:57834
+  city: Åtvidaberg
+  latitude: 58.19513
+  longitude: 16.00136
+
+- location: Preem Stavsätter Färilavägen 1
+  urn: urn:preem:station:id:2104
+  city: Ljusdal
+  latitude: 61.8205
+  longitude: 16.06001
+
+- location: Preem Ekesvägen 11
+  urn: urn:preem:station:id:14748
+  city: Söderåkra
+  latitude: 56.45112
+  longitude: 16.07179
+
+- location: Preem Västanedevägen 2
+  urn: urn:preem:station:id:2306
+  city: Kälarne
+  latitude: 62.98522
+  longitude: 16.08886
+
+- location: Preem Hotellgatan 57
+  urn: urn:preem:station:id:85485
+  city: Ljusdal
+  latitude: 61.82448
+  longitude: 16.11046
+
+- location: Preem Kungsgatan 1
+  urn: urn:preem:station:id:55376
+  city: Kungsör
+  latitude: 59.4254
+  longitude: 16.11926
+
+- location: Preem Koppargatan 2c
+  urn: urn:preem:station:id:56532
+  city: Norrköping
+  latitude: 58.6113
+  longitude: 16.1586
+
+- location: Preem Källhagsgatan 2
+  urn: urn:preem:station:id:4108
+  city: Avesta
+  latitude: 60.13743
+  longitude: 16.16112
+
+- location: Preem Källhagsgatan 1
+  urn: urn:preem:station:id:2055
+  city: Avesta
+  latitude: 60.13663
+  longitude: 16.16755
+
+- location: Preem Svanemvegen 2
+  urn: urn:preem:station:id:78421
+  city: Troms Og Finnmark
+  latitude: 68.772673
+  longitude: 16.168102
+
+- location: Preem Ströbogatan 27
+  urn: urn:preem:station:id:56550
+  city: Åby
+  latitude: 58.644023
+  longitude: 16.171225
+
+- location: Preem Pjältvägen 11
+  urn: urn:preem:station:id:56531
+  city: Åby
+  latitude: 58.650606
+  longitude: 16.174758
+
+- location: Preem Spårgatan 3
+  urn: urn:preem:station:id:56540
+  city: Norrköping
+  latitude: 58.60237
+  longitude: 16.18739
+
+- location: Preem Bergsnäsgatan 6
+  urn: urn:preem:station:id:86019
+  city: Avesta
+  latitude: 60.14016
+  longitude: 16.19353
+
+- location: Preem Storgatan 42
+  urn: urn:preem:station:id:83206
+  city: Hoting
+  latitude: 64.111342
+  longitude: 16.202378
+
+- location: Preem Importgatan 2-4
+  urn: urn:preem:station:id:4028
+  city: Norrköping
+  latitude: 58.58338
+  longitude: 16.21376
+
+- location: Preem Importgatan 2-4
+  urn: urn:preem:station:id:4077
+  city: Norrköping
+  latitude: 58.58338
+  longitude: 16.21376
+
+- location: Preem Importgatan 2-4
+  urn: urn:preem:station:id:4082
+  city: Norrköping
+  latitude: 58.58185
+  longitude: 16.2138
+
+- location: Preem Brunnsgatan 10
+  urn: urn:preem:station:id:56238
+  city: Katrineholm
+  latitude: 58.99738
+  longitude: 16.2158
+
+- location: Preem Enbärsvägen 1
+  urn: urn:preem:station:id:54596
+  city: Surahammar
+  latitude: 59.69912
+  longitude: 16.24385
+
+- location: Preem Eriksbergsvägen 2
+  urn: urn:preem:station:id:1960
+  city: Hallstahammar
+  latitude: 59.58931
+  longitude: 16.24827
+
+- location: Preem Furulidsvägen 15
+  urn: urn:preem:station:id:14682
+  city: Kalmar
+  latitude: 56.65042
+  longitude: 16.25516
+
+- location: Preem Törnebyvägen 2
+  urn: urn:preem:station:id:46513
+  city: Kalmar
+  latitude: 56.67116
+  longitude: 16.30229
+
+- location: Preem Polhemsgatan 4
+  urn: urn:preem:station:id:14440
+  city: Kalmar
+  latitude: 56.67167
+  longitude: 16.3354
+
+- location: Preem Gamla Revsuddevägen 3
+  urn: urn:preem:station:id:14693
+  city: Rockneby
+  latitude: 56.79607
+  longitude: 16.3548
+
+- location: Preem Vikbäckens industriområde
+  urn: urn:preem:station:id:2307
+  city: Hammarstrand
+  latitude: 63.08659
+  longitude: 16.37007
+
+- location: Preem Alsteråvägen 1
+  urn: urn:preem:station:id:14902
+  city: Ålem
+  latitude: 56.94484
+  longitude: 16.38873
+
+- location: Preem Järnvägsgatan 41
+  urn: urn:preem:station:id:85084
+  city: Bollnäs
+  latitude: 61.35453
+  longitude: 16.39926
+
+- location: Preem Västerviksvägen 13
+  urn: urn:preem:station:id:58272
+  city: Gamleby
+  latitude: 57.89847
+  longitude: 16.4036
+
+- location: Preem Väderumsvägen 2b
+  urn: urn:preem:station:id:806
+  city: Oskarshamn
+  latitude: 57.25373
+  longitude: 16.43093
+
+- location: Preem Speditörsgatan 2
+  urn: urn:preem:station:id:54868
+  city: Västerås
+  latitude: 59.597649
+  longitude: 16.435059
+
+- location: Preem Lövgrensvägen 4
+  urn: urn:preem:station:id:1215
+  city: Oskarshamn
+  latitude: 57.24928
+  longitude: 16.44383
+
+- location: Preem Sörviksvägen 10
+  urn: urn:preem:station:id:49045
+  city: Oskarshamn
+  latitude: 57.25243
+  longitude: 16.44847
+
+- location: Preem Mått Johanssons väg 54
+  urn: urn:preem:station:id:52396
+  city: Eskilstuna
+  latitude: 59.389096
+  longitude: 16.468174
+
+- location: Preem Träffpunkt Öland
+  urn: urn:preem:station:id:46563
+  city: Färjestaden
+  latitude: 56.66536
+  longitude: 16.48195
+
+- location: Preem Saltängsvägen 39 Hacksta
+  urn: urn:preem:station:id:1950
+  city: Västerås
+  latitude: 59.58877
+  longitude: 16.48652
+
+- location: Preem Gårdskälsgatan 2
+  urn: urn:preem:station:id:52330
+  city: Eskilstuna
+  latitude: 59.38885
+  longitude: 16.53123
+
+- location: Preem Sørvik
+  urn: urn:preem:station:id:78276
+  city: Sørvik
+  latitude: 68.685
+  longitude: 16.53605
+
+- location: Preem Västansjö 606
+  urn: urn:preem:station:id:85065
+  city: Bjuråker
+  latitude: 61.88219
+  longitude: 16.53613
+
+- location: Preem Landsvägen 8
+  urn: urn:preem:station:id:85696
+  city: Storvik
+  latitude: 60.59023
+  longitude: 16.53671
+
+- location: Preem Lögarängsvägen 1
+  urn: urn:preem:station:id:54847
+  city: Västerås
+  latitude: 59.60332
+  longitude: 16.54516
+
+- location: Preem Strängnäsvägen 10
+  urn: urn:preem:station:id:52325
+  city: Eskilstuna
+  latitude: 59.36985
+  longitude: 16.55215
+
+- location: Preem Elledningsgatan 2
+  urn: urn:preem:station:id:54877
+  city: Västerås
+  latitude: 59.64315
+  longitude: 16.56682
+
+- location: Preem Skånlandsveien 55
+  urn: urn:preem:station:id:78285
+  city: Evenskjer
+  latitude: 68.58622
+  longitude: 16.57142
+
+- location: Preem Kraftlinjegatan 14
+  urn: urn:preem:station:id:54850
+  city: Västerås
+  latitude: 59.64263
+  longitude: 16.57161
+
+- location: Preem Vägmästarvägen 6
+  urn: urn:preem:station:id:52331
+  city: Eskilstuna
+  latitude: 59.37715
+  longitude: 16.57954
+
+- location: Preem Kungsforsvägen 28
+  urn: urn:preem:station:id:85444
+  city: Järbo
+  latitude: 60.71781
+  longitude: 16.59373
+
+- location: Preem Kungsvägen 8
+  urn: urn:preem:station:id:52495
+  city: Flen
+  latitude: 59.05067
+  longitude: 16.59834
+
+- location: Preem Stockholmsvägen 128
+  urn: urn:preem:station:id:54875
+  city: Västerås
+  latitude: 59.61351
+  longitude: 16.601261
+
+- location: Preem Hällagatan 3
+  urn: urn:preem:station:id:1935
+  city: Västerås
+  latitude: 59.60924
+  longitude: 16.61561
+
+- location: Preem Fabriksgatan 13
+  urn: urn:preem:station:id:1932
+  city: Sala
+  latitude: 59.91244
+  longitude: 16.62532
+
+- location: Preem Videvägen 64
+  urn: urn:preem:station:id:2437
+  city: Vilhelmina
+  latitude: 64.61516
+  longitude: 16.67865
+
+- location: Preem Williams väg
+  urn: urn:preem:station:id:52333
+  city: Eskilstuna
+  latitude: 59.365743
+  longitude: 16.691794
+
+- location: Preem Hamrångevägen 17a
+  urn: urn:preem:station:id:85565
+  city: Ockelbo
+  latitude: 60.89846
+  longitude: 16.72868
+
+- location: Preem Gävlevägen 54
+  urn: urn:preem:station:id:85603
+  city: Sandviken
+  latitude: 60.6246
+  longitude: 16.78131
+
+- location: Preem Skomakarevägen 2
+  urn: urn:preem:station:id:85540
+  city: Söderala
+  latitude: 61.28633
+  longitude: 16.84226
+
+- location: Preem Kyrkvägen 1
+  urn: urn:preem:station:id:85697
+  city: Stråtjära
+  latitude: 61.16626
+  longitude: 16.8437
+
+- location: Preem Industrivägen 1
+  urn: urn:preem:station:id:1933
+  city: Heby
+  latitude: 59.93444
+  longitude: 16.86826
+
+- location: Preem Värdshusvägen 2
+  urn: urn:preem:station:id:331
+  city: Tärnsjö
+  latitude: 60.1536
+  longitude: 16.9468
+
+- location: Preem Kocks väg 1
+  urn: urn:preem:station:id:56052
+  city: Nyköping
+  latitude: 58.75335
+  longitude: 16.97445
+
+- location: Preem Hästvägen 10
+  urn: urn:preem:station:id:56578
+  city: Nyköping
+  latitude: 58.764885
+  longitude: 16.989005
+
+- location: Preem Strandveien 50
+  urn: urn:preem:station:id:78283
+  city: Bogen I Ofoten
+  latitude: 68.52607
+  longitude: 16.99438
+
+- location: Preem Åkerbärsvägen 2
+  urn: urn:preem:station:id:56051
+  city: Nyköping
+  latitude: 58.74846
+  longitude: 16.99697
+
+- location: Preem Åkerbärsvägen 2
+  urn: urn:preem:station:id:56050
+  city: Nyköping
+  latitude: 58.74834
+  longitude: 16.99704
+
+- location: Preem Taxivägen 14
+  urn: urn:preem:station:id:81501
+  city: Matfors
+  latitude: 62.349
+  longitude: 17.01617
+
+- location: Preem Ringvägen 49
+  urn: urn:preem:station:id:56576
+  city: Nyköping
+  latitude: 58.74833
+  longitude: 17.01921
+
+- location: Preem Pinassvägen 2
+  urn: urn:preem:station:id:85721
+  city: Söderhamn
+  latitude: 61.29861
+  longitude: 17.02957
+
+- location: Preem Lärlingsvägen 7-13
+  urn: urn:preem:station:id:52752
+  city: Strängnäs
+  latitude: 59.35727
+  longitude: 17.0319
+
+- location: Preem Medskog Södra 3
+  urn: urn:preem:station:id:85417
+  city: Hudiksvall
+  latitude: 61.7139
+  longitude: 17.0433
+
+- location: Preem Dr Westerlunds gata 20
+  urn: urn:preem:station:id:54140
+  city: Enköping
+  latitude: 59.63756
+  longitude: 17.06614
+
+- location: Preem Malmbyhus 1-3
+  urn: urn:preem:station:id:52756
+  city: Strängnäs
+  latitude: 59.33297
+  longitude: 17.06627
+
+- location: Preem Stora vägen 54
+  urn: urn:preem:station:id:85425
+  city: Iggesund
+  latitude: 61.65303
+  longitude: 17.08214
+
+- location: Preem Norra Industrivägen 2
+  urn: urn:preem:station:id:85414
+  city: Hudiksvall
+  latitude: 61.74549
+  longitude: 17.1169
+
+- location: Preem Brovägen 25
+  urn: urn:preem:station:id:45255
+  city: Gävle
+  latitude: 60.64896
+  longitude: 17.11881
+
+- location: Preem Industrivägen 12
+  urn: urn:preem:station:id:85506
+  city: Ljusne
+  latitude: 61.208834
+  longitude: 17.11976
+
+- location: Preem Gävlebro E4
+  urn: urn:preem:station:id:85266
+  city: Gävle
+  latitude: 60.649442
+  longitude: 17.120523
+
+- location: Preem Skärnäs Hamnen
+  urn: urn:preem:station:id:2133
+  city: Iggesund
+  latitude: 61.62822
+  longitude: 17.12197
+
+- location: Preem Sätrahöjden 8
+  urn: urn:preem:station:id:85353
+  city: Gävle
+  latitude: 60.68813
+  longitude: 17.12671
+
+- location: Preem Strömsbrovägen 24
+  urn: urn:preem:station:id:85350
+  city: Gävle
+  latitude: 60.68672
+  longitude: 17.15362
+
+- location: Preem Solum 202
+  urn: urn:preem:station:id:4035
+  city: Kovland
+  latitude: 62.46992
+  longitude: 17.15914
+
+- location: Preem Södra Kungsvägen 28
+  urn: urn:preem:station:id:85312
+  city: Gävle
+  latitude: 60.65895
+  longitude: 17.16336
+
+- location: Preem Industrigatan 2
+  urn: urn:preem:station:id:2115
+  city: Gävle
+  latitude: 60.66806
+  longitude: 17.17201
+
+- location: Preem Tjärdalsvägen 1
+  urn: urn:preem:station:id:335
+  city: Harbo
+  latitude: 60.10011
+  longitude: 17.19084
+
+- location: Preem Fredriksskans
+  urn: urn:preem:station:id:85352
+  city: Gävle
+  latitude: 60.69825
+  longitude: 17.20437
+
+- location: Preem Rödsta 201
+  urn: urn:preem:station:id:4111
+  city: Sollefteå
+  latitude: 63.17022
+  longitude: 17.2325
+
+- location: Preem Skolsta, Grillbyvägen 2
+  urn: urn:preem:station:id:325
+  city: Grillby
+  latitude: 59.65694
+  longitude: 17.24694
+
+- location: Preem Fridhemsgatan 1
+  urn: urn:preem:station:id:81650
+  city: Sundsvall
+  latitude: 62.38469
+  longitude: 17.3142
+
+- location: Preem Förmansvägen 9, Birsta Ind Omr
+  urn: urn:preem:station:id:2200
+  city: Sundsvall
+  latitude: 62.44488
+  longitude: 17.32027
+
+- location: Preem Kolvägen 3
+  urn: urn:preem:station:id:4038
+  city: Sundsvall
+  latitude: 62.38739
+  longitude: 17.32241
+
+- location: Preem Landsvägsallén 14
+  urn: urn:preem:station:id:81640
+  city: Sundsvall
+  latitude: 62.38546
+  longitude: 17.32553
+
+- location: Preem Hagavägen 27
+  urn: urn:preem:station:id:64205
+  city: Sundsvall
+  latitude: 62.40133
+  longitude: 17.32787
+
+- location: Preem Timmervägen 6, Birsta
+  urn: urn:preem:station:id:81651
+  city: Sundsvall
+  latitude: 62.44905
+  longitude: 17.33317
+
+- location: Preem Norra vägen 28
+  urn: urn:preem:station:id:4024
+  city: Sundsvall
+  latitude: 62.42104
+  longitude: 17.34608
+
+- location: Preem Oxsätra 29
+  urn: urn:preem:station:id:333
+  city: Bälinge
+  latitude: 60.001677
+  longitude: 17.362054
+
+- location: Preem Myre 101
+  urn: urn:preem:station:id:81517
+  city: Njurunda
+  latitude: 62.24818
+  longitude: 17.37425
+
+- location: Preem Jättorpsvägen 1
+  urn: urn:preem:station:id:54145
+  city: Bålsta
+  latitude: 59.62218
+  longitude: 17.39116
+
+- location: Preem Dragon Gate
+  urn: urn:preem:station:id:85655
+  city: Älvkarleby
+  latitude: 60.46356
+  longitude: 17.41706
+
+- location: Preem Gävlevägen 46
+  urn: urn:preem:station:id:85649
+  city: Skutskär
+  latitude: 60.62392
+  longitude: 17.4174
+
+- location: Preem Kyrkängsvägen 4, Ramstalund
+  urn: urn:preem:station:id:59429
+  city: Uppsala
+  latitude: 59.79756
+  longitude: 17.44429
+
+- location: Preem Skälbyvägen 1
+  urn: urn:preem:station:id:51760
+  city: Nykvarn
+  latitude: 59.18695
+  longitude: 17.45776
+
+- location: Preem Månkarbovägen 40
+  urn: urn:preem:station:id:85552
+  city: Månkarbo
+  latitude: 60.22721
+  longitude: 17.46436
+
+- location: Preem Industrigatan 2
+  urn: urn:preem:station:id:330
+  city: Tierp
+  latitude: 60.34601
+  longitude: 17.49292
+
+- location: Preem Stationsvägen 2
+  urn: urn:preem:station:id:51861
+  city: Vagnhärad
+  latitude: 58.94734
+  longitude: 17.50173
+
+- location: Preem Gävlevägen 43
+  urn: urn:preem:station:id:85744
+  city: Tierp
+  latitude: 60.34444
+  longitude: 17.50656
+
+- location: Preem Rönnvägen 3
+  urn: urn:preem:station:id:51217
+  city: Järna
+  latitude: 59.09446
+  longitude: 17.55864
+
+- location: Preem Medbymoen 11
+  urn: urn:preem:station:id:78488
+  city: Bjerkvik
+  latitude: 68.541088
+  longitude: 17.578272
+
+- location: Preem Marmorvägen 2
+  urn: urn:preem:station:id:59825
+  city: Uppsala
+  latitude: 59.83942
+  longitude: 17.61237
+
+- location: Preem Morabergsvägen 17
+  urn: urn:preem:station:id:4018
+  city: Södertälje
+  latitude: 59.20457
+  longitude: 17.65525
+
+- location: Preem Morabergsvägen 17
+  urn: urn:preem:station:id:4051
+  city: Södertälje
+  latitude: 59.20457
+  longitude: 17.65525
+
+- location: Preem Kvarnängsgatan 53
+  urn: urn:preem:station:id:59859
+  city: Uppsala
+  latitude: 59.86858
+  longitude: 17.65841
+
+- location: Preem Klastorpsvägen 2
+  urn: urn:preem:station:id:51780
+  city: Södertälje
+  latitude: 59.20037
+  longitude: 17.66142
+
+- location: Preem Kuggebrovägen 5
+  urn: urn:preem:station:id:59826
+  city: Uppsala
+  latitude: 59.84688
+  longitude: 17.66747
+
+- location: Preem Spikgatan 3a
+  urn: urn:preem:station:id:59775
+  city: Uppsala
+  latitude: 59.84599
+  longitude: 17.68132
+
+- location: Preem Espenesveien 75
+  urn: urn:preem:station:id:78334
+  city: Brøstadbotn
+  latitude: 69.09323
+  longitude: 17.70326
+
+- location: Preem Gnistagatan 2
+  urn: urn:preem:station:id:59860
+  city: Uppsala
+  latitude: 59.84498
+  longitude: 17.72742
+
+- location: Preem Kumlagatan 1
+  urn: urn:preem:station:id:59820
+  city: Uppsala
+  latitude: 59.844841
+  longitude: 17.727817
+
+- location: Preem Mätarvägen 16
+  urn: urn:preem:station:id:51030
+  city: Kungsängen
+  latitude: 59.508608
+  longitude: 17.731161
+
+- location: Preem Hampkullagatan 20
+  urn: urn:preem:station:id:85661
+  city: Skärplinge
+  latitude: 60.47436
+  longitude: 17.7591
+
+- location: Preem Strandgatan 2
+  urn: urn:preem:station:id:81400
+  city: Kramfors
+  latitude: 62.93174
+  longitude: 17.77411
+
+- location: Preem Företagsvägen 1
+  urn: urn:preem:station:id:2213
+  city: Kramfors
+  latitude: 62.91216
+  longitude: 17.79088
+
+- location: Preem Lövkojsgränd 4
+  urn: urn:preem:station:id:51036
+  city: Hässelby
+  latitude: 59.37957
+  longitude: 17.8159
+
+- location: Preem Skarprättarvägen 8
+  urn: urn:preem:station:id:51090
+  city: Järfälla
+  latitude: 59.4654
+  longitude: 17.81857
+
+- location: Preem Bryggavägen 109
+  urn: urn:preem:station:id:181
+  city: Ekerö
+  latitude: 59.28504
+  longitude: 17.83017
+
+- location: Preem Strandveien 9
+  urn: urn:preem:station:id:78336
+  city: Sjøvegan
+  latitude: 68.87388
+  longitude: 17.83474
+
+- location: Preem Nässlandsvägen 23
+  urn: urn:preem:station:id:81890
+  city: Älandsbro
+  latitude: 62.67575
+  longitude: 17.84132
+
+- location: Preem Stationsgatan 16
+  urn: urn:preem:station:id:51305
+  city: Märsta
+  latitude: 59.62805
+  longitude: 17.85108
+
+- location: Preem Herrestavägen 35
+  urn: urn:preem:station:id:51085
+  city: Järfälla
+  latitude: 59.41822
+  longitude: 17.85776
+
+- location: Preem Maskingatan 25
+  urn: urn:preem:station:id:183
+  city: Arlandastad
+  latitude: 59.62309
+  longitude: 17.87372
+
+- location: Preem Titangatan 3
+  urn: urn:preem:station:id:51306
+  city: Rosersberg
+  latitude: 59.5669
+  longitude: 17.8863
+
+- location: Preem Blackebergsvägen 122
+  urn: urn:preem:station:id:51063
+  city: Bromma
+  latitude: 59.34638
+  longitude: 17.8936
+
+- location: Preem Norrsundavägen 202
+  urn: urn:preem:station:id:51308
+  city: Rosersberg
+  latitude: 59.575963
+  longitude: 17.897481
+
+- location: Preem Smedjevägen 4
+  urn: urn:preem:station:id:4032
+  city: Härnösand
+  latitude: 62.64941
+  longitude: 17.89852
+
+- location: Preem Täbylundsvägen 63
+  urn: urn:preem:station:id:51478
+  city: Spånga
+  latitude: 59.37279
+  longitude: 17.89901
+
+- location: Preem Volvo Truck Center, Prismavägen 8
+  urn: urn:preem:station:id:51425
+  city: Kungens Kurva
+  latitude: 59.262087
+  longitude: 17.906388
+
+- location: Preem Knistavägen 3
+  urn: urn:preem:station:id:51311
+  city: Sollentuna
+  latitude: 59.43299
+  longitude: 17.92806
+
+- location: Preem Konsul Johnsons väg 4
+  urn: urn:preem:station:id:191
+  city: Nynäshamn
+  latitude: 58.92006
+  longitude: 17.93591
+
+- location: Preem Slättgårdsvägen 121
+  urn: urn:preem:station:id:51420
+  city: Hägersten
+  latitude: 59.28942
+  longitude: 17.94825
+
+- location: Preem Flemingsbergsleden 1
+  urn: urn:preem:station:id:51141
+  city: Huddinge
+  latitude: 59.22389
+  longitude: 17.94897
+
+- location: Preem Frestavägen 10
+  urn: urn:preem:station:id:51840
+  city: Täby
+  latitude: 59.475
+  longitude: 18.0084
+
+- location: Preem Solnavägen 15a
+  urn: urn:preem:station:id:51468
+  city: Solna
+  latitude: 59.35307
+  longitude: 18.01738
+
+- location: Preem Hardemogatan 25
+  urn: urn:preem:station:id:51111
+  city: Bandhagen
+  latitude: 59.25836
+  longitude: 18.02994
+
+- location: Preem Norr Mälarstrand 31
+  urn: urn:preem:station:id:51621
+  city: Stockholm
+  latitude: 59.32634
+  longitude: 18.04259
+
+- location: Preem Lunda Norrby
+  urn: urn:preem:station:id:170
+  city: Märsta
+  latitude: 59.67682
+  longitude: 18.0431
+
+- location: Preem Vikingavägen 6
+  urn: urn:preem:station:id:51837
+  city: Täby
+  latitude: 59.48512
+  longitude: 18.05587
+
+- location: Preem Stallarholmsvägen 4
+  urn: urn:preem:station:id:51115
+  city: Bandhagen
+  latitude: 59.2625
+  longitude: 18.0623
+
+- location: Preem Ytterbyvägen 18
+  urn: urn:preem:station:id:51369
+  city: Täby
+  latitude: 59.43431
+  longitude: 18.06614
+
+- location: Preem Industrivägen 2
+  urn: urn:preem:station:id:51882
+  city: Vallentuna
+  latitude: 59.53179
+  longitude: 18.0793
+
+- location: Preem Arenavägen 87
+  urn: urn:preem:station:id:51126
+  city: Johanneshov
+  latitude: 59.28885
+  longitude: 18.08645
+
+- location: Preem Tungelstavägen 51
+  urn: urn:preem:station:id:51924
+  city: Västerhaninge
+  latitude: 59.1218
+  longitude: 18.09099
+
+- location: Preem Silovägen 14
+  urn: urn:preem:station:id:51928
+  city: Haninge
+  latitude: 59.154125
+  longitude: 18.110756
+
+- location: Preem Termikvägen 2
+  urn: urn:preem:station:id:51918
+  city: Täby
+  latitude: 59.44807
+  longitude: 18.12023
+
+- location: Preem Speditionsvägen 7
+  urn: urn:preem:station:id:51145
+  city: Skogås
+  latitude: 59.20231
+  longitude: 18.12055
+
+- location: Preem Södra Kungsvägen 84
+  urn: urn:preem:station:id:51270
+  city: Lidingö
+  latitude: 59.35699
+  longitude: 18.13585
+
+- location: Preem Vendelsövägen 17
+  urn: urn:preem:station:id:51925
+  city: Handen
+  latitude: 59.17697
+  longitude: 18.14921
+
+- location: Preem Storveien 19
+  urn: urn:preem:station:id:78284
+  city: Sørreisa
+  latitude: 69.14622
+  longitude: 18.15707
+
+- location: Preem Ullna Ind.omr 7 Rydbo Terminal
+  urn: urn:preem:station:id:175
+  city: Åkersberga
+  latitude: 59.46145
+  longitude: 18.15925
+
+- location: Preem Förrådsvägen 17
+  urn: urn:preem:station:id:174
+  city: Lidingö
+  latitude: 59.35802
+  longitude: 18.17328
+
+- location: Preem Ältavägen 166
+  urn: urn:preem:station:id:51954
+  city: Älta
+  latitude: 59.26265
+  longitude: 18.1813
+
+- location: Preem Vattenverksvägen 2
+  urn: urn:preem:station:id:51313
+  city: Nacka
+  latitude: 59.30866
+  longitude: 18.18178
+
+- location: Preem Uppsalavägen 8
+  urn: urn:preem:station:id:59231
+  city: Gimo
+  latitude: 60.16867
+  longitude: 18.19404
+
+- location: Preem Norra Kustvägen 33
+  urn: urn:preem:station:id:53305
+  city: Klintehamn
+  latitude: 57.39076
+  longitude: 18.19854
+
+- location: Preem Klintvägen 1
+  urn: urn:preem:station:id:51224
+  city: Saltsjö-boo
+  latitude: 59.31545
+  longitude: 18.22787
+
+- location: Preem Rallarvägen 1
+  urn: urn:preem:station:id:51930
+  city: Åkersberga
+  latitude: 59.48071
+  longitude: 18.28585
+
+- location: Preem Västra Törnekvior 2
+  urn: urn:preem:station:id:53840
+  city: Visby
+  latitude: 57.6266
+  longitude: 18.31825
+
+- location: Preem Skarphällsgatan 20
+  urn: urn:preem:station:id:53841
+  city: Visby
+  latitude: 57.64515
+  longitude: 18.33195
+
+- location: Preem Lundbygatan 3 B
+  urn: urn:preem:station:id:901
+  city: Visby
+  latitude: 57.63604
+  longitude: 18.33201
+
+- location: Preem Dockstavägen 40
+  urn: urn:preem:station:id:83156
+  city: Docksta
+  latitude: 63.05757
+  longitude: 18.3344
+
+- location: Preem Fabriksvägen 4
+  urn: urn:preem:station:id:168
+  city: Rimbo
+  latitude: 59.74272
+  longitude: 18.37401
+
+- location: Preem Rialavägen 470
+  urn: urn:preem:station:id:173
+  city: Rimbo
+  latitude: 59.678083
+  longitude: 18.470029
+
+- location: Preem Hallstaviksvägen 784
+  urn: urn:preem:station:id:59368
+  city: Hallstavik
+  latitude: 60.04162
+  longitude: 18.55058
+
+- location: Preem Krossvägen 2
+  urn: urn:preem:station:id:81647
+  city: Överhörnäs
+  latitude: 63.28417
+  longitude: 18.57069
+
+- location: Preem Fredrikavägen 23
+  urn: urn:preem:station:id:2220
+  city: Björna
+  latitude: 63.55358
+  longitude: 18.58521
+
+- location: Preem Andslimoen
+  urn: urn:preem:station:id:78262
+  city: Bardufoss
+  latitude: 69.09372
+  longitude: 18.5929
+
+- location: Preem Bergshamravägen 4
+  urn: urn:preem:station:id:59040
+  city: Bergshamra
+  latitude: 59.64412
+  longitude: 18.67279
+
+- location: Preem Hamngatan 14
+  urn: urn:preem:station:id:83373
+  city: Lycksele
+  latitude: 64.59634
+  longitude: 18.68123
+
+- location: Preem Estunavägen 16
+  urn: urn:preem:station:id:59465
+  city: Norrtälje
+  latitude: 59.76422
+  longitude: 18.69184
+
+- location: Preem Gösvägen 26
+  urn: urn:preem:station:id:178
+  city: Norrtälje
+  latitude: 59.73569
+  longitude: 18.69802
+
+- location: Preem Ångermanlandsgatan 21
+  urn: urn:preem:station:id:2206
+  city: Örnsköldsvik
+  latitude: 63.30304
+  longitude: 18.71941
+
+- location: Preem Fabriksgatan 4
+  urn: urn:preem:station:id:2436
+  city: Malå
+  latitude: 65.19376
+  longitude: 18.72458
+
+- location: Preem Industrivägen 21
+  urn: urn:preem:station:id:82470
+  city: Arvidsjaur
+  latitude: 65.600406
+  longitude: 19.156235
+
+- location: Preem Linjevägen 1
+  urn: urn:preem:station:id:2539
+  city: Jokkmokk
+  latitude: 66.60335
+  longitude: 19.78407
+
+- location: Preem Hörneå 7
+  urn: urn:preem:station:id:83256
+  city: Hörnefors
+  latitude: 63.629661
+  longitude: 19.876456
+
+- location: Preem G.a Vägverket Storgatan
+  urn: urn:preem:station:id:2431
+  city: Jörn
+  latitude: 65.05436
+  longitude: 20.05109
+
+- location: Preem Lagervägen 17
+  urn: urn:preem:station:id:2419
+  city: Umeå
+  latitude: 63.85008
+  longitude: 20.13873
+
+- location: Preem Kontaktvägen 1
+  urn: urn:preem:station:id:2417
+  city: Umeå
+  latitude: 63.84978
+  longitude: 20.21953
+
+- location: Preem Vallmovägen 64
+  urn: urn:preem:station:id:83950
+  city: Umeå
+  latitude: 63.83594
+  longitude: 20.24265
+
+- location: Preem Lastvägen 34
+  urn: urn:preem:station:id:2537
+  city: Kiruna
+  latitude: 67.8453
+  longitude: 20.28025
+
+- location: Preem Östra Kyrkogatan 58
+  urn: urn:preem:station:id:83920
+  city: Umeå
+  latitude: 63.83541
+  longitude: 20.28111
+
+- location: Preem Kungsvägen 2
+  urn: urn:preem:station:id:83625
+  city: Sävar
+  latitude: 63.89632
+  longitude: 20.54521
+
+- location: Preem Industrivägen 1
+  urn: urn:preem:station:id:2536
+  city: Vuollerim
+  latitude: 66.42683
+  longitude: 20.60205
+
+- location: Preem Metallvägen 9
+  urn: urn:preem:station:id:2541
+  city: Gällivare
+  latitude: 67.14689
+  longitude: 20.64958
+
+- location: Preem Trollvik
+  urn: urn:preem:station:id:78287
+  city: Birtavarre
+  latitude: 69.49427
+  longitude: 20.82905
+
+- location: Preem Ledningsvägen 2
+  urn: urn:preem:station:id:2520
+  city: Älvsbyn
+  latitude: 65.67672
+  longitude: 20.96429
+
+- location: Preem Mackvägen 7
+  urn: urn:preem:station:id:82999
+  city: Skellefteå
+  latitude: 64.737167
+  longitude: 20.964482
+
+- location: Preem Hamngatan 3
+  urn: urn:preem:station:id:82317
+  city: Kåge
+  latitude: 64.83062
+  longitude: 20.99858
+
+- location: Preem Idrottsvägen 1
+  urn: urn:preem:station:id:82896
+  city: Piteå
+  latitude: 65.3037
+  longitude: 21.39824
+
+- location: Preem Turbovägen 9
+  urn: urn:preem:station:id:82890
+  city: Öjebyn
+  latitude: 65.3211
+  longitude: 21.4205
+
+- location: Preem Degerängsvägen
+  urn: urn:preem:station:id:82894
+  city: Piteå
+  latitude: 65.3162
+  longitude: 21.4335
+
+- location: Preem Munksundsvägen 50
+  urn: urn:preem:station:id:2534
+  city: Piteå
+  latitude: 65.27102
+  longitude: 21.51318
+
+- location: Preem Slipvägen 1
+  urn: urn:preem:station:id:2532
+  city: Boden
+  latitude: 65.80679
+  longitude: 21.71453
+
+- location: Preem Nya Terminalgatan 1
+  urn: urn:preem:station:id:86030
+  city: Luleå
+  latitude: 65.633837
+  longitude: 22.041199
+
+- location: Preem
+  urn: urn:preem:station:id:78294
+  city: Burfjord
+  latitude: 69.94047
+  longitude: 22.05052
+
+- location: Preem Rodervägen 1
+  urn: urn:preem:station:id:82365
+  city: Luleå
+  latitude: 65.60084
+  longitude: 22.1329
+
+- location: Preem Ssab industriområde
+  urn: urn:preem:station:id:2525
+  city: Luleå
+  latitude: 65.55643
+  longitude: 22.23982
+
+- location: Preem Jämtö Trafikplats E4
+  urn: urn:preem:station:id:2530
+  city: Råneå
+  latitude: 65.87526
+  longitude: 22.48947
+
+- location: Preem Parallellgatan
+  urn: urn:preem:station:id:82145
+  city: Kalix
+  latitude: 65.85323
+  longitude: 23.149171
+
+- location: Preem Bossekopveien 2
+  urn: urn:preem:station:id:78359
+  city: Alta
+  latitude: 69.96059
+  longitude: 23.235489
+
+- location: Preem Industrivägen
+  urn: urn:preem:station:id:2533
+  city: Karlsborgsverken
+  latitude: 65.81146
+  longitude: 23.28921
+
+- location: Preem Kraftvägen 3
+  urn: urn:preem:station:id:82170
+  city: Haparanda
+  latitude: 65.84362
+  longitude: 24.1245
+
+- location: Preem Banakveien
+  urn: urn:preem:station:id:78358
+  city: Lakselv
+  latitude: 70.051585
+  longitude: 24.962354
+
+- location: Preem Arne M. Holdensvei 5
+  urn: urn:preem:station:id:78451
+  city: Troms Og Finnmark
+  latitude: 70.051585
+  longitude: 24.962354
+
+- location: Preem Finlandsveien 2
+  urn: urn:preem:station:id:78353
+  city: Karasjok
+  latitude: 69.467004
+  longitude: 25.505802
+
+- location: Preem Heargeguolbba 7
+  urn: urn:preem:station:id:78470
+  city: Tana
+  latitude: 70.205296
+  longitude: 28.171477
+
+- location: Preem Langnesveien 2
+  urn: urn:preem:station:id:78443
+  city: Troms Og Finnmark
+  latitude: 70.399094
+  longitude: 28.192491
+
+- location: Preem Svingen
+  urn: urn:preem:station:id:78274
+  city: Vestre Jakobselv
+  latitude: 70.10628
+  longitude: 29.34525
+
+- location: Preem Tollbugata 3
+  urn: urn:preem:station:id:78292
+  city: Vadsø
+  latitude: 70.07263
+  longitude: 29.74819
