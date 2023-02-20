@@ -136,6 +136,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
+| [Hemtex](https://sv.wikipedia.org/wiki/Hemtex)                                           |        115 |
 | [Mio](https://sv.wikipedia.org/wiki/Mio_(butikskedja))                                   |         75 |
 
 
