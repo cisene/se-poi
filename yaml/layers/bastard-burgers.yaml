@@ -1,0 +1,445 @@
+meta:
+  name: Bastard Burgers
+  web: https://bastardburgers.com/
+  wikipedia: https://sv.wikipedia.org/wiki/Bastard_Burgers
+  category: Snabbmatskedjor
+  locations: 73
+
+locations:
+- location: Bastard Burgers Torp
+  city: Uddevalla
+  country: Sverige
+  latitude: 58.353889
+  longitude: 11.810691
+
+- location: Bastard Burgers Frölunda Torg
+  city: Göteborg
+  country: Sverige
+  latitude: 57.652181
+  longitude: 11.914107
+
+- location: Bastard Burgers Södra Larmgatan
+  city: Göteborg
+  country: Sverige
+  latitude: 57.703143
+  longitude: 11.9657
+
+- location: Bastard Burgers Östra Hamngatan
+  city: Göteborg
+  country: Sverige
+  latitude: 57.707476
+  longitude: 11.967967
+
+- location: Bastard Burgers Kungälv
+  city: Kungälv
+  country: Sverige
+  latitude: 57.873128
+  longitude: 11.968526
+
+- location: Bastard Burgers Mölndal
+  city: Mölndal
+  country: Sverige
+  latitude: 57.656326
+  longitude: 12.01488
+
+- location: Bastard Burgers Varberg
+  city: Varberg
+  country: Sverige
+  latitude: 57.105032
+  longitude: 12.254526
+
+- location: Bastard Burgers Etage
+  city: Trollhättan
+  country: Sverige
+  latitude: 58.312794
+  longitude: 12.304189
+
+- location: Bastard Burgers Helsingborg City
+  city: Helsingborg
+  country: Sverige
+  latitude: 56.046384
+  longitude: 12.695318
+
+- location: Bastard Burgers Helsingborg Söder
+  city: Helsingborg
+  country: Sverige
+  latitude: 56.039959
+  longitude: 12.702154
+
+- location: Bastard Burgers Helsingborg Väla
+  city: Helsingborg
+  country: Sverige
+  latitude: 56.091631
+  longitude: 12.757531
+
+- location: Bastard Burgers Halmstad
+  city: Halmstad
+  country: Sverige
+  latitude: 56.67538
+  longitude: 12.855485
+
+- location: Bastard Burgers Borås
+  city: Borås
+  country: Sverige
+  latitude: 57.721334
+  longitude: 12.943255
+
+- location: Bastard Burgers Emporia
+  city: Malmö
+  country: Sverige
+  latitude: 55.564577
+  longitude: 12.973276
+
+- location: Bastard Burgers Kristianstad
+  city: Kristianstad
+  country: Sverige
+  latitude: 55.574432
+  longitude: 12.999125
+
+- location: Bastard Burgers Mobilia
+  city: Malmö
+  country: Sverige
+  latitude: 55.574432
+  longitude: 12.999125
+
+- location: Bastard Burgers Malmö
+  city: Malmö
+  country: Sverige
+  latitude: 55.603833
+  longitude: 13.003324
+
+- location: Bastard Burgers Nova
+  city: Lund
+  country: Sverige
+  latitude: 55.713937
+  longitude: 13.159813
+
+- location: Bastard Burgers Karlstad City
+  city: Karlstad
+  country: Sverige
+  latitude: 59.380017
+  longitude: 13.501559
+
+- location: Bastard Burgers Karlstad
+  city: Karlstad
+  country: Sverige
+  latitude: 59.376443
+  longitude: 13.50811
+
+- location: Bastard Burgers Skövde
+  city: Skövde
+  country: Sverige
+  latitude: 58.390361
+  longitude: 13.846085
+
+- location: Bastard Burgers Jönköping
+  city: Jönköping
+  country: Sverige
+  latitude: 57.78087
+  longitude: 14.17155
+
+- location: Bastard Burgers Östersund
+  city: Östersund
+  country: Sverige
+  latitude: 63.178973
+  longitude: 14.636512
+
+- location: Bastard Burgers Nässjö
+  city: Nässjö
+  country: Sverige
+  latitude: 57.653477
+  longitude: 14.697073
+
+- location: Bastard Burgers Grand Samarkand
+  city: Växjö
+  country: Sverige
+  latitude: 56.884542
+  longitude: 14.76647
+
+- location: Bastard Burgers Växjö
+  city: Växjö
+  country: Sverige
+  latitude: 56.877439
+  longitude: 14.808492
+
+- location: Bastard Burgers Marieberg
+  city: Örebro
+  country: Sverige
+  latitude: 59.217526
+  longitude: 15.137683
+
+- location: Bastard Burgers Örebro
+  city: Örebro
+  country: Sverige
+  latitude: 59.27794
+  longitude: 15.21444
+
+- location: Bastard Burgers Karlskrona
+  city: Karlskrona
+  country: Sverige
+  latitude: 56.162496
+  longitude: 15.583951
+
+- location: Bastard Burgers Linköping
+  city: Linköping
+  country: Sverige
+  latitude: 58.410662
+  longitude: 15.62105
+
+- location: Bastard Burgers Falun
+  city: Falun
+  country: Sverige
+  latitude: 60.605923
+  longitude: 15.633205
+
+- location: Bastard Burgers Norrköping
+  city: Norrköping
+  country: Sverige
+  latitude: 58.58853
+  longitude: 16.188251
+
+- location: Bastard Burgers Kalmar
+  city: Kalmar
+  country: Sverige
+  latitude: 56.670639
+  longitude: 16.337605
+
+- location: Bastard Burgers Kalmar City
+  city: Kalmar
+  country: Sverige
+  latitude: 56.663059
+  longitude: 16.362346
+
+- location: Bastard Burgers Eskilstuna
+  city: Eskilstuna
+  country: Sverige
+  latitude: 59.371513
+  longitude: 16.510454
+
+- location: Bastard Burgers Västerås
+  city: Västerås
+  country: Sverige
+  latitude: 59.609656
+  longitude: 16.544087
+
+- location: Bastard Burgers Nyköping
+  city: Nyköping
+  country: Sverige
+  latitude: 58.753286
+  longitude: 17.010065
+
+- location: Bastard Burgers Gävle
+  city: Gävle
+  country: Sverige
+  latitude: 60.671663
+  longitude: 17.146776
+
+- location: Bastard Burgers Sundsvall
+  city: Sundsvall
+  country: Sverige
+  latitude: 62.391254
+  longitude: 17.30487
+
+- location: Bastard Burgers Uppsala
+  city: Uppsala
+  country: Sverige
+  latitude: 59.858637
+  longitude: 17.641606
+
+- location: Bastard Burgers Gränby, Uppsala
+  city: Uppsala
+  country: Sverige
+  latitude: 59.876188
+  longitude: 17.674186
+
+- location: Bastard Burgers Skärholmen
+  city: Skärholmen
+  country: Sverige
+  latitude: 59.275999
+  longitude: 17.906175
+
+- location: Bastard Burgers Väsby
+  city: Upplands Väsby
+  country: Sverige
+  latitude: 59.518562
+  longitude: 17.910191
+
+- location: Bastard Burgers Arlanda
+  city: Stockholm
+  country: Sverige
+  latitude: 59.647908
+  longitude: 17.926691
+
+- location: Bastard Burgers Sollentuna
+  city: Sollentuna
+  country: Sverige
+  latitude: 59.428645
+  longitude: 17.951312
+
+- location: Bastard Burgers Alvik
+  city: Stockholm
+  country: Sverige
+  latitude: 59.332774
+  longitude: 17.982278
+
+- location: Bastard Burgers Solna
+  city: Solna
+  country: Sverige
+  latitude: 59.359524
+  longitude: 18.001109
+
+- location: Bastard Burgers Liljeholmen
+  city: Stockholm
+  country: Sverige
+  latitude: 59.309647
+  longitude: 18.022506
+
+- location: Bastard Burgers Västermalm, Kungsholmen
+  city: Stockholm
+  country: Sverige
+  latitude: 59.334866
+  longitude: 18.031273
+
+- location: Bastard Burgers Birkastan
+  city: Stockholm
+  country: Sverige
+  latitude: 59.342667
+  longitude: 18.035872
+
+- location: Bastard Burgers Hantverkargatan, Kungsholmen
+  city: Stockholm
+  country: Sverige
+  latitude: 59.329891
+  longitude: 18.037221
+
+- location: Bastard Burgers Hagastaden
+  city: Stockholm
+  country: Sverige
+  latitude: 59.348299
+  longitude: 18.038905
+
+- location: Bastard Burgers Vasastan
+  city: Stockholm
+  country: Sverige
+  latitude: 59.342735
+  longitude: 18.058294
+
+- location: Bastard Burgers Birger Jarlsgatan
+  city: Stockholm
+  country: Sverige
+  latitude: 59.347632
+  longitude: 18.060397
+
+- location: Bastard Burgers Hötorget
+  city: Stockholm
+  country: Sverige
+  latitude: 59.335808
+  longitude: 18.06328
+
+- location: Bastard Burgers Gallerian
+  city: Stockholm
+  country: Sverige
+  latitude: 59.331553
+  longitude: 18.066903
+
+- location: Bastard Burgers Täby
+  city: Täby
+  country: Sverige
+  latitude: 59.443554
+  longitude: 18.06964
+
+- location: Bastard Burgers St Pauls
+  city: Stockholm
+  country: Sverige
+  latitude: 59.318633
+  longitude: 18.070261
+
+- location: Bastard Burgers Norrlandsgatan
+  city: Stockholm
+  country: Sverige
+  latitude: 59.334327
+  longitude: 18.071221
+
+- location: Bastard Burgers Medborgarplatsen
+  city: Stockholm
+  country: Sverige
+  latitude: 59.314244
+  longitude: 18.07471
+
+- location: Bastard Burgers Gullmarsplan
+  city: Stockholm
+  country: Sverige
+  latitude: 59.298822
+  longitude: 18.07867
+
+- location: Bastard Burgers Sofia
+  city: Stockholm
+  country: Sverige
+  latitude: 59.315399
+  longitude: 18.086308
+
+- location: Bastard Burgers Farsta
+  city: Stockholm
+  country: Sverige
+  latitude: 59.242978
+  longitude: 18.091347
+
+- location: Bastard Burgers Hammarby Sjöstad
+  city: Stockholm
+  country: Sverige
+  latitude: 59.306125
+  longitude: 18.107091
+
+- location: Bastard Burgers Sickla
+  city: Stockholm
+  country: Sverige
+  latitude: 59.306001
+  longitude: 18.121812
+
+- location: Bastard Burgers Åkersberga
+  city: Åkersberga
+  country: Sverige
+  latitude: 59.479904
+  longitude: 18.296868
+
+- location: Bastard Burgers Värmdö
+  city: Stockholm
+  country: Sverige
+  latitude: 59.313108
+  longitude: 18.4304
+
+- location: Bastard Burgers Umeå
+  city: Umeå
+  country: Sverige
+  latitude: 63.827731
+  longitude: 20.264454
+
+- location: Bastard Burgers Skellefteå
+  city: Skellefteå
+  country: Sverige
+  latitude: 64.750393
+  longitude: 20.955992
+
+- location: Bastard Burgers Piteå
+  city: Piteå
+  country: Sverige
+  latitude: 65.317544
+  longitude: 21.480802
+
+- location: Bastard Burgers Boden
+  city: Boden
+  country: Sverige
+  latitude: 65.82652
+  longitude: 21.699402
+
+- location: Bastard Burgers Luleå
+  city: Luleå
+  country: Sverige
+  latitude: 65.581876
+  longitude: 22.144151
+
+- location: Bastard Burgers Luleå Shopping
+  city: Luleå
+  country: Sverige
+  latitude: 65.585236
+  longitude: 22.154784
