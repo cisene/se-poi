@@ -127,6 +127,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
+| [Elgiganten](https://sv.wikipedia.org/wiki/Elgiganten)                                   |        176 |
 | [MediaMarkt](https://sv.wikipedia.org/wiki/Media_Markt)                                  |         29 |
 
 
