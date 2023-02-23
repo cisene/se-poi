@@ -32,6 +32,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | :--------------------------------------------------------------------------------------- | ---------: |
 | [Bankomat](https://sv.wikipedia.org/wiki/Bankomat)                                       |       1401 |
 | [Forex](https://sv.wikipedia.org/wiki/Forex_(f%C3%B6retag))                              |         83 |
+| [Swedbank](https://sv.wikipedia.org/wiki/Swedbank)                                       |        344 |
 
 
 
