@@ -1,0 +1,1021 @@
+meta:
+  name: Europcar
+  web: https://www.europcar.se/
+  wikipedia: https://sv.wikipedia.org/wiki/Europcar
+  category: Biluthyrning
+  locations: 169
+
+locations:
+- location: Europcar Stenungsund
+  city: Stora Höga
+  country: Sverige
+  latitude: 58.0192
+  longitude: 11.8408
+
+- location: Europcar Uddevalla
+  city: Uddevalla
+  country: Sverige
+  latitude: 58.3438
+  longitude: 11.9258
+
+- location: Europcar Göteborg Sisjön
+  city: Askim
+  country: Sverige
+  latitude: 57.6437
+  longitude: 11.9442
+
+- location: Europcar Göteborg Audi Eklanda
+  city: Mölndal
+  country: Sverige
+  latitude: 57.6471
+  longitude: 11.9627
+
+- location: Europcar Göteborg City
+  city: Göteborg
+  country: Sverige
+  latitude: 57.7091
+  longitude: 11.968
+
+- location: Europcar Göteborg Hisingen
+  city: Hisings Backa
+  country: Sverige
+  latitude: 57.7337
+  longitude: 11.9874
+
+- location: Europcar Göteborg Mölndal
+  city: Göteborg
+  country: Sverige
+  latitude: 57.6809
+  longitude: 12.0037
+
+- location: Europcar Göteborg Kungsbacka
+  city: Kungsbacka
+  country: Sverige
+  latitude: 57.5063
+  longitude: 12.0779
+
+- location: Europcar Årjäng
+  city: Årjäng
+  country: Sverige
+  latitude: 59.3928
+  longitude: 12.134
+
+- location: Europcar Varberg Järnvägsstation
+  city: Varberg
+  country: Sverige
+  latitude: 57.1121
+  longitude: 12.2484
+
+- location: Europcar Varberg
+  city: Varberg
+  country: Sverige
+  latitude: 57.1649
+  longitude: 12.2763
+
+- location: Europcar Göteborg Landvetter Flygplats
+  city: Göteborg
+  country: Sverige
+  latitude: 57.6685
+  longitude: 12.2972
+
+- location: Europcar Vänersborg
+  city: Vänersborg
+  country: Sverige
+  latitude: 58.3661
+  longitude: 12.3223
+
+- location: Europcar Trollhättan
+  city: Trollhättan
+  country: Sverige
+  latitude: 58.2949
+  longitude: 12.3258
+
+- location: Europcar Trollhättan Flygplats
+  city: Trollhättan
+  country: Sverige
+  latitude: 58.3162
+  longitude: 12.349
+
+- location: Europcar Falkenberg Järnvägsstation
+  city: Falkenberg
+  country: Sverige
+  latitude: 56.9189
+  longitude: 12.5078
+
+- location: Europcar Falkenberg
+  city: Falkenberg
+  country: Sverige
+  latitude: 56.8994
+  longitude: 12.5264
+
+- location: Europcar Funäsdalen
+  city: Funäsdalen
+  country: Sverige
+  latitude: 62.5506
+  longitude: 12.5288
+
+- location: Europcar Arvika
+  city: Arvika
+  country: Sverige
+  latitude: 59.6565
+  longitude: 12.585
+
+- location: Europcar Arvika Järnvägsstation
+  city: Arvika
+  country: Sverige
+  latitude: 59.6539
+  longitude: 12.5914
+
+- location: Europcar Kinna
+  city: Kinna
+  country: Sverige
+  latitude: 57.51
+  longitude: 12.6997
+
+- location: Europcar Helsingborg
+  city: Helsingborg
+  country: Sverige
+  latitude: 56.074
+  longitude: 12.7145
+
+- location: Europcar Idre
+  city: Idre
+  country: Sverige
+  latitude: 61.8579
+  longitude: 12.7224
+
+- location: Europcar Halmstad
+  city: Halmstad
+  country: Sverige
+  latitude: 56.6722
+  longitude: 12.7972
+
+- location: Europcar Halmstad Flygplats
+  city: Halmstad
+  country: Sverige
+  latitude: 56.6819
+  longitude: 12.8151
+
+- location: Europcar Scandinavian Mountains Flygplats
+  city: Sälen
+  country: Sverige
+  latitude: 61.1591
+  longitude: 12.8413
+
+- location: Europcar Landskrona
+  city: Landskrona
+  country: Sverige
+  latitude: 55.8712
+  longitude: 12.856
+
+- location: Europcar Ängelholm
+  city: Ängelholm
+  country: Sverige
+  latitude: 56.2308
+  longitude: 12.8604
+
+- location: Europcar Ängelholm Flyplats
+  city: Ängelholm
+  country: Sverige
+  latitude: 56.2872
+  longitude: 12.8689
+
+- location: Europcar Halmstad Tågstation - Sweden use only
+  city: Halmstad
+  country: Sverige
+  latitude: 56.7557
+  longitude: 12.8924
+
+- location: Europcar Borås
+  city: Borås
+  country: Sverige
+  latitude: 57.7331
+  longitude: 12.9325
+
+- location: Europcar Borås Järnvägsstation
+  city: Borås
+  country: Sverige
+  latitude: 57.7207
+  longitude: 12.9327
+
+- location: Europcar Vara
+  city: Vara
+  country: Sverige
+  latitude: 58.2565
+  longitude: 12.9642
+
+- location: Europcar Malmö City
+  city: Malmö
+  country: Sverige
+  latitude: 55.6067
+  longitude: 13.0045
+
+- location: Europcar Malmö Fosie
+  city: Malmö
+  country: Sverige
+  latitude: 55.5658
+  longitude: 13.046
+
+- location: Europcar Malmö Bulltofta
+  city: Malmö
+  country: Sverige
+  latitude: 55.604
+  longitude: 13.0653
+
+- location: Europcar Malmö Transportbilscenter
+  city: Malmö
+  country: Sverige
+  latitude: 55.6038
+  longitude: 13.0653
+
+- location: Europcar Åre Tågstation
+  city: Åre
+  country: Sverige
+  latitude: 63.3989
+  longitude: 13.0763
+
+- location: Europcar Trelleborg
+  city: Trelleborg
+  country: Sverige
+  latitude: 55.3798
+  longitude: 13.1355
+
+- location: Europcar Lidköping
+  city: Lidköping
+  country: Sverige
+  latitude: 58.4973
+  longitude: 13.1778
+
+- location: Europcar Sälen
+  city: Sälen
+  country: Sverige
+  latitude: 61.1645
+  longitude: 13.2002
+
+- location: Europcar Lund
+  city: Lund
+  country: Sverige
+  latitude: 55.688
+  longitude: 13.2162
+
+- location: Europcar Malmö Lokal
+  city: Svedala
+  country: Sverige
+  latitude: 55.507
+  longitude: 13.2325
+
+- location: Europcar Karlstad Flygplats
+  city: Karlstad
+  country: Sverige
+  latitude: 59.4435
+  longitude: 13.3459
+
+- location: Europcar Malmö Flygplats Sturup
+  city: Malmö
+  country: Sverige
+  latitude: 55.5394
+  longitude: 13.3639
+
+- location: Europcar Skara
+  city: Skara
+  country: Sverige
+  latitude: 58.3806
+  longitude: 13.4311
+
+- location: Europcar Karlstad
+  city: Karlstad
+  country: Sverige
+  latitude: 59.3836
+  longitude: 13.4772
+
+- location: Europcar Karlstad Järnvägsstation
+  city: Karlstad
+  country: Sverige
+  latitude: 59.378
+  longitude: 13.4998
+
+- location: Europcar Falköping
+  city: Falköping
+  country: Sverige
+  latitude: 58.1636
+  longitude: 13.5666
+
+- location: Europcar Malung
+  city: Malung
+  country: Sverige
+  latitude: 60.6857
+  longitude: 13.7198
+
+- location: Europcar Hässleholm Tågservice Station
+  city: Hässleholm
+  country: Sverige
+  latitude: 56.1579
+  longitude: 13.7637
+
+- location: Europcar Mariestad
+  city: Mariestad
+  country: Sverige
+  latitude: 58.6973
+  longitude: 13.8193
+
+- location: Europcar Skövde Tågstation
+  city: Skövde
+  country: Sverige
+  latitude: 58.3894
+  longitude: 13.8518
+
+- location: Europcar Skövde
+  city: Skövde
+  country: Sverige
+  latitude: 58.4194
+  longitude: 13.8815
+
+- location: Europcar Ljungby
+  city: Ljungby
+  country: Sverige
+  latitude: 56.814
+  longitude: 13.9089
+
+- location: Europcar Värnamo
+  city: Värnamo
+  country: Sverige
+  latitude: 57.1914
+  longitude: 14.062
+
+- location: Europcar Jönköping Flygplats
+  city: Jönköping
+  country: Sverige
+  latitude: 57.7504
+  longitude: 14.0705
+
+- location: Europcar Kristianstad Flygplats
+  city: Everöd
+  country: Sverige
+  latitude: 55.924
+  longitude: 14.0814
+
+- location: Europcar Kristinehamn Järnvägsstation
+  city: Kristinehamn
+  country: Sverige
+  latitude: 59.3166
+  longitude: 14.108
+
+- location: Europcar Kristinehamn
+  city: Kristinehamn
+  country: Sverige
+  latitude: 59.3099
+  longitude: 14.1086
+
+- location: Europcar Kristianstad
+  city: Kristianstad
+  country: Sverige
+  latitude: 56.0274
+  longitude: 14.1726
+
+- location: Europcar Jönköping
+  city: Jönköping
+  country: Sverige
+  latitude: 57.7666
+  longitude: 14.1733
+
+- location: Europcar Sveg
+  city: Sveg
+  country: Sverige
+  latitude: 62.034
+  longitude: 14.3669
+
+- location: Europcar Sveg Airport
+  city: Sveg
+  country: Sverige
+  latitude: 62.0472
+  longitude: 14.4223
+
+- location: Europcar Östersund Flygplats
+  city: Östersund
+  country: Sverige
+  latitude: 63.1984
+  longitude: 14.4979
+
+- location: Europcar Mora Flygplats
+  city: Mora
+  country: Sverige
+  latitude: 60.9585
+  longitude: 14.504
+
+- location: Europcar Karlskoga
+  city: Karlskoga
+  country: Sverige
+  latitude: 59.3271
+  longitude: 14.5241
+
+- location: Europcar Mora Tågstation
+  city: Mora
+  country: Sverige
+  latitude: 61.009
+  longitude: 14.5581
+
+- location: Europcar Mora
+  city: Mora
+  country: Sverige
+  latitude: 61.0075
+  longitude: 14.5917
+
+- location: Europcar Orsa
+  city: Orsa
+  country: Sverige
+  latitude: 61.1164
+  longitude: 14.6282
+
+- location: Europcar Östersund Centralstation
+  city: Östersund
+  country: Sverige
+  latitude: 63.1707
+  longitude: 14.6377
+
+- location: Europcar Östersund
+  city: Östersund
+  country: Sverige
+  latitude: 63.1909
+  longitude: 14.64
+
+- location: Europcar Växjö Flygplats
+  city: Växjö
+  country: Sverige
+  latitude: 56.926
+  longitude: 14.7315
+
+- location: Europcar Nässjö
+  city: Nässjö
+  country: Sverige
+  latitude: 57.6479
+  longitude: 14.7393
+
+- location: Europcar Växjö
+  city: Växjö
+  country: Sverige
+  latitude: 56.8785
+  longitude: 14.7831
+
+- location: Europcar Eksjö
+  city: Eksjö
+  country: Sverige
+  latitude: 57.6663
+  longitude: 14.9703
+
+- location: Europcar Tranås
+  city: Tranås
+  country: Sverige
+  latitude: 58.0443
+  longitude: 14.9747
+
+- location: Europcar Örebro Flygplats
+  city: Örebro
+  country: Sverige
+  latitude: 59.2275
+  longitude: 15.0463
+
+- location: Europcar Rättviks Resecentrum
+  city: Rättvik
+  country: Sverige
+  latitude: 60.8849
+  longitude: 15.1159
+
+- location: Europcar Örebro
+  city: Örebro
+  country: Sverige
+  latitude: 59.2967
+  longitude: 15.2071
+
+- location: Europcar Ronneby
+  city: Ronneby
+  country: Sverige
+  latitude: 56.2185
+  longitude: 15.2644
+
+- location: Europcar Ronneyby Flygplats
+  city: Ronneby
+  country: Sverige
+  latitude: 56.2545
+  longitude: 15.2672
+
+- location: Europcar Borlänge Centralstation Hotell Galaxen
+  city: Borlänge
+  country: Sverige
+  latitude: 60.4877
+  longitude: 15.4302
+
+- location: Europcar Borlänge
+  city: Borlänge
+  country: Sverige
+  latitude: 60.485
+  longitude: 15.4343
+
+- location: Europcar Linköping
+  city: Linköping
+  country: Sverige
+  latitude: 58.4272
+  longitude: 15.5908
+
+- location: Europcar Falun
+  city: Falun
+  country: Sverige
+  latitude: 60.5969
+  longitude: 15.6226
+
+- location: Europcar Karlskrona
+  city: Karlskrona
+  country: Sverige
+  latitude: 56.209
+  longitude: 15.6372
+
+- location: Europcar Falun Centralstation
+  city: Falun
+  country: Sverige
+  latitude: 60.604
+  longitude: 15.642
+
+- location: Europcar Linköping Flygplats
+  city: Linköping
+  country: Sverige
+  latitude: 58.4075
+  longitude: 15.6578
+
+- location: Europcar Fagersta
+  city: Fagersta
+  country: Sverige
+  latitude: 59.9922
+  longitude: 15.813
+
+- location: Europcar Hedemora
+  city: Hedemora
+  country: Sverige
+  latitude: 60.2894
+  longitude: 15.9892
+
+- location: Europcar Norrköping Tågstation
+  city: Norrköping
+  country: Sverige
+  latitude: 58.5964
+  longitude: 16.1834
+
+- location: Europcar Avesta Bilmetro
+  city: Avesta
+  country: Sverige
+  latitude: 60.1401
+  longitude: 16.1927
+
+- location: Europcar Avesta Krylbovägen
+  city: Avesta
+  country: Sverige
+  latitude: 60.1432
+  longitude: 16.195
+
+- location: Europcar Avesta Tågstation - Sweden use only
+  city: Krylbo
+  country: Sverige
+  latitude: 60.1299
+  longitude: 16.2153
+
+- location: Europcar Norrköping
+  city: Norrköping
+  country: Sverige
+  latitude: 58.5832
+  longitude: 16.2159
+
+- location: Europcar Norrköping Flygplats
+  city: Norrköping
+  country: Sverige
+  latitude: 58.5828
+  longitude: 16.2337
+
+- location: Europcar Kalmar Flygplats
+  city: Kalmar
+  country: Sverige
+  latitude: 56.6775
+  longitude: 16.2872
+
+- location: Europcar Kalmar
+  city: Kalmar
+  country: Sverige
+  latitude: 56.6659
+  longitude: 16.3291
+
+- location: Europcar Scania Oskarshamn (Leveranspunkt)
+  city: Oskarshamn
+  country: Sverige
+  latitude: 57.2549
+  longitude: 16.4283
+
+- location: Europcar Oskarshamn
+  city: Oskarshamn
+  country: Sverige
+  latitude: 57.2522
+  longitude: 16.4484
+
+- location: Europcar Eskilstuna
+  city: Eskilstuna
+  country: Sverige
+  latitude: 59.388
+  longitude: 16.4711
+
+- location: Europcar Västerås
+  city: Västerås
+  country: Sverige
+  latitude: 59.6184
+  longitude: 16.5551
+
+- location: Europcar Västerås Flygplats
+  city: Västerås
+  country: Sverige
+  latitude: 59.589
+  longitude: 16.6256
+
+- location: Europcar Sandviken
+  city: Sandviken
+  country: Sverige
+  latitude: 60.6232
+  longitude: 16.7592
+
+- location: Europcar Nyköping Skavsta Flygplats
+  city: Nyköping
+  country: Sverige
+  latitude: 58.7847
+  longitude: 16.9239
+
+- location: Europcar Nyköping
+  city: Nyköping
+  country: Sverige
+  latitude: 58.7457
+  longitude: 16.9944
+
+- location: Europcar Söderhamn
+  city: Söderhamn
+  country: Sverige
+  latitude: 61.2961
+  longitude: 17.0357
+
+- location: Europcar Hudiksvall
+  city: Hudiksvall
+  country: Sverige
+  latitude: 61.7486
+  longitude: 17.12
+
+- location: Europcar Gävle
+  city: Gävle
+  country: Sverige
+  latitude: 60.6661
+  longitude: 17.1733
+
+- location: Europcar Sundsvall Centralstation
+  city: Sundsvall
+  country: Sverige
+  latitude: 62.3867
+  longitude: 17.3158
+
+- location: Europcar Sundsvall
+  city: Sundsvall
+  country: Sverige
+  latitude: 62.4423
+  longitude: 17.3318
+
+- location: Europcar Sundsvall Midlanda Flygplats
+  city: Sundsvall
+  country: Sverige
+  latitude: 62.5262
+  longitude: 17.4361
+
+- location: Europcar Scania Södertälje Byggnad 321
+  city: Södertälje
+  country: Sverige
+  latitude: 59.2044
+  longitude: 17.6101
+
+- location: Europcar Södertälje
+  city: Södertälje
+  country: Sverige
+  latitude: 59.2031
+  longitude: 17.6144
+
+- location: Europcar Scania Södertälje Byggnad 209
+  city: Södertälje
+  country: Sverige
+  latitude: 59.1838
+  longitude: 17.6323
+
+- location: Europcar Scania Södertälje Stc
+  city: Södertälje
+  country: Sverige
+  latitude: 59.167
+  longitude: 17.635
+
+- location: Europcar Scania Södertälje Gjuteriporten
+  city: Södertälje
+  country: Sverige
+  latitude: 59.1831
+  longitude: 17.6356
+
+- location: Europcar Scania Södertälje Chassiporten
+  city: Södertälje
+  country: Sverige
+  latitude: 59.1721
+  longitude: 17.6427
+
+- location: Europcar Scania Södertälje Ck 3
+  city: Södertälje
+  country: Sverige
+  latitude: 59.1721
+  longitude: 17.6427
+
+- location: Europcar Scania Södertälje Byggnad 280
+  city: Södertälje
+  country: Sverige
+  latitude: 59.1721
+  longitude: 17.6427
+
+- location: Europcar Scania Södertälje Byggnad 210
+  city: Södertälje
+  country: Sverige
+  latitude: 59.1721
+  longitude: 17.6427
+
+- location: Europcar Scania Södertälje Byggnad 150
+  city: Södertälje
+  country: Sverige
+  latitude: 59.1721
+  longitude: 17.6427
+
+- location: Europcar Scania Södertälje Scania Syd
+  city: Södertälje
+  country: Sverige
+  latitude: 59.1595
+  longitude: 17.6458
+
+- location: Europcar Scania Södertälje Byggnad 270
+  city: Södertälje
+  country: Sverige
+  latitude: 59.1719
+  longitude: 17.6459
+
+- location: Europcar Södertälje Syd Tågstation
+  city: Södertälje
+  country: Sverige
+  latitude: 59.1622
+  longitude: 17.6463
+
+- location: Europcar Uppsala
+  city: Uppsala
+  country: Sverige
+  latitude: 59.8465
+  longitude: 17.7133
+
+- location: Europcar Stockholm Audi Kista
+  city: Kista
+  country: Sverige
+  latitude: 59.4199
+  longitude: 17.9211
+
+- location: Europcar Stockholm Kista
+  city: Kista
+  country: Sverige
+  latitude: 59.4189
+  longitude: 17.9223
+
+- location: Europcar Upplands Väsby
+  city: Upplands väsby
+  country: Sverige
+  latitude: 59.5087
+  longitude: 17.9256
+
+- location: Europcar Stockholm Skoda Bredden
+  city: Upplands väsby
+  country: Sverige
+  latitude: 59.4967
+  longitude: 17.9266
+
+- location: Europcar Stockholm Volkswagen Bredden
+  city: Upplands väsby
+  country: Sverige
+  latitude: 59.5002
+  longitude: 17.9279
+
+- location: Europcar Stockholm Arlanda Flygplats
+  city: Stockholm
+  country: Sverige
+  latitude: 59.6381
+  longitude: 17.9393
+
+- location: Europcar Stockholm Bromma Flygplats
+  city: Stockholm
+  country: Sverige
+  latitude: 59.3555
+  longitude: 17.9456
+
+- location: Europcar Stockholm Bromma Ulvsunda
+  city: Bromma
+  country: Sverige
+  latitude: 59.348
+  longitude: 17.9589
+
+- location: Europcar Solna
+  city: Solna
+  country: Sverige
+  latitude: 59.3619
+  longitude: 17.9966
+
+- location: Europcar Stockholm Liljeholmen
+  city: Stockholm
+  country: Sverige
+  latitude: 59.3095
+  longitude: 18.0278
+
+- location: Europcar Stockholm Liljeholmen Transportbilar
+  city: Stockholm
+  country: Sverige
+  latitude: 59.3091
+  longitude: 18.0287
+
+- location: Europcar Stockholm City
+  city: Stockholm
+  country: Sverige
+  latitude: 59.3341
+  longitude: 18.0539
+
+- location: Europcar Stockholm Täby
+  city: Täby
+  country: Sverige
+  latitude: 59.4377
+  longitude: 18.0542
+
+- location: Europcar Stockholm Södermalm
+  city: Stockholm
+  country: Sverige
+  latitude: 59.3103
+  longitude: 18.0814
+
+- location: Europcar Stockholm Hammarby
+  city: Stockholm
+  country: Sverige
+  latitude: 59.3017
+  longitude: 18.1017
+
+- location: Europcar Stockholm Albyberg
+  city: Handen
+  country: Sverige
+  latitude: 59.1529
+  longitude: 18.1604
+
+- location: Europcar Stockholm Haninge
+  city: Haninge
+  country: Sverige
+  latitude: 59.1647
+  longitude: 18.1619
+
+- location: Europcar Visby (Gotland)
+  city: Visby
+  country: Sverige
+  latitude: 57.623
+  longitude: 18.2766
+
+- location: Europcar Åkersberga
+  city: Akersberga
+  country: Sverige
+  latitude: 59.4827
+  longitude: 18.2805
+
+- location: Europcar Visby Flygplats (Gotland)
+  city: Visby
+  country: Sverige
+  latitude: 57.6606
+  longitude: 18.3388
+
+- location: Europcar Norrtälje
+  city: Norrtälje
+  country: Sverige
+  latitude: 59.7475
+  longitude: 18.6858
+
+- location: Europcar Örnsköldsvik Resecentrum
+  city: Örnsköldsvik
+  country: Sverige
+  latitude: 63.288
+  longitude: 18.7078
+
+- location: Europcar Örnsköldsvik
+  city: Örnsköldsvik
+  country: Sverige
+  latitude: 63.3031
+  longitude: 18.7206
+
+- location: Europcar Örnsköldsvik Flygplats
+  city: Örnsköldsvik
+  country: Sverige
+  latitude: 63.4111
+  longitude: 18.993
+
+- location: Europcar Arvidsjaur
+  city: Arvidsjaur
+  country: Sverige
+  latitude: 65.5848
+  longitude: 19.1973
+
+- location: Europcar Arvidsjaur Flygplats
+  city: Arvidsjaur
+  country: Sverige
+  latitude: 65.592
+  longitude: 19.2648
+
+- location: Europcar Kiruna Station
+  city: Kiruna
+  country: Sverige
+  latitude: 67.8732
+  longitude: 20.1939
+
+- location: Europcar Kiruna
+  city: Kiruna
+  country: Sverige
+  latitude: 67.8485
+  longitude: 20.266
+
+- location: Europcar Umeå Centralstation
+  city: Umeå
+  country: Sverige
+  latitude: 63.8298
+  longitude: 20.2669
+
+- location: Europcar Umeå
+  city: Umeå
+  country: Sverige
+  latitude: 63.8331
+  longitude: 20.2831
+
+- location: Europcar Umeå Flygplats
+  city: Umeå
+  country: Sverige
+  latitude: 63.7929
+  longitude: 20.2892
+
+- location: Europcar Kiruna Flygplats
+  city: Kiruna
+  country: Sverige
+  latitude: 67.8255
+  longitude: 20.3344
+
+- location: Europcar Gällivare
+  city: Gällivare
+  country: Sverige
+  latitude: 67.1529
+  longitude: 20.6243
+
+- location: Europcar Gällivare Resecentrum
+  city: Gällivare
+  country: Sverige
+  latitude: 67.1334
+  longitude: 20.6516
+
+- location: Europcar Gällivare Flygplats
+  city: Gällivare
+  country: Sverige
+  latitude: 67.1353
+  longitude: 20.8134
+
+- location: Europcar Skellefteå
+  city: Skellefteå
+  country: Sverige
+  latitude: 64.7334
+  longitude: 20.9676
+
+- location: Europcar Skellefteå Flygplats
+  city: Skellefteå
+  country: Sverige
+  latitude: 64.6232
+  longitude: 21.0675
+
+- location: Europcar Piteå
+  city: Piteå
+  country: Sverige
+  latitude: 65.3188
+  longitude: 21.4298
+
+- location: Europcar Bodens resecentrum
+  city: Boden
+  country: Sverige
+  latitude: 65.8287
+  longitude: 21.7072
+
+- location: Europcar Luleå Flygplats
+  city: Luleå
+  country: Sverige
+  latitude: 65.5489
+  longitude: 22.1245
+
+- location: Europcar Luleå
+  city: Luleå
+  country: Sverige
+  latitude: 65.6039
+  longitude: 22.1348
+
+- location: Europcar Luleå Centralstation
+  city: Luleå
+  country: Sverige
+  latitude: 65.5839
+  longitude: 22.1645
