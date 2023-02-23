@@ -32,7 +32,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | :--------------------------------------------------------------------------------------- | ---------: |
 | [Bankomat](https://sv.wikipedia.org/wiki/Bankomat)                                       |       1401 |
 | [Forex](https://sv.wikipedia.org/wiki/Forex_(f%C3%B6retag))                              |         83 |
-| [Swedbank](https://sv.wikipedia.org/wiki/Swedbank)                                       |        344 |
+| [Swedbank](https://sv.wikipedia.org/wiki/Swedbank)                                       |        343 |
 
 
 
@@ -169,6 +169,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
 | [Clas Ohlson](https://sv.wikipedia.org/wiki/Clas_Ohlson)                                 |         46 |
+| [Rusta](https://sv.wikipedia.org/wiki/Rusta)                                             |        107 |
 
 
 
