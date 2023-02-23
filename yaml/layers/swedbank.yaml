@@ -3,2413 +3,2063 @@ meta:
   web: https://www.swedbank.se/
   wikipedia: https://sv.wikipedia.org/wiki/Swedbank
   category: Bank och Valuta
-  locations: 344
+  locations: 343
 
 locations:
-- location: Sparbanken Rekarne AB
-  urn: urn:swedbank:office:id:0000000059
-  city: Eskilstuna företag
-  country: Sverige
-  latitude: 0.0
-  longitude: 0.0
-
-- location: Falkenbergs Sparbank
-  urn: urn:swedbank:office:id:0000000001
-  city: Falkenberg
-  country: Sverige
-  latitude: 0.0
-  longitude: 0.0
-
-- location: Sparbanken Göinge AB
-  urn: urn:swedbank:office:id:0000000004
-  city: Farstorp
-  country: Sverige
-  latitude: 0.0
-  longitude: 0.0
-
-- location: Snapphanebygdens Sparbank
-  urn: urn:swedbank:office:id:0000000002
-  city: Finanssupport i sydsverige ab
-  country: Sverige
-  latitude: 0.0
-  longitude: 0.0
-
-- location: Bergslagens Sparbank AB
-  urn: urn:swedbank:office:id:0000000201
-  city: Gemensamma enheter
-  country: Sverige
-  latitude: 0.0
-  longitude: 0.0
-
-- location: Hälsinglands Sparbank
-  urn: urn:swedbank:office:id:0000000009
-  city: Lucksta
-  country: Sverige
-  latitude: 0.0
-  longitude: 0.0
-
-- location: Roslagens Sparbank
-  urn: urn:swedbank:office:id:0000000170
-  city: Norrtälje företag
-  country: Sverige
-  latitude: 0.0
-  longitude: 0.0
-
-- location: Sörmlands Sparbank
-  urn: urn:swedbank:office:id:0000000110
-  city: Nyköping
-  country: Sverige
-  latitude: 0.0
-  longitude: 0.0
-
-- location: Sparbanken Gotland
-  urn: urn:swedbank:office:id:0000000006
-  city: Roma
-  country: Sverige
-  latitude: 0.0
-  longitude: 0.0
-
-- location: Sparbanken Göinge AB
-  urn: urn:swedbank:office:id:0000000003
-  city: Röke
-  country: Sverige
-  latitude: 0.0
-  longitude: 0.0
-
-- location: Sala Sparbank
-  urn: urn:swedbank:office:id:0000000040
-  city: Tärnsjö (avvecklat from 12/2-21)
-  country: Sverige
-  latitude: 0.0
-  longitude: 0.0
-
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000368470
   city: Strömstad
   country: Sverige
   latitude: 58.937697
   longitude: 11.174328
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000368430
   city: Kungshamn
   country: Sverige
   latitude: 58.360914
   longitude: 11.249144
 
 - location: Sparbanken Tanum
-  urn: urn:swedbank:office:id:0000000006
   city: Hamburgsund
   country: Sverige
   latitude: 58.552242
   longitude: 11.271836
 
 - location: Sparbanken Tanum
-  urn: urn:swedbank:office:id:0000000001
   city: Tanumshede
   country: Sverige
   latitude: 58.723673
   longitude: 11.323805
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000368410
   city: Lysekil
   country: Sverige
   latitude: 58.273221
   longitude: 11.435748
 
 - location: ORUSTS SPARBANK
-  urn: urn:swedbank:office:id:0000000010
   city: Ellös
   country: Sverige
   latitude: 58.18228
   longitude: 11.467009
 
 - location: Tjörns Sparbank
-  urn: urn:swedbank:office:id:0000000001
   city: Skärhamn
   country: Sverige
   latitude: 57.98745
   longitude: 11.543421
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000105139
   city: Öckerö
   country: Sverige
   latitude: 57.707951
   longitude: 11.65504
 
 - location: Tjörns Sparbank
-  urn: urn:swedbank:office:id:0000000006
   city: Kållekärr
   country: Sverige
   latitude: 58.025014
   longitude: 11.660496
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000368360
   city: Munkedal
   country: Sverige
   latitude: 58.466813
   longitude: 11.673293
 
 - location: Orusts Sparbank
-  urn: urn:swedbank:office:id:0000000001
   city: Henån
   country: Sverige
   latitude: 58.23654
   longitude: 11.680354
 
 - location: ORUSTS SPARBANK
-  urn: urn:swedbank:office:id:0000000003
   city: Varekil
   country: Sverige
   latitude: 58.125782
   longitude: 11.715161
 
 - location: Tjörns Sparbank
-  urn: urn:swedbank:office:id:0000000003
   city: Myggenäs
   country: Sverige
   latitude: 58.06171
   longitude: 11.75226
 
 - location: ORUSTS SPARBANK
-  urn: urn:swedbank:office:id:0000000004
   city: Svanesund
   country: Sverige
   latitude: 58.142716
   longitude: 11.81955
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000105131
   city: Stenungsund
   country: Sverige
   latitude: 58.074288
   longitude: 11.822789
 
 - location: Westra Wermlands Sparbank
-  urn: urn:swedbank:office:id:0000000008
   city: Töcksfors
   country: Sverige
   latitude: 59.508218
   longitude: 11.838572
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000105123
   city: Göteborg väster
   country: Sverige
   latitude: 57.646091
   longitude: 11.916169
 
 - location: Dalslands Sparbank
-  urn: urn:swedbank:office:id:0000000007
   city: Ed
   country: Sverige
   latitude: 58.911965
   longitude: 11.932591
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000368310
   city: Uddevalla
   country: Sverige
   latitude: 58.350263
   longitude: 11.934432
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000105118
   city: Göteborg n älvstranden
   country: Sverige
   latitude: 57.70624
   longitude: 11.940542
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000105117
   city: Göteborg kvillebäcken
   country: Sverige
   latitude: 57.72104
   longitude: 11.94581
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000105142
   city: Göteborg s hamng
   country: Sverige
   latitude: 57.70613
   longitude: 11.96629
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000105130
   city: Kungälv
   country: Sverige
   latitude: 57.87089
   longitude: 11.981533
 
 - location: Dalslands Sparbank
-  urn: urn:swedbank:office:id:0000000008
   city: Färgelanda
   country: Sverige
   latitude: 58.567518
   longitude: 11.996825
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000105160
   city: Mölndal
   country: Sverige
   latitude: 57.673681
   longitude: 12.009958
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000105148
   city: Göteborg angered
   country: Sverige
   latitude: 57.797949
   longitude: 12.050213
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000105181
   city: Kungsbacka
   country: Sverige
   latitude: 57.485209
   longitude: 12.076645
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000105147
   city: Partille
   country: Sverige
   latitude: 57.740304
   longitude: 12.108892
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000105145
   city: Mölnlycke
   country: Sverige
   latitude: 57.65948
   longitude: 12.1161
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000105140
   city: Älvängen
   country: Sverige
   latitude: 57.958091
   longitude: 12.123149
 
 - location: Westra Wermlands Sparbank
-  urn: urn:swedbank:office:id:0000000009
   city: Årjäng
   country: Sverige
   latitude: 59.392364
   longitude: 12.131512
 
 - location: Westra Wermlands Sparbank
-  urn: urn:swedbank:office:id:0000000006
   city: Koppom
   country: Sverige
   latitude: 59.701904
   longitude: 12.137208
 
 - location: Dalslands Sparbank
-  urn: urn:swedbank:office:id:0000000006
   city: Bengtsfors
   country: Sverige
   latitude: 59.029231
   longitude: 12.22496
 
 - location: Varbergs Sparbank AB
-  urn: urn:swedbank:office:id:0000000001
-  city: Kontoret vid torget
+  city: Varberg
   country: Sverige
   latitude: 57.104767
   longitude: 12.25054
 
 - location: Sparbanken Alingsås AB
-  urn: urn:swedbank:office:id:0000000002
   city: Lerum
   country: Sverige
   latitude: 57.7711
   longitude: 12.27209
 
 - location: Varbergs Sparbank AB
-  urn: urn:swedbank:office:id:0000000010
   city: Håsten
   country: Sverige
   latitude: 57.112461
   longitude: 12.277531
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000368010
   city: Trollhättan
   country: Sverige
   latitude: 58.284511
   longitude: 12.285838
 
 - location: Westra Wermlands Sparbank
-  urn: urn:swedbank:office:id:0000000003
   city: Charlottenberg
   country: Sverige
   latitude: 59.88383
   longitude: 12.303646
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000368210
   city: Vänersborg
   country: Sverige
   latitude: 58.381764
   longitude: 12.322672
 
 - location: Varbergs Sparbank AB
-  urn: urn:swedbank:office:id:0000000004
   city: Veddige
   country: Sverige
   latitude: 57.267453
   longitude: 12.336061
 
 - location: Westra Wermlands Sparbank
-  urn: urn:swedbank:office:id:0000000002
   city: Åmotfors
   country: Sverige
   latitude: 59.763164
   longitude: 12.36346
 
 - location: Varbergs Sparbank AB
-  urn: urn:swedbank:office:id:0000000003
   city: Tvååker
   country: Sverige
   latitude: 57.042292
   longitude: 12.397567
 
 - location: Sparbanken Sjuhärad AB (publ)
-  urn: urn:swedbank:office:id:0000000072
   city: Sätila
   country: Sverige
   latitude: 57.542379
   longitude: 12.433675
 
 - location: Dalslands Sparbank
-  urn: urn:swedbank:office:id:0000000001
   city: Mellerud
   country: Sverige
   latitude: 58.698907
   longitude: 12.451788
 
+- location: Falkenbergs Sparbank
+  city: Falkenberg
+  country: Sverige
+  latitude: 56.903562
+  longitude: 12.491312
+
 - location: Sparbanken Alingsås AB
-  urn: urn:swedbank:office:id:0000000003
   city: Sollebrunn
   country: Sverige
   latitude: 58.119165
   longitude: 12.528591
 
 - location: Sparbanken Alingsås AB
-  urn: urn:swedbank:office:id:0000000001
   city: Alingsås
   country: Sverige
   latitude: 57.928653
   longitude: 12.533006
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000214225
-  city: Storgatan,höganäs
+  city: Höganäs
   country: Sverige
   latitude: 56.200194
   longitude: 12.559615
 
 - location: Sparbanken Sjuhärad AB (publ)
-  urn: urn:swedbank:office:id:0000000035
   city: Bollebygd
   country: Sverige
   latitude: 57.669048
   longitude: 12.568012
 
 - location: Westra Wermlands Sparbank
-  urn: urn:swedbank:office:id:0000000001
   city: Arvika
   country: Sverige
   latitude: 59.654089
   longitude: 12.590629
 
 - location: Åse Viste Sparbank
-  urn: urn:swedbank:office:id:0000000001
   city: Grästorp
   country: Sverige
   latitude: 58.33382
   longitude: 12.680771
 
 - location: Sparbanken Sjuhärad AB (publ)
-  urn: urn:swedbank:office:id:0000000070
   city: Kinna
   country: Sverige
   latitude: 57.507324
   longitude: 12.693351
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000214211
-  city: Helsingborg city
+  city: Helsingborg
   country: Sverige
   latitude: 56.045578
   longitude: 12.693937
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000368110
   city: Åmål
   country: Sverige
   latitude: 59.053321
   longitude: 12.705018
 
 - location: Falkenbergs Sparbank
-  urn: urn:swedbank:office:id:0000000301
   city: Ullared
   country: Sverige
   latitude: 57.13666
   longitude: 12.71672
 
 - location: Sparbanken Skaraborg AB
-  urn: urn:swedbank:office:id:0000000004
   city: Nossebro
   country: Sverige
   latitude: 58.187789
   longitude: 12.720766
 
 - location: Falkenbergs Sparbank
-  urn: urn:swedbank:office:id:0000000801
   city: Getinge
   country: Sverige
   latitude: 56.819281
   longitude: 12.732866
 
 - location: Sparbanken Alingsås AB
-  urn: urn:swedbank:office:id:0000000004
   city: Vårgårda
   country: Sverige
   latitude: 58.031739
   longitude: 12.808062
 
 - location: Westra Wermlands Sparbank
-  urn: urn:swedbank:office:id:0000000004
   city: Edane
   country: Sverige
   latitude: 59.628836
   longitude: 12.826983
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000214241
-  city: Landskrona, järnvägsg
+  city: Landskrona
   country: Sverige
   latitude: 55.870126
   longitude: 12.832574
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000214501
   city: Båstad
   country: Sverige
   latitude: 56.42711
   longitude: 12.847531
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000169450
   city: Halmstad stora torg
   country: Sverige
   latitude: 56.673597
   longitude: 12.858125
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000214503
   city: Ängelholm
   country: Sverige
   latitude: 56.2451
   longitude: 12.8638
 
 - location: Fryksdalens Sparbank
-  urn: urn:swedbank:office:id:0000000003
   city: Sysslebäck
   country: Sverige
   latitude: 60.730884
   longitude: 12.871137
 
 - location: Mjöbäcks Sparbank
-  urn: urn:swedbank:office:id:0000000001
-  city: En fristående sparbank
+  city: Mjöbäck
   country: Sverige
   latitude: 57.349
   longitude: 12.894
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000156006
   city: Säffle
   country: Sverige
   latitude: 59.132091
   longitude: 12.929839
 
 - location: Laholms Sparbank
-  urn: urn:swedbank:office:id:0000000007
   city: Skummeslöv
   country: Sverige
   latitude: 56.44712
   longitude: 12.93005
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000214106
   city: Limhamn
   country: Sverige
   latitude: 55.582313
   longitude: 12.932082
 
 - location: Sparbanken Sjuhärad AB (publ)
-  urn: urn:swedbank:office:id:0000000008
-  city: Privatmarknad borås
+  city: Borås
   country: Sverige
   latitude: 57.719329
   longitude: 12.943713
 
 - location: Sparbanken Sjuhärad AB (publ)
-  urn: urn:swedbank:office:id:0000000006
-  city: Företagsmarknad borås
+  city: Borås
   country: Sverige
   latitude: 57.71926
   longitude: 12.944066
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000214017
   city: Åstorp
   country: Sverige
   latitude: 56.13449
   longitude: 12.947645
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000214350
   city: Höllviken
   country: Sverige
   latitude: 55.417202
   longitude: 12.950712
 
 - location: Sparbanken Skaraborg AB
-  urn: urn:swedbank:office:id:0000000002
   city: Vara
   country: Sverige
   latitude: 58.26217
   longitude: 12.9528
 
 - location: Ekeby Sparbank
-  urn: urn:swedbank:office:id:0000000001
   city: Ekeby
   country: Sverige
   latitude: 56.000753
   longitude: 12.972895
 
 - location: Sparbanken Skåne AB (publ)
-  urn: urn:swedbank:office:id:0000000074
   city: Löddeköpinge
   country: Sverige
   latitude: 55.766961
   longitude: 12.994476
 
 - location: Sparbanken Skaraborg AB
-  urn: urn:swedbank:office:id:0000000006
-  city: Digitala kunder
+  city: Vedum
   country: Sverige
   latitude: 58.170619
   longitude: 12.99516
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000214180
-  city: Gustav adolfs torg
+  city: Malmö
   country: Sverige
   latitude: 55.602902
   longitude: 13.001652
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000214013
   city: Södervärn
   country: Sverige
   latitude: 55.589636
   longitude: 13.005305
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000156041
   city: Torsby
   country: Sverige
   latitude: 60.135612
   longitude: 13.005819
 
 - location: Sparbanken Sjuhärad AB (publ)
-  urn: urn:swedbank:office:id:0000000020
   city: Fristad
   country: Sverige
   latitude: 57.824594
   longitude: 13.008176
 
 - location: Sparbanken Alingsås AB
-  urn: urn:swedbank:office:id:0000000008
   city: Herrljunga
   country: Sverige
   latitude: 58.077983
   longitude: 13.022495
 
 - location: Laholms Sparbank
-  urn: urn:swedbank:office:id:0000000001
   city: Laholm
   country: Sverige
   latitude: 56.51383
   longitude: 13.0439
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000214108
   city: Bulltofta
   country: Sverige
   latitude: 55.596359
   longitude: 13.063175
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000214517
-  city: Lomma centrumtorget
+  city: Lomma
   country: Sverige
   latitude: 55.673007
   longitude: 13.06907
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000147047
   city: Åre
   country: Sverige
   latitude: 63.400756
   longitude: 13.078442
 
 - location: Södra Hestra Sparbank
-  urn: urn:swedbank:office:id:0000000007
   city: Torup
   country: Sverige
   latitude: 56.957015
   longitude: 13.08014
 
 - location: Sparbanken Skåne AB (publ)
-  urn: urn:swedbank:office:id:0000000078
   city: Svalöv
   country: Sverige
   latitude: 55.913636
   longitude: 13.107396
 
 - location: Sparbanken Skåne AB (publ)
-  urn: urn:swedbank:office:id:0000000073
   city: Kävlinge
   country: Sverige
   latitude: 55.790563
   longitude: 13.109202
 
 - location: Sparbanken Sjuhärad AB (publ)
-  urn: urn:swedbank:office:id:0000000050
   city: Svenljunga
   country: Sverige
   latitude: 57.494881
   longitude: 13.109873
 
 - location: Laholms Sparbank
-  urn: urn:swedbank:office:id:0000000004
   city: Våxtorp
   country: Sverige
   latitude: 56.4169
   longitude: 13.12103
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000214261
   city: Klippan
   country: Sverige
   latitude: 56.13543
   longitude: 13.131631
 
 - location: Fryksdalens Sparbank
-  urn: urn:swedbank:office:id:0000000001
   city: Fryksdalen privat
   country: Sverige
   latitude: 59.837181
   longitude: 13.145121
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000214301
   city: Trelleborg
   country: Sverige
   latitude: 55.373921
   longitude: 13.156255
 
 - location: Sparbanken Lidköping AB
-  urn: urn:swedbank:office:id:0000000001
-  city: Nya stadens torg
+  city: Lidköping
   country: Sverige
   latitude: 58.502855
   longitude: 13.158008
 
 - location: Sparbanken Skåne AB (publ)
-  urn: urn:swedbank:office:id:0000000043
-  city: Kyrkogatan
+  city: Lund
   country: Sverige
   latitude: 55.704253
   longitude: 13.192534
 
 - location: Sparbanken Skåne AB (publ)
-  urn: urn:swedbank:office:id:0000000066
   city: Staffanstorp
   country: Sverige
   latitude: 55.643924
   longitude: 13.207683
 
 - location: Sparbanken Skåne AB (publ)
-  urn: urn:swedbank:office:id:0000000044
-  city: Gateway
+  city: Lund
   country: Sverige
   latitude: 55.717478
   longitude: 13.21389
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000214155
   city: Svedala
   country: Sverige
   latitude: 55.508485
   longitude: 13.235865
 
 - location: Södra Hestra Sparbank
-  urn: urn:swedbank:office:id:0000000004
-  city: Hk hyltebruk
+  city: Hyltebruk
   country: Sverige
   latitude: 56.999051
   longitude: 13.238933
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000214507
   city: Örkelljunga
   country: Sverige
   latitude: 56.283548
   longitude: 13.276674
 
 - location: Södra Hestra Sparbank
-  urn: urn:swedbank:office:id:0000000002
   city: Burseryd
   country: Sverige
   latitude: 57.202611
   longitude: 13.284326
 
 - location: Sparbanken Skåne AB (publ)
-  urn: urn:swedbank:office:id:0000000077
   city: Eslöv
   country: Sverige
   latitude: 55.838644
   longitude: 13.30325
 
 - location: Sparbanken Boken
-  urn: urn:swedbank:office:id:0000000002
   city: Hishult
   country: Sverige
   latitude: 56.426658
   longitude: 13.316458
 
 - location: Laholms Sparbank
-  urn: urn:swedbank:office:id:0000000008
   city: Knäred
   country: Sverige
   latitude: 56.51731
   longitude: 13.31709
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000156018
   city: Kil
   country: Sverige
   latitude: 59.503883
   longitude: 13.317821
 
 - location: Sparbanken Tranemo
-  urn: urn:swedbank:office:id:0000000001
   city: Tranemo
   country: Sverige
   latitude: 57.484468
   longitude: 13.352378
 
 - location: Ulricehamns Sparbank
-  urn: urn:swedbank:office:id:0000000100
   city: Ulricehamn
   country: Sverige
   latitude: 57.795258
   longitude: 13.415437
 
 - location: Sparbanken Skaraborg AB
-  urn: urn:swedbank:office:id:0000000001
   city: Skara
   country: Sverige
   latitude: 58.384217
   longitude: 13.437922
 
 - location: Sparbanken Boken
-  urn: urn:swedbank:office:id:0000000001
-  city: Skånes fagerhult
+  city: Skånes Fagerhult
   country: Sverige
   latitude: 56.369798
   longitude: 13.467635
 
 - location: Sparbanken Skåne AB (publ)
-  urn: urn:swedbank:office:id:0000000085
   city: Veberöd
   country: Sverige
   latitude: 55.634137
   longitude: 13.491687
 
 - location: Sparbanken Skaraborg AB
-  urn: urn:swedbank:office:id:0000000003
   city: Götene
   country: Sverige
   latitude: 58.528669
   longitude: 13.49328
 
 - location: Skurups Sparbank
-  urn: urn:swedbank:office:id:0000000001
   city: Skurup
   country: Sverige
   latitude: 55.477966
   longitude: 13.50127
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000156070
   city: Karlstad
   country: Sverige
   latitude: 59.381376
   longitude: 13.504686
 
+- location: Sparbanken Göinge AB
+  city: Röke
+  country: Sverige
+  latitude: 56.234687
+  longitude: 13.520812
+
 - location: Södra Hestra Sparbank
-  urn: urn:swedbank:office:id:0000000005
   city: Unnaryd
   country: Sverige
   latitude: 56.954425
   longitude: 13.529433
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000417054
-  city: Privat 613 gislaved
+  city: Gislaved
   country: Sverige
   latitude: 57.302154
   longitude: 13.540182
 
 - location: Sparbanken Skåne AB (publ)
-  urn: urn:swedbank:office:id:0000000082
   city: Höör
   country: Sverige
   latitude: 55.935361
   longitude: 13.540879
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000299011
   city: Falköping
   country: Sverige
   latitude: 58.161675
   longitude: 13.552078
 
 - location: Markaryds Sparbank
-  urn: urn:swedbank:office:id:0000000001
   city: Markaryd
   country: Sverige
   latitude: 56.461558
   longitude: 13.595299
 
 - location: Sparbanken Skåne AB (publ)
-  urn: urn:swedbank:office:id:0000000081
   city: Hörby
   country: Sverige
   latitude: 55.853054
   longitude: 13.660429
 
 - location: Snapphanebygdens Sparbank
-  urn: urn:swedbank:office:id:0000000003
   city: Vittsjö
   country: Sverige
   latitude: 56.339446
   longitude: 13.664005
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000156007
   city: Hagfors
   country: Sverige
   latitude: 60.032254
   longitude: 13.700415
 
 - location: Sparbanken Skåne AB (publ)
-  urn: urn:swedbank:office:id:0000000084
   city: Sjöbo
   country: Sverige
   latitude: 55.631687
   longitude: 13.706526
 
 - location: Snapphanebygdens Sparbank
-  urn: urn:swedbank:office:id:0000000001
   city: Bjärnum
   country: Sverige
   latitude: 56.291613
   longitude: 13.710386
 
+- location: Snapphanebygdens Sparbank
+  city: Bjärnum
+  country: Sverige
+  latitude: 56.291562
+  longitude: 13.710562
+
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000417030
-  city: Privat 613 gnosjö
+  city: Gnosjö
   country: Sverige
   latitude: 57.357109
   longitude: 13.733485
 
 - location: Sparbanken Skåne AB (publ)
-  urn: urn:swedbank:office:id:0000000051
   city: Hässleholm
   country: Sverige
   latitude: 56.158671
   longitude: 13.766051
 
+- location: Sparbanken Göinge AB
+  city: Farstorp
+  country: Sverige
+  latitude: 56.277313
+  longitude: 13.794438
+
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000299060
   city: Mariestad
   country: Sverige
   latitude: 58.709953
   longitude: 13.824127
 
 - location: Sparbanken Skåne AB (publ)
-  urn: urn:swedbank:office:id:0000000086
   city: Ystad
   country: Sverige
   latitude: 55.430585
   longitude: 13.827292
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000299041
   city: Skövde
   country: Sverige
   latitude: 58.388385
   longitude: 13.845094
 
 - location: Tidaholms Sparbank
-  urn: urn:swedbank:office:id:0000000003
   city: Mullsjö
   country: Sverige
   latitude: 57.91542
   longitude: 13.883129
 
 - location: Sparbanken Göinge AB
-  urn: urn:swedbank:office:id:0000000001
   city: Vinslöv
   country: Sverige
   latitude: 56.103648
   longitude: 13.916011
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000169131
   city: Ljungby
   country: Sverige
   latitude: 56.833661
   longitude: 13.937302
 
 - location: Sparbanken Skåne AB (publ)
-  urn: urn:swedbank:office:id:0000000087
   city: Tomelilla
   country: Sverige
   latitude: 55.543081
   longitude: 13.9531
 
 - location: Sparbanken Eken  AB
-  urn: urn:swedbank:office:id:0000000002
   city: Delary
   country: Sverige
   latitude: 56.547774
   longitude: 13.954338
 
 - location: Tidaholms Sparbank
-  urn: urn:swedbank:office:id:0000000001
   city: Tidaholm
   country: Sverige
   latitude: 58.180535
   longitude: 13.956896
 
 - location: Sparbanken Skåne AB (publ)
-  urn: urn:swedbank:office:id:0000000060
   city: Osby
   country: Sverige
   latitude: 56.380069
   longitude: 13.996262
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000417001
-  city: Privat 613 värnamo
+  city: Värnamo
   country: Sverige
   latitude: 57.18507
   longitude: 14.041076
 
 - location: Sparbanken Skåne AB (publ)
-  urn: urn:swedbank:office:id:0000000030
   city: Broby
   country: Sverige
   latitude: 56.255258
   longitude: 14.07762
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000156042
   city: Kristinehamn
   country: Sverige
   latitude: 59.309638
   longitude: 14.108645
 
 - location: Sparbanken Göinge AB
-  urn: urn:swedbank:office:id:0000000002
   city: Glimåkra
   country: Sverige
   latitude: 56.305678
   longitude: 14.138248
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000169071
   city: Älmhult
   country: Sverige
   latitude: 56.553611
   longitude: 14.141011
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000150121
-  city: Privat 613 vaggeryd
+  city: Vaggeryd
   country: Sverige
   latitude: 57.498562
   longitude: 14.149026
 
 - location: Sparbanken Skåne AB (publ)
-  urn: urn:swedbank:office:id:0000000004
   city: Näsby
   country: Sverige
   latitude: 56.043848
   longitude: 14.151861
 
 - location: Sparbanken Skåne AB (publ)
-  urn: urn:swedbank:office:id:0000000001
-  city: Kristianstad city
+  city: Kristianstad
   country: Sverige
   latitude: 56.030037
   longitude: 14.158671
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000299053
   city: Tibro
   country: Sverige
   latitude: 58.424536
   longitude: 14.162824
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000150001
-  city: Privat 613 jönköping
+  city: Jönköping
   country: Sverige
   latitude: 57.782179
   longitude: 14.169845
 
 - location: Sparbanken Skåne AB (publ)
-  urn: urn:swedbank:office:id:0000000002
-  city: Kristianstad björkhem
+  city: Björkhem
   country: Sverige
   latitude: 56.028999
   longitude: 14.177053
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000299050
   city: Hjo
   country: Sverige
   latitude: 58.301511
   longitude: 14.287487
 
 - location: Sparbanken Skåne AB (publ)
-  urn: urn:swedbank:office:id:0000000014
   city: Åhus
   country: Sverige
   latitude: 55.926021
   longitude: 14.300837
 
 - location: Sparbanken Skåne AB (publ)
-  urn: urn:swedbank:office:id:0000000088
   city: Simrishamn
   country: Sverige
   latitude: 55.556563
   longitude: 14.350966
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000147053
   city: Sveg
   country: Sverige
   latitude: 62.03321
   longitude: 14.359846
 
 - location: Ivetofta Sparbank i Bromölla
-  urn: urn:swedbank:office:id:0000000001
   city: Bromölla
   country: Sverige
   latitude: 56.073627
   longitude: 14.467336
 
 - location: Ivetofta Sparbank i Bromölla
-  urn: urn:swedbank:office:id:0000000002
   city: Näsum
   country: Sverige
   latitude: 56.175031
   longitude: 14.501872
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000452023
   city: Hällefors
   country: Sverige
   latitude: 59.783635
   longitude: 14.520503
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000452005
   city: Karlskoga
   country: Sverige
   latitude: 59.325849
   longitude: 14.523302
 
 - location: Sparbanken i Karlshamn
-  urn: urn:swedbank:office:id:0000000086
   city: Olofströmskontoret
   country: Sverige
   latitude: 56.277549
   longitude: 14.532363
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000166634
   city: Mora
   country: Sverige
   latitude: 61.004188
   longitude: 14.537481
 
 - location: Sparbanken Eken  AB
-  urn: urn:swedbank:office:id:0000000004
   city: Grimslöv
   country: Sverige
   latitude: 56.736636
   longitude: 14.542989
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000169051
   city: Alvesta
   country: Sverige
   latitude: 56.900008
   longitude: 14.556383
 
 - location: Sölvesborg-Mjällby Sparbank
-  urn: urn:swedbank:office:id:0000000001
   city: Sölvesborg
   country: Sverige
   latitude: 56.051549
   longitude: 14.583916
 
 - location: Sparbanken i Karlshamn
-  urn: urn:swedbank:office:id:0000000085
-  city: Kyrkhultskontoret
+  city: Kyrkhult
   country: Sverige
   latitude: 56.356003
   longitude: 14.587322
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000147011
-  city: Östersund stortorget
+  city: Östersund
   country: Sverige
   latitude: 63.179306
   longitude: 14.636758
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000150070
-  city: Privat 613 sävsjö
+  city: Sävsjö
   country: Sverige
   latitude: 57.401186
   longitude: 14.66525
 
 - location: Sölvesborg-Mjällby Sparbank
-  urn: urn:swedbank:office:id:0000000003
   city: Mjällby
   country: Sverige
   latitude: 56.046499
   longitude: 14.679321
 
 - location: Sparbanken Eken  AB
-  urn: urn:swedbank:office:id:0000000001
   city: Ryd
   country: Sverige
   latitude: 56.464146
   longitude: 14.693961
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000150040
-  city: Privat 613 nässjö
+  city: Nässjö
   country: Sverige
   latitude: 57.652601
   longitude: 14.69801
 
 - location: Sparbanken i Karlshamn
-  urn: urn:swedbank:office:id:0000000005
-  city: Mörrumskontoret
+  city: Mörrum
   country: Sverige
   latitude: 56.192651
   longitude: 14.745828
 
+- location: Sparbanken i Karlshamn
+  city: Svängsta
+  country: Sverige
+  latitude: 56.262501
+  longitude: 14.771196
+
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000169001
-  city: Växjö storgatan
+  city: Växjö
   country: Sverige
   latitude: 56.878953
   longitude: 14.804614
 
 - location: Sparbanken i Karlshamn
-  urn: urn:swedbank:office:id:0000000003
-  city: Asarumskontoret
+  city: Asarum
   country: Sverige
   latitude: 56.207128
   longitude: 14.833076
 
 - location: Sparbanken i Karlshamn
-  urn: urn:swedbank:office:id:0000000001
-  city: Karlshamnskontoret
+  city: Karlshamn
   country: Sverige
   latitude: 56.170602
   longitude: 14.861707
 
 - location: Lekebergs Sparbank
-  urn: urn:swedbank:office:id:0000000001
   city: Lekeberg
   country: Sverige
   latitude: 59.173268
   longitude: 14.871569
 
 - location: Vadstena Sparbank
-  urn: urn:swedbank:office:id:0000000001
   city: Vadstena
   country: Sverige
   latitude: 58.447819
   longitude: 14.88966
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000150060
-  city: Privat 613 eksjö
+  city: Eksjö
   country: Sverige
   latitude: 57.666287
   longitude: 14.972
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000150050
-  city: Privat 613 tranås
+  city: Tranås
   country: Sverige
   latitude: 58.03645
   longitude: 14.97716
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000169061
   city: Tingsryd
   country: Sverige
   latitude: 56.525105
   longitude: 14.980037
 
 - location: Bergslagens Sparbank AB
-  urn: urn:swedbank:office:id:0000000410
   city: Kopparberg
   country: Sverige
   latitude: 59.875356
   longitude: 14.992945
 
 - location: Leksands Sparbank
-  urn: urn:swedbank:office:id:0000000001
   city: Leksand
   country: Sverige
   latitude: 60.73157
   longitude: 14.9957
 
 - location: Sparbanken Eken  AB
-  urn: urn:swedbank:office:id:0000000005
   city: Åryd
   country: Sverige
   latitude: 56.20698
   longitude: 15.03045
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000480400
   city: Motala
   country: Sverige
   latitude: 58.535817
   longitude: 15.036258
 
 - location: Bergslagens Sparbank AB
-  urn: urn:swedbank:office:id:0000000018
   city: Nora
   country: Sverige
   latitude: 59.519746
   longitude: 15.038049
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000150020
-  city: Privat 613 vetlanda
+  city: Vetlanda
   country: Sverige
   latitude: 57.426536
   longitude: 15.085763
 
 - location: Leksands Sparbank
-  urn: urn:swedbank:office:id:0000000002
   city: Gagnef
   country: Sverige
   latitude: 60.67562
   longitude: 15.0898
 
 - location: Leksands Sparbank
-  urn: urn:swedbank:office:id:0000000006
   city: Rättvik
   country: Sverige
   latitude: 60.885927
   longitude: 15.117949
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000480450
   city: Mjölby
   country: Sverige
   latitude: 58.325478
   longitude: 15.130319
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000166329
   city: Djurås
   country: Sverige
   latitude: 60.560345
   longitude: 15.130535
 
 - location: Bergslagens Sparbank AB
-  urn: urn:swedbank:office:id:0000000330
   city: Guldsmedshyttan
   country: Sverige
   latitude: 59.713696
   longitude: 15.13378
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000452047
   city: Kumla
   country: Sverige
   latitude: 59.126599
   longitude: 15.143649
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000166479
   city: Ludvika
   country: Sverige
   latitude: 60.149278
   longitude: 15.184599
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000452001
   city: City örebro
   country: Sverige
   latitude: 59.271483
   longitude: 15.21113
 
 - location: Bergslagens Sparbank AB
-  urn: urn:swedbank:office:id:0000000209
-  city: Lindesberg privat och företag
+  city: Lindesberg
   country: Sverige
   latitude: 59.594268
   longitude: 15.226392
 
 - location: Bergslagens Sparbank AB
-  urn: urn:swedbank:office:id:0000000310
-  city: Lindesberg huvudkontor
+  city: Lindesberg
   country: Sverige
   latitude: 59.59063
   longitude: 15.227942
 
 - location: Sparbanken Eken  AB
-  urn: urn:swedbank:office:id:0000000006
   city: Älmeboda
   country: Sverige
   latitude: 56.555582
   longitude: 15.268312
 
 - location: Kinda-Ydre Sparbank
-  urn: urn:swedbank:office:id:0000000005
   city: Österbymo
   country: Sverige
   latitude: 57.823866
   longitude: 15.276518
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000169380
   city: Ronneby
   country: Sverige
   latitude: 56.209847
   longitude: 15.277248
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000169035
   city: Åseda
   country: Sverige
   latitude: 57.170149
   longitude: 15.344603
 
 - location: Bergslagens Sparbank AB
-  urn: urn:swedbank:office:id:0000000013
   city: Frövi
   country: Sverige
   latitude: 59.46662
   longitude: 15.36358
 
 - location: Norrbärke Sparbank
-  urn: urn:swedbank:office:id:0000000001
   city: Norrbärke
   country: Sverige
   latitude: 60.140278
   longitude: 15.410994
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000166307
   city: Borlänge
   country: Sverige
   latitude: 60.48561
   longitude: 15.43221
 
 - location: Bjursås Sparbank
-  urn: urn:swedbank:office:id:0000000001
   city: Bjursås
   country: Sverige
   latitude: 60.739596
   longitude: 15.444044
 
 - location: Sparbanken Eken  AB
-  urn: urn:swedbank:office:id:0000000003
   city: Långasjö
   country: Sverige
   latitude: 56.578116
   longitude: 15.446378
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000147052
   city: Strömsund
   country: Sverige
   latitude: 63.851591
   longitude: 15.558867
 
 - location: Virserums Sparbank
-  urn: urn:swedbank:office:id:0000000001
   city: Virserum
   country: Sverige
   latitude: 57.319584
   longitude: 15.58117
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000169390
   city: Karlskrona
   country: Sverige
   latitude: 56.161467
   longitude: 15.583556
 
 - location: Bergslagens Sparbank AB
-  urn: urn:swedbank:office:id:0000000210
-  city: Fellingsbro hemvägen
+  city: Fellingsbro
   country: Sverige
   latitude: 59.434254
   longitude: 15.593005
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000480300
-  city: Citykontoret linköping
+  city: Linköping
   country: Sverige
   latitude: 58.411098
   longitude: 15.626976
 
 - location: Kinda-Ydre Sparbank
-  urn: urn:swedbank:office:id:0000000001
   city: Kisa
   country: Sverige
   latitude: 57.989319
   longitude: 15.633172
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000166199
   city: Falun
   country: Sverige
   latitude: 60.605254
   longitude: 15.634713
 
 - location: Kinda-Ydre Sparbank
-  urn: urn:swedbank:office:id:0000000003
   city: Rimforsa
   country: Sverige
   latitude: 58.136746
   longitude: 15.685149
 
-- location: LÖNNEBERGA-TUNA-VENA SPARBANK
-  urn: urn:swedbank:office:id:0000000003
+- location: Lönneberga-Tuna-Vena Sparbank
   city: Silverdalen
   country: Sverige
   latitude: 57.542629
   longitude: 15.752026
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000480240
   city: Finspång
   country: Sverige
   latitude: 58.70722
   longitude: 15.772618
 
 - location: Södra Dalarnas Sparbank AB
-  urn: urn:swedbank:office:id:0000000031
   city: Säter
   country: Sverige
   latitude: 60.404502
   longitude: 15.807348
 
 - location: Sparbanken Västra Mälardalen
-  urn: urn:swedbank:office:id:0000000005
   city: Arboga
   country: Sverige
   latitude: 59.39469
   longitude: 15.838931
 
 - location: Kinda-Ydre Sparbank
-  urn: urn:swedbank:office:id:0000000002
   city: Horn
   country: Sverige
   latitude: 57.90006
   longitude: 15.839974
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000169204
   city: Hultsfred
   country: Sverige
   latitude: 57.487596
   longitude: 15.842911
 
 - location: Vimmerby Sparbank AB
-  urn: urn:swedbank:office:id:0000000001
   city: Vimmerby
   country: Sverige
   latitude: 57.666631
   longitude: 15.854386
 
 - location: Sörmlands Sparbank
-  urn: urn:swedbank:office:id:0000000050
   city: Vingåker
   country: Sverige
   latitude: 59.043059
   longitude: 15.874432
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000169250
   city: Nybro
   country: Sverige
   latitude: 56.744051
   longitude: 15.908459
 
 - location: LÖNNEBERGA-TUNA-VENA SPARBANK
-  urn: urn:swedbank:office:id:0000000001
   city: Vena
   country: Sverige
   latitude: 57.523357
   longitude: 15.968839
 
 - location: Södra Dalarnas Sparbank AB
-  urn: urn:swedbank:office:id:0000000001
   city: Hedemora
   country: Sverige
   latitude: 60.27702
   longitude: 15.986
 
 - location: Sparbanken Västra Mälardalen
-  urn: urn:swedbank:office:id:0000000001
   city: Köping
   country: Sverige
   latitude: 59.513281
   longitude: 15.996664
 
 - location: Åtvidabergs Sparbank
-  urn: urn:swedbank:office:id:0000000001
   city: Åtvidaberg
   country: Sverige
   latitude: 58.202256
   longitude: 15.997961
 
 - location: Högsby Sparbank
-  urn: urn:swedbank:office:id:0000000001
   city: Högsby
   country: Sverige
   latitude: 57.163455
   longitude: 16.028175
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000103313
   city: Ljusdal
   country: Sverige
   latitude: 61.828024
   longitude: 16.09463
 
 - location: Sparbanken Västra Mälardalen
-  urn: urn:swedbank:office:id:0000000008
   city: Kungsör
   country: Sverige
   latitude: 59.424107
   longitude: 16.095324
 
-- location: LÖNNEBERGA-TUNA-VENA SPARBANK
-  urn: urn:swedbank:office:id:0000000002
+- location: Lönneberga-Tuna-Vena Sparbank
   city: Tuna
   country: Sverige
   latitude: 57.577595
   longitude: 16.10442
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000166201
   city: Avesta
   country: Sverige
   latitude: 60.145881
   longitude: 16.168253
 
 - location: Hälsinglands Sparbank
-  urn: urn:swedbank:office:id:0000000008
   city: Järvsö
   country: Sverige
   latitude: 61.715841
   longitude: 16.169416
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000480200
   city: Norrköping
   country: Sverige
   latitude: 58.587601
   longitude: 16.191352
 
 - location: Sörmlands Sparbank
-  urn: urn:swedbank:office:id:0000000001
   city: Katrineholm
   country: Sverige
   latitude: 58.995244
   longitude: 16.208296
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000424017
   city: Hallstahammar
   country: Sverige
   latitude: 59.613644
   longitude: 16.228714
 
 - location: Häradssparbanken Mönsterås
-  urn: urn:swedbank:office:id:0000000215
   city: Fliseryd
   country: Sverige
   latitude: 57.127748
   longitude: 16.264259
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000480250
   city: Söderköping
   country: Sverige
   latitude: 58.480208
   longitude: 16.323754
 
 - location: Ålems Sparbank
-  urn: urn:swedbank:office:id:0000000002
   city: Blomstermåla
   country: Sverige
   latitude: 56.981465
   longitude: 16.332194
 
 - location: Tjustbygdens Sparbank AB
-  urn: urn:swedbank:office:id:0000000022
   city: Ankarsrum
   country: Sverige
   latitude: 57.69899
   longitude: 16.33632
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000169270
   city: Kalmar
   country: Sverige
   latitude: 56.663737
   longitude: 16.364029
 
 - location: Ålems Sparbank
-  urn: urn:swedbank:office:id:0000000001
   city: Ålem
   country: Sverige
   latitude: 56.947089
   longitude: 16.385665
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000103327
   city: Bollnäs
   country: Sverige
   latitude: 61.347662
   longitude: 16.393833
 
 - location: Tjustbygdens Sparbank AB
-  urn: urn:swedbank:office:id:0000000010
   city: Gamleby
   country: Sverige
   latitude: 57.89785
   longitude: 16.40121
 
 - location: Häradssparbanken Mönsterås
-  urn: urn:swedbank:office:id:0000000001
   city: Mönsterås
   country: Sverige
   latitude: 57.044055
   longitude: 16.446904
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000169201
   city: Oskarshamn
   country: Sverige
   latitude: 57.264904
   longitude: 16.446907
 
 - location: Ölands Bank AB
-  urn: urn:swedbank:office:id:0000000006
   city: Färjestaden
   country: Sverige
   latitude: 56.65156
   longitude: 16.46836
 
 - location: Valdemarsviks Sparbank
-  urn: urn:swedbank:office:id:0000000004
   city: Valdemarsvik
   country: Sverige
   latitude: 58.265173
   longitude: 16.496921
 
 - location: Sparbanken Rekarne AB
-  urn: urn:swedbank:office:id:0000000052
   city: Eskilstuna
   country: Sverige
   latitude: 59.369539
   longitude: 16.516461
 
 - location: Sparbanken Rekarne AB
-  urn: urn:swedbank:office:id:0000000050
   city: Eskilstuna
   country: Sverige
   latitude: 59.369539
   longitude: 16.516461
 
+- location: Sparbanken Rekarne AB
+  city: Eskilstuna
+  country: Sverige
+  latitude: 59.369438
+  longitude: 16.516562
+
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000424007
   city: Västerås
   country: Sverige
   latitude: 59.606961
   longitude: 16.55269
 
 - location: Hälsinglands Sparbank
-  urn: urn:swedbank:office:id:0000000004
   city: Delsbo
   country: Sverige
   latitude: 61.799147
   longitude: 16.55308
 
 - location: Sörmlands Sparbank
-  urn: urn:swedbank:office:id:0000000040
   city: Flen
   country: Sverige
   latitude: 59.059338
   longitude: 16.590305
 
 - location: Valdemarsviks Sparbank
-  urn: urn:swedbank:office:id:0000000001
   city: Valdemarsvik
   country: Sverige
   latitude: 58.203445
   longitude: 16.602091
 
 - location: Sala Sparbank
-  urn: urn:swedbank:office:id:0000000010
   city: Sala
   country: Sverige
   latitude: 59.919986
   longitude: 16.606728
 
 - location: Tjustbygdens Sparbank AB
-  urn: urn:swedbank:office:id:0000000001
   city: Västervik
   country: Sverige
   latitude: 57.757941
   longitude: 16.638517
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000420140
   city: Vilhelmina
   country: Sverige
   latitude: 64.62557
   longitude: 16.653758
 
 - location: Ölands Bank AB
-  urn: urn:swedbank:office:id:0000000001
   city: Borgholm
   country: Sverige
   latitude: 56.879369
   longitude: 16.656808
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000103260
-  city: Sandviken centrum
+  city: Sandviken
   country: Sverige
   latitude: 60.619918
   longitude: 16.775893
 
 - location: Sala Sparbank
-  urn: urn:swedbank:office:id:0000000020
   city: Heby
   country: Sverige
   latitude: 59.938678
   longitude: 16.861931
 
+- location: Sala Sparbank
+  city: Tärnsjö
+  country: Sverige
+  latitude: 60.153937
+  longitude: 16.928562
+
+- location: Sörmlands Sparbank
+  city: Nyköping
+  country: Sverige
+  latitude: 58.754062
+  longitude: 17.012437
+
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000420786
   city: Matfors
   country: Sverige
   latitude: 62.347721
   longitude: 17.019014
 
 - location: Sparbanken Rekarne AB
-  urn: urn:swedbank:office:id:0000000060
   city: Strängnäs
   country: Sverige
   latitude: 59.376034
   longitude: 17.027415
 
+- location: Hälsinglands Sparbank
+  city: Lucksta
+  country: Sverige
+  latitude: 62.296688
+  longitude: 17.050562
+
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000103900
   city: Söderhamn
   country: Sverige
   latitude: 61.29985
   longitude: 17.06076
 
 - location: Hälsinglands Sparbank
-  urn: urn:swedbank:office:id:0000000002
   city: Iggesund
   country: Sverige
   latitude: 61.64353
   longitude: 17.07484
 
 - location: Sparbanken i Enköping
-  urn: urn:swedbank:office:id:0000000001
-  city: Kontor enköping
+  city: Enköping
   country: Sverige
   latitude: 59.636944
   longitude: 17.076152
 
 - location: Sörmlands Sparbank
-  urn: urn:swedbank:office:id:0000000012
   city: Oxelösund
   country: Sverige
   latitude: 58.66947
   longitude: 17.10439
 
 - location: Hälsinglands Sparbank
-  urn: urn:swedbank:office:id:0000000001
   city: Hudiksvall
   country: Sverige
   latitude: 61.727577
   longitude: 17.107674
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000420135
   city: Storuman
   country: Sverige
   latitude: 65.095888
   longitude: 17.115104
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000103101
   city: Gävle city
   country: Sverige
   latitude: 60.67537
   longitude: 17.142208
 
 - location: Sala Sparbank
-  urn: urn:swedbank:office:id:0000000060
   city: Östervåla
   country: Sverige
   latitude: 60.181376
   longitude: 17.179777
 
 - location: Sparbanken Rekarne AB
-  urn: urn:swedbank:office:id:0000000070
   city: Mariefred
   country: Sverige
   latitude: 59.25968
   longitude: 17.22233
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000420308
   city: Sollefteå
   country: Sverige
   latitude: 63.16761
   longitude: 17.268823
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000420401
   city: Sundsvall
   country: Sverige
   latitude: 62.390915
   longitude: 17.30985
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000327120
   city: Gnesta
   country: Sverige
   latitude: 59.047976
   longitude: 17.310572
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000420415
   city: Timrå
   country: Sverige
   latitude: 62.487023
   longitude: 17.324623
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000381083
   city: Tierp
   country: Sverige
   latitude: 60.343862
   longitude: 17.513718
 
 - location: Sparbanken i Enköping
-  urn: urn:swedbank:office:id:0000000002
-  city: Kontor bålsta
+  city: Bålsta
   country: Sverige
   latitude: 59.569684
   longitude: 17.529671
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000327130
   city: Trosa
   country: Sverige
   latitude: 58.896535
   longitude: 17.548485
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000327152
   city: Södertälje
   country: Sverige
   latitude: 59.196126
   longitude: 17.627185
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000381047
   city: Uppsala
   country: Sverige
   latitude: 59.856737
   longitude: 17.647578
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000381031
   city: Gränby
   country: Sverige
   latitude: 59.878563
   longitude: 17.670449
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000327165
   city: Sigtuna
   country: Sverige
   latitude: 59.616746
   longitude: 17.722336
 
 - location: Sparbanken i Enköping
-  urn: urn:swedbank:office:id:0000000008
-  city: Kontor kungsängen
+  city: Kungsängen
   country: Sverige
   latitude: 59.479336
   longitude: 17.750617
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000381063
   city: Knivsta
   country: Sverige
   latitude: 59.726271
   longitude: 17.787595
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000327136
   city: Järfälla
   country: Sverige
   latitude: 59.422669
   longitude: 17.83646
 
 - location: Sidensjö Sparbank
-  urn: urn:swedbank:office:id:0000000002
   city: Skorped
   country: Sverige
   latitude: 63.384308
   longitude: 17.856434
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000327123
   city: Vällingby
   country: Sverige
   latitude: 59.361711
   longitude: 17.87318
 
 - location: Sparbanken Nord
-  urn: urn:swedbank:office:id:0000000003
   city: Arjeplog
   country: Sverige
   latitude: 66.051821
   longitude: 17.888557
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000327134
-  city: Upplands väsby / märsta bredden
+  city: Upplands Väsby
   country: Sverige
   latitude: 59.499592
   longitude: 17.92635
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000327115
   city: Brommaplan
   country: Sverige
   latitude: 59.33768
   longitude: 17.93772
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000420301
   city: Härnösand
   country: Sverige
   latitude: 62.633494
   longitude: 17.938603
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000327182
   city: Nynäshamn
   country: Sverige
   latitude: 58.903198
   longitude: 17.949027
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000327186
   city: Sollentuna
   country: Sverige
   latitude: 59.430628
   longitude: 17.95043
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000327158
   city: Sundbyberg
   country: Sverige
   latitude: 59.36003
   longitude: 17.97261
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000327174
   city: Huddinge
   country: Sverige
   latitude: 59.236432
   longitude: 17.980154
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000327126
   city: Solna
   country: Sverige
   latitude: 59.359072
   longitude: 18.000028
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000327116
   city: Marievik
   country: Sverige
   latitude: 59.30931
   longitude: 18.02816
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000327153
   city: Danderyd
   country: Sverige
   latitude: 59.39859
   longitude: 18.03674
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000327103
-  city: Odenplan
+  city: Stockholm
   country: Sverige
   latitude: 59.343186
   longitude: 18.04937
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000327162
-  city: Täby centrum
+  city: Täby
   country: Sverige
   latitude: 59.443189
   longitude: 18.068226
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000327101
-  city: Hamngatan
+  city: Stockholm
   country: Sverige
   latitude: 59.332479
   longitude: 18.069068
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000327109
   city: Södermalm
   country: Sverige
   latitude: 59.307846
   longitude: 18.075285
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000327704
-  city: Corporate wealth management
+  city: Stockholm
   country: Sverige
   latitude: 59.336451
   longitude: 18.079231
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000327106
-  city: Östermalmstorg
+  city: Stockholm
   country: Sverige
   latitude: 59.336451
   longitude: 18.079231
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000327121
-  city: Gullmarsplan
+  city: Stockholm
   country: Sverige
   latitude: 59.297971
   longitude: 18.079384
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000327128
   city: Farsta
   country: Sverige
   latitude: 59.241455
   longitude: 18.094082
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000327349
-  city: Företag 604 8327
+  city: Nacka
   country: Sverige
   latitude: 59.30468
   longitude: 18.12304
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000327184
   city: Lidingö
   country: Sverige
   latitude: 59.3634
   longitude: 18.12347
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000327167
   city: Haninge
   country: Sverige
   latitude: 59.169467
   longitude: 18.140379
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000327149
-  city: Nacka forum
+  city: Nacka
   country: Sverige
   latitude: 59.309077
   longitude: 18.166145
 
 - location: Sidensjö Sparbank
-  urn: urn:swedbank:office:id:0000000001
   city: Sidensjö
   country: Sverige
   latitude: 63.30106
   longitude: 18.27935
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000480500
   city: Gotland visby
   country: Sverige
   latitude: 57.633621
   longitude: 18.290872
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000327180
   city: Åkersberga
   country: Sverige
   latitude: 59.48015
   longitude: 18.29592
 
 - location: Roslagens Sparbank
-  urn: urn:swedbank:office:id:0000000200
   city: Rimbo
   country: Sverige
   latitude: 59.743653
   longitude: 18.367341
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000381077
   city: Östhammar
   country: Sverige
   latitude: 60.25855
   longitude: 18.37058
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000480503
-  city: Gotland hemse
+  city: Hemse
   country: Sverige
   latitude: 57.239726
   longitude: 18.37634
 
 - location: Sparbanken Gotland
-  urn: urn:swedbank:office:id:0000000004
+  city: Roma
+  country: Sverige
+  latitude: 57.504062
+  longitude: 18.456313
+
+- location: Sparbanken Gotland
   city: Hemse
   country: Sverige
   latitude: 57.28128
   longitude: 18.47247
 
 - location: Roslagens Sparbank
-  urn: urn:swedbank:office:id:0000000500
   city: Hallstavik
   country: Sverige
   latitude: 60.049106
   longitude: 18.596868
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000420125
   city: Lycksele
   country: Sverige
   latitude: 64.594904
   longitude: 18.677122
 
 - location: Roslagens Sparbank
-  urn: urn:swedbank:office:id:0000000165
-  city: Norrtälje privat
+  city: Norrtälje
+  country: Sverige
+  latitude: 59.758688
+  longitude: 18.702688
+
+- location: Roslagens Sparbank
+  city: Norrtälje
   country: Sverige
   latitude: 59.758651
   longitude: 18.70271
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000420501
   city: Örnsköldsvik
   country: Sverige
   latitude: 63.288733
   longitude: 18.715669
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000420226
   city: Malå
   country: Sverige
   latitude: 65.18237
   longitude: 18.743356
 
 - location: Roslagens Sparbank
-  urn: urn:swedbank:office:id:0000000600
   city: Älmsta
   country: Sverige
   latitude: 59.971142
   longitude: 18.807178
 
 - location: Sparbanken Nord
-  urn: urn:swedbank:office:id:0000000001
   city: Arvidsjaur
   country: Sverige
   latitude: 65.593186
   longitude: 19.174841
 
 - location: Sparbanken Nord
-  urn: urn:swedbank:office:id:0000000004
   city: Jokkmokk
   country: Sverige
   latitude: 66.607144
   longitude: 19.82891
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000420101
   city: Umeå
   country: Sverige
   latitude: 63.825471
   longitude: 20.261785
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000420145
-  city: Utopia
+  city: Umeå
   country: Sverige
   latitude: 63.825526
   longitude: 20.265551
 
 - location: Sparbanken Nord
-  urn: urn:swedbank:office:id:0000000012
   city: Kiruna
   country: Sverige
   latitude: 67.848709
   longitude: 20.301085
 
 - location: Sparbanken Nord
-  urn: urn:swedbank:office:id:0000000006
   city: Gällivare
   country: Sverige
   latitude: 67.135259
   longitude: 20.657664
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000420201
   city: Skellefteå
   country: Sverige
   latitude: 64.750793
   longitude: 20.954607
 
 - location: Sparbanken Nord
-  urn: urn:swedbank:office:id:0000000011
   city: Älvsbyn
   country: Sverige
   latitude: 65.673592
   longitude: 21.008383
 
 - location: Sparbanken Nord
-  urn: urn:swedbank:office:id:0000000030
   city: Öjebyn
   country: Sverige
   latitude: 65.341883
   longitude: 21.396163
 
 - location: Sparbanken Nord
-  urn: urn:swedbank:office:id:0000000010
   city: Piteå
   country: Sverige
   latitude: 65.316215
   longitude: 21.48122
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000201103
   city: Boden
   country: Sverige
   latitude: 65.824737
   longitude: 21.688318
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000201100
   city: Luleå
   country: Sverige
   latitude: 65.583194
   longitude: 22.153264
 
 - location: Sparbanken Nord
-  urn: urn:swedbank:office:id:0000000015
   city: Överkalix
   country: Sverige
   latitude: 66.328721
   longitude: 22.842131
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000201530
   city: Kalix
   country: Sverige
   latitude: 65.85564
   longitude: 23.140788
 
 - location: Sparbanken Nord
-  urn: urn:swedbank:office:id:0000000013
   city: Pajala
   country: Sverige
   latitude: 67.210985
   longitude: 23.369243
 
 - location: Sparbanken Nord
-  urn: urn:swedbank:office:id:0000000014
   city: Övertorneå
   country: Sverige
   latitude: 66.38392
   longitude: 23.659451
 
 - location: Swedbank AB (publ)
-  urn: urn:swedbank:office:id:0000201531
   city: Haparanda
   country: Sverige
   latitude: 65.835429
   longitude: 24.138561
-
-- location: Sparbanken i Karlshamn
-  urn: urn:swedbank:office:id:0000000002
-  city: Svängstakontoret
-  country: Sverige
-  latitude: 14.771196
-  longitude: 56.262501
