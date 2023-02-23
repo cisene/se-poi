@@ -216,6 +216,15 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 
 
+## Restaurantkedjor
+
+| Namn                                                                                     | Positioner |
+| :--------------------------------------------------------------------------------------- | ---------: |
+| [Pinchos](https://sv.wikipedia.org/wiki/Pinchos)                                         |         64 |
+
+
+
+
 ## Servicebutiker
 
 | Namn                                                                                     | Positioner |
