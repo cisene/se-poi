@@ -45,6 +45,15 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 
 
+## Biluthyrning
+
+| Namn                                                                                     | Positioner |
+| :--------------------------------------------------------------------------------------- | ---------: |
+| [Europcar](https://sv.wikipedia.org/wiki/Europcar)                                       |        169 |
+
+
+
+
 ## Bok- och kontorshandlarskedjor
 
 | Namn                                                                                     | Positioner |
