@@ -26,6 +26,15 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 
 
+## Apotek
+
+| Namn                                                                                     | Positioner |
+| :--------------------------------------------------------------------------------------- | ---------: |
+| [Apotek Hjärtat](https://sv.wikipedia.org/wiki/Apotek_Hj%C3%A4rtat)                      |        391 |
+
+
+
+
 ## Bank och Valuta
 
 | Namn                                                                                     | Positioner |
