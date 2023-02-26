@@ -1,0 +1,1400 @@
+meta:
+  name: Apoteksgruppen
+  web: https://www.apoteksgruppen.se/
+  wikipedia: https://sv.wikipedia.org/wiki/Apoteksgruppen
+  category: Apotek
+  locations: 199
+
+locations:
+- location: Apoteksgruppen Grebbestad, Tage Wikströms gata
+  city: Grebbestad
+  urn: urn:apoteksgruppen:store:id:50010001
+  country: Sverige
+  latitude: 58.6916
+  longitude: 11.2551
+
+- location: Apoteksgruppen Fjällbacka, Allégatan
+  city: Fjällbacka
+  urn: urn:apoteksgruppen:store:id:05340001
+  country: Sverige
+  latitude: 58.5978
+  longitude: 11.2876
+
+- location: Apoteksgruppen Tanumshede, Affärsvägen
+  city: Tanumshede
+  urn: urn:apoteksgruppen:store:id:05250001
+  country: Sverige
+  latitude: 58.7233
+  longitude: 11.3236
+
+- location: Apoteksgruppen Skärhamn, Hamngatan
+  city: Skärhamn
+  urn: urn:apoteksgruppen:store:id:50000001
+  country: Sverige
+  latitude: 57.9863
+  longitude: 11.5496
+
+- location: Apoteksgruppen Öckerö, Norgårdsvägen
+  city: Öckerö
+  urn: urn:apoteksgruppen:store:id:07450001
+  country: Sverige
+  latitude: 57.7081
+  longitude: 11.6549
+
+- location: Apoteksgruppen Kållekärr, Sundbyvägen
+  city: Kållekärr
+  urn: urn:apoteksgruppen:store:id:08730001
+  country: Sverige
+  latitude: 58.0246
+  longitude: 11.659
+
+- location: Apoteksgruppen Stenungsund, Gärdesvägen
+  city: Stenungsund
+  urn: urn:apoteksgruppen:store:id:50370001
+  country: Sverige
+  latitude: 58.074788
+  longitude: 11.822661
+
+- location: Apoteksgruppen Stora Höga, Stora vägen
+  city: Stora Höga
+  urn: urn:apoteksgruppen:store:id:50080001
+  country: Sverige
+  latitude: 58.0167
+  longitude: 11.83157
+
+- location: Apoteksgruppen Västra Frölunda, Långedragsvägen
+  city: Västra Frölunda
+  urn: urn:apoteksgruppen:store:id:08660001
+  country: Sverige
+  latitude: 57.6699
+  longitude: 11.8721
+
+- location: Apoteksgruppen Västra Frölunda, Opaltorget
+  city: Västra Frölunda
+  urn: urn:apoteksgruppen:store:id:08800001
+  country: Sverige
+  latitude: 57.6408
+  longitude: 11.9008
+
+- location: Apoteksgruppen Göteborg, Sjöporten
+  city: Göteborg
+  urn: urn:apoteksgruppen:store:id:50130001
+  country: Sverige
+  latitude: 57.70121
+  longitude: 11.91588
+
+- location: Apoteksgruppen Göteborg, Karl Johansgatan
+  city: Göteborg
+  urn: urn:apoteksgruppen:store:id:08540001
+  country: Sverige
+  latitude: 57.6939
+  longitude: 11.9201
+
+- location: Apoteksgruppen Ytterby, Stationsgatan
+  city: Ytterby
+  urn: urn:apoteksgruppen:store:id:08770001
+  country: Sverige
+  latitude: 57.8611
+  longitude: 11.923
+
+- location: Apoteksgruppen Göteborg, Tuve torg
+  city: Göteborg
+  urn: urn:apoteksgruppen:store:id:08620001
+  country: Sverige
+  latitude: 57.7551
+  longitude: 11.9269
+
+- location: Flatås
+  city: Västra Frölunda
+  urn: urn:apoteksgruppen:store:id:50650001
+  country: Sverige
+  latitude: 57.65703
+  longitude: 11.93231
+
+- location: Apoteksgruppen Göteborg, Amund Grefwegatan
+  city: Göteborg
+  urn: urn:apoteksgruppen:store:id:08490001
+  country: Sverige
+  latitude: 57.6929
+  longitude: 11.9728
+
+- location: Apoteksgruppen Göteborg, Eklandagatan
+  city: Göteborg
+  urn: urn:apoteksgruppen:store:id:08520001
+  country: Sverige
+  latitude: 57.687123
+  longitude: 11.986294
+
+- location: Apoteksgruppen Hisings Kärra, Kärraplatsen
+  city: Hisings Kärra
+  urn: urn:apoteksgruppen:store:id:08720001
+  country: Sverige
+  latitude: 57.7943
+  longitude: 11.9878
+
+- location: Apoteksgruppen Göteborg, Carlanderska
+  city: Göteborg
+  urn: urn:apoteksgruppen:store:id:50460001
+  country: Sverige
+  latitude: 57.692566
+  longitude: 11.98926
+
+- location: Apoteksgruppen Göteborg, Krokslätt
+  city: Göteborg
+  urn: urn:apoteksgruppen:store:id:50620001
+  country: Sverige
+  latitude: 57.6821
+  longitude: 11.9991
+
+- location: Apoteksgruppen Angered, Bergsgårdsgärdet
+  city: Angered
+  urn: urn:apoteksgruppen:store:id:07800001
+  country: Sverige
+  latitude: 57.7688
+  longitude: 12.0189
+
+- location: Apoteksgruppen Göteborg, Munkebäcks torg
+  city: Göteborg
+  urn: urn:apoteksgruppen:store:id:07820001
+  country: Sverige
+  latitude: 57.7192
+  longitude: 12.0262
+
+- location: Apoteksgruppen Angered, Gårdsten
+  city: Angered
+  urn: urn:apoteksgruppen:store:id:50710001
+  country: Sverige
+  latitude: 57.80391
+  longitude: 12.03323
+
+- location: Apoteksgruppen Sävedalen, Vallhamra torg
+  city: Sävedalen
+  urn: urn:apoteksgruppen:store:id:07730001
+  country: Sverige
+  latitude: 57.7201
+  longitude: 12.0703
+
+- location: Apoteksgruppen Kungsbacka, Tölövägen
+  city: Kungsbacka
+  urn: urn:apoteksgruppen:store:id:11000001
+  country: Sverige
+  latitude: 57.4942
+  longitude: 12.0845
+
+- location: Apoteksgruppen Bua, Bua Center
+  city: Bua
+  urn: urn:apoteksgruppen:store:id:50170001
+  country: Sverige
+  latitude: 57.2369
+  longitude: 12.126
+
+- location: Apoteksgruppen Fjärås, Rajgräsvägen
+  city: Fjärås
+  urn: urn:apoteksgruppen:store:id:50050001
+  country: Sverige
+  latitude: 57.4625
+  longitude: 12.1716
+
+- location: Apoteksgruppen Varberg, Västra Vallgatan
+  city: Varberg
+  urn: urn:apoteksgruppen:store:id:11700001
+  country: Sverige
+  latitude: 57.1047
+  longitude: 12.2482
+
+- location: Apoteksgruppen Varberg, Håstens Torg
+  city: Varberg
+  urn: urn:apoteksgruppen:store:id:50110001
+  country: Sverige
+  latitude: 57.11201
+  longitude: 12.27963
+
+- location: Apoteksgruppen Veddige, Vårdcentralen
+  city: Veddige
+  urn: urn:apoteksgruppen:store:id:08870001
+  country: Sverige
+  latitude: 57.2644
+  longitude: 12.3216
+
+- location: Apoteksgruppen Vänersborg, Regementsgatan
+  city: Vänersborg
+  urn: urn:apoteksgruppen:store:id:05790001
+  country: Sverige
+  latitude: 58.3675
+  longitude: 12.334
+
+- location: Apoteksgruppen Tvååker, Fogdevägen
+  city: Tvååker
+  urn: urn:apoteksgruppen:store:id:08850001
+  country: Sverige
+  latitude: 57.0422
+  longitude: 12.4083
+
+- location: Apoteksgruppen Helsingborg, Drottninggatan
+  city: Helsingborg
+  urn: urn:apoteksgruppen:store:id:02440001
+  country: Sverige
+  latitude: 56.0475
+  longitude: 12.6926
+
+- location: Apoteksgruppen Ullared, Boråsvägen
+  city: Ullared
+  urn: urn:apoteksgruppen:store:id:08860001
+  country: Sverige
+  latitude: 57.1369
+  longitude: 12.7187
+
+- location: Apoteksgruppen Getinge, Doktorsgatan
+  city: Getinge
+  urn: urn:apoteksgruppen:store:id:09050001
+  country: Sverige
+  latitude: 56.8162
+  longitude: 12.7354
+
+- location: Apoteksgruppen Halmstad, Frösakull
+  city: Halmstad
+  urn: urn:apoteksgruppen:store:id:50240001
+  country: Sverige
+  latitude: 56.67064
+  longitude: 12.736392
+
+- location: Apoteksgruppen Vårgårda, Centrumgatan
+  city: Vårgårda
+  urn: urn:apoteksgruppen:store:id:05770001
+  country: Sverige
+  latitude: 58.0323
+  longitude: 12.8107
+
+- location: Apoteksgruppen Bjuv, Södra Storgatan
+  city: Bjuv
+  urn: urn:apoteksgruppen:store:id:02570001
+  country: Sverige
+  latitude: 56.0834
+  longitude: 12.9203
+
+- location: Apoteksgruppen Åstorp, Storgatan
+  city: Åstorp
+  urn: urn:apoteksgruppen:store:id:09240001
+  country: Sverige
+  latitude: 56.1358
+  longitude: 12.9494
+
+- location: Apoteksgruppen Fristad, Tärnavägen
+  city: Fristad
+  urn: urn:apoteksgruppen:store:id:05550001
+  country: Sverige
+  latitude: 57.8261
+  longitude: 13.0109
+
+- location: Apoteksgruppen Vellinge, Östergatan
+  city: Vellinge
+  urn: urn:apoteksgruppen:store:id:08130001
+  country: Sverige
+  latitude: 55.4698
+  longitude: 13.0226
+
+- location: Apoteksgruppen Bjärred, Vikingavägen
+  city: Bjärred
+  urn: urn:apoteksgruppen:store:id:02760001
+  country: Sverige
+  latitude: 55.7222
+  longitude: 13.0262
+
+- location: Apoteksgruppen Malmö, Kirsebergstorg
+  city: Malmö
+  urn: urn:apoteksgruppen:store:id:07960001
+  country: Sverige
+  latitude: 55.6092
+  longitude: 13.0368
+
+- location: Apoteksgruppen Åre, Årevägen
+  city: Åre
+  urn: urn:apoteksgruppen:store:id:04580001
+  country: Sverige
+  latitude: 63.3956
+  longitude: 13.0858
+
+- location: Apoteksgruppen Dalsjöfors, Uppegårdsgatan
+  city: Dalsjöfors
+  urn: urn:apoteksgruppen:store:id:05510001
+  country: Sverige
+  latitude: 57.7141
+  longitude: 13.0926
+
+- location: Apoteksgruppen Svalöv, Herrevadsgatan
+  city: Svalöv
+  urn: urn:apoteksgruppen:store:id:02510001
+  country: Sverige
+  latitude: 55.9144
+  longitude: 13.1067
+
+- location: Apoteksgruppen i Svenljunga
+  city: Svenljunga
+  urn: urn:apoteksgruppen:store:id:05670001
+  country: Sverige
+  latitude: 57.4962
+  longitude: 13.1123
+
+- location: Apoteksgruppen Lidköping, Rörstrand center
+  city: Lidköping
+  urn: urn:apoteksgruppen:store:id:50040001
+  country: Sverige
+  latitude: 58.5068
+  longitude: 13.1579
+
+- location: Apoteksgruppen Ulricehamn, Boråsvägen
+  city: Ulricehamn
+  urn: urn:apoteksgruppen:store:id:50030001
+  country: Sverige
+  latitude: 57.805
+  longitude: 13.4073
+
+- location: Apoteksgruppen Smålandsstenar, Torggatan
+  city: Smålandsstenar
+  urn: urn:apoteksgruppen:store:id:01480001
+  country: Sverige
+  latitude: 57.1631
+  longitude: 13.412
+
+- location: Apoteksgruppen Skara, Vilan
+  city: Skara
+  urn: urn:apoteksgruppen:store:id:50270001
+  country: Sverige
+  latitude: 58.386004
+  longitude: 13.454435
+
+- location: Apoteksgruppen Järpen, Gastkullevägen
+  city: Järpen
+  urn: urn:apoteksgruppen:store:id:04590001
+  country: Sverige
+  latitude: 63.3474
+  longitude: 13.4584
+
+- location: Apoteksgruppen Karlstad, Våxnäs centrum
+  city: Karlstad
+  urn: urn:apoteksgruppen:store:id:06000001
+  country: Sverige
+  latitude: 59.3846
+  longitude: 13.4635
+
+- location: Apoteksgruppen Skoghall, Åråsvägen
+  city: Skoghall
+  urn: urn:apoteksgruppen:store:id:05910001
+  country: Sverige
+  latitude: 59.3247
+  longitude: 13.4655
+
+- location: Apoteksgruppen Skurup, Korrehusgatan
+  city: Skurup
+  urn: urn:apoteksgruppen:store:id:50500001
+  country: Sverige
+  latitude: 55.4901
+  longitude: 13.4874
+
+- location: Apoteksgruppen Götene, Doktorsvägen
+  city: Götene
+  urn: urn:apoteksgruppen:store:id:00950001
+  country: Sverige
+  latitude: 58.5275
+  longitude: 13.4936
+
+- location: Apoteksgruppen Karlstad, Rudstorget
+  city: Karlstad
+  urn: urn:apoteksgruppen:store:id:06030001
+  country: Sverige
+  latitude: 59.4052
+  longitude: 13.5183
+
+- location: Apoteksgruppen Molkom, Skolgatan
+  city: Molkom
+  urn: urn:apoteksgruppen:store:id:05840001
+  country: Sverige
+  latitude: 59.5996
+  longitude: 13.7219
+
+- location: Apoteksgruppen Gnosjö, Järnvägsgatan
+  city: Gnosjö
+  urn: urn:apoteksgruppen:store:id:01500001
+  country: Sverige
+  latitude: 57.3559
+  longitude: 13.7402
+
+- location: Apoteksgruppen Skövde, Billingen
+  city: Skövde
+  urn: urn:apoteksgruppen:store:id:50510001
+  country: Sverige
+  latitude: 58.3952
+  longitude: 13.833
+
+- location: Apoteksgruppen Knislinge, Påls väg
+  city: Knislinge
+  urn: urn:apoteksgruppen:store:id:09360001
+  country: Sverige
+  latitude: 56.193
+  longitude: 14.0891
+
+- location: Apoteksgruppen Kristianstad, Vä
+  city: Kristianstad
+  urn: urn:apoteksgruppen:store:id:50400001
+  country: Sverige
+  latitude: 56.00199
+  longitude: 14.096439
+
+- location: Apoteksgruppen Brösarp, Brunnsviksvägen
+  city: Brösarp
+  urn: urn:apoteksgruppen:store:id:09140001
+  country: Sverige
+  latitude: 55.7254
+  longitude: 14.1003
+
+- location: Apoteksgruppen Vaggeryd, Järnvägsgatan
+  city: Vaggeryd
+  urn: urn:apoteksgruppen:store:id:01530001
+  country: Sverige
+  latitude: 57.4975
+  longitude: 14.1477
+
+- location: Apoteksgruppen Jönköping, Sparvhöksgatan
+  city: Jönköping
+  urn: urn:apoteksgruppen:store:id:01400001
+  country: Sverige
+  latitude: 57.7396
+  longitude: 14.1518
+
+- location: Apoteksgruppen Filipstad, Viktoriagatan
+  city: Filipstad
+  urn: urn:apoteksgruppen:store:id:05980001
+  country: Sverige
+  latitude: 59.7131
+  longitude: 14.171
+
+- location: Apoteksgruppen Borrby, Köpmangatan
+  city: Borrby
+  urn: urn:apoteksgruppen:store:id:09160001
+  country: Sverige
+  latitude: 55.4582
+  longitude: 14.1804
+
+- location: Apoteksgruppen Jönköping, Rosenlunds vårdcentrum
+  city: Jönköping
+  urn: urn:apoteksgruppen:store:id:01410001
+  country: Sverige
+  latitude: 57.7778
+  longitude: 14.2069
+
+- location: Apoteksgruppen Österängen, Jönköping
+  city: Jönköping
+  urn: urn:apoteksgruppen:store:id:50640001
+  country: Sverige
+  latitude: 57.7868
+  longitude: 14.2431
+
+- location: Apoteksgruppen Storfors, Hälsans hus
+  city: Storfors
+  urn: urn:apoteksgruppen:store:id:05970001
+  country: Sverige
+  latitude: 59.5317
+  longitude: 14.277
+
+- location: Apoteksgruppen Åhus, Köpmannagatan
+  city: Åhus
+  urn: urn:apoteksgruppen:store:id:09110001
+  country: Sverige
+  latitude: 55.9252
+  longitude: 14.299
+
+- location: Apoteksgruppen Lönsboda, Bokelundsgatan
+  city: Lönsboda
+  urn: urn:apoteksgruppen:store:id:09320001
+  country: Sverige
+  latitude: 56.3981
+  longitude: 14.3185
+
+- location: Apoteksgruppen Simrishamn, Gamla Järrestadsvägen
+  city: Simrishamn
+  urn: urn:apoteksgruppen:store:id:50260001
+  country: Sverige
+  latitude: 55.551963
+  longitude: 14.331493
+
+- location: Apoteksgruppen Simrishamn, Storgatan
+  city: Simrishamn
+  urn: urn:apoteksgruppen:store:id:09180001
+  country: Sverige
+  latitude: 55.5568
+  longitude: 14.3509
+
+- location: Apoteksgruppen Hällefors, Stationsvägen
+  city: Hällefors
+  urn: urn:apoteksgruppen:store:id:05110001
+  country: Sverige
+  latitude: 59.7834
+  longitude: 14.5206
+
+- location: Apoteksgruppen Mora
+  city: Mora
+  urn: urn:apoteksgruppen:store:id:50680001
+  country: Sverige
+  latitude: 61.00759
+  longitude: 14.59617
+
+- location: Apoteksgruppen Aneby, Köpmansgatan
+  city: Aneby
+  urn: urn:apoteksgruppen:store:id:01640001
+  country: Sverige
+  latitude: 57.839058
+  longitude: 14.815898
+
+- location: Apoteksgruppen Växjö, Vårdcentralen Teleborg
+  city: Växjö
+  urn: urn:apoteksgruppen:store:id:02220001
+  country: Sverige
+  latitude: 56.8552
+  longitude: 14.8201
+
+- location: Apoteksgruppen Karlshamn, Strömmavägen
+  city: Karlshamn
+  urn: urn:apoteksgruppen:store:id:50470001
+  country: Sverige
+  latitude: 56.187854
+  longitude: 14.853344
+
+- location: Apoteksgruppen Fjugesta, Storgatan
+  city: Fjugesta
+  urn: urn:apoteksgruppen:store:id:04920001
+  country: Sverige
+  latitude: 59.1741
+  longitude: 14.8724
+
+- location: Apoteksgruppen Askersund, Sundsbrogatan
+  city: Askersund
+  urn: urn:apoteksgruppen:store:id:04990001
+  country: Sverige
+  latitude: 58.8793
+  longitude: 14.9035
+
+- location: Apoteksgruppen Nora, Prästgatan
+  city: Nora
+  urn: urn:apoteksgruppen:store:id:05120001
+  country: Sverige
+  latitude: 59.5201
+  longitude: 15.0404
+
+- location: Apoteksgruppen Hallsberg
+  city: Hallsberg
+  urn: urn:apoteksgruppen:store:id:50670001
+  country: Sverige
+  latitude: 59.0659
+  longitude: 15.10938
+
+- location: Apoteksgruppen Rättvik, Vasagatan
+  city: Rättvik
+  urn: urn:apoteksgruppen:store:id:04320001
+  country: Sverige
+  latitude: 60.8841
+  longitude: 15.1187
+
+- location: Apoteksgruppen Örebro, Adolfsberg
+  city: Örebro
+  urn: urn:apoteksgruppen:store:id:04910001
+  country: Sverige
+  latitude: 59.2391
+  longitude: 15.1607
+
+- location: Apoteksgruppen Örebro, Haga centrum
+  city: Örebro
+  urn: urn:apoteksgruppen:store:id:04980001
+  country: Sverige
+  latitude: 59.2743
+  longitude: 15.1685
+
+- location: Apoteksgruppen Örebro Ladugårdsängen
+  city: Örebro
+  urn: urn:apoteksgruppen:store:id:50660001
+  country: Sverige
+  latitude: 59.25205
+  longitude: 15.1966
+
+- location: Apoteksgruppen Örebro, Eurostop
+  city: Örebro
+  urn: urn:apoteksgruppen:store:id:13310001
+  country: Sverige
+  latitude: 59.2973
+  longitude: 15.2033
+
+- location: Apoteksgruppen Örebro, Svampen
+  city: Örebro
+  urn: urn:apoteksgruppen:store:id:50570001
+  country: Sverige
+  latitude: 59.2892
+  longitude: 15.2252
+
+- location: Apoteksgruppen Ronneby
+  city: Ronneby
+  urn: urn:apoteksgruppen:store:id:00100001
+  country: Sverige
+  latitude: 56.2073
+  longitude: 15.2775
+
+- location: Apoteksgruppen Lenhovda, Storgatan
+  city: Lenhovda
+  urn: urn:apoteksgruppen:store:id:02400001
+  country: Sverige
+  latitude: 56.9968
+  longitude: 15.2877
+
+- location: Apoteksgruppen Åseda, Olofsgatan
+  city: Åseda
+  urn: urn:apoteksgruppen:store:id:02390001
+  country: Sverige
+  latitude: 57.1703
+  longitude: 15.3442
+
+- location: Apoteksgruppen Smedjebacken, Busstorget
+  city: Smedjebacken
+  urn: urn:apoteksgruppen:store:id:04090001
+  country: Sverige
+  latitude: 60.142
+  longitude: 15.4138
+
+- location: Apoteksgruppen Ljungsbro, Evastigen
+  city: Ljungsbro
+  urn: urn:apoteksgruppen:store:id:00550001
+  country: Sverige
+  latitude: 58.5085
+  longitude: 15.504
+
+- location: Apoteksgruppen Emmaboda, Järnvägsgatan
+  city: Emmaboda
+  urn: urn:apoteksgruppen:store:id:02040001
+  country: Sverige
+  latitude: 56.6304
+  longitude: 15.5383
+
+- location: Apoteksgruppen Karlskrona
+  city: Karlskrona
+  urn: urn:apoteksgruppen:store:id:50700001
+  country: Sverige
+  latitude: 56.19717
+  longitude: 15.61285
+
+- location: Apoteksgruppen Linköping, Stora torget
+  city: Linköping
+  urn: urn:apoteksgruppen:store:id:00450001
+  country: Sverige
+  latitude: 58.4109
+  longitude: 15.622
+
+- location: Apoteksgruppen Kisa, Stora Torget
+  city: Kisa
+  urn: urn:apoteksgruppen:store:id:00560001
+  country: Sverige
+  latitude: 57.9872
+  longitude: 15.6332
+
+- location: Apoteksgruppen Linköping, Nya Tanneforsvägen
+  city: Linköping
+  urn: urn:apoteksgruppen:store:id:00460001
+  country: Sverige
+  latitude: 58.4058
+  longitude: 15.6424
+
+- location: Apoteksgruppen Linköping, Berga centrum
+  city: Linköping
+  urn: urn:apoteksgruppen:store:id:00530001
+  country: Sverige
+  latitude: 58.392
+  longitude: 15.6442
+
+- location: Apoteksgruppen Falun, Norslund-Origo
+  city: Falun
+  urn: urn:apoteksgruppen:store:id:10880001
+  country: Sverige
+  latitude: 60.5991
+  longitude: 15.6663
+
+- location: Apoteksgruppen Linköping, Ullstämma
+  city: Linköping
+  urn: urn:apoteksgruppen:store:id:50480001
+  country: Sverige
+  latitude: 58.366978
+  longitude: 15.692988
+
+- location: Apoteksgruppen Jämjö, Hammarbyvägen
+  city: Jämjö
+  urn: urn:apoteksgruppen:store:id:00090001
+  country: Sverige
+  latitude: 56.1894
+  longitude: 15.8334
+
+- location: Apoteksgruppen Vingåker, Bondegatan
+  city: Vingåker
+  urn: urn:apoteksgruppen:store:id:00710001
+  country: Sverige
+  latitude: 59.043
+  longitude: 15.8728
+
+- location: Apoteksgruppen Norberg, Engelbrektsgatan
+  city: Norberg
+  urn: urn:apoteksgruppen:store:id:04810001
+  country: Sverige
+  latitude: 60.0627
+  longitude: 15.9261
+
+- location: Apoteksgruppen Åtvidaberg, Tilasvägen
+  city: Åtvidaberg
+  urn: urn:apoteksgruppen:store:id:00660001
+  country: Sverige
+  latitude: 58.201
+  longitude: 15.9986
+
+- location: Apoteksgruppen Norrköping, Kneippgatan
+  city: Norrköping
+  urn: urn:apoteksgruppen:store:id:08350001
+  country: Sverige
+  latitude: 58.5856
+  longitude: 16.1627
+
+- location: Apoteksgruppen Sandbyhov, Norrköping
+  city: Norrköping
+  urn: urn:apoteksgruppen:store:id:50630001
+  country: Sverige
+  latitude: 58.605274
+  longitude: 16.16321
+
+- location: Apoteksgruppen Norrköping, Kungsgatan
+  city: Norrköping
+  urn: urn:apoteksgruppen:store:id:08320001
+  country: Sverige
+  latitude: 58.591
+  longitude: 16.178
+
+- location: Apoteksgruppen Åby, Nyköpingsvägen
+  city: Åby
+  urn: urn:apoteksgruppen:store:id:08280001
+  country: Sverige
+  latitude: 58.6655
+  longitude: 16.1808
+
+- location: Apoteksgruppen Hofors, Skolgatan
+  city: Hofors
+  urn: urn:apoteksgruppen:store:id:00240001
+  country: Sverige
+  latitude: 60.5456
+  longitude: 16.2873
+
+- location: Apoteksgruppen Söderköping, Margaretagatan
+  city: Söderköping
+  urn: urn:apoteksgruppen:store:id:50160001
+  country: Sverige
+  latitude: 58.4745
+  longitude: 16.3349
+
+- location: Apoteksgruppen Hammarstrand, Centralgatan
+  city: Hammarstrand
+  urn: urn:apoteksgruppen:store:id:04500001
+  country: Sverige
+  latitude: 63.1077
+  longitude: 16.3556
+
+- location: Apoteksgruppen Kolmården, Krokeks Centrum
+  city: Kolmården
+  urn: urn:apoteksgruppen:store:id:08260001
+  country: Sverige
+  latitude: 58.6751
+  longitude: 16.3643
+
+- location: Apoteksgruppen Kalmar, Västra Sjögatan
+  city: Kalmar
+  urn: urn:apoteksgruppen:store:id:02100001
+  country: Sverige
+  latitude: 56.6649
+  longitude: 16.3648
+
+- location: Apoteksgruppen Mönsterås, Häradshövdingegatan
+  city: Mönsterås
+  urn: urn:apoteksgruppen:store:id:01990001
+  country: Sverige
+  latitude: 57.0409
+  longitude: 16.4447
+
+- location: Apoteksgruppen Färjestaden, Ölands köpstad
+  city: Färjestaden
+  urn: urn:apoteksgruppen:store:id:02110001
+  country: Sverige
+  latitude: 56.6519
+  longitude: 16.4697
+
+- location: Apoteksgruppen Eskilstuna, Väster
+  city: Eskilstuna
+  urn: urn:apoteksgruppen:store:id:50430001
+  country: Sverige
+  latitude: 59.376596
+  longitude: 16.500373
+
+- location: Apoteksgruppen Västerås, Allmogeplatsen
+  city: Västerås
+  urn: urn:apoteksgruppen:store:id:50150001
+  country: Sverige
+  latitude: 59.6225
+  longitude: 16.5041
+
+- location: Apoteksgruppen Västerås, Oxbacken
+  city: Västerås
+  urn: urn:apoteksgruppen:store:id:04730001
+  country: Sverige
+  latitude: 59.606
+  longitude: 16.532
+
+- location: Apoteksgruppen Valdemarsvik, Storgatan
+  city: Valdemarsvik
+  urn: urn:apoteksgruppen:store:id:08430001
+  country: Sverige
+  latitude: 58.2046
+  longitude: 16.6028
+
+- location: Apoteksgruppen Borgholm, Storgatan
+  city: Borgholm
+  urn: urn:apoteksgruppen:store:id:02070001
+  country: Sverige
+  latitude: 56.8794
+  longitude: 16.6545
+
+- location: Apoteksgruppen Sandviken, Sandviken Sjukhus
+  city: Sandviken
+  urn: urn:apoteksgruppen:store:id:00220001
+  country: Sverige
+  latitude: 60.6087
+  longitude: 16.7597
+
+- location: Apoteksgruppen Heby, Brogatan
+  city: Heby
+  urn: urn:apoteksgruppen:store:id:04880001
+  country: Sverige
+  latitude: 59.9421
+  longitude: 16.8619
+
+- location: Apoteksgruppen Nyköping, Arnöleden
+  city: Nyköping
+  urn: urn:apoteksgruppen:store:id:50290001
+  country: Sverige
+  latitude: 58.7456
+  longitude: 17.007
+
+- location: Apoteksgruppen Oxelösund, Järntorget
+  city: Oxelösund
+  urn: urn:apoteksgruppen:store:id:00770001
+  country: Sverige
+  latitude: 58.6693
+  longitude: 17.1044
+
+- location: Apoteksgruppen Gävle, Sätra centrum
+  city: Gävle
+  urn: urn:apoteksgruppen:store:id:00170001
+  country: Sverige
+  latitude: 60.6918
+  longitude: 17.1169
+
+- location: Apoteksgruppen Gävle Strand
+  city: Gävle
+  urn: urn:apoteksgruppen:store:id:50610001
+  country: Sverige
+  latitude: 60.678
+  longitude: 17.1594
+
+- location: Apoteksgruppen Gävle, Strömsbro
+  city: Gävle
+  urn: urn:apoteksgruppen:store:id:00140001
+  country: Sverige
+  latitude: 60.7062
+  longitude: 17.1628
+
+- location: Apoteksgruppen Gävle, Golfen
+  city: Gävle
+  urn: urn:apoteksgruppen:store:id:50490001
+  country: Sverige
+  latitude: 60.699672
+  longitude: 17.173113
+
+- location: Apoteksgruppen Gävle, Bomhus
+  city: Gävle
+  urn: urn:apoteksgruppen:store:id:00160001
+  country: Sverige
+  latitude: 60.6736
+  longitude: 17.2135
+
+- location: Apoteksgruppen Mariefred, Storgatan
+  city: Mariefred
+  urn: urn:apoteksgruppen:store:id:00860001
+  country: Sverige
+  latitude: 59.2594
+  longitude: 17.2212
+
+- location: Apoteksgruppen Sundsvall, Granlo
+  city: Sundsvall
+  urn: urn:apoteksgruppen:store:id:10010001
+  country: Sverige
+  latitude: 62.404
+  longitude: 17.2551
+
+- location: Apoteksgruppen Gnesta, Marieströmsgatan
+  city: Gnesta
+  urn: urn:apoteksgruppen:store:id:00720001
+  country: Sverige
+  latitude: 59.0476
+  longitude: 17.31
+
+- location: Apoteksgruppen Gnesta, Stopp Köpcentrum
+  city: Gnesta
+  urn: urn:apoteksgruppen:store:id:50350001
+  country: Sverige
+  latitude: 59.0402
+  longitude: 17.3246
+
+- location: Apoteksgruppen Skutskär, Skutskärs vårdcentral
+  city: Skutskär
+  urn: urn:apoteksgruppen:store:id:03620001
+  country: Sverige
+  latitude: 60.6261
+  longitude: 17.4129
+
+- location: Apoteksgruppen Vagnhärad, Vagnhärads torg
+  city: Vagnhärad
+  urn: urn:apoteksgruppen:store:id:60030001
+  country: Sverige
+  latitude: 58.9459
+  longitude: 17.4863
+
+- location: Apoteksgruppen Trosa, Högbergsgatan
+  city: Trosa
+  urn: urn:apoteksgruppen:store:id:00730001
+  country: Sverige
+  latitude: 58.8964
+  longitude: 17.5498
+
+- location: Apoteksgruppen Järna, Storgatan
+  city: Järna
+  urn: urn:apoteksgruppen:store:id:07420001
+  country: Sverige
+  latitude: 59.0889
+  longitude: 17.5661
+
+- location: Apoteksgruppen Uppsala, Ekeby
+  city: Uppsala
+  urn: urn:apoteksgruppen:store:id:50220001
+  country: Sverige
+  latitude: 59.84939
+  longitude: 17.607855
+
+- location: Apoteksgruppen Uppsala, Svartbäcken
+  city: Uppsala
+  urn: urn:apoteksgruppen:store:id:03490001
+  country: Sverige
+  latitude: 59.8682
+  longitude: 17.6264
+
+- location: Apoteksgruppen Uppsala, Dragarbrunnsgatan
+  city: Uppsala
+  urn: urn:apoteksgruppen:store:id:00050001
+  country: Sverige
+  latitude: 59.8583
+  longitude: 17.6421
+
+- location: Apoteksgruppen Bro, Bro centrum
+  city: Bro
+  urn: urn:apoteksgruppen:store:id:06750001
+  country: Sverige
+  latitude: 59.5161
+  longitude: 17.6438
+
+- location: Apoteksgruppen Uppsala Björkgatan
+  city: Uppsala
+  urn: urn:apoteksgruppen:store:id:50540001
+  country: Sverige
+  latitude: 59.866
+  longitude: 17.6614
+
+- location: Apoteksgruppen Uppsala, Årsta
+  city: Uppsala
+  urn: urn:apoteksgruppen:store:id:50060001
+  country: Sverige
+  latitude: 59.866
+  longitude: 17.6851
+
+- location: Apoteksgruppen Uppsala, Boländerna
+  city: Uppsala
+  urn: urn:apoteksgruppen:store:id:12170001
+  country: Sverige
+  latitude: 59.846
+  longitude: 17.6923
+
+- location: Apoteksgruppen Sigtuna, Stora gatan
+  city: Sigtuna
+  urn: urn:apoteksgruppen:store:id:00030001
+  country: Sverige
+  latitude: 59.6158
+  longitude: 17.7196
+
+- location: Apoteksgruppen Rönninge, Salem centrum
+  city: Rönninge Salem C
+  urn: urn:apoteksgruppen:store:id:07440001
+  country: Sverige
+  latitude: 59.2014
+  longitude: 17.7668
+
+- location: Apoteksgruppen Knivsta, Apoteksvägen
+  city: Knivsta
+  urn: urn:apoteksgruppen:store:id:03460001
+  country: Sverige
+  latitude: 59.7259
+  longitude: 17.79
+
+- location: Apoteksgruppen Hässelby, Åkermyntans centrum
+  city: Hässelby
+  urn: urn:apoteksgruppen:store:id:06790001
+  country: Sverige
+  latitude: 59.3801
+  longitude: 17.8167
+
+- location: Apoteksgruppen Märsta, Valsta centrum
+  city: Märsta
+  urn: urn:apoteksgruppen:store:id:03100001
+  country: Sverige
+  latitude: 59.6161
+  longitude: 17.8287
+
+- location: Apoteksgruppen Tumba, Bryggarvägen
+  city: Tumba
+  urn: urn:apoteksgruppen:store:id:50580001
+  country: Sverige
+  latitude: 59.1986
+  longitude: 17.8428
+
+- location: Apoteksgruppen Upplands Väsby, Runby
+  city: Upplands Väsby
+  urn: urn:apoteksgruppen:store:id:50420001
+  country: Sverige
+  latitude: 59.520198
+  longitude: 17.892657
+
+- location: Apoteksgruppen Tullinge Centrum
+  city: Tullinge
+  urn: urn:apoteksgruppen:store:id:50380001
+  country: Sverige
+  latitude: 59.205822
+  longitude: 17.906234
+
+- location: Apoteksgruppen Tullinge, Kvällsvägen
+  city: Tullinge
+  urn: urn:apoteksgruppen:store:id:07460001
+  country: Sverige
+  latitude: 59.2055
+  longitude: 17.9073
+
+- location: Apoteksgruppen Upplands Väsby, Löwenströmska
+  city: Upplands Väsby
+  urn: urn:apoteksgruppen:store:id:03080001
+  country: Sverige
+  latitude: 59.5449
+  longitude: 17.9092
+
+- location: Apoteksgruppen Sollentuna, Rotebro
+  city: Sollentuna
+  urn: urn:apoteksgruppen:store:id:03040001
+  country: Sverige
+  latitude: 59.4753
+  longitude: 17.9137
+
+- location: Apoteksgruppen Kista, Husby centrum
+  city: Kista
+  urn: urn:apoteksgruppen:store:id:06900001
+  country: Sverige
+  latitude: 59.4097
+  longitude: 17.9256
+
+- location: Apoteksgruppen Arlanda flygplats, Sky city
+  city: Stockholm-Arlanda
+  urn: urn:apoteksgruppen:store:id:01720001
+  country: Sverige
+  latitude: 59.6497
+  longitude: 17.9292
+
+- location: Pharmacy Shop, Arlanda Airside
+  city: Stockholm-Arlanda
+  urn: urn:apoteksgruppen:store:id:50280001
+  country: Sverige
+  latitude: 59.652232
+  longitude: 17.935066
+
+- location: Apoteksgruppen Järva, Rinkeby
+  city: Spånga
+  urn: urn:apoteksgruppen:store:id:50020001
+  country: Sverige
+  latitude: 59.3863
+  longitude: 17.9371
+
+- location: Apoteksgruppen Sollentuna, Helenelund
+  city: Sollentuna
+  urn: urn:apoteksgruppen:store:id:50210001
+  country: Sverige
+  latitude: 59.410484
+  longitude: 17.963302
+
+- location: Apoteksgruppen Sundbyberg, Hallonbergen centrum
+  city: Sundbyberg
+  urn: urn:apoteksgruppen:store:id:06700001
+  country: Sverige
+  latitude: 59.3758
+  longitude: 17.9685
+
+- location: Apoteksgruppen Bromma, Tranebergsplan
+  city: Bromma
+  urn: urn:apoteksgruppen:store:id:06840001
+  country: Sverige
+  latitude: 59.3351
+  longitude: 17.9783
+
+- location: Apoteksgruppen Huddinge Centrum
+  city: Huddinge
+  urn: urn:apoteksgruppen:store:id:50410001
+  country: Sverige
+  latitude: 59.236817
+  longitude: 17.981175
+
+- location: Apoteksgruppen Hägersten, Telefonplan
+  city: Hägersten
+  urn: urn:apoteksgruppen:store:id:07340001
+  country: Sverige
+  latitude: 59.2986
+  longitude: 17.9973
+
+- location: Apoteksgruppen Frösunda
+  city: Solna
+  urn: urn:apoteksgruppen:store:id:50600001
+  country: Sverige
+  latitude: 59.3732
+  longitude: 18.0161
+
+- location: Apoteksgruppen Solna, Bergshamra torg
+  city: Solna
+  urn: urn:apoteksgruppen:store:id:02900001
+  country: Sverige
+  latitude: 59.3806
+  longitude: 18.036
+
+- location: Apoteksgruppen Stockholm, Karlbergsvägen
+  city: Stockholm
+  urn: urn:apoteksgruppen:store:id:01740001
+  country: Sverige
+  latitude: 59.3423
+  longitude: 18.0375
+
+- location: Apoteksgruppen Årsta, Hjälmarsvägen
+  city: Årsta
+  urn: urn:apoteksgruppen:store:id:03730001
+  country: Sverige
+  latitude: 59.2976
+  longitude: 18.0528
+
+- location: Apoteksgruppen Stockholm, Södra Station
+  city: Stockholm
+  urn: urn:apoteksgruppen:store:id:50390001
+  country: Sverige
+  latitude: 59.314091
+  longitude: 18.064618
+
+- location: Apoteksgruppen Birger Jarlsgatan, Stockholm
+  city: Stockholm
+  urn: urn:apoteksgruppen:store:id:50180001
+  country: Sverige
+  latitude: 59.34024
+  longitude: 18.06692
+
+- location: Apoteksgruppen Stockholm, Östra station
+  city: Stockholm
+  urn: urn:apoteksgruppen:store:id:03210001
+  country: Sverige
+  latitude: 59.3461
+  longitude: 18.0711
+
+- location: Apoteksgruppen Vallentuna, Tuna torg
+  city: Vallentuna
+  urn: urn:apoteksgruppen:store:id:50250001
+  country: Sverige
+  latitude: 59.5343
+  longitude: 18.07911
+
+- location: Apoteksgruppen Stockholm, Östermalmstorg
+  city: Stockholm
+  urn: urn:apoteksgruppen:store:id:50520001
+  country: Sverige
+  latitude: 59.336232
+  longitude: 18.079805
+
+- location: Apoteksgruppen Johanneshov, Gullmarsplan
+  city: Johanneshov
+  urn: urn:apoteksgruppen:store:id:03700001
+  country: Sverige
+  latitude: 59.2985
+  longitude: 18.0805
+
+- location: Apoteksgruppen Djursholm, Djursholms centrum
+  city: Djursholm
+  urn: urn:apoteksgruppen:store:id:02960001
+  country: Sverige
+  latitude: 59.3979
+  longitude: 18.0878
+
+- location: Apoteksgruppen Stockholm, Hammarby sjöstad
+  city: Stockholm
+  urn: urn:apoteksgruppen:store:id:13830001
+  country: Sverige
+  latitude: 59.304
+  longitude: 18.0928
+
+- location: Apoteksgruppen Täby, Näsby Park
+  city: Täby
+  urn: urn:apoteksgruppen:store:id:02910001
+  country: Sverige
+  latitude: 59.4306
+  longitude: 18.0943
+
+- location: Apoteksgruppen Västerhaninge Centrum
+  city: Västerhaninge
+  urn: urn:apoteksgruppen:store:id:50190001
+  country: Sverige
+  latitude: 59.12139
+  longitude: 18.10174
+
+- location: Apoteksgruppen Stockholm, Gärdet
+  city: Stockholm
+  urn: urn:apoteksgruppen:store:id:09430001
+  country: Sverige
+  latitude: 59.3469
+  longitude: 18.1018
+
+- location: Apoteksgruppen Sköndal, Sköndalsvägen
+  city: Sköndal
+  urn: urn:apoteksgruppen:store:id:03910001
+  country: Sverige
+  latitude: 59.2558
+  longitude: 18.1148
+
+- location: Apoteksgruppen Nacka, Kvarnholmen
+  city: Nacka
+  urn: urn:apoteksgruppen:store:id:50590001
+  country: Sverige
+  latitude: 59.3169
+  longitude: 18.1399
+
+- location: Apoteksgruppen Nacka, Nacka Närsjukhus
+  city: Nacka
+  urn: urn:apoteksgruppen:store:id:03780001
+  country: Sverige
+  latitude: 59.3119
+  longitude: 18.1971
+
+- location: Apoteksgruppen Tyresö, Trollbäckens centrum
+  city: Tyresö
+  urn: urn:apoteksgruppen:store:id:12250001
+  country: Sverige
+  latitude: 59.2224
+  longitude: 18.2013
+
+- location: Apoteksgruppen Saltsjö-Boo, Orminge centrum
+  city: Saltsjö-Boo
+  urn: urn:apoteksgruppen:store:id:03810001
+  country: Sverige
+  latitude: 59.3266
+  longitude: 18.2574
+
+- location: Apoteksgruppen Saltsjöbaden, Tippens Centrum
+  city: Saltsjöbaden
+  urn: urn:apoteksgruppen:store:id:03800001
+  country: Sverige
+  latitude: 59.2855
+  longitude: 18.2761
+
+- location: Apoteksgruppen Visby, Visborg
+  city: Visby
+  urn: urn:apoteksgruppen:store:id:50100001
+  country: Sverige
+  latitude: 57.617331
+  longitude: 18.284371
+
+- location: Apoteksgruppen Vaxholm, Hamngatan
+  city: Vaxholm
+  urn: urn:apoteksgruppen:store:id:02930001
+  country: Sverige
+  latitude: 59.4025
+  longitude: 18.3534
+
+- location: Apoteksgruppen Hemse, Hagagatan
+  city: Hemse
+  urn: urn:apoteksgruppen:store:id:02810001
+  country: Sverige
+  latitude: 57.2392
+  longitude: 18.3714
+
+- location: Apoteksgruppen Romakloster, Visbyvägen
+  city: Romakloster
+  urn: urn:apoteksgruppen:store:id:02860001
+  country: Sverige
+  latitude: 57.5054
+  longitude: 18.4557
+
+- location: Apoteksgruppen Domsjö, Domsjö vårdcentral
+  city: Domsjö
+  urn: urn:apoteksgruppen:store:id:06490001
+  country: Sverige
+  latitude: 63.2658
+  longitude: 18.6907
+
+- location: Apoteksgruppen Malå, Storgatan
+  city: Malå
+  urn: urn:apoteksgruppen:store:id:06280001
+  country: Sverige
+  latitude: 65.1815
+  longitude: 18.7429
+
+- location: Apoteksgruppen Norsjö, Storgatan
+  city: Norsjö
+  urn: urn:apoteksgruppen:store:id:01330001
+  country: Sverige
+  latitude: 64.9138
+  longitude: 19.4797
+
+- location: Apoteksgruppen Jokkmokk, Storgatan
+  city: Jokkmokk
+  urn: urn:apoteksgruppen:store:id:07260001
+  country: Sverige
+  latitude: 66.6056
+  longitude: 19.8297
+
+- location: Apoteksgruppen Gällivare, Norrskensgallerian
+  city: Gällivare
+  urn: urn:apoteksgruppen:store:id:07230001
+  country: Sverige
+  latitude: 67.1347
+  longitude: 20.6611
+
+- location: Apoteksgruppen Boden, Ugglegatan
+  city: Boden
+  urn: urn:apoteksgruppen:store:id:11500001
+  country: Sverige
+  latitude: 65.8178
+  longitude: 21.7071
+
+- location: Apoteksgruppen Luleå, Storheden
+  city: Luleå
+  urn: urn:apoteksgruppen:store:id:12970001
+  country: Sverige
+  latitude: 65.6185
+  longitude: 22.0416
+
+- location: Apoteksgruppen Kalix, Galleria Kalix
+  city: Kalix
+  urn: urn:apoteksgruppen:store:id:07140001
+  country: Sverige
+  latitude: 65.8552
+  longitude: 23.1395
