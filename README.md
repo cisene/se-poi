@@ -31,6 +31,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
 | [Apotek Hjärtat](https://sv.wikipedia.org/wiki/Apotek_Hj%C3%A4rtat)                      |        391 |
+| [Apoteksgruppen](https://sv.wikipedia.org/wiki/Apoteksgruppen)                           |        199 |
 | [Kronans Apotek](https://sv.wikipedia.org/wiki/Kronans_Droghandel)                       |        311 |
 
 
