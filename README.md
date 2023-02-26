@@ -161,6 +161,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
 | [Hemtex](https://sv.wikipedia.org/wiki/Hemtex)                                           |        115 |
+| [JYSK](https://sv.wikipedia.org/wiki/Jysk)                                               |        156 |
 | [Mio](https://sv.wikipedia.org/wiki/Mio_(butikskedja))                                   |         75 |
 
 
@@ -225,6 +226,15 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
 | [Polisen](https://sv.wikipedia.org/wiki/Polisen_i_Sverige)                               |        391 |
+
+
+
+
+## Paketskåp
+
+| Namn                                                                                     | Positioner |
+| :--------------------------------------------------------------------------------------- | ---------: |
+| [Instabox](https://sv.wikipedia.org/wiki/Instabox)                                       |         48 |
 
 
 
