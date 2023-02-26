@@ -33,6 +33,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | [Apotek Hjärtat](https://sv.wikipedia.org/wiki/Apotek_Hj%C3%A4rtat)                      |        391 |
 | [Apoteket AB](https://sv.wikipedia.org/wiki/Apoteket)                                    |        389 |
 | [Apoteksgruppen](https://sv.wikipedia.org/wiki/Apoteksgruppen)                           |        199 |
+| [DOZ Apotek](https://sv.wikipedia.org/wiki/DOZ_Apotek)                                   |         71 |
 | [Kronans Apotek](https://sv.wikipedia.org/wiki/Kronans_Droghandel)                       |        311 |
 
 
