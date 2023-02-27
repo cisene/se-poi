@@ -204,6 +204,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | [Kicks](https://sv.wikipedia.org/wiki/Kicks)                                             |        129 |
 | [Lindex](https://sv.wikipedia.org/wiki/Lindex)                                           |        439 |
 | [Polarn O. Pyret](https://sv.wikipedia.org/wiki/Polarn_O._Pyret)                         |         39 |
+| [Skopunkten](https://sv.wikipedia.org/wiki/Skopunkten)                                   |         46 |
 | [The Body Shop](https://sv.wikipedia.org/wiki/The_Body_Shop)                             |         55 |
 | [Volt Fashion](https://sv.wikipedia.org/wiki/Varner-Gruppen)                             |         41 |
 | [Åhléns](https://sv.wikipedia.org/wiki/%C3%85hl%C3%A9ns)                                 |         83 |
