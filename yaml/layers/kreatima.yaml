@@ -3,10 +3,9 @@ meta:
   web: https://kreatima.com/
   wikipedia: https://sv.wikipedia.org/wiki/Panduro_Hobby
   category: Konst och Hobby
-  locations: 0
+  locations: 2
 
 locations:
-
 - location: Kreatima Göteborg
   city: Göteborg
   urn: urn:kreatima:store:id:6000600
@@ -18,6 +17,5 @@ locations:
   city: Stockholm
   urn: urn:kreatima:store:id:3777710
   country: Sverige
-  latitude: 59.3345046
-  longitude: 18.0568087
-
+  latitude: 59.334505
+  longitude: 18.056809
