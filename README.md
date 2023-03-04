@@ -45,6 +45,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | :--------------------------------------------------------------------------------------- | ---------: |
 | [Bankomat](https://sv.wikipedia.org/wiki/Bankomat)                                       |       1401 |
 | [Forex](https://sv.wikipedia.org/wiki/Forex_(f%C3%B6retag))                              |         83 |
+| [Nordea](https://sv.wikipedia.org/wiki/Nordea)                                           |        118 |
 | [Swedbank](https://sv.wikipedia.org/wiki/Swedbank)                                       |        343 |
 
 
@@ -208,6 +209,16 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | [The Body Shop](https://sv.wikipedia.org/wiki/The_Body_Shop)                             |         55 |
 | [Volt Fashion](https://sv.wikipedia.org/wiki/Varner-Gruppen)                             |         41 |
 | [Åhléns](https://sv.wikipedia.org/wiki/%C3%85hl%C3%A9ns)                                 |         83 |
+
+
+
+
+## Konst och Hobby
+
+| Namn                                                                                     | Positioner |
+| :--------------------------------------------------------------------------------------- | ---------: |
+| [Kreatima](https://sv.wikipedia.org/wiki/Panduro_Hobby)                                  |          2 |
+| [Panduro](https://sv.wikipedia.org/wiki/Panduro_Hobby)                                   |         41 |
 
 
 
