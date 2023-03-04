@@ -1,0 +1,833 @@
+meta:
+  name: Nordea
+  web: https://www.nordea.se/
+  wikipedia: https://sv.wikipedia.org/wiki/Nordea
+  category: Bank och Valuta
+  locations: 118
+
+locations:
+- location: Nordea Strömstad, Badhusgatan 5
+  city: Strömstad
+  urn: urn:nordea:branch:id:4013
+  country: Sverige
+  latitude: 58.93814
+  longitude: 11.171805
+
+- location: Nordea Torslanda, Gamla Flygplatsvägen 42
+  city: Torslanda
+  urn: urn:nordea:branch:id:4195
+  country: Sverige
+  latitude: 57.70995
+  longitude: 11.774429
+
+- location: Nordea Stenungsund, Stenungs Torg, Sandbergs Plats 4
+  city: Stenungsund
+  urn: urn:nordea:branch:id:4017
+  country: Sverige
+  latitude: 58.069614
+  longitude: 11.817757
+
+- location: Nordea Uddevalla, Karl Gustavsgatan 1
+  city: Uddevalla
+  urn: urn:nordea:branch:id:4024
+  country: Sverige
+  latitude: 58.35164
+  longitude: 11.927862
+
+- location: Nordea Askim, Hantverksvägen 15
+  city: Askim
+  urn: urn:nordea:branch:id:3124
+  country: Sverige
+  latitude: 57.640705
+  longitude: 11.947714
+
+- location: Nordea Göteborg, Västra Hamngatan 1
+  city: Göteborg
+  urn: urn:nordea:branch:id:1127
+  country: Sverige
+  latitude: 57.70539
+  longitude: 11.962773
+
+- location: Nordea Göteborg, Kilsgatan 4
+  city: Göteborg
+  urn: urn:nordea:branch:id:1136
+  country: Sverige
+  latitude: 57.714256
+  longitude: 11.972884
+
+- location: Nordea Kungälv, Uddevallavägen 12
+  city: Kungälv
+  urn: urn:nordea:branch:id:3103
+  country: Sverige
+  latitude: 57.87375
+  longitude: 11.977767
+
+- location: Nordea Göteborg, Rådgivning 7
+  city: Göteborg
+  urn: urn:nordea:branch:id:1759
+  country: Sverige
+  latitude: 57.693684
+  longitude: 11.981379
+
+- location: Nordea Mölndal, Storgatan 32a
+  city: Mölndal
+  urn: urn:nordea:branch:id:4945
+  country: Sverige
+  latitude: 57.655117
+  longitude: 12.011438
+
+- location: Nordea Kungsbacka, Vallgatan 3
+  city: Kungsbacka
+  urn: urn:nordea:branch:id:3133
+  country: Sverige
+  latitude: 57.4889
+  longitude: 12.077225
+
+- location: Nordea Partille, Gamla Kronvägen 50
+  city: Partille
+  urn: urn:nordea:branch:id:3093
+  country: Sverige
+  latitude: 57.7401
+  longitude: 12.10791
+
+- location: Nordea Mölnlycke, Lennart Kvarnströms Plats 6
+  city: Mölnlycke
+  urn: urn:nordea:branch:id:4209
+  country: Sverige
+  latitude: 57.65915
+  longitude: 12.110406
+
+- location: Nordea Varberg, Västra Vallgatan 2, 3 Trappor
+  city: Varberg
+  urn: urn:nordea:branch:id:3041
+  country: Sverige
+  latitude: 57.10912
+  longitude: 12.24884
+
+- location: Nordea Lerum, Lilla Torget 7
+  city: Lerum
+  urn: urn:nordea:branch:id:3127
+  country: Sverige
+  latitude: 57.76967
+  longitude: 12.267852
+
+- location: Nordea Trollhättan, Storgatan 43
+  city: Trollhättan
+  urn: urn:nordea:branch:id:3120
+  country: Sverige
+  latitude: 58.28501
+  longitude: 12.286218
+
+- location: Nordea Falkenberg, Torggatan 1
+  city: Falkenberg
+  urn: urn:nordea:branch:id:3052
+  country: Sverige
+  latitude: 56.904152
+  longitude: 12.490634
+
+- location: Nordea Alingsås, Lilla Torget
+  city: Alingsås
+  urn: urn:nordea:branch:id:3050
+  country: Sverige
+  latitude: 57.928818
+  longitude: 12.531972
+
+- location: Nordea Arvika, Torggatan 7
+  city: Arvika
+  urn: urn:nordea:branch:id:3012
+  country: Sverige
+  latitude: 59.655273
+  longitude: 12.592182
+
+- location: Nordea Helsingborg, Kullagatan 26
+  city: Helsingborg
+  urn: urn:nordea:branch:id:3019
+  country: Sverige
+  latitude: 56.0483
+  longitude: 12.692938
+
+- location: Nordea Kinna, Kyrkogatan 2
+  city: Kinna
+  urn: urn:nordea:branch:id:4027
+  country: Sverige
+  latitude: 57.507706
+  longitude: 12.695177
+
+- location: Nordea Halmstad, Nygatan 1
+  city: Halmstad
+  urn: urn:nordea:branch:id:3017
+  country: Sverige
+  latitude: 56.670433
+  longitude: 12.856172
+
+- location: Nordea Ängelholm, Storgatan 26
+  city: Ängelholm
+  urn: urn:nordea:branch:id:3125
+  country: Sverige
+  latitude: 56.242466
+  longitude: 12.862287
+
+- location: Nordea Säffle, Stortorget 2
+  city: Säffle
+  urn: urn:nordea:branch:id:1171
+  country: Sverige
+  latitude: 59.132378
+  longitude: 12.928711
+
+- location: Nordea Limhamn, Linnégatan 45
+  city: Limhamn
+  urn: urn:nordea:branch:id:3085
+  country: Sverige
+  latitude: 55.581463
+  longitude: 12.933537
+
+- location: Nordea Borås, Västerbrogatan 8a 3 Vån
+  city: Borås
+  urn: urn:nordea:branch:id:3051
+  country: Sverige
+  latitude: 57.722027
+  longitude: 12.935458
+
+- location: Nordea Malmö, Carlsgatan 6-8
+  city: Malmö
+  urn: urn:nordea:branch:id:3030
+  country: Sverige
+  latitude: 55.610645
+  longitude: 12.999395
+
+- location: Nordea Torsby, Järnvägsgatan 2
+  city: Torsby
+  urn: urn:nordea:branch:id:1175
+  country: Sverige
+  latitude: 60.134457
+  longitude: 13.00762
+
+- location: Nordea Trelleborg, Algatan 36
+  city: Trelleborg
+  urn: urn:nordea:branch:id:3038
+  country: Sverige
+  latitude: 55.37448
+  longitude: 13.155789
+
+- location: Nordea Lidköping, Nya Stadens Torg 5
+  city: Lidköping
+  urn: urn:nordea:branch:id:3027
+  country: Sverige
+  latitude: 58.503162
+  longitude: 13.157432
+
+- location: Nordea Lund, Stora Södergatan 2
+  city: Lund
+  urn: urn:nordea:branch:id:3029
+  country: Sverige
+  latitude: 55.70224
+  longitude: 13.192552
+
+- location: Nordea Karlstad, Tingvallagatan 11
+  city: Karlstad
+  urn: urn:nordea:branch:id:1810
+  country: Sverige
+  latitude: 59.38013
+  longitude: 13.503258
+
+- location: Nordea Anderstorp, Ågatan 48
+  city: Anderstorp
+  urn: urn:nordea:branch:id:4007
+  country: Sverige
+  latitude: 57.282917
+  longitude: 13.626671
+
+- location: Nordea Hagfors, Kyrkogatan 2
+  city: Hagfors
+  urn: urn:nordea:branch:id:1134
+  country: Sverige
+  latitude: 60.031696
+  longitude: 13.699004
+
+- location: Nordea Hässleholm, Frykholmsgatan 4
+  city: Hässleholm
+  urn: urn:nordea:branch:id:3091
+  country: Sverige
+  latitude: 56.1588
+  longitude: 13.765818
+
+- location: Nordea Ystad, Stortorget 13
+  city: Ystad
+  urn: urn:nordea:branch:id:3018
+  country: Sverige
+  latitude: 55.429005
+  longitude: 13.819363
+
+- location: Nordea Ystad, Stortorget 13
+  city: Ystad
+  urn: urn:nordea:branch:id:3037
+  country: Sverige
+  latitude: 55.429005
+  longitude: 13.819363
+
+- location: Nordea Mariestad, Kungsgatan 6
+  city: Mariestad
+  urn: urn:nordea:branch:id:3058
+  country: Sverige
+  latitude: 58.70838
+  longitude: 13.820595
+
+- location: Nordea Skövde, Kyrkogatan 20
+  city: Skövde
+  urn: urn:nordea:branch:id:1185
+  country: Sverige
+  latitude: 58.388676
+  longitude: 13.843766
+
+- location: Nordea Värnamo, Storgatan 24
+  city: Värnamo
+  urn: urn:nordea:branch:id:4215
+  country: Sverige
+  latitude: 57.184452
+  longitude: 14.042515
+
+- location: Nordea Kristinehamn, Tegelslagaregatan 30
+  city: Kristinehamn
+  urn: urn:nordea:branch:id:1142
+  country: Sverige
+  latitude: 59.309242
+  longitude: 14.107509
+
+- location: Nordea Jönköping, Vaggerydsgatan 1
+  city: Jönköping
+  urn: urn:nordea:branch:id:1683
+  country: Sverige
+  latitude: 57.768776
+  longitude: 14.154702
+
+- location: Nordea Kristianstad, Västra Storgatan 51 U
+  city: Kristianstad
+  urn: urn:nordea:branch:id:3026
+  country: Sverige
+  latitude: 56.02781
+  longitude: 14.158525
+
+- location: Nordea Karlskoga, Kilgatan 2
+  city: Karlskoga
+  urn: urn:nordea:branch:id:3121
+  country: Sverige
+  latitude: 59.32581
+  longitude: 14.523151
+
+- location: Nordea Mora, Kyrkogatan 2
+  city: Mora
+  urn: urn:nordea:branch:id:3149
+  country: Sverige
+  latitude: 61.00662
+  longitude: 14.54007
+
+- location: Nordea Östersund, Storgatan 36
+  city: Östersund
+  urn: urn:nordea:branch:id:3071
+  country: Sverige
+  latitude: 63.177177
+  longitude: 14.635254
+
+- location: Nordea Nässjö, Stortorget 1
+  city: Nässjö
+  urn: urn:nordea:branch:id:4069
+  country: Sverige
+  latitude: 57.653282
+  longitude: 14.695883
+
+- location: Nordea Växjö, Storgatan 82 A
+  city: Växjö
+  urn: urn:nordea:branch:id:3045
+  country: Sverige
+  latitude: 56.879993
+  longitude: 14.774859
+
+- location: Nordea Karlshamn, Christopher Schrödergatan 13
+  city: Karlshamn
+  urn: urn:nordea:branch:id:4971
+  country: Sverige
+  latitude: 56.17109
+  longitude: 14.863948
+
+- location: Nordea Leksand, Torget
+  city: Leksand
+  urn: urn:nordea:branch:id:4098
+  country: Sverige
+  latitude: 60.732357
+  longitude: 14.996833
+
+- location: Nordea Motala, Drottninggatan 50
+  city: Motala
+  urn: urn:nordea:branch:id:3079
+  country: Sverige
+  latitude: 58.537106
+  longitude: 15.026103
+
+- location: Nordea Vetlanda, Stationsgatan 1 B
+  city: Vetlanda
+  urn: urn:nordea:branch:id:3141
+  country: Sverige
+  latitude: 57.42747
+  longitude: 15.084446
+
+- location: Nordea Ludvika, Storgatan 9
+  city: Ludvika
+  urn: urn:nordea:branch:id:1805
+  country: Sverige
+  latitude: 60.15125
+  longitude: 15.187976
+
+- location: Nordea Örebro, Nygatan 15
+  city: Örebro
+  urn: urn:nordea:branch:id:1621
+  country: Sverige
+  latitude: 59.27097
+  longitude: 15.210379
+
+- location: Nordea Borlänge, Stationsgatan 6
+  city: Borlänge
+  urn: urn:nordea:branch:id:3115
+  country: Sverige
+  latitude: 60.4851
+  longitude: 15.43285
+
+- location: Nordea Karlskrona, Ronnebygatan 34
+  city: Karlskrona
+  urn: urn:nordea:branch:id:3024
+  country: Sverige
+  latitude: 56.16215
+  longitude: 15.58863
+
+- location: Nordea Linköping, Nygatan 30
+  city: Linköping
+  urn: urn:nordea:branch:id:1603
+  country: Sverige
+  latitude: 58.409607
+  longitude: 15.623953
+
+- location: Nordea Falun, Stora Torget
+  city: Falun
+  urn: urn:nordea:branch:id:1624
+  country: Sverige
+  latitude: 60.607697
+  longitude: 15.629026
+
+- location: Nordea Köping, Glasgatan 21
+  city: Köping
+  urn: urn:nordea:branch:id:3086
+  country: Sverige
+  latitude: 59.510326
+  longitude: 16.001596
+
+- location: Nordea Avesta, Polervägen 10
+  city: Avesta
+  urn: urn:nordea:branch:id:1821
+  country: Sverige
+  latitude: 60.1494
+  longitude: 16.172266
+
+- location: Nordea Norrköping, Drottninggatan 64
+  city: Norrköping
+  urn: urn:nordea:branch:id:1107
+  country: Sverige
+  latitude: 58.58598
+  longitude: 16.189257
+
+- location: Nordea Katrineholm, Drottninggatan 11
+  city: Katrineholm
+  urn: urn:nordea:branch:id:3057
+  country: Sverige
+  latitude: 58.99392
+  longitude: 16.204424
+
+- location: Nordea Kalmar, Norra Långgatan 31
+  city: Kalmar
+  urn: urn:nordea:branch:id:1154
+  country: Sverige
+  latitude: 56.66464
+  longitude: 16.364601
+
+- location: Nordea Bollnäs, Västra Stationsgatan 7
+  city: Bollnäs
+  urn: urn:nordea:branch:id:1545
+  country: Sverige
+  latitude: 61.348534
+  longitude: 16.394007
+
+- location: Nordea Eskilstuna, Fristadstorget 2
+  city: Eskilstuna
+  urn: urn:nordea:branch:id:3068
+  country: Sverige
+  latitude: 59.37134
+  longitude: 16.515053
+
+- location: Nordea Västerås, Stora Gatan 23
+  city: Västerås
+  urn: urn:nordea:branch:id:1130
+  country: Sverige
+  latitude: 59.60907
+  longitude: 16.546564
+
+- location: Nordea Sala, Norrbygatan 7
+  city: Sala
+  urn: urn:nordea:branch:id:3033
+  country: Sverige
+  latitude: 59.91937
+  longitude: 16.608376
+
+- location: Nordea Västervik, Kvarngatan 16
+  city: Västervik
+  urn: urn:nordea:branch:id:3066
+  country: Sverige
+  latitude: 57.7581
+  longitude: 16.639847
+
+- location: Nordea Sandviken, Odengatan 40
+  city: Sandviken
+  urn: urn:nordea:branch:id:1558
+  country: Sverige
+  latitude: 60.622272
+  longitude: 16.775562
+
+- location: Nordea Nyköping, Östra Storgatan 12
+  city: Nyköping
+  urn: urn:nordea:branch:id:3074
+  country: Sverige
+  latitude: 58.75418
+  longitude: 17.014904
+
+- location: Nordea Strängnäs, Trädgårdsgatan 10
+  city: Strängnäs
+  urn: urn:nordea:branch:id:3469
+  country: Sverige
+  latitude: 59.37656
+  longitude: 17.026028
+
+- location: Nordea Söderhamn, Köpmangatan 5
+  city: Söderhamn
+  urn: urn:nordea:branch:id:1544
+  country: Sverige
+  latitude: 61.301983
+  longitude: 17.05386
+
+- location: Nordea Enköping, Kungsgatan 21-23
+  city: Enköping
+  urn: urn:nordea:branch:id:3097
+  country: Sverige
+  latitude: 59.635326
+  longitude: 17.078968
+
+- location: Nordea Hudiksvall, Storgatan 35
+  city: Hudiksvall
+  urn: urn:nordea:branch:id:3113
+  country: Sverige
+  latitude: 61.72773
+  longitude: 17.108772
+
+- location: Nordea Gävle, Norra Kungsgatan 5
+  city: Gävle
+  urn: urn:nordea:branch:id:1162
+  country: Sverige
+  latitude: 60.674324
+  longitude: 17.144102
+
+- location: Nordea Sollefteå, Storgatan 47-49
+  city: Sollefteå
+  urn: urn:nordea:branch:id:1525
+  country: Sverige
+  latitude: 63.168457
+  longitude: 17.266407
+
+- location: Nordea Sundsvall, Kyrkogatan 15
+  city: Sundsvall
+  urn: urn:nordea:branch:id:1542
+  country: Sverige
+  latitude: 62.39012
+  longitude: 17.308672
+
+- location: Nordea Södertälje, Storgatan 2 B
+  city: Södertälje
+  urn: urn:nordea:branch:id:3082
+  country: Sverige
+  latitude: 59.195263
+  longitude: 17.628193
+
+- location: Nordea Uppsala, S:t Persgatan 21 A
+  city: Uppsala
+  urn: urn:nordea:branch:id:1458
+  country: Sverige
+  latitude: 59.86109
+  longitude: 17.64117
+
+- location: Nordea Uppsala, Bolandsgatan 15 G, 1 Tr
+  city: Uppsala
+  urn: urn:nordea:branch:id:4302
+  country: Sverige
+  latitude: 59.85238
+  longitude: 17.68428
+
+- location: Nordea Knivsta, Forsbyvägen 2
+  city: Knivsta
+  urn: urn:nordea:branch:id:1815
+  country: Sverige
+  latitude: 59.72546
+  longitude: 17.790405
+
+- location: Nordea Tumba, Tumba Torg 103
+  city: Tumba
+  urn: urn:nordea:branch:id:3267
+  country: Sverige
+  latitude: 59.199017
+  longitude: 17.835045
+
+- location: Nordea Märsta, Raisiogatan 1
+  city: Märsta
+  urn: urn:nordea:branch:id:3272
+  country: Sverige
+  latitude: 59.61898
+  longitude: 17.857
+
+- location: Nordea Järfälla, Barkaby Bas Veddestabron 14
+  city: Järfälla
+  urn: urn:nordea:branch:id:3259
+  country: Sverige
+  latitude: 59.407715
+  longitude: 17.86208
+
+- location: Nordea Vällingby, Solursgången 4
+  city: Vällingby
+  urn: urn:nordea:branch:id:3252
+  country: Sverige
+  latitude: 59.36323
+  longitude: 17.873468
+
+- location: Nordea Upplands Väsby, Centralvägen 3a
+  city: Upplands Väsby
+  urn: urn:nordea:branch:id:3274
+  country: Sverige
+  latitude: 59.5214
+  longitude: 17.902681
+
+- location: Nordea Härnösand, Stora Torget 7
+  city: Härnösand
+  urn: urn:nordea:branch:id:3075
+  country: Sverige
+  latitude: 62.632614
+  longitude: 17.938576
+
+- location: Nordea Sollentuna, Sofielundsvägen 2, Plan 1
+  city: Sollentuna
+  urn: urn:nordea:branch:id:4709
+  country: Sverige
+  latitude: 59.43911
+  longitude: 17.94148
+
+- location: Nordea Sollentuna, Sofielundsvägen 2, Gatuplanet
+  city: Sollentuna
+  urn: urn:nordea:branch:id:3269
+  country: Sverige
+  latitude: 59.433826
+  longitude: 17.9467
+
+- location: Nordea Huddinge, Forelltorget 8
+  city: Huddinge
+  urn: urn:nordea:branch:id:3255
+  country: Sverige
+  latitude: 59.236336
+  longitude: 17.981049
+
+- location: Nordea Solna, Evenemangsgatan 17 / Dalvägen 22
+  city: Solna
+  urn: urn:nordea:branch:id:3256
+  country: Sverige
+  latitude: 59.36933
+  longitude: 18.00119
+
+- location: Nordea Älvsjö, Johan Skyttes Väg 192
+  city: Älvsjö
+  urn: urn:nordea:branch:id:3248
+  country: Sverige
+  latitude: 59.278675
+  longitude: 18.007883
+
+- location: Nordea Stockholm, Liljeholmstorget 7, Plan 5, Hiss A
+  city: Stockholm
+  urn: urn:nordea:branch:id:4155
+  country: Sverige
+  latitude: 59.308605
+  longitude: 18.021402
+
+- location: Nordea Danderyd, Svärdvägen 3b
+  city: Danderyd
+  urn: urn:nordea:branch:id:3135
+  country: Sverige
+  latitude: 59.39963
+  longitude: 18.034725
+
+- location: Nordea Stockholm, Mäster Samuelsgatan 20
+  city: Stockholm
+  urn: urn:nordea:branch:id:1118
+  country: Sverige
+  latitude: 59.33423
+  longitude: 18.068848
+
+- location: Nordea Täby, Esplanaden 19, Plan 2. Entré K4 Från Täby Torg
+  city: Täby
+  urn: urn:nordea:branch:id:3266
+  country: Sverige
+  latitude: 59.444218
+  longitude: 18.069563
+
+- location: Nordea Stockholm, Smålandsgatan 15-17
+  city: Stockholm
+  urn: urn:nordea:branch:id:1147
+  country: Sverige
+  latitude: 59.332935
+  longitude: 18.07058
+
+- location: Nordea Stockholm, Norrlandsgatan 3
+  city: Stockholm
+  urn: urn:nordea:branch:id:4395
+  country: Sverige
+  latitude: 59.333214
+  longitude: 18.07119
+
+- location: Nordea Stockholm, Katarina Bangata 13
+  city: Stockholm
+  urn: urn:nordea:branch:id:3206
+  country: Sverige
+  latitude: 59.312202
+  longitude: 18.075222
+
+- location: Nordea Farsta, Farstagången 28
+  city: Farsta
+  urn: urn:nordea:branch:id:3260
+  country: Sverige
+  latitude: 59.241657
+  longitude: 18.090115
+
+- location: Nordea Stockholm, Hammarby Allé 108
+  city: Stockholm
+  urn: urn:nordea:branch:id:1511
+  country: Sverige
+  latitude: 59.302475
+  longitude: 18.101103
+
+- location: Nordea Lidingö, Stockholmsvägen 33
+  city: Lidingö
+  urn: urn:nordea:branch:id:3271
+  country: Sverige
+  latitude: 59.364887
+  longitude: 18.126587
+
+- location: Nordea Haninge, Handenterminalen 3
+  city: Haninge
+  urn: urn:nordea:branch:id:3270
+  country: Sverige
+  latitude: 59.16827
+  longitude: 18.135923
+
+- location: Nordea Nacka, Romansvägen 12
+  city: Nacka
+  urn: urn:nordea:branch:id:3257
+  country: Sverige
+  latitude: 59.30908
+  longitude: 18.166145
+
+- location: Nordea Åkersberga, Storängstorget 1
+  city: Åkersberga
+  urn: urn:nordea:branch:id:3268
+  country: Sverige
+  latitude: 59.479427
+  longitude: 18.298529
+
+- location: Nordea Visby, Skolportsgatan 7
+  city: Visby
+  urn: urn:nordea:branch:id:3042
+  country: Sverige
+  latitude: 57.63658
+  longitude: 18.301514
+
+- location: Nordea Östhammar, Drottninggatan 9
+  city: Östhammar
+  urn: urn:nordea:branch:id:1813
+  country: Sverige
+  latitude: 60.258728
+  longitude: 18.374006
+
+- location: Nordea Falun, Stora Torget
+  city: Falun
+  urn: urn:nordea:branch:id:1824
+  country: Sverige
+  latitude: 60.128162
+  longitude: 18.643501
+
+- location: Nordea Olika Orter, Olika Orter
+  city: Olika Orter
+  urn: urn:nordea:branch:id:1109
+  country: Sverige
+  latitude: 60.128162
+  longitude: 18.643501
+
+- location: Nordea Lycksele, Storgatan 24
+  city: Lycksele
+  urn: urn:nordea:branch:id:1581
+  country: Sverige
+  latitude: 64.59421
+  longitude: 18.677908
+
+- location: Nordea Norrtälje, Stora Brogatan 3
+  city: Norrtälje
+  urn: urn:nordea:branch:id:1807
+  country: Sverige
+  latitude: 59.757965
+  longitude: 18.70268
+
+- location: Nordea Örnsköldsvik, Hamngatan 15 B
+  city: Örnsköldsvik
+  urn: urn:nordea:branch:id:3122
+  country: Sverige
+  latitude: 63.288734
+  longitude: 18.717205
+
+- location: Nordea Örnsköldsvik, Hamngatan 15
+  city: Örnsköldsvik
+  urn: urn:nordea:branch:id:1524
+  country: Sverige
+  latitude: 63.28869
+  longitude: 18.717218
+
+- location: Nordea Kiruna, Föreningsgatan 9
+  city: Kiruna
+  urn: urn:nordea:branch:id:3070
+  country: Sverige
+  latitude: 67.85461
+  longitude: 20.225492
+
+- location: Nordea Umeå, Rådhusesplanaden 3
+  city: Umeå
+  urn: urn:nordea:branch:id:1179
+  country: Sverige
+  latitude: 63.826504
+  longitude: 20.263142
+
+- location: Nordea Skellefteå, Nygatan 42
+  city: Skellefteå
+  urn: urn:nordea:branch:id:1176
+  country: Sverige
+  latitude: 64.75062
+  longitude: 20.951855
+
+- location: Nordea Piteå, Hamnplan 9
+  city: Piteå
+  urn: urn:nordea:branch:id:3077
+  country: Sverige
+  latitude: 65.315254
+  longitude: 21.47804
+
+- location: Nordea Luleå, Köpmangatan 38
+  city: Luleå
+  urn: urn:nordea:branch:id:1166
+  country: Sverige
+  latitude: 65.58361
+  longitude: 22.154362
