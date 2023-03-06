@@ -55,6 +55,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
+| [Biltema](https://sv.wikipedia.org/wiki/Biltema)                                         |         61 |
 | [Mekonomen](https://sv.wikipedia.org/wiki/Mekonomen)                                     |        501 |
 
 
@@ -184,6 +185,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
 | [Clas Ohlson](https://sv.wikipedia.org/wiki/Clas_Ohlson)                                 |         46 |
+| [Jula](https://sv.wikipedia.org/wiki/Jula_(f%C3%B6retag))                                |         65 |
 | [Rusta](https://sv.wikipedia.org/wiki/Rusta)                                             |        107 |
 
 
