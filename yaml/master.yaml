@@ -23,6 +23,7 @@ files:
 - layers/clas-ohlson.yaml
 - layers/coop.yaml
 - layers/cubus.yaml
+- layers/deichmann.yaml
 - layers/dollarstore.yaml
 - layers/doz-apotek.yaml
 - layers/dressmann.yaml
@@ -41,6 +42,7 @@ files:
 - layers/instabox.yaml
 - layers/jackandjones.yaml
 - layers/jysk.yaml
+- layers/järnvägsstationer.yaml
 - layers/kahls-the-och-kaffehandel.yaml
 - layers/kicks.yaml
 - layers/kreatima.yaml
@@ -61,10 +63,12 @@ files:
 - layers/polisen.yaml
 - layers/preem.yaml
 - layers/pressbyrån.yaml
+- layers/rituals.yaml
 - layers/rusta.yaml
 - layers/scandic.yaml
 - layers/seven-eleven.yaml
 - layers/skopunkten.yaml
+- layers/stadium.yaml
 - layers/swedbank.yaml
 - layers/systembolaget-butiker.yaml
 - layers/systembolaget-ombud.yaml

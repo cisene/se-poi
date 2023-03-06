@@ -197,6 +197,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | [Brothers](https://sv.wikipedia.org/wiki/Brothers_(f%C3%B6retag))                        |         43 |
 | [Carlings](https://sv.wikipedia.org/wiki/Carlings)                                       |        159 |
 | [Cubus](https://sv.wikipedia.org/wiki/Cubus)                                             |        279 |
+| [Deichmann](https://sv.wikipedia.org/wiki/Deichmann)                                     |         33 |
 | [Dressmann](https://sv.wikipedia.org/wiki/Dressmann)                                     |        179 |
 | [Gina Tricot](https://sv.wikipedia.org/wiki/Gina_Tricot)                                 |         77 |
 | [Hennes & Mauritz](https://sv.wikipedia.org/wiki/Hennes_%26_Mauritz)                     |        118 |
@@ -205,10 +206,20 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | [Kicks](https://sv.wikipedia.org/wiki/Kicks)                                             |        129 |
 | [Lindex](https://sv.wikipedia.org/wiki/Lindex)                                           |        439 |
 | [Polarn O. Pyret](https://sv.wikipedia.org/wiki/Polarn_O._Pyret)                         |         39 |
+| Rituals                                                                                  |         77 |
 | [Skopunkten](https://sv.wikipedia.org/wiki/Skopunkten)                                   |         46 |
 | [The Body Shop](https://sv.wikipedia.org/wiki/The_Body_Shop)                             |         55 |
 | [Volt Fashion](https://sv.wikipedia.org/wiki/Varner-Gruppen)                             |         41 |
 | [Åhléns](https://sv.wikipedia.org/wiki/%C3%85hl%C3%A9ns)                                 |         83 |
+
+
+
+
+## Kollektivtrafik
+
+| Namn                                                                                     | Positioner |
+| :--------------------------------------------------------------------------------------- | ---------: |
+| [Järnvägsstationer Sverige](https://sv.wikipedia.org/wiki/Kategori:J%C3%A4rnv%C3%A4gsstationer_i_Sverige) |        247 |
 
 
 
@@ -277,6 +288,15 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | [Burger King](https://sv.wikipedia.org/wiki/Burger_King)                                 |        122 |
 | [Max Hamburgerrestauranger](https://sv.wikipedia.org/wiki/Max_Hamburgerrestauranger)     |        113 |
 | [McDonald's](https://sv.wikipedia.org/wiki/McDonald%E2%80%99s)                           |        264 |
+
+
+
+
+## Sport och Fritid
+
+| Namn                                                                                     | Positioner |
+| :--------------------------------------------------------------------------------------- | ---------: |
+| [Stadium](https://sv.wikipedia.org/wiki/Stadium_(detaljhandelskedja))                    |         83 |
 
 
 
