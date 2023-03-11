@@ -103,8 +103,8 @@ locations:
 
 - location: Guldfynd
   city: Halmstad
-  latitude: 56.674688
-  longitude: 12.856562
+  latitude: 56.674813
+  longitude: 12.856188
 
 - location: Guldfynd Hallarna
   city: Halmstad
@@ -166,15 +166,15 @@ locations:
   latitude: 55.374562
   longitude: 13.158313
 
-- location: Guldfynd
-  city: Lund
-  latitude: 55.713563
-  longitude: 13.159562
-
 - location: Guldfynd Nova
   city: Lund
   latitude: 55.713563
   longitude: 13.159562
+
+- location: Guldfynd
+  city: Lund
+  latitude: 55.703312
+  longitude: 13.191688
 
 - location: Guldfynd Bergvik Köpcenter
   city: Karlstad
@@ -321,10 +321,10 @@ locations:
   latitude: 56.670437
   longitude: 16.336813
 
-- location: Guldfynd
+- location: Guldfynd Baronen
   city: Kalmar
-  latitude: 56.670437
-  longitude: 16.336813
+  latitude: 56.660812
+  longitude: 16.365187
 
 - location: Guldfynd
   city: Bollnäs
@@ -336,15 +336,15 @@ locations:
   latitude: 59.611187
   longitude: 16.457937
 
-- location: Guldfynd
-  city: Eskilstuna
-  latitude: 59.371313
-  longitude: 16.470062
-
 - location: Guldfynd Tunapark
   city: Eskilstuna
   latitude: 59.371313
   longitude: 16.470062
+
+- location: Guldfynd City
+  city: Eskilstuna
+  latitude: 59.371313
+  longitude: 16.511688
 
 - location: Guldfynd
   city: Sala
@@ -396,12 +396,12 @@ locations:
   latitude: 60.675438
   longitude: 17.141438
 
-- location: Guldfynd Birsta
+- location: Guldfynd City
   city: Sundsvall
-  latitude: 62.446813
-  longitude: 17.337313
+  latitude: 62.391437
+  longitude: 17.305937
 
-- location: Guldfynd
+- location: Guldfynd Birsta
   city: Sundsvall
   latitude: 62.446813
   longitude: 17.337313
