@@ -134,7 +134,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
-| [Preem](https://sv.wikipedia.org/wiki/Preem)                                             |        755 |
+| [Preem](https://sv.wikipedia.org/wiki/Preem)                                             |        750 |
 
 
 
@@ -217,7 +217,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | [Polarn O. Pyret](https://sv.wikipedia.org/wiki/Polarn_O._Pyret)                         |         39 |
 | Rituals                                                                                  |         77 |
 | [Skopunkten](https://sv.wikipedia.org/wiki/Skopunkten)                                   |         46 |
-| [The Body Shop](https://sv.wikipedia.org/wiki/The_Body_Shop)                             |         55 |
+| [The Body Shop](https://sv.wikipedia.org/wiki/The_Body_Shop)                             |         53 |
 | [Volt Fashion](https://sv.wikipedia.org/wiki/Varner-Gruppen)                             |         41 |
 | [Åhléns](https://sv.wikipedia.org/wiki/%C3%85hl%C3%A9ns)                                 |         83 |
 
@@ -276,6 +276,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
+| Budbee                                                                                   |        466 |
 | [Instabox](https://sv.wikipedia.org/wiki/Instabox)                                       |         48 |
 
 
