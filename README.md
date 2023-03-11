@@ -21,7 +21,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
 | [Systembolaget](https://sv.wikipedia.org/wiki/Systembolaget)                             |        448 |
-| [Systembolaget - Ombud](https://sv.wikipedia.org/wiki/Systembolaget)                     |        413 |
+| [Systembolaget - Ombud](https://sv.wikipedia.org/wiki/Systembolaget)                     |        409 |
 
 
 
@@ -47,7 +47,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | [Forex](https://sv.wikipedia.org/wiki/Forex_(f%C3%B6retag))                              |         83 |
 | [Handelsbanken](https://sv.wikipedia.org/wiki/Svenska_Handelsbanken)                     |        204 |
 | [Nordea](https://sv.wikipedia.org/wiki/Nordea)                                           |        118 |
-| [Swedbank](https://sv.wikipedia.org/wiki/Swedbank)                                       |        343 |
+| [Swedbank](https://sv.wikipedia.org/wiki/Swedbank)                                       |        340 |
 
 
 
@@ -208,6 +208,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | [Hennes & Mauritz](https://sv.wikipedia.org/wiki/Hennes_%26_Mauritz)                     |        118 |
 | [Indiska Magasinet](https://sv.wikipedia.org/wiki/Indiska_Magasinet)                     |         40 |
 | [Jack & Jones](https://sv.wikipedia.org/wiki/Jack_%26_Jones)                             |         54 |
+| [Kappahl](https://sv.wikipedia.org/wiki/Kappahl)                                         |        161 |
 | [Kicks](https://sv.wikipedia.org/wiki/Kicks)                                             |        129 |
 | [Lager 157 Danmark](https://sv.wikipedia.org/wiki/Lager_157)                             |          2 |
 | [Lager 157 Finland](https://sv.wikipedia.org/wiki/Lager_157)                             |          7 |
@@ -228,7 +229,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
-| [Järnvägsstationer Sverige](https://sv.wikipedia.org/wiki/Kategori:J%C3%A4rnv%C3%A4gsstationer_i_Sverige) |        247 |
+| [Järnvägsstationer Sverige](https://sv.wikipedia.org/wiki/Kategori:J%C3%A4rnv%C3%A4gsstationer_i_Sverige) |        245 |
 
 
 
@@ -257,7 +258,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
-| [Polisen](https://sv.wikipedia.org/wiki/Polisen_i_Sverige)                               |        391 |
+| [Polisen](https://sv.wikipedia.org/wiki/Polisen_i_Sverige)                               |        383 |
 
 
 
