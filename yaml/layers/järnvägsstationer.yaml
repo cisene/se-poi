@@ -3,7 +3,7 @@ meta:
   web: null
   wikipedia: https://sv.wikipedia.org/wiki/Kategori:J%C3%A4rnv%C3%A4gsstationer_i_Sverige
   category: Kollektivtrafik
-  locations: 247
+  locations: 245
 
 locations:
 - location: Skee Järnvägsstation
@@ -191,12 +191,6 @@ locations:
   country: Sverige
   latitude: 57.46744
   longitude: 12.59773
-
-- location: Assberg Järnvägsstation
-  city: Assberg
-  country: Sverige
-  latitude: 57.488251
-  longitude: 12.648677
 
 - location: Skene Järnvägsstation
   city: Skene
@@ -1387,12 +1381,6 @@ locations:
   longitude: 17.970965
 
 - location: Tungelsta Pendeltågsstation
-  city: Tungelsta
-  country: Sverige
-  latitude: 59.102606
-  longitude: 18.044539
-
-- location: Tungelsta Pendeltågstation
   city: Tungelsta
   country: Sverige
   latitude: 59.102606
