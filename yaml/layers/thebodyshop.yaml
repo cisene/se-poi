@@ -168,6 +168,12 @@ locations:
   latitude: 59.371562
   longitude: 16.468812
 
+- location: The Body Shop Wachmeister Kopcenter
+  urn: urn:thebodyshop:store:id:3839
+  city: Karlskrona
+  latitude: 56.651937
+  longitude: 16.469812
+
 - location: The Body Shop City
   urn: urn:thebodyshop:store:id:3789
   city: Eskilstuna
@@ -195,12 +201,6 @@ locations:
 - location: The Body Shop Forum
   urn: urn:thebodyshop:store:id:3830
   city: Uppsala
-  latitude: 59.858062
-  longitude: 17.640313
-
-- location: The Body Shop Wachmeister Kopcenter
-  urn: urn:thebodyshop:store:id:3839
-  city: Karlskrona
   latitude: 59.858062
   longitude: 17.640313
 
