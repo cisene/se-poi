@@ -3,7 +3,7 @@ meta:
   web: https://www.polisen.se/
   wikipedia: https://sv.wikipedia.org/wiki/Polisen_i_Sverige
   category: Myndigheter
-  locations: 391
+  locations: 383
 
 locations:
 - location: Polisen
@@ -23,11 +23,6 @@ locations:
 
 - location: Polisen
   city: Stenungsund
-  latitude: 58.067437
-  longitude: 11.816813
-
-- location: Polisen
-  city: Tjörn
   latitude: 58.067437
   longitude: 11.816813
 
@@ -77,19 +72,9 @@ locations:
   longitude: 11.972188
 
 - location: Polisen
-  city: Kungälv
-  latitude: 57.870562
-  longitude: 11.972188
-
-- location: Polisen
   city: Göteborg
   latitude: 57.709309
   longitude: 11.981221
-
-- location: Polisen
-  city: Göteborg
-  latitude: 57.705312
-  longitude: 11.982688
 
 - location: Polisen
   city: Göteborg
@@ -435,11 +420,6 @@ locations:
   city: Lidköping
   latitude: 58.502187
   longitude: 13.155062
-
-- location: Polisen
-  city: Svedala
-  latitude: 55.371813
-  longitude: 13.167188
 
 - location: Polisen
   city: Trelleborg
@@ -825,11 +805,6 @@ locations:
   city: Växjö
   latitude: 56.891063
   longitude: 14.797812
-
-- location: Polisen
-  city: Växjö
-  latitude: 56.878062
-  longitude: 14.798562
 
 - location: Polisen
   city: Växjö
@@ -1427,11 +1402,6 @@ locations:
   longitude: 17.61096
 
 - location: Polisen
-  city: Salem
-  latitude: 59.187687
-  longitude: 17.628188
-
-- location: Polisen
   city: Södertälje
   latitude: 59.187687
   longitude: 17.628188
@@ -1440,11 +1410,6 @@ locations:
   city: Södertälje
   latitude: 59.187801
   longitude: 17.628212
-
-- location: Polisen
-  city: Uppsala
-  latitude: 59.865562
-  longitude: 17.631312
 
 - location: Polisen
   city: Uppsala
@@ -1625,11 +1590,6 @@ locations:
   city: Solna
   latitude: 59.395248
   longitude: 17.986885
-
-- location: Polisen
-  city: Solna
-  latitude: 59.355312
-  longitude: 18.000937
 
 - location: Polisen
   city: Sundbyberg
