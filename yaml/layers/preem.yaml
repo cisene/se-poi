@@ -3,7 +3,7 @@ meta:
   web: https://www.preem.se/
   wikipedia: https://sv.wikipedia.org/wiki/Preem
   category: Drivmedel
-  locations: 755
+  locations: 750
 
 locations:
 - location: Preem Skjergardsvegen 745, Kolltveit
@@ -1019,36 +1019,6 @@ locations:
   city: Brumunddal
   latitude: 60.8868
   longitude: 10.9328
-
-- location: Preem Øvermølnveien 6
-  urn: urn:preem:station:id:78471
-  city: Rørvik
-  latitude: 64.916957
-  longitude: 10.939121
-
-- location: Preem Øvermølnveien 6
-  urn: urn:preem:station:id:78471
-  city: Rørvik
-  latitude: 64.916957
-  longitude: 10.939121
-
-- location: Preem Øvermølnveien 6
-  urn: urn:preem:station:id:78471
-  city: Rørvik
-  latitude: 64.916957
-  longitude: 10.939121
-
-- location: Preem Øvermølnveien 6
-  urn: urn:preem:station:id:78471
-  city: Rørvik
-  latitude: 64.916957
-  longitude: 10.939121
-
-- location: Preem Øvermølnveien 6
-  urn: urn:preem:station:id:78471
-  city: Rørvik
-  latitude: 64.916957
-  longitude: 10.939121
 
 - location: Preem Totenvegen 804
   urn: urn:preem:station:id:78481
