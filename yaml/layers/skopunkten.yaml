@@ -34,6 +34,13 @@ locations:
   latitude: 57.708641
   longitude: 11.969433
 
+- location: Skopunkten Göteborg Bäckebol
+  city: Hisings Backa
+  urn: urn:skopunkten:store:id:111
+  country: Sverige
+  latitude: 57.768937
+  longitude: 11.999813
+
 - location: Skopunkten Kållered
   city: Kållered
   urn: urn:skopunkten:store:id:92
@@ -41,19 +48,12 @@ locations:
   latitude: 57.601037
   longitude: 12.049115
 
-- location: Skopunkten Göteborg Bäckebol
-  city: Hisings Backa
-  urn: urn:skopunkten:store:id:111
-  country: Sverige
-  latitude: 57.7392
-  longitude: 12.1062
-
 - location: Skopunkten Partille Allum
   city: Partille
   urn: urn:skopunkten:store:id:105
   country: Sverige
-  latitude: 57.7392
-  longitude: 12.1062
+  latitude: 57.739187
+  longitude: 12.106188
 
 - location: Skopunkten Charlottenberg
   city: Charlottenberg
