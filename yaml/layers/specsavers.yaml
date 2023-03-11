@@ -1,0 +1,715 @@
+meta:
+  name: Specsavers
+  web: https://www.specsavers.se/
+  wikipedia: https://sv.wikipedia.org/wiki/Specsavers
+  category: Optiker
+  locations: 118
+
+locations:
+- location: Specsavers Uddevalla Torp
+  city: Uddevalla
+  country: Sverige
+  latitude: 58.353938
+  longitude: 11.809687
+
+- location: Specsavers Stenungsund
+  city: Stenungsund
+  country: Sverige
+  latitude: 58.068062
+  longitude: 11.817063
+
+- location: Specsavers Göteborg Frölunda Torg
+  city: Göteborg
+  country: Sverige
+  latitude: 57.652563
+  longitude: 11.911938
+
+- location: Specsavers Göteborg Backaplan
+  city: Göteborg
+  country: Sverige
+  latitude: 57.722188
+  longitude: 11.951438
+
+- location: Specsavers Göteborg Kungsgatan
+  city: Göteborg
+  country: Sverige
+  latitude: 57.704187
+  longitude: 11.964937
+
+- location: Specsavers Kungälv
+  city: Kungälv
+  country: Sverige
+  latitude: 57.873937
+  longitude: 11.967313
+
+- location: Specsavers Mölndal
+  city: Mölndal
+  country: Sverige
+  latitude: 57.655438
+  longitude: 12.015438
+
+- location: Specsavers Kungsbacka
+  city: Kungsbacka
+  country: Sverige
+  latitude: 57.492812
+  longitude: 12.074312
+
+- location: Specsavers Partille - Allum
+  city: Partille
+  country: Sverige
+  latitude: 57.739187
+  longitude: 12.105688
+
+- location: Specsavers Varberg
+  city: Varberg
+  country: Sverige
+  latitude: 57.105812
+  longitude: 12.249313
+
+- location: Specsavers Trollhättan Överby
+  city: Trollhättan
+  country: Sverige
+  latitude: 58.312438
+  longitude: 12.307562
+
+- location: Specsavers Falkenberg
+  city: Falkenberg
+  country: Sverige
+  latitude: 56.905687
+  longitude: 12.491688
+
+- location: Specsavers Alingsås
+  city: Alingsås
+  country: Sverige
+  latitude: 57.929938
+  longitude: 12.536437
+
+- location: Specsavers Arvika
+  city: Arvika
+  country: Sverige
+  latitude: 59.654438
+  longitude: 12.593063
+
+- location: Specsavers Helsingborg City
+  city: Helsingborg
+  country: Sverige
+  latitude: 56.046813
+  longitude: 12.694187
+
+- location: Specsavers Helsingborg Väla
+  city: Helsingborg
+  country: Sverige
+  latitude: 56.091938
+  longitude: 12.757062
+
+- location: Specsavers Landskrona
+  city: Landskrona
+  country: Sverige
+  latitude: 55.871188
+  longitude: 12.833063
+
+- location: Specsavers Halmstad
+  city: Halmstad
+  country: Sverige
+  latitude: 56.674563
+  longitude: 12.857062
+
+- location: Specsavers Ängelholm
+  city: Ängelholm
+  country: Sverige
+  latitude: 56.244937
+  longitude: 12.862687
+
+- location: Specsavers Borås
+  city: Borås
+  country: Sverige
+  latitude: 57.720312
+  longitude: 12.941813
+
+- location: Specsavers Malmö Emporia
+  city: Malmö
+  country: Sverige
+  latitude: 55.564437
+  longitude: 12.973562
+
+- location: Specsavers Malmö S. Förstadsgatan
+  city: Malmö
+  country: Sverige
+  latitude: 55.598562
+  longitude: 13.000937
+
+- location: Specsavers Malmö Baltzarsgatan
+  city: Malmö
+  country: Sverige
+  latitude: 55.604813
+  longitude: 13.002688
+
+- location: Specsavers Malmö Mobilia
+  city: Malmö
+  country: Sverige
+  latitude: 55.581187
+  longitude: 13.004563
+
+- location: Specsavers Malmö Jägersro
+  city: Malmö
+  country: Sverige
+  latitude: 55.570062
+  longitude: 13.058687
+
+- location: Specsavers Malmö Burlöv
+  city: Malmö
+  country: Sverige
+  latitude: 55.639813
+  longitude: 13.084312
+
+- location: Specsavers Trelleborg
+  city: Trelleborg
+  country: Sverige
+  latitude: 55.373687
+  longitude: 13.157187
+
+- location: Specsavers Lidköping
+  city: Lidköping
+  country: Sverige
+  latitude: 58.504562
+  longitude: 13.158188
+
+- location: Specsavers Lund
+  city: Lund
+  country: Sverige
+  latitude: 55.701437
+  longitude: 13.192937
+
+- location: Specsavers Eslöv
+  city: Eslöv
+  country: Sverige
+  latitude: 55.840312
+  longitude: 13.303438
+
+- location: Specsavers Bergvik
+  city: Karlstad
+  country: Sverige
+  latitude: 59.376937
+  longitude: 13.426188
+
+- location: Specsavers Karlstad
+  city: Karlstad
+  country: Sverige
+  latitude: 59.379062
+  longitude: 13.504563
+
+- location: Specsavers Falköping
+  city: Falköping
+  country: Sverige
+  latitude: 58.160937
+  longitude: 13.555063
+
+- location: Specsavers Hässleholm
+  city: Hässleholm
+  country: Sverige
+  latitude: 56.158437
+  longitude: 13.765812
+
+- location: Specsavers Ystad
+  city: Ystad
+  country: Sverige
+  latitude: 55.428187
+  longitude: 13.821438
+
+- location: Specsavers Skövde
+  city: Skövde
+  country: Sverige
+  latitude: 58.391312
+  longitude: 13.848437
+
+- location: Specsavers Värnamo
+  city: Värnamo
+  country: Sverige
+  latitude: 57.184062
+  longitude: 14.045312
+
+- location: Specsavers Kristianstad
+  city: Kristianstad
+  country: Sverige
+  latitude: 56.029688
+  longitude: 14.157312
+
+- location: Specsavers Jönköping City
+  city: Jönköping
+  country: Sverige
+  latitude: 57.782062
+  longitude: 14.172812
+
+- location: Specsavers Jönköping Asecs
+  city: Jönköping
+  country: Sverige
+  latitude: 57.773812
+  longitude: 14.203563
+
+- location: Specsavers Kristianstad C4
+  city: Kristianstad
+  country: Sverige
+  latitude: 56.025562
+  longitude: 14.206188
+
+- location: Specsavers Karlskoga
+  city: Karlskoga
+  country: Sverige
+  latitude: 59.326563
+  longitude: 14.524437
+
+- location: Specsavers Mora
+  city: Mora
+  country: Sverige
+  latitude: 61.003312
+  longitude: 14.536938
+
+- location: Specsavers Östersund
+  city: Östersund
+  country: Sverige
+  latitude: 63.175812
+  longitude: 14.637562
+
+- location: Specsavers Nässjö
+  city: Nässjö
+  country: Sverige
+  latitude: 57.653562
+  longitude: 14.694688
+
+- location: Specsavers Växjö Samarkand
+  city: Växjö Samarkand
+  country: Sverige
+  latitude: 56.884812
+  longitude: 14.766063
+
+- location: Specsavers Växjö
+  city: Växjö
+  country: Sverige
+  latitude: 56.879312
+  longitude: 14.803562
+
+- location: Specsavers Karlshamn
+  city: Karlshamn
+  country: Sverige
+  latitude: 56.171813
+  longitude: 14.860688
+
+- location: Specsavers Motala
+  city: Motala
+  country: Sverige
+  latitude: 58.537188
+  longitude: 15.036938
+
+- location: Specsavers Vetlanda
+  city: Vetlanda
+  country: Sverige
+  latitude: 57.426562
+  longitude: 15.085938
+
+- location: Specsavers Mjölby
+  city: Mjölby
+  country: Sverige
+  latitude: 58.325688
+  longitude: 15.125312
+
+- location: Specsavers Örebro Marieberg
+  city: Örebro
+  country: Sverige
+  latitude: 59.217188
+  longitude: 15.137688
+
+- location: Specsavers Örebro City
+  city: Örebro
+  country: Sverige
+  latitude: 59.271313
+  longitude: 15.211437
+
+- location: Specsavers Lindesberg
+  city: Lindesberg
+  country: Sverige
+  latitude: 59.593563
+  longitude: 15.227937
+
+- location: Specsavers Borlänge
+  city: Borlänge
+  country: Sverige
+  latitude: 60.484188
+  longitude: 15.418062
+
+- location: Specsavers Karlskrona
+  city: Karlskrona
+  country: Sverige
+  latitude: 56.161687
+  longitude: 15.583312
+
+- location: Specsavers Linköping Tornby
+  city: Linköping Tornby
+  country: Sverige
+  latitude: 58.432688
+  longitude: 15.585938
+
+- location: Specsavers Linköping City
+  city: Linköping
+  country: Sverige
+  latitude: 58.410312
+  longitude: 15.624437
+
+- location: Specsavers Falun
+  city: Falun
+  country: Sverige
+  latitude: 60.606063
+  longitude: 15.631813
+
+- location: Specsavers Köping
+  city: Köping
+  country: Sverige
+  latitude: 59.513562
+  longitude: 15.998062
+
+- location: Specsavers Norrköping Ingelsta
+  city: Norrköping
+  country: Sverige
+  latitude: 58.618437
+  longitude: 16.156562
+
+- location: Specsavers Avesta
+  city: Avesta
+  country: Sverige
+  latitude: 60.145937
+  longitude: 16.167938
+
+- location: Specsavers Norrköping City
+  city: Norrköping
+  country: Sverige
+  latitude: 58.587812
+  longitude: 16.190688
+
+- location: Specsavers Katrineholm
+  city: Katrineholm
+  country: Sverige
+  latitude: 58.996188
+  longitude: 16.204937
+
+- location: Specsavers Kalmar
+  city: Kalmar
+  country: Sverige
+  latitude: 56.670313
+  longitude: 16.339062
+
+- location: Specsavers Oskarshamn
+  city: Oskarshamn
+  country: Sverige
+  latitude: 57.265438
+  longitude: 16.445937
+
+- location: Specsavers Västerås - Erikslund
+  city: Västerås
+  country: Sverige
+  latitude: 59.609063
+  longitude: 16.454563
+
+- location: Specsavers Öland
+  city: Öland
+  country: Sverige
+  latitude: 56.651937
+  longitude: 16.469812
+
+- location: Specsavers Eskilstuna
+  city: Eskilstuna
+  country: Sverige
+  latitude: 59.372187
+  longitude: 16.509188
+
+- location: Specsavers Västerås
+  city: Västerås
+  country: Sverige
+  latitude: 59.610312
+  longitude: 16.548187
+
+- location: Specsavers Västervik
+  city: Västervik
+  country: Sverige
+  latitude: 57.758187
+  longitude: 16.635937
+
+- location: Specsavers Sandviken
+  city: Sandviken
+  country: Sverige
+  latitude: 60.620062
+  longitude: 16.775813
+
+- location: Specsavers Nyköping
+  city: Nyköping
+  country: Sverige
+  latitude: 58.752312
+  longitude: 17.005437
+
+- location: Specsavers Strängnäs
+  city: Strängnäs
+  country: Sverige
+  latitude: 59.376062
+  longitude: 17.027437
+
+- location: Specsavers Enköping
+  city: Enköping
+  country: Sverige
+  latitude: 59.635813
+  longitude: 17.078812
+
+- location: Specsavers Hudiksvall
+  city: Hudiksvall
+  country: Sverige
+  latitude: 61.728313
+  longitude: 17.104188
+
+- location: Specsavers Gävle
+  city: Gävle
+  country: Sverige
+  latitude: 60.674688
+  longitude: 17.143437
+
+- location: Specsavers Sundsvall City
+  city: Sundsvall
+  country: Sverige
+  latitude: 62.391437
+  longitude: 17.304313
+
+- location: Specsavers Sundsvall Birsta
+  city: Sundsvall
+  country: Sverige
+  latitude: 62.447187
+  longitude: 17.336062
+
+- location: Specsavers Södertälje
+  city: Södertälje
+  country: Sverige
+  latitude: 59.195563
+  longitude: 17.627313
+
+- location: Specsavers Uppsala - Dragarbrunnsgatan
+  city: Uppsala
+  country: Sverige
+  latitude: 59.859313
+  longitude: 17.639812
+
+- location: Specsavers Uppsala Gränby Centrum
+  city: Uppsala
+  country: Sverige
+  latitude: 59.877312
+  longitude: 17.674062
+
+- location: Specsavers Tumba Centrum
+  city: Stockholm
+  country: Sverige
+  latitude: 59.198687
+  longitude: 17.833312
+
+- location: Specsavers Jakobsbergs Centrum
+  city: Stockholm
+  country: Sverige
+  latitude: 59.423562
+  longitude: 17.836937
+
+- location: Specsavers Vällingby Centrum
+  city: Stockholm
+  country: Sverige
+  latitude: 59.363437
+  longitude: 17.874812
+
+- location: Specsavers Skärholmen
+  city: Stockholm
+  country: Sverige
+  latitude: 59.274687
+  longitude: 17.907938
+
+- location: Specsavers Upplands Väsby
+  city: Upplands Väsby
+  country: Sverige
+  latitude: 59.518438
+  longitude: 17.912062
+
+- location: Specsavers Härnösand
+  city: Härnösand
+  country: Sverige
+  latitude: 62.633187
+  longitude: 17.938187
+
+- location: Specsavers Kista
+  city: Stockholm
+  country: Sverige
+  latitude: 59.402313
+  longitude: 17.945188
+
+- location: Specsavers Nynäshamn
+  city: Nynäshamn
+  country: Sverige
+  latitude: 58.903688
+  longitude: 17.947688
+
+- location: Specsavers Sollentuna
+  city: Stockholm
+  country: Sverige
+  latitude: 59.428812
+  longitude: 17.951188
+
+- location: Specsavers Huddinge
+  city: Stockholm
+  country: Sverige
+  latitude: 59.236562
+  longitude: 17.980812
+
+- location: Specsavers Solna Centrum
+  city: Stockholm
+  country: Sverige
+  latitude: 59.358812
+  longitude: 18.000312
+
+- location: Specsavers Mall of Scandinavia
+  city: Stockholm
+  country: Sverige
+  latitude: 59.370687
+  longitude: 18.003312
+
+- location: Specsavers Liljeholmen
+  city: Stockholm
+  country: Sverige
+  latitude: 59.309687
+  longitude: 18.021937
+
+- location: Specsavers Kungsholmen
+  city: Stockholm
+  country: Sverige
+  latitude: 59.334563
+  longitude: 18.033687
+
+- location: Specsavers Hornsgatan
+  city: Stockholm
+  country: Sverige
+  latitude: 59.317937
+  longitude: 18.053562
+
+- location: Specsavers Kungsgatan
+  city: Stockholm
+  country: Sverige
+  latitude: 59.334187
+  longitude: 18.057688
+
+- location: Specsavers Sveavägen
+  city: Stockholm
+  country: Sverige
+  latitude: 59.339813
+  longitude: 18.059188
+
+- location: Specsavers Täby
+  city: Täby
+  country: Sverige
+  latitude: 59.445062
+  longitude: 18.071438
+
+- location: Specsavers Götgatan
+  city: Stockholm
+  country: Sverige
+  latitude: 59.311813
+  longitude: 18.074937
+
+- location: Specsavers Vallentuna
+  city: Vallentuna
+  country: Sverige
+  latitude: 59.533812
+  longitude: 18.078812
+
+- location: Specsavers Globen
+  city: Stockholm
+  country: Sverige
+  latitude: 59.293188
+  longitude: 18.080937
+
+- location: Specsavers Karlaplan
+  city: Stockholm
+  country: Sverige
+  latitude: 59.338313
+  longitude: 18.089062
+
+- location: Specsavers Farsta
+  city: Stockholm
+  country: Sverige
+  latitude: 59.242937
+  longitude: 18.091437
+
+- location: Specsavers Sickla
+  city: Stockholm
+  country: Sverige
+  latitude: 59.306188
+  longitude: 18.126812
+
+- location: Specsavers Haninge
+  city: Stockholm
+  country: Sverige
+  latitude: 59.169438
+  longitude: 18.140062
+
+- location: Specsavers Tyresö Centrum
+  city: Stockholm
+  country: Sverige
+  latitude: 59.244937
+  longitude: 18.229188
+
+- location: Specsavers Åkersberga
+  city: Åkersberga
+  country: Sverige
+  latitude: 59.479687
+  longitude: 18.298437
+
+- location: Specsavers Visby
+  city: Visby
+  country: Sverige
+  latitude: 57.637313
+  longitude: 18.300438
+
+- location: Specsavers Norrtälje
+  city: Norrtälje
+  country: Sverige
+  latitude: 59.756937
+  longitude: 18.699813
+
+- location: Specsavers Örnsköldsvik
+  city: Örnsköldsvik
+  country: Sverige
+  latitude: 63.291187
+  longitude: 18.715438
+
+- location: Specsavers Umeå Avion Shopping
+  city: Umeå
+  country: Sverige
+  latitude: 63.807437
+  longitude: 20.255313
+
+- location: Specsavers Umeå City
+  city: Umeå
+  country: Sverige
+  latitude: 63.826687
+  longitude: 20.255812
+
+- location: Specsavers Skellefteå
+  city: Skellefteå
+  country: Sverige
+  latitude: 64.750937
+  longitude: 20.949813
+
+- location: Specsavers Piteå
+  city: Piteå
+  country: Sverige
+  latitude: 65.317562
+  longitude: 21.475437
+
+- location: Specsavers Boden
+  city: Boden
+  country: Sverige
+  latitude: 65.823813
+  longitude: 21.685187
+
+- location: Specsavers Luleå
+  city: Luleå
+  country: Sverige
+  latitude: 65.583938
+  longitude: 22.151063
