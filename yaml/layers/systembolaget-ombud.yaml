@@ -3,7 +3,7 @@ meta:
   web: https://www.systembolaget.se/
   wikipedia: https://sv.wikipedia.org/wiki/Systembolaget
   category: Alkoholmonopol
-  locations: 413
+  locations: 409
 
 locations:
 - location: Systembolaget Ombud, Nordkosters Livs
@@ -466,11 +466,6 @@ locations:
   latitude: 55.58368
   longitude: 13.60311
 
-- location: Systembolaget Ombud, Hinneryd Lanthandel
-  city: Hinneryd
-  latitude: 56.61821
-  longitude: 13.60852
-
 - location: Systembolaget Ombud, Hinneryd Livs
   city: Hinneryd
   latitude: 56.61821
@@ -671,11 +666,6 @@ locations:
   latitude: 56.66496
   longitude: 14.27393
 
-- location: Systembolaget Ombud, Lönsboda Färg
-  city: Lönsboda
-  latitude: 56.39759
-  longitude: 14.32057
-
 - location: Systembolaget Ombud, Lönsboda Färg o Papper
   city: Lönsboda
   latitude: 56.39759
@@ -866,12 +856,7 @@ locations:
   latitude: 56.22842
   longitude: 15.11779
 
-- location: Systembolaget Ombud, BLÅSJÖN ICA Blåsjöfjäll
-  city: Stora
-  latitude: 59.71331
-  longitude: 15.1305
-
-- location: Systembolaget Ombud, SUNDBY ICA Rutan
+- location: Systembolaget Ombud, Blåsjön ICA Blåsjöfjäll
   city: Stora
   latitude: 59.71331
   longitude: 15.1305
@@ -1617,11 +1602,6 @@ locations:
   longitude: 17.74229
 
 - location: Systembolaget Ombud, Deremars Livs
-  city: Skärplinge
-  latitude: 60.47267
-  longitude: 17.75992
-
-- location: Systembolaget Ombud, Deremars Livs AB
   city: Skärplinge
   latitude: 60.47267
   longitude: 17.75992
