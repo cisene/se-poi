@@ -3,7 +3,7 @@ meta:
   web: https://www.swedbank.se/
   wikipedia: https://sv.wikipedia.org/wiki/Swedbank
   category: Bank och Valuta
-  locations: 343
+  locations: 340
 
 locations:
 - location: Swedbank AB (publ)
@@ -1482,18 +1482,6 @@ locations:
   latitude: 59.369539
   longitude: 16.516461
 
-- location: Sparbanken Rekarne AB
-  city: Eskilstuna
-  country: Sverige
-  latitude: 59.369539
-  longitude: 16.516461
-
-- location: Sparbanken Rekarne AB
-  city: Eskilstuna
-  country: Sverige
-  latitude: 59.369438
-  longitude: 16.516562
-
 - location: Swedbank AB (publ)
   city: Västerås
   country: Sverige
@@ -1823,12 +1811,6 @@ locations:
   country: Sverige
   latitude: 59.307846
   longitude: 18.075285
-
-- location: Swedbank AB (publ)
-  city: Stockholm
-  country: Sverige
-  latitude: 59.336451
-  longitude: 18.079231
 
 - location: Swedbank AB (publ)
   city: Stockholm
