@@ -16,6 +16,7 @@ files:
 - layers/biltema.yaml
 - layers/bolist.yaml
 - layers/brothers.yaml
+- layers/budbee.yaml
 - layers/burgerking.yaml
 - layers/byggmax.yaml
 - layers/carlings.yaml
@@ -35,6 +36,7 @@ files:
 - layers/ginatricot.yaml
 - layers/granngården.yaml
 - layers/guldfynd.yaml
+- layers/handelsbanken.yaml
 - layers/hemköp.yaml
 - layers/hemtex.yaml
 - layers/hm.yaml
@@ -49,6 +51,11 @@ files:
 - layers/kicks.yaml
 - layers/kreatima.yaml
 - layers/kronans-apotek.yaml
+- layers/lager157-dk.yaml
+- layers/lager157-fi.yaml
+- layers/lager157-no.yaml
+- layers/lager157-se.yaml
+- layers/lagerhaus.yaml
 - layers/lidl.yaml
 - layers/lindex.yaml
 - layers/max.yaml
@@ -70,10 +77,13 @@ files:
 - layers/scandic.yaml
 - layers/seven-eleven.yaml
 - layers/skopunkten.yaml
+- layers/smarteyes.yaml
+- layers/specsavers.yaml
 - layers/stadium.yaml
 - layers/swedbank.yaml
 - layers/systembolaget-butiker.yaml
 - layers/systembolaget-ombud.yaml
+- layers/teknikmagasinet.yaml
 - layers/tempo.yaml
 - layers/thebodyshop.yaml
 - layers/volt-fashion.yaml

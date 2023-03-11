@@ -45,6 +45,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | :--------------------------------------------------------------------------------------- | ---------: |
 | [Bankomat](https://sv.wikipedia.org/wiki/Bankomat)                                       |       1401 |
 | [Forex](https://sv.wikipedia.org/wiki/Forex_(f%C3%B6retag))                              |         83 |
+| [Handelsbanken](https://sv.wikipedia.org/wiki/Svenska_Handelsbanken)                     |        204 |
 | [Nordea](https://sv.wikipedia.org/wiki/Nordea)                                           |        118 |
 | [Swedbank](https://sv.wikipedia.org/wiki/Swedbank)                                       |        343 |
 
@@ -154,6 +155,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | :--------------------------------------------------------------------------------------- | ---------: |
 | [Elgiganten](https://sv.wikipedia.org/wiki/Elgiganten)                                   |        176 |
 | [MediaMarkt](https://sv.wikipedia.org/wiki/Media_Markt)                                  |         29 |
+| [Teknikmagasinet](https://sv.wikipedia.org/wiki/Teknikmagasinet)                         |         35 |
 
 
 
@@ -164,6 +166,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | :--------------------------------------------------------------------------------------- | ---------: |
 | [Hemtex](https://sv.wikipedia.org/wiki/Hemtex)                                           |        115 |
 | [JYSK](https://sv.wikipedia.org/wiki/Jysk)                                               |        156 |
+| [Lagerhaus](https://sv.wikipedia.org/wiki/Lagerhaus)                                     |         54 |
 | [Mio](https://sv.wikipedia.org/wiki/Mio_(butikskedja))                                   |         75 |
 
 
@@ -206,6 +209,10 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | [Indiska Magasinet](https://sv.wikipedia.org/wiki/Indiska_Magasinet)                     |         40 |
 | [Jack & Jones](https://sv.wikipedia.org/wiki/Jack_%26_Jones)                             |         54 |
 | [Kicks](https://sv.wikipedia.org/wiki/Kicks)                                             |        129 |
+| [Lager 157 Danmark](https://sv.wikipedia.org/wiki/Lager_157)                             |          2 |
+| [Lager 157 Finland](https://sv.wikipedia.org/wiki/Lager_157)                             |          7 |
+| [Lager 157 Norge](https://sv.wikipedia.org/wiki/Lager_157)                               |          5 |
+| [Lager 157 Sverige](https://sv.wikipedia.org/wiki/Lager_157)                             |         51 |
 | [Lindex](https://sv.wikipedia.org/wiki/Lindex)                                           |        439 |
 | [Polarn O. Pyret](https://sv.wikipedia.org/wiki/Polarn_O._Pyret)                         |         39 |
 | Rituals                                                                                  |         77 |
@@ -251,6 +258,16 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
 | [Polisen](https://sv.wikipedia.org/wiki/Polisen_i_Sverige)                               |        391 |
+
+
+
+
+## Optiker
+
+| Namn                                                                                     | Positioner |
+| :--------------------------------------------------------------------------------------- | ---------: |
+| Smarteyes                                                                                |         19 |
+| [Specsavers](https://sv.wikipedia.org/wiki/Specsavers)                                   |        118 |
 
 
 
