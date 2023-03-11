@@ -3,7 +3,7 @@ meta:
   web: https://www.thebodyshop.com/
   wikipedia: https://sv.wikipedia.org/wiki/The_Body_Shop
   category: Kläder och konfektion
-  locations: 55
+  locations: 53
 
 locations:
 - location: The Body Shop Torp Köpcentrum
@@ -186,12 +186,6 @@ locations:
   latitude: 62.391937
   longitude: 17.304437
 
-- location: The Body Shop Sundsvall Birsta
-  urn: urn:thebodyshop:store:id:3825
-  city: Sundsvall
-  latitude: 62.446637
-  longitude: 17.335891
-
 - location: The Body Shop Birsta City
   urn: urn:thebodyshop:store:id:3824
   city: Sundsvall
@@ -209,12 +203,6 @@ locations:
   city: Karlskrona
   latitude: 59.858062
   longitude: 17.640313
-
-- location: The Body Shop Forumkvarteret
-  urn: urn:thebodyshop:store:id:3830
-  city: Uppsala
-  latitude: 59.858156
-  longitude: 17.641818
 
 - location: The Body Shop Uppsala Gränby Centrum
   urn: urn:thebodyshop:store:id:3844
