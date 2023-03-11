@@ -276,7 +276,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
-| Budbee                                                                                   |        466 |
+| Budbee                                                                                   |        553 |
 | [Instabox](https://sv.wikipedia.org/wiki/Instabox)                                       |         48 |
 
 

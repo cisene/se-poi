@@ -3,7 +3,7 @@ meta:
   web: https://budbee.com/
   wikipedia: null
   category: Paketskåp
-  locations: 466
+  locations: 553
 
 locations:
 - location: Budbee - Rotviksbro Rotan
@@ -1154,12 +1154,33 @@ locations:
   latitude: 55.999483
   longitude: 13.088474
 
+- location: Budbee - Grums ICA Supermarket Orrby
+  city: Grums
+  urn: urn:budbee:locker:id:1225
+  country: SE
+  latitude: 59.346794
+  longitude: 13.101121
+
 - location: Budbee - Kävlinge ICA Supermarket
   city: Kävlinge
   urn: urn:budbee:locker:id:0126
   country: Sverige
   latitude: 55.789379
   longitude: 13.104331
+
+- location: Budbee - Grums ICA Supermarket Klingan
+  city: Grums
+  urn: urn:budbee:locker:id:1198
+  country: SE
+  latitude: 59.352674
+  longitude: 13.111556
+
+- location: Budbee - Grums Sveagatan OKQ8
+  city: Karlstad
+  urn: urn:budbee:locker:id:1954
+  country: SE
+  latitude: 59.35821
+  longitude: 13.113488
 
 - location: Budbee - Kävlinge Coop Stationsstaden
   city: Kävlinge
@@ -1469,6 +1490,55 @@ locations:
   latitude: 55.600273
   longitude: 13.402194
 
+- location: Budbee - Karlstad Gräsdalen Go Banana & Lekextra
+  city: Karlstad
+  urn: urn:budbee:locker:id:1835
+  country: SE
+  latitude: 59.375687
+  longitude: 13.438781
+
+- location: Budbee - Skåre ICA Supermarket
+  city: Karlstad
+  urn: urn:budbee:locker:id:2362
+  country: SE
+  latitude: 59.434762
+  longitude: 13.439994
+
+- location: Budbee - Karlstad Våxnäs ICA Nära Kärnan
+  city: Karlstad
+  urn: urn:budbee:locker:id:1825
+  country: SE
+  latitude: 59.384992
+  longitude: 13.464121
+
+- location: Budbee - Skoghall Centrum Bingoringen
+  city: Skoghall
+  urn: urn:budbee:locker:id:1163
+  country: SE
+  latitude: 59.323714
+  longitude: 13.466587
+
+- location: Budbee - Deje ICA Nära
+  city: Deje
+  urn: urn:budbee:locker:id:1190
+  country: SE
+  latitude: 59.604222
+  longitude: 13.466991
+
+- location: Budbee - Forshaga Storgatan OKQ8
+  city: Forshaga
+  urn: urn:budbee:locker:id:1836
+  country: SE
+  latitude: 59.52713
+  longitude: 13.47291
+
+- location: Budbee - Forshaga ICA Supermarket
+  city: Forshaga
+  urn: urn:budbee:locker:id:1167
+  country: SE
+  latitude: 59.532665
+  longitude: 13.480659
+
 - location: Budbee - Skurup Korrehus Fastighets AB
   city: Skurup
   urn: urn:budbee:locker:id:2925
@@ -1476,12 +1546,124 @@ locations:
   latitude: 55.491772
   longitude: 13.485187
 
+- location: Budbee - Karlstad Klara ICA Supermarket Fanfaren
+  city: Karlstad
+  urn: urn:budbee:locker:id:1334
+  country: SE
+  latitude: 59.38334
+  longitude: 13.486423
+
+- location: Budbee - Karlstad Klara Jourlivs
+  city: Karlstad
+  urn: urn:budbee:locker:id:3057
+  country: SE
+  latitude: 59.38418
+  longitude: 13.49509
+
+- location: Budbee - Karlstad Drottninggatan Go Banana
+  city: Karlstad
+  urn: urn:budbee:locker:id:2019
+  country: SE
+  latitude: 59.379262
+  longitude: 13.4955
+
+- location: Budbee - Karlstad Hemköp
+  city: Karlstad
+  urn: urn:budbee:locker:id:1887
+  country: SE
+  latitude: 59.379293
+  longitude: 13.49815
+
+- location: Budbee - Karlstad Orrholmen Matservice
+  city: Karlstad
+  urn: urn:budbee:locker:id:2123
+  country: SE
+  latitude: 59.368856
+  longitude: 13.49874
+
+- location: Budbee - Karlstad Åhléns
+  city: Karlstad
+  urn: urn:budbee:locker:id:3418
+  country: SE
+  latitude: 59.379194
+  longitude: 13.499091
+
+- location: Budbee - Karlstad Drottninggatan Mitt i city
+  city: Karlstad
+  urn: urn:budbee:locker:id:1333
+  country: SE
+  latitude: 59.379965
+  longitude: 13.500576
+
+- location: Budbee - H&M Drottninggatan Karlstad
+  city: Karlstad
+  urn: urn:budbee:locker:id:2237
+  country: SE
+  latitude: 59.379338
+  longitude: 13.502794
+
+- location: Budbee - Pressbyrån Kungsgatan Karlstad
+  city: Karlstad
+  urn: urn:budbee:locker:id:4441
+  country: SE
+  latitude: 59.381086
+  longitude: 13.503605
+
+- location: Budbee - Karlstad Bryggudden Willys
+  city: Karlstad
+  urn: urn:budbee:locker:id:1832
+  country: SE
+  latitude: 59.377561
+  longitude: 13.508914
+
 - location: Budbee - Löberöd ICA Nära
   city: Löberöd
   urn: urn:budbee:locker:id:0327
   country: Sverige
   latitude: 55.775624
   longitude: 13.513583
+
+- location: Budbee - Karlstad Haga café & spel
+  city: Karlstad
+  urn: urn:budbee:locker:id:1184
+  country: SE
+  latitude: 59.382295
+  longitude: 13.514518
+
+- location: Budbee - Karlstad Tegnérsgatan Butiken i Hörnet
+  city: Karlstad
+  urn: urn:budbee:locker:id:2363
+  country: SE
+  latitude: 59.374477
+  longitude: 13.514954
+
+- location: Budbee - Karlstad Direkten Nöje Casablanca
+  city: Karlstad
+  urn: urn:budbee:locker:id:1165
+  country: SE
+  latitude: 59.393778
+  longitude: 13.516968
+
+- location: Budbee - Karlstad Dan's Närbutik
+  city: Karlstad
+  urn: urn:budbee:locker:id:1164
+  country: SE
+  latitude: 59.379113
+  longitude: 13.518167
+
+- location: Budbee - Karlstad Tormestad Kandyz
+  city: Karlstad
+  urn: urn:budbee:locker:id:4540
+  country: SE
+  latitude: 59.382727
+  longitude: 13.526595
+
+- location: Budbee - Karlstad Höjdgatan OKQ8
+  city: Karlstad
+  urn: urn:budbee:locker:id:1829
+  country: SE
+  latitude: 59.401567
+  longitude: 13.533811
 
 - location: Budbee - Höör Coop
   city: Höör
@@ -1602,6 +1784,13 @@ locations:
   latitude: 55.431064
   longitude: 13.830842
 
+- location: Budbee - Väse Rasta
+  city: Karlstad
+  urn: urn:budbee:locker:id:1168
+  country: SE
+  latitude: 59.39165
+  longitude: 13.85256
+
 - location: Budbee - Nybrostrand Hildas Livs & Grill Nära dej
   city: Nybrostrand
   urn: urn:budbee:locker:id:1497
@@ -1636,6 +1825,27 @@ locations:
   country: Sverige
   latitude: 56.385302
   longitude: 14.001816
+
+- location: Budbee - Filipstad OKQ8
+  city: Filipstad
+  urn: urn:budbee:locker:id:1977
+  country: SE
+  latitude: 59.713488
+  longitude: 14.154238
+
+- location: Budbee - Filipstad ICA Kvantum
+  city: Filipstad
+  urn: urn:budbee:locker:id:3367
+  country: SE
+  latitude: 59.712997
+  longitude: 14.156694
+
+- location: Budbee - Storfors ICA Nära
+  city: Storfors
+  urn: urn:budbee:locker:id:1187
+  country: SE
+  latitude: 59.536692
+  longitude: 14.28013
 
 - location: Budbee - Laxå ICA Supermarket
   city: Laxå
@@ -1686,12 +1896,33 @@ locations:
   latitude: 58.884777
   longitude: 14.906826
 
+- location: Budbee - Grangärde ICA Nära
+  city: Grangärde
+  urn: urn:budbee:locker:id:2001
+  country: SE
+  latitude: 60.262408
+  longitude: 14.97793
+
+- location: Budbee - Kopparberg ICA Supermarket Kopparhallen
+  city: Kopparberg
+  urn: urn:budbee:locker:id:1317
+  country: SE
+  latitude: 59.87543
+  longitude: 14.997005
+
 - location: Budbee - Motala Östenssons Väster
   city: Motala
   urn: urn:budbee:locker:id:0503
   country: Sverige
   latitude: 58.535423
   longitude: 15.003329
+
+- location: Budbee - Grängesberg Coop
+  city: Grängesberg
+  urn: urn:budbee:locker:id:1618
+  country: SE
+  latitude: 60.075623
+  longitude: 15.007041
 
 - location: Budbee - Motala OKQ8
   city: Motala
@@ -1784,6 +2015,13 @@ locations:
   latitude: 59.126702
   longitude: 15.136823
 
+- location: Budbee - Djurås ICA Supermarket
+  city: Gagnef
+  urn: urn:budbee:locker:id:1783
+  country: SE
+  latitude: 60.560155
+  longitude: 15.136977
+
 - location: Budbee - Kumla ICA Maxi
   city: Kumla
   urn: urn:budbee:locker:id:0321
@@ -1805,6 +2043,13 @@ locations:
   latitude: 59.114617
   longitude: 15.154341
 
+- location: Budbee - Ludvika Stora Coop
+  city: Ludvika
+  urn: urn:budbee:locker:id:1617
+  country: SE
+  latitude: 60.135823
+  longitude: 15.15614
+
 - location: Budbee - Örebro Haga Centrum
   city: Örebro
   urn: urn:budbee:locker:id:0396
@@ -1818,6 +2063,13 @@ locations:
   country: Sverige
   latitude: 59.247086
   longitude: 15.166655
+
+- location: Budbee - Ludvika OKQ8 Snöåvägen
+  city: Ludvika
+  urn: urn:budbee:locker:id:4371
+  country: SE
+  latitude: 60.130751
+  longitude: 15.177956
 
 - location: Budbee - Ladugårdsängen Coop
   city: Örebro
@@ -1861,12 +2113,89 @@ locations:
   latitude: 58.372234
   longitude: 15.295241
 
+- location: Budbee - Tjärna C Orienta
+  city: Borlänge
+  urn: urn:budbee:locker:id:0423
+  country: SE
+  latitude: 60.494736
+  longitude: 15.39948
+
+- location: Budbee - Smedjebacken OKQ8
+  city: Smedjebacken
+  urn: urn:budbee:locker:id:4081
+  country: SE
+  latitude: 60.134964
+  longitude: 15.403349
+
+- location: Budbee - Borlänge Direkten FIlm och Fabel
+  city: Borlänge
+  urn: urn:budbee:locker:id:0562
+  country: SE
+  latitude: 60.48348
+  longitude: 15.404809
+
+- location: Budbee - Kupolen ICA Supermarket
+  city: Borlänge
+  urn: urn:budbee:locker:id:0422
+  country: SE
+  latitude: 60.484187
+  longitude: 15.417202
+
+- location: Budbee - Borlänge Kupolen Willys
+  city: Borlänge
+  urn: urn:budbee:locker:id:2388
+  country: SE
+  latitude: 60.484525
+  longitude: 15.418167
+
+- location: Budbee - Borlänge Stora Coop Norra Backa
+  city: Borlänge
+  urn: urn:budbee:locker:id:1818
+  country: SE
+  latitude: 60.478028
+  longitude: 15.418288
+
+- location: Budbee - Borlänge Hagalund Livs
+  city: Borlänge
+  urn: urn:budbee:locker:id:0441
+  country: SE
+  latitude: 60.489123
+  longitude: 15.423433
+
 - location: Budbee - Vikingstad OKQ8
   city: Vikingstad
   urn: urn:budbee:locker:id:4085
   country: Sverige
   latitude: 58.376719
   longitude: 15.426735
+
+- location: Budbee - Borlänge C Lilian Livs
+  city: Borlänge
+  urn: urn:budbee:locker:id:2885
+  country: SE
+  latitude: 60.484442
+  longitude: 15.431235
+
+- location: Budbee - Borlänge OKQ8 Bygatan
+  city: Borlänge
+  urn: urn:budbee:locker:id:4410
+  country: SE
+  latitude: 60.478519
+  longitude: 15.437511
+
+- location: Budbee - Södra Backa Hemköp
+  city: Borlänge
+  urn: urn:budbee:locker:id:2313
+  country: SE
+  latitude: 60.471372
+  longitude: 15.440923
+
+- location: Budbee - Borlänge ICA Maxi Stormarknad
+  city: Borlänge
+  urn: urn:budbee:locker:id:2122
+  country: SE
+  latitude: 60.483009
+  longitude: 15.448182
 
 - location: Budbee - Ljungsbro Preem
   city: Ljungsbro
@@ -1910,6 +2239,13 @@ locations:
   latitude: 58.434288
   longitude: 15.585984
 
+- location: Budbee - Gustafs ICA Nära
+  city: Gustafs
+  urn: urn:budbee:locker:id:0420
+  country: SE
+  latitude: 60.413266
+  longitude: 15.591647
+
 - location: Budbee - Linköping ICA Maxi
   city: Linköping
   urn: urn:budbee:locker:id:0260
@@ -1923,6 +2259,13 @@ locations:
   country: Sverige
   latitude: 58.416197
   longitude: 15.599831
+
+- location: Budbee - Falun City Gross
+  city: Falun
+  urn: urn:budbee:locker:id:0895
+  country: SE
+  latitude: 60.57697
+  longitude: 15.608538
 
 - location: Budbee - Linköping Vasastaden Hemköp Priso
   city: Linköping
@@ -1973,6 +2316,13 @@ locations:
   latitude: 58.408997
   longitude: 15.625711
 
+- location: Budbee - Falun Gruvgatan OKQ8
+  city: Falun
+  urn: urn:budbee:locker:id:1996
+  country: SE
+  latitude: 60.603194
+  longitude: 15.626147
+
 - location: Budbee - Åhléns Linköping
   city: Linköping
   urn: urn:budbee:locker:id:0277
@@ -1993,6 +2343,20 @@ locations:
   country: Sverige
   latitude: 58.411525
   longitude: 15.628296
+
+- location: Budbee - H&M Falun
+  city: Falun
+  urn: urn:budbee:locker:id:1982
+  country: SE
+  latitude: 60.605439
+  longitude: 15.631368
+
+- location: Budbee - Falun Åhléns
+  city: Falun
+  urn: urn:budbee:locker:id:3411
+  country: SE
+  latitude: 60.605192
+  longitude: 15.633455
 
 - location: Budbee - Linköping Hejde Livs
   city: Linköping
@@ -2022,6 +2386,20 @@ locations:
   latitude: 58.399807
   longitude: 15.65336
 
+- location: Budbee - Falun ICA Maxi Stormarknad
+  city: Falun
+  urn: urn:budbee:locker:id:2992
+  country: SE
+  latitude: 60.607229
+  longitude: 15.658471
+
+- location: Budbee - Falun Granngården
+  city: Falun
+  urn: urn:budbee:locker:id:0899
+  country: SE
+  latitude: 60.606028
+  longitude: 15.663139
+
 - location: Budbee - Ekholmens Centrum Willys
   city: Linköping
   urn: urn:budbee:locker:id:2423
@@ -2036,12 +2414,26 @@ locations:
   latitude: 58.378125
   longitude: 15.682968
 
+- location: Budbee - Falun OKQ8 Tryckerivägen
+  city: Falun
+  urn: urn:budbee:locker:id:1111
+  country: SE
+  latitude: 60.595105
+  longitude: 15.692526
+
 - location: Budbee - Linköping Östenssons Ullstämma
   city: Linköping
   urn: urn:budbee:locker:id:0872
   country: Sverige
   latitude: 58.367022
   longitude: 15.69329
+
+- location: Budbee - Falun Hosjö Hemköp
+  city: Falun
+  urn: urn:budbee:locker:id:0418
+  country: SE
+  latitude: 60.590001
+  longitude: 15.732834
 
 - location: Budbee - Skärblacka ICA Supermarket
   city: Skärblacka
@@ -2196,6 +2588,34 @@ locations:
   country: Sverige
   latitude: 58.476107
   longitude: 16.335686
+
+- location: Budbee - Bollnäs Asea Willys
+  city: Bollnäs
+  urn: urn:budbee:locker:id:1438
+  country: SE
+  latitude: 61.342921
+  longitude: 16.383252
+
+- location: Budbee - Bollnäs Stora Coop
+  city: Bollnäs
+  urn: urn:budbee:locker:id:2049
+  country: SE
+  latitude: 61.368864
+  longitude: 16.390957
+
+- location: Budbee - Bollnäs Åhléns
+  city: Bollnäs
+  urn: urn:budbee:locker:id:3426
+  country: SE
+  latitude: 61.348465
+  longitude: 16.396246
+
+- location: Budbee - Bollnäs ICA Maxi
+  city: Bollnäs
+  urn: urn:budbee:locker:id:4777
+  country: SE
+  latitude: 61.338863
+  longitude: 16.396906
 
 - location: Budbee - Torshälla Coop
   city: Torshälla
@@ -2386,6 +2806,13 @@ locations:
   latitude: 59.630454
   longitude: 16.551403
 
+- location: Budbee - Delsbo ICA Supermarket Delsbohallen
+  city: Delsbo
+  urn: urn:budbee:locker:id:2199
+  country: SE
+  latitude: 61.799901
+  longitude: 16.553489
+
 - location: Budbee - Eskilstuna Ekängen ICA Kvantum
   city: Eskilstuna
   urn: urn:budbee:locker:id:4163
@@ -2427,6 +2854,13 @@ locations:
   country: Sverige
   latitude: 59.626858
   longitude: 16.581063
+
+- location: Budbee - Stöde ICA Nära
+  city: Stöde
+  urn: urn:budbee:locker:id:3105
+  country: SE
+  latitude: 62.417533
+  longitude: 16.583363
 
 - location: Budbee - Hökåsen ICA Supermarket
   city: Västerås
@@ -2540,6 +2974,13 @@ locations:
   latitude: 59.376135
   longitude: 17.02739
 
+- location: Budbee - Matfors Handlarn
+  city: Matfors
+  urn: urn:budbee:locker:id:3259
+  country: SE
+  latitude: 62.350816
+  longitude: 17.037008
+
 - location: Budbee - Strängnäs Ulfhällskiosken
   city: Strängnäs
   urn: urn:budbee:locker:id:2089
@@ -2610,6 +3051,13 @@ locations:
   latitude: 59.255548
   longitude: 17.104577
 
+- location: Budbee - Sundsvall ICA Nära Kovland
+  city: Kovland
+  urn: urn:budbee:locker:id:3101
+  country: SE
+  latitude: 62.47088
+  longitude: 17.153055
+
 - location: Budbee - Stallarholmen Ohlssons Bageri
   city: Stallarholmen
   urn: urn:budbee:locker:id:1239
@@ -2624,12 +3072,131 @@ locations:
   latitude: 59.26234
   longitude: 17.220953
 
+- location: Budbee - Sollefteå Rödsta ICA Nära
+  city: Sollefteå
+  urn: urn:budbee:locker:id:4159
+  country: SE
+  latitude: 63.169511
+  longitude: 17.250843
+
 - location: Budbee - Grillby Tempo
   city: Grillby
   urn: urn:budbee:locker:id:0624
   country: Sverige
   latitude: 59.622198
   longitude: 17.261386
+
+- location: Budbee - Remsle ICA Nära
+  city: Sollefteå
+  urn: urn:budbee:locker:id:3893
+  country: SE
+  latitude: 63.177917
+  longitude: 17.274502
+
+- location: Budbee - Granloholm På G Butiken
+  city: Sundsvall
+  urn: urn:budbee:locker:id:4074
+  country: SE
+  latitude: 62.408957
+  longitude: 17.284238
+
+- location: Budbee - Sollefteå Hågesta ICA Kvantum
+  city: Sollefteå
+  urn: urn:budbee:locker:id:3582
+  country: SE
+  latitude: 63.161831
+  longitude: 17.289448
+
+- location: Budbee - H&M Sundsvall Storgatan
+  city: Sundsvall
+  urn: urn:budbee:locker:id:4341
+  country: SE
+  latitude: 62.39178
+  longitude: 17.303596
+
+- location: Budbee - Sundsvall Åhléns
+  city: Sundsvall
+  urn: urn:budbee:locker:id:3419
+  country: SE
+  latitude: 62.391386
+  longitude: 17.305816
+
+- location: Budbee - Sundsvall IN-Gallerian PickPackPost
+  city: Sundsvall
+  urn: urn:budbee:locker:id:3095
+  country: SE
+  latitude: 62.391258
+  longitude: 17.30696
+
+- location: Budbee - Storgatan OKQ8 Sollefteå
+  city: Sollefteå
+  urn: urn:budbee:locker:id:3959
+  country: SE
+  latitude: 63.161224
+  longitude: 17.308219
+
+- location: Budbee - Sundsvall Östra Långgatan OKQ8
+  city: Sundsvall
+  urn: urn:budbee:locker:id:4409
+  country: SE
+  latitude: 62.386352
+  longitude: 17.308418
+
+- location: Budbee - Sundsvall Bussgods
+  city: Sundsvall
+  urn: urn:budbee:locker:id:3254
+  country: SE
+  latitude: 62.392115
+  longitude: 17.310133
+
+- location: Budbee - Timrå OKQ8 Vitögatan
+  city: Timrå
+  urn: urn:budbee:locker:id:3730
+  country: SE
+  latitude: 62.482489
+  longitude: 17.314023
+
+- location: Budbee - Sundsvall Padel 24seven
+  city: Sundsvall
+  urn: urn:budbee:locker:id:3100
+  country: SE
+  latitude: 62.444474
+  longitude: 17.327378
+
+- location: Budbee - Sundsvall Birsta City
+  city: Sundsvall
+  urn: urn:budbee:locker:id:3099
+  country: SE
+  latitude: 62.446964
+  longitude: 17.335967
+
+- location: Budbee - H&M Birsta City Sundsvall
+  city: Sundsvall
+  urn: urn:budbee:locker:id:3066
+  country: SE
+  latitude: 62.446911
+  longitude: 17.336163
+
+- location: Budbee - Sundsvall City Gross
+  city: Sundsvall
+  urn: urn:budbee:locker:id:3090
+  country: SE
+  latitude: 62.413797
+  longitude: 17.339587
+
+- location: Budbee - Sundsvall ICA Maxi Stormarknad
+  city: Sundsbruk
+  urn: urn:budbee:locker:id:3096
+  country: SE
+  latitude: 62.442384
+  longitude: 17.347805
+
+- location: Budbee - Kvissleby ICA Kvantum
+  city: Kvissleby
+  urn: urn:budbee:locker:id:3107
+  country: SE
+  latitude: 62.29825
+  longitude: 17.378888
 
 - location: Budbee - Vagnhärad ICA Supermarket
   city: Trosa
@@ -2925,6 +3492,13 @@ locations:
   latitude: 59.210287
   longitude: 17.903709
 
+- location: Budbee - Härnösand ICA Maxi
+  city: Härnösand
+  urn: urn:budbee:locker:id:3102
+  country: SE
+  latitude: 62.636849
+  longitude: 17.928956
+
 - location: Budbee - Nynäshamn Handlarn Skotten
   city: Nynäshamn
   urn: urn:budbee:locker:id:3190
@@ -2932,12 +3506,26 @@ locations:
   latitude: 58.892917
   longitude: 17.930937
 
+- location: Budbee - H&M Härnösand
+  city: Härnösand
+  urn: urn:budbee:locker:id:3059
+  country: SE
+  latitude: 62.631464
+  longitude: 17.938762
+
 - location: Budbee - Flemingsberg C Willys
   city: Huddinge
   urn: urn:budbee:locker:id:4494
   country: Sverige
   latitude: 59.222993
   longitude: 17.938933
+
+- location: Budbee - Härnösand Hemköp
+  city: Härnösand
+  urn: urn:budbee:locker:id:3103
+  country: SE
+  latitude: 62.631753
+  longitude: 17.939364
 
 - location: Budbee - Flemingsbergs Centrum Quickshop
   city: Huddinge
@@ -3267,3 +3855,24 @@ locations:
   country: Sverige
   latitude: 59.223048
   longitude: 18.200928
+
+- location: Budbee - Örnsköldsvik Bussgods
+  city: Örnsköldsvik
+  urn: urn:budbee:locker:id:3252
+  country: SE
+  latitude: 63.287756
+  longitude: 18.70696
+
+- location: Budbee - H&M Örnsköldsvik
+  city: Örnsköldsvik
+  urn: urn:budbee:locker:id:3067
+  country: SE
+  latitude: 63.291195
+  longitude: 18.714984
+
+- location: Budbee - Örnsköldsvik Direkten Övik
+  city: Örnsköldsvik
+  urn: urn:budbee:locker:id:3248
+  country: SE
+  latitude: 63.296656
+  longitude: 18.71662
