@@ -327,6 +327,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
 | [3 Butiken](https://sv.wikipedia.org/wiki/Hi3G_Access)                                   |         14 |
+| [Tele2](https://sv.wikipedia.org/wiki/Tele2)                                             |         29 |
 
 
 
