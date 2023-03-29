@@ -220,6 +220,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | Rituals                                                                                  |         77 |
 | [Skopunkten](https://sv.wikipedia.org/wiki/Skopunkten)                                   |         46 |
 | [The Body Shop](https://sv.wikipedia.org/wiki/The_Body_Shop)                             |         53 |
+| [Twilfit By Change](https://sv.wikipedia.org/wiki/Twilfit)                               |         55 |
 | [Volt Fashion](https://sv.wikipedia.org/wiki/Varner-Gruppen)                             |         41 |
 | [Åhléns](https://sv.wikipedia.org/wiki/%C3%85hl%C3%A9ns)                                 |         83 |
 
