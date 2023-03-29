@@ -58,6 +58,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | :--------------------------------------------------------------------------------------- | ---------: |
 | [Biltema](https://sv.wikipedia.org/wiki/Biltema)                                         |         61 |
 | [Mekonomen](https://sv.wikipedia.org/wiki/Mekonomen)                                     |        501 |
+| Ryds Bilglas                                                                             |        157 |
 
 
 
