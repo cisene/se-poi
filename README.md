@@ -218,6 +218,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | [Lindex](https://sv.wikipedia.org/wiki/Lindex)                                           |        439 |
 | [Polarn O. Pyret](https://sv.wikipedia.org/wiki/Polarn_O._Pyret)                         |         39 |
 | Rituals                                                                                  |         77 |
+| [Scorett](https://sv.wikipedia.org/wiki/Scorett)                                         |        187 |
 | [Skopunkten](https://sv.wikipedia.org/wiki/Skopunkten)                                   |         46 |
 | [The Body Shop](https://sv.wikipedia.org/wiki/The_Body_Shop)                             |         53 |
 | [Twilfit By Change](https://sv.wikipedia.org/wiki/Twilfit)                               |         55 |
