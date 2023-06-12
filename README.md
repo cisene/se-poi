@@ -232,7 +232,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
-| [Järnvägsstationer Sverige](https://sv.wikipedia.org/wiki/Kategori:J%C3%A4rnv%C3%A4gsstationer_i_Sverige) |        245 |
+| [Järnvägsstationer Sverige](https://sv.wikipedia.org/wiki/Kategori:J%C3%A4rnv%C3%A4gsstationer_i_Sverige) |        246 |
 
 
 
@@ -243,6 +243,15 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | :--------------------------------------------------------------------------------------- | ---------: |
 | [Kreatima](https://sv.wikipedia.org/wiki/Panduro_Hobby)                                  |          2 |
 | [Panduro](https://sv.wikipedia.org/wiki/Panduro_Hobby)                                   |         41 |
+
+
+
+
+## Leksaker
+
+| Namn                                                                                     | Positioner |
+| :--------------------------------------------------------------------------------------- | ---------: |
+| [Lekia / Babya](https://sv.wikipedia.org/wiki/Lekia)                                     |        134 |
 
 
 
