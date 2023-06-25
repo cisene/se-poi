@@ -115,6 +115,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | [ICA](https://sv.wikipedia.org/wiki/Ica)                                                 |       1288 |
 | [Lidl](https://sv.wikipedia.org/wiki/Lidl)                                               |        310 |
 | [Pressbyrån](https://sv.wikipedia.org/wiki/Pressbyr%C3%A5n)                              |        314 |
+| [SIA Glass](https://sv.wikipedia.org/wiki/Sia_Glass)                                     |       2117 |
 | [Tempo](https://sv.wikipedia.org/wiki/Tempo_(butikskedja))                               |        140 |
 | [Willys](https://sv.wikipedia.org/wiki/Willys)                                           |        227 |
 

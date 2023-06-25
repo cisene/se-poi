@@ -3,16 +3,9 @@ meta:
   web: null
   wikipedia: https://sv.wikipedia.org/wiki/Kategori:J%C3%A4rnv%C3%A4gsstationer_i_Sverige
   category: Kollektivtrafik
-  locations: 245
+  locations: 246
 
 locations:
-- location: Strömstad, Smd
-  city: Strömstad
-  country: Sverige
-  latitude: 65.44205
-  longitude: 12.33432
-
-
 - location: Skee Järnvägsstation
   city: Skee
   country: Sverige
@@ -108,6 +101,12 @@ locations:
   country: Sverige
   latitude: 57.26622
   longitude: 12.333418
+
+- location: Strömstad, Smd
+  city: Strömstad
+  country: Sverige
+  latitude: 65.44205
+  longitude: 12.33432
 
 - location: Lerot Järnvägsstation
   city: Lerot
