@@ -300,7 +300,10 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
+| [O'Learys](https://sv.wikipedia.org/wiki/O%27Learys)                                     |         64 |
 | [Pinchos](https://sv.wikipedia.org/wiki/Pinchos)                                         |         64 |
+| [The Bishops Arms](https://sv.wikipedia.org/wiki/Bishops_Arms)                           |         39 |
+| [Vapiano](https://sv.wikipedia.org/wiki/Vapiano)                                         |          6 |
 
 
 
@@ -320,8 +323,10 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | :--------------------------------------------------------------------------------------- | ---------: |
 | [Bastard Burgers](https://sv.wikipedia.org/wiki/Bastard_Burgers)                         |         73 |
 | [Burger King](https://sv.wikipedia.org/wiki/Burger_King)                                 |        122 |
+| [Frasses](https://sv.wikipedia.org/wiki/Frasses_(hamburgerkedja))                        |         28 |
 | [Max Hamburgerrestauranger](https://sv.wikipedia.org/wiki/Max_Hamburgerrestauranger)     |        113 |
 | [McDonald's](https://sv.wikipedia.org/wiki/McDonald%E2%80%99s)                           |        264 |
+| [Sibylla](https://sv.wikipedia.org/wiki/Sibylla_(snabbmatskedja))                        |        128 |
 
 
 
@@ -330,7 +335,9 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
+| [Intersport](https://sv.wikipedia.org/wiki/Intersport)                                   |         94 |
 | [Stadium](https://sv.wikipedia.org/wiki/Stadium_(detaljhandelskedja))                    |         83 |
+| [Team Sportia](https://sv.wikipedia.org/wiki/Team_Sportia)                               |         46 |
 
 
 
@@ -341,6 +348,8 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | :--------------------------------------------------------------------------------------- | ---------: |
 | [3 Butiken](https://sv.wikipedia.org/wiki/Hi3G_Access)                                   |         14 |
 | [Tele2](https://sv.wikipedia.org/wiki/Tele2)                                             |         29 |
+| [Telenor](https://sv.wikipedia.org/wiki/Telenor_Sverige)                                 |         44 |
+| [Telia](https://sv.wikipedia.org/wiki/Telia_Sverige)                                     |         60 |
 
 
 
