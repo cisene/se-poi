@@ -1,0 +1,235 @@
+meta:
+  name: ChopChop Asian Express
+  web: https://chopchop.se/
+  wikipedia: https://sv.wikipedia.org/wiki/Chop_Chop
+  category: Restaurantkedjor
+  locations: 38
+
+locations:
+- location: ChopChop Asian Express Uddevalla
+  city: Uddevalla
+  country: Sverige
+  latitude: 58.350891
+  longitude: 11.807521
+
+- location: ChopChop Asian Express Kungsbacka
+  city: Kungsbacka
+  country: Sverige
+  latitude: 57.473431
+  longitude: 12.058449
+
+- location: ChopChop Asian Express Varberg
+  city: Varberg
+  country: Sverige
+  latitude: 57.166937
+  longitude: 12.278187
+
+- location: ChopChop Asian Express Trollhättan
+  city: Trollhättan
+  country: Sverige
+  latitude: 58.315152
+  longitude: 12.300325
+
+- location: ChopChop Asian Express Borås
+  city: Borås
+  country: Sverige
+  latitude: 57.719468
+  longitude: 12.968775
+
+- location: ChopChop Asian Express Svågertorp
+  city: Malmö
+  country: Sverige
+  latitude: 55.553544
+  longitude: 12.991364
+
+- location: ChopChop Asian Express Lockarp
+  city: Malmö
+  country: Sverige
+  latitude: 55.550745
+  longitude: 13.033073
+
+- location: ChopChop Asian Express Lund
+  city: Lund
+  country: Sverige
+  latitude: 55.720987
+  longitude: 13.19728
+
+- location: ChopChop Asian Express Karlstad
+  city: Karlstad
+  country: Sverige
+  latitude: 59.383648
+  longitude: 13.475255
+
+- location: ChopChop Asian Express Värnamo
+  city: Värnamo
+  country: Sverige
+  latitude: 57.164878
+  longitude: 14.072376
+
+- location: ChopChop Asian Express Asecs
+  city: Jönköping
+  country: Sverige
+  latitude: 57.772559
+  longitude: 14.194458
+
+- location: ChopChop Asian Express Växjö
+  city: Växjö
+  country: Sverige
+  latitude: 56.881892
+  longitude: 14.762091
+
+- location: ChopChop Asian Express Motala
+  city: Motala
+  country: Sverige
+  latitude: 58.544757
+  longitude: 15.008721
+
+- location: ChopChop Asian Express Mjölby
+  city: Mjölby
+  country: Sverige
+  latitude: 58.323438
+  longitude: 15.088564
+
+- location: ChopChop Asian Express Eurostop
+  city: Örebro
+  country: Sverige
+  latitude: 59.297283
+  longitude: 15.198749
+
+- location: ChopChop Asian Express Krämaren
+  city: Örebro
+  country: Sverige
+  latitude: 59.269231
+  longitude: 15.208129
+
+- location: ChopChop Asian Express Borlänge
+  city: Borlänge
+  country: Sverige
+  latitude: 60.478331
+  longitude: 15.432501
+
+- location: ChopChop Asian Express Linköping
+  city: Linköping
+  country: Sverige
+  latitude: 58.435313
+  longitude: 15.591938
+
+- location: ChopChop Asian Express Kalmar
+  city: Kalmar
+  country: Sverige
+  latitude: 56.684188
+  longitude: 16.322812
+
+- location: ChopChop Asian Express Erikslund
+  city: Västerås
+  country: Sverige
+  latitude: 59.619458
+  longitude: 16.45923
+
+- location: ChopChop Asian Express Eskilstuna
+  city: Eskilstuna
+  country: Sverige
+  latitude: 59.390501
+  longitude: 16.463628
+
+- location: ChopChop Asian Express Gränby
+  city: Uppsala
+  country: Sverige
+  latitude: 59.635917
+  longitude: 16.542958
+
+- location: ChopChop Asian Express Gryta
+  city: Västerås
+  country: Sverige
+  latitude: 59.635937
+  longitude: 16.545187
+
+- location: ChopChop Asian Express Strängnäs
+  city: Strängnäs
+  country: Sverige
+  latitude: 59.327644
+  longitude: 17.017097
+
+- location: ChopChop Asian Express Nyköping
+  city: Nyköping
+  country: Sverige
+  latitude: 58.77207
+  longitude: 17.018894
+
+- location: ChopChop Asian Express Enköping
+  city: Enköping
+  country: Sverige
+  latitude: 59.6529
+  longitude: 17.078183
+
+- location: ChopChop Asian Express Sundsvall
+  city: Sundsvall
+  country: Sverige
+  latitude: 62.442687
+  longitude: 17.342562
+
+- location: ChopChop Asian Express Boländerna
+  city: Uppsala
+  country: Sverige
+  latitude: 59.845312
+  longitude: 17.694187
+
+- location: ChopChop Asian Express Rosersberg
+  city: Rosersberg
+  country: Sverige
+  latitude: 59.575441
+  longitude: 17.895565
+
+- location: ChopChop Asian Express Rotebro
+  city: Sollentuna
+  country: Sverige
+  latitude: 59.470583
+  longitude: 17.914841
+
+- location: ChopChop Asian Express Häggvik
+  city: Sollentuna
+  country: Sverige
+  latitude: 59.437062
+  longitude: 17.929563
+
+- location: ChopChop Asian Express Bromma Blocks
+  city: Bromma
+  country: Sverige
+  latitude: 59.355282
+  longitude: 17.950444
+
+- location: ChopChop Asian Express Arninge
+  city: Täby
+  country: Sverige
+  latitude: 59.355556
+  longitude: 17.952167
+
+- location: ChopChop Asian Express Farsta
+  city: Farsta
+  country: Sverige
+  latitude: 59.242914
+  longitude: 18.089099
+
+- location: ChopChop Asian Express Sickla
+  city: Stockholm
+  country: Sverige
+  latitude: 59.305712
+  longitude: 18.127766
+
+- location: ChopChop Asian Express Port73
+  city: Handen
+  country: Sverige
+  latitude: 59.178339
+  longitude: 18.145256
+
+- location: ChopChop Asian Express Värmdö
+  city: Gustavsberg
+  country: Sverige
+  latitude: 59.313562
+  longitude: 18.428187
+
+- location: ChopChop Asian Express Norrtälje
+  city: Norrtälje
+  country: Sverige
+  latitude: 59.746741
+  longitude: 18.677689

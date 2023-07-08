@@ -300,8 +300,10 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
+| [ChopChop Asian Express](https://sv.wikipedia.org/wiki/Chop_Chop)                        |         38 |
 | [O'Learys](https://sv.wikipedia.org/wiki/O%27Learys)                                     |         64 |
 | [Pinchos](https://sv.wikipedia.org/wiki/Pinchos)                                         |         64 |
+| [Sushi Yama](https://sv.wikipedia.org/wiki/Sushi_Yama)                                   |         42 |
 | [The Bishops Arms](https://sv.wikipedia.org/wiki/Bishops_Arms)                           |         39 |
 | [Vapiano](https://sv.wikipedia.org/wiki/Vapiano)                                         |          6 |
 
@@ -338,6 +340,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | [Intersport](https://sv.wikipedia.org/wiki/Intersport)                                   |         94 |
 | [Stadium](https://sv.wikipedia.org/wiki/Stadium_(detaljhandelskedja))                    |         83 |
 | [Team Sportia](https://sv.wikipedia.org/wiki/Team_Sportia)                               |         46 |
+| [XXL](https://sv.wikipedia.org/wiki/XXL_(detaljhandelskedja))                            |         30 |
 
 
 

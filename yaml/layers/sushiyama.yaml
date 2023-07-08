@@ -1,0 +1,259 @@
+meta:
+  name: Sushi Yama
+  web: https://sushiyama.se/
+  wikipedia: https://sv.wikipedia.org/wiki/Sushi_Yama
+  category: Restaurantkedjor
+  locations: 42
+
+locations:
+- location: Torp
+  city: Uddevalla
+  country: Sverige
+  latitude: 58.354273
+  longitude: 11.81077
+
+- location: Frölunda Torg
+  city: Göteborg
+  country: Sverige
+  latitude: 57.651466
+  longitude: 11.911776
+
+- location: Stenpiren Resecentrum
+  city: Göteborg
+  country: Sverige
+  latitude: 57.706171
+  longitude: 11.957202
+
+- location: Kongahälla Center
+  city: Kungälv
+  country: Sverige
+  latitude: 57.872891
+  longitude: 11.968263
+
+- location: Femman &#8211; Nordstan
+  city: Göteborg
+  country: Sverige
+  latitude: 57.708591
+  longitude: 11.969307
+
+- location: Mölndal Galleria
+  city: Göteborg
+  country: Sverige
+  latitude: 57.654857
+  longitude: 12.012492
+
+- location: Allum Partille
+  city: Göteborg
+  country: Sverige
+  latitude: 57.737239
+  longitude: 12.105496
+
+- location: Storgatan
+  city: Halmstad
+  country: Sverige
+  latitude: 56.676428
+  longitude: 12.859122
+
+- location: Emporia
+  city: Malmö
+  country: Sverige
+  latitude: 55.564281
+  longitude: 12.973213
+
+- location: Mobilia
+  city: Malmö
+  country: Sverige
+  latitude: 55.581362
+  longitude: 13.00447
+
+- location: Nova
+  city: Lund
+  country: Sverige
+  latitude: 55.713938
+  longitude: 13.159814
+
+- location: Bergvik
+  city: Karlstad
+  country: Sverige
+  latitude: 59.377469
+  longitude: 13.425666
+
+- location: Mitt i City
+  city: Karlstad
+  country: Sverige
+  latitude: 59.379937
+  longitude: 13.499551
+
+- location: Elins Esplanad
+  city: Skövde
+  country: Sverige
+  latitude: 58.404829
+  longitude: 13.856421
+
+- location: A6 Center
+  city: Jönköping
+  country: Sverige
+  latitude: 57.773013
+  longitude: 14.205676
+
+- location: Grand Samarkand
+  city: Växjö
+  country: Sverige
+  latitude: 56.883718
+  longitude: 14.766424
+
+- location: Marieberg Galleria
+  city: Örebro
+  country: Sverige
+  latitude: 59.217439
+  longitude: 15.137261
+
+- location: Stortorget
+  city: Örebro
+  country: Sverige
+  latitude: 59.271557
+  longitude: 15.213667
+
+- location: Kupolen
+  city: Borlänge
+  country: Sverige
+  latitude: 60.483837
+  longitude: 15.417514
+
+- location: I-Huset
+  city: Linköping
+  country: Sverige
+  latitude: 58.433326
+  longitude: 15.586777
+
+- location: Stora Torget
+  city: Linköping
+  country: Sverige
+  latitude: 58.411187
+  longitude: 15.621094
+
+- location: Ingelsta Shopping
+  city: Norrköping
+  country: Sverige
+  latitude: 58.618213
+  longitude: 16.156003
+
+- location: Drottninggatan
+  city: Norrköping
+  country: Sverige
+  latitude: 58.586711
+  longitude: 16.188921
+
+- location: Erikslund Shopping Center
+  city: Västerås
+  country: Sverige
+  latitude: 59.609819
+  longitude: 16.452082
+
+- location: Cityhuset
+  city: Eskilstuna
+  country: Sverige
+  latitude: 59.371834
+  longitude: 16.50995
+
+- location: Centra
+  city: Västerås
+  country: Sverige
+  latitude: 59.610493
+  longitude: 16.547411
+
+- location: Valbo Köpcentrum
+  city: Gävle
+  country: Sverige
+  latitude: 60.633832
+  longitude: 16.993104
+
+- location: Västra Storgatan
+  city: Nyköping
+  country: Sverige
+  latitude: 58.751908
+  longitude: 17.003984
+
+- location: Gallerian Nian
+  city: Gävle
+  country: Sverige
+  latitude: 60.673793
+  longitude: 17.140111
+
+- location: S:t Per Gallerian
+  city: Uppsala
+  country: Sverige
+  latitude: 59.859945
+  longitude: 17.636527
+
+- location: Centralstation
+  city: Uppsala
+  country: Sverige
+  latitude: 59.858131
+  longitude: 17.646595
+
+- location: Barkarby Järfälla
+  city: Stockholm
+  country: Sverige
+  latitude: 59.413431
+  longitude: 17.866039
+
+- location: Liljeholmstorget Galleria
+  city: Stockholm
+  country: Sverige
+  latitude: 59.309317
+  longitude: 18.022328
+
+- location: Västermalmsgallerian
+  city: Stockholm
+  country: Sverige
+  latitude: 59.334921
+  longitude: 18.031886
+
+- location: Centralstation
+  city: Stockholm
+  country: Sverige
+  latitude: 59.330297
+  longitude: 18.058509
+
+- location: Gallerian
+  city: Stockholm
+  country: Sverige
+  latitude: 59.330865
+  longitude: 18.067351
+
+- location: PK-huset
+  city: Stockholm
+  country: Sverige
+  latitude: 59.332992
+  longitude: 18.07103
+
+- location: Gullmarsplan Johanneshov
+  city: Stockholm
+  country: Sverige
+  latitude: 59.298532
+  longitude: 18.079026
+
+- location: Fältöversten
+  city: Stockholm
+  country: Sverige
+  latitude: 59.340306
+  longitude: 18.090013
+
+- location: Farsta Centrum
+  city: Stockholm
+  country: Sverige
+  latitude: 59.242391
+  longitude: 18.092436
+
+- location: Avion Shopping
+  city: Umeå
+  country: Sverige
+  latitude: 63.806904
+  longitude: 20.255806
+
+- location: Utopia
+  city: Umeå
+  country: Sverige
+  latitude: 63.825661
+  longitude: 20.264792
