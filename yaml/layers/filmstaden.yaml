@@ -1,0 +1,560 @@
+meta:
+  name: Filmstaden
+  web: https://filmstaden.se/
+  wikipedia: https://sv.wikipedia.org/wiki/Filmstaden
+  category: Underhållning
+  locations: 79
+
+locations:
+- location: Biostaden Uddevalla
+  city: Uddevalla
+  urn: urn:filmstaden:entity:id:196
+  country: Sverige
+  latitude: 58.346663
+  longitude: 11.931095
+
+- location: Biopalatset
+  city: Göteborg
+  urn: urn:filmstaden:entity:id:172
+  country: Sverige
+  latitude: 57.703482
+  longitude: 11.966815
+
+- location: Göta i Göteborg
+  city: Göteborg
+  urn: urn:filmstaden:entity:id:200
+  country: Sverige
+  latitude: 57.697371
+  longitude: 11.978552
+
+- location: Filmstaden Bergakungen
+  city: Göteborg
+  urn: urn:filmstaden:entity:id:153
+  country: Sverige
+  latitude: 57.702405
+  longitude: 11.986084
+
+- location: Biostaden Kungsbacka
+  city: Kungsbacka
+  urn: urn:filmstaden:entity:id:207
+  country: Sverige
+  latitude: 57.486138
+  longitude: 12.068444
+
+- location: Capitol Varberg
+  city: Varberg
+  urn: urn:filmstaden:entity:id:205
+  country: Sverige
+  latitude: 57.102451
+  longitude: 12.253823
+
+- location: Biostaden Trollhättan
+  city: Trollhättan
+  urn: urn:filmstaden:entity:id:210
+  country: Sverige
+  latitude: 58.284813
+  longitude: 12.291313
+
+- location: Saga Vänersborg
+  city: Vänersborg
+  urn: urn:filmstaden:entity:id:129
+  country: Sverige
+  latitude: 58.379138
+  longitude: 12.322056
+
+- location: Saga Alingsås
+  city: Alingsås
+  urn: urn:filmstaden:entity:id:195
+  country: Sverige
+  latitude: 57.928313
+  longitude: 12.535857
+
+- location: Filmstaden Helsingborg
+  city: Helsingborg
+  urn: urn:filmstaden:entity:id:204
+  country: Sverige
+  latitude: 56.040693
+  longitude: 12.701144
+
+- location: Maxim Landskrona
+  city: Landskrona
+  urn: urn:filmstaden:entity:id:197
+  country: Sverige
+  latitude: 55.870584
+  longitude: 12.832303
+
+- location: Röda Kvarn i Halmstad
+  city: Halmstad
+  urn: urn:filmstaden:entity:id:120
+  country: Sverige
+  latitude: 56.676206
+  longitude: 12.858082
+
+- location: Biostaden 2001 Borås
+  city: Borås
+  urn: urn:filmstaden:entity:id:88
+  country: Sverige
+  latitude: 57.721584
+  longitude: 12.940258
+
+- location: Biohuset Höllviken
+  city: Höllviken
+  urn: urn:filmstaden:entity:id:203
+  country: Sverige
+  latitude: 55.426306
+  longitude: 12.965733
+
+- location: Filmstaden Storgatan
+  city: Malmö
+  urn: urn:filmstaden:entity:id:109
+  country: Sverige
+  latitude: 55.599795
+  longitude: 13.000737
+
+- location: Royal Malmö
+  city: Malmö
+  urn: urn:filmstaden:entity:id:73
+  country: Sverige
+  latitude: 55.601542
+  longitude: 13.000981
+
+- location: Filmstaden Entré
+  city: Malmö
+  urn: urn:filmstaden:entity:id:180
+  country: Sverige
+  latitude: 55.607499
+  longitude: 13.024427
+
+- location: Vinterpalatset Sälen
+  city: Sälen
+  urn: urn:filmstaden:entity:id:134
+  country: Sverige
+  latitude: 61.15641
+  longitude: 13.117632
+
+- location: Grand Trelleborg
+  city: Trelleborg
+  urn: urn:filmstaden:entity:id:77
+  country: Sverige
+  latitude: 55.374434
+  longitude: 13.152113
+
+- location: Filmstaden Lund
+  city: Lund
+  urn: urn:filmstaden:entity:id:69
+  country: Sverige
+  latitude: 55.701317
+  longitude: 13.19492
+
+- location: Grand Skara
+  city: Skara
+  urn: urn:filmstaden:entity:id:135
+  country: Sverige
+  latitude: 58.384541
+  longitude: 13.44327
+
+- location: Filmstaden Karlstad
+  city: Karlstad
+  urn: urn:filmstaden:entity:id:64
+  country: Sverige
+  latitude: 59.379132
+  longitude: 13.498134
+
+- location: Saga Mariestad
+  city: Mariestad
+  urn: urn:filmstaden:entity:id:138
+  country: Sverige
+  latitude: 58.708562
+  longitude: 13.819992
+
+- location: Cinema 3 i Ystad
+  city: Ystad
+  urn: urn:filmstaden:entity:id:150
+  country: Sverige
+  latitude: 55.432119
+  longitude: 13.842301
+
+- location: Biostaden Saga Skövde
+  city: Skövde
+  urn: urn:filmstaden:entity:id:125
+  country: Sverige
+  latitude: 58.38873
+  longitude: 13.845294
+
+- location: Biostaden Värnamo
+  city: Värnamo
+  urn: urn:filmstaden:entity:id:202
+  country: Sverige
+  latitude: 57.18848
+  longitude: 14.037574
+
+- location: Kosmorama Kristianstad
+  city: Kristianstad
+  urn: urn:filmstaden:entity:id:110
+  country: Sverige
+  latitude: 56.030306
+  longitude: 14.159219
+
+- location: Filmstaden Jönköping
+  city: Jönköping
+  urn: urn:filmstaden:entity:id:169
+  country: Sverige
+  latitude: 57.783471
+  longitude: 14.161804
+
+- location: Filmpalatset i Bromölla
+  city: Bromölla
+  urn: urn:filmstaden:entity:id:209
+  country: Sverige
+  latitude: 56.074592
+  longitude: 14.467688
+
+- location: Saga Mora
+  city: Mora
+  urn: urn:filmstaden:entity:id:137
+  country: Sverige
+  latitude: 61.004368
+  longitude: 14.537872
+
+- location: Biostaden Östersund
+  city: Östersund
+  urn: urn:filmstaden:entity:id:186
+  country: Sverige
+  latitude: 63.177692
+  longitude: 14.637328
+
+- location: Filmstaden Växjö
+  city: Växjö
+  urn: urn:filmstaden:entity:id:126
+  country: Sverige
+  latitude: 56.878895
+  longitude: 14.797829
+
+- location: Royal Motala
+  city: Motala
+  urn: urn:filmstaden:entity:id:136
+  country: Sverige
+  latitude: 58.538459
+  longitude: 15.034477
+
+- location: Saga Vetlanda
+  city: Vetlanda
+  urn: urn:filmstaden:entity:id:132
+  country: Sverige
+  latitude: 57.427429
+  longitude: 15.08493
+
+- location: Saga Mjölby
+  city: Mjölby
+  urn: urn:filmstaden:entity:id:189
+  country: Sverige
+  latitude: 58.325262
+  longitude: 15.131154
+
+- location: Filmstaden Örebro
+  city: Örebro
+  urn: urn:filmstaden:entity:id:10
+  country: Sverige
+  latitude: 59.273151
+  longitude: 15.212506
+
+- location: Biopalatset Borlänge
+  city: Borlänge
+  urn: urn:filmstaden:entity:id:158
+  country: Sverige
+  latitude: 60.487815
+  longitude: 15.435706
+
+- location: Biostaden Karlskrona
+  city: Karlskrona
+  urn: urn:filmstaden:entity:id:182
+  country: Sverige
+  latitude: 56.162304
+  longitude: 15.58937
+
+- location: Filmstaden Linköping
+  city: Linköping
+  urn: urn:filmstaden:entity:id:67
+  country: Sverige
+  latitude: 58.411811
+  longitude: 15.621913
+
+- location: Falan Falun
+  city: Falun
+  urn: urn:filmstaden:entity:id:127
+  country: Sverige
+  latitude: 60.607698
+  longitude: 15.629026
+
+- location: Royal Köping
+  city: Köping
+  urn: urn:filmstaden:entity:id:178
+  country: Sverige
+  latitude: 59.512708
+  longitude: 15.99287
+
+- location: Filmstaden Norrköping
+  city: Norrköping
+  urn: urn:filmstaden:entity:id:74
+  country: Sverige
+  latitude: 58.586824
+  longitude: 16.188409
+
+- location: Cinema 3 Katrineholm
+  city: Katrineholm
+  urn: urn:filmstaden:entity:id:149
+  country: Sverige
+  latitude: 58.992996
+  longitude: 16.204455
+
+- location: Saga Kalmar
+  city: Kalmar
+  urn: urn:filmstaden:entity:id:143
+  country: Sverige
+  latitude: 56.663445
+  longitude: 16.356779
+
+- location: Biostaden Kalmar
+  city: Kalmar
+  urn: urn:filmstaden:entity:id:142
+  country: Sverige
+  latitude: 56.661094
+  longitude: 16.365096
+
+- location: Biostaden Eskilstuna
+  city: Eskilstuna
+  urn: urn:filmstaden:entity:id:208
+  country: Sverige
+  latitude: 59.376206
+  longitude: 16.500021
+
+- location: Filmstaden Västerås
+  city: Västerås
+  urn: urn:filmstaden:entity:id:191
+  country: Sverige
+  latitude: 59.611946
+  longitude: 16.547728
+
+- location: Biostaden Västervik
+  city: Västervik
+  urn: urn:filmstaden:entity:id:170
+  country: Sverige
+  latitude: 57.757065
+  longitude: 16.639286
+
+- location: Biostaden Nyköping
+  city: Nyköping
+  urn: urn:filmstaden:entity:id:188
+  country: Sverige
+  latitude: 58.750042
+  longitude: 16.989047
+
+- location: Cinema 3 Strängnäs
+  city: Strängnäs
+  urn: urn:filmstaden:entity:id:147
+  country: Sverige
+  latitude: 59.377452
+  longitude: 17.032119
+
+- location: Svea i Söderhamn
+  city: Söderhamn
+  urn: urn:filmstaden:entity:id:148
+  country: Sverige
+  latitude: 61.301671
+  longitude: 17.052945
+
+- location: Cinema 3 i Hudiksvall
+  city: Hudiksvall
+  urn: urn:filmstaden:entity:id:146
+  country: Sverige
+  latitude: 61.727088
+  longitude: 17.10583
+
+- location: Filmstaden Gävle
+  city: Gävle
+  urn: urn:filmstaden:entity:id:59
+  country: Sverige
+  latitude: 60.67488
+  longitude: 17.141273
+
+- location: Spegeln
+  city: Uppsala
+  urn: urn:filmstaden:entity:id:82
+  country: Sverige
+  latitude: 59.857594
+  longitude: 17.637505
+
+- location: Filmstaden Uppsala
+  city: Uppsala
+  urn: urn:filmstaden:entity:id:83
+  country: Sverige
+  latitude: 59.856941
+  longitude: 17.638188
+
+- location: Royal Uppsala
+  city: Uppsala
+  urn: urn:filmstaden:entity:id:159
+  country: Sverige
+  latitude: 59.859279
+  longitude: 17.641557
+
+- location: Filmstaden Vällingby
+  city: Stockholm
+  urn: urn:filmstaden:entity:id:154
+  country: Sverige
+  latitude: 59.362781
+  longitude: 17.871838
+
+- location: Filmstaden Heron City
+  city: Stockholm
+  urn: urn:filmstaden:entity:id:144
+  country: Sverige
+  latitude: 59.267201
+  longitude: 17.910267
+
+- location: Saga Härnösand
+  city: Härnösand
+  urn: urn:filmstaden:entity:id:184
+  country: Sverige
+  latitude: 62.633527
+  longitude: 17.940062
+
+- location: Filmstaden Kista
+  city: Stockholm
+  urn: urn:filmstaden:entity:id:141
+  country: Sverige
+  latitude: 59.40231
+  longitude: 17.945734
+
+- location: Filmstaden Råsunda
+  city: Stockholm
+  urn: urn:filmstaden:entity:id:115
+  country: Sverige
+  latitude: 59.367098
+  longitude: 17.982112
+
+- location: Filmstaden Scandinavia
+  city: Stockholm
+  urn: urn:filmstaden:entity:id:201
+  country: Sverige
+  latitude: 59.369329
+  longitude: 18.005496
+
+- location: Grand Stockholm
+  city: Stockholm
+  urn: urn:filmstaden:entity:id:176
+  country: Sverige
+  latitude: 59.339236
+  longitude: 18.059492
+
+- location: Skandia
+  city: Stockholm
+  urn: urn:filmstaden:entity:id:139
+  country: Sverige
+  latitude: 59.335439
+  longitude: 18.059983
+
+- location: Filmstaden Sergel
+  city: Stockholm
+  urn: urn:filmstaden:entity:id:93
+  country: Sverige
+  latitude: 59.334666
+  longitude: 18.06283
+
+- location: Saga
+  city: Stockholm
+  urn: urn:filmstaden:entity:id:92
+  country: Sverige
+  latitude: 59.336131
+  longitude: 18.067115
+
+- location: Filmstaden Täby
+  city: Stockholm
+  urn: urn:filmstaden:entity:id:193
+  country: Sverige
+  latitude: 59.445102
+  longitude: 18.067541
+
+- location: Sture
+  city: Stockholm
+  urn: urn:filmstaden:entity:id:173
+  country: Sverige
+  latitude: 59.33906
+  longitude: 18.067741
+
+- location: Rigoletto
+  city: Stockholm
+  urn: urn:filmstaden:entity:id:91
+  country: Sverige
+  latitude: 59.336031
+  longitude: 18.068917
+
+- location: Filmstaden Söder
+  city: Stockholm
+  urn: urn:filmstaden:entity:id:171
+  country: Sverige
+  latitude: 59.314049
+  longitude: 18.071269
+
+- location: Victoria Stockholm
+  city: Stockholm
+  urn: urn:filmstaden:entity:id:175
+  country: Sverige
+  latitude: 59.312739
+  longitude: 18.074368
+
+- location: Filmstaden Sickla
+  city: Stockholm
+  urn: urn:filmstaden:entity:id:174
+  country: Sverige
+  latitude: 59.305126
+  longitude: 18.121386
+
+- location: Grand Lidingö
+  city: Stockholm
+  urn: urn:filmstaden:entity:id:108
+  country: Sverige
+  latitude: 59.365808
+  longitude: 18.135676
+
+- location: Biostaden Borgen Visby
+  city: Visby
+  urn: urn:filmstaden:entity:id:181
+  country: Sverige
+  latitude: 57.638675
+  longitude: 18.29763
+
+- location: Royal Norrtälje
+  city: Norrtälje
+  urn: urn:filmstaden:entity:id:185
+  country: Sverige
+  latitude: 59.757966
+  longitude: 18.702681
+
+- location: Biostaden Palladium Örnsköldsvik
+  city: Örnsköldsvik
+  urn: urn:filmstaden:entity:id:128
+  country: Sverige
+  latitude: 63.290958
+  longitude: 18.716214
+
+- location: Filmstaden Umeå
+  city: Umeå
+  urn: urn:filmstaden:entity:id:81
+  country: Sverige
+  latitude: 63.824137
+  longitude: 20.26398
+
+- location: Biostaden Aveny Skellefteå
+  city: Skellefteå
+  urn: urn:filmstaden:entity:id:123
+  country: Sverige
+  latitude: 64.751213
+  longitude: 20.954742
+
+- location: Filmstaden Luleå
+  city: Luleå
+  urn: urn:filmstaden:entity:id:68
+  country: Sverige
+  latitude: 65.585156
+  longitude: 22.154219

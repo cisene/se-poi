@@ -301,6 +301,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
 | [ChopChop Asian Express](https://sv.wikipedia.org/wiki/Chop_Chop)                        |         38 |
+| [Jensens Bøfhus](https://sv.wikipedia.org/wiki/Jensen%27s_B%C3%B8fhus)                   |          5 |
 | [O'Learys](https://sv.wikipedia.org/wiki/O%27Learys)                                     |         64 |
 | [Pinchos](https://sv.wikipedia.org/wiki/Pinchos)                                         |         64 |
 | [Sushi Yama](https://sv.wikipedia.org/wiki/Sushi_Yama)                                   |         42 |
@@ -353,6 +354,16 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | [Tele2](https://sv.wikipedia.org/wiki/Tele2)                                             |         29 |
 | [Telenor](https://sv.wikipedia.org/wiki/Telenor_Sverige)                                 |         44 |
 | [Telia](https://sv.wikipedia.org/wiki/Telia_Sverige)                                     |         60 |
+
+
+
+
+## Underhållning
+
+| Namn                                                                                     | Positioner |
+| :--------------------------------------------------------------------------------------- | ---------: |
+| [Filmstaden](https://sv.wikipedia.org/wiki/Filmstaden)                                   |         79 |
+| [Hemmakväll](https://sv.wikipedia.org/wiki/Hemmakv%C3%A4ll)                              |         70 |
 
 
 
