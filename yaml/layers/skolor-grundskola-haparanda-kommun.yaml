@@ -1,0 +1,70 @@
+meta:
+  name: Grundskolor Haparanda Kommun
+  web: https://www.haparanda.se/
+  wikipedia: https://sv.wikipedia.org/wiki/Haparanda_kommun
+  category: Grundskolor
+  locations: 9
+
+locations:
+- location: Seskarö skola
+  city: Haparanda
+  country: Sverige
+  urn: urn:skolenhetskod:68499692
+  latitude: 65.739437
+  longitude: 23.736312
+
+- location: Nikkala skola
+  city: Haparanda
+  country: Sverige
+  urn: urn:skolenhetskod:31409065
+  latitude: 65.805063
+  longitude: 23.915062
+
+- location: Karungi skola
+  city: Haparanda
+  country: Sverige
+  urn: urn:skolenhetskod:26619765
+  latitude: 66.045187
+  longitude: 23.949937
+
+- location: Språkskolan
+  city: Haparanda
+  country: Sverige
+  urn: urn:skolenhetskod:74486554
+  latitude: 65.851438
+  longitude: 24.114688
+
+- location: Särskolan Eden grundsär
+  city: Haparanda
+  country: Sverige
+  urn: urn:skolenhetskod:86490934
+  latitude: 65.851438
+  longitude: 24.114688
+
+- location: Montessoriskolan Droppen
+  city: Haparanda
+  country: Sverige
+  urn: urn:skolenhetskod:80142495
+  latitude: 65.838562
+  longitude: 24.126062
+
+- location: Tornedalsskolan
+  city: Haparanda
+  country: Sverige
+  urn: urn:skolenhetskod:11294673
+  latitude: 65.834563
+  longitude: 24.127812
+
+- location: Gränsskolan
+  city: Haparanda
+  country: Sverige
+  urn: urn:skolenhetskod:29991096
+  latitude: 65.833187
+  longitude: 24.129688
+
+- location: Aspstrandens skola
+  city: Haparanda
+  country: Sverige
+  urn: urn:skolenhetskod:91185118
+  latitude: 65.835313
+  longitude: 24.131188

@@ -141,6 +141,16 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 
 
+## Grundskolor
+
+| Namn                                                                                     | Positioner |
+| :--------------------------------------------------------------------------------------- | ---------: |
+| [Grundskolor Haparanda Kommun](https://sv.wikipedia.org/wiki/Haparanda_kommun)           |          9 |
+| [Grundskolor Kiruna Kommun](https://sv.wikipedia.org/wiki/Kiruna_kommun)                 |         19 |
+
+
+
+
 ## Guldsmeder och Juvelerare
 
 | Namn                                                                                     | Positioner |
@@ -156,6 +166,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
 | [Elgiganten](https://sv.wikipedia.org/wiki/Elgiganten)                                   |        176 |
+| [Kjell & Company](https://sv.wikipedia.org/wiki/Kjell_%26_Company)                       |         99 |
 | [MediaMarkt](https://sv.wikipedia.org/wiki/Media_Markt)                                  |         29 |
 | [Teknikmagasinet](https://sv.wikipedia.org/wiki/Teknikmagasinet)                         |         35 |
 
