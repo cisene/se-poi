@@ -1,0 +1,1813 @@
+meta:
+  name: St1 Finland
+  web: https://www.st1.fi/
+  wikipedia: https://fi.wikipedia.org/wiki/St1
+  category: Drivmedel
+  locations: 258
+
+locations:
+- location: St1 Eckerö Käringsund
+  city: Eckerö
+  country: Finland
+  urn: urn:St1:station:id:1046
+  latitude: 60.232523
+  longitude: 19.538994
+
+- location: St1 Eckerö Eckerövägen
+  city: Eckerö
+  country: Finland
+  urn: urn:St1:station:id:1132
+  latitude: 60.223385
+  longitude: 19.559923
+
+- location: St1 Maarianhamina ÅSS Marina
+  city: Mariehamn
+  country: Finland
+  urn: urn:St1:station:id:1154
+  latitude: 60.099042
+  longitude: 19.923912
+
+- location: St1 Jomala Sparmacken
+  city: Jomala
+  country: Finland
+  urn: urn:St1:station:id:1030
+  latitude: 60.129977
+  longitude: 19.933324
+
+- location: St1 Jomala Kantarellen
+  city: Jomala
+  country: Finland
+  urn: urn:St1:station:id:1159
+  latitude: 60.133125
+  longitude: 19.934349
+
+- location: St1 TS Maarianhamina Vikingagränd
+  city: Mariehamn
+  country: Finland
+  urn: urn:St1:station:id:1170
+  latitude: 60.125795
+  longitude: 19.936487
+
+- location: St1 Maarianhamina Strandgatan
+  city: Mariehamn
+  country: Finland
+  urn: urn:St1:station:id:1321
+  latitude: 60.106899
+  longitude: 19.941853
+
+- location: St1 Veneasema Maarianhamina ÅSS Mariehamn
+  city: Mariehamn
+  country: Finland
+  urn: urn:St1:station:id:1169
+  latitude: 60.106917
+  longitude: 19.941903
+
+- location: St1 Småbåtsvarvet
+  city: Mariehamn
+  country: Finland
+  urn: urn:St1:station:id:1165
+  latitude: 60.089633
+  longitude: 19.956765
+
+- location: St1 Småbåtsvarvet (AUT)
+  city: Mariehamn
+  country: Finland
+  urn: urn:St1:station:id:1026
+  latitude: 60.089633
+  longitude: 19.956765
+
+- location: St1 Automat Finström Godby
+  city: Godby
+  country: Finland
+  urn: urn:St1:station:id:1824
+  latitude: 60.229354
+  longitude: 19.987731
+
+- location: St1 Finström Godby HelmiSimpukkaExpress
+  city: Godby
+  country: Finland
+  urn: urn:St1:station:id:1827
+  latitude: 60.229354
+  longitude: 19.987731
+
+- location: St1 Lemland
+  city: Lemland
+  country: Finland
+  urn: urn:St1:station:id:1271
+  latitude: 60.071136
+  longitude: 20.084693
+
+- location: St1 Kumlinge Gästhamn
+  city: Kumlinge
+  country: Finland
+  urn: urn:St1:station:id:1005
+  latitude: 60.257335
+  longitude: 20.73817
+
+- location: St1 Automaatti Närpiö
+  city: Närpiö as
+  country: Finland
+  urn: urn:St1:station:id:1537
+  latitude: 62.478884
+  longitude: 21.373225
+
+- location: St1 Uusikaupunki
+  city: Uusikaupunki
+  country: Finland
+  urn: urn:St1:station:id:1021
+  latitude: 60.80253
+  longitude: 21.465037
+
+- location: St1 Rauma Nortamonkatu
+  city: Rauma
+  country: Finland
+  urn: urn:St1:station:id:1288
+  latitude: 61.123872
+  longitude: 21.503358
+
+- location: St1 Automaatti Rauma Kortela
+  city: Rauma
+  country: Finland
+  urn: urn:St1:station:id:1779
+  latitude: 61.100805
+  longitude: 21.506113
+
+- location: St1 Vaasa Palosaari
+  city: Vaasa
+  country: Finland
+  urn: urn:St1:station:id:1034
+  latitude: 63.105869
+  longitude: 21.60244
+
+- location: St1 Automaatti Merikarvia Tuorila
+  city: Tuorila
+  country: Finland
+  urn: urn:St1:station:id:1685
+  latitude: 61.862454
+  longitude: 21.639532
+
+- location: St1 Luvia
+  city: Luvia
+  country: Finland
+  urn: urn:St1:station:id:1242
+  latitude: 61.365976
+  longitude: 21.647449
+
+- location: St1 Automaatti Vaasa Huutoniemi
+  city: Vaasa
+  country: Finland
+  urn: urn:St1:station:id:1426
+  latitude: 63.090416
+  longitude: 21.68552
+
+- location: St1 Vehmaa Vinkkilä
+  city: Vinkkilä
+  country: Finland
+  urn: urn:St1:station:id:1054
+  latitude: 60.678951
+  longitude: 21.708872
+
+- location: St1 Vehmaa Rautila
+  city: Rautila
+  country: Finland
+  urn: urn:St1:station:id:1053
+  latitude: 60.613113
+  longitude: 21.710883
+
+- location: St1 Automaatti Pori Musa
+  city: Pori
+  country: Finland
+  urn: urn:St1:station:id:1178
+  latitude: 61.47993
+  longitude: 21.760817
+
+- location: St1 Automaatti Pori Toejoki
+  city: Pori
+  country: Finland
+  urn: urn:St1:station:id:1217
+  latitude: 61.498477
+  longitude: 21.806534
+
+- location: St1 Koivulahti
+  city: Koivulahti
+  country: Finland
+  urn: urn:St1:station:id:1710
+  latitude: 63.155922
+  longitude: 21.821482
+
+- location: St1 Automaatti Pori Mikkola
+  city: Pori
+  country: Finland
+  urn: urn:St1:station:id:1035
+  latitude: 61.451295
+  longitude: 21.835368
+
+- location: St1 Automaatti Ulvila
+  city: Ulvila
+  country: Finland
+  urn: urn:St1:station:id:1089
+  latitude: 61.428474
+  longitude: 21.875835
+
+- location: St1 Mynämäki
+  city: Mynämäki
+  country: Finland
+  urn: urn:St1:station:id:1012
+  latitude: 60.683779
+  longitude: 21.990002
+
+- location: St1 Automaatti Nakkila
+  city: Nakkila
+  country: Finland
+  urn: urn:St1:station:id:1020
+  latitude: 61.364618
+  longitude: 22.005934
+
+- location: St1 Automaatti Ulvila Kaasmarkku
+  city: Kaasmarkku
+  country: Finland
+  urn: urn:St1:station:id:1661
+  latitude: 61.459181
+  longitude: 22.012847
+
+- location: St1 Naantali Alppilankatu
+  city: Naantali
+  country: Finland
+  urn: urn:St1:station:id:1541
+  latitude: 60.466783
+  longitude: 22.031035
+
+- location: St1 Automaatti Raisio Petäsmäki
+  city: Raisio
+  country: Finland
+  urn: urn:St1:station:id:1662
+  latitude: 60.505982
+  longitude: 22.134821
+
+- location: St1 Automaatti Harjavalta
+  city: Harjavalta
+  country: Finland
+  urn: urn:St1:station:id:1016
+  latitude: 61.3107
+  longitude: 22.134883
+
+- location: St1 Eura
+  city: Eura
+  country: Finland
+  urn: urn:St1:station:id:1047
+  latitude: 61.121897
+  longitude: 22.139193
+
+- location: St1 Raisio Keskusta
+  city: Raisio
+  country: Finland
+  urn: urn:St1:station:id:1128
+  latitude: 60.484772
+  longitude: 22.171106
+
+- location: St1 Automaatti Raisio Hauninen
+  city: Raisio
+  country: Finland
+  urn: urn:St1:station:id:1664
+  latitude: 60.49294
+  longitude: 22.20306
+
+- location: St1 Automaatti Raisio Kuninkoja
+  city: Raisio
+  country: Finland
+  urn: urn:St1:station:id:1826
+  latitude: 60.493483
+  longitude: 22.223366
+
+- location: St1 Automaatti Turku Länsikeskus
+  city: Turku
+  country: Finland
+  urn: urn:St1:station:id:1643
+  latitude: 60.47234
+  longitude: 22.226729
+
+- location: St1 Automaatti Turku Hirvensalo
+  city: Turku
+  country: Finland
+  urn: urn:St1:station:id:1764
+  latitude: 60.418768
+  longitude: 22.229322
+
+- location: St1 Kauhajoki As
+  city: Kauhajoki as
+  country: Finland
+  urn: urn:St1:station:id:1263
+  latitude: 62.454842
+  longitude: 22.232167
+
+- location: St1 Honkajoki
+  city: Honkajoki
+  country: Finland
+  urn: urn:St1:station:id:1187
+  latitude: 61.991969
+  longitude: 22.242753
+
+- location: St1 Turku Stålarminkatu 32
+  city: Turku
+  country: Finland
+  urn: urn:St1:station:id:1065
+  latitude: 60.436048
+  longitude: 22.24882
+
+- location: St1 Automaatti Turku Kupittaa
+  city: Turku
+  country: Finland
+  urn: urn:St1:station:id:1781
+  latitude: 60.445487
+  longitude: 22.284198
+
+- location: St1 Automaatti Parainen Rantatie
+  city: Parainen
+  country: Finland
+  urn: urn:St1:station:id:1215
+  latitude: 60.305826
+  longitude: 22.300666
+
+- location: St1 Automaatti Turku Moisio
+  city: Turku
+  country: Finland
+  urn: urn:St1:station:id:1669
+  latitude: 60.533557
+  longitude: 22.306038
+
+- location: St1 Automaatti Kokemäki
+  city: Kokemäki
+  country: Finland
+  urn: urn:St1:station:id:1017
+  latitude: 61.25532
+  longitude: 22.344428
+
+- location: St1 Automaatti Kaarina
+  city: Turku
+  country: Finland
+  urn: urn:St1:station:id:1679
+  latitude: 60.469268
+  longitude: 22.355846
+
+- location: St1 Automaatti Parainen Lielahti
+  city: Kirjala
+  country: Finland
+  urn: urn:St1:station:id:1659
+  latitude: 60.338149
+  longitude: 22.365263
+
+- location: St1 Oravainen HelmiSimpukkaExpress
+  city: Oravainen
+  country: Finland
+  urn: urn:St1:station:id:1191
+  latitude: 63.304341
+  longitude: 22.378797
+
+- location: St1 Automaatti Vöyri Oravainen
+  city: Oravainen
+  country: Finland
+  urn: urn:St1:station:id:1828
+  latitude: 63.304347
+  longitude: 22.378881
+
+- location: St1 Kankaanpää
+  city: Kankaanpää
+  country: Finland
+  urn: urn:St1:station:id:1003
+  latitude: 61.813386
+  longitude: 22.379368
+
+- location: St1 Automaatti Littoinen
+  city: Littoinen
+  country: Finland
+  urn: urn:St1:station:id:1639
+  latitude: 60.444883
+  longitude: 22.392716
+
+- location: St1 Automaatti Kurikka Saumantie (ent. keskusta)
+  city: Kurikka
+  country: Finland
+  urn: urn:St1:station:id:1460
+  latitude: 62.613963
+  longitude: 22.395784
+
+- location: St1 Automaatti Yläne
+  city: Yläne
+  country: Finland
+  urn: urn:St1:station:id:1117
+  latitude: 60.876975
+  longitude: 22.396458
+
+- location: St1 Automaatti Lieto
+  city: Lieto
+  country: Finland
+  urn: urn:St1:station:id:1660
+  latitude: 60.465311
+  longitude: 22.413675
+
+- location: St1 Automaatti Ylistaro
+  city: Ylistaro
+  country: Finland
+  urn: urn:St1:station:id:1843
+  latitude: 62.93554
+  longitude: 22.51051
+
+- location: St1 Ylistaro Kk Helmisimpukka Express
+  city: Ylistaro
+  country: Finland
+  urn: urn:St1:station:id:1317
+  latitude: 62.93576
+  longitude: 22.51078
+
+- location: St1 Karvia
+  city: Karvia
+  country: Finland
+  urn: urn:St1:station:id:1136
+  latitude: 62.140106
+  longitude: 22.563141
+
+- location: St1 Automaatti Ilmajoki
+  city: Ilmajoki
+  country: Finland
+  urn: urn:St1:station:id:1727
+  latitude: 62.733309
+  longitude: 22.581652
+
+- location: St1 Automaatti Pietarsaari Vaunusepäntie
+  city: Pietarsaari
+  country: Finland
+  urn: urn:St1:station:id:1640
+  latitude: 63.678419
+  longitude: 22.737528
+
+- location: St1 Kemiö, Kimito
+  city: Kemiö
+  country: Finland
+  urn: urn:St1:station:id:1269
+  latitude: 60.167531
+  longitude: 22.737732
+
+- location: St1 Automaatti Pöytyä Kyrö Sahantie
+  city: Kyrö
+  country: Finland
+  urn: urn:St1:station:id:1704
+  latitude: 60.70775
+  longitude: 22.742434
+
+- location: St1 TS Pöytyä Kyrö Sahantie
+  city: Kyrö
+  country: Finland
+  urn: urn:St1:station:id:1110
+  latitude: 60.70775
+  longitude: 22.742434
+
+- location: St1 Pöytyä Kyrö Ollilantie
+  city: Kyrö
+  country: Finland
+  urn: urn:St1:station:id:1190
+  latitude: 60.70226
+  longitude: 22.761406
+
+- location: St1 Automaatti Seinäjoki Jouppi
+  city: Seinäjoki
+  country: Finland
+  urn: urn:St1:station:id:1010
+  latitude: 62.792028
+  longitude: 22.808065
+
+- location: St1 Automaatti Seinäjoki Itikka
+  city: Seinäjoki
+  country: Finland
+  urn: urn:St1:station:id:1733
+  latitude: 62.799872
+  longitude: 22.846378
+
+- location: St1 Automaatti Kauhava Alahärmä
+  city: Härmä
+  country: Finland
+  urn: urn:St1:station:id:1755
+  latitude: 63.238978
+  longitude: 22.846851
+
+- location: St1 Automaatti Seinäjoki Päivölänkatu
+  city: Seinäjoki
+  country: Finland
+  urn: urn:St1:station:id:1692
+  latitude: 62.792224
+  longitude: 22.869643
+
+- location: St1 Automaatti Seinäjoki Kasperi
+  city: Seinäjoki
+  country: Finland
+  urn: urn:St1:station:id:1829
+  latitude: 62.773231
+  longitude: 22.877849
+
+- location: St1 Seinäjoki Nurmo
+  city: Hyllykallio
+  country: Finland
+  urn: urn:St1:station:id:1333
+  latitude: 62.807083
+  longitude: 22.880552
+
+- location: St1 Automaatti Sastamala Vammala
+  city: Sastamala
+  country: Finland
+  urn: urn:St1:station:id:1645
+  latitude: 61.332664
+  longitude: 22.920724
+
+- location: St1 Veneasema Hanko Hangonkylä
+  city: Hanko
+  country: Finland
+  urn: urn:St1:station:id:1146
+  latitude: 59.842365
+  longitude: 22.947646
+
+- location: St1 Automaatti Hanko Kauppatori
+  city: Hanko
+  country: Finland
+  urn: urn:St1:station:id:1832
+  latitude: 59.825083
+  longitude: 22.964389
+
+- location: St1 Veneasema Hanko Itäsatama
+  city: Hanko
+  country: Finland
+  urn: urn:St1:station:id:1484
+  latitude: 59.818409
+  longitude: 22.968305
+
+- location: St1 Automaatti Lapua Poutuntie
+  city: Lapua
+  country: Finland
+  urn: urn:St1:station:id:1353
+  latitude: 62.972209
+  longitude: 23.001414
+
+- location: St1 Automaatti Parkano Keskuskatu
+  city: Parkano
+  country: Finland
+  urn: urn:St1:station:id:1164
+  latitude: 62.010803
+  longitude: 23.019232
+
+- location: St1 Automaatti Lapua Keskusta
+  city: Lapua
+  country: Finland
+  urn: urn:St1:station:id:1830
+  latitude: 62.97531
+  longitude: 23.021693
+
+- location: St1 Loimaa
+  city: Loimaa
+  country: Finland
+  urn: urn:St1:station:id:1084
+  latitude: 60.855789
+  longitude: 23.036558
+
+- location: St1 Ikaalinen
+  city: Ikaalinen
+  country: Finland
+  urn: urn:St1:station:id:1334
+  latitude: 61.757138
+  longitude: 23.03739
+
+- location: St1 Automaatti Kauhava
+  city: Kauhava
+  country: Finland
+  urn: urn:St1:station:id:1744
+  latitude: 63.094483
+  longitude: 23.056181
+
+- location: St1 Automaatti Kokkola Koivuhaka
+  city: Kokkola
+  country: Finland
+  urn: urn:St1:station:id:1638
+  latitude: 63.833826
+  longitude: 23.06433
+
+- location: St1 Automaatti Salo Turuntie
+  city: Salo
+  country: Finland
+  urn: urn:St1:station:id:1052
+  latitude: 60.388787
+  longitude: 23.121746
+
+- location: St1 Perniö
+  city: Perniö
+  country: Finland
+  urn: urn:St1:station:id:1292
+  latitude: 60.226
+  longitude: 23.122573
+
+- location: St1 Automaatti Kokkola Rytimäki
+  city: Kokkola
+  country: Finland
+  urn: urn:St1:station:id:1077
+  latitude: 63.84907
+  longitude: 23.15655
+
+- location: St1 Automaatti Kokkola Heinola
+  city: Kokkola
+  country: Finland
+  urn: urn:St1:station:id:1240
+  latitude: 63.826104
+  longitude: 23.159496
+
+- location: St1 TS Kokkola Heinola
+  city: Kokkola
+  country: Finland
+  urn: urn:St1:station:id:1114
+  latitude: 63.824703
+  longitude: 23.160529
+
+- location: St1 Automaatti Hämeenkyrö Nuijamiestentie
+  city: Hämeenkyrö
+  country: Finland
+  urn: urn:St1:station:id:1095
+  latitude: 61.654284
+  longitude: 23.175849
+
+- location: St1 Automaatti Humppila
+  city: Humppila
+  country: Finland
+  urn: urn:St1:station:id:1573
+  latitude: 60.941071
+  longitude: 23.36577
+
+- location: St1 Automaatti Raasepori Tammisaari
+  city: Tammisaari
+  country: Finland
+  urn: urn:St1:station:id:1228
+  latitude: 59.985058
+  longitude: 23.41965
+
+- location: St1 Automaatti Kälviä
+  city: Kälviä
+  country: Finland
+  urn: urn:St1:station:id:1175
+  latitude: 63.866539
+  longitude: 23.453378
+
+- location: St1 Automaatti Evijärvi
+  city: Evijärvi
+  country: Finland
+  urn: urn:St1:station:id:1646
+  latitude: 63.359751
+  longitude: 23.467081
+
+- location: St1 Automaatti Nokia Nuijamiestentie
+  city: Nokia
+  country: Finland
+  urn: urn:St1:station:id:1037
+  latitude: 61.465181
+  longitude: 23.505559
+
+- location: St1 Automaatti Somero
+  city: Somero
+  country: Finland
+  urn: urn:St1:station:id:1707
+  latitude: 60.638228
+  longitude: 23.512208
+
+- location: St1 Automaatti Nokia Yrittäjäkatu
+  city: Nokia
+  country: Finland
+  urn: urn:St1:station:id:1024
+  latitude: 61.479965
+  longitude: 23.525576
+
+- location: St1 Automaatti Nokia Öljytie
+  city: Nokia
+  country: Finland
+  urn: urn:St1:station:id:1031
+  latitude: 61.494769
+  longitude: 23.533018
+
+- location: St1 Automaatti Ylöjärvi Kyrönlahti
+  city: Kyrönlahti
+  country: Finland
+  urn: urn:St1:station:id:1695
+  latitude: 61.716409
+  longitude: 23.546944
+
+- location: St1 Automaatti Ylöjärvi Kumitie
+  city: Ylöjärvi
+  country: Finland
+  urn: urn:St1:station:id:1792
+  latitude: 61.556821
+  longitude: 23.563461
+
+- location: St1 Automaatti Tampere Myllypuro
+  city: Tampere
+  country: Finland
+  urn: urn:St1:station:id:1743
+  latitude: 61.503263
+  longitude: 23.578587
+
+- location: St1 Enontekiö
+  city: Enontekiö
+  country: Finland
+  urn: urn:St1:station:id:1428
+  latitude: 68.385781
+  longitude: 23.603238
+
+- location: St1 Automaatti Forssa
+  city: Forssa
+  country: Finland
+  urn: urn:St1:station:id:1683
+  latitude: 60.802995
+  longitude: 23.607365
+
+- location: St1 Lappajärvi
+  city: Lappajärvi
+  country: Finland
+  urn: urn:St1:station:id:1044
+  latitude: 63.231857
+  longitude: 23.628975
+
+- location: St1 Automaatti Vesilahti
+  city: Vesilahti
+  country: Finland
+  urn: urn:St1:station:id:1051
+  latitude: 61.293937
+  longitude: 23.638029
+
+- location: St1 Automaatti Tampere Lielahti
+  city: Tampere
+  country: Finland
+  urn: urn:St1:station:id:1747
+  latitude: 61.517971
+  longitude: 23.658232
+
+- location: St1 Pirkkala
+  city: Pirkkala
+  country: Finland
+  urn: urn:St1:station:id:1072
+  latitude: 61.469373
+  longitude: 23.684664
+
+- location: St1 Automaatti Kaustinen
+  city: Kaustinen
+  country: Finland
+  urn: urn:St1:station:id:1745
+  latitude: 63.549851
+  longitude: 23.686992
+
+- location: St1 Automaatti Tampere Lakalaiva
+  city: Tampere
+  country: Finland
+  urn: urn:St1:station:id:1714
+  latitude: 61.458656
+  longitude: 23.762324
+
+- location: St1 Automaatti Tampere Hatanpää
+  city: Tampere
+  country: Finland
+  urn: urn:St1:station:id:1705
+  latitude: 61.478489
+  longitude: 23.766414
+
+- location: St1 Automaatti Lempäälä Kulju
+  city: Lempäälä
+  country: Finland
+  urn: urn:St1:station:id:1651
+  latitude: 61.381215
+  longitude: 23.780779
+
+- location: St1 Automaatti Kolari
+  city: Kolari
+  country: Finland
+  urn: urn:St1:station:id:1682
+  latitude: 67.34779
+  longitude: 23.826813
+
+- location: St1 Automaatti Tampere Pappila
+  city: Tampere
+  country: Finland
+  urn: urn:St1:station:id:1752
+  latitude: 61.503765
+  longitude: 23.861198
+
+- location: St1 Automaatti Tampere Kämmenniemi
+  city: Kämmenniemi
+  country: Finland
+  urn: urn:St1:station:id:1746
+  latitude: 61.615235
+  longitude: 23.875897
+
+- location: St1 Veneasema Inkoo Barösund
+  city: Barösund
+  country: Finland
+  urn: urn:St1:station:id:1463
+  latitude: 59.97706
+  longitude: 23.876077
+
+- location: St1 Automaatti Lempäälä Helsingintie
+  city: Lempäälä
+  country: Finland
+  urn: urn:St1:station:id:1652
+  latitude: 61.318533
+  longitude: 23.912824
+
+- location: St1 Lohja Saukkola
+  city: Saukkola
+  country: Finland
+  urn: urn:St1:station:id:1339
+  latitude: 60.37988
+  longitude: 23.958821
+
+- location: St1 Lohja Virkkala
+  city: Lohja
+  country: Finland
+  urn: urn:St1:station:id:1001
+  latitude: 60.178419
+  longitude: 23.997878
+
+- location: St1 Automaatti Lohja Ojamo
+  city: Lohja
+  country: Finland
+  urn: urn:St1:station:id:1118
+  latitude: 60.227881
+  longitude: 24.021006
+
+- location: St1 Automaatti Inkoo
+  city: Inkoo
+  country: Finland
+  urn: urn:St1:station:id:1179
+  latitude: 60.060664
+  longitude: 24.024099
+
+- location: St1 Automaatti Kangasala Kt 921
+  city: Kangasala
+  country: Finland
+  urn: urn:St1:station:id:1654
+  latitude: 61.471561
+  longitude: 24.031466
+
+- location: St1 Automaatti Kangasala Kt 1070
+  city: Kangasala
+  country: Finland
+  urn: urn:St1:station:id:1279
+  latitude: 61.465013
+  longitude: 24.056551
+
+- location: St1 Automaatti Lohja Koisjärvi
+  city: Koisjärvi
+  country: Finland
+  urn: urn:St1:station:id:1603
+  latitude: 60.385208
+  longitude: 24.083241
+
+- location: St1 Automaatti Tornio Vojakkala
+  city: Tornio
+  country: Finland
+  urn: urn:St1:station:id:1759
+  latitude: 65.91532
+  longitude: 24.136817
+
+- location: St1 Automaatti Hämeenlinna Iittala
+  city: Iittala
+  country: Finland
+  urn: urn:St1:station:id:1729
+  latitude: 61.096838
+  longitude: 24.159549
+
+- location: St1 Automaatti Tornio Torpinkatu
+  city: Tornio
+  country: Finland
+  urn: urn:St1:station:id:1666
+  latitude: 65.8442
+  longitude: 24.177447
+
+- location: St1 Soini Multiantie
+  city: Soini
+  country: Finland
+  urn: urn:St1:station:id:1358
+  latitude: 62.872587
+  longitude: 24.208524
+
+- location: St1 Automaatti Hämeenlinna Renko
+  city: Renko
+  country: Finland
+  urn: urn:St1:station:id:1730
+  latitude: 60.901204
+  longitude: 24.291189
+
+- location: St1 Automaatti Vihti Nummela
+  city: Nummela
+  country: Finland
+  urn: urn:St1:station:id:1762
+  latitude: 60.333562
+  longitude: 24.334151
+
+- location: St1 Automaatti Orivesi
+  city: Orivesi
+  country: Finland
+  urn: urn:St1:station:id:1027
+  latitude: 61.692415
+  longitude: 24.355999
+
+- location: St1 Automaatti Korkeakoski Juupajoki
+  city: Korkeakoski
+  country: Finland
+  urn: urn:St1:station:id:1028
+  latitude: 61.785524
+  longitude: 24.391388
+
+- location: St1 Automaatti Hämeenlinna Tiiriö
+  city: Hämeenlinna
+  country: Finland
+  urn: urn:St1:station:id:1245
+  latitude: 61.008052
+  longitude: 24.418029
+
+- location: St1 Perho
+  city: Perho
+  country: Finland
+  urn: urn:St1:station:id:1068
+  latitude: 63.212107
+  longitude: 24.424931
+
+- location: St1 Automaatti Kirkkonummi Veikkola
+  city: Veikkola
+  country: Finland
+  urn: urn:St1:station:id:1002
+  latitude: 60.267992
+  longitude: 24.458829
+
+- location: St1 Automaatti Raahe
+  city: Raahe
+  country: Finland
+  urn: urn:St1:station:id:1791
+  latitude: 64.682486
+  longitude: 24.481392
+
+- location: St1 Vilppula
+  city: Vilppula
+  country: Finland
+  urn: urn:St1:station:id:1274
+  latitude: 62.021308
+  longitude: 24.503717
+
+- location: St1 Automaatti Kirkkonummi Masala
+  city: Masala
+  country: Finland
+  urn: urn:St1:station:id:1678
+  latitude: 60.153897
+  longitude: 24.539083
+
+- location: St1 Automaatti Kemi Paattio
+  city: Kemi
+  country: Finland
+  urn: urn:St1:station:id:1741
+  latitude: 65.76405
+  longitude: 24.564046
+
+- location: St1 Automaatti Kemi Karjalahti
+  city: Kemi
+  country: Finland
+  urn: urn:St1:station:id:1757
+  latitude: 65.742417
+  longitude: 24.575509
+
+- location: St1 Automaatti Kemi Syväkangas
+  city: Kemi
+  country: Finland
+  urn: urn:St1:station:id:1045
+  latitude: 65.728401
+  longitude: 24.584912
+
+- location: St1 Automaatti Espoo Nupuri
+  city: Espoo
+  country: Finland
+  urn: urn:St1:station:id:1004
+  latitude: 60.238144
+  longitude: 24.594779
+
+- location: St1 Automaatti Pälkäne Luopioinen
+  city: Luopioinen
+  country: Finland
+  urn: urn:St1:station:id:1610
+  latitude: 61.361779
+  longitude: 24.642188
+
+- location: St1 Automaatti Espoo Latokaski
+  city: Espoo
+  country: Finland
+  urn: urn:St1:station:id:1698
+  latitude: 60.173696
+  longitude: 24.661651
+
+- location: St1 Automaatti Espoo Soukka
+  city: Espoo
+  country: Finland
+  urn: urn:St1:station:id:1672
+  latitude: 60.141986
+  longitude: 24.671295
+
+- location: St1 Espoo Bemböle
+  city: Espoo
+  country: Finland
+  urn: urn:St1:station:id:1840
+  latitude: 60.222806
+  longitude: 24.672498
+
+- location: St1 Automaatti Espoo Suomenoja
+  city: Espoo
+  country: Finland
+  urn: urn:St1:station:id:1634
+  latitude: 60.159764
+  longitude: 24.693095
+
+- location: St1 Automaatti Keuruu
+  city: Keuruu
+  country: Finland
+  urn: urn:St1:station:id:1127
+  latitude: 62.258124
+  longitude: 24.698652
+
+- location: St1 Automaatti Espoo Auroranportti
+  city: Espoo
+  country: Finland
+  urn: urn:St1:station:id:1699
+  latitude: 60.240468
+  longitude: 24.699875
+
+- location: St1 Automaatti Espoo Lähderanta
+  city: Espoo
+  country: Finland
+  urn: urn:St1:station:id:1774
+  latitude: 60.240178
+  longitude: 24.741577
+
+- location: St1 Automaatti Nurmijärvi Klaukkala
+  city: Klaukkala
+  country: Finland
+  urn: urn:St1:station:id:1667
+  latitude: 60.377086
+  longitude: 24.758007
+
+- location: St1 Automaatti Espoo Olarinluoma
+  city: Espoo
+  country: Finland
+  urn: urn:St1:station:id:1636
+  latitude: 60.180277
+  longitude: 24.760329
+
+- location: St1 Automaatti Espoo Mankkaa
+  city: Espoo
+  country: Finland
+  urn: urn:St1:station:id:1235
+  latitude: 60.194117
+  longitude: 24.768124
+
+- location: St1 Automaatti Riihimäki Petsamo
+  city: Riihimäki
+  country: Finland
+  urn: urn:St1:station:id:1751
+  latitude: 60.747747
+  longitude: 24.780808
+
+- location: St1 Automaatti Vantaa Petikko
+  city: Vantaa
+  country: Finland
+  urn: urn:St1:station:id:1590
+  latitude: 60.277316
+  longitude: 24.811626
+
+- location: St1 Automaatti Espoo Leppävaara
+  city: Espoo
+  country: Finland
+  urn: urn:St1:station:id:1526
+  latitude: 60.219825
+  longitude: 24.820869
+
+- location: St1 Automaatti Vantaa Rajatorppa
+  city: Vantaa
+  country: Finland
+  urn: urn:St1:station:id:1656
+  latitude: 60.253471
+  longitude: 24.822447
+
+- location: St1 Automaatti Nurmijärvi Kauppanummenkuja
+  city: Nurmijärvi
+  country: Finland
+  urn: urn:St1:station:id:1673
+  latitude: 60.45797
+  longitude: 24.82756
+
+- location: St1 Automaatti Hyvinkää Hakakallio
+  city: Hyvinkää
+  country: Finland
+  urn: urn:St1:station:id:1214
+  latitude: 60.605367
+  longitude: 24.866653
+
+- location: St1 Automaatti Helsinki Kannelmäki
+  city: Helsinki
+  country: Finland
+  urn: urn:St1:station:id:1711
+  latitude: 60.2444
+  longitude: 24.889543
+
+- location: St1 Veneasema Helsinki Lauttasaari
+  city: Helsinki
+  country: Finland
+  urn: urn:St1:station:id:1451
+  latitude: 60.1498
+  longitude: 24.89215
+
+- location: St1 Automaatti Vantaa Voutila
+  city: Vantaa
+  country: Finland
+  urn: urn:St1:station:id:1008
+  latitude: 60.299149
+  longitude: 24.905165
+
+- location: St1 Automaatti Vantaa Virkatie
+  city: Vantaa
+  country: Finland
+  urn: urn:St1:station:id:1668
+  latitude: 60.297102
+  longitude: 24.951947
+
+- location: St1 Automaatti Helsinki Vallila
+  city: Helsinki
+  country: Finland
+  urn: urn:St1:station:id:1694
+  latitude: 60.191109
+  longitude: 24.953917
+
+- location: St1 Automaatti Nivala
+  city: Nivala
+  country: Finland
+  urn: urn:St1:station:id:1728
+  latitude: 63.9294
+  longitude: 24.967141
+
+- location: St1 Vantaa Lentoasema
+  city: Vantaa
+  country: Finland
+  urn: urn:St1:station:id:1227
+  latitude: 60.312982
+  longitude: 24.971201
+
+- location: St1 Automaatti Helsinki Suutarila
+  city: Helsinki
+  country: Finland
+  urn: urn:St1:station:id:1185
+  latitude: 60.279964
+  longitude: 25.010845
+
+- location: St1 Automaatti Tuusula Riihikallio
+  city: Tuusula
+  country: Finland
+  urn: urn:St1:station:id:1767
+  latitude: 60.374721
+  longitude: 25.017366
+
+- location: St1 Automaatti Tuusula Kulomäentie
+  city: Tuusula
+  country: Finland
+  urn: urn:St1:station:id:1822
+  latitude: 60.344138
+  longitude: 25.021697
+
+- location: St1 Automaatti Vantaa Simonkylä
+  city: Vantaa
+  country: Finland
+  urn: urn:St1:station:id:1632
+  latitude: 60.309172
+  longitude: 25.028015
+
+- location: St1 Automaatti Helsinki Herttoniemi AWT
+  city: Helsinki
+  country: Finland
+  urn: urn:St1:station:id:1655
+  latitude: 60.193105
+  longitude: 25.04229
+
+- location: St1 Automaatti Helsinki Herttoniemi Sahaajankatu
+  city: Helsinki
+  country: Finland
+  urn: urn:St1:station:id:1618
+  latitude: 60.2062
+  longitude: 25.051896
+
+- location: St1 Automaatti Helsinki Kivikko
+  city: Helsinki
+  country: Finland
+  urn: urn:St1:station:id:1009
+  latitude: 60.231134
+  longitude: 25.053963
+
+- location: St1 Automaatti Helsinki Tattarisuo
+  city: Helsinki
+  country: Finland
+  urn: urn:St1:station:id:1688
+  latitude: 60.25885
+  longitude: 25.062465
+
+- location: St1 Automaatti Vantaa Korso
+  city: Vantaa
+  country: Finland
+  urn: urn:St1:station:id:1738
+  latitude: 60.353792
+  longitude: 25.078561
+
+- location: St1 Automaatti Vantaa Porttisuo
+  city: Vantaa
+  country: Finland
+  urn: urn:St1:station:id:1749
+  latitude: 60.280937
+  longitude: 25.084646
+
+- location: St1 Automaatti Järvenpää Yrittäjänkatu
+  city: Järvenpää
+  country: Finland
+  urn: urn:St1:station:id:1702
+  latitude: 60.497935
+  longitude: 25.089885
+
+- location: St1 Automaatti Kerava Keskusta
+  city: Kerava
+  country: Finland
+  urn: urn:St1:station:id:1796
+  latitude: 60.39912
+  longitude: 25.111505
+
+- location: St1 Automaatti Petäjävesi
+  city: Petäjävesi
+  country: Finland
+  urn: urn:St1:station:id:1367
+  latitude: 62.252614
+  longitude: 25.193721
+
+- location: St1 Automaatti Sipoo Jokivarrentie
+  city: Sipoo
+  country: Finland
+  urn: urn:St1:station:id:1756
+  latitude: 60.369016
+  longitude: 25.23106
+
+- location: St1 Automaatti Jämsä Patalahti
+  city: Jämsä
+  country: Finland
+  urn: urn:St1:station:id:1835
+  latitude: 61.870476
+  longitude: 25.236002
+
+- location: St1 TS Jämsä Patalahti
+  city: Jämsä
+  country: Finland
+  urn: urn:St1:station:id:1834
+  latitude: 61.870834
+  longitude: 25.236777
+
+- location: St1 Automaatti Saarijärvi
+  city: Saarijärvi
+  country: Finland
+  urn: urn:St1:station:id:1690
+  latitude: 62.697252
+  longitude: 25.289331
+
+- location: St1 Automaatti Mäntsälä Keskusta
+  city: Mäntsälä
+  country: Finland
+  urn: urn:St1:station:id:1647
+  latitude: 60.629619
+  longitude: 25.307985
+
+- location: St1 Automaatti Mäntsälä Pohjoinen
+  city: Mäntsälä
+  country: Finland
+  urn: urn:St1:station:id:1736
+  latitude: 60.675586
+  longitude: 25.353427
+
+- location: St1 Automaatti Pornainen
+  city: Pornainen
+  country: Finland
+  urn: urn:St1:station:id:1015
+  latitude: 60.483734
+  longitude: 25.369679
+
+- location: St1 Automaatti Oulu Limingantie
+  city: Oulu
+  country: Finland
+  urn: urn:St1:station:id:1197
+  latitude: 65.002797
+  longitude: 25.464397
+
+- location: St1 Oulu Karjasilta
+  city: Oulu
+  country: Finland
+  urn: urn:St1:station:id:1134
+  latitude: 64.996766
+  longitude: 25.483869
+
+- location: St1 Automaatti Oulu Automuseontie
+  city: Oulu
+  country: Finland
+  urn: urn:St1:station:id:1074
+  latitude: 64.962556
+  longitude: 25.502961
+
+- location: St1 Automaatti Hollola Kunnantie
+  city: Hollola
+  country: Finland
+  urn: urn:St1:station:id:1609
+  latitude: 60.980261
+  longitude: 25.546616
+
+- location: St1 Automaatti Oulu Knuutilankangas
+  city: Oulu
+  country: Finland
+  urn: urn:St1:station:id:1838
+  latitude: 64.996128
+  longitude: 25.553806
+
+- location: St1 Automaatti Porvoo Eestinmäki
+  city: Porvoo
+  country: Finland
+  urn: urn:St1:station:id:1670
+  latitude: 60.379172
+  longitude: 25.611936
+
+- location: St1 Automaatti Lahti Renkomäki
+  city: Lahti
+  country: Finland
+  urn: urn:St1:station:id:1624
+  latitude: 60.941279
+  longitude: 25.63941
+
+- location: St1 Automaatti Asikkala Vesivehmaa
+  city: Vesivehmaa
+  country: Finland
+  urn: urn:St1:station:id:1758
+  latitude: 61.1203
+  longitude: 25.640879
+
+- location: St1 Automaatti Lahti Liipola
+  city: Lahti
+  country: Finland
+  urn: urn:St1:station:id:1498
+  latitude: 60.966154
+  longitude: 25.659628
+
+- location: St1 Automaatti Rovaniemi Korkalovaara
+  city: Rovaniemi
+  country: Finland
+  urn: urn:St1:station:id:1793
+  latitude: 66.514627
+  longitude: 25.666065
+
+- location: St1 Lahti Saksala
+  city: Lahti
+  country: Finland
+  urn: urn:St1:station:id:1831
+  latitude: 60.97363
+  longitude: 25.67797
+
+- location: St1 Automaatti Porvoo Tarmola
+  city: Porvoo
+  country: Finland
+  urn: urn:St1:station:id:1675
+  latitude: 60.403482
+  longitude: 25.687221
+
+- location: St1 Automaatti Jyväskylä Viitaniemi
+  city: Jyväskylä
+  country: Finland
+  urn: urn:St1:station:id:1731
+  latitude: 62.245255
+  longitude: 25.726732
+
+- location: St1 Automaatti Kärsämäki
+  city: Kärsämäki
+  country: Finland
+  urn: urn:St1:station:id:1619
+  latitude: 63.982131
+  longitude: 25.756767
+
+- location: St1 Automaatti Jyväskylä Seppälä
+  city: Jyväskylä
+  country: Finland
+  urn: urn:St1:station:id:1665
+  latitude: 62.255124
+  longitude: 25.777463
+
+- location: St1 Automaatti Rovaniemi Ounasrinne
+  city: Rovaniemi
+  country: Finland
+  urn: urn:St1:station:id:1794
+  latitude: 66.491884
+  longitude: 25.780805
+
+- location: St1 Rovaniemi Saarenkylä
+  city: Saarenkylä
+  country: Finland
+  urn: urn:St1:station:id:1018
+  latitude: 66.515863
+  longitude: 25.785259
+
+- location: St1 Laukaa Vihtavuori
+  city: Vihtavuori
+  country: Finland
+  urn: urn:St1:station:id:1032
+  latitude: 62.366982
+  longitude: 25.886519
+
+- location: St1 Laukaa
+  city: Laukaa
+  country: Finland
+  urn: urn:St1:station:id:1286
+  latitude: 62.418924
+  longitude: 25.943715
+
+- location: St1 TS Hartola Pohela
+  city: Pohela
+  country: Finland
+  urn: urn:St1:station:id:1124
+  latitude: 61.519244
+  longitude: 26.00071
+
+- location: St1 Automaatti Heinola
+  city: Heinola
+  country: Finland
+  urn: urn:St1:station:id:1166
+  latitude: 61.203918
+  longitude: 26.038253
+
+- location: St1 Automaatti Loviisa Länsikaari
+  city: Loviisa
+  country: Finland
+  urn: urn:St1:station:id:1061
+  latitude: 60.458605
+  longitude: 26.191502
+
+- location: St1 Automaatti Keitele
+  city: Keitele
+  country: Finland
+  urn: urn:St1:station:id:1763
+  latitude: 63.189859
+  longitude: 26.344159
+
+- location: St1 Automaatti Iitti Kausala
+  city: Kausala
+  country: Finland
+  urn: urn:St1:station:id:1649
+  latitude: 60.882961
+  longitude: 26.385801
+
+- location: St1 Sodankylä
+  city: Sodankylä
+  country: Finland
+  urn: urn:St1:station:id:1069
+  latitude: 67.429166
+  longitude: 26.57784
+
+- location: St1 Mäntyharju Karankamäki
+  city: Karankamäki
+  country: Finland
+  urn: urn:St1:station:id:1839
+  latitude: 61.43491
+  longitude: 26.59569
+
+- location: St1 Automaatti Kuusankoski Voikkaa
+  city: Voikkaa
+  country: Finland
+  urn: urn:St1:station:id:1424
+  latitude: 60.940819
+  longitude: 26.619841
+
+- location: St1 Automaatti Kangasniemi
+  city: Kangasniemi
+  country: Finland
+  urn: urn:St1:station:id:1653
+  latitude: 61.990227
+  longitude: 26.635121
+
+- location: St1 Automaatti Kouvola Kankaro
+  city: Kouvola
+  country: Finland
+  urn: urn:St1:station:id:1075
+  latitude: 60.8524
+  longitude: 26.6954
+
+- location: St1 Kouvola Myllykoski
+  city: Myllykoski
+  country: Finland
+  urn: urn:St1:station:id:1036
+  latitude: 60.765151
+  longitude: 26.784771
+
+- location: St1 Mäntyharju
+  city: Mäntyharju
+  country: Finland
+  urn: urn:St1:station:id:1212
+  latitude: 61.420926
+  longitude: 26.891555
+
+- location: St1 Automaatti Kotka Metsola
+  city: Kotka
+  country: Finland
+  urn: urn:St1:station:id:1724
+  latitude: 60.486381
+  longitude: 26.906177
+
+- location: St1 Automaatti Kotka Karhula
+  city: Kotka
+  country: Finland
+  urn: urn:St1:station:id:1285
+  latitude: 60.51283
+  longitude: 26.919128
+
+- location: St1 Automaatti Kotka Tavastila
+  city: Tavastila
+  country: Finland
+  urn: urn:St1:station:id:1614
+  latitude: 60.586269
+  longitude: 26.978518
+
+- location: St1 Automaatti Pudasjärvi
+  city: Pudasjärvi
+  country: Finland
+  urn: urn:St1:station:id:1753
+  latitude: 65.360247
+  longitude: 26.986392
+
+- location: St1 Automaatti Pieksämäki Tukikohdantie
+  city: Pieksämäki
+  country: Finland
+  urn: urn:St1:station:id:1713
+  latitude: 62.290492
+  longitude: 27.10626
+
+- location: St1 Automaatti Hamina Poitsila
+  city: Poitsila
+  country: Finland
+  urn: urn:St1:station:id:1671
+  latitude: 60.563808
+  longitude: 27.161837
+
+- location: St1 Automaatti Hamina Satamakatu
+  city: Hamina
+  country: Finland
+  urn: urn:St1:station:id:1307
+  latitude: 60.565908
+  longitude: 27.190968
+
+- location: St1 Mikkeli Rantakylä
+  city: Mikkeli
+  country: Finland
+  urn: urn:St1:station:id:1076
+  latitude: 61.676163
+  longitude: 27.200692
+
+- location: St1 Automaatti Mikkeli Insinöörinkatu
+  city: Mikkeli
+  country: Finland
+  urn: urn:St1:station:id:1167
+  latitude: 61.695261
+  longitude: 27.219906
+
+- location: St1 Automaatti Mikkeli Mannerheimintie
+  city: Mikkeli
+  country: Finland
+  urn: urn:St1:station:id:1325
+  latitude: 61.69595
+  longitude: 27.28202
+
+- location: St1 Automaatti Mikkeli Graani
+  city: Mikkeli
+  country: Finland
+  urn: urn:St1:station:id:1229
+  latitude: 61.689104
+  longitude: 27.300221
+
+- location: St1 Kemijärvi HelmiSimpukkkaExpress
+  city: Kemijärvi
+  country: Finland
+  urn: urn:St1:station:id:1378
+  latitude: 66.716672
+  longitude: 27.427964
+
+- location: St1 Automaatti Kemijärvi
+  city: Kemijärvi
+  country: Finland
+  urn: urn:St1:station:id:1059
+  latitude: 66.71656
+  longitude: 27.428218
+
+- location: St1 Ivalo
+  city: Ivalo
+  country: Finland
+  urn: urn:St1:station:id:1347
+  latitude: 68.654483
+  longitude: 27.542247
+
+- location: St1 Automaatti Luumäki Uro
+  city: Uro
+  country: Finland
+  urn: urn:St1:station:id:1748
+  latitude: 60.92833
+  longitude: 27.631529
+
+- location: St1 Automaatti Kuopio Petonen
+  city: Kuopio
+  country: Finland
+  urn: urn:St1:station:id:1697
+  latitude: 62.839637
+  longitude: 27.64864
+
+- location: St1 Automaatti Kuopio Saaristokatu
+  city: Kuopio
+  country: Finland
+  urn: urn:St1:station:id:1823
+  latitude: 62.874774
+  longitude: 27.664099
+
+- location: St1 Automaatti Kuopio Tulliportinkatu
+  city: Kuopio
+  country: Finland
+  urn: urn:St1:station:id:1725
+  latitude: 62.8925
+  longitude: 27.670721
+
+- location: St1 Automaatti Kajaani Sissikatu
+  city: Kajaani
+  country: Finland
+  urn: urn:St1:station:id:1161
+  latitude: 64.227436
+  longitude: 27.722632
+
+- location: St1 Siilinjärvi Toivala
+  city: Toivala
+  country: Finland
+  urn: urn:St1:station:id:1172
+  latitude: 62.982419
+  longitude: 27.732199
+
+- location: St1 Automaatti Kajaani Sotkamontie
+  city: Kajaani
+  country: Finland
+  urn: urn:St1:station:id:1789
+  latitude: 64.21107
+  longitude: 27.732403
+
+- location: St1 Leppävirta
+  city: Leppävirta
+  country: Finland
+  urn: urn:St1:station:id:1833
+  latitude: 62.48989
+  longitude: 27.77117
+
+- location: St1 Automaatti Kajaani Kehräämöntie
+  city: Kajaani
+  country: Finland
+  urn: urn:St1:station:id:1722
+  latitude: 64.211345
+  longitude: 27.772388
+
+- location: St1 Automaatti Juva Kylmäpurontie
+  city: Juva
+  country: Finland
+  urn: urn:St1:station:id:1080
+  latitude: 61.898067
+  longitude: 27.801217
+
+- location: St1 Vehmersalmi
+  city: Vehmersalmi
+  country: Finland
+  urn: urn:St1:station:id:1078
+  latitude: 62.762696
+  longitude: 28.032026
+
+- location: St1 Automaatti Lappeenranta Hyrymäki
+  city: Lappeenranta
+  country: Finland
+  urn: urn:St1:station:id:1765
+  latitude: 61.043668
+  longitude: 28.217915
+
+- location: St1 Lappeenranta, Lauritsala
+  city: Lappeenranta
+  country: Finland
+  urn: urn:St1:station:id:1234
+  latitude: 61.07178
+  longitude: 28.265022
+
+- location: St1 Lappeenranta Hakali
+  city: Lappeenranta
+  country: Finland
+  urn: urn:St1:station:id:1244
+  latitude: 61.069087
+  longitude: 28.283874
+
+- location: St1 Automaatti Sotkamo
+  city: Sotkamo
+  country: Finland
+  urn: urn:St1:station:id:1761
+  latitude: 64.134608
+  longitude: 28.347127
+
+- location: St1 Automaatti Imatra Vuoksenniska
+  city: Imatra
+  country: Finland
+  urn: urn:St1:station:id:1079
+  latitude: 61.220422
+  longitude: 28.82841
+
+- location: St1 Automaatti Savonlinna Tulliportinkatu
+  city: Savonlinna
+  country: Finland
+  urn: urn:St1:station:id:1073
+  latitude: 61.867897
+  longitude: 28.866407
+
+- location: St1 Automaatti Suomussalmi Ämmänsaari
+  city: Suomussalmi
+  country: Finland
+  urn: urn:St1:station:id:1041
+  latitude: 64.887361
+  longitude: 28.913009
+
+- location: St1 Automaatti Outokumpu
+  city: Outokumpu
+  country: Finland
+  urn: urn:St1:station:id:1183
+  latitude: 62.714545
+  longitude: 28.986388
+
+- location: St1 Automaatti Nurmes
+  city: Nurmes
+  country: Finland
+  urn: urn:St1:station:id:1239
+  latitude: 63.553158
+  longitude: 29.106704
+
+- location: St1 Kerimäki
+  city: Kerimäki
+  country: Finland
+  urn: urn:St1:station:id:1379
+  latitude: 61.9072
+  longitude: 29.2616
+
+- location: St1 Automaatti Polvijärvi
+  city: Polvijärvi
+  country: Finland
+  urn: urn:St1:station:id:1716
+  latitude: 62.854737
+  longitude: 29.364445
+
+- location: St1 Liperi Kuusikkolantie
+  city: Liperi
+  country: Finland
+  urn: urn:St1:station:id:1148
+  latitude: 62.535488
+  longitude: 29.402397
+
+- location: St1 Automaatti Joensuu Raatekangas
+  city: Joensuu
+  country: Finland
+  urn: urn:St1:station:id:1626
+  latitude: 62.628716
+  longitude: 29.773385
+
+- location: St1 Kesälahti
+  city: Kesälahti
+  country: Finland
+  urn: urn:St1:station:id:1105
+  latitude: 61.904455
+  longitude: 29.812034
+
+- location: St1 Automaatti Joensuu Reijola
+  city: Reijola
+  country: Finland
+  urn: urn:St1:station:id:1754
+  latitude: 62.543588
+  longitude: 29.84142
+
+- location: St1 Automaatti Kontiolahti
+  city: Kontiolahti
+  country: Finland
+  urn: urn:St1:station:id:1071
+  latitude: 62.743608
+  longitude: 29.86476
+
+- location: St1 Kontiolahti HelmiSimpukkaExpress
+  city: Kontiolahti as
+  country: Finland
+  urn: urn:St1:station:id:1063
+  latitude: 62.743608
+  longitude: 29.86476
+
+- location: St1 Automaatti Lieksa
+  city: Lieksa
+  country: Finland
+  urn: urn:St1:station:id:1193
+  latitude: 63.319201
+  longitude: 30.018373

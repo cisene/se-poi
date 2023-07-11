@@ -76,6 +76,7 @@ files:
 - layers/myway.yaml
 - layers/nordea.yaml
 - layers/normal.yaml
+- layers/okq8.yaml
 - layers/olearys.yaml
 - layers/panduro.yaml
 - layers/pinchos.yaml
@@ -89,6 +90,9 @@ files:
 - layers/scandic.yaml
 - layers/scorett.yaml
 - layers/seven-eleven.yaml
+- layers/shell-finland.yaml
+- layers/shell-norge.yaml
+- layers/shell-sverige.yaml
 - layers/sia-glass.yaml
 - layers/sibylla.yaml
 - layers/skolor-grundskola-boden-kommun.yaml
@@ -99,11 +103,14 @@ files:
 - layers/skopunkten.yaml
 - layers/smarteyes.yaml
 - layers/specsavers.yaml
+- layers/st1-finland.yaml
+- layers/st1-sverige.yaml
 - layers/stadium.yaml
 - layers/sushiyama.yaml
 - layers/swedbank.yaml
 - layers/systembolaget-butiker.yaml
 - layers/systembolaget-ombud.yaml
+- layers/tanka.yaml
 - layers/team-sportia.yaml
 - layers/teknikmagasinet.yaml
 - layers/tele2-butiker.yaml

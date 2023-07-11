@@ -1,0 +1,2072 @@
+meta:
+  name: Shell Norge
+  web: https://www.shell.no/
+  wikipedia: https://no.wikipedia.org/wiki/Shell
+  category: Drivmedel
+  locations: 295
+
+locations:
+- location: SHELL STRAUME
+  city: Straume
+  country: Norge
+  urn: urn:Shell:station:id:9231
+  latitude: 60.358753
+  longitude: 5.122847
+
+- location: SHELL BLOMSTERDALEN
+  city: Blomsterdalen
+  country: Norge
+  urn: urn:Shell:station:id:9229
+  latitude: 60.284509
+  longitude: 5.254837
+
+- location: SHELL EXPRESS KOKSTAD
+  city: Kokstad
+  country: Norge
+  urn: urn:Shell:station:id:4430
+  latitude: 60.291839
+  longitude: 5.261192
+
+- location: SHELL EXPRESS MARIKOLLEN
+  city: Mjølkeråen
+  country: Norge
+  urn: urn:Shell:station:id:4429
+  latitude: 60.486695
+  longitude: 5.268816
+
+- location: SHELL EXPRESS ISDALSTØ
+  city: Isdalstø
+  country: Norge
+  urn: urn:Shell:station:id:4440
+  latitude: 60.55541
+  longitude: 5.270515
+
+- location: SHELL NYGÅRD
+  city: Laksevåg
+  country: Norge
+  urn: urn:Shell:station:id:4140
+  latitude: 60.384742
+  longitude: 5.271285
+
+- location: SHELL VARDEN
+  city: Fyllingsdalen
+  country: Norge
+  urn: urn:Shell:station:id:9145
+  latitude: 60.342315
+  longitude: 5.273246
+
+- location: SHELL AVALDSNES
+  city: Avaldsnes
+  country: Norge
+  urn: urn:Shell:station:id:9074
+  latitude: 59.357908
+  longitude: 5.275923
+
+- location: SHELL KARMSUNDGATA
+  city: Haugesund
+  country: Norge
+  urn: urn:Shell:station:id:9472
+  latitude: 59.402171
+  longitude: 5.290478
+
+- location: SHELL KARMØY
+  city: Kopervik
+  country: Norge
+  urn: urn:Shell:station:id:9075
+  latitude: 59.293639
+  longitude: 5.291726
+
+- location: SHELL BØNES
+  city: Bønes
+  country: Norge
+  urn: urn:Shell:station:id:9467
+  latitude: 60.325355
+  longitude: 5.293671
+
+- location: SHELL KOPERVIK
+  city: Kopervik
+  country: Norge
+  urn: urn:Shell:station:id:4169
+  latitude: 59.291092
+  longitude: 5.303016
+
+- location: SHELL NORHEIM
+  city: Karmsund
+  country: Norge
+  urn: urn:Shell:station:id:9523
+  latitude: 59.385131
+  longitude: 5.315187
+
+- location: SHELL EXPRESS SANDVIKEN
+  city: Bergen
+  country: Norge
+  urn: urn:Shell:station:id:4461
+  latitude: 60.40904
+  longitude: 5.322887
+
+- location: SHELL LAGUNEPARKEN
+  city: Rådal
+  country: Norge
+  urn: urn:Shell:station:id:9038
+  latitude: 60.296244
+  longitude: 5.327192
+
+- location: SHELL EXPRESS FJØSANGER
+  city: Bønes
+  country: Norge
+  urn: urn:Shell:station:id:4467
+  latitude: 60.341798
+  longitude: 5.330184
+
+- location: SHELL SELJE
+  city: Selje
+  country: Norge
+  urn: urn:Shell:station:id:9293
+  latitude: 62.044228
+  longitude: 5.344017
+
+- location: SHELL CRT BERGEN STORBILSENTER ÅSANE
+  city: Flaktveit
+  country: Norge
+  urn: urn:Shell:station:id:9497
+  latitude: 60.46287
+  longitude: 5.348295
+
+- location: SHELL STORETVEIT
+  city: Bergen
+  country: Norge
+  urn: urn:Shell:station:id:4139
+  latitude: 60.356525
+  longitude: 5.350861
+
+- location: SHELL AUTOMAT NESTTUN
+  city: Nesttun
+  country: Norge
+  urn: urn:Shell:station:id:9017
+  latitude: 60.320951
+  longitude: 5.350894
+
+- location: SHELL HAUKÅS NYBORG
+  city: Breistein
+  country: Norge
+  urn: urn:Shell:station:id:9144
+  latitude: 60.488523
+  longitude: 5.377407
+
+- location: SHELL AUTOMAT EIKANGER
+  city: Eikangervåg
+  country: Norge
+  urn: urn:Shell:station:id:9535
+  latitude: 60.614474
+  longitude: 5.403752
+
+- location: SHELL HAUKÅS SVEIO
+  city: Sveio
+  country: Norge
+  urn: urn:Shell:station:id:9499
+  latitude: 59.568203
+  longitude: 5.419306
+
+- location: SHELL AKSDAL
+  city: Aksdal
+  country: Norge
+  urn: urn:Shell:station:id:9240
+  latitude: 59.42058
+  longitude: 5.44599
+
+- location: SHELL HEIANE
+  city: Stord
+  country: Norge
+  urn: urn:Shell:station:id:9508
+  latitude: 59.76229
+  longitude: 5.449642
+
+- location: SHELL LONE
+  city: Haukeland
+  country: Norge
+  urn: urn:Shell:station:id:4177
+  latitude: 60.374056
+  longitude: 5.457399
+
+- location: SHELL EIKESKOG AUTOMAT
+  city: Aksdal
+  country: Norge
+  urn: urn:Shell:station:id:9509
+  latitude: 59.405768
+  longitude: 5.458369
+
+- location: SHELL OSTEREIDET
+  city: Ostereidet
+  country: Norge
+  urn: urn:Shell:station:id:4174
+  latitude: 60.625916
+  longitude: 5.472795
+
+- location: SHELL EXPRESS LEIRVIK
+  city: Stord
+  country: Norge
+  urn: urn:Shell:station:id:4457
+  latitude: 59.779939
+  longitude: 5.483714
+
+- location: SHELL EXPRESS RISAVIKA
+  city: Tananger
+  country: Norge
+  urn: urn:Shell:station:id:9528
+  latitude: 58.916314
+  longitude: 5.603639
+
+- location: SHELL HAGAKROSSEN
+  city: Tananger
+  country: Norge
+  urn: urn:Shell:station:id:9405
+  latitude: 58.936236
+  longitude: 5.603849
+
+- location: SHELL BRYNE
+  city: Bryne
+  country: Norge
+  urn: urn:Shell:station:id:9035
+  latitude: 58.737704
+  longitude: 5.641304
+
+- location: SHELL SOLAKROSSEN
+  city: Sola
+  country: Norge
+  urn: urn:Shell:station:id:9199
+  latitude: 58.883064
+  longitude: 5.650496
+
+- location: SHELL EXPRESS VARDENESET
+  city: Stavanger
+  country: Norge
+  urn: urn:Shell:station:id:4176
+  latitude: 58.992731
+  longitude: 5.675584
+
+- location: SHELL MADLAKROSSEN
+  city: Hafrsfjord
+  country: Norge
+  urn: urn:Shell:station:id:9460
+  latitude: 58.952565
+  longitude: 5.676535
+
+- location: SHELL EXPRESS RENNESØY
+  city: Mosterøy
+  country: Norge
+  urn: urn:Shell:station:id:4432
+  latitude: 59.064234
+  longitude: 5.677064
+
+- location: SHELL KNAPPHUS
+  city: Øvre vats
+  country: Norge
+  urn: urn:Shell:station:id:9228
+  latitude: 59.529416
+  longitude: 5.686346
+
+- location: SHELL RANDABERGVEIEN
+  city: Stavanger
+  country: Norge
+  urn: urn:Shell:station:id:4172
+  latitude: 58.978239
+  longitude: 5.70134
+
+- location: SHELL JÆRVEIEN
+  city: Sandnes
+  country: Norge
+  urn: urn:Shell:station:id:4173
+  latitude: 58.83445
+  longitude: 5.720731
+
+- location: SHELL HAUGÅSVEIEN
+  city: Stavanger
+  country: Norge
+  urn: urn:Shell:station:id:9026
+  latitude: 58.945722
+  longitude: 5.730733
+
+- location: SHELL AUTOMAT FORUS
+  city: Stavanger
+  country: Norge
+  urn: urn:Shell:station:id:4288
+  latitude: 58.891827
+  longitude: 5.732234
+
+- location: SHELL LURA
+  city: Sandnes
+  country: Norge
+  urn: urn:Shell:station:id:4250
+  latitude: 58.871895
+  longitude: 5.737419
+
+- location: SHELL EXPRESS BOGAFJELL
+  city: Sandnes
+  country: Norge
+  urn: urn:Shell:station:id:4459
+  latitude: 58.821067
+  longitude: 5.754169
+
+- location: SHELL CRT GAULAR
+  city: Sande i sunnfjord
+  country: Norge
+  urn: urn:Shell:station:id:4658
+  latitude: 61.372502
+  longitude: 5.790906
+
+- location: SHELL DALE
+  city: Dalekvam
+  country: Norge
+  urn: urn:Shell:station:id:4185
+  latitude: 60.583207
+  longitude: 5.795745
+
+- location: SHELL AUTOMAT ØLEN
+  city: Ølen
+  country: Norge
+  urn: urn:Shell:station:id:9252
+  latitude: 59.604283
+  longitude: 5.806319
+
+- location: SHELL ULSTEINVIK
+  city: Ulsteinvik
+  country: Norge
+  urn: urn:Shell:station:id:9109
+  latitude: 62.344813
+  longitude: 5.839401
+
+- location: SHELL CRT FIRDA BILLAG
+  city: Førde
+  country: Norge
+  urn: urn:Shell:station:id:9511
+  latitude: 61.45245
+  longitude: 5.854404
+
+- location: SHELL EXPRESS ÅLGÅRD
+  city: Ålgård
+  country: Norge
+  urn: urn:Shell:station:id:4458
+  latitude: 58.768008
+  longitude: 5.860292
+
+- location: SHELL AUTOMAT HOMMERSÅK
+  city: Hommersåk
+  country: Norge
+  urn: urn:Shell:station:id:9539
+  latitude: 58.907151
+  longitude: 5.861434
+
+- location: SHELL SANDEID
+  city: Sandeid
+  country: Norge
+  urn: urn:Shell:station:id:9242
+  latitude: 59.541625
+  longitude: 5.869131
+
+- location: SHELL ETNE
+  city: Etne
+  country: Norge
+  urn: urn:Shell:station:id:9226
+  latitude: 59.663819
+  longitude: 5.93321
+
+- location: SHELL CRT NORDFJORDEID
+  city: Nordfjordeid
+  country: Norge
+  urn: urn:Shell:station:id:9514
+  latitude: 61.903786
+  longitude: 5.999013
+
+- location: SHELL EIEKRYSSET
+  city: Egersund
+  country: Norge
+  urn: urn:Shell:station:id:9262
+  latitude: 58.460584
+  longitude: 6.001234
+
+- location: SHELL EXPRESS VOLDA
+  city: Volda
+  country: Norge
+  urn: urn:Shell:station:id:9244
+  latitude: 62.144369
+  longitude: 6.08175
+
+- location: SHELL EXPRESS HOVDEBYGDA
+  city: Hovdebygda
+  country: Norge
+  urn: urn:Shell:station:id:4427
+  latitude: 62.182474
+  longitude: 6.083123
+
+- location: SHELL ØRSTA
+  city: Ørsta
+  country: Norge
+  urn: urn:Shell:station:id:9163
+  latitude: 62.196348
+  longitude: 6.127863
+
+- location: SHELL NORHEIMSUND
+  city: Norheimsund
+  country: Norge
+  urn: urn:Shell:station:id:9507
+  latitude: 60.367987
+  longitude: 6.130029
+
+- location: SHELL SAND
+  city: Sand
+  country: Norge
+  urn: urn:Shell:station:id:9257
+  latitude: 59.480677
+  longitude: 6.271007
+
+- location: SHELL LERSTAD
+  city: Ålesund
+  country: Norge
+  urn: urn:Shell:station:id:9353
+  latitude: 62.468002
+  longitude: 6.293799
+
+- location: SHELL VEGSUND
+  city: Ålesund
+  country: Norge
+  urn: urn:Shell:station:id:9377
+  latitude: 62.44362
+  longitude: 6.366851
+
+- location: SHELL EXPRESS VOSS
+  city: Voss
+  country: Norge
+  urn: urn:Shell:station:id:9517
+  latitude: 60.630369
+  longitude: 6.427484
+
+- location: SHELL ODDA
+  city: Odda
+  country: Norge
+  urn: urn:Shell:station:id:9147
+  latitude: 60.068885
+  longitude: 6.551076
+
+- location: SHELL FLEKKEFJORD
+  city: Flekkefjord
+  country: Norge
+  urn: urn:Shell:station:id:9102
+  latitude: 58.29555
+  longitude: 6.666666
+
+- location: SHELL CRT STRYN
+  city: Stryn
+  country: Norge
+  urn: urn:Shell:station:id:4655
+  latitude: 61.902631
+  longitude: 6.709224
+
+- location: SHELL ØRSKOG
+  city: Ørskog
+  country: Norge
+  urn: urn:Shell:station:id:9415
+  latitude: 62.482389
+  longitude: 6.812801
+
+- location: SHELL RØLDAL
+  city: Røldal
+  country: Norge
+  urn: urn:Shell:station:id:9422
+  latitude: 59.832902
+  longitude: 6.813609
+
+- location: SHELL GUDVANGEN
+  city: Gudvangen
+  country: Norge
+  urn: urn:Shell:station:id:4200
+  latitude: 60.87916
+  longitude: 6.843626
+
+- location: SHELL PIT-STOP LYNGDAL
+  city: Lyngdal
+  country: Norge
+  urn: urn:Shell:station:id:9516
+  latitude: 58.220836
+  longitude: 7.013401
+
+- location: SHELL VESTNES
+  city: Vestnes
+  country: Norge
+  urn: urn:Shell:station:id:9289
+  latitude: 62.623143
+  longitude: 7.089606
+
+- location: SHELL SOGNDAL
+  city: Sogndal
+  country: Norge
+  urn: urn:Shell:station:id:9104
+  latitude: 61.225986
+  longitude: 7.101342
+
+- location: SHELL BOLSØNES
+  city: Molde
+  country: Norge
+  urn: urn:Shell:station:id:9376
+  latitude: 62.739285
+  longitude: 7.192935
+
+- location: SHELL KAUPANGER
+  city: Kaupanger
+  country: Norge
+  urn: urn:Shell:station:id:9416
+  latitude: 61.195545
+  longitude: 7.219092
+
+- location: SHELL VALLDAL
+  city: Valldal
+  country: Norge
+  urn: urn:Shell:station:id:4164
+  latitude: 62.298491
+  longitude: 7.264414
+
+- location: SHELL EXPRESS MANDAL
+  city: Mandal
+  country: Norge
+  urn: urn:Shell:station:id:4417
+  latitude: 58.026396
+  longitude: 7.461103
+
+- location: SHELL FORTUN
+  city: Fortun
+  country: Norge
+  urn: urn:Shell:station:id:4285
+  latitude: 61.489144
+  longitude: 7.680404
+
+- location: SHELL ÅNDALSNES
+  city: Åndalsnes
+  country: Norge
+  urn: urn:Shell:station:id:4146
+  latitude: 62.558474
+  longitude: 7.682051
+
+- location: SHELL LONELIER
+  city: Søgne
+  country: Norge
+  urn: urn:Shell:station:id:9540
+  latitude: 58.098353
+  longitude: 7.705827
+
+- location: SHELL CRT LONELIER
+  city: Søgne
+  country: Norge
+  urn: urn:Shell:station:id:9541
+  latitude: 58.099916
+  longitude: 7.70634
+
+- location: SHELL BYGLAND
+  city: Bygland
+  country: Norge
+  urn: urn:Shell:station:id:9203
+  latitude: 58.831017
+  longitude: 7.795601
+
+- location: SHELL AUTOKRYSSET
+  city: Frei
+  country: Norge
+  urn: urn:Shell:station:id:9078
+  latitude: 63.098034
+  longitude: 7.821092
+
+- location: SHELL NODELAND
+  city: Nodeland
+  country: Norge
+  urn: urn:Shell:station:id:9246
+  latitude: 58.155414
+  longitude: 7.835056
+
+- location: SHELL FIDJANE VEST
+  city: Kristiansand s
+  country: Norge
+  urn: urn:Shell:station:id:9470
+  latitude: 58.145249
+  longitude: 7.912524
+
+- location: SHELL FIDJANE ØST
+  city: Kristiansand s
+  country: Norge
+  urn: urn:Shell:station:id:9471
+  latitude: 58.14461
+  longitude: 7.915079
+
+- location: SHELL MOSBY
+  city: Mosby
+  country: Norge
+  urn: urn:Shell:station:id:9390
+  latitude: 58.216062
+  longitude: 7.922309
+
+- location: SHELL CRT KRISTIANSAND
+  city: Kristiansand s
+  country: Norge
+  urn: urn:Shell:station:id:4620
+  latitude: 58.181812
+  longitude: 7.931441
+
+- location: SHELL WALHALLA
+  city: Kristiansand s
+  country: Norge
+  urn: urn:Shell:station:id:9101
+  latitude: 58.151694
+  longitude: 8.012945
+
+- location: SHELL VIGE
+  city: Kristiansand s
+  country: Norge
+  urn: urn:Shell:station:id:9504
+  latitude: 58.163806
+  longitude: 8.042421
+
+- location: SHELL EXPRESS SØRLANDSPARKEN
+  city: Kristiansand s
+  country: Norge
+  urn: urn:Shell:station:id:4416
+  latitude: 58.174079
+  longitude: 8.127331
+
+- location: SHELL HEMSEDAL
+  city: Hemsedal
+  country: Norge
+  urn: urn:Shell:station:id:9357
+  latitude: 60.863434
+  longitude: 8.550064
+
+- location: SHELL TVEITO
+  city: Rjukan
+  country: Norge
+  urn: urn:Shell:station:id:9323
+  latitude: 59.880255
+  longitude: 8.624014
+
+- location: SHELL SJØORMEN
+  city: Seljord
+  country: Norge
+  urn: urn:Shell:station:id:9118
+  latitude: 59.480713
+  longitude: 8.634777
+
+- location: SHELL CRT STOA
+  city: Arendal
+  country: Norge
+  urn: urn:Shell:station:id:4606
+  latitude: 58.46101
+  longitude: 8.727612
+
+- location: SHELL EXPRESS ARENDAL
+  city: Arendal
+  country: Norge
+  urn: urn:Shell:station:id:4414
+  latitude: 58.453607
+  longitude: 8.747305
+
+- location: SHELL MYRENE
+  city: Arendal
+  country: Norge
+  urn: urn:Shell:station:id:4291
+  latitude: 58.462281
+  longitude: 8.752284
+
+- location: SHELL TROMØY
+  city: Færvik
+  country: Norge
+  urn: urn:Shell:station:id:4270
+  latitude: 58.456357
+  longitude: 8.81861
+
+- location: SHELL TVEDESTRAND
+  city: Tvedestrand
+  country: Norge
+  urn: urn:Shell:station:id:9536
+  latitude: 58.615182
+  longitude: 8.901288
+
+- location: SHELL EXPRESS AMTMANNSVINGEN
+  city: Tvedestrand
+  country: Norge
+  urn: urn:Shell:station:id:9321
+  latitude: 58.631391
+  longitude: 8.913175
+
+- location: SHELL RØDBERG
+  city: Rødberg
+  country: Norge
+  urn: urn:Shell:station:id:9506
+  latitude: 60.267204
+  longitude: 8.943341
+
+- location: SHELL SAULAND
+  city: Sauland
+  country: Norge
+  urn: urn:Shell:station:id:4112
+  latitude: 59.613997
+  longitude: 8.945856
+
+- location: SHELL EXPRESS HITRA
+  city: Hitra
+  country: Norge
+  urn: urn:Shell:station:id:9465
+  latitude: 63.599577
+  longitude: 8.975399
+
+- location: SHELL GOL
+  city: Gol
+  country: Norge
+  urn: urn:Shell:station:id:4255
+  latitude: 60.702324
+  longitude: 8.98459
+
+- location: SHELL KYRKSÆTERØRA
+  city: Kyrksæterøra
+  country: Norge
+  urn: urn:Shell:station:id:9532
+  latitude: 63.293805
+  longitude: 9.07977
+
+- location: SHELL EXPRESS DOMBÅS
+  city: Dombås
+  country: Norge
+  urn: urn:Shell:station:id:9123
+  latitude: 62.072486
+  longitude: 9.124158
+
+- location: SHELL NOTODDEN
+  city: Notodden
+  country: Norge
+  urn: urn:Shell:station:id:9426
+  latitude: 59.567702
+  longitude: 9.213603
+
+- location: SHELL FAGERNES
+  city: Fagernes
+  country: Norge
+  urn: urn:Shell:station:id:9052
+  latitude: 60.984695
+  longitude: 9.244414
+
+- location: SHELL KRAGERØ KIRKEBUKTA
+  city: Kragerø
+  country: Norge
+  urn: urn:Shell:station:id:9518
+  latitude: 58.872459
+  longitude: 9.415428
+
+- location: SHELL FLÅ
+  city: Flå
+  country: Norge
+  urn: urn:Shell:station:id:9526
+  latitude: 60.431389
+  longitude: 9.457994
+
+- location: SHELL EXPRESS BØLEVEGEN
+  city: Skien
+  country: Norge
+  urn: urn:Shell:station:id:4465
+  latitude: 59.19403
+  longitude: 9.62168
+
+- location: SHELL NORESUND
+  city: Noresund
+  country: Norge
+  urn: urn:Shell:station:id:4267
+  latitude: 60.176571
+  longitude: 9.631157
+
+- location: SHELL PORS
+  city: Skien
+  country: Norge
+  urn: urn:Shell:station:id:9458
+  latitude: 59.15252
+  longitude: 9.637475
+
+- location: SHELL FRIEDLAND
+  city: Kongsberg
+  country: Norge
+  urn: urn:Shell:station:id:9021
+  latitude: 59.669483
+  longitude: 9.640523
+
+- location: SHELL EXPRESS KONGSBERG
+  city: Kongsberg
+  country: Norge
+  urn: urn:Shell:station:id:4421
+  latitude: 59.671098
+  longitude: 9.654672
+
+- location: SHELL JERNBANEGATA
+  city: Porsgrunn
+  country: Norge
+  urn: urn:Shell:station:id:9097
+  latitude: 59.139185
+  longitude: 9.657355
+
+- location: SHELL MYRLAND AUTO
+  city: Stathelle
+  country: Norge
+  urn: urn:Shell:station:id:4269
+  latitude: 59.012028
+  longitude: 9.665812
+
+- location: SHELL LASSES
+  city: Stathelle
+  country: Norge
+  urn: urn:Shell:station:id:9023
+  latitude: 59.037048
+  longitude: 9.675144
+
+- location: SHELL SKOLLENBORG
+  city: Skollenborg
+  country: Norge
+  urn: urn:Shell:station:id:4129
+  latitude: 59.622162
+  longitude: 9.683472
+
+- location: SHELL AUTOMAT OPPDAL
+  city: Oppdal
+  country: Norge
+  urn: urn:Shell:station:id:9530
+  latitude: 62.592039
+  longitude: 9.688694
+
+- location: SHELL CRT EIDANGER
+  city: Porsgrunn
+  country: Norge
+  urn: urn:Shell:station:id:4617
+  latitude: 59.126171
+  longitude: 9.689181
+
+- location: SHELL AUTOMAT HOSTVEDT
+  city: Skollenborg
+  country: Norge
+  urn: urn:Shell:station:id:9378
+  latitude: 59.592536
+  longitude: 9.763554
+
+- location: SHELL SOLUMSMOEN
+  city: Solumsmoen
+  country: Norge
+  urn: urn:Shell:station:id:4124
+  latitude: 59.962045
+  longitude: 9.784056
+
+- location: SHELL BÅRDSHAUG
+  city: Orkanger
+  country: Norge
+  urn: urn:Shell:station:id:9214
+  latitude: 63.296094
+  longitude: 9.852493
+
+- location: SHELL BERKÅK
+  city: Rennebu
+  country: Norge
+  urn: urn:Shell:station:id:9503
+  latitude: 62.832048
+  longitude: 10.011147
+
+- location: SHELL MJØNDALEN
+  city: Mjøndalen
+  country: Norge
+  urn: urn:Shell:station:id:4265
+  latitude: 59.751658
+  longitude: 10.024124
+
+- location: SHELL STORGATA LARVIK
+  city: Larvik
+  country: Norge
+  urn: urn:Shell:station:id:9058
+  latitude: 59.049563
+  longitude: 10.035619
+
+- location: SHELL DOKKA
+  city: Dokka
+  country: Norge
+  urn: urn:Shell:station:id:9051
+  latitude: 60.837455
+  longitude: 10.067975
+
+- location: SHELL EXPRESS GLOPPE
+  city: Larvik
+  country: Norge
+  urn: urn:Shell:station:id:9059
+  latitude: 59.040456
+  longitude: 10.068679
+
+- location: SHELL VEME
+  city: Sokna
+  country: Norge
+  urn: urn:Shell:station:id:9461
+  latitude: 60.204146
+  longitude: 10.090072
+
+- location: SHELL EXPRESS KODAL
+  city: Kodal
+  country: Norge
+  urn: urn:Shell:station:id:4104
+  latitude: 59.215149
+  longitude: 10.136835
+
+- location: SHELL EXPRESS SVINGEN
+  city: Drammen
+  country: Norge
+  urn: urn:Shell:station:id:9002
+  latitude: 59.751344
+  longitude: 10.161616
+
+- location: SHELL AUTOMAT FÅVANG
+  city: Fåvang
+  country: Norge
+  urn: urn:Shell:station:id:9112
+  latitude: 61.461463
+  longitude: 10.185381
+
+- location: SHELL CRT HOLMESTRAND
+  city: Holmestrand
+  country: Norge
+  urn: urn:Shell:station:id:4676
+  latitude: 59.514357
+  longitude: 10.201397
+
+- location: SHELL GRELLAND
+  city: Holmestrand
+  country: Norge
+  urn: urn:Shell:station:id:4280
+  latitude: 59.514078
+  longitude: 10.201902
+
+- location: SHELL FOKSERØD
+  city: Sandefjord
+  country: Norge
+  urn: urn:Shell:station:id:9250
+  latitude: 59.17744
+  longitude: 10.208208
+
+- location: SHELL SANDE
+  city: Sande i vestfold
+  country: Norge
+  urn: urn:Shell:station:id:9064
+  latitude: 59.595901
+  longitude: 10.208465
+
+- location: SHELL BRAKERØYA
+  city: Drammen
+  country: Norge
+  urn: urn:Shell:station:id:9456
+  latitude: 59.741313
+  longitude: 10.219991
+
+- location: SHELL CRT HØNEFOSS
+  city: Hønefoss
+  country: Norge
+  urn: urn:Shell:station:id:9292
+  latitude: 60.226067
+  longitude: 10.236946
+
+- location: SHELL VÅLE
+  city: Våle
+  country: Norge
+  urn: urn:Shell:station:id:4105
+  latitude: 59.4153
+  longitude: 10.238877
+
+- location: SHELL KAMFJORD
+  city: Sandefjord
+  country: Norge
+  urn: urn:Shell:station:id:9029
+  latitude: 59.127781
+  longitude: 10.243279
+
+- location: SHELL EXPRESS LIERBY
+  city: Lier
+  country: Norge
+  urn: urn:Shell:station:id:4452
+  latitude: 59.779111
+  longitude: 10.243896
+
+- location: SHELL KJELLSTAD
+  city: Lierstranda
+  country: Norge
+  urn: urn:Shell:station:id:4266
+  latitude: 59.766279
+  longitude: 10.257159
+
+- location: SHELL CRT KJELLSTAD
+  city: Lierstranda
+  country: Norge
+  urn: urn:Shell:station:id:4627
+  latitude: 59.76736
+  longitude: 10.257693
+
+- location: SHELL CRT STOKKE
+  city: Stokke
+  country: Norge
+  urn: urn:Shell:station:id:4616
+  latitude: 59.24605
+  longitude: 10.261411
+
+- location: SHELL SLETTA
+  city: Hønefoss
+  country: Norge
+  urn: urn:Shell:station:id:9342
+  latitude: 60.178596
+  longitude: 10.269645
+
+- location: SHELL VIK
+  city: Røyse
+  country: Norge
+  urn: urn:Shell:station:id:4128
+  latitude: 60.080398
+  longitude: 10.282772
+
+- location: SHELL GREAKER
+  city: Holmestrand
+  country: Norge
+  urn: urn:Shell:station:id:9129
+  latitude: 59.496551
+  longitude: 10.283263
+
+- location: SHELL KLETT
+  city: Leinstrand
+  country: Norge
+  urn: urn:Shell:station:id:9533
+  latitude: 63.321335
+  longitude: 10.304036
+
+- location: SHELL AUTOMAT LER
+  city: Ler
+  country: Norge
+  urn: urn:Shell:station:id:9519
+  latitude: 63.185789
+  longitude: 10.313474
+
+- location: SHELL EXPRESS HOLMESTRAND
+  city: Holmestrand
+  country: Norge
+  urn: urn:Shell:station:id:4279
+  latitude: 59.488733
+  longitude: 10.315406
+
+- location: SHELL EXPRESS MELSOMVIK
+  city: Melsomvik
+  country: Norge
+  urn: urn:Shell:station:id:4101
+  latitude: 59.224262
+  longitude: 10.336426
+
+- location: SHELL EXPRESS SPIKKESTAD
+  city: Drammen
+  country: Norge
+  urn: urn:Shell:station:id:9363
+  latitude: 59.743327
+  longitude: 10.341702
+
+- location: SHELL TILLER
+  city: Tiller
+  country: Norge
+  urn: urn:Shell:station:id:9180
+  latitude: 63.364904
+  longitude: 10.380438
+
+- location: SHELL KJELLEVEIEN
+  city: Tønsberg
+  country: Norge
+  urn: urn:Shell:station:id:9063
+  latitude: 59.278774
+  longitude: 10.400667
+
+- location: SHELL BILBYN
+  city: Trondheim
+  country: Norge
+  urn: urn:Shell:station:id:9045
+  latitude: 63.399625
+  longitude: 10.402922
+
+- location: SHELL SVELVIK
+  city: Svelvik
+  country: Norge
+  urn: urn:Shell:station:id:9457
+  latitude: 59.61688
+  longitude: 10.404038
+
+- location: SHELL GRØSTAD
+  city: Barkåker
+  country: Norge
+  urn: urn:Shell:station:id:9462
+  latitude: 59.321496
+  longitude: 10.406472
+
+- location: SHELL AUTOMAT HAVNA
+  city: Trondheim
+  country: Norge
+  urn: urn:Shell:station:id:9179
+  latitude: 63.44008
+  longitude: 10.408326
+
+- location: SHELL TEIEHØYDEN
+  city: Nøtterøy
+  country: Norge
+  urn: urn:Shell:station:id:9155
+  latitude: 59.251881
+  longitude: 10.415016
+
+- location: SHELL ASKER
+  city: Asker
+  country: Norge
+  urn: urn:Shell:station:id:9268
+  latitude: 59.833229
+  longitude: 10.420488
+
+- location: SHELL NØTTERØY
+  city: Duken
+  country: Norge
+  urn: urn:Shell:station:id:9062
+  latitude: 59.221355
+  longitude: 10.442452
+
+- location: SHELL MOHOLT
+  city: Trondheim
+  country: Norge
+  urn: urn:Shell:station:id:4284
+  latitude: 63.408795
+  longitude: 10.446158
+
+- location: SHELL EXPRESS LILLEHAMMER
+  city: Lillehammer
+  country: Norge
+  urn: urn:Shell:station:id:9111
+  latitude: 61.128287
+  longitude: 10.453123
+
+- location: SHELL EXPRESS APENES
+  city: Horten
+  country: Norge
+  urn: urn:Shell:station:id:4095
+  latitude: 59.426662
+  longitude: 10.455039
+
+- location: SHELL VETTRE
+  city: Vettre
+  country: Norge
+  urn: urn:Shell:station:id:4068
+  latitude: 59.82967
+  longitude: 10.468679
+
+- location: SHELL TVEITEN
+  city: Horten
+  country: Norge
+  urn: urn:Shell:station:id:9025
+  latitude: 59.40476
+  longitude: 10.470176
+
+- location: SHELL AUTOMAT NESBRU
+  city: Nesbru
+  country: Norge
+  urn: urn:Shell:station:id:9194
+  latitude: 59.865272
+  longitude: 10.489097
+
+- location: SHELL EXPRESS RØYSLIMOEN
+  city: Lillehammer
+  country: Norge
+  urn: urn:Shell:station:id:4087
+  latitude: 61.099554
+  longitude: 10.507666
+
+- location: SHELL BÆRUMS VERK
+  city: Bærums verk
+  country: Norge
+  urn: urn:Shell:station:id:4060
+  latitude: 59.943628
+  longitude: 10.508042
+
+- location: SHELL EXPRESS SANDVIKA
+  city: Sandvika
+  country: Norge
+  urn: urn:Shell:station:id:4404
+  latitude: 59.890419
+  longitude: 10.515611
+
+- location: SHELL AUTOMAT BRANDBU
+  city: Brandbu
+  country: Norge
+  urn: urn:Shell:station:id:9360
+  latitude: 60.416593
+  longitude: 10.516312
+
+- location: SHELL EXPRESS HASLUM
+  city: Haslum
+  country: Norge
+  urn: urn:Shell:station:id:4450
+  latitude: 59.910578
+  longitude: 10.561491
+
+- location: SHELL GRAN
+  city: Gran
+  country: Norge
+  urn: urn:Shell:station:id:9060
+  latitude: 60.355747
+  longitude: 10.573336
+
+- location: SHELL ALVDAL
+  city: Alvdal
+  country: Norge
+  urn: urn:Shell:station:id:9219
+  latitude: 62.110996
+  longitude: 10.626907
+
+- location: SHELL ROA
+  city: Roa
+  country: Norge
+  urn: urn:Shell:station:id:9327
+  latitude: 60.287098
+  longitude: 10.628713
+
+- location: SHELL ULLERN
+  city: Oslo
+  country: Norge
+  urn: urn:Shell:station:id:9086
+  latitude: 59.926589
+  longitude: 10.635836
+
+- location: SHELL LYGNASÆTER
+  city: Jaren
+  country: Norge
+  urn: urn:Shell:station:id:4249
+  latitude: 60.455345
+  longitude: 10.644363
+
+- location: SHELL ØRE
+  city: Moss
+  country: Norge
+  urn: urn:Shell:station:id:4274
+  latitude: 59.422905
+  longitude: 10.675205
+
+- location: SHELL EXPRESS GJØVIK
+  city: Gjøvik
+  country: Norge
+  urn: urn:Shell:station:id:4437
+  latitude: 60.779185
+  longitude: 10.696211
+
+- location: SHELL MOELV
+  city: Moelv
+  country: Norge
+  urn: urn:Shell:station:id:9411
+  latitude: 60.918301
+  longitude: 10.70517
+
+- location: SHELL VINDEREN
+  city: Oslo
+  country: Norge
+  urn: urn:Shell:station:id:9254
+  latitude: 59.942443
+  longitude: 10.705285
+
+- location: SHELL RYGGE
+  city: Moss
+  country: Norge
+  urn: urn:Shell:station:id:4018
+  latitude: 59.42529
+  longitude: 10.707936
+
+- location: SHELL FROGNER
+  city: Oslo
+  country: Norge
+  urn: urn:Shell:station:id:9137
+  latitude: 59.917976
+  longitude: 10.709207
+
+- location: SHELL HARESTUA
+  city: Harestua
+  country: Norge
+  urn: urn:Shell:station:id:9113
+  latitude: 60.20397
+  longitude: 10.713507
+
+- location: SHELL MARIENLYST
+  city: Oslo
+  country: Norge
+  urn: urn:Shell:station:id:9007
+  latitude: 59.932431
+  longitude: 10.72204
+
+- location: SHELL STAV NORD
+  city: Malvik
+  country: Norge
+  urn: urn:Shell:station:id:4010
+  latitude: 63.423194
+  longitude: 10.7287
+
+- location: SHELL STAV SYD
+  city: Malvik
+  country: Norge
+  urn: urn:Shell:station:id:4004
+  latitude: 63.424033
+  longitude: 10.73046
+
+- location: SHELL AUTOMAT TEGNEBYHOLTET
+  city: Hølen
+  country: Norge
+  urn: urn:Shell:station:id:9073
+  latitude: 59.515823
+  longitude: 10.731955
+
+- location: SHELL ÅS
+  city: Ås
+  country: Norge
+  urn: urn:Shell:station:id:9414
+  latitude: 59.663056
+  longitude: 10.746584
+
+- location: SHELL CRT KONGSHAVN
+  city: Oslo
+  country: Norge
+  urn: urn:Shell:station:id:9498
+  latitude: 59.896431
+  longitude: 10.753936
+
+- location: SHELL BJØLSEN
+  city: Oslo
+  country: Norge
+  urn: urn:Shell:station:id:9159
+  latitude: 59.946953
+  longitude: 10.759795
+
+- location: SHELL SINSEN
+  city: Oslo
+  country: Norge
+  urn: urn:Shell:station:id:9009
+  latitude: 59.932445
+  longitude: 10.778091
+
+- location: SHELL MASTEMYR
+  city: Trollåsen
+  country: Norge
+  urn: urn:Shell:station:id:9162
+  latitude: 59.817619
+  longitude: 10.788508
+
+- location: SHELL BILVASK KASTELLET
+  city: Oslo
+  country: Norge
+  urn: urn:Shell:station:id:4801
+  latitude: 59.871813
+  longitude: 10.789994
+
+- location: SHELL AUTOMAT KVÆRNER
+  city: Oslo
+  country: Norge
+  urn: urn:Shell:station:id:9088
+  latitude: 59.901541
+  longitude: 10.790023
+
+- location: SHELL KASTELLET
+  city: Oslo
+  country: Norge
+  urn: urn:Shell:station:id:9004
+  latitude: 59.872034
+  longitude: 10.790797
+
+- location: SHELL ETTERSTAD
+  city: Oslo
+  country: Norge
+  urn: urn:Shell:station:id:4079
+  latitude: 59.910823
+  longitude: 10.791427
+
+- location: SHELL EXPRESS ONSØY
+  city: Manstad
+  country: Norge
+  urn: urn:Shell:station:id:4435
+  latitude: 59.265898
+  longitude: 10.791856
+
+- location: SHELL KOLBOTN
+  city: Kolbotn
+  country: Norge
+  urn: urn:Shell:station:id:9034
+  latitude: 59.794788
+  longitude: 10.80459
+
+- location: SHELL EXPRESS PRINSDALEN
+  city: Oslo
+  country: Norge
+  urn: urn:Shell:station:id:4407
+  latitude: 59.83425
+  longitude: 10.807683
+
+- location: SHELL MANGLERUD
+  city: Oslo
+  country: Norge
+  urn: urn:Shell:station:id:9087
+  latitude: 59.897847
+  longitude: 10.814428
+
+- location: SHELL CRT RUDSHØGDA
+  city: Rudshøgda
+  country: Norge
+  urn: urn:Shell:station:id:4688
+  latitude: 60.915181
+  longitude: 10.814569
+
+- location: SHELL MORTENSRUD
+  city: Oslo
+  country: Norge
+  urn: urn:Shell:station:id:9339
+  latitude: 59.850174
+  longitude: 10.83462
+
+- location: SHELL EXPRESS STAVSJØ
+  city: Stavsjø
+  country: Norge
+  urn: urn:Shell:station:id:4055
+  latitude: 60.806079
+  longitude: 10.838684
+
+- location: SHELL EXPRESS RÅDE
+  city: Råde
+  country: Norge
+  urn: urn:Shell:station:id:4453
+  latitude: 59.35699
+  longitude: 10.840786
+
+- location: SHELL EXPRESS FURUSET
+  city: Oslo
+  country: Norge
+  urn: urn:Shell:station:id:4444
+  latitude: 59.941806
+  longitude: 10.883864
+
+- location: SHELL GRORUD
+  city: Oslo
+  country: Norge
+  urn: urn:Shell:station:id:9011
+  latitude: 59.960273
+  longitude: 10.88411
+
+- location: SHELL ROMMEN
+  city: Oslo
+  country: Norge
+  urn: urn:Shell:station:id:4062
+  latitude: 59.962888
+  longitude: 10.907481
+
+- location: SHELL VÆRNES
+  city: Stjørdal
+  country: Norge
+  urn: urn:Shell:station:id:4009
+  latitude: 63.452002
+  longitude: 10.9161
+
+- location: SHELL STJØRDAL
+  city: Stjørdal
+  country: Norge
+  urn: urn:Shell:station:id:9134
+  latitude: 63.4676
+  longitude: 10.920817
+
+- location: SHELL BRUMUNDDAL
+  city: Brumunddal
+  country: Norge
+  urn: urn:Shell:station:id:9538
+  latitude: 60.880576
+  longitude: 10.926974
+
+- location: SHELL KRÅKERØY
+  city: Kråkerøy
+  country: Norge
+  urn: urn:Shell:station:id:9106
+  latitude: 59.206583
+  longitude: 10.937041
+
+- location: SHELL EXPRESS BRUMUNDDAL
+  city: Brumunddal
+  country: Norge
+  urn: urn:Shell:station:id:4408
+  latitude: 60.880363
+  longitude: 10.952526
+
+- location: SHELL HOBØL
+  city: Hobøl
+  country: Norge
+  urn: urn:Shell:station:id:4024
+  latitude: 59.622735
+  longitude: 10.954404
+
+- location: SHELL SOLLIBRUA
+  city: Greåker
+  country: Norge
+  urn: urn:Shell:station:id:9190
+  latitude: 59.32482
+  longitude: 10.954899
+
+- location: SHELL CRT ØRA
+  city: Gamle fredrikstad
+  country: Norge
+  urn: urn:Shell:station:id:4682
+  latitude: 59.189958
+  longitude: 10.960239
+
+- location: SHELL SKÅRER
+  city: Lørenskog
+  country: Norge
+  urn: urn:Shell:station:id:9253
+  latitude: 59.928822
+  longitude: 10.96741
+
+- location: SHELL RÅBEKKEN
+  city: Fredrikstad
+  country: Norge
+  urn: urn:Shell:station:id:4022
+  latitude: 59.241123
+  longitude: 10.976012
+
+- location: BURGERSPESIALISTEN RÅBEKKEN
+  city: Fredrikstad
+  country: Norge
+  urn: urn:Shell:station:id:9801
+  latitude: 59.241368
+  longitude: 10.976396
+
+- location: SHELL KOPPANG
+  city: Koppang
+  country: Norge
+  urn: urn:Shell:station:id:9419
+  latitude: 61.588541
+  longitude: 10.995653
+
+- location: SHELL STRØMMEN
+  city: Strømmen
+  country: Norge
+  urn: urn:Shell:station:id:9008
+  latitude: 59.948399
+  longitude: 11.002737
+
+- location: SHELL AUTOMAT ROLVSØY
+  city: Rolvsøy
+  country: Norge
+  urn: urn:Shell:station:id:9513
+  latitude: 59.2647
+  longitude: 11.010508
+
+- location: SHELL AUTOMAT NANNESTAD SENTRUM
+  city: Nannestad
+  country: Norge
+  urn: urn:Shell:station:id:4071
+  latitude: 60.221933
+  longitude: 11.014484
+
+- location: SHELL EXPRESS NANNESTAD ELTONÅSEN
+  city: Holter
+  country: Norge
+  urn: urn:Shell:station:id:4401
+  latitude: 60.13607
+  longitude: 11.023794
+
+- location: SHELL EXPRESS SKEDSMO
+  city: Skedsmokorset
+  country: Norge
+  urn: urn:Shell:station:id:4405
+  latitude: 59.98683
+  longitude: 11.027674
+
+- location: SHELL GJERDRUM
+  city: Gjerdrum
+  country: Norge
+  urn: urn:Shell:station:id:9158
+  latitude: 60.073279
+  longitude: 11.032363
+
+- location: SHELL SKEDSMOVOLLEN VEST
+  city: Skedsmokorset
+  country: Norge
+  urn: urn:Shell:station:id:9437
+  latitude: 59.997864
+  longitude: 11.039195
+
+- location: SHELL SKEDSMOVOLLEN ØST
+  city: Skedsmokorset
+  country: Norge
+  urn: urn:Shell:station:id:9438
+  latitude: 59.996969
+  longitude: 11.039472
+
+- location: SHELL LILLESTRØM
+  city: Lillestrøm
+  country: Norge
+  urn: urn:Shell:station:id:9057
+  latitude: 59.953017
+  longitude: 11.049823
+
+- location: SHELL CRT SPYDEBERG
+  city: Spydeberg
+  country: Norge
+  urn: urn:Shell:station:id:4604
+  latitude: 59.618818
+  longitude: 11.052161
+
+- location: SHELL NEBBENES ØST
+  city: Eidsvoll verk
+  country: Norge
+  urn: urn:Shell:station:id:4067
+  latitude: 60.311666
+  longitude: 11.14406
+
+- location: SHELL CRT NEBBENES ØST
+  city: Eidsvoll verk
+  country: Norge
+  urn: urn:Shell:station:id:4631
+  latitude: 60.310732
+  longitude: 11.144092
+
+- location: SHELL NEBBENES VEST
+  city: Eidsvoll verk
+  country: Norge
+  urn: urn:Shell:station:id:4066
+  latitude: 60.314935
+  longitude: 11.145389
+
+- location: SHELL HAFSLUND
+  city: Borgenhaugen
+  country: Norge
+  urn: urn:Shell:station:id:9141
+  latitude: 59.271735
+  longitude: 11.148395
+
+- location: SHELL TORSHOV
+  city: Ridabu
+  country: Norge
+  urn: urn:Shell:station:id:9132
+  latitude: 60.805983
+  longitude: 11.148467
+
+- location: SHELL KLØFTA ØST
+  city: Kløfta
+  country: Norge
+  urn: urn:Shell:station:id:9473
+  latitude: 60.079091
+  longitude: 11.152274
+
+- location: SHELL NAMDALSEID
+  city: Namdalseid
+  country: Norge
+  urn: urn:Shell:station:id:9186
+  latitude: 64.222628
+  longitude: 11.223612
+
+- location: SHELL CRT LEVANGER
+  city: Levanger
+  country: Norge
+  urn: urn:Shell:station:id:9338
+  latitude: 63.719655
+  longitude: 11.23362
+
+- location: SHELL ESPA
+  city: Espa
+  country: Norge
+  urn: urn:Shell:station:id:9236
+  latitude: 60.562195
+  longitude: 11.255999
+
+- location: SHELL EIDSVOLL
+  city: Eidsvoll
+  country: Norge
+  urn: urn:Shell:station:id:9136
+  latitude: 60.330871
+  longitude: 11.262211
+
+- location: SHELL CRT SVINESUNDPARKEN
+  city: Halden
+  country: Norge
+  urn: urn:Shell:station:id:9522
+  latitude: 59.132422
+  longitude: 11.269642
+
+- location: SHELL SVINESUND E6
+  city: Halden
+  country: Norge
+  urn: urn:Shell:station:id:4294
+  latitude: 59.128577
+  longitude: 11.273382
+
+- location: SHELL EXPRESS MORENEN
+  city: Slitu
+  country: Norge
+  urn: urn:Shell:station:id:9529
+  latitude: 59.577848
+  longitude: 11.279358
+
+- location: SHELL INDERØY
+  city: Inderøy
+  country: Norge
+  urn: urn:Shell:station:id:9468
+  latitude: 63.873897
+  longitude: 11.288584
+
+- location: SHELL BERGERKRYSSET
+  city: Mysen
+  country: Norge
+  urn: urn:Shell:station:id:9494
+  latitude: 59.555414
+  longitude: 11.326051
+
+- location: SHELL MOMARKEN
+  city: Mysen
+  country: Norge
+  urn: urn:Shell:station:id:9184
+  latitude: 59.571882
+  longitude: 11.331291
+
+- location: SHELL EXPRESS HALDEN
+  city: Halden
+  country: Norge
+  urn: urn:Shell:station:id:4434
+  latitude: 59.125262
+  longitude: 11.39066
+
+- location: SHELL AUTOMAT VORMSUND
+  city: Vormsund
+  country: Norge
+  urn: urn:Shell:station:id:9175
+  latitude: 60.157704
+  longitude: 11.421433
+
+- location: SHELL SPARBU
+  city: Sparbu
+  country: Norge
+  urn: urn:Shell:station:id:9238
+  latitude: 63.91713
+  longitude: 11.433382
+
+- location: SHELL VERDAL
+  city: Verdal
+  country: Norge
+  urn: urn:Shell:station:id:9122
+  latitude: 63.769179
+  longitude: 11.464795
+
+- location: SHELL FIGGA
+  city: Steinkjer
+  country: Norge
+  urn: urn:Shell:station:id:9120
+  latitude: 64.004803
+  longitude: 11.498256
+
+- location: SHELL ØSTRE
+  city: Namsos
+  country: Norge
+  urn: urn:Shell:station:id:9083
+  latitude: 64.466806
+  longitude: 11.501846
+
+- location: SHELL CRT ELVERUM
+  city: Elverum
+  country: Norge
+  urn: urn:Shell:station:id:9450
+  latitude: 60.885381
+  longitude: 11.531013
+
+- location: SHELL CRT NAMSOS
+  city: Spillum
+  country: Norge
+  urn: urn:Shell:station:id:4691
+  latitude: 64.457541
+  longitude: 11.535956
+
+- location: SHELL ELVERUM
+  city: Elverum
+  country: Norge
+  urn: urn:Shell:station:id:4436
+  latitude: 60.886191
+  longitude: 11.565879
+
+- location: SHELL VINGER
+  city: Kongsvinger
+  country: Norge
+  urn: urn:Shell:station:id:9100
+  latitude: 60.186303
+  longitude: 12.012229
+
+- location: SHELL NAMNÅ
+  city: Namnå
+  country: Norge
+  urn: urn:Shell:station:id:4053
+  latitude: 60.48978
+  longitude: 12.07758
+
+- location: SHELL BRØNNØYSUND
+  city: Brønnøysund
+  country: Norge
+  urn: urn:Shell:station:id:9418
+  latitude: 65.47665
+  longitude: 12.217535
+
+- location: SHELL TRYSIL
+  city: Trysil
+  country: Norge
+  urn: urn:Shell:station:id:4272
+  latitude: 61.294359
+  longitude: 12.271471
+
+- location: SHELL SANDNESSJØEN
+  city: Sandnessjøen
+  country: Norge
+  urn: urn:Shell:station:id:9442
+  latitude: 66.016808
+  longitude: 12.640655
+
+- location: SHELL HALSØY
+  city: Mosjøen
+  country: Norge
+  urn: urn:Shell:station:id:9208
+  latitude: 65.863846
+  longitude: 13.195279
+
+- location: SHELL ØRNESKRYSSET
+  city: Ørnes
+  country: Norge
+  urn: urn:Shell:station:id:9347
+  latitude: 66.868072
+  longitude: 13.703473
+
+- location: SHELL EXPRESS VIKA MO I RANA
+  city: Mo i rana
+  country: Norge
+  urn: urn:Shell:station:id:4466
+  latitude: 66.317983
+  longitude: 14.140064
+
+- location: SHELL STORMYRA
+  city: Bodø
+  country: Norge
+  urn: urn:Shell:station:id:9020
+  latitude: 67.280302
+  longitude: 14.420567
+
+- location: SHELL MØRKVED
+  city: Bodø
+  country: Norge
+  urn: urn:Shell:station:id:9404
+  latitude: 67.281902
+  longitude: 14.54894
+
+- location: SHELL SVOLVÆR
+  city: Svolvær
+  country: Norge
+  urn: urn:Shell:station:id:9344
+  latitude: 68.239155
+  longitude: 14.566245
+
+- location: SHELL MELBU
+  city: Melbu
+  country: Norge
+  urn: urn:Shell:station:id:9512
+  latitude: 68.502125
+  longitude: 14.818957
+
+- location: SHELL BOGØY
+  city: Bogøy
+  country: Norge
+  urn: urn:Shell:station:id:9012
+  latitude: 67.898756
+  longitude: 15.195556
+
+- location: SHELL FAUSKE
+  city: Fauske
+  country: Norge
+  urn: urn:Shell:station:id:9103
+  latitude: 67.259137
+  longitude: 15.390942
+
+- location: SHELL CRT FAUSKE
+  city: Fauske
+  country: Norge
+  urn: urn:Shell:station:id:4686
+  latitude: 67.271342
+  longitude: 15.398337
+
+- location: SHELL EXPRESS SORTLAND
+  city: Sortland
+  country: Norge
+  urn: urn:Shell:station:id:9157
+  latitude: 68.703624
+  longitude: 15.412593
+
+- location: SHELL HAMARØY
+  city: Hamarøy
+  country: Norge
+  urn: urn:Shell:station:id:9151
+  latitude: 68.084183
+  longitude: 15.649493
+
+- location: SHELL INNHAVET
+  city: Innhavet
+  country: Norge
+  urn: urn:Shell:station:id:9247
+  latitude: 67.963213
+  longitude: 15.929291
+
+- location: SHELL ANDENES
+  city: Andenes
+  country: Norge
+  urn: urn:Shell:station:id:9195
+  latitude: 69.310304
+  longitude: 16.102518
+
+- location: SHELL ANDENES MARINA
+  city: Andenes
+  country: Norge
+  urn: urn:Shell:station:id:9534
+  latitude: 69.325272
+  longitude: 16.138722
+
+- location: SHELL BERGSENG
+  city: Harstad
+  country: Norge
+  urn: urn:Shell:station:id:9396
+  latitude: 68.808428
+  longitude: 16.509335
+
+- location: SHELL ÅSBY
+  city: Harstad
+  country: Norge
+  urn: urn:Shell:station:id:9054
+  latitude: 68.781381
+  longitude: 16.56813
+
+- location: SHELL CRT HARSTAD
+  city: Harstad
+  country: Norge
+  urn: urn:Shell:station:id:9400
+  latitude: 68.779317
+  longitude: 16.587521
+
+- location: SHELL BALLANGEN
+  city: Ballangen
+  country: Norge
+  urn: urn:Shell:station:id:9510
+  latitude: 68.33568
+  longitude: 16.814593
+
+- location: SHELL ANKENES
+  city: Ankenes
+  country: Norge
+  urn: urn:Shell:station:id:9067
+  latitude: 68.405629
+  longitude: 17.417493
+
+- location: SHELL NARVIK
+  city: Narvik
+  country: Norge
+  urn: urn:Shell:station:id:9068
+  latitude: 68.441582
+  longitude: 17.437673
+
+- location: SHELL BJERKVIK
+  city: Bjerkvik
+  country: Norge
+  urn: urn:Shell:station:id:9082
+  latitude: 68.5512
+  longitude: 17.55764
+
+- location: SHELL FINNSNES
+  city: Finnsnes
+  country: Norge
+  urn: urn:Shell:station:id:9169
+  latitude: 69.230606
+  longitude: 17.99854
+
+- location: SHELL SENJA
+  city: Gibostad
+  country: Norge
+  urn: urn:Shell:station:id:9255
+  latitude: 69.3601
+  longitude: 18.05682
+
+- location: SHELL EXPRESS TROMSØ STRANDVEGEN
+  city: Tromsø
+  country: Norge
+  urn: urn:Shell:station:id:9527
+  latitude: 69.630884
+  longitude: 18.920529
+
+- location: SHELL ISHAVSPORTEN
+  city: Tromsdalen
+  country: Norge
+  urn: urn:Shell:station:id:9031
+  latitude: 69.643842
+  longitude: 18.982428
+
+- location: SHELL ØVERBYGD
+  city: Øverbygd
+  country: Norge
+  urn: urn:Shell:station:id:9380
+  latitude: 69.02483
+  longitude: 19.296278
+
+- location: SHELL BALSFJORD
+  city: Nordkjosbotn
+  country: Norge
+  urn: urn:Shell:station:id:9420
+  latitude: 69.215462
+  longitude: 19.55373
+
+- location: SHELL AUTOMAT SØRKJOSEN
+  city: Sørkjosen
+  country: Norge
+  urn: urn:Shell:station:id:9520
+  latitude: 69.786115
+  longitude: 20.952559
+
+- location: SHELL AUTOMAT SKJERVØY
+  city: Skjervøy
+  country: Norge
+  urn: urn:Shell:station:id:9491
+  latitude: 70.025972
+  longitude: 20.977216
+
+- location: SHELL TRUCKDIESEL TALVIK
+  city: Talvik
+  country: Norge
+  urn: urn:Shell:station:id:4689
+  latitude: 70.041219
+  longitude: 22.952762
+
+- location: SHELL AUTOMAT KAUTOKEINO
+  city: Kautokeino
+  country: Norge
+  urn: urn:Shell:station:id:9521
+  latitude: 69.022497
+  longitude: 23.048455
+
+- location: SHELL ALTA
+  city: Alta
+  country: Norge
+  urn: urn:Shell:station:id:9093
+  latitude: 69.973701
+  longitude: 23.364
+
+- location: SHELL AUTOMAT NORDKAPP
+  city: Honningsvåg
+  country: Norge
+  urn: urn:Shell:station:id:9156
+  latitude: 70.999156
+  longitude: 25.96776
+
+- location: SHELL TANABRU
+  city: Tana
+  country: Norge
+  urn: urn:Shell:station:id:9314
+  latitude: 70.199407
+  longitude: 28.188588
+
+- location: SHELL KIRKENES
+  city: Kirkenes
+  country: Norge
+  urn: urn:Shell:station:id:9124
+  latitude: 69.727376
+  longitude: 30.040022

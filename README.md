@@ -136,7 +136,14 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
+| [OKQ8](https://sv.wikipedia.org/wiki/OKQ8)                                               |        803 |
 | [Preem](https://sv.wikipedia.org/wiki/Preem)                                             |        750 |
+| [Shell Finland](https://fi.wikipedia.org/wiki/Shell)                                     |        197 |
+| [Shell Norge](https://no.wikipedia.org/wiki/Shell)                                       |        295 |
+| [Shell Sverige](https://sv.wikipedia.org/wiki/Shell)                                     |        277 |
+| [St1 Finland](https://fi.wikipedia.org/wiki/St1)                                         |        258 |
+| [St1 Sverige](https://sv.wikipedia.org/wiki/St1)                                         |        266 |
+| [Tanka](https://sv.wikipedia.org/wiki/Tanka_(bensinstationskedja))                       |        164 |
 
 
 
@@ -148,6 +155,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | [Grundskolor Bodens Kommun](https://sv.wikipedia.org/wiki/Bodens_kommun)                 |         18 |
 | [Grundskolor Haparanda Kommun](https://sv.wikipedia.org/wiki/Haparanda_kommun)           |          9 |
 | [Grundskolor Kiruna Kommun](https://sv.wikipedia.org/wiki/Kiruna_kommun)                 |         19 |
+| [Grundskolor Luleå Kommun](https://sv.wikipedia.org/wiki/Lule%C3%A5_kommun)              |         48 |
 | [Grundskolor Piteå Kommun](https://sv.wikipedia.org/wiki/Pite%C3%A5_kommun)              |         32 |
 
 

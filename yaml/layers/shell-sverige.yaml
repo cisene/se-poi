@@ -1,0 +1,1946 @@
+meta:
+  name: Shell Sverige
+  web: https://www.shell.se/
+  wikipedia: https://sv.wikipedia.org/wiki/Shell
+  category: Drivmedel
+  locations: 277
+
+locations:
+- location: Välkommen in Stenungsund
+  city: Stenungsund
+  country: Sverige
+  urn: urn:Shell:station:id:28257
+  latitude: 58.06906
+  longitude: 11.854858
+
+- location: Shell Stenungsund
+  city: Stenungsund
+  country: Sverige
+  urn: urn:Shell:station:id:78257
+  latitude: 58.06906
+  longitude: 11.854858
+
+- location: Välkommen in Västra Frölunda
+  city: Västra frölunda
+  country: Sverige
+  urn: urn:Shell:station:id:28320
+  latitude: 57.652653
+  longitude: 11.906034
+
+- location: Shell Västra Frölunda
+  city: Västra frölunda
+  country: Sverige
+  urn: urn:Shell:station:id:78320
+  latitude: 57.652653
+  longitude: 11.906034
+
+- location: Shell Ljungskile
+  city: Ljungskile
+  country: Sverige
+  urn: urn:Shell:station:id:78304
+  latitude: 58.230496
+  longitude: 11.90942
+
+- location: Välkommen in Göteborg Karl Johansg
+  city: Göteborg
+  country: Sverige
+  urn: urn:Shell:station:id:28181
+  latitude: 57.692195
+  longitude: 11.915478
+
+- location: Shell Göteborg Karl Johansg
+  city: Göteborg
+  country: Sverige
+  urn: urn:Shell:station:id:78181
+  latitude: 57.692195
+  longitude: 11.915478
+
+- location: Shell Truck Diesel Uddevalla
+  city: Uddevalla
+  country: Sverige
+  urn: urn:Shell:station:id:78536
+  latitude: 58.35057
+  longitude: 11.916225
+
+- location: Välkommen in Askim Värslevägen
+  city: Askim
+  country: Sverige
+  urn: urn:Shell:station:id:28380
+  latitude: 57.62601
+  longitude: 11.9357
+
+- location: Shell Askim Värslevägen
+  city: Askim
+  country: Sverige
+  urn: urn:Shell:station:id:78380
+  latitude: 57.62601
+  longitude: 11.9357
+
+- location: Välkommen in Göteborg Djurgårdsplatsen
+  city: Göteborg
+  country: Sverige
+  urn: urn:Shell:station:id:28247
+  latitude: 57.694195
+  longitude: 11.93573
+
+- location: Shell Göteborg Djurgårdsplatsen
+  city: Göteborg
+  country: Sverige
+  urn: urn:Shell:station:id:78247
+  latitude: 57.694195
+  longitude: 11.93573
+
+- location: Shell Uddevalla
+  city: Uddevalla
+  country: Sverige
+  urn: urn:Shell:station:id:78335
+  latitude: 58.356101
+  longitude: 11.963319
+
+- location: Välkommen in Särö
+  city: Särö
+  country: Sverige
+  urn: urn:Shell:station:id:28229
+  latitude: 57.520999
+  longitude: 11.966645
+
+- location: Shell Särö
+  city: Särö
+  country: Sverige
+  urn: urn:Shell:station:id:78229
+  latitude: 57.520999
+  longitude: 11.966645
+
+- location: Shell Truck Diesel Hisings Backa
+  city: Hisings backa
+  country: Sverige
+  urn: urn:Shell:station:id:78559
+  latitude: 57.747776
+  longitude: 11.992351
+
+- location: Välkommen in Göteborg Mölndalsvägen
+  city: Göteborg
+  country: Sverige
+  urn: urn:Shell:station:id:28191
+  latitude: 57.68412
+  longitude: 11.999303
+
+- location: Shell Göteborg Mölndalsvägen
+  city: Göteborg
+  country: Sverige
+  urn: urn:Shell:station:id:78191
+  latitude: 57.68412
+  longitude: 11.999303
+
+- location: Shell Sandsjöbacka Väst
+  city: Lindome
+  country: Sverige
+  urn: urn:Shell:station:id:78242
+  latitude: 57.55494
+  longitude: 12.0517
+
+- location: Shell Sandsjöbacka Öst
+  city: Lindome
+  country: Sverige
+  urn: urn:Shell:station:id:78294
+  latitude: 57.551508
+  longitude: 12.054916
+
+- location: Välkommen in Mölnlycke
+  city: Mölnlycke
+  country: Sverige
+  urn: urn:Shell:station:id:28394
+  latitude: 57.668936
+  longitude: 12.09645
+
+- location: Shell Mölnlycke
+  city: Mölnlycke
+  country: Sverige
+  urn: urn:Shell:station:id:78394
+  latitude: 57.668936
+  longitude: 12.09645
+
+- location: Välkommen in Partille
+  city: Partille
+  country: Sverige
+  urn: urn:Shell:station:id:28254
+  latitude: 57.737103
+  longitude: 12.098608
+
+- location: Shell Partille
+  city: Partille
+  country: Sverige
+  urn: urn:Shell:station:id:78254
+  latitude: 57.737103
+  longitude: 12.098608
+
+- location: Shell TruckDiesel Årjäng BIO
+  city: Årjäng
+  country: Sverige
+  urn: urn:Shell:station:id:78710
+  latitude: 59.398289
+  longitude: 12.127297
+
+- location: Shell Truck Diesel Årjäng
+  city: Årjäng
+  country: Sverige
+  urn: urn:Shell:station:id:78557
+  latitude: 59.398731
+  longitude: 12.128079
+
+- location: Välkommen in Fjärås
+  city: Fjärås
+  country: Sverige
+  urn: urn:Shell:station:id:28341
+  latitude: 57.435503
+  longitude: 12.15413
+
+- location: Shell Fjärås
+  city: Fjärås
+  country: Sverige
+  urn: urn:Shell:station:id:78341
+  latitude: 57.435503
+  longitude: 12.15413
+
+- location: Välkommen in Landvetter
+  city: Landvetter
+  country: Sverige
+  urn: urn:Shell:station:id:28479
+  latitude: 57.687241
+  longitude: 12.206449
+
+- location: Shell Landvetter
+  city: Landvetter
+  country: Sverige
+  urn: urn:Shell:station:id:78479
+  latitude: 57.687241
+  longitude: 12.206449
+
+- location: Välkommen in Lerum
+  city: Lerum
+  country: Sverige
+  urn: urn:Shell:station:id:28357
+  latitude: 57.752716
+  longitude: 12.249604
+
+- location: Shell Lerum
+  city: Lerum
+  country: Sverige
+  urn: urn:Shell:station:id:78357
+  latitude: 57.752716
+  longitude: 12.249604
+
+- location: Välkommen in Varberg
+  city: Varberg
+  country: Sverige
+  urn: urn:Shell:station:id:28306
+  latitude: 57.122889
+  longitude: 12.261205
+
+- location: Shell Varberg
+  city: Varberg
+  country: Sverige
+  urn: urn:Shell:station:id:78306
+  latitude: 57.122889
+  longitude: 12.261205
+
+- location: Shell TruckDiesel Charlottenberg
+  city: Charlottenberg
+  country: Sverige
+  urn: urn:Shell:station:id:78694
+  latitude: 59.871816
+  longitude: 12.291427
+
+- location: Välkommen in Trollhättan
+  city: Trollhättan
+  country: Sverige
+  urn: urn:Shell:station:id:28271
+  latitude: 58.280389
+  longitude: 12.297576
+
+- location: Shell Trollhättan
+  city: Trollhättan
+  country: Sverige
+  urn: urn:Shell:station:id:78271
+  latitude: 58.280389
+  longitude: 12.297576
+
+- location: Välkommen in Vänersborg
+  city: Vänersborg
+  country: Sverige
+  urn: urn:Shell:station:id:28337
+  latitude: 58.366637
+  longitude: 12.322459
+
+- location: Shell Vänersborg
+  city: Vänersborg
+  country: Sverige
+  urn: urn:Shell:station:id:78337
+  latitude: 58.366637
+  longitude: 12.322459
+
+- location: Shell TruckDiesel Åmotfors
+  city: Åmotfors
+  country: Sverige
+  urn: urn:Shell:station:id:78709
+  latitude: 59.769528
+  longitude: 12.378917
+
+- location: Välkommen in Falkenberg Arvidstorpsv
+  city: Falkenberg
+  country: Sverige
+  urn: urn:Shell:station:id:28426
+  latitude: 56.911583
+  longitude: 12.483208
+
+- location: Shell Falkenberg Arvidstorpsv
+  city: Falkenberg
+  country: Sverige
+  urn: urn:Shell:station:id:78426
+  latitude: 56.911583
+  longitude: 12.483208
+
+- location: Shell Falkenberg Skreamotet
+  city: Falkenberg
+  country: Sverige
+  urn: urn:Shell:station:id:78289
+  latitude: 56.903343
+  longitude: 12.580521
+
+- location: Välkommen in Arvika
+  city: Arvika
+  country: Sverige
+  urn: urn:Shell:station:id:28219
+  latitude: 59.660985
+  longitude: 12.613259
+
+- location: Shell Arvika
+  city: Arvika
+  country: Sverige
+  urn: urn:Shell:station:id:78219
+  latitude: 59.660985
+  longitude: 12.613259
+
+- location: Shell TruckDiesel Arvika Långvaksvägen
+  city: Arvika
+  country: Sverige
+  urn: urn:Shell:station:id:78693
+  latitude: 59.663612
+  longitude: 12.629707
+
+- location: Shell Truck Diesel Arvika
+  city: Arvika
+  country: Sverige
+  urn: urn:Shell:station:id:78556
+  latitude: 59.659248
+  longitude: 12.63612
+
+- location: Shell Truck Diesel Arvika Falleberget BIO
+  city: Arvika
+  country: Sverige
+  urn: urn:Shell:station:id:78711
+  latitude: 59.657768
+  longitude: 12.640933
+
+- location: Shell Truck Diesel Åmål
+  city: Åmål
+  country: Sverige
+  urn: urn:Shell:station:id:78558
+  latitude: 59.045884
+  longitude: 12.693019
+
+- location: Välkommen in Helsingborg Regementsv
+  city: Helsingborg
+  country: Sverige
+  urn: urn:Shell:station:id:28382
+  latitude: 56.06654
+  longitude: 12.722282
+
+- location: Shell Helsingborg Regementsv
+  city: Helsingborg
+  country: Sverige
+  urn: urn:Shell:station:id:78382
+  latitude: 56.06654
+  longitude: 12.722282
+
+- location: Välkommen in Helsingborg Rusthållsg
+  city: Helsingborg
+  country: Sverige
+  urn: urn:Shell:station:id:28231
+  latitude: 56.016532
+  longitude: 12.756102
+
+- location: Shell Helsingborg Rusthållsg
+  city: Helsingborg
+  country: Sverige
+  urn: urn:Shell:station:id:78231
+  latitude: 56.016532
+  longitude: 12.756102
+
+- location: Shell Truck Diesel Helsingborg
+  city: Helsingborg
+  country: Sverige
+  urn: urn:Shell:station:id:78217
+  latitude: 56.01995
+  longitude: 12.76976
+
+- location: Shell TruckDiesel Volvo Viared
+  city: Borås
+  country: Sverige
+  urn: urn:Shell:station:id:78690
+  latitude: 57.6881
+  longitude: 12.807158
+
+- location: Välkommen in Borås Viaredsv
+  city: Borås
+  country: Sverige
+  urn: urn:Shell:station:id:28573
+  latitude: 57.709756
+  longitude: 12.867263
+
+- location: Shell Borås Viaredsv
+  city: Borås
+  country: Sverige
+  urn: urn:Shell:station:id:78573
+  latitude: 57.709756
+  longitude: 12.867263
+
+- location: Välkommen in Halmstad Laholmsv
+  city: Halmstad
+  country: Sverige
+  urn: urn:Shell:station:id:28449
+  latitude: 56.66236
+  longitude: 12.884672
+
+- location: Shell Halmstad Laholmsv
+  city: Halmstad
+  country: Sverige
+  urn: urn:Shell:station:id:78449
+  latitude: 56.66236
+  longitude: 12.884672
+
+- location: Välkommen in Ängelholm
+  city: Ängelholm
+  country: Sverige
+  urn: urn:Shell:station:id:28456
+  latitude: 56.250668
+  longitude: 12.8936
+
+- location: Shell Ängelholm
+  city: Ängelholm
+  country: Sverige
+  urn: urn:Shell:station:id:78456
+  latitude: 56.250668
+  longitude: 12.8936
+
+- location: Shell Truck Diesel Halmstad Fräsareg
+  city: Halmstad
+  country: Sverige
+  urn: urn:Shell:station:id:78521
+  latitude: 56.654886
+  longitude: 12.896276
+
+- location: Välkommen in Åstorp
+  city: Åstorp
+  country: Sverige
+  urn: urn:Shell:station:id:28281
+  latitude: 56.127174
+  longitude: 12.915555
+
+- location: Shell Åstorp
+  city: Åstorp
+  country: Sverige
+  urn: urn:Shell:station:id:78281
+  latitude: 56.127174
+  longitude: 12.915555
+
+- location: Välkommen in Limhamn
+  city: Limhamn
+  country: Sverige
+  urn: urn:Shell:station:id:28309
+  latitude: 55.578817
+  longitude: 12.929327
+
+- location: Shell Limhamn
+  city: Limhamn
+  country: Sverige
+  urn: urn:Shell:station:id:78309
+  latitude: 55.578817
+  longitude: 12.929327
+
+- location: Shell Truck Diesel Torsby
+  city: Torsby
+  country: Sverige
+  urn: urn:Shell:station:id:78555
+  latitude: 60.132674
+  longitude: 12.988267
+
+- location: Välkommen in Malmö Holmavångsvägen
+  city: Malmö
+  country: Sverige
+  urn: urn:Shell:station:id:28338
+  latitude: 55.57503
+  longitude: 12.989927
+
+- location: Shell Malmö Holmavångsvägen
+  city: Malmö
+  country: Sverige
+  urn: urn:Shell:station:id:78338
+  latitude: 55.57503
+  longitude: 12.989927
+
+- location: Välkommen in Löddeköpinge
+  city: Löddeköpinge
+  country: Sverige
+  urn: urn:Shell:station:id:28331
+  latitude: 55.766596
+  longitude: 12.99205
+
+- location: Shell Löddeköpinge
+  city: Löddeköpinge
+  country: Sverige
+  urn: urn:Shell:station:id:78331
+  latitude: 55.766596
+  longitude: 12.99205
+
+- location: Shell Lockarp
+  city: Malmö
+  country: Sverige
+  urn: urn:Shell:station:id:78510
+  latitude: 55.551093
+  longitude: 13.033362
+
+- location: Välkommen in Arlöv
+  city: Arlöv
+  country: Sverige
+  urn: urn:Shell:station:id:28183
+  latitude: 55.638888
+  longitude: 13.059919
+
+- location: Shell Arlöv
+  city: Arlöv
+  country: Sverige
+  urn: urn:Shell:station:id:78183
+  latitude: 55.638888
+  longitude: 13.059919
+
+- location: Shell Truck Diesel Sunne
+  city: Sunne
+  country: Sverige
+  urn: urn:Shell:station:id:78566
+  latitude: 59.855189
+  longitude: 13.124695
+
+- location: Shell TruckDiesel Sunne LBC Wetab
+  city: Sunne
+  country: Sverige
+  urn: urn:Shell:station:id:78705
+  latitude: 59.842131
+  longitude: 13.125422
+
+- location: Shell Truck Diesel Trelleborg
+  city: Trelleborg
+  country: Sverige
+  urn: urn:Shell:station:id:78300
+  latitude: 55.373681
+  longitude: 13.135909
+
+- location: Välkommen in Lidköping
+  city: Lidköping
+  country: Sverige
+  urn: urn:Shell:station:id:28374
+  latitude: 58.510266
+  longitude: 13.144683
+
+- location: Shell Lidköping
+  city: Lidköping
+  country: Sverige
+  urn: urn:Shell:station:id:78374
+  latitude: 58.510266
+  longitude: 13.144683
+
+- location: Välkommen in Trelleborg
+  city: Trelleborg
+  country: Sverige
+  urn: urn:Shell:station:id:28279
+  latitude: 55.373435
+  longitude: 13.149848
+
+- location: Shell Trelleborg
+  city: Trelleborg
+  country: Sverige
+  urn: urn:Shell:station:id:78279
+  latitude: 55.373435
+  longitude: 13.149848
+
+- location: Välkommen in Lund Förhandlingsv
+  city: Lund
+  country: Sverige
+  urn: urn:Shell:station:id:28384
+  latitude: 55.716515
+  longitude: 13.155523
+
+- location: Shell Lund Förhandlingsv
+  city: Lund
+  country: Sverige
+  urn: urn:Shell:station:id:78384
+  latitude: 55.716515
+  longitude: 13.155523
+
+- location: Shell TruckDiesel Lidköping Volvo
+  city: Lidköping
+  country: Sverige
+  urn: urn:Shell:station:id:78597
+  latitude: 58.492289
+  longitude: 13.190329
+
+- location: Shell TruckDiesel Stöllet
+  city: Stöllet
+  country: Sverige
+  urn: urn:Shell:station:id:78719
+  latitude: 60.422475
+  longitude: 13.259712
+
+- location: Shell TruckDiesel Ilanda
+  city: Karlstad
+  country: Sverige
+  urn: urn:Shell:station:id:78699
+  latitude: 59.428791
+  longitude: 13.412966
+
+- location: Shell TruckDIesel Skoghall Stor Enso
+  city: Skoghall
+  country: Sverige
+  urn: urn:Shell:station:id:78715
+  latitude: 59.325164
+  longitude: 13.45461
+
+- location: Shell Automat Järpen
+  city: Järpen
+  country: Sverige
+  urn: urn:Shell:station:id:78441
+  latitude: 63.34285
+  longitude: 13.473824
+
+- location: Välkommen in Karlstad Östra Infarten
+  city: Karlstad
+  country: Sverige
+  urn: urn:Shell:station:id:28378
+  latitude: 59.394637
+  longitude: 13.517617
+
+- location: Shell Karlstad Östra Infarten
+  city: Karlstad
+  country: Sverige
+  urn: urn:Shell:station:id:78378
+  latitude: 59.394637
+  longitude: 13.517617
+
+- location: Shell TruckDiesel Munkfors
+  city: Munkfors
+  country: Sverige
+  urn: urn:Shell:station:id:78714
+  latitude: 59.829816
+  longitude: 13.52615
+
+- location: Välkommen in Gislaved
+  city: Gislaved
+  country: Sverige
+  urn: urn:Shell:station:id:28189
+  latitude: 57.306986
+  longitude: 13.54242
+
+- location: Shell Gislaved
+  city: Gislaved
+  country: Sverige
+  urn: urn:Shell:station:id:78189
+  latitude: 57.306986
+  longitude: 13.54242
+
+- location: Shell TruckDiesel Karlstad Volvo
+  city: Karlstad
+  country: Sverige
+  urn: urn:Shell:station:id:78599
+  latitude: 59.3787
+  longitude: 13.5592
+
+- location: Shell TruckDIesel Karlstad Lovartsgatan BIO
+  city: Karlstad
+  country: Sverige
+  urn: urn:Shell:station:id:78700
+  latitude: 59.376932
+  longitude: 13.560871
+
+- location: Shell Truck Diesel Välsvik
+  city: Karlstad
+  country: Sverige
+  urn: urn:Shell:station:id:78585
+  latitude: 59.3923
+  longitude: 13.5699
+
+- location: Shell Strömsnäsbruk
+  city: Strömsnäsbruk
+  country: Sverige
+  urn: urn:Shell:station:id:78277
+  latitude: 56.562199
+  longitude: 13.723026
+
+- location: Shell Truck Diesel Ystad
+  city: Ystad
+  country: Sverige
+  urn: urn:Shell:station:id:78519
+  latitude: 55.444542
+  longitude: 13.804838
+
+- location: Välkommen in Skövde
+  city: Skövde
+  country: Sverige
+  urn: urn:Shell:station:id:28402
+  latitude: 58.37624
+  longitude: 13.836678
+
+- location: Shell Skövde
+  city: Skövde
+  country: Sverige
+  urn: urn:Shell:station:id:78402
+  latitude: 58.37624
+  longitude: 13.836678
+
+- location: Shell Truck Diesel Ljungby
+  city: Ljungby
+  country: Sverige
+  urn: urn:Shell:station:id:78354
+  latitude: 56.817451
+  longitude: 13.906792
+
+- location: Välkommen in Mariestad Hasslerör
+  city: Mariestad
+  country: Sverige
+  urn: urn:Shell:station:id:28340
+  latitude: 58.735441
+  longitude: 13.925967
+
+- location: Shell Mariestad Hasslerör
+  city: Mariestad
+  country: Sverige
+  urn: urn:Shell:station:id:78340
+  latitude: 58.735441
+  longitude: 13.925967
+
+- location: Shell Truck Diesel Tidaholm
+  city: Tidaholm
+  country: Sverige
+  urn: urn:Shell:station:id:78540
+  latitude: 58.17385
+  longitude: 13.941297
+
+- location: Välkommen in Bottnaryd Västra Jära
+  city: Bottnaryd
+  country: Sverige
+  urn: urn:Shell:station:id:28397
+  latitude: 57.751511
+  longitude: 13.96026
+
+- location: Shell Bottnaryd Västra Jära
+  city: Bottnaryd
+  country: Sverige
+  urn: urn:Shell:station:id:78397
+  latitude: 57.751511
+  longitude: 13.96026
+
+- location: Välkommen in Osby
+  city: Osby
+  country: Sverige
+  urn: urn:Shell:station:id:28484
+  latitude: 56.378082
+  longitude: 13.994006
+
+- location: Shell Osby
+  city: Osby
+  country: Sverige
+  urn: urn:Shell:station:id:78484
+  latitude: 56.378082
+  longitude: 13.994006
+
+- location: Shell Truck Diesel Tibro
+  city: Tibro
+  country: Sverige
+  urn: urn:Shell:station:id:78539
+  latitude: 58.41485
+  longitude: 14.134952
+
+- location: Shell Truck DIesel Filipstad
+  city: Filipstad
+  country: Sverige
+  urn: urn:Shell:station:id:78695
+  latitude: 59.712411
+  longitude: 14.147746
+
+- location: Shell Jönköping Torsvik
+  city: Jönköping
+  country: Sverige
+  urn: urn:Shell:station:id:78249
+  latitude: 57.690934
+  longitude: 14.156435
+
+- location: Välkommen in Jönköping Barnarpsg
+  city: Jönköping
+  country: Sverige
+  urn: urn:Shell:station:id:28356
+  latitude: 57.772785
+  longitude: 14.157102
+
+- location: Shell Jönköping Barnarpsg
+  city: Jönköping
+  country: Sverige
+  urn: urn:Shell:station:id:78356
+  latitude: 57.772785
+  longitude: 14.157102
+
+- location: Shell TruckDiesel Jönköping Volvo
+  city: Jönköping
+  country: Sverige
+  urn: urn:Shell:station:id:78672
+  latitude: 57.747076
+  longitude: 14.162708
+
+- location: Shell TruckDiesel Visnum Vall
+  city: Kristinehamn
+  country: Sverige
+  urn: urn:Shell:station:id:78718
+  latitude: 59.117305
+  longitude: 14.178355
+
+- location: Välkommen in Jönköping Sjukhusg A6
+  city: Jönköping
+  country: Sverige
+  urn: urn:Shell:station:id:28282
+  latitude: 57.77252
+  longitude: 14.197752
+
+- location: Shell Jönköping Sjukhusg A6
+  city: Jönköping
+  country: Sverige
+  urn: urn:Shell:station:id:78282
+  latitude: 57.77252
+  longitude: 14.197752
+
+- location: Välkommen in Huskvarna
+  city: Huskvarna
+  country: Sverige
+  urn: urn:Shell:station:id:28438
+  latitude: 57.787563
+  longitude: 14.267214
+
+- location: Shell Huskvarna
+  city: Huskvarna
+  country: Sverige
+  urn: urn:Shell:station:id:78438
+  latitude: 57.787563
+  longitude: 14.267214
+
+- location: Shell TruckDiesel Karlskoga
+  city: Karlskoga
+  country: Sverige
+  urn: urn:Shell:station:id:78698
+  latitude: 59.324326
+  longitude: 14.479396
+
+- location: Shell Truck Diesel Mora
+  city: Mora
+  country: Sverige
+  urn: urn:Shell:station:id:78549
+  latitude: 61.007697
+  longitude: 14.550736
+
+- location: Shell TruckDiesel Hasselfors
+  city: Hasselfors
+  country: Sverige
+  urn: urn:Shell:station:id:78697
+  latitude: 59.095597
+  longitude: 14.641982
+
+- location: Shell Truck Diesel Östersund Upplagsv
+  city: Östersund
+  country: Sverige
+  urn: urn:Shell:station:id:78515
+  latitude: 63.21635
+  longitude: 14.65092
+
+- location: Shell TruckDiesel Östersund Volvo
+  city: Östersund
+  country: Sverige
+  urn: urn:Shell:station:id:78594
+  latitude: 63.1716
+  longitude: 14.682
+
+- location: Shell Truck Diesel Växjö Råddjursv
+  city: Växjö
+  country: Sverige
+  urn: urn:Shell:station:id:78528
+  latitude: 56.909463
+  longitude: 14.835475
+
+- location: Shell Truck Diesel Brunflo
+  city: Brunflo
+  country: Sverige
+  urn: urn:Shell:station:id:78584
+  latitude: 63.075163
+  longitude: 14.835889
+
+- location: Shell Truck Diesel Karlshamn
+  city: Karlshamn
+  country: Sverige
+  urn: urn:Shell:station:id:78526
+  latitude: 56.1623
+  longitude: 14.8449
+
+- location: Välkommen in Askersund
+  city: Askersund
+  country: Sverige
+  urn: urn:Shell:station:id:28237
+  latitude: 58.878962
+  longitude: 14.897043
+
+- location: Shell Askersund
+  city: Askersund
+  country: Sverige
+  urn: urn:Shell:station:id:78237
+  latitude: 58.878962
+  longitude: 14.897043
+
+- location: Shell TruckDiesel Tranås Volvo
+  city: Tranås
+  country: Sverige
+  urn: urn:Shell:station:id:78670
+  latitude: 58.03265
+  longitude: 14.948787
+
+- location: Shell Automat Vintrosa
+  city: Vintrosa
+  country: Sverige
+  urn: urn:Shell:station:id:78346
+  latitude: 59.241119
+  longitude: 15.028587
+
+- location: Välkommen in Motala
+  city: Motala
+  country: Sverige
+  urn: urn:Shell:station:id:28366
+  latitude: 58.531294
+  longitude: 15.044594
+
+- location: Shell Motala
+  city: Motala
+  country: Sverige
+  urn: urn:Shell:station:id:78366
+  latitude: 58.531294
+  longitude: 15.044594
+
+- location: Shell TruckDiesel Motala Volvo
+  city: Motala
+  country: Sverige
+  urn: urn:Shell:station:id:78595
+  latitude: 58.5585
+  longitude: 15.0636
+
+- location: Shell Truck Diesel Insjön
+  city: Insjön
+  country: Sverige
+  urn: urn:Shell:station:id:78551
+  latitude: 60.6685
+  longitude: 15.09144
+
+- location: Välkommen in Kumla
+  city: Kumla
+  country: Sverige
+  urn: urn:Shell:station:id:28188
+  latitude: 59.132265
+  longitude: 15.118647
+
+- location: Shell Kumla
+  city: Kumla
+  country: Sverige
+  urn: urn:Shell:station:id:78188
+  latitude: 59.132265
+  longitude: 15.118647
+
+- location: Shell Truck Diesel Berglunda
+  city: Örebro
+  country: Sverige
+  urn: urn:Shell:station:id:78588
+  latitude: 59.237588
+  longitude: 15.125589
+
+- location: Shell TruckDiesel Örebro Volvo
+  city: Örebro
+  country: Sverige
+  urn: urn:Shell:station:id:78675
+  latitude: 59.297635
+  longitude: 15.233427
+
+- location: Shell Truck Diesel Tärnaby
+  city: Tärnaby
+  country: Sverige
+  urn: urn:Shell:station:id:78305
+  latitude: 65.709957
+  longitude: 15.249184
+
+- location: Shell TruckDiesel Frövi
+  city: Frövi
+  country: Sverige
+  urn: urn:Shell:station:id:78696
+  latitude: 59.47422
+  longitude: 15.34155
+
+- location: Välkommen in Listerby
+  city: Listerby
+  country: Sverige
+  urn: urn:Shell:station:id:28390
+  latitude: 56.199076
+  longitude: 15.403389
+
+- location: Shell Listerby
+  city: Listerby
+  country: Sverige
+  urn: urn:Shell:station:id:78390
+  latitude: 56.199076
+  longitude: 15.403389
+
+- location: Välkommen in Borlänge Ritarg
+  city: Borlänge
+  country: Sverige
+  urn: urn:Shell:station:id:28221
+  latitude: 60.475488
+  longitude: 15.408808
+
+- location: Shell Borlänge Ritarg
+  city: Borlänge
+  country: Sverige
+  urn: urn:Shell:station:id:78221
+  latitude: 60.475488
+  longitude: 15.408808
+
+- location: Välkommen in Borlänge Tunabro
+  city: Borlänge
+  country: Sverige
+  urn: urn:Shell:station:id:28370
+  latitude: 60.463434
+  longitude: 15.47024
+
+- location: Shell Borlänge Tunabro
+  city: Borlänge
+  country: Sverige
+  urn: urn:Shell:station:id:78370
+  latitude: 60.463434
+  longitude: 15.47024
+
+- location: Shell Truck Diesel Strömsund
+  city: Strömsund
+  country: Sverige
+  urn: urn:Shell:station:id:78265
+  latitude: 63.844979
+  longitude: 15.574989
+
+- location: Välkommen in Linköping Malmslätt
+  city: Linköping
+  country: Sverige
+  urn: urn:Shell:station:id:28468
+  latitude: 58.40708
+  longitude: 15.590998
+
+- location: Shell Linköping Malmslätt
+  city: Linköping
+  country: Sverige
+  urn: urn:Shell:station:id:78468
+  latitude: 58.40708
+  longitude: 15.590998
+
+- location: Shell Truck Diesel Kisa
+  city: Kisa
+  country: Sverige
+  urn: urn:Shell:station:id:78563
+  latitude: 57.98135
+  longitude: 15.63708
+
+- location: Shell Truck Diesel Karlskrona Kaliumv
+  city: Karlskrona
+  country: Sverige
+  urn: urn:Shell:station:id:78574
+  latitude: 56.218404
+  longitude: 15.640916
+
+- location: Välkommen in Karlskrona
+  city: Karlskrona
+  country: Sverige
+  urn: urn:Shell:station:id:28395
+  latitude: 56.20358
+  longitude: 15.64171
+
+- location: Shell Karlskrona
+  city: Karlskrona
+  country: Sverige
+  urn: urn:Shell:station:id:78395
+  latitude: 56.20358
+  longitude: 15.64171
+
+- location: Välkommen in Linköping Kylarv
+  city: Linköping
+  country: Sverige
+  urn: urn:Shell:station:id:28412
+  latitude: 58.399039
+  longitude: 15.653005
+
+- location: Shell Linköping Kylarv
+  city: Linköping
+  country: Sverige
+  urn: urn:Shell:station:id:78412
+  latitude: 58.399039
+  longitude: 15.653005
+
+- location: Shell Herrbeta Ng
+  city: Linghem
+  country: Sverige
+  urn: urn:Shell:station:id:78226
+  latitude: 58.47953
+  longitude: 15.872867
+
+- location: Shell Herrbeta Sg
+  city: Linghem
+  country: Sverige
+  urn: urn:Shell:station:id:78199
+  latitude: 58.481665
+  longitude: 15.873476
+
+- location: Shell Skärblacka
+  city: Skärblacka
+  country: Sverige
+  urn: urn:Shell:station:id:78301
+  latitude: 58.581174
+  longitude: 15.925628
+
+- location: Välkommen in Åtvidaberg
+  city: Åtvidaberg
+  country: Sverige
+  urn: urn:Shell:station:id:28447
+  latitude: 58.209579
+  longitude: 15.989573
+
+- location: Shell Åtvidaberg
+  city: Åtvidaberg
+  country: Sverige
+  urn: urn:Shell:station:id:78447
+  latitude: 58.209579
+  longitude: 15.989573
+
+- location: Shell Truck Diesel Ljusdal
+  city: Ljusdal
+  country: Sverige
+  urn: urn:Shell:station:id:78518
+  latitude: 61.820442
+  longitude: 16.059646
+
+- location: Välkommen in Norrköping Hagag
+  city: Norrköping
+  country: Sverige
+  urn: urn:Shell:station:id:28263
+  latitude: 58.595655
+  longitude: 16.156304
+
+- location: Shell Norrköping Hagag
+  city: Norrköping
+  country: Sverige
+  urn: urn:Shell:station:id:78263
+  latitude: 58.595655
+  longitude: 16.156304
+
+- location: Shell Express Norrköping Stockholmsv
+  city: Norrköping
+  country: Sverige
+  urn: urn:Shell:station:id:78267
+  latitude: 58.596231
+  longitude: 16.173424
+
+- location: Välkommen in Norrköping Boktryckareg
+  city: Norrköping
+  country: Sverige
+  urn: urn:Shell:station:id:28428
+  latitude: 58.605689
+  longitude: 16.174769
+
+- location: Shell Norrköping Boktryckareg
+  city: Norrköping
+  country: Sverige
+  urn: urn:Shell:station:id:78428
+  latitude: 58.605689
+  longitude: 16.174769
+
+- location: Shell TruckDiesel Norrköping Volvo
+  city: Norrköping
+  country: Sverige
+  urn: urn:Shell:station:id:78673
+  latitude: 58.604013
+  longitude: 16.179624
+
+- location: Välkommen in Avesta
+  city: Avesta
+  country: Sverige
+  urn: urn:Shell:station:id:28210
+  latitude: 60.151753
+  longitude: 16.199701
+
+- location: Shell Avesta
+  city: Avesta
+  country: Sverige
+  urn: urn:Shell:station:id:78210
+  latitude: 60.151753
+  longitude: 16.199701
+
+- location: Välkommen in Katrineholm
+  city: Katrineholm
+  country: Sverige
+  urn: urn:Shell:station:id:28399
+  latitude: 58.995247
+  longitude: 16.211094
+
+- location: Shell Katrineholm
+  city: Katrineholm
+  country: Sverige
+  urn: urn:Shell:station:id:78399
+  latitude: 58.995247
+  longitude: 16.211094
+
+- location: Shell TruckDiesel Katrineholm Volvo
+  city: Katrineholm
+  country: Sverige
+  urn: urn:Shell:station:id:78591
+  latitude: 59.001175
+  longitude: 16.223547
+
+- location: Välkommen in Kalmar
+  city: Kalmar
+  country: Sverige
+  urn: urn:Shell:station:id:28483
+  latitude: 56.673163
+  longitude: 16.333513
+
+- location: Shell Kalmar
+  city: Kalmar
+  country: Sverige
+  urn: urn:Shell:station:id:78483
+  latitude: 56.673163
+  longitude: 16.333513
+
+- location: Välkommen in Söderköping
+  city: Söderköping
+  country: Sverige
+  urn: urn:Shell:station:id:28344
+  latitude: 58.476169
+  longitude: 16.333573
+
+- location: Shell Söderköping
+  city: Söderköping
+  country: Sverige
+  urn: urn:Shell:station:id:78344
+  latitude: 58.476169
+  longitude: 16.333573
+
+- location: Välkommen in Oskarshamn
+  city: Oskarshamn
+  country: Sverige
+  urn: urn:Shell:station:id:28296
+  latitude: 57.264203
+  longitude: 16.429737
+
+- location: Shell Oskarshamn
+  city: Oskarshamn
+  country: Sverige
+  urn: urn:Shell:station:id:78296
+  latitude: 57.264203
+  longitude: 16.429737
+
+- location: Shell Truck Diesel Ramsele
+  city: Ramsele
+  country: Sverige
+  urn: urn:Shell:station:id:78262
+  latitude: 63.543724
+  longitude: 16.463952
+
+- location: Välkommen in Västerås Arosvägen 43
+  city: Västerås
+  country: Sverige
+  urn: urn:Shell:station:id:28431
+  latitude: 59.623502
+  longitude: 16.533511
+
+- location: Shell Västerås Arosvägen 43
+  city: Västerås
+  country: Sverige
+  urn: urn:Shell:station:id:78431
+  latitude: 59.623502
+  longitude: 16.533511
+
+- location: Shell TruckDiesel Västerås Volvo
+  city: Västerås
+  country: Sverige
+  urn: urn:Shell:station:id:78593
+  latitude: 59.6466
+  longitude: 16.5694
+
+- location: Shell Express Sala
+  city: Sala
+  country: Sverige
+  urn: urn:Shell:station:id:78471
+  latitude: 59.916036
+  longitude: 16.614928
+
+- location: Shell Truck Diesel Näsåker
+  city: Näsåker
+  country: Sverige
+  urn: urn:Shell:station:id:78293
+  latitude: 63.449274
+  longitude: 16.903327
+
+- location: Välkommen in Nyköpingsbro Norr
+  city: Nyköping
+  country: Sverige
+  urn: urn:Shell:station:id:28214
+  latitude: 58.748147
+  longitude: 16.920186
+
+- location: Shell Nyköpingsbro Norr
+  city: Nyköping
+  country: Sverige
+  urn: urn:Shell:station:id:78214
+  latitude: 58.748147
+  longitude: 16.920186
+
+- location: Välkommen in Nyköpingsbro Söder
+  city: Nyköping
+  country: Sverige
+  urn: urn:Shell:station:id:28241
+  latitude: 58.749264
+  longitude: 16.921586
+
+- location: Shell Nyköpingsbro Söder
+  city: Nyköping
+  country: Sverige
+  urn: urn:Shell:station:id:78241
+  latitude: 58.749264
+  longitude: 16.921586
+
+- location: Välkommen in Hamrångefjärden
+  city: Hamrångefjärden
+  country: Sverige
+  urn: urn:Shell:station:id:28192
+  latitude: 60.903363
+  longitude: 17.018971
+
+- location: Shell Hamrångefjärden
+  city: Hamrångefjärden
+  country: Sverige
+  urn: urn:Shell:station:id:78192
+  latitude: 60.903363
+  longitude: 17.018971
+
+- location: Shell Truck Diesel Hudiksvall
+  city: Hudiksvall
+  country: Sverige
+  urn: urn:Shell:station:id:78676
+  latitude: 61.712958
+  longitude: 17.046742
+
+- location: Shell Truck Diesel Iggesund
+  city: Iggesund
+  country: Sverige
+  urn: urn:Shell:station:id:78569
+  latitude: 61.64059
+  longitude: 17.094684
+
+- location: Shell Truck Diesel Storuman
+  city: Storuman
+  country: Sverige
+  urn: urn:Shell:station:id:78560
+  latitude: 65.092448
+  longitude: 17.107944
+
+- location: Shell Truck Diesel Gävle
+  city: Gävle
+  country: Sverige
+  urn: urn:Shell:station:id:78525
+  latitude: 60.660417
+  longitude: 17.185771
+
+- location: Välkommen in Sundsvall Bergsg
+  city: Sundsvall
+  country: Sverige
+  urn: urn:Shell:station:id:28186
+  latitude: 62.39392
+  longitude: 17.26228
+
+- location: Shell Sundsvall Bergsg
+  city: Sundsvall
+  country: Sverige
+  urn: urn:Shell:station:id:78186
+  latitude: 62.39392
+  longitude: 17.26228
+
+- location: Shell Truck Diesel Sollefteå
+  city: Sollefteå
+  country: Sverige
+  urn: urn:Shell:station:id:78274
+  latitude: 63.161787
+  longitude: 17.306406
+
+- location: Välkommen in Sundsvall Kolvägen
+  city: Sundsvall
+  country: Sverige
+  urn: urn:Shell:station:id:28464
+  latitude: 62.387449
+  longitude: 17.318786
+
+- location: Shell Sundsvall Kolvägen
+  city: Sundsvall
+  country: Sverige
+  urn: urn:Shell:station:id:78464
+  latitude: 62.387449
+  longitude: 17.318786
+
+- location: Välkommen in Sundsvall Hagav
+  city: Sundsvall
+  country: Sverige
+  urn: urn:Shell:station:id:28388
+  latitude: 62.408903
+  longitude: 17.334003
+
+- location: Shell Sundsvall Hagav
+  city: Sundsvall
+  country: Sverige
+  urn: urn:Shell:station:id:78388
+  latitude: 62.408903
+  longitude: 17.334003
+
+- location: Shell Bålsta
+  city: Bålsta
+  country: Sverige
+  urn: urn:Shell:station:id:78194
+  latitude: 59.584866
+  longitude: 17.505137
+
+- location: Välkommen in Uppsala Kvarnbolund
+  city: Uppsala
+  country: Sverige
+  urn: urn:Shell:station:id:28398
+  latitude: 59.845139
+  longitude: 17.552349
+
+- location: Shell Uppsala Kvarnbolund
+  city: Uppsala
+  country: Sverige
+  urn: urn:Shell:station:id:78398
+  latitude: 59.845139
+  longitude: 17.552349
+
+- location: Välkommen in Södertälje Bergaholmsvägen
+  city: Södertälje
+  country: Sverige
+  urn: urn:Shell:station:id:28292
+  latitude: 59.20325
+  longitude: 17.644779
+
+- location: Shell Södertälje Bergaholmsvägen
+  city: Södertälje
+  country: Sverige
+  urn: urn:Shell:station:id:78292
+  latitude: 59.20325
+  longitude: 17.644779
+
+- location: Shell Truck Diesel Södertälje
+  city: Södertälje
+  country: Sverige
+  urn: urn:Shell:station:id:78545
+  latitude: 59.170551
+  longitude: 17.656072
+
+- location: Välkommen in Uppsala Vaksalag
+  city: Uppsala
+  country: Sverige
+  urn: urn:Shell:station:id:28311
+  latitude: 59.867731
+  longitude: 17.65968
+
+- location: Shell Uppsala Vaksalag
+  city: Uppsala
+  country: Sverige
+  urn: urn:Shell:station:id:78311
+  latitude: 59.867731
+  longitude: 17.65968
+
+- location: Shell TruckDiesel Moraberg
+  city: Södertälje
+  country: Sverige
+  urn: urn:Shell:station:id:78683
+  latitude: 59.198351
+  longitude: 17.665691
+
+- location: Välkommen in Uppsala Danmarksg
+  city: Uppsala
+  country: Sverige
+  urn: urn:Shell:station:id:28330
+  latitude: 59.846608
+  longitude: 17.675672
+
+- location: Shell Uppsala Danmarksg
+  city: Uppsala
+  country: Sverige
+  urn: urn:Shell:station:id:78330
+  latitude: 59.846608
+  longitude: 17.675672
+
+- location: Shell Norsborg
+  city: Norsborg
+  country: Sverige
+  urn: urn:Shell:station:id:78270
+  latitude: 59.239657
+  longitude: 17.828831
+
+- location: Shell Norsborg Fågelviksvägen
+  city: Norsborg
+  country: Sverige
+  urn: urn:Shell:station:id:78243
+  latitude: 59.25298
+  longitude: 17.855101
+
+- location: Shell TruckDiesel Arlandastad
+  city: Arlandastad
+  country: Sverige
+  urn: urn:Shell:station:id:78686
+  latitude: 59.61639
+  longitude: 17.86699
+
+- location: Välkommen in Vällingby
+  city: Vällingby
+  country: Sverige
+  urn: urn:Shell:station:id:28323
+  latitude: 59.358984
+  longitude: 17.873337
+
+- location: Shell Vällingby
+  city: Vällingby
+  country: Sverige
+  urn: urn:Shell:station:id:78323
+  latitude: 59.358984
+  longitude: 17.873337
+
+- location: Shell Österbybruk
+  city: Österbybruk
+  country: Sverige
+  urn: urn:Shell:station:id:18578
+  latitude: 60.197616
+  longitude: 17.878496
+
+- location: Shell Österbybruk
+  city: Österbybruk
+  country: Sverige
+  urn: urn:Shell:station:id:78578
+  latitude: 60.197616
+  longitude: 17.878496
+
+- location: Shell Automat Arjeplog
+  city: Arjeplog
+  country: Sverige
+  urn: urn:Shell:station:id:78570
+  latitude: 66.050435
+  longitude: 17.893868
+
+- location: Shell Upplands Väsby E4 Söder
+  city: Upplands väsby
+  country: Sverige
+  urn: urn:Shell:station:id:78291
+  latitude: 59.550472
+  longitude: 17.897412
+
+- location: Shell Truck Diesel Skärholmen
+  city: Skärholmen
+  country: Sverige
+  urn: urn:Shell:station:id:78544
+  latitude: 59.261284
+  longitude: 17.900461
+
+- location: Shell Upplands Väsby E4 Norr
+  city: Upplands väsby
+  country: Sverige
+  urn: urn:Shell:station:id:78207
+  latitude: 59.550661
+  longitude: 17.901292
+
+- location: Välkommen in Spånga
+  city: Spånga
+  country: Sverige
+  urn: urn:Shell:station:id:28396
+  latitude: 59.378264
+  longitude: 17.905119
+
+- location: Shell Spånga
+  city: Spånga
+  country: Sverige
+  urn: urn:Shell:station:id:78396
+  latitude: 59.378264
+  longitude: 17.905119
+
+- location: Välkommen in Kista
+  city: Kista
+  country: Sverige
+  urn: urn:Shell:station:id:28208
+  latitude: 59.40666
+  longitude: 17.93731
+
+- location: Shell Kista
+  city: Kista
+  country: Sverige
+  urn: urn:Shell:station:id:78208
+  latitude: 59.40666
+  longitude: 17.93731
+
+- location: Välkommen in Sollentuna Kanalvägen
+  city: Sollentuna
+  country: Sverige
+  urn: urn:Shell:station:id:28453
+  latitude: 59.418473
+  longitude: 17.938684
+
+- location: Shell Sollentuna Kanalvägen
+  city: Sollentuna
+  country: Sverige
+  urn: urn:Shell:station:id:78453
+  latitude: 59.418473
+  longitude: 17.938684
+
+- location: Välkommen in Nynäshamn
+  city: Nynäshamn
+  country: Sverige
+  urn: urn:Shell:station:id:28485
+  latitude: 58.914596
+  longitude: 17.943957
+
+- location: Shell Nynäshamn
+  city: Nynäshamn
+  country: Sverige
+  urn: urn:Shell:station:id:78485
+  latitude: 58.914596
+  longitude: 17.943957
+
+- location: Shell Bromma Ulvsundav
+  city: Bromma
+  country: Sverige
+  urn: urn:Shell:station:id:78473
+  latitude: 59.34081
+  longitude: 17.961371
+
+- location: Välkommen in Sollentuna Edsberg
+  city: Sollentuna
+  country: Sverige
+  urn: urn:Shell:station:id:28425
+  latitude: 59.443522
+  longitude: 17.964744
+
+- location: Shell Sollentuna Edsberg
+  city: Sollentuna
+  country: Sverige
+  urn: urn:Shell:station:id:78425
+  latitude: 59.443522
+  longitude: 17.964744
+
+- location: Välkommen in Huddinge
+  city: Huddinge
+  country: Sverige
+  urn: urn:Shell:station:id:28347
+  latitude: 59.235279
+  longitude: 17.978181
+
+- location: Shell Huddinge
+  city: Huddinge
+  country: Sverige
+  urn: urn:Shell:station:id:78347
+  latitude: 59.235279
+  longitude: 17.978181
+
+- location: Välkommen in Hägersten
+  city: Hägersten
+  country: Sverige
+  urn: urn:Shell:station:id:28195
+  latitude: 59.30551
+  longitude: 18.00936
+
+- location: Shell Hägersten
+  city: Hägersten
+  country: Sverige
+  urn: urn:Shell:station:id:78195
+  latitude: 59.30551
+  longitude: 18.00936
+
+- location: Shell Lindhagensplan
+  city: Stockholm
+  country: Sverige
+  urn: urn:Shell:station:id:78334
+  latitude: 59.332353
+  longitude: 18.02032
+
+- location: Shell Enskede Bandhagen
+  city: Enskede
+  country: Sverige
+  urn: urn:Shell:station:id:78472
+  latitude: 59.26938
+  longitude: 18.057366
+
+- location: Shell Täby Motorvägen
+  city: Täby
+  country: Sverige
+  urn: urn:Shell:station:id:78358
+  latitude: 59.435136
+  longitude: 18.071122
+
+- location: Välkommen in Johanneshov
+  city: Johanneshov
+  country: Sverige
+  urn: urn:Shell:station:id:28213
+  latitude: 59.289166
+  longitude: 18.085909
+
+- location: Shell Johanneshov
+  city: Johanneshov
+  country: Sverige
+  urn: urn:Shell:station:id:78213
+  latitude: 59.289166
+  longitude: 18.085909
+
+- location: Välkommen in Ropsten
+  city: Stockholm
+  country: Sverige
+  urn: urn:Shell:station:id:28234
+  latitude: 59.357573
+  longitude: 18.105727
+
+- location: Shell Ropsten
+  city: Stockholm
+  country: Sverige
+  urn: urn:Shell:station:id:78234
+  latitude: 59.357573
+  longitude: 18.105727
+
+- location: Shell Truck Diesel Haninge Jordbro Industriområde
+  city: Jordbro
+  country: Sverige
+  urn: urn:Shell:station:id:78474
+  latitude: 59.145245
+  longitude: 18.12457
+
+- location: Shell Värmdö
+  city: Värmdö
+  country: Sverige
+  urn: urn:Shell:station:id:78509
+  latitude: 59.313491
+  longitude: 18.460385
+
+- location: Shell Automat Lycksele
+  city: Lycksele
+  country: Sverige
+  urn: urn:Shell:station:id:78565
+  latitude: 64.596056
+  longitude: 18.681107
+
+- location: Shell Truck Diesel Örnsköldsvik
+  city: Örnsköldsvik
+  country: Sverige
+  urn: urn:Shell:station:id:78442
+  latitude: 63.292163
+  longitude: 18.703551
+
+- location: Shell Truck Diesel Malå
+  city: Malå
+  country: Sverige
+  urn: urn:Shell:station:id:78524
+  latitude: 65.194698
+  longitude: 18.718913
+
+- location: Shell TruckDiesel Örnsköldsvik Volvo
+  city: Örnsköldsvik
+  country: Sverige
+  urn: urn:Shell:station:id:78598
+  latitude: 63.303
+  longitude: 18.7498
+
+- location: Shell Truck Diesel Husum
+  city: Husum
+  country: Sverige
+  urn: urn:Shell:station:id:78516
+  latitude: 63.348109
+  longitude: 19.150302
+
+- location: Shell Truck Diesel Arvidsjaur
+  city: Arvidsjaur
+  country: Sverige
+  urn: urn:Shell:station:id:78260
+  latitude: 65.578378
+  longitude: 19.204128
+
+- location: Shell Truck Diesel Bjurholm
+  city: Bjurholm
+  country: Sverige
+  urn: urn:Shell:station:id:78547
+  latitude: 63.931656
+  longitude: 19.233517
+
+- location: Shell Truck Diesel Umeå
+  city: Umeå
+  country: Sverige
+  urn: urn:Shell:station:id:78725
+  latitude: 63.854522
+  longitude: 20.20499
+
+- location: Välkommen in Umeå Tankv
+  city: Umeå
+  country: Sverige
+  urn: urn:Shell:station:id:28418
+  latitude: 63.818102
+  longitude: 20.249038
+
+- location: Shell Umeå Tankv
+  city: Umeå
+  country: Sverige
+  urn: urn:Shell:station:id:78418
+  latitude: 63.818102
+  longitude: 20.249038
+
+- location: Shell Truck Diesel Kiruna
+  city: Kiruna
+  country: Sverige
+  urn: urn:Shell:station:id:78273
+  latitude: 67.84813
+  longitude: 20.271372
+
+- location: Shell Truck Diesel Gällivare
+  city: Gällivare
+  country: Sverige
+  urn: urn:Shell:station:id:78564
+  latitude: 67.146983
+  longitude: 20.645698
+
+- location: Shell TruckDiesel Skellefteå Volvo
+  city: Skellefteå
+  country: Sverige
+  urn: urn:Shell:station:id:78590
+  latitude: 64.7312
+  longitude: 20.9698
+
+- location: Shell Truck Diesel Svedjevägen Skellefteå
+  city: Skellefteå
+  country: Sverige
+  urn: urn:Shell:station:id:78480
+  latitude: 64.7464
+  longitude: 21.03273
+
+- location: Shell Truckdiesel Piteå
+  city: Piteå
+  country: Sverige
+  urn: urn:Shell:station:id:78514
+  latitude: 65.317346
+  longitude: 21.433707
+
+- location: Välkommen in Piteå
+  city: Piteå
+  country: Sverige
+  urn: urn:Shell:station:id:28507
+  latitude: 65.320617
+  longitude: 21.472754
+
+- location: Shell Piteå
+  city: Piteå
+  country: Sverige
+  urn: urn:Shell:station:id:78507
+  latitude: 65.320617
+  longitude: 21.472754
+
+- location: Shell Automat Jävrebyn
+  city: Jävrebyn
+  country: Sverige
+  urn: urn:Shell:station:id:78430
+  latitude: 65.14341
+  longitude: 21.504019
+
+- location: Shell TruckDiesel Boden
+  city: Boden
+  country: Sverige
+  urn: urn:Shell:station:id:78681
+  latitude: 65.81378
+  longitude: 21.68757
+
+- location: Välkommen in Boden
+  city: Boden
+  country: Sverige
+  urn: urn:Shell:station:id:28492
+  latitude: 65.818525
+  longitude: 21.70597
+
+- location: Shell Boden
+  city: Boden
+  country: Sverige
+  urn: urn:Shell:station:id:78492
+  latitude: 65.818525
+  longitude: 21.70597
+
+- location: Shell Truck Diesel Gammelstad Luleå
+  city: Luleå
+  country: Sverige
+  urn: urn:Shell:station:id:78253
+  latitude: 65.621199
+  longitude: 22.044498
+
+- location: Shell Automat Banv Luleå
+  city: Luleå
+  country: Sverige
+  urn: urn:Shell:station:id:78372
+  latitude: 65.602758
+  longitude: 22.13515
+
+- location: Välkommen in Luleå Hällbruksg
+  city: Luleå
+  country: Sverige
+  urn: urn:Shell:station:id:28467
+  latitude: 65.582773
+  longitude: 22.207241
+
+- location: Shell Luleå Hällbruksg
+  city: Luleå
+  country: Sverige
+  urn: urn:Shell:station:id:78467
+  latitude: 65.582773
+  longitude: 22.207241
+
+- location: Shell Truck Diesel Överkalix
+  city: Överkalix
+  country: Sverige
+  urn: urn:Shell:station:id:78523
+  latitude: 66.340279
+  longitude: 22.828913
+
+- location: Shell Truck Diesel Övertorneå
+  city: Övertorneå
+  country: Sverige
+  urn: urn:Shell:station:id:78522
+  latitude: 66.393961
+  longitude: 23.632112
+
+- location: Välkommen in Haparanda
+  city: Haparanda
+  country: Sverige
+  urn: urn:Shell:station:id:28461
+  latitude: 65.839907
+  longitude: 24.136324
+
+- location: Shell Haparanda
+  city: Haparanda
+  country: Sverige
+  urn: urn:Shell:station:id:78461
+  latitude: 65.839907
+  longitude: 24.136324
