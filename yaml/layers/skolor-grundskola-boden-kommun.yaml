@@ -1,230 +1,133 @@
 meta:
-  title: Boden
-  kommunkod: '2582'
-  updated: '2023-03-14T22:26:29.4167319+01:00'
-skolor:
+  name: Grundskolor Bodens Kommun
+  web: https://www.boden.se/
+  wikipedia: https://sv.wikipedia.org/wiki/Bodens_kommun
+  category: Grundskolor
+  locations: 18
 
-- name: Mimers Brunn Vittjärv
-  PeOrgNr: '5567226062'
-  Skolenhetskod: '65431245'
-  årskurs: null
-  driftsform: Friskola
-  updated: '2023-03-14T22:26:29.4167319+01:00'
-  latitude: null
-  longitude: null
+locations:
+- location: Harads skola
+  city: Harads
+  country: Sverige
+  urn: urn:skolenhetskod:82094905
+  latitude: 66.084937
+  longitude: 20.950437
 
-- name: Sär Stureskolan
-  PeOrgNr: '2120002767'
-  Skolenhetskod: '65480597'
-  årskurs: null
-  driftsform: Kommunal
-  updated: '2023-03-14T22:26:29.4167319+01:00'
-  latitude: null
-  longitude: null
+- location: Tankeborgen Svartlå Fria
+  city: Övre Svartlå
+  country: Sverige
+  urn: urn:skolenhetskod:97359904
+  latitude: 66.013562
+  longitude: 21.174813
 
-- name: Centrala mottagningsenheten
-  PeOrgNr: '2120002767'
-  Skolenhetskod: '69502100'
-  årskurs: null
-  driftsform: Kommunal
-  updated: '2023-03-14T22:26:29.4167319+01:00'
-  latitude: null
-  longitude: null
+- location: Hedensskolan
+  city: Boden
+  country: Sverige
+  urn: urn:skolenhetskod:53832535
+  latitude: 65.816937
+  longitude: 21.572063
 
-- name: Sär Björknäsgymnasiet
-  PeOrgNr: '2120002767'
-  Skolenhetskod: '57818010'
-  årskurs: null
-  driftsform: Kommunal
-  updated: '2023-03-14T22:26:29.4167319+01:00'
-  latitude: null
-  longitude: null
+- location: Fria Emilia
+  city: Boden
+  country: Sverige
+  urn: urn:skolenhetskod:98998541
+  latitude: 65.823688
+  longitude: 21.663312
 
-- name: Hedensskolan
-  PeOrgNr: '2120002767'
-  Skolenhetskod: '53832535'
-  årskurs: null
-  driftsform: Kommunal
-  updated: '2023-03-14T22:26:29.4167319+01:00'
-  latitude: null
-  longitude: null
+- location: Sär Stureskolan
+  city: Boden
+  country: Sverige
+  urn: urn:skolenhetskod:65480597
+  latitude: 65.819688
+  longitude: 21.698437
 
-- name: Mårängskolan
-  PeOrgNr: '2120002767'
-  Skolenhetskod: '75860725'
-  årskurs: null
-  driftsform: Kommunal
-  updated: '2023-03-14T22:26:29.4167319+01:00'
-  latitude: null
-  longitude: null
+- location: Stureskolan
+  city: Boden
+  country: Sverige
+  urn: urn:skolenhetskod:83862028
+  latitude: 65.819688
+  longitude: 21.698437
 
-- name: Prästholmsskolan
-  PeOrgNr: '2120002767'
-  Skolenhetskod: '31341183'
-  årskurs: null
-  driftsform: Kommunal
-  updated: '2023-03-14T22:26:29.4167319+01:00'
-  latitude: null
-  longitude: null
+- location: Svartbjörnsbyns skola
+  city: Boden
+  country: Sverige
+  urn: urn:skolenhetskod:98704682
+  latitude: 65.84839
+  longitude: 21.70002
 
-- name: Pusslet, grundsärskola
-  PeOrgNr: '2120002767'
-  Skolenhetskod: '27583560'
-  årskurs: null
-  driftsform: Kommunal
-  updated: '2023-03-14T22:26:29.4167319+01:00'
-  latitude: null
-  longitude: null
+- location: Prästholmsskolan
+  city: Boden
+  country: Sverige
+  urn: urn:skolenhetskod:31341183
+  latitude: 65.831187
+  longitude: 21.700313
 
-- name: Stureskolan
-  PeOrgNr: '2120002767'
-  Skolenhetskod: '83862028'
-  årskurs: null
-  driftsform: Kommunal
-  updated: '2023-03-14T22:26:29.4167319+01:00'
-  latitude: null
-  longitude: null
+- location: Sär Prästholmsskolan
+  city: Boden
+  country: Sverige
+  urn: urn:skolenhetskod:91959964
+  latitude: 65.831187
+  longitude: 21.700313
 
-- name: Sär Prästholmsskolan
-  PeOrgNr: '2120002767'
-  Skolenhetskod: '91959964'
-  årskurs: null
-  driftsform: Kommunal
-  updated: '2023-03-14T22:26:29.4167319+01:00'
-  latitude: null
-  longitude: null
+- location: Noblaskolan
+  city: Boden
+  country: Sverige
+  urn: urn:skolenhetskod:40708452
+  latitude: 65.823688
+  longitude: 21.700938
 
-- name: Noblaskolan Boden
-  PeOrgNr: '5560354309'
-  Skolenhetskod: '40708452'
-  årskurs: null
-  driftsform: Friskola
-  updated: '2023-03-14T22:26:29.4167319+01:00'
-  latitude: null
-  longitude: null
+- location: Pusslet, grundsärskola
+  city: Boden
+  country: Sverige
+  urn: urn:skolenhetskod:27583560
+  latitude: 65.827938
+  longitude: 21.723438
 
-- name: Björknäsgymnasiet Enhet 1
-  PeOrgNr: '2120002767'
-  Skolenhetskod: '32960825'
-  årskurs: null
-  driftsform: Kommunal
-  updated: '2023-03-14T22:26:29.4167319+01:00'
-  latitude: null
-  longitude: null
+- location: Fagernäs skola
+  city: Boden
+  country: Sverige
+  urn: urn:skolenhetskod:55055777
+  latitude: 65.822563
+  longitude: 21.728313
 
-- name: Björknäsgymnasiet Enhet 3
-  PeOrgNr: '2120002767'
-  Skolenhetskod: '41416934'
-  årskurs: null
-  driftsform: Kommunal
-  updated: '2023-03-14T22:26:29.4167319+01:00'
-  latitude: null
-  longitude: null
+- location: Brönjaskolan
+  city: Boden
+  country: Sverige
+  urn: urn:skolenhetskod:60633912
+  latitude: 65.771812
+  longitude: 21.737063
 
-- name: Fagernäs skola
-  PeOrgNr: '2120002767'
-  Skolenhetskod: '55055777'
-  årskurs: null
-  driftsform: Kommunal
-  updated: '2023-03-14T22:26:29.4167319+01:00'
-  latitude: null
-  longitude: null
+- location: Torpgärdsskolan
+  city: Boden
+  country: Sverige
+  urn: urn:skolenhetskod:67642516
+  latitude: 65.804437
+  longitude: 21.738062
 
-- name: Komvux
-  PeOrgNr: '2120002767'
-  Skolenhetskod: '57649922'
-  årskurs: null
-  driftsform: Kommunal
-  updated: '2023-03-14T22:26:29.4167319+01:00'
-  latitude: null
-  longitude: null
+- location: Mårängskolan
+  city: Sävast
+  country: Sverige
+  urn: urn:skolenhetskod:75860725
+  latitude: 65.759812
+  longitude: 21.746563
 
-- name: Svartbjörnsbyns skola
-  PeOrgNr: '2120002767'
-  Skolenhetskod: '98704682'
-  årskurs: null
-  driftsform: Kommunal
-  updated: '2023-03-14T22:26:29.4167319+01:00'
-  latitude: null
-  longitude: null
+- location: Mimers Brunn Vittjärv
+  city: Boden
+  country: Sverige
+  urn: urn:skolenhetskod:65431245
+  latitude: 65.810063
+  longitude: 21.758313
 
-- name: Älvskolan
-  PeOrgNr: '2120002767'
-  Skolenhetskod: '29649408'
-  årskurs: null
-  driftsform: Kommunal
-  updated: '2023-03-14T22:26:29.4167319+01:00'
-  latitude: null
-  longitude: null
+- location: Unbyns skola
+  city: Unsbyn
+  country: Sverige
+  urn: urn:skolenhetskod:10411502
+  latitude: 65.710437
+  longitude: 21.763063
 
-- name: Skogså fritidshem
-  PeOrgNr: '5567388318'
-  Skolenhetskod: '48598189'
-  årskurs: null
-  driftsform: Friskola
-  updated: '2023-03-14T22:26:29.4167319+01:00'
-  latitude: null
-  longitude: null
-
-- name: Tankeborgen Svartlå Fria
-  PeOrgNr: '7696081434'
-  Skolenhetskod: '97359904'
-  årskurs: null
-  driftsform: Friskola
-  updated: '2023-03-14T22:26:29.4167319+01:00'
-  latitude: null
-  longitude: null
-
-- name: Brönjaskolan
-  PeOrgNr: '2120002767'
-  Skolenhetskod: '60633912'
-  årskurs: null
-  driftsform: Kommunal
-  updated: '2023-03-14T22:26:29.4167319+01:00'
-  latitude: null
-  longitude: null
-
-- name: Harads skola
-  PeOrgNr: '2120002767'
-  Skolenhetskod: '82094905'
-  årskurs: null
-  driftsform: Kommunal
-  updated: '2023-03-14T22:26:29.4167319+01:00'
-  latitude: null
-  longitude: null
-
-- name: Unbyns skola
-  PeOrgNr: '2120002767'
-  Skolenhetskod: '10411502'
-  årskurs: null
-  driftsform: Kommunal
-  updated: '2023-03-14T22:26:29.4167319+01:00'
-  latitude: null
-  longitude: null
-
-- name: Torpgärdsskolan
-  PeOrgNr: '2120002767'
-  Skolenhetskod: '67642516'
-  årskurs: null
-  driftsform: Kommunal
-  updated: '2023-03-14T22:26:29.4167319+01:00'
-  latitude: null
-  longitude: null
-
-- name: Fria Emilia
-  PeOrgNr: '7696083455'
-  Skolenhetskod: '98998541'
-  årskurs: null
-  driftsform: Friskola
-  updated: '2023-03-14T22:26:29.4167319+01:00'
-  latitude: null
-  longitude: null
-
-- name: Björknäsgymnasiet Enhet 2
-  PeOrgNr: '2120002767'
-  Skolenhetskod: '43609520'
-  årskurs: null
-  driftsform: Kommunal
-  updated: '2023-03-14T22:26:29.4167319+01:00'
-  latitude: null
-  longitude: null
+- location: Älvskolan
+  city: Gunnarsbyn
+  country: Sverige
+  urn: urn:skolenhetskod:29649408
+  latitude: 66.086313
+  longitude: 21.807563

@@ -145,8 +145,10 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
+| [Grundskolor Bodens Kommun](https://sv.wikipedia.org/wiki/Bodens_kommun)                 |         18 |
 | [Grundskolor Haparanda Kommun](https://sv.wikipedia.org/wiki/Haparanda_kommun)           |          9 |
 | [Grundskolor Kiruna Kommun](https://sv.wikipedia.org/wiki/Kiruna_kommun)                 |         19 |
+| [Grundskolor Piteå Kommun](https://sv.wikipedia.org/wiki/Pite%C3%A5_kommun)              |         32 |
 
 
 

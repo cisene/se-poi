@@ -1,0 +1,343 @@
+meta:
+  name: Grundskolor Luleå Kommun
+  web: https://www.lulea.se/
+  wikipedia: https://sv.wikipedia.org/wiki/Lule%C3%A5_kommun
+  category: Grundskolor
+  locations: 48
+
+locations:
+- location: Klöverträskskolan
+  city: Klöverträsk
+  country: Sverige
+  urn: urn:skolenhetskod:77641387
+  latitude: 65.635188
+  longitude: 21.411812
+
+- location: Alviksskolan
+  city: Alvik
+  country: Sverige
+  urn: urn:skolenhetskod:41443442
+  latitude: 65.567937
+  longitude: 21.776313
+
+- location: Ersnässkolan
+  city: Ersnäs
+  country: Sverige
+  urn: urn:skolenhetskod:77545704
+  latitude: 65.529313
+  longitude: 21.799937
+
+- location: Avanskolan
+  city: Avan
+  country: Sverige
+  urn: urn:skolenhetskod:90467643
+  latitude: 65.682063
+  longitude: 21.804563
+
+- location: Antnässkolan
+  city: Antnäs
+  country: Sverige
+  urn: urn:skolenhetskod:66927569
+  latitude: 65.557563
+  longitude: 21.830312
+
+- location: Måttsundsskolan
+  city: Måttsund
+  country: Sverige
+  urn: urn:skolenhetskod:27071357
+  latitude: 65.533812
+  longitude: 21.916438
+
+- location: Kråkbergsskolan
+  city: Södra Sunderby
+  country: Sverige
+  urn: urn:skolenhetskod:46323920
+  latitude: 65.659937
+  longitude: 21.944313
+
+- location: Sunderbyskolan 0-3
+  city: Södra Sunderby
+  country: Sverige
+  urn: urn:skolenhetskod:13938935
+  latitude: 65.655438
+  longitude: 21.955813
+
+- location: Sunderbyskolan 4-6
+  city: Södra Sunderby
+  country: Sverige
+  urn: urn:skolenhetskod:59950814
+  latitude: 65.655438
+  longitude: 21.955813
+
+- location: Mariebergsskolan
+  city: Gammelstaden
+  country: Sverige
+  urn: urn:skolenhetskod:99392998
+  latitude: 65.647312
+  longitude: 21.996563
+
+- location: Stadsöskolan 4-6
+  city: Gammelstaden
+  country: Sverige
+  urn: urn:skolenhetskod:92596010
+  latitude: 65.640438
+  longitude: 22.012813
+
+- location: Stadsöskolan 7-9
+  city: Gammelstaden
+  country: Sverige
+  urn: urn:skolenhetskod:95536453
+  latitude: 65.640438
+  longitude: 22.012813
+
+- location: Öhemsskolan
+  city: Gammelstaden
+  country: Sverige
+  urn: urn:skolenhetskod:67615094
+  latitude: 65.635188
+  longitude: 22.024563
+
+- location: Nya Läroverket
+  city: Luleå
+  country: Sverige
+  urn: urn:skolenhetskod:82183259
+  latitude: 65.576937
+  longitude: 22.080438
+
+- location: Nya Läroverket Bergnäset
+  city: Luleå
+  country: Sverige
+  urn: urn:skolenhetskod:52734580
+  latitude: 65.576937
+  longitude: 22.080438
+
+- location: Hedskolan
+  city: Luleå
+  country: Sverige
+  urn: urn:skolenhetskod:87224520
+  latitude: 65.576813
+  longitude: 22.086438
+
+- location: Rutviksskolan 0-6
+  city: Rutvik
+  country: Sverige
+  urn: urn:skolenhetskod:89136155
+  latitude: 65.673687
+  longitude: 22.092813
+
+- location: Borgmästarskolan
+  city: Luleå
+  country: Sverige
+  urn: urn:skolenhetskod:71219716
+  latitude: 65.608937
+  longitude: 22.097687
+
+- location: Bergskolan
+  city: Luleå
+  country: Sverige
+  urn: urn:skolenhetskod:72942852
+  latitude: 65.572563
+  longitude: 22.097687
+
+- location: Mandaskolan
+  city: Luleå
+  country: Sverige
+  urn: urn:skolenhetskod:27240899
+  latitude: 65.572063
+  longitude: 22.100812
+
+- location: Notvikens grundsärskola 1-9
+  city: Luleå
+  country: Sverige
+  urn: urn:skolenhetskod:59727311
+  latitude: 65.609437
+  longitude: 22.101438
+
+- location: Mjölkuddens grundsärskola 1-9
+  city: Luleå
+  country: Sverige
+  urn: urn:skolenhetskod:48677017
+  latitude: 65.604938
+  longitude: 22.111187
+
+- location: Tunaskolan 4-6
+  city: Luleå
+  country: Sverige
+  urn: urn:skolenhetskod:84328205
+  latitude: 65.605437
+  longitude: 22.112187
+
+- location: Tunaskolan 7-9
+  city: Luleå
+  country: Sverige
+  urn: urn:skolenhetskod:43539193
+  latitude: 65.605437
+  longitude: 22.112187
+
+- location: Tunaskolan 0-3
+  city: Luleå
+  country: Sverige
+  urn: urn:skolenhetskod:28004366
+  latitude: 65.605437
+  longitude: 22.112187
+
+- location: Residensskolan 7-9
+  city: Luleå
+  country: Sverige
+  urn: urn:skolenhetskod:73462793
+  latitude: 65.583687
+  longitude: 22.136437
+
+- location: Porsöskolan
+  city: Luleå
+  country: Sverige
+  urn: urn:skolenhetskod:44278936
+  latitude: 65.619687
+  longitude: 22.146062
+
+- location: Östra Skolan 0-3
+  city: Luleå
+  country: Sverige
+  urn: urn:skolenhetskod:58093790
+  latitude: 65.588062
+  longitude: 22.155687
+
+- location: Östra skolan 4-6
+  city: Luleå
+  country: Sverige
+  urn: urn:skolenhetskod:25119379
+  latitude: 65.588062
+  longitude: 22.155687
+
+- location: Nya Läroverket Svartöstaden
+  city: Luleå
+  country: Sverige
+  urn: urn:skolenhetskod:49867789
+  latitude: 65.595187
+  longitude: 22.160688
+
+- location: Montessoriskolan
+  city: Luleå
+  country: Sverige
+  urn: urn:skolenhetskod:35085794
+  latitude: 65.594687
+  longitude: 22.161812
+
+- location: Persöskolan
+  city: Persön
+  country: Sverige
+  urn: urn:skolenhetskod:11872888
+  latitude: 65.744187
+  longitude: 22.163812
+
+- location: Innovitaskolan Luleå
+  city: Luleå
+  country: Sverige
+  urn: urn:skolenhetskod:55520065
+  latitude: 65.614688
+  longitude: 22.171563
+
+- location: Björkskataskolan
+  city: Luleå
+  country: Sverige
+  urn: urn:skolenhetskod:89477984
+  latitude: 65.615062
+  longitude: 22.176063
+
+- location: Boskataskolan
+  city: Luleå
+  country: Sverige
+  urn: urn:skolenhetskod:89780532
+  latitude: 65.618562
+  longitude: 22.176313
+
+- location: Ormbergsskolan
+  city: Luleå
+  country: Sverige
+  urn: urn:skolenhetskod:91656996
+  latitude: 65.610187
+  longitude: 22.181562
+
+- location: Tallkronanskolan 0-6
+  city: Luleå
+  country: Sverige
+  urn: urn:skolenhetskod:54468318
+  latitude: 65.594188
+  longitude: 22.195062
+
+- location: Furuparksskolan 0-3
+  city: Luleå
+  country: Sverige
+  urn: urn:skolenhetskod:11064551
+  latitude: 65.584312
+  longitude: 22.201563
+
+- location: Örnässkolan 0-6
+  city: Luleå
+  country: Sverige
+  urn: urn:skolenhetskod:25018983
+  latitude: 65.581688
+  longitude: 22.203938
+
+- location: Örnässkolan 7-9
+  city: Luleå
+  country: Sverige
+  urn: urn:skolenhetskod:20104143
+  latitude: 65.581688
+  longitude: 22.203938
+
+- location: Benzeliusskolan
+  city: Luleå
+  country: Sverige
+  urn: urn:skolenhetskod:87101377
+  latitude: 65.641188
+  longitude: 22.240063
+
+- location: Hertsöskolan 4-6
+  city: Luleå
+  country: Sverige
+  urn: urn:skolenhetskod:43993011
+  latitude: 65.589313
+  longitude: 22.240187
+
+- location: Hertsöskolan 7-9
+  city: Luleå
+  country: Sverige
+  urn: urn:skolenhetskod:15579589
+  latitude: 65.589313
+  longitude: 22.240187
+
+- location: Svedjeskolan
+  city: Luleå
+  country: Sverige
+  urn: urn:skolenhetskod:35535722
+  latitude: 65.588437
+  longitude: 22.244813
+
+- location: Ängskolan
+  city: Luleå
+  country: Sverige
+  urn: urn:skolenhetskod:97585644
+  latitude: 65.580187
+  longitude: 22.258938
+
+- location: Råneskolan 0-6
+  city: Rånbyn
+  country: Sverige
+  urn: urn:skolenhetskod:21937355
+  latitude: 65.853562
+  longitude: 22.290438
+
+- location: Råneskolan 7-9
+  city: Rånbyn
+  country: Sverige
+  urn: urn:skolenhetskod:22462490
+  latitude: 65.853562
+  longitude: 22.290438
+
+- location: Vitådalens skola
+  city: Vitå
+  country: Sverige
+  urn: urn:skolenhetskod:40752367
+  latitude: 65.960062
+  longitude: 22.383563
