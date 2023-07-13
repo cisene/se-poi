@@ -44,7 +44,10 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
 | [Bankomat](https://sv.wikipedia.org/wiki/Bankomat)                                       |       1401 |
-| [Forex](https://sv.wikipedia.org/wiki/Forex_(f%C3%B6retag))                              |         83 |
+| [Forex](https://sv.wikipedia.org/wiki/Forex_(f%C3%B6retag))                              |         52 |
+| [Forex Danmark](https://da.wikipedia.org/wiki/Forex_Bank)                                |          8 |
+| [Forex Finland](https://fi.wikipedia.org/wiki/Forex_(yritys))                            |         13 |
+| Forex Norge                                                                              |         10 |
 | [Handelsbanken](https://sv.wikipedia.org/wiki/Svenska_Handelsbanken)                     |        204 |
 | [Nordea](https://sv.wikipedia.org/wiki/Nordea)                                           |        118 |
 | [Swedbank](https://sv.wikipedia.org/wiki/Swedbank)                                       |        340 |
@@ -371,7 +374,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
-| [3 Butiken](https://sv.wikipedia.org/wiki/Hi3G_Access)                                   |         14 |
+| [3 Butiker](https://sv.wikipedia.org/wiki/Hi3G_Access)                                   |         14 |
 | [Tele2](https://sv.wikipedia.org/wiki/Tele2)                                             |         29 |
 | [Telenor](https://sv.wikipedia.org/wiki/Telenor_Sverige)                                 |         44 |
 | [Telia](https://sv.wikipedia.org/wiki/Telia_Sverige)                                     |         60 |

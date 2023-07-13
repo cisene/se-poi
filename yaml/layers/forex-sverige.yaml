@@ -3,503 +3,369 @@ meta:
   web: https://www.forex.se/
   wikipedia: https://sv.wikipedia.org/wiki/Forex_(f%C3%B6retag)
   category: Bank och Valuta
-  locations: 83
+  locations: 52
 
 locations:
-- location: Forex Bergen
-  urn: urn:forex:store:id:461
-  city: Bergen
-  latitude: 60.39418
-  longitude: 5.32441
-
-- location: Forex Stavanger
-  urn: urn:forex:store:id:453
-  city: Stavanger
-  latitude: 58.96682
-  longitude: 5.73224
-
-- location: Forex Aarhus C
-  urn: urn:forex:store:id:372
-  city: Aarhus C
-  latitude: 56.15023
-  longitude: 10.20255
-
-- location: Forex Drammen
-  urn: urn:forex:store:id:462
-  city: Drammen
-  latitude: 59.74328
-  longitude: 10.20624
-
-- location: Forex Trondheim
-  urn: urn:forex:store:id:459
-  city: Trondheim
-  latitude: 63.43093
-  longitude: 10.39569
-
-- location: Forex Odense SØ
-  urn: urn:forex:store:id:373
-  city: Odense SØ
-  latitude: 55.38345
-  longitude: 10.42559
-
-- location: Forex Oslo
-  urn: urn:forex:store:id:433
-  city: Oslo
-  latitude: 59.91108
-  longitude: 10.74902
-
-- location: Forex Oslo
-  urn: urn:forex:store:id:421
-  city: Oslo
-  latitude: 59.91072
-  longitude: 10.75206
-
-- location: Forex Oslo
-  urn: urn:forex:store:id:432
-  city: Oslo
-  latitude: 59.91242
-  longitude: 10.75996
-
-- location: Forex Oslo
-  urn: urn:forex:store:id:435
-  city: Oslo
-  latitude: 59.91242
-  longitude: 10.75997
-
-- location: Forex Oslo
-  urn: urn:forex:store:id:436
-  city: Oslo
-  latitude: 59.96088
-  longitude: 10.92505
-
-- location: Forex Lillestrøm
-  urn: urn:forex:store:id:426
-  city: Lillestrøm
-  latitude: 59.95354
-  longitude: 11.04434
-
 - location: Forex Uddevalla
   urn: urn:forex:store:id:855
   city: Uddevalla
+  country: Sverige
   latitude: 58.35362
   longitude: 11.80934
 
 - location: Forex Västra Frölunda
   urn: urn:forex:store:id:177
   city: Västra Frölunda
+  country: Sverige
   latitude: 57.65084
   longitude: 11.91127
 
 - location: Forex Göteborg
   urn: urn:forex:store:id:174
   city: Göteborg
+  country: Sverige
   latitude: 57.7086
   longitude: 11.97019
 
 - location: Forex Göteborg
   urn: urn:forex:store:id:172
   city: Göteborg
+  country: Sverige
   latitude: 57.70201
   longitude: 11.97243
 
 - location: Forex Göteborg
   urn: urn:forex:store:id:898
   city: Göteborg
+  country: Sverige
   latitude: 57.70859
   longitude: 11.9733
 
 - location: Forex Kungsbacka
   urn: urn:forex:store:id:179
   city: Kungsbacka
+  country: Sverige
   latitude: 57.49166
   longitude: 12.07478
 
 - location: Forex Partille
   urn: urn:forex:store:id:178
   city: Partille
+  country: Sverige
   latitude: 57.73896
   longitude: 12.10521
 
 - location: Forex Varberg
   urn: urn:forex:store:id:854
   city: Varberg
+  country: Sverige
   latitude: 57.10422
   longitude: 12.25438
 
 - location: Forex Landvetter
   urn: urn:forex:store:id:852
   city: Landvetter
+  country: Sverige
   latitude: 57.6675
   longitude: 12.29519
 
 - location: Forex Landvetter
   urn: urn:forex:store:id:142
   city: Landvetter
+  country: Sverige
   latitude: 57.66744
   longitude: 12.29736
-
-- location: Forex Greve
-  urn: urn:forex:store:id:368
-  city: Greve
-  latitude: 55.59861
-  longitude: 12.32528
-
-- location: Forex Frederiksberg
-  urn: urn:forex:store:id:363
-  city: Frederiksberg
-  latitude: 55.67943
-  longitude: 12.53381
-
-- location: Forex København V
-  urn: urn:forex:store:id:361
-  city: København V
-  latitude: 55.67301
-  longitude: 12.56441
-
-- location: Forex København K
-  urn: urn:forex:store:id:362
-  city: København K
-  latitude: 55.68363
-  longitude: 12.57291
-
-- location: Forex Kastrup
-  urn: urn:forex:store:id:341
-  city: Kastrup
-  latitude: 55.62882
-  longitude: 12.64552
-
-- location: Forex Kastrup
-  urn: urn:forex:store:id:342
-  city: Kastrup
-  latitude: 55.62911
-  longitude: 12.64626
 
 - location: Forex Helsingborg
   urn: urn:forex:store:id:187
   city: Helsingborg
+  country: Sverige
   latitude: 56.04415
   longitude: 12.69345
 
 - location: Forex Ödåkra-väla
   urn: urn:forex:store:id:183
   city: Ödåkra-väla
+  country: Sverige
   latitude: 56.09187
   longitude: 12.75827
 
 - location: Forex Halmstad
   urn: urn:forex:store:id:856
   city: Halmstad
+  country: Sverige
   latitude: 56.67304
   longitude: 12.85794
 
 - location: Forex Borås
   urn: urn:forex:store:id:127
   city: Borås
+  country: Sverige
   latitude: 57.71989
   longitude: 12.94165
 
 - location: Forex Malmö
   urn: urn:forex:store:id:198
   city: Malmö
+  country: Sverige
   latitude: 55.60898
   longitude: 13.00018
 
 - location: Forex Malmö
   urn: urn:forex:store:id:197
   city: Malmö
+  country: Sverige
   latitude: 55.57934
   longitude: 13.00435
 
 - location: Forex Arlöv
   urn: urn:forex:store:id:196
   city: Arlöv
+  country: Sverige
   latitude: 55.60824
   longitude: 13.09612
 
 - location: Forex Trelleborg
   urn: urn:forex:store:id:186
   city: Trelleborg
+  country: Sverige
   latitude: 55.37398
   longitude: 13.15582
 
 - location: Forex Lund
   urn: urn:forex:store:id:894
   city: Lund
+  country: Sverige
   latitude: 55.70489
   longitude: 13.18791
 
 - location: Forex Karlstad
   urn: urn:forex:store:id:161
   city: Karlstad
+  country: Sverige
   latitude: 59.37911
   longitude: 13.49881
 
 - location: Forex Ystad
   urn: urn:forex:store:id:885
   city: Ystad
+  country: Sverige
   latitude: 55.43039
   longitude: 13.82668
 
 - location: Forex Kristianstad
   urn: urn:forex:store:id:887
   city: Kristianstad
+  country: Sverige
   latitude: 56.02926
   longitude: 14.15892
 
 - location: Forex Jönköping
   urn: urn:forex:store:id:125
   city: Jönköping
+  country: Sverige
   latitude: 57.78334
   longitude: 14.16446
 
 - location: Forex Östersund
   urn: urn:forex:store:id:154
   city: Östersund
+  country: Sverige
   latitude: 63.17508
   longitude: 14.63748
 
 - location: Forex Växjö
   urn: urn:forex:store:id:162
   city: Växjö
+  country: Sverige
   latitude: 56.87849
   longitude: 14.80397
 
 - location: Forex Örebro
   urn: urn:forex:store:id:823
   city: Örebro
+  country: Sverige
   latitude: 59.218
   longitude: 15.13844
 
 - location: Forex Örebro, ,
   urn: urn:forex:store:id:123
   city: Örebro
+  country: Sverige
   latitude: 59.26997
   longitude: 15.21006
 
 - location: Forex Linköping
   urn: urn:forex:store:id:124
   city: Linköping
+  country: Sverige
   latitude: 58.41091
   longitude: 15.62549
 
 - location: Forex Norrköping
   urn: urn:forex:store:id:122
   city: Norrköping
+  country: Sverige
   latitude: 58.58888
   longitude: 16.18784
 
 - location: Forex Kalmar
   urn: urn:forex:store:id:164
   city: Kalmar
+  country: Sverige
   latitude: 56.6641
   longitude: 16.36088
 
 - location: Forex Västerås
   urn: urn:forex:store:id:822
   city: Västerås
+  country: Sverige
   latitude: 59.60912
   longitude: 16.45512
 
 - location: Forex Eskilstuna
   urn: urn:forex:store:id:163
   city: Eskilstuna
+  country: Sverige
   latitude: 59.37098
   longitude: 16.51065
 
 - location: Forex Västerås
   urn: urn:forex:store:id:821
   city: Västerås
+  country: Sverige
   latitude: 59.61193
   longitude: 16.54684
 
 - location: Forex Gävle
   urn: urn:forex:store:id:155
   city: Gävle
+  country: Sverige
   latitude: 60.6755
   longitude: 17.14663
 
 - location: Forex Sundsvall
   urn: urn:forex:store:id:159
   city: Sundsvall
+  country: Sverige
   latitude: 62.447
   longitude: 17.33594
 
 - location: Forex Uppsala
   urn: urn:forex:store:id:158
   city: Uppsala
+  country: Sverige
   latitude: 59.85823
   longitude: 17.64421
 
 - location: Forex Uppsala
   urn: urn:forex:store:id:157
   city: Uppsala
+  country: Sverige
   latitude: 59.87763
   longitude: 17.67269
 
 - location: Forex Vällingby
   urn: urn:forex:store:id:833
   city: Vällingby
+  country: Sverige
   latitude: 59.36331
   longitude: 17.87345
 
 - location: Forex Skärholmen
   urn: urn:forex:store:id:846
   city: Skärholmen
+  country: Sverige
   latitude: 59.27599
   longitude: 17.90766
 
 - location: Forex Stockholm-Arlanda
   urn: urn:forex:store:id:145
   city: Stockholm-Arlanda
+  country: Sverige
   latitude: 59.64412
   longitude: 17.92856
 
 - location: Forex Stockholm-Arlanda
   urn: urn:forex:store:id:149
   city: Stockholm-Arlanda
+  country: Sverige
   latitude: 59.65038
   longitude: 17.92944
 
 - location: Forex Solna
   urn: urn:forex:store:id:858
   city: Solna
+  country: Sverige
   latitude: 59.36988
   longitude: 18.0044
 
 - location: Forex Stockholm
   urn: urn:forex:store:id:844
   city: Stockholm
+  country: Sverige
   latitude: 59.33431
   longitude: 18.03292
 
 - location: Forex Stockholm
   urn: urn:forex:store:id:132
   city: Stockholm
+  country: Sverige
   latitude: 59.33022
   longitude: 18.05857
 
 - location: Forex Stockholm
   urn: urn:forex:store:id:133
   city: Stockholm
+  country: Sverige
   latitude: 59.3353
   longitude: 18.06437
 
 - location: Forex Stockholm
   urn: urn:forex:store:id:834
   city: Stockholm
+  country: Sverige
   latitude: 59.3317
   longitude: 18.06714
 
 - location: Forex Täby
   urn: urn:forex:store:id:848
   city: Täby
+  country: Sverige
   latitude: 59.44564
   longitude: 18.07221
 
 - location: Forex Stockholm
   urn: urn:forex:store:id:128
   city: Stockholm
+  country: Sverige
   latitude: 59.30974
   longitude: 18.07524
 
 - location: Forex Farsta
   urn: urn:forex:store:id:845
   city: Farsta
+  country: Sverige
   latitude: 59.24235
   longitude: 18.09031
 
 - location: Forex Nacka
   urn: urn:forex:store:id:835
   city: Nacka
+  country: Sverige
   latitude: 59.30983
   longitude: 18.16407
 
 - location: Forex Umeå
   urn: urn:forex:store:id:152
   city: Umeå
+  country: Sverige
   latitude: 63.82631
   longitude: 20.26026
 
 - location: Forex Luleå
   urn: urn:forex:store:id:151
   city: Luleå
+  country: Sverige
   latitude: 65.58452
   longitude: 22.15629
-
-- location: Forex Turku
-  urn: urn:forex:store:id:265
-  city: Turku
-  latitude: 60.45057
-  longitude: 22.26595
-
-- location: Forex Tampere
-  urn: urn:forex:store:id:266
-  city: Tampere
-  latitude: 61.49868
-  longitude: 23.77053
-
-- location: Forex Helsinki
-  urn: urn:forex:store:id:251
-  city: Helsinki
-  latitude: 60.17089
-  longitude: 24.94195
-
-- location: Forex Helsinki-Vantaa Airport
-  urn: urn:forex:store:id:247
-  city: Helsinki-Vantaa Airport
-  latitude: 60.31562
-  longitude: 24.96
-
-- location: Forex Helsinki-Vantaa Airport
-  urn: urn:forex:store:id:248
-  city: Helsinki-Vantaa Airport
-  latitude: 60.31562
-  longitude: 24.96222
-
-- location: Forex Helsinki-Vantaa Airport
-  urn: urn:forex:store:id:246
-  city: Helsinki-Vantaa Airport
-  latitude: 60.31673
-  longitude: 24.96271
-
-- location: Forex Vantaa
-  urn: urn:forex:store:id:253
-  city: Vantaa
-  latitude: 60.2923
-  longitude: 24.96288
-
-- location: Forex Helsinki-Vantaa Airport
-  urn: urn:forex:store:id:244
-  city: Helsinki-Vantaa Airport
-  latitude: 60.31808
-  longitude: 24.96573
-
-- location: Forex Helsinki-Vantaa Airport
-  urn: urn:forex:store:id:249
-  city: Helsinki-Vantaa Airport
-  latitude: 60.31778
-  longitude: 24.96636
-
-- location: Forex Helsinki-Vantaa Airport
-  urn: urn:forex:store:id:243
-  city: Helsinki-Vantaa Airport
-  latitude: 60.31842
-  longitude: 24.96715
-
-- location: Forex Helsinki-Vantaa Airport
-  urn: urn:forex:store:id:242
-  city: Helsinki-Vantaa Airport
-  latitude: 60.31828
-  longitude: 24.96742
-
-- location: Forex Helsinki-Vantaa Airport
-  urn: urn:forex:store:id:241
-  city: Helsinki-Vantaa Airport
-  latitude: 60.31769
-  longitude: 24.96802
-
-- location: Forex Helsinki-Vantaa Airport
-  urn: urn:forex:store:id:245
-  city: Helsinki-Vantaa Airport
-  latitude: 60.31672
-  longitude: 24.971
