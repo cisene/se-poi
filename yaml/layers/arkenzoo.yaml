@@ -6,11 +6,6 @@ meta:
   locations: 85
 
 locations:
-- location: Arken Zoo Helsingborg Regementsvägen
-  city: Helsingborg
-  latitude: 0.0
-  longitude: 0.0
-
 - location: Arken Zoo Uddevalla Torp Köpcentrum
   city: Uddevalla
   latitude: 58.353661
@@ -75,6 +70,11 @@ locations:
   city: Bollebygd
   latitude: 57.66877
   longitude: 12.571873
+
+- location: Arken Zoo Helsingborg Regementsvägen
+  city: Helsingborg
+  latitude: 56.064812
+  longitude: 12.718438
 
 - location: Arken Zoo Helsingborg Väla
   city: Helsingborg
