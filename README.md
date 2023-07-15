@@ -139,6 +139,8 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
+| [Green Petroleum](https://sv.wikipedia.org/wiki/Green_Petroleum)                         |         22 |
+| [Ingo](https://sv.wikipedia.org/wiki/Ingo)                                               |        291 |
 | [OKQ8](https://sv.wikipedia.org/wiki/OKQ8)                                               |        803 |
 | [Preem](https://sv.wikipedia.org/wiki/Preem)                                             |        750 |
 | [Shell Finland](https://fi.wikipedia.org/wiki/Shell)                                     |        197 |
