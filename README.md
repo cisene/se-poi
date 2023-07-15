@@ -139,8 +139,9 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
+| [Din-X](https://sv.wikipedia.org/wiki/Din-X)                                             |        190 |
+| [GULF Sverige](https://sv.wikipedia.org/wiki/Gulf_(varum%C3%A4rke))                      |         73 |
 | [Green Petroleum](https://sv.wikipedia.org/wiki/Green_Petroleum)                         |         22 |
-| [Gulf Sverige](https://sv.wikipedia.org/wiki/Gulf_(varum%C3%A4rke))                      |         73 |
 | [Ingo](https://sv.wikipedia.org/wiki/Ingo)                                               |        291 |
 | [OKQ8](https://sv.wikipedia.org/wiki/OKQ8)                                               |        803 |
 | [Preem](https://sv.wikipedia.org/wiki/Preem)                                             |        750 |
