@@ -1,0 +1,2345 @@
+meta:
+  name: QStar
+  web: https://qstar.se/
+  wikipedia: https://sv.wikipedia.org/wiki/Qstar
+  category: Drivmedel
+  locations: 334
+
+locations:
+- location: Qstar Strömstad
+  city: Strömstad
+  urn: urn:qstar:station:id:317
+  country: Sverige
+  latitude: 58.859655
+  longitude: 11.254833
+
+- location: Qstar Kungshamn
+  city: Kungshamn
+  urn: urn:qstar:station:id:318
+  country: Sverige
+  latitude: 58.364878
+  longitude: 11.270653
+
+- location: Qstar Hamburgsund
+  city: Hamburgsund
+  urn: urn:qstar:station:id:477
+  country: Sverige
+  latitude: 58.557873
+  longitude: 11.279868
+
+- location: Qstar Tanumshede
+  city: Tanumshede
+  urn: urn:qstar:station:id:6571
+  country: Sverige
+  latitude: 58.716017
+  longitude: 11.334498
+
+- location: Qstar Bullaren
+  city: Bullaren
+  urn: urn:qstar:station:id:424
+  country: Sverige
+  latitude: 58.775921
+  longitude: 11.560279
+
+- location: Qstar Göteborg Gårda Johan
+  city: Göteborg
+  urn: urn:qstar:station:id:6521
+  country: Sverige
+  latitude: 57.74022
+  longitude: 11.942396
+
+- location: Qstar Surte
+  city: Surte
+  urn: urn:qstar:station:id:1
+  country: Sverige
+  latitude: 57.835248
+  longitude: 12.01458
+
+- location: Qstar Lilla Edet
+  city: Lilla Edet
+  urn: urn:qstar:station:id:6531
+  country: Sverige
+  latitude: 58.125997
+  longitude: 12.135857
+
+- location: Qstar Tångaberg
+  city: Varberg
+  urn: urn:qstar:station:id:226
+  country: Sverige
+  latitude: 57.173497
+  longitude: 12.225812
+
+- location: Qstar Dals Långed
+  city: Dals Långed
+  urn: urn:qstar:station:id:55
+  country: Sverige
+  latitude: 58.955483
+  longitude: 12.229853
+
+- location: Qstar Brålanda
+  city: Brålanda
+  urn: urn:qstar:station:id:6563
+  country: Sverige
+  latitude: 58.557268
+  longitude: 12.356924
+
+- location: Qstar Brunnered
+  city: Trollhättan
+  urn: urn:qstar:station:id:6547
+  country: Sverige
+  latitude: 58.262918
+  longitude: 12.401812
+
+- location: Qstar Bruksvallarna
+  city: Bruksvallarna
+  urn: urn:qstar:station:id:6569
+  country: Sverige
+  latitude: 62.640024
+  longitude: 12.440428
+
+- location: Qstar Mellerud
+  city: Mellerud
+  urn: urn:qstar:station:id:399
+  country: Sverige
+  latitude: 58.707201
+  longitude: 12.453051
+
+- location: Qstar Hindås
+  city: Hindås
+  urn: urn:qstar:station:id:476
+  country: Sverige
+  latitude: 57.706355
+  longitude: 12.462105
+
+- location: Qstar Falkenberg
+  city: Falkenberg
+  urn: urn:qstar:station:id:414
+  country: Sverige
+  latitude: 56.886365
+  longitude: 12.511822
+
+- location: Qstar Källsjö
+  city: Ullared
+  urn: urn:qstar:station:id:221
+  country: Sverige
+  latitude: 57.215407
+  longitude: 12.657463
+
+- location: Qstar Grästorp
+  city: Grästorp
+  urn: urn:qstar:station:id:6516
+  country: Sverige
+  latitude: 58.333704
+  longitude: 12.671083
+
+- location: Qstar Torestorp
+  city: Torestorp
+  urn: urn:qstar:station:id:178
+  country: Sverige
+  latitude: 57.388929
+  longitude: 12.677193
+
+- location: Qstar Nossebro
+  city: Nossebro
+  urn: urn:qstar:station:id:6079
+  country: Sverige
+  latitude: 58.187566
+  longitude: 12.715162
+
+- location: Qstar Gullbrandstorp
+  city: Vilshärad
+  urn: urn:qstar:station:id:6517
+  country: Sverige
+  latitude: 56.705049
+  longitude: 12.727091
+
+- location: Qstar Värmlands Nysäter
+  city: Värmlands Nysäter
+  urn: urn:qstar:station:id:6573
+  country: Sverige
+  latitude: 59.273271
+  longitude: 12.771553
+
+- location: Qstar Helsingborg
+  city: Helsingborg
+  urn: urn:qstar:station:id:478
+  country: Sverige
+  latitude: 56.070483
+  longitude: 12.78618
+
+- location: Qstar Fritsla
+  city: Fritsla
+  urn: urn:qstar:station:id:356
+  country: Sverige
+  latitude: 57.557739
+  longitude: 12.788763
+
+- location: Qstar Öxabäck
+  city: Öxabäck
+  urn: urn:qstar:station:id:139
+  country: Sverige
+  latitude: 57.397154
+  longitude: 12.812747
+
+- location: Qstar Sandhult
+  city: Sandhult
+  urn: urn:qstar:station:id:59
+  country: Sverige
+  latitude: 57.769428
+  longitude: 12.820008
+
+- location: Qstar Kvibille
+  city: Kvibille
+  urn: urn:qstar:station:id:323
+  country: Sverige
+  latitude: 56.782799
+  longitude: 12.832399
+
+- location: Qstar Skanör-Falsterbo
+  city: Falsterbo
+  urn: urn:qstar:station:id:6574
+  country: Sverige
+  latitude: 55.407189
+  longitude: 12.843018
+
+- location: Qstar Sysslebäck
+  city: Sysslebäck
+  urn: urn:qstar:station:id:426
+  country: Sverige
+  latitude: 60.718084
+  longitude: 12.88056
+
+- location: Qstar Ängelholm
+  city: Ängelholm
+  urn: urn:qstar:station:id:66
+  country: Sverige
+  latitude: 56.253175
+  longitude: 12.909005
+
+- location: Qstar Halmstad
+  city: Halmstad
+  urn: urn:qstar:station:id:24
+  country: Sverige
+  latitude: 56.650703
+  longitude: 12.915349
+
+- location: Qstar Åstorp
+  city: Åstorp
+  urn: urn:qstar:station:id:11
+  country: Sverige
+  latitude: 56.139632
+  longitude: 12.933859
+
+- location: Qstar Ätran
+  city: Ätran
+  urn: urn:qstar:station:id:62
+  country: Sverige
+  latitude: 57.1201
+  longitude: 12.943041
+
+- location: Qstar Järpås
+  city: Järpås
+  urn: urn:qstar:station:id:434
+  country: Sverige
+  latitude: 58.379811
+  longitude: 12.977839
+
+- location: Qstar Torsby
+  city: Torsby
+  urn: urn:qstar:station:id:6568
+  country: Sverige
+  latitude: 60.133071
+  longitude: 13.005909
+
+- location: Qstar Borgstena
+  city: Borgstena
+  urn: urn:qstar:station:id:6010
+  country: Sverige
+  latitude: 57.883412
+  longitude: 13.019215
+
+- location: Qstar Vara
+  city: Vara
+  urn: urn:qstar:station:id:125
+  country: Sverige
+  latitude: 58.279012
+  longitude: 13.021426
+
+- location: Qstar Kvidinge
+  city: Kvidinge
+  urn: urn:qstar:station:id:27
+  country: Sverige
+  latitude: 56.134009
+  longitude: 13.030211
+
+- location: Qstar Borgeby
+  city: Bjärred
+  urn: urn:qstar:station:id:324
+  country: Sverige
+  latitude: 55.74054
+  longitude: 13.032765
+
+- location: Qstar Arrie
+  city: Arrie
+  urn: urn:qstar:station:id:48
+  country: Sverige
+  latitude: 55.516482
+  longitude: 13.088381
+
+- location: Qstar Dalsjöfors
+  city: Dalsjöfors
+  urn: urn:qstar:station:id:6510
+  country: Sverige
+  latitude: 57.715584
+  longitude: 13.09238
+
+- location: Qstar Edenberga
+  city: Laholm
+  urn: urn:qstar:station:id:204
+  country: Sverige
+  latitude: 56.462708
+  longitude: 13.098795
+
+- location: Qstar Svalöv
+  city: Svalöv
+  urn: urn:qstar:station:id:343
+  country: Sverige
+  latitude: 55.905115
+  longitude: 13.106753
+
+- location: Qstar Simlångsdalen
+  city: Simlångsdalen
+  urn: urn:qstar:station:id:88
+  country: Sverige
+  latitude: 56.718965
+  longitude: 13.120718
+
+- location: Qstar Lysvik
+  city: Lysvik
+  urn: urn:qstar:station:id:333
+  country: Sverige
+  latitude: 60.014557
+  longitude: 13.133722
+
+- location: Qstar Klippan
+  city: Klippan
+  urn: urn:qstar:station:id:447
+  country: Sverige
+  latitude: 56.128058
+  longitude: 13.135623
+
+- location: Qstar Grums
+  city: Grums
+  urn: urn:qstar:station:id:8603
+  country: Sverige
+  latitude: 59.366094
+  longitude: 13.143425
+
+- location: Qstar Länghem
+  city: Länghem
+  urn: urn:qstar:station:id:60
+  country: Sverige
+  latitude: 57.582374
+  longitude: 13.219611
+
+- location: Bilisten Kall/Järpen
+  city: Järpen
+  urn: urn:qstar:station:id:6136
+  country: Sverige
+  latitude: 63.473432
+  longitude: 13.229845
+
+- location: Qstar Ljungbyhed
+  city: Ljungbyhed
+  urn: urn:qstar:station:id:428
+  country: Sverige
+  latitude: 56.073063
+  longitude: 13.231786
+
+- location: Qstar Hyltebruk
+  city: Hyltebruk
+  urn: urn:qstar:station:id:6046
+  country: Sverige
+  latitude: 56.987542
+  longitude: 13.237377
+
+- location: Qstar Broaryd
+  city: Broaryd
+  urn: urn:qstar:station:id:122
+  country: Sverige
+  latitude: 57.120387
+  longitude: 13.256356
+
+- location: Qstar Sälen
+  city: Sälen
+  urn: urn:qstar:station:id:454
+  country: Sverige
+  latitude: 61.161653
+  longitude: 13.262984
+
+- location: Qstar Vinninga
+  city: Vinninga
+  urn: urn:qstar:station:id:297
+  country: Sverige
+  latitude: 58.452809
+  longitude: 13.266023
+
+- location: Qstar Hökerum
+  city: Hökerum
+  urn: urn:qstar:station:id:144
+  country: Sverige
+  latitude: 57.841158
+  longitude: 13.283144
+
+- location: Qstar Burseryd
+  city: Burseryd
+  urn: urn:qstar:station:id:328
+  country: Sverige
+  latitude: 57.201813
+  longitude: 13.284879
+
+- location: Qstar Röstånga
+  city: Röstånga
+  urn: urn:qstar:station:id:357
+  country: Sverige
+  latitude: 56.003412
+  longitude: 13.28982
+
+- location: Qstar Hishult
+  city: Hishult
+  urn: urn:qstar:station:id:332
+  country: Sverige
+  latitude: 56.428808
+  longitude: 13.307484
+
+- location: Qstar Floby
+  city: Floby
+  urn: urn:qstar:station:id:6572
+  country: Sverige
+  latitude: 58.132509
+  longitude: 13.336953
+
+- location: Qstar Tranemo
+  city: Tranemo
+  urn: urn:qstar:station:id:450
+  country: Sverige
+  latitude: 57.501032
+  longitude: 13.341072
+
+- location: Qstar Lima
+  city: Lima
+  urn: urn:qstar:station:id:304
+  country: Sverige
+  latitude: 60.93617
+  longitude: 13.359852
+
+- location: Qstar Perstorp
+  city: Perstorp
+  urn: urn:qstar:station:id:6537
+  country: Sverige
+  latitude: 56.134089
+  longitude: 13.384064
+
+- location: Qstar Smålandsstenar
+  city: Smålandsstenar
+  urn: urn:qstar:station:id:80
+  country: Sverige
+  latitude: 57.15861
+  longitude: 13.408987
+
+- location: Qstar Skara
+  city: Skara
+  urn: urn:qstar:station:id:6540
+  country: Sverige
+  latitude: 58.376046
+  longitude: 13.41032
+
+- location: Qstar Beddingestrand
+  city: Beddingestrand
+  urn: urn:qstar:station:id:72
+  country: Sverige
+  latitude: 55.364674
+  longitude: 13.431816
+
+- location: Qstar Lidhult
+  city: Lidhult
+  urn: urn:qstar:station:id:6065
+  country: Sverige
+  latitude: 56.827355
+  longitude: 13.439075
+
+- location: Qstar Dalum
+  city: Dalum
+  urn: urn:qstar:station:id:413
+  country: Sverige
+  latitude: 57.897947
+  longitude: 13.461152
+
+- location: Qstar Skoghall
+  city: Skoghall
+  urn: urn:qstar:station:id:6092
+  country: Sverige
+  latitude: 59.324312
+  longitude: 13.475431
+
+- location: Qstar Götene
+  city: Götene
+  urn: urn:qstar:station:id:6523
+  country: Sverige
+  latitude: 58.529161
+  longitude: 13.488035
+
+- location: Qstar Nittorp
+  city: Nittorp
+  urn: urn:qstar:station:id:235
+  country: Sverige
+  latitude: 57.546183
+  longitude: 13.49023
+
+- location: Qstar Dalstorp
+  city: Dalstorp
+  urn: urn:qstar:station:id:342
+  country: Sverige
+  latitude: 57.60246
+  longitude: 13.525636
+
+- location: Qstar Harlösa
+  city: Harlösa
+  urn: urn:qstar:station:id:71
+  country: Sverige
+  latitude: 55.716272
+  longitude: 13.528875
+
+- location: Qstar Gislaved
+  city: Gislaved
+  urn: urn:qstar:station:id:29
+  country: Sverige
+  latitude: 57.319817
+  longitude: 13.547065
+
+- location: Qstar Höör
+  city: Höör
+  urn: urn:qstar:station:id:20
+  country: Sverige
+  latitude: 55.939072
+  longitude: 13.548613
+
+- location: Qstar Grimsås
+  city: Grimsås
+  urn: urn:qstar:station:id:374
+  country: Sverige
+  latitude: 57.484371
+  longitude: 13.552666
+
+- location: Qstar Karlstad
+  city: Karlstad
+  urn: urn:qstar:station:id:432
+  country: Sverige
+  latitude: 59.380397
+  longitude: 13.560703
+
+- location: Qstar Axvall
+  city: Axvall
+  urn: urn:qstar:station:id:6559
+  country: Sverige
+  latitude: 58.388455
+  longitude: 13.576375
+
+- location: Qstar Tyringe
+  city: Tyringe
+  urn: urn:qstar:station:id:87
+  country: Sverige
+  latitude: 56.161884
+  longitude: 13.603854
+
+- location: Qstar Anderstorp
+  city: Anderstorp
+  urn: urn:qstar:station:id:423
+  country: Sverige
+  latitude: 57.283801
+  longitude: 13.604811
+
+- location: Qstar Tjörnarp
+  city: Tjörnarp
+  urn: urn:qstar:station:id:8515
+  country: Sverige
+  latitude: 56.009023
+  longitude: 13.656285
+
+- location: Qstar Vittsjö
+  city: Vittsjö
+  urn: urn:qstar:station:id:452
+  country: Sverige
+  latitude: 56.337552
+  longitude: 13.664122
+
+- location: Qstar Öreryd
+  city: Hestra
+  urn: urn:qstar:station:id:136
+  country: Sverige
+  latitude: 57.484255
+  longitude: 13.673348
+
+- location: Qstar Skattkärr
+  city: Skattkärr
+  urn: urn:qstar:station:id:63
+  country: Sverige
+  latitude: 59.414433
+  longitude: 13.677126
+
+- location: Qstar Varnhem
+  city: Varnhem
+  urn: urn:qstar:station:id:108
+  country: Sverige
+  latitude: 58.37924
+  longitude: 13.699856
+
+- location: Qstar Rönås/Sjöbo
+  city: Sjöbo
+  urn: urn:qstar:station:id:51
+  country: Sverige
+  latitude: 55.736492
+  longitude: 13.704008
+
+- location: Qstar Kättilstorp
+  city: Kättilstorp
+  urn: urn:qstar:station:id:195
+  country: Sverige
+  latitude: 58.046622
+  longitude: 13.712373
+
+- location: Qstar Molkom
+  city: Molkom
+  urn: urn:qstar:station:id:431
+  country: Sverige
+  latitude: 59.604053
+  longitude: 13.739993
+
+- location: Qstar Tannåker
+  city: Ljungby
+  urn: urn:qstar:station:id:187
+  country: Sverige
+  latitude: 56.957466
+  longitude: 13.772725
+
+- location: Qstar Vollsjö
+  city: Vollsjö
+  urn: urn:qstar:station:id:392
+  country: Sverige
+  latitude: 55.708878
+  longitude: 13.791731
+
+- location: Qstar Kulltorp
+  city: Kulltorp
+  urn: urn:qstar:station:id:381
+  country: Sverige
+  latitude: 57.264421
+  longitude: 13.793099
+
+- location: Qstar Mariestad
+  city: Mariestad
+  urn: urn:qstar:station:id:101
+  country: Sverige
+  latitude: 58.678304
+  longitude: 13.81829
+
+- location: Qstar Forsheda
+  city: Forsheda
+  urn: urn:qstar:station:id:6025
+  country: Sverige
+  latitude: 57.16338
+  longitude: 13.843617
+
+- location: Qstar Hillerstorp
+  city: Hillerstorp
+  urn: urn:qstar:station:id:68
+  country: Sverige
+  latitude: 57.321235
+  longitude: 13.876299
+
+- location: Qstar Vinslöv
+  city: Vinslöv
+  urn: urn:qstar:station:id:15
+  country: Sverige
+  latitude: 56.103527
+  longitude: 13.904926
+
+- location: Qstar Berghem/Ljungby
+  city: Ljungby
+  urn: urn:qstar:station:id:285
+  country: Sverige
+  latitude: 56.799449
+  longitude: 13.906795
+
+- location: Bilisten Venjan
+  city: Venjan
+  urn: urn:qstar:station:id:6114
+  country: Sverige
+  latitude: 60.953927
+  longitude: 13.912901
+
+- location: Qstar Ljungby
+  city: Ljungby
+  urn: urn:qstar:station:id:38
+  country: Sverige
+  latitude: 56.826832
+  longitude: 13.934691
+
+- location: Qstar Vittaryd
+  city: Vittaryd
+  urn: urn:qstar:station:id:172
+  country: Sverige
+  latitude: 56.971144
+  longitude: 13.944461
+
+- location: Qstar Tidaholm
+  city: Tidaholm
+  urn: urn:qstar:station:id:309
+  country: Sverige
+  latitude: 58.189357
+  longitude: 13.948008
+
+- location: Qstar Väring
+  city: Väring
+  urn: urn:qstar:station:id:6119
+  country: Sverige
+  latitude: 58.5021
+  longitude: 13.969651
+
+- location: Qstar Tollarp
+  city: Tollarp
+  urn: urn:qstar:station:id:86
+  country: Sverige
+  latitude: 55.931512
+  longitude: 13.986925
+
+- location: Qstar Lagan
+  city: Lagan
+  urn: urn:qstar:station:id:6570
+  country: Sverige
+  latitude: 56.912159
+  longitude: 13.988786
+
+- location: Qstar Tranås
+  city: Tranås
+  urn: urn:qstar:station:id:443
+  country: Sverige
+  latitude: 55.613759
+  longitude: 13.996713
+
+- location: Qstar Broby
+  city: Broby
+  urn: urn:qstar:station:id:6508
+  country: Sverige
+  latitude: 56.244563
+  longitude: 14.059008
+
+- location: Qstar Everöd
+  city: Everöd
+  urn: urn:qstar:station:id:57
+  country: Sverige
+  latitude: 55.899734
+  longitude: 14.08213
+
+- location: Qstar Skillingaryd
+  city: Skillingaryd
+  urn: urn:qstar:station:id:364
+  country: Sverige
+  latitude: 57.452459
+  longitude: 14.092497
+
+- location: Qstar Hallen
+  city: Hallen
+  urn: urn:qstar:station:id:6561
+  country: Sverige
+  latitude: 63.17593
+  longitude: 14.093612
+
+- location: Qstar Kristinehamn Fastingsgatan
+  city: Kristinehamn
+  urn: urn:qstar:station:id:128
+  country: Sverige
+  latitude: 59.323878
+  longitude: 14.100563
+
+- location: Qstar Norrahammar
+  city: Norrhammar
+  urn: urn:qstar:station:id:176
+  country: Sverige
+  latitude: 57.721794
+  longitude: 14.11374
+
+- location: Qstar Töreboda
+  city: Töreboda
+  urn: urn:qstar:station:id:299
+  country: Sverige
+  latitude: 58.696222
+  longitude: 14.117279
+
+- location: Qstar Sankt Olof
+  city: Sankt Olof
+  urn: urn:qstar:station:id:83
+  country: Sverige
+  latitude: 55.636344
+  longitude: 14.131789
+
+- location: Qstar Glimåkra
+  city: Glimåkra
+  urn: urn:qstar:station:id:362
+  country: Sverige
+  latitude: 56.3033
+  longitude: 14.134448
+
+- location: Qstar Älmhult
+  city: Älmhult
+  urn: urn:qstar:station:id:6551
+  country: Sverige
+  latitude: 56.549913
+  longitude: 14.140211
+
+- location: Qstar Kristinehamn Bodalsvägen
+  city: Kristinehamn
+  urn: urn:qstar:station:id:470
+  country: Sverige
+  latitude: 59.313634
+  longitude: 14.149936
+
+- location: Qstar Tibro
+  city: Tibro
+  urn: urn:qstar:station:id:6104
+  country: Sverige
+  latitude: 58.429148
+  longitude: 14.159307
+
+- location: Qstar Ryssby
+  city: Ryssby
+  urn: urn:qstar:station:id:43
+  country: Sverige
+  latitude: 56.865442
+  longitude: 14.168736
+
+- location: Qstar Oxberg
+  city: Mora
+  urn: urn:qstar:station:id:150
+  country: Sverige
+  latitude: 61.116562
+  longitude: 14.17253
+
+- location: Qstar Kristianstad
+  city: Kristianstad
+  urn: urn:qstar:station:id:485
+  country: Sverige
+  latitude: 56.02959
+  longitude: 14.18186
+
+- location: Qstar Sibbhult
+  city: Sibbhult
+  urn: urn:qstar:station:id:61
+  country: Sverige
+  latitude: 56.26713
+  longitude: 14.201681
+
+- location: Qstar Brandstorp
+  city: Brandstorp
+  urn: urn:qstar:station:id:6129
+  country: Sverige
+  latitude: 58.097145
+  longitude: 14.205101
+
+- location: Qstar Hova
+  city: Hova
+  urn: urn:qstar:station:id:6524
+  country: Sverige
+  latitude: 58.860925
+  longitude: 14.217446
+
+- location: Qstar Hok
+  city: Hok
+  urn: urn:qstar:station:id:243
+  country: Sverige
+  latitude: 57.512675
+  longitude: 14.278706
+
+- location: Qstar Åsarna
+  city: Åsarna
+  urn: urn:qstar:station:id:438
+  country: Sverige
+  latitude: 62.642606
+  longitude: 14.37149
+
+- location: Qstar Svenstavik
+  city: Svenstavik
+  urn: urn:qstar:station:id:6560
+  country: Sverige
+  latitude: 62.838789
+  longitude: 14.38413
+
+- location: Qstar Undenäs
+  city: Undenäs
+  urn: urn:qstar:station:id:95
+  country: Sverige
+  latitude: 58.660778
+  longitude: 14.403197
+
+- location: Qstar Mölltorp
+  city: Mölltorp
+  urn: urn:qstar:station:id:73
+  country: Sverige
+  latitude: 58.494004
+  longitude: 14.416883
+
+- location: Qstar Lekeryd
+  city: Lekeryd
+  urn: urn:qstar:station:id:471
+  country: Sverige
+  latitude: 57.77367
+  longitude: 14.41805
+
+- location: Qstar Finnerödja
+  city: Finnerödja
+  urn: urn:qstar:station:id:319
+  country: Sverige
+  latitude: 58.93491
+  longitude: 14.432484
+
+- location: Qstar Häradsbäck
+  city: Häradsbäck
+  urn: urn:qstar:station:id:79
+  country: Sverige
+  latitude: 56.529884
+  longitude: 14.446377
+
+- location: Qstar Malmbäck
+  city: Malmbäck
+  urn: urn:qstar:station:id:53
+  country: Sverige
+  latitude: 57.582372
+  longitude: 14.470024
+
+- location: Qstar Vrigstad
+  city: Vrigstad
+  urn: urn:qstar:station:id:245
+  country: Sverige
+  latitude: 57.348908
+  longitude: 14.473995
+
+- location: Qstar Näsum
+  city: Näsum
+  urn: urn:qstar:station:id:49
+  country: Sverige
+  latitude: 56.182325
+  longitude: 14.508708
+
+- location: Qstar Svartå
+  city: Svartå
+  urn: urn:qstar:station:id:185
+  country: Sverige
+  latitude: 59.127371
+  longitude: 14.518154
+
+- location: Qstar Karlskoga
+  city: Karlskoga
+  urn: urn:qstar:station:id:439
+  country: Sverige
+  latitude: 59.330636
+  longitude: 14.546573
+
+- location: Qstar Laxå
+  city: Laxå
+  urn: urn:qstar:station:id:184
+  country: Sverige
+  latitude: 58.97976
+  longitude: 14.606969
+
+- location: Qstar Hästholmen
+  city: Ödeshög
+  urn: urn:qstar:station:id:308
+  country: Sverige
+  latitude: 58.278442
+  longitude: 14.648506
+
+- location: Qstar Fridafors
+  city: Ryd
+  urn: urn:qstar:station:id:34
+  country: Sverige
+  latitude: 56.40779
+  longitude: 14.654056
+
+- location: Qstar Ödeshög
+  city: Ödeshög
+  urn: urn:qstar:station:id:8517
+  country: Sverige
+  latitude: 58.226608
+  longitude: 14.666233
+
+- location: Qstar Ryd
+  city: Ryd
+  urn: urn:qstar:station:id:6539
+  country: Sverige
+  latitude: 56.460762
+  longitude: 14.696234
+
+- location: Qstar Bodafors
+  city: Bodafors
+  urn: urn:qstar:station:id:42
+  country: Sverige
+  latitude: 57.503747
+  longitude: 14.707577
+
+- location: Qstar Olshammar
+  city: Aspabruk
+  urn: urn:qstar:station:id:223
+  country: Sverige
+  latitude: 58.756163
+  longitude: 14.797638
+
+- location: Qstar Aneby
+  city: Aneby
+  urn: urn:qstar:station:id:6501
+  country: Sverige
+  latitude: 57.829135
+  longitude: 14.817468
+
+- location: Qstar Lekhyttan
+  city: Lekhyttan
+  urn: urn:qstar:station:id:192
+  country: Sverige
+  latitude: 59.252524
+  longitude: 14.824206
+
+- location: Qstar Fjugesta
+  city: Fjugesta
+  urn: urn:qstar:station:id:468
+  country: Sverige
+  latitude: 59.162276
+  longitude: 14.827376
+
+- location: Qstar Asarum
+  city: Asarum
+  urn: urn:qstar:station:id:6502
+  country: Sverige
+  latitude: 56.212355
+  longitude: 14.834924
+
+- location: Qstar Växjö
+  city: Växjö
+  urn: urn:qstar:station:id:396
+  country: Sverige
+  latitude: 56.909319
+  longitude: 14.840066
+
+- location: Qstar Vretstorp
+  city: Vretstorp
+  urn: urn:qstar:station:id:456
+  country: Sverige
+  latitude: 59.037389
+  longitude: 14.898007
+
+- location: Qstar Väderstad
+  city: Väderstad
+  urn: urn:qstar:station:id:191
+  country: Sverige
+  latitude: 58.311321
+  longitude: 14.904628
+
+- location: Qstar Sunhultsbrunn/Tranås
+  city: Sunhultsbrunn
+  urn: urn:qstar:station:id:100
+  country: Sverige
+  latitude: 57.926993
+  longitude: 14.910528
+
+- location: Pump Ramkvilla
+  city: Ramkvilla
+  urn: urn:qstar:station:id:8420
+  country: Sverige
+  latitude: 57.206051
+  longitude: 14.947482
+
+- location: Qstar Eksjö
+  city: Eksjö
+  urn: urn:qstar:station:id:465
+  country: Sverige
+  latitude: 57.64933
+  longitude: 14.950945
+
+- location: Qstar Vintrosa
+  city: Vintrosa
+  urn: urn:qstar:station:id:96
+  country: Sverige
+  latitude: 59.252068
+  longitude: 14.95888
+
+- location: Qstar Harge
+  city: Hammar
+  urn: urn:qstar:station:id:463
+  country: Sverige
+  latitude: 58.794981
+  longitude: 14.971232
+
+- location: Qstar Åmmeberg
+  city: Åmmeberg
+  urn: urn:qstar:station:id:201
+  country: Sverige
+  latitude: 58.865917
+  longitude: 14.999534
+
+- location: Qstar Boxholm Tranåsvägen
+  city: Boxholm
+  urn: urn:qstar:station:id:368
+  country: Sverige
+  latitude: 58.18986
+  longitude: 15.03354
+
+- location: Qstar Vetlanda
+  city: Vetlanda
+  urn: urn:qstar:station:id:244
+  country: Sverige
+  latitude: 57.456255
+  longitude: 15.044414
+
+- location: Qstar Boxholm Älvkullevägen
+  city: Boxholm
+  urn: urn:qstar:station:id:168
+  country: Sverige
+  latitude: 58.195579
+  longitude: 15.048184
+
+- location: Qstar Braås
+  city: Braås
+  urn: urn:qstar:station:id:466
+  country: Sverige
+  latitude: 57.061611
+  longitude: 15.048931
+
+- location: Qstar Åsbro Maskinvägen
+  city: Åsbro
+  urn: urn:qstar:station:id:183
+  country: Sverige
+  latitude: 58.99576
+  longitude: 15.050738
+
+- location: Qstar Åsbro Estabovägen
+  city: Åsbro
+  urn: urn:qstar:station:id:301
+  country: Sverige
+  latitude: 58.987481
+  longitude: 15.052587
+
+- location: Qstar Skänninge
+  city: Skänninge
+  urn: urn:qstar:station:id:106
+  country: Sverige
+  latitude: 58.389437
+  longitude: 15.087629
+
+- location: Qstar Mjölby
+  city: Mjölby
+  urn: urn:qstar:station:id:237
+  country: Sverige
+  latitude: 58.323357
+  longitude: 15.092213
+
+- location: Qstar Tingsryd
+  city: Tingsryd
+  urn: urn:qstar:station:id:6105
+  country: Sverige
+  latitude: 56.50506
+  longitude: 15.128356
+
+- location: Qstar Backaryd
+  city: Backaryd
+  urn: urn:qstar:station:id:329
+  country: Sverige
+  latitude: 56.348392
+  longitude: 15.152027
+
+- location: Qstar Rydsnäs
+  city: Ydre
+  urn: urn:qstar:station:id:240
+  country: Sverige
+  latitude: 57.798203
+  longitude: 15.153419
+
+- location: Qstar Ludvika
+  city: Ludvika
+  urn: urn:qstar:station:id:391
+  country: Sverige
+  latitude: 60.134503
+  longitude: 15.153682
+
+- location: Qstar Godegård
+  city: Motala
+  urn: urn:qstar:station:id:145
+  country: Sverige
+  latitude: 58.74872
+  longitude: 15.1645
+
+- location: Qstar Norrhult
+  city: Norrhult
+  urn: urn:qstar:station:id:75
+  country: Sverige
+  latitude: 57.123812
+  longitude: 15.168963
+
+- location: Qstar Österstad
+  city: Motala
+  urn: urn:qstar:station:id:182
+  country: Sverige
+  latitude: 58.520421
+  longitude: 15.172688
+
+- location: Qstar Fornåsa
+  city: Fornåsa
+  urn: urn:qstar:station:id:335
+  country: Sverige
+  latitude: 58.478208
+  longitude: 15.225827
+
+- location: Qstar Borensberg
+  city: Borensberg
+  urn: urn:qstar:station:id:440
+  country: Sverige
+  latitude: 58.566033
+  longitude: 15.273139
+
+- location: Qstar Österbymo
+  city: Ydre
+  urn: urn:qstar:station:id:366
+  country: Sverige
+  latitude: 57.822531
+  longitude: 15.278993
+
+- location: Qstar Bruzaholm
+  city: Bruzaholm
+  urn: urn:qstar:station:id:330
+  country: Sverige
+  latitude: 57.641061
+  longitude: 15.284133
+
+- location: Qstar Vedevåg
+  city: Vedevåg
+  urn: urn:qstar:station:id:132
+  country: Sverige
+  latitude: 59.527305
+  longitude: 15.284762
+
+- location: Qstar Mantorp
+  city: Mantorp
+  urn: urn:qstar:station:id:90
+  country: Sverige
+  latitude: 58.353592
+  longitude: 15.290137
+
+- location: Qstar Tjällmo
+  city: Tjällmo
+  urn: urn:qstar:station:id:409
+  country: Sverige
+  latitude: 58.721951
+  longitude: 15.364708
+
+- location: Qstar Bräcke
+  city: Bräcke
+  urn: urn:qstar:station:id:6016
+  country: Sverige
+  latitude: 62.74691
+  longitude: 15.421527
+
+- location: Qstar Hjortkvarn
+  city: Hjortkvarn
+  urn: urn:qstar:station:id:384
+  country: Sverige
+  latitude: 58.894635
+  longitude: 15.432899
+
+- location: Bilisten Ulrika
+  city: Ulrika
+  urn: urn:qstar:station:id:6143
+  country: Sverige
+  latitude: 58.126002
+  longitude: 15.433448
+
+- location: Qstar Bjursås
+  city: Bjursås
+  urn: urn:qstar:station:id:6504
+  country: Sverige
+  latitude: 60.733839
+  longitude: 15.43937
+
+- location: Qstar Kvillsfors
+  city: Kvillsfors
+  urn: urn:qstar:station:id:421
+  country: Sverige
+  latitude: 57.403277
+  longitude: 15.503068
+
+- location: Qstar Odensbacken
+  city: Odensbacken
+  urn: urn:qstar:station:id:363
+  country: Sverige
+  latitude: 59.1575
+  longitude: 15.526173
+
+- location: Qstar Riddarhyttan
+  city: Riddarhyttan
+  urn: urn:qstar:station:id:166
+  country: Sverige
+  latitude: 59.808594
+  longitude: 15.539521
+
+- location: Qstar Söderbärke
+  city: Söderbärke
+  urn: urn:qstar:station:id:6545
+  country: Sverige
+  latitude: 60.07067
+  longitude: 15.547637
+
+- location: Qstar Emmaboda
+  city: Emmaboda
+  urn: urn:qstar:station:id:355
+  country: Sverige
+  latitude: 56.626889
+  longitude: 15.551471
+
+- location: Qstar Bingsjö
+  city: Enviken
+  urn: urn:qstar:station:id:208
+  country: Sverige
+  latitude: 61.024619
+  longitude: 15.647706
+
+- location: Qstar Götlunda
+  city: Arboga
+  urn: urn:qstar:station:id:386
+  country: Sverige
+  latitude: 59.35162
+  longitude: 15.665281
+
+- location: Qstar Skinnskatteberg
+  city: Skinnskatteberg
+  urn: urn:qstar:station:id:126
+  country: Sverige
+  latitude: 59.831049
+  longitude: 15.676438
+
+- location: Qstar Igelfors
+  city: Finspång
+  urn: urn:qstar:station:id:121
+  country: Sverige
+  latitude: 58.84668
+  longitude: 15.699173
+
+- location: Qstar Ryckelösa
+  city: Ryckelösa
+  urn: urn:qstar:station:id:160
+  country: Sverige
+  latitude: 58.437626
+  longitude: 15.751219
+
+- location: Qstar Korskrogen
+  city: Korskrogen
+  urn: urn:qstar:station:id:118
+  country: Sverige
+  latitude: 61.812532
+  longitude: 15.754916
+
+- location: Qstar Finspång
+  city: Finspång
+  urn: urn:qstar:station:id:222
+  country: Sverige
+  latitude: 58.700184
+  longitude: 15.817663
+
+- location: Qstar Edsbyn
+  city: Edsbyn
+  urn: urn:qstar:station:id:138
+  country: Sverige
+  latitude: 61.376304
+  longitude: 15.832562
+
+- location: Qstar Arboga Stenängsvägen
+  city: Arboga
+  urn: urn:qstar:station:id:193
+  country: Sverige
+  latitude: 59.405627
+  longitude: 15.838197
+
+- location: Qstar Horn
+  city: Horn
+  urn: urn:qstar:station:id:105
+  country: Sverige
+  latitude: 57.894387
+  longitude: 15.839667
+
+- location: Qstar Arboga Kapellgatan
+  city: Arboga
+  urn: urn:qstar:station:id:451
+  country: Sverige
+  latitude: 59.389635
+  longitude: 15.841313
+
+- location: Qstar Storebro
+  city: Storebro
+  urn: urn:qstar:station:id:31
+  country: Sverige
+  latitude: 57.593067
+  longitude: 15.84749
+
+- location: Qstar Hultsfred
+  city: Hultsfred
+  urn: urn:qstar:station:id:67
+  country: Sverige
+  latitude: 57.496055
+  longitude: 15.853278
+
+- location: Qstar Grebo
+  city: Linköping
+  urn: urn:qstar:station:id:133
+  country: Sverige
+  latitude: 58.311838
+  longitude: 15.877081
+
+- location: Qstar Vingåker Henalavägen
+  city: Vingåker
+  urn: urn:qstar:station:id:230
+  country: Sverige
+  latitude: 59.059694
+  longitude: 15.880318
+
+- location: Qstar Vingåker Ringvägen
+  city: Vingåker
+  urn: urn:qstar:station:id:130
+  country: Sverige
+  latitude: 59.044273
+  longitude: 15.881722
+
+- location: Qstar Rejmyre
+  city: Rejmyre
+  urn: urn:qstar:station:id:295
+  country: Sverige
+  latitude: 58.830177
+  longitude: 15.929538
+
+- location: Qstar Vena
+  city: Vena
+  urn: urn:qstar:station:id:177
+  country: Sverige
+  latitude: 57.521946
+  longitude: 15.967983
+
+- location: Qstar Frödinge
+  city: Vimmerby
+  urn: urn:qstar:station:id:200
+  country: Sverige
+  latitude: 57.702294
+  longitude: 16.006566
+
+- location: Qstar Högsby
+  city: Högsby
+  urn: urn:qstar:station:id:425
+  country: Sverige
+  latitude: 57.17322
+  longitude: 16.02105
+
+- location: Qstar Virsbo
+  city: Virsbo
+  urn: urn:qstar:station:id:6558
+  country: Sverige
+  latitude: 59.864841
+  longitude: 16.037935
+
+- location: Qstar Ljusdal
+  city: Ljusdal
+  urn: urn:qstar:station:id:334
+  country: Sverige
+  latitude: 61.82087
+  longitude: 16.064175
+
+- location: Qstar Julita
+  city: Julita
+  urn: urn:qstar:station:id:305
+  country: Sverige
+  latitude: 59.149348
+  longitude: 16.068309
+
+- location: Qstar Kungsör
+  city: Kungsör
+  urn: urn:qstar:station:id:6058
+  country: Sverige
+  latitude: 59.42702
+  longitude: 16.105684
+
+- location: Qstar Stora Sundby
+  city: Stora Sundby
+  urn: urn:qstar:station:id:6542
+  country: Sverige
+  latitude: 59.277889
+  longitude: 16.119053
+
+- location: Qstar Trekanten
+  city: Trekanten
+  urn: urn:qstar:station:id:326
+  country: Sverige
+  latitude: 56.693979
+  longitude: 16.124901
+
+- location: Qstar Simonstorp
+  city: Solgården 2
+  urn: urn:qstar:station:id:104
+  country: Sverige
+  latitude: 58.788382
+  longitude: 16.1575
+
+- location: Qstar Östra Ryd
+  city: Östra Ryd
+  urn: urn:qstar:station:id:382
+  country: Sverige
+  latitude: 58.406141
+  longitude: 16.158657
+
+- location: Qstar Odensvi
+  city: Odensvi
+  urn: urn:qstar:station:id:151
+  country: Sverige
+  latitude: 57.891064
+  longitude: 16.16621
+
+- location: Qstar Åby
+  city: Åby
+  urn: urn:qstar:station:id:349
+  country: Sverige
+  latitude: 58.660521
+  longitude: 16.174692
+
+- location: Qstar Norrköping Spårgatan
+  city: Norrköping
+  urn: urn:qstar:station:id:123
+  country: Sverige
+  latitude: 58.602923
+  longitude: 16.186774
+
+- location: Qstar Blackstad
+  city: Blackstad
+  urn: urn:qstar:station:id:163
+  country: Sverige
+  latitude: 57.789553
+  longitude: 16.18691
+
+- location: Qstar Totebo
+  city: Totebo
+  urn: urn:qstar:station:id:146
+  country: Sverige
+  latitude: 57.628465
+  longitude: 16.188816
+
+- location: Qstar Katrineholm
+  city: Katrineholm
+  urn: urn:qstar:station:id:294
+  country: Sverige
+  latitude: 58.995499
+  longitude: 16.193157
+
+- location: Qstar Avesta
+  city: Avesta
+  urn: urn:qstar:station:id:6503
+  country: Sverige
+  latitude: 60.141075
+  longitude: 16.19442
+
+- location: Qstar Kristdala
+  city: Kristdala
+  urn: urn:qstar:station:id:461
+  country: Sverige
+  latitude: 57.396345
+  longitude: 16.208985
+
+- location: Qstar Norrköping Smedbygatan
+  city: Norrköping
+  urn: urn:qstar:station:id:180
+  country: Sverige
+  latitude: 58.581479
+  longitude: 16.222722
+
+- location: Qstar Slussfors
+  city: Slussfors
+  urn: urn:qstar:station:id:427
+  country: Sverige
+  latitude: 65.430729
+  longitude: 16.248718
+
+- location: Qstar Kalmar/Smedby
+  city: Kalmar
+  urn: urn:qstar:station:id:198
+  country: Sverige
+  latitude: 56.669855
+  longitude: 16.274118
+
+- location: Qstar Hjorted
+  city: Hjorted
+  urn: urn:qstar:station:id:179
+  country: Sverige
+  latitude: 57.621565
+  longitude: 16.307967
+
+- location: Qstar Överum
+  city: Överum
+  urn: urn:qstar:station:id:369
+  country: Sverige
+  latitude: 57.990198
+  longitude: 16.308646
+
+- location: Qstar Torpshammar
+  city: Torpshammar
+  urn: urn:qstar:station:id:417
+  country: Sverige
+  latitude: 62.472798
+  longitude: 16.331113
+
+- location: Qstar Valla
+  city: Katrineholmsvägen
+  urn: urn:qstar:station:id:154
+  country: Sverige
+  latitude: 59.020492
+  longitude: 16.340928
+
+- location: Bilisten Ukna
+  city: Edsbruk
+  urn: urn:qstar:station:id:6145
+  country: Sverige
+  latitude: 58.080893
+  longitude: 16.352841
+
+- location: Bilisten Kolmården/Krokek
+  city: Kolmården
+  urn: urn:qstar:station:id:6557
+  country: Sverige
+  latitude: 58.678575
+  longitude: 16.358734
+
+- location: Qstar Vallsta
+  city: Vallsta
+  urn: urn:qstar:station:id:372
+  country: Sverige
+  latitude: 61.517885
+  longitude: 16.363995
+
+- location: Qstar Kolmården/Krokek
+  city: Kolmården
+  urn: urn:qstar:station:id:127
+  country: Sverige
+  latitude: 58.671274
+  longitude: 16.364136
+
+- location: Qstar Arbrå
+  city: Arbrå
+  urn: urn:qstar:station:id:411
+  country: Sverige
+  latitude: 61.463131
+  longitude: 16.370275
+
+- location: Qstar Kvarnvik
+  city: Åtvidaberg
+  urn: urn:qstar:station:id:216
+  country: Sverige
+  latitude: 58.19578
+  longitude: 16.37086
+
+- location: Qstar Oskarshamn
+  city: Oskarshamn
+  urn: urn:qstar:station:id:167
+  country: Sverige
+  latitude: 57.260704
+  longitude: 16.381049
+
+- location: Qstar Gamleby
+  city: Gamleby
+  urn: urn:qstar:station:id:6515
+  country: Sverige
+  latitude: 57.897421
+  longitude: 16.401056
+
+- location: Qstar Timmernabben
+  city: Timmernabben
+  urn: urn:qstar:station:id:206
+  country: Sverige
+  latitude: 56.977254
+  longitude: 16.434289
+
+- location: Qstar Mönsterås
+  city: Mönsterås
+  urn: urn:qstar:station:id:6535
+  country: Sverige
+  latitude: 57.051026
+  longitude: 16.440183
+
+- location: Qstar Hållsta
+  city: Hållsta
+  urn: urn:qstar:station:id:107
+  country: Sverige
+  latitude: 59.291528
+  longitude: 16.45831
+
+- location: Bilisten By Kyrkby
+  city: By Kyrkby
+  urn: urn:qstar:station:id:6132
+  country: Sverige
+  latitude: 60.196853
+  longitude: 16.462575
+
+- location: Qstar Broddbo
+  city: Sala
+  urn: urn:qstar:station:id:224
+  country: Sverige
+  latitude: 59.984466
+  longitude: 16.467856
+
+- location: Qstar Tindered
+  city: Edsbruk
+  urn: urn:qstar:station:id:124
+  country: Sverige
+  latitude: 57.979637
+  longitude: 16.483159
+
+- location: Qstar Västerås
+  city: Västerås
+  urn: urn:qstar:station:id:170
+  country: Sverige
+  latitude: 59.602273
+  longitude: 16.487474
+
+- location: Qstar Färjestaden
+  city: Färjestaden
+  urn: urn:qstar:station:id:380
+  country: Sverige
+  latitude: 56.665263
+  longitude: 16.489002
+
+- location: Qstar Fårbo
+  city: Fårbo
+  urn: urn:qstar:station:id:336
+  country: Sverige
+  latitude: 57.374099
+  longitude: 16.489474
+
+- location: Qstar Mått Johanssons väg
+  city: Eskilstuna
+  urn: urn:qstar:station:id:142
+  country: Sverige
+  latitude: 59.384283
+  longitude: 16.493418
+
+- location: Qstar Gusum
+  city: Gusum
+  urn: urn:qstar:station:id:156
+  country: Sverige
+  latitude: 58.263958
+  longitude: 16.497494
+
+- location: Qstar Björkvik
+  city: Björkvik
+  urn: urn:qstar:station:id:119
+  country: Sverige
+  latitude: 58.839354
+  longitude: 16.514567
+
+- location: Qstar Delsbo
+  city: Delsbo
+  urn: urn:qstar:station:id:437
+  country: Sverige
+  latitude: 61.799952
+  longitude: 16.554436
+
+- location: Qstar Östra Husby Arkösundsvägen
+  city: Östra Husby
+  urn: urn:qstar:station:id:482
+  country: Sverige
+  latitude: 58.581521
+  longitude: 16.557137
+
+- location: Qstar Eskilstuna Strängnäsvägen
+  city: Eskilstuna
+  urn: urn:qstar:station:id:152
+  country: Sverige
+  latitude: 59.374795
+  longitude: 16.561805
+
+- location: Qstar Kilafors
+  city: Kilafors
+  urn: urn:qstar:station:id:111
+  country: Sverige
+  latitude: 61.228139
+  longitude: 16.565549
+
+- location: Qstar Valdemarsvik
+  city: Valdemarsvik
+  urn: urn:qstar:station:id:6111
+  country: Sverige
+  latitude: 58.21007
+  longitude: 16.588462
+
+- location: Qstar Västervik
+  city: Västervik
+  urn: urn:qstar:station:id:416
+  country: Sverige
+  latitude: 57.772588
+  longitude: 16.5931
+
+- location: Qstar Rengsjö
+  city: Rengsjö
+  urn: urn:qstar:station:id:210
+  country: Sverige
+  latitude: 61.363326
+  longitude: 16.616817
+
+- location: Qstar Tillberga/Västerås
+  city: Västerås
+  urn: urn:qstar:station:id:6550
+  country: Sverige
+  latitude: 59.683083
+  longitude: 16.620687
+
+- location: Qstar Bispgården
+  city: Bispgården
+  urn: urn:qstar:station:id:387
+  country: Sverige
+  latitude: 63.023283
+  longitude: 16.634565
+
+- location: Qstar Ransta
+  city: Ransta
+  urn: urn:qstar:station:id:164
+  country: Sverige
+  latitude: 59.81196
+  longitude: 16.637183
+
+- location: Qstar Bottna
+  city: Söderköping
+  urn: urn:qstar:station:id:137
+  country: Sverige
+  latitude: 58.39551
+  longitude: 16.671068
+
+- location: Qstar Hassela
+  city: Hassela
+  urn: urn:qstar:station:id:383
+  country: Sverige
+  latitude: 62.108897
+  longitude: 16.711799
+
+- location: Qstar Jönåker
+  city: Jönåker
+  urn: urn:qstar:station:id:155
+  country: Sverige
+  latitude: 58.74457
+  longitude: 16.72056
+
+- location: Qstar Nävekvarn
+  city: Nävekvarn
+  urn: urn:qstar:station:id:161
+  country: Sverige
+  latitude: 58.626212
+  longitude: 16.798954
+
+- location: Qstar Liden
+  city: Liden
+  urn: urn:qstar:station:id:6562
+  country: Sverige
+  latitude: 62.698644
+  longitude: 16.80074
+
+- location: Qstar Gryt
+  city: Gryt
+  urn: urn:qstar:station:id:232
+  country: Sverige
+  latitude: 58.159477
+  longitude: 16.810155
+
+- location: Qstar Björnö Marin
+  city: Vikbolandet
+  urn: urn:qstar:station:id:312
+  country: Sverige
+  latitude: 58.543428
+  longitude: 16.835267
+
+- location: Qstar Näsåker
+  city: Näsåker
+  urn: urn:qstar:station:id:371
+  country: Sverige
+  latitude: 63.440771
+  longitude: 16.909675
+
+- location: Qstar Hedesunda
+  city: Hedesunda
+  urn: urn:qstar:station:id:379
+  country: Sverige
+  latitude: 60.392701
+  longitude: 16.978113
+
+- location: Qstar Stjärnhov
+  city: Stjärnhov
+  urn: urn:qstar:station:id:6097
+  country: Sverige
+  latitude: 59.080157
+  longitude: 17.009783
+
+- location: Qstar Strängnäs
+  city: Strängnäs
+  urn: urn:qstar:station:id:39
+  country: Sverige
+  latitude: 59.347193
+  longitude: 17.03384
+
+- location: Qstar Lucksta
+  city: Matfors
+  urn: urn:qstar:station:id:165
+  country: Sverige
+  latitude: 62.299857
+  longitude: 17.049912
+
+- location: Qstar Ilsbo
+  city: Ilsbo
+  urn: urn:qstar:station:id:302
+  country: Sverige
+  latitude: 61.861598
+  longitude: 17.050376
+
+- location: Qstar Vågbro/Norrala
+  city: Vågbro
+  urn: urn:qstar:station:id:6566
+  country: Sverige
+  latitude: 61.326004
+  longitude: 17.059255
+
+- location: Qstar Långsele
+  city: Långsele
+  urn: urn:qstar:station:id:6534
+  country: Sverige
+  latitude: 63.174604
+  longitude: 17.059265
+
+- location: Qstar Hamrånge
+  city: Hamrångefjärden
+  urn: urn:qstar:station:id:143
+  country: Sverige
+  latitude: 60.899438
+  longitude: 17.059574
+
+- location: Qstar Söderhamn
+  city: Söderhamn
+  urn: urn:qstar:station:id:197
+  country: Sverige
+  latitude: 61.294548
+  longitude: 17.065987
+
+- location: Qstar Hudiksvall
+  city: Hudiksvall
+  urn: urn:qstar:station:id:397
+  country: Sverige
+  latitude: 61.742091
+  longitude: 17.086967
+
+- location: Qstar Storuman
+  city: Storuman
+  urn: urn:qstar:station:id:6565
+  country: Sverige
+  latitude: 65.092508
+  longitude: 17.108038
+
+- location: Qstar Oxelösund
+  city: Oxelösund
+  urn: urn:qstar:station:id:449
+  country: Sverige
+  latitude: 58.676055
+  longitude: 17.11496
+
+- location: Qstar Enköping
+  city: Enköping
+  urn: urn:qstar:station:id:186
+  country: Sverige
+  latitude: 59.645816
+  longitude: 17.116574
+
+- location: Qstar Hudiksvall
+  city: Hudiksvall
+  urn: urn:qstar:station:id:370
+  country: Sverige
+  latitude: 61.723988
+  longitude: 17.145337
+
+- location: Qstar Sandarne
+  city: Sandarne
+  urn: urn:qstar:station:id:340
+  country: Sverige
+  latitude: 61.26059
+  longitude: 17.148505
+
+- location: Qstar Grillby
+  city: Grillby
+  urn: urn:qstar:station:id:429
+  country: Sverige
+  latitude: 59.622208
+  longitude: 17.261768
+
+- location: Qstar Örsundsbro
+  city: Örsundsbro
+  urn: urn:qstar:station:id:338
+  country: Sverige
+  latitude: 59.725467
+  longitude: 17.291488
+
+- location: Qstar Ljustorp
+  city: Ljustorp
+  urn: urn:qstar:station:id:407
+  country: Sverige
+  latitude: 62.618044
+  longitude: 17.341057
+
+- location: Qstar Skutskär
+  city: Skutskär
+  urn: urn:qstar:station:id:6541
+  country: Sverige
+  latitude: 60.635276
+  longitude: 17.405004
+
+- location: Qstar Midlanda
+  city: Sörberge
+  urn: urn:qstar:station:id:446
+  country: Sverige
+  latitude: 62.519265
+  longitude: 17.438037
+
+- location: Qstar Sorsele
+  city: Sorsele
+  urn: urn:qstar:station:id:6567
+  country: Sverige
+  latitude: 65.5351
+  longitude: 17.541036
+
+- location: Qstar Vendel
+  city: Örbyhus
+  urn: urn:qstar:station:id:188
+  country: Sverige
+  latitude: 60.144005
+  longitude: 17.575659
+
+- location: Qstar Blattnicksele
+  city: Blattnicksele
+  urn: urn:qstar:station:id:433
+  country: Sverige
+  latitude: 65.332599
+  longitude: 17.600437
+
+- location: Qstar Karlholmsbruk
+  city: Karlholmsbruk
+  urn: urn:qstar:station:id:321
+  country: Sverige
+  latitude: 60.524366
+  longitude: 17.602191
+
+- location: Bilisten Karlholmsbruk
+  city: Karlholmsbruk
+  urn: urn:qstar:station:id:6052
+  country: Sverige
+  latitude: 60.520872
+  longitude: 17.610478
+
+- location: Qstar Södertälje/Pershagen
+  city: Södertälje
+  urn: urn:qstar:station:id:110
+  country: Sverige
+  latitude: 59.154964
+  longitude: 17.647188
+
+- location: Qstar Uppsala
+  city: Uppsala
+  urn: urn:qstar:station:id:174
+  country: Sverige
+  latitude: 59.847985
+  longitude: 17.677318
+
+- location: Qstar Gunnarn
+  city: Gunnarn
+  urn: urn:qstar:station:id:412
+  country: Sverige
+  latitude: 65.006411
+  longitude: 17.677926
+
+- location: Pump Ekerö
+  city: Ekerö
+  urn: urn:qstar:station:id:8507
+  country: Sverige
+  latitude: 59.287424
+  longitude: 17.715246
+
+- location: Qstar Vassunda/Knivsta
+  city: Knivsta
+  urn: urn:qstar:station:id:91
+  country: Sverige
+  latitude: 59.694857
+  longitude: 17.736858
+
+- location: Qstar Skyttorp
+  city: Skyttorp
+  urn: urn:qstar:station:id:120
+  country: Sverige
+  latitude: 60.073577
+  longitude: 17.758026
+
+- location: Qstar Kramfors
+  city: Kramfors
+  urn: urn:qstar:station:id:430
+  country: Sverige
+  latitude: 62.934723
+  longitude: 17.770403
+
+- location: Qstar Knivsta
+  city: Knivsta
+  urn: urn:qstar:station:id:117
+  country: Sverige
+  latitude: 59.722584
+  longitude: 17.783555
+
+- location: Qstar Järfälla
+  city: Järfälla
+  urn: urn:qstar:station:id:367
+  country: Sverige
+  latitude: 59.461809
+  longitude: 17.823208
+
+- location: Qstar Rasbo
+  city: Rasbo
+  urn: urn:qstar:station:id:307
+  country: Sverige
+  latitude: 59.949729
+  longitude: 17.830277
+
+- location: Qstar Lunde
+  city: Lunde
+  urn: urn:qstar:station:id:406
+  country: Sverige
+  latitude: 62.875447
+  longitude: 17.858944
+
+- location: Qstar Länna
+  city: Länna
+  urn: urn:qstar:station:id:18
+  country: Sverige
+  latitude: 59.877217
+  longitude: 17.96474
+
+- location: Qstar Lycksele Kattisavan
+  city: Lycksele
+  urn: urn:qstar:station:id:6533
+  country: Sverige
+  latitude: 64.758234
+  longitude: 18.165765
+
+- location: Qstar Brottby
+  city: Brottby
+  urn: urn:qstar:station:id:36
+  country: Sverige
+  latitude: 59.561499
+  longitude: 18.238731
+
+- location: Bilisten Brottby
+  city: Brottby
+  urn: urn:qstar:station:id:6013
+  country: Sverige
+  latitude: 59.562651
+  longitude: 18.240744
+
+- location: Qstar Knutby
+  city: Knutby
+  urn: urn:qstar:station:id:448
+  country: Sverige
+  latitude: 59.90958
+  longitude: 18.265156
+
+- location: Qstar Själevad
+  city: Själevad
+  urn: urn:qstar:station:id:351
+  country: Sverige
+  latitude: 63.295514
+  longitude: 18.623364
+
+- location: Qstar Grisslehamn
+  city: Grisslehamn
+  urn: urn:qstar:station:id:303
+  country: Sverige
+  latitude: 60.095854
+  longitude: 18.805324
+
+- location: Bilisten Abisko
+  city: Abisko
+  urn: urn:qstar:station:id:6001
+  country: Sverige
+  latitude: 68.350387
+  longitude: 18.832006
+
+- location: Qstar Gräddö
+  city: Gräddö
+  urn: urn:qstar:station:id:339
+  country: Sverige
+  latitude: 59.761963
+  longitude: 19.036943
+
+- location: Bilisten Balsjö/Bjurholm
+  city: Bjurholm
+  urn: urn:qstar:station:id:6005
+  country: Sverige
+  latitude: 63.925507
+  longitude: 19.056839
+
+- location: Qstar Husum
+  city: Husum
+  urn: urn:qstar:station:id:140
+  country: Sverige
+  latitude: 63.34902
+  longitude: 19.14884
+
+- location: Qstar Arvidsjaur
+  city: Arvidsjaur
+  urn: urn:qstar:station:id:365
+  country: Sverige
+  latitude: 65.579039
+  longitude: 19.203772
+
+- location: Qstar Åmsele
+  city: Åmsele
+  urn: urn:qstar:station:id:453
+  country: Sverige
+  latitude: 64.533485
+  longitude: 19.346272
+
+- location: Qstar Granö
+  city: Granö
+  urn: urn:qstar:station:id:475
+  country: Sverige
+  latitude: 64.216495
+  longitude: 19.388499
+
+- location: Qstar Vindeln
+  city: Vindeln
+  urn: urn:qstar:station:id:6564
+  country: Sverige
+  latitude: 64.200606
+  longitude: 19.714442
+
+- location: Qstar Rödåsel/Tavelsjö
+  city: Tavelsjö
+  urn: urn:qstar:station:id:6556
+  country: Sverige
+  latitude: 64.088351
+  longitude: 19.953794
+
+- location: Qstar Kåbdalis
+  city: Kåbdalis
+  urn: urn:qstar:station:id:479
+  country: Sverige
+  latitude: 66.146229
+  longitude: 19.989492
+
+- location: Qstar Kiruna
+  city: Kiruna
+  urn: urn:qstar:station:id:6527
+  country: Sverige
+  latitude: 67.852773
+  longitude: 20.236816
+
+- location: Qstar Bygdeå
+  city: Bygdeå
+  urn: urn:qstar:station:id:6509
+  country: Sverige
+  latitude: 64.060514
+  longitude: 20.848584
+
+- location: Bilisten Nattavaaraby
+  city: Nattavaara
+  urn: urn:qstar:station:id:6076
+  country: Sverige
+  latitude: 66.756162
+  longitude: 20.951851
+
+- location: Qstar Skellefteå
+  city: Skellefteå
+  urn: urn:qstar:station:id:445
+  country: Sverige
+  latitude: 64.745641
+  longitude: 21.031874
+
+- location: Qstar Svappavaara
+  city: Svappavaara
+  urn: urn:qstar:station:id:6544
+  country: Sverige
+  latitude: 67.645333
+  longitude: 21.057153
+
+- location: Bilisten Lillpite
+  city: Lillpite
+  urn: urn:qstar:station:id:6141
+  country: Sverige
+  latitude: 65.373618
+  longitude: 21.156128
+
+- location: Qstar Skelleftehamn
+  city: Skelleftehamn
+  urn: urn:qstar:station:id:435
+  country: Sverige
+  latitude: 64.686225
+  longitude: 21.236957
+
+- location: Qstar Piteå
+  city: Piteå
+  urn: urn:qstar:station:id:6538
+  country: Sverige
+  latitude: 65.324636
+  longitude: 21.448358
+
+- location: Qstar Boden
+  city: Boden
+  urn: urn:qstar:station:id:6506
+  country: Sverige
+  latitude: 65.80658
+  longitude: 21.717801
+
+- location: Qstar Unbyn
+  city: Boden
+  urn: urn:qstar:station:id:420
+  country: Sverige
+  latitude: 65.713292
+  longitude: 21.760396
+
+- location: Qstar Gunnarsbyn
+  city: Gunnarsbyn
+  urn: urn:qstar:station:id:6518
+  country: Sverige
+  latitude: 66.084572
+  longitude: 21.804289
+
+- location: Qstar Lansjärv
+  city: Lansjärv
+  urn: urn:qstar:station:id:354
+  country: Sverige
+  latitude: 66.651498
+  longitude: 22.182641
+
+- location: Qstar Överkalix
+  city: Överkalix
+  urn: urn:qstar:station:id:6554
+  country: Sverige
+  latitude: 66.328866
+  longitude: 22.841378
+
+- location: Qstar Korpilombolo
+  city: Korpilombolo
+  urn: urn:qstar:station:id:389
+  country: Sverige
+  latitude: 66.848481
+  longitude: 23.062471
+
+- location: Qstar Pello
+  city: Pello
+  urn: urn:qstar:station:id:441
+  country: Sverige
+  latitude: 66.802215
+  longitude: 23.976452

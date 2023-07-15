@@ -140,9 +140,11 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
 | [Green Petroleum](https://sv.wikipedia.org/wiki/Green_Petroleum)                         |         22 |
+| [Gulf Sverige](https://sv.wikipedia.org/wiki/Gulf_(varum%C3%A4rke))                      |         73 |
 | [Ingo](https://sv.wikipedia.org/wiki/Ingo)                                               |        291 |
 | [OKQ8](https://sv.wikipedia.org/wiki/OKQ8)                                               |        803 |
 | [Preem](https://sv.wikipedia.org/wiki/Preem)                                             |        750 |
+| [QStar](https://sv.wikipedia.org/wiki/Qstar)                                             |        334 |
 | [Shell Finland](https://fi.wikipedia.org/wiki/Shell)                                     |        197 |
 | [Shell Norge](https://no.wikipedia.org/wiki/Shell)                                       |        295 |
 | [Shell Sverige](https://sv.wikipedia.org/wiki/Shell)                                     |        277 |

@@ -1,0 +1,518 @@
+meta:
+  name: Gulf Sverige
+  web: https://gulfsverige.com/
+  wikipedia: https://sv.wikipedia.org/wiki/Gulf_(varum%C3%A4rke)
+  category: Drivmedel
+  locations: 73
+
+locations:
+- location: GULF Grebbestad
+  city: Grebbestad
+  urn: urn:gulf:station:id:102
+  country: Sverige
+  latitude: 58.697979
+  longitude: 11.254253
+
+- location: GULF Hunnebostrand
+  city: Hunnebostrand
+  urn: urn:gulf:station:id:79
+  country: Sverige
+  latitude: 58.438168
+  longitude: 11.302388
+
+- location: GULF Hällevadsholm
+  city: Hällevadsholm
+  urn: urn:gulf:station:id:113
+  country: Sverige
+  latitude: 58.576988
+  longitude: 11.547877
+
+- location: GULF Marstrand
+  city: Marstrand
+  urn: urn:gulf:station:id:89
+  country: Sverige
+  latitude: 57.887745
+  longitude: 11.601582
+
+- location: GULF Bohus Björkö
+  city: Bohus Björkö
+  urn: urn:gulf:station:id:101
+  country: Sverige
+  latitude: 57.734074
+  longitude: 11.671878
+
+- location: GULF Kärna
+  city: Kärna
+  urn: urn:gulf:station:id:100
+  country: Sverige
+  latitude: 57.843578
+  longitude: 11.791167
+
+- location: GULF Töcksfors
+  city: Töcksfors
+  urn: urn:gulf:station:id:125
+  country: Sverige
+  latitude: 59.50795
+  longitude: 11.84363
+
+- location: GULF Nol
+  city: Nol
+  urn: urn:gulf:station:id:105
+  country: Sverige
+  latitude: 57.921879
+  longitude: 12.066734
+
+- location: GULF Gråbo
+  city: Gråbo
+  urn: urn:gulf:station:id:140
+  country: Sverige
+  latitude: 57.840775
+  longitude: 12.286098
+
+- location: GULF Bollebygd
+  city: Bollebygd
+  urn: urn:gulf:station:id:122
+  country: Sverige
+  latitude: 57.671715
+  longitude: 12.558546
+
+- location: GULF Skene
+  city: Skene
+  urn: urn:gulf:station:id:146
+  country: Sverige
+  latitude: 57.493557
+  longitude: 12.657356
+
+- location: GULF Grästorp
+  city: Grästorp
+  urn: urn:gulf:station:id:80
+  country: Sverige
+  latitude: 58.338474
+  longitude: 12.685712
+
+- location: GULF Idre
+  city: Idre
+  urn: urn:gulf:station:id:116
+  country: Sverige
+  latitude: 61.858204
+  longitude: 12.72345
+
+- location: GULF Nossebro
+  city: Nossebro
+  urn: urn:gulf:station:id:103
+  country: Sverige
+  latitude: 58.123341
+  longitude: 12.777771
+
+- location: GULF Rydebäck
+  city: Rydebäck
+  urn: urn:gulf:station:id:124
+  country: Sverige
+  latitude: 55.972454
+  longitude: 12.779068
+
+- location: Gulf Båstad
+  city: Båstad
+  urn: urn:gulf:station:id:130
+  country: Sverige
+  latitude: 56.426315
+  longitude: 12.937493
+
+- location: GULF Säffle
+  city: Säffle
+  urn: urn:gulf:station:id:99
+  country: Sverige
+  latitude: 59.138874
+  longitude: 12.942864
+
+- location: GULF Gånghester
+  city: Gånghester
+  urn: urn:gulf:station:id:145
+  country: Sverige
+  latitude: 57.697964
+  longitude: 13.022889
+
+- location: GULF Dösjebro
+  city: Dösjebro
+  urn: urn:gulf:station:id:77
+  country: Sverige
+  latitude: 55.820332
+  longitude: 13.024542
+
+- location: GULF Staffanstorp
+  city: Staffanstorp
+  urn: urn:gulf:station:id:148
+  country: Sverige
+  latitude: 55.640499
+  longitude: 13.194416
+
+- location: GULF Karlstad
+  city: Karlstad
+  urn: urn:gulf:station:id:158
+  country: Sverige
+  latitude: 59.433907
+  longitude: 13.442432
+
+- location: GULF Blidsberg
+  city: Blidsberg
+  urn: urn:gulf:station:id:83
+  country: Sverige
+  latitude: 57.92963
+  longitude: 13.49376
+
+- location: GULF Timmersdala
+  city: Timmersdala
+  urn: urn:gulf:station:id:97
+  country: Sverige
+  latitude: 58.530197
+  longitude: 13.76001
+
+- location: GULF Önnestad
+  city: Önnestad
+  urn: urn:gulf:station:id:120
+  country: Sverige
+  latitude: 56.057587
+  longitude: 14.023067
+
+- location: GULF Nås
+  city: Nås
+  urn: urn:gulf:station:id:114
+  country: Sverige
+  latitude: 60.452965
+  longitude: 14.500428
+
+- location: GULF Olofström
+  city: Olofström
+  urn: urn:gulf:station:id:112
+  country: Sverige
+  latitude: 56.276966
+  longitude: 14.537673
+
+- location: GULF Sävsjö
+  city: Sävsjö
+  urn: urn:gulf:station:id:111
+  country: Sverige
+  latitude: 57.396198
+  longitude: 14.678073
+
+- location: GULF Svängsta
+  city: Svängsta
+  urn: urn:gulf:station:id:94
+  country: Sverige
+  latitude: 56.252422
+  longitude: 14.782058
+
+- location: GULF Brunflo
+  city: Brunflo
+  urn: urn:gulf:station:id:118
+  country: Sverige
+  latitude: 63.074661
+  longitude: 14.837636
+
+- location: GULF Eksjö
+  city: Eksjö
+  urn: urn:gulf:station:id:138
+  country: Sverige
+  latitude: 57.672928
+  longitude: 14.967457
+
+- location: GULF Mantorp
+  city: Mantorp
+  urn: urn:gulf:station:id:107
+  country: Sverige
+  latitude: 58.350986
+  longitude: 15.284192
+
+- location: GULF Virserum
+  city: Virserum
+  urn: urn:gulf:station:id:104
+  country: Sverige
+  latitude: 57.321056
+  longitude: 15.581552
+
+- location: GULF Linköping
+  city: Linköping
+  urn: urn:gulf:station:id:129
+  country: Sverige
+  latitude: 58.427197
+  longitude: 15.59199
+
+- location: GULF Ånge
+  city: Ånge
+  urn: urn:gulf:station:id:139
+  country: Sverige
+  latitude: 62.523903
+  longitude: 15.669036
+
+- location: GULF Enviken
+  city: Enviken
+  urn: urn:gulf:station:id:127
+  country: Sverige
+  latitude: 60.808365
+  longitude: 15.757288
+
+- location: GULF Nybro
+  city: Nybro
+  urn: urn:gulf:station:id:115
+  country: Sverige
+  latitude: 56.737438
+  longitude: 15.930592
+
+- location: Gulf Norrköping
+  city: Norrköping
+  urn: urn:gulf:station:id:131
+  country: Sverige
+  latitude: 58.649235
+  longitude: 16.172014
+
+- location: GULF Fränsta
+  city: Fränsta
+  urn: urn:gulf:station:id:128
+  country: Sverige
+  latitude: 62.500439
+  longitude: 16.178286
+
+- location: GULF Torsåker
+  city: Torsåker
+  urn: urn:gulf:station:id:90
+  country: Sverige
+  latitude: 60.511562
+  longitude: 16.475761
+
+- location: GULF Västerås
+  city: Västerås
+  urn: urn:gulf:station:id:82
+  country: Sverige
+  latitude: 59.604923
+  longitude: 16.562107
+
+- location: GULF Årsunda
+  city: Årsunda
+  urn: urn:gulf:station:id:153
+  country: Sverige
+  latitude: 60.527561
+  longitude: 16.746832
+
+- location: GULF Morgongåva
+  city: Morgongåva
+  urn: urn:gulf:station:id:98
+  country: Sverige
+  latitude: 59.936459
+  longitude: 16.938263
+
+- location: Gulf Biskopskvarn
+  city: Strängnäs
+  urn: urn:gulf:station:id:133
+  country: Sverige
+  latitude: 59.328274
+  longitude: 17.019943
+
+- location: GULF Strängnäs
+  city: Strängnäs
+  urn: urn:gulf:station:id:95
+  country: Sverige
+  latitude: 59.484264
+  longitude: 17.042322
+
+- location: GULF Söderhamn
+  city: Söderhamn
+  urn: urn:gulf:station:id:144
+  country: Sverige
+  latitude: 61.305058
+  longitude: 17.065369
+
+- location: Gulf Östervåla
+  city: Östervåla
+  urn: urn:gulf:station:id:157
+  country: Sverige
+  latitude: 60.18689
+  longitude: 17.188353
+
+- location: GULF Gnesta
+  city: Gnesta
+  urn: urn:gulf:station:id:76
+  country: Sverige
+  latitude: 59.041161
+  longitude: 17.328007
+
+- location: GULF Sörberge
+  city: Sörberge
+  urn: urn:gulf:station:id:123
+  country: Sverige
+  latitude: 62.513477
+  longitude: 17.378376
+
+- location: GULF Viksjö
+  city: Viksjö
+  urn: urn:gulf:station:id:93
+  country: Sverige
+  latitude: 62.778839
+  longitude: 17.421511
+
+- location: GULF Tierp
+  city: Tierp
+  urn: urn:gulf:station:id:84
+  country: Sverige
+  latitude: 60.349735
+  longitude: 17.488338
+
+- location: Gulf Trosa
+  city: Trosa
+  urn: urn:gulf:station:id:136
+  country: Sverige
+  latitude: 58.890808
+  longitude: 17.552822
+
+- location: GULF Södertälje
+  city: Södertälje
+  urn: urn:gulf:station:id:121
+  country: Sverige
+  latitude: 59.20607
+  longitude: 17.599125
+
+- location: GULF Södertälje
+  city: Södertälje
+  urn: urn:gulf:station:id:143
+  country: Sverige
+  latitude: 59.195465
+  longitude: 17.600159
+
+- location: GULF Sorunda
+  city: Sorunda
+  urn: urn:gulf:station:id:87
+  country: Sverige
+  latitude: 59.011795
+  longitude: 17.819355
+
+- location: GULF Härnösand
+  city: Härnösand
+  urn: urn:gulf:station:id:147
+  country: Sverige
+  latitude: 62.6259
+  longitude: 17.927458
+
+- location: GULF Tungelsta
+  city: Tungelsta
+  urn: urn:gulf:station:id:91
+  country: Sverige
+  latitude: 59.105686
+  longitude: 18.041452
+
+- location: GULF Djursholm
+  city: Djursholm
+  urn: urn:gulf:station:id:151
+  country: Sverige
+  latitude: 59.39061
+  longitude: 18.089302
+
+- location: GULF Burgsvik
+  city: Burgsvik
+  urn: urn:gulf:station:id:117
+  country: Sverige
+  latitude: 57.031925
+  longitude: 18.277386
+
+- location: GULF Vaxholm
+  city: Vaxholm
+  urn: urn:gulf:station:id:96
+  country: Sverige
+  latitude: 59.403622
+  longitude: 18.355316
+
+- location: GULF Ornö
+  city: Ornö
+  urn: urn:gulf:station:id:78
+  country: Sverige
+  latitude: 59.058159
+  longitude: 18.400555
+
+- location: GULF Hallstavik
+  city: Hallstavik
+  urn: urn:gulf:station:id:110
+  country: Sverige
+  latitude: 60.0387
+  longitude: 18.559072
+
+- location: GULF Domsjö
+  city: Domsjö
+  urn: urn:gulf:station:id:132
+  country: Sverige
+  latitude: 63.267872
+  longitude: 18.689358
+
+- location: GULF Fårö
+  city: Fårö
+  urn: urn:gulf:station:id:86
+  country: Sverige
+  latitude: 57.872059
+  longitude: 19.09343
+
+- location: GULF Vännäs
+  city: Vännäs
+  urn: urn:gulf:station:id:142
+  country: Sverige
+  latitude: 63.902382
+  longitude: 19.752466
+
+- location: Gulf Umeå
+  city: Umeå
+  urn: urn:gulf:station:id:137
+  country: Sverige
+  latitude: 63.789062
+  longitude: 20.309214
+
+- location: GULF Bullmark
+  city: Bullmark
+  urn: urn:gulf:station:id:88
+  country: Sverige
+  latitude: 64.028381
+  longitude: 20.488834
+
+- location: GULF Vidsel
+  city: Vidsel
+  urn: urn:gulf:station:id:92
+  country: Sverige
+  latitude: 65.835152
+  longitude: 20.511503
+
+- location: GULF Vistträsk
+  city: Vistträsk
+  urn: urn:gulf:station:id:150
+  country: Sverige
+  latitude: 65.693398
+  longitude: 20.655096
+
+- location: GULF Harads
+  city: Harads
+  urn: urn:gulf:station:id:109
+  country: Sverige
+  latitude: 66.085129
+  longitude: 20.952484
+
+- location: GULF Älvsbyn
+  city: Älvsbyn
+  urn: urn:gulf:station:id:108
+  country: Sverige
+  latitude: 65.671898
+  longitude: 21.005404
+
+- location: Gulf Gräsmyr
+  city: Gräsmyr
+  urn: urn:gulf:station:id:134
+  country: Sverige
+  latitude: 64.972801
+  longitude: 21.119169
+
+- location: GULF Luleå
+  city: Luleå
+  urn: urn:gulf:station:id:81
+  country: Sverige
+  latitude: 65.564499
+  longitude: 21.912683
+
+- location: Gulf Karesuando
+  city: Karesuando
+  urn: urn:gulf:station:id:135
+  country: Sverige
+  latitude: 68.436989
+  longitude: 22.499687
