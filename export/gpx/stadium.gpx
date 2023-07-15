@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://github.com/cisene/se-poi -->
+<gpx creator="se-poi" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+  <metadata>
+    <name><![CDATA[Stadium]]></name>
+    <desc><![CDATA[Koordinater - Stadium]]></desc>
+    <link href="https://www.stadium.se/">
+      <text><![CDATA[Stadium]]></text>
+       <type>text/html</type>
+    </link>
+   <time>2023-07-15T16:21:24+02:00</time>
+  </metadata>
+  <bounds minlat="55.55115" minlon="11.80673" maxlat="65.58501" maxlon="22.15459" />
+  <wpt lat="58.35296" lon="11.80673"><name><![CDATA[Stadium Uddevalla, Torp Köpcenter 6, Uddevalla]]></name></wpt>
+  <wpt lat="57.6524" lon="11.91158"><name><![CDATA[Stadium Frölunda, Frölunda Torg -, Västra Frölunda]]></name></wpt>
+  <wpt lat="57.64067" lon="11.94939"><name><![CDATA[Stadium Sisjön, Hantverksvägen 15, Askim]]></name></wpt>
+  <wpt lat="57.721247" lon="11.952577"><name><![CDATA[Stadium Backaplan, Motorgatann 2, Göteborg]]></name></wpt>
+  <wpt lat="57.7102" lon="11.966"><name><![CDATA[Stadium Run Nordstan, Köpmansgatan 28-34, Göteborg]]></name></wpt>
+  <wpt lat="57.70771" lon="11.96952"><name><![CDATA[Stadium Nordstan, Götagatan 14-16, Göteborg]]></name></wpt>
+  <wpt lat="57.70592" lon="11.97049"><name><![CDATA[Stadium Fredsgatan, Fredsgatan 8, Göteborg]]></name></wpt>
+  <wpt lat="57.49272" lon="12.07462"><name><![CDATA[Stadium Kungsmässan, Borgmästaregatan 5, Kungsbacka]]></name></wpt>
+  <wpt lat="57.73666" lon="12.105011"><name><![CDATA[Stadium Partille, Nils Henrikssons väg 3, Partille]]></name></wpt>
+  <wpt lat="58.31204" lon="12.30658"><name><![CDATA[Stadium Trollhättan, Ladugårdsvägen 12, Trollhättan]]></name></wpt>
+  <wpt lat="56.09365" lon="12.75904"><name><![CDATA[Stadium Väla, Marknadsvägen 1, Ödåkra]]></name></wpt>
+  <wpt lat="56.655329" lon="12.909162"><name><![CDATA[Stadium Hallarna, Prästvägen 1, Halmstad]]></name></wpt>
+  <wpt lat="57.73326" lon="12.94019"><name><![CDATA[Stadium Borås, Bergslenegatan 8, Borås]]></name></wpt>
+  <wpt lat="61.17994" lon="12.96348"><name><![CDATA[Stadium Ski Hundfjället, Kronotorpsvägen 2, Sälen]]></name></wpt>
+  <wpt lat="55.56415" lon="12.97559"><name><![CDATA[Stadium Emporia, Hyllie Boulevard 19, Malmö]]></name></wpt>
+  <wpt lat="55.55115" lon="12.987"><name><![CDATA[Stadium Svågertorp, Drakagatan 8, Malmö]]></name></wpt>
+  <wpt lat="55.76955" lon="12.99052"><name><![CDATA[Stadium Center Syd, Marknadsvägen 7, Löddeköpinge]]></name></wpt>
+  <wpt lat="55.595968" lon="13.000231"><name><![CDATA[Stadium Triangeln, Södra Förstadsgatan 41, Malmö]]></name></wpt>
+  <wpt lat="55.60441" lon="13.00135"><name><![CDATA[Stadium Södergatan, Södergatan 22, Malmö]]></name></wpt>
+  <wpt lat="55.580139" lon="13.004243"><name><![CDATA[Stadium Mobilia, Mobilia köpcenter -, Malmö]]></name></wpt>
+  <wpt lat="63.40124" lon="13.07665"><name><![CDATA[Stadium Ski Åre, Åre Torg 78, Åre]]></name></wpt>
+  <wpt lat="58.50273" lon="13.15518"><name><![CDATA[Stadium Lidköping, Mellbygatan 8, Lidköping]]></name></wpt>
+  <wpt lat="55.71394" lon="13.15996"><name><![CDATA[Stadium Nova Lund, Företagsvägen 10, Lund]]></name></wpt>
+  <wpt lat="61.16412" lon="13.19398"><name><![CDATA[Stadium Ski Lindvallen, Snöcentret Lindvallen -, Sälen]]></name></wpt>
+  <wpt lat="55.70286" lon="13.194599"><name><![CDATA[Stadium Lund City, Skomakargatan 11, Lund]]></name></wpt>
+  <wpt lat="59.37209" lon="13.42596"><name><![CDATA[Stadium Bergvik, Frykmans Väg 1, Karlstad]]></name></wpt>
+  <wpt lat="59.38361" lon="13.50288"><name><![CDATA[Stadium Karlstad City, Drottninggatan 11 14, Karlstad]]></name></wpt>
+  <wpt lat="58.38963" lon="13.8456"><name><![CDATA[Stadium Skövde City, Hertig Johans torg 4, Skövde]]></name></wpt>
+  <wpt lat="58.40552" lon="13.85452"><name><![CDATA[Stadium Elins Esplanad, Köpmannagatan 3, Skövde]]></name></wpt>
+  <wpt lat="57.17924" lon="14.0589"><name><![CDATA[Stadium Värnamo, Kärnan Köpcenter, Malmövägen 12, Värnamo]]></name></wpt>
+  <wpt lat="56.03103" lon="14.15803"><name><![CDATA[Stadium Kristianstad, Östra Boulevarden 5, Kristianstad]]></name></wpt>
+  <wpt lat="56.023064" lon="14.194973"><name><![CDATA[Stadium C4 Kristianstad, C4 Shopping, Fundationsvägen 17, Kristianstad]]></name></wpt>
+  <wpt lat="57.773762" lon="14.203621"><name><![CDATA[Stadium Asecs, Kompanigatan 50, Jönköping]]></name></wpt>
+  <wpt lat="63.17561" lon="14.63746"><name><![CDATA[Stadium Östersund, Prästgatan 47, Östersund]]></name></wpt>
+  <wpt lat="56.88323" lon="14.77617"><name><![CDATA[Stadium Samarkand, Hejaregatan 32, Växjö]]></name></wpt>
+  <wpt lat="56.87852" lon="14.80819"><name><![CDATA[Stadium Växjö City, Storgatan 5, Växjö]]></name></wpt>
+  <wpt lat="59.216475" lon="15.135677"><name><![CDATA[Stadium Marieberg, Säljarvägen 10, Örebro]]></name></wpt>
+  <wpt lat="59.269179" lon="15.207477"><name><![CDATA[Stadium Örebro City, Drottninggatan 27, Örebro]]></name></wpt>
+  <wpt lat="60.48417" lon="15.41798"><name><![CDATA[Stadium Borlänge, Kupolen 79, Borlänge]]></name></wpt>
+  <wpt lat="56.162539" lon="15.585444"><name><![CDATA[Stadium Karlskrona, Ronnebygatan 46, Karlskrona]]></name></wpt>
+  <wpt lat="58.43313" lon="15.59064"><name><![CDATA[Stadium Tornby, Västra Svedengatan 16, Linköping]]></name></wpt>
+  <wpt lat="58.410182" lon="15.627199"><name><![CDATA[Stadium Linköping City, Nygatan 20, Linköping]]></name></wpt>
+  <wpt lat="60.60545" lon="15.63303"><name><![CDATA[Stadium Falun, Holmgatan 20, Falun]]></name></wpt>
+  <wpt lat="58.618741" lon="16.154502"><name><![CDATA[Stadium Ingelsta, Koppargatan 20, Norrköping]]></name></wpt>
+  <wpt lat="58.587373" lon="16.188138"><name><![CDATA[Stadium Norrköping City, Drottninggatan 29, Norrköping]]></name></wpt>
+  <wpt lat="56.68261" lon="16.31744"><name><![CDATA[Stadium Hansa City, Bilbyggarvägen 1, Kalmar]]></name></wpt>
+  <wpt lat="56.67" lon="16.34"><name><![CDATA[Stadium Giraffen, Verkstadsgatan 6, Kalmar]]></name></wpt>
+  <wpt lat="59.60992" lon="16.45343"><name><![CDATA[Stadium Erikslund, Krankroksgatan 19, Västerås]]></name></wpt>
+  <wpt lat="59.37135" lon="16.47011"><name><![CDATA[Stadium Tuna Park, Gunborg Nymansväg 2, Eskilstuna]]></name></wpt>
+  <wpt lat="59.61" lon="16.5465"><name><![CDATA[Stadium Västerås City, Vasagatan 10-12, Västerås]]></name></wpt>
+  <wpt lat="60.633612" lon="16.99573"><name><![CDATA[Stadium Valbo, Valbo Köpcentrum 0, Valbo]]></name></wpt>
+  <wpt lat="60.65676" lon="17.14266"><name><![CDATA[Stadium Gävle City, Drottninggatan 16, Gävle]]></name></wpt>
+  <wpt lat="62.39161" lon="17.308"><name><![CDATA[Stadium Sundsvall City, Centralgatan 4, Sundsvall]]></name></wpt>
+  <wpt lat="62.44" lon="17.33"><name><![CDATA[Stadium Birsta, Gesällvägen 7 C, Sundsvall]]></name></wpt>
+  <wpt lat="59.85837" lon="17.64172"><name><![CDATA[Stadium Uppsala City, Kungsängsgatan 2-4, Uppsala]]></name></wpt>
+  <wpt lat="59.88142" lon="17.67262"><name><![CDATA[Stadium Gränby, Gränby Centrum, Marknadsgatan 1, Uppsala]]></name></wpt>
+  <wpt lat="59.84709" lon="17.691247"><name><![CDATA[Stadium Boländerna+, Rapsgatan 5 D, Uppsala]]></name></wpt>
+  <wpt lat="59.4197" lon="17.85853"><name><![CDATA[Stadium Barkarby+, Flyginfarten 7, Järfälla]]></name></wpt>
+  <wpt lat="59.36166" lon="17.87554"><name><![CDATA[Stadium Vällingby, Årevägen 59, Vällingby]]></name></wpt>
+  <wpt lat="59.275" lon="17.90715"><name><![CDATA[Stadium Skärholmen, Byholmsgången 1-3, Skärholmen]]></name></wpt>
+  <wpt lat="59.51867" lon="17.90992"><name><![CDATA[Stadium Väsby, Dragonvägen 86, Upplands Väsby]]></name></wpt>
+  <wpt lat="59.2701" lon="17.91743"><name><![CDATA[Stadium Kungens Kurva+, Modulvägen 6, Kungens Kurva]]></name></wpt>
+  <wpt lat="59.403008" lon="17.942658"><name><![CDATA[Stadium Kista, Danmarksgatan 42, Kista]]></name></wpt>
+  <wpt lat="59.356643" lon="17.94944"><name><![CDATA[Stadium Bromma, Ulvsundavägen 191 F, Bromma]]></name></wpt>
+  <wpt lat="59.428242" lon="17.951336"><name><![CDATA[Stadium Sollentuna, Sollentunavägen 163, Sollentuna]]></name></wpt>
+  <wpt lat="59.35958" lon="18.00108"><name><![CDATA[Stadium Solna, Centrumslingan 14A, Solna]]></name></wpt>
+  <wpt lat="59.370669" lon="18.001599"><name><![CDATA[Stadium Mall of Scandinavia, Evenemangsgatan 14C, Solna]]></name></wpt>
+  <wpt lat="59.3333" lon="18.06186"><name><![CDATA[Stadium Drottninggatan, Drottninggatan 53, Stockholm]]></name></wpt>
+  <wpt lat="59.335512" lon="18.069133"><name><![CDATA[Stadium Run Kungsgatan, Kungsgatan 8, Stockholm]]></name></wpt>
+  <wpt lat="59.33" lon="18.07"><name><![CDATA[Stadium Gallerian, Hamngatan 37, Stockholm]]></name></wpt>
+  <wpt lat="59.30899" lon="18.0756"><name><![CDATA[Stadium Ringen, Götgatan 98, Stockholm]]></name></wpt>
+  <wpt lat="59.44763" lon="18.07869"><name><![CDATA[Stadium Täby, Östantorget 151 B, Täby]]></name></wpt>
+  <wpt lat="59.293644" lon="18.081281"><name><![CDATA[Stadium Globen, Arenatorget 6, Johanneshov]]></name></wpt>
+  <wpt lat="59.24244" lon="18.09165"><name><![CDATA[Stadium Farsta, Farsta Torg 23, Farsta]]></name></wpt>
+  <wpt lat="59.30597" lon="18.12736"><name><![CDATA[Stadium Sickla, Simbagatan 10, Nacka]]></name></wpt>
+  <wpt lat="59.16966" lon="18.13942"><name><![CDATA[Stadium Haninge, Stores Gränd 8, Haninge]]></name></wpt>
+  <wpt lat="59.309739" lon="18.163652"><name><![CDATA[Stadium Nacka Forum, Vikdalsvägen 6, Nacka]]></name></wpt>
+  <wpt lat="57.63756" lon="18.30126"><name><![CDATA[Stadium Visby, Österväg 9, Visby]]></name></wpt>
+  <wpt lat="63.29118" lon="18.71497"><name><![CDATA[Stadium Örnsköldsvik, Storgatan 15, Örnsköldsvik]]></name></wpt>
+  <wpt lat="63.806555" lon="20.25159"><name><![CDATA[Stadium Umeå Syd, Marknadsgatan 7, Umeå]]></name></wpt>
+  <wpt lat="63.82539" lon="20.2663"><name><![CDATA[Stadium Umeå City, Kungsgatan 69, Umeå]]></name></wpt>
+  <wpt lat="64.75044" lon="20.95452"><name><![CDATA[Stadium Skellefteå, Nygatan 50, Skellefteå]]></name></wpt>
+  <wpt lat="65.58501" lon="22.15459"><name><![CDATA[Stadium Luleå, Timmermansgatan 19, Luleå]]></name></wpt>
+</gpx>

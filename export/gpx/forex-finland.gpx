@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://github.com/cisene/se-poi -->
+<gpx creator="se-poi" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+  <metadata>
+    <name><![CDATA[Forex Finland]]></name>
+    <desc><![CDATA[Koordinater - Forex Finland]]></desc>
+    <link href="https://www.forex.fi/">
+      <text><![CDATA[Forex Finland]]></text>
+       <type>text/html</type>
+    </link>
+   <time>2023-07-15T16:21:17+02:00</time>
+  </metadata>
+  <bounds minlat="60.17089" minlon="22.26595" maxlat="61.49868" maxlon="24.971" />
+  <wpt lat="60.45057" lon="22.26595"><name><![CDATA[Forex Turku, Turku]]></name></wpt>
+  <wpt lat="61.49868" lon="23.77053"><name><![CDATA[Forex Tampere, Tampere]]></name></wpt>
+  <wpt lat="60.17089" lon="24.94195"><name><![CDATA[Forex Helsinki, Helsinki]]></name></wpt>
+  <wpt lat="60.31562" lon="24.96"><name><![CDATA[Forex Helsinki-Vantaa Airport, Helsinki-Vantaa Airport]]></name></wpt>
+  <wpt lat="60.31562" lon="24.96222"><name><![CDATA[Forex Helsinki-Vantaa Airport, Helsinki-Vantaa Airport]]></name></wpt>
+  <wpt lat="60.31673" lon="24.96271"><name><![CDATA[Forex Helsinki-Vantaa Airport, Helsinki-Vantaa Airport]]></name></wpt>
+  <wpt lat="60.2923" lon="24.96288"><name><![CDATA[Forex Vantaa, Vantaa]]></name></wpt>
+  <wpt lat="60.31808" lon="24.96573"><name><![CDATA[Forex Helsinki-Vantaa Airport, Helsinki-Vantaa Airport]]></name></wpt>
+  <wpt lat="60.31778" lon="24.96636"><name><![CDATA[Forex Helsinki-Vantaa Airport, Helsinki-Vantaa Airport]]></name></wpt>
+  <wpt lat="60.31842" lon="24.96715"><name><![CDATA[Forex Helsinki-Vantaa Airport, Helsinki-Vantaa Airport]]></name></wpt>
+  <wpt lat="60.31828" lon="24.96742"><name><![CDATA[Forex Helsinki-Vantaa Airport, Helsinki-Vantaa Airport]]></name></wpt>
+  <wpt lat="60.31769" lon="24.96802"><name><![CDATA[Forex Helsinki-Vantaa Airport, Helsinki-Vantaa Airport]]></name></wpt>
+  <wpt lat="60.31672" lon="24.971"><name><![CDATA[Forex Helsinki-Vantaa Airport, Helsinki-Vantaa Airport]]></name></wpt>
+</gpx>

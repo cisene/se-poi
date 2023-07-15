@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>O'Learys</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>O'Learys</name>
+      <Placemark>
+        <name>O'Learys Uddevalla</name>
+        <description>O'Learys Uddevalla, Uddevalla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.933187,58.349563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Göteborg Järntorget</name>
+        <description>O'Learys Göteborg Järntorget, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.952938,57.699562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Kongahälla</name>
+        <description>O'Learys Kongahälla, Kungälv, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.968813,57.872563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Göteborg Central</name>
+        <description>O'Learys Göteborg Central, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.973562,57.708562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Kungsbacka</name>
+        <description>O'Learys Kungsbacka, Kungsbacka, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.072688,57.493063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Mölnlycke</name>
+        <description>O'Learys Mölnlycke, Mölnlycke, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.126687,57.661062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Landvetter</name>
+        <description>O'Learys Landvetter, Landvetter, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.294062,57.668063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Arvika</name>
+        <description>O'Learys Arvika, Arvika, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.589063,59.655812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Helsingborg</name>
+        <description>O'Learys Helsingborg, Helsingborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.693062,56.047062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Halmstad</name>
+        <description>O'Learys Halmstad, Halmstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.858937,56.675187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Malmö Central</name>
+        <description>O'Learys Malmö Central, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.999516,55.608963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Malmö Entré</name>
+        <description>O'Learys Malmö Entré, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.025313,55.607437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Åre</name>
+        <description>O'Learys Åre, Åre, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.075312,63.397937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Lund</name>
+        <description>O'Learys Lund, Lund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.189563,55.704187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Sälen Lindvallen</name>
+        <description>O'Learys Sälen Lindvallen, Sälen, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.204313,61.156437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Karlstad</name>
+        <description>O'Learys Karlstad, Karlstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.504062,59.380187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Falköping</name>
+        <description>O'Learys Falköping, Falköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.553937,58.167812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Ystad Arena</name>
+        <description>O'Learys Ystad Arena, Ystad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.834312,55.433437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Värnamo</name>
+        <description>O'Learys Värnamo, Värnamo, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.039063,57.185688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Kristianstad</name>
+        <description>O'Learys Kristianstad, Kristianstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.155062,56.031063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Jönköping</name>
+        <description>O'Learys Jönköping, Jönköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.161687,57.783562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Karlskoga</name>
+        <description>O'Learys Karlskoga, Karlskoga, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.514812,59.326313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Mora</name>
+        <description>O'Learys Mora, Mora, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.537063,61.006687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Östersund</name>
+        <description>O'Learys Östersund, Östersund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.638687,63.175062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Nässjö</name>
+        <description>O'Learys Nässjö, Nässjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.697312,57.652687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Växjö</name>
+        <description>O'Learys Växjö, Växjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.807562,56.878812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Hemavan</name>
+        <description>O'Learys Hemavan, Hemavan, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.087563,65.811188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Örebro</name>
+        <description>O'Learys Örebro, Örebro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.212312,59.272937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Borlänge</name>
+        <description>O'Learys Borlänge, Borlänge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.435187,60.487562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Linköping</name>
+        <description>O'Learys Linköping, Linköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.621063,58.410812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Falun</name>
+        <description>O'Learys Falun, Falun, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.633563,60.605688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Köping</name>
+        <description>O'Learys Köping, Köping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.990687,59.511562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Norrköping</name>
+        <description>O'Learys Norrköping, Norrköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.188938,58.586813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Katrineholm</name>
+        <description>O'Learys Katrineholm, Katrineholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.208562,58.997187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Kalmar</name>
+        <description>O'Learys Kalmar, Kalmar, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.361187,56.662188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Eskilstuna</name>
+        <description>O'Learys Eskilstuna, Eskilstuna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.514938,59.371813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Västerås</name>
+        <description>O'Learys Västerås, Västerås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.543312,59.610687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Sandviken</name>
+        <description>O'Learys Sandviken, Sandviken, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.777437,60.621188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Hudiksvall</name>
+        <description>O'Learys Hudiksvall, Hudiksvall, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.110437,61.727563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Gävle</name>
+        <description>O'Learys Gävle, Gävle, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.140062,60.673562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Sundsvall</name>
+        <description>O'Learys Sundsvall, Sundsvall, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.303187,62.391687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Uppsala</name>
+        <description>O'Learys Uppsala, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.639437,59.859813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Uppsala Gränbystaden</name>
+        <description>O'Learys Uppsala Gränbystaden, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.674813,59.875563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Ekerö</name>
+        <description>O'Learys Ekerö, Ekerö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.847187,59.273438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Märsta</name>
+        <description>O'Learys Märsta, Märsta, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.852438,59.619813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Stockholm Vällingby</name>
+        <description>O'Learys Stockholm Vällingby, Stockholm Vällingby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.872438,59.362813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Stockholm Heron City</name>
+        <description>O'Learys Stockholm Heron City, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.911437,59.267063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Stockholm Kista</name>
+        <description>O'Learys Stockholm Kista, Kista, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.946438,59.402438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Sollentuna</name>
+        <description>O'Learys Sollentuna, Sollentuna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.951313,59.429313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Stockholm Mall of Scandinavia</name>
+        <description>O'Learys Stockholm Mall of Scandinavia, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.005313,59.369187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Stockholm Liljeholmstorget</name>
+        <description>O'Learys Stockholm Liljeholmstorget, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.023438,59.309812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Mörby</name>
+        <description>O'Learys Mörby, Klingsta, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.035438,59.396687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Stockholm Norrtull</name>
+        <description>O'Learys Stockholm Norrtull, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.048563,59.349937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Stockholm Central</name>
+        <description>O'Learys Stockholm Central, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.058937,59.329937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Stockholm Hötorget</name>
+        <description>O'Learys Stockholm Hötorget, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.062188,59.334812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Stockholm Tolv</name>
+        <description>O'Learys Stockholm Tolv, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.083188,59.291438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Stockholm Östermalm</name>
+        <description>O'Learys Stockholm Östermalm, Stockholm Östermalm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.085687,59.334688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Nacka Forum</name>
+        <description>O'Learys Nacka Forum, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.165813,59.309562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Lycksele</name>
+        <description>O'Learys Lycksele, Lycksele, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.689813,64.591313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Örnsköldsvik</name>
+        <description>O'Learys Örnsköldsvik, Örnsköldsvik, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.716062,63.288688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Umeå</name>
+        <description>O'Learys Umeå, Umeå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.265687,63.826187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Skellefteå</name>
+        <description>O'Learys Skellefteå, Skellefteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.949063,64.752437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Piteå</name>
+        <description>O'Learys Piteå, Piteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.477688,65.316812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Learys Luleå Event Center</name>
+        <description>O'Learys Luleå Event Center, Luleå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.142187,65.580313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

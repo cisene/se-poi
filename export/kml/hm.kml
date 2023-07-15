@@ -1,0 +1,1224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Hennes & Mauritz</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Hennes & Mauritz</name>
+      <Placemark>
+        <name>Hennes & Mauritz - Nordby Köpcenter</name>
+        <description>Hennes & Mauritz - Nordby Köpcenter, Nordby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.216854,59.063242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Torp Köpcentrum</name>
+        <description>Hennes & Mauritz - Torp Köpcentrum, Uddevalla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.812722,58.3541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Stenungsund</name>
+        <description>Hennes & Mauritz - Stenungsund, Stenungsund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.818958,58.068348,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Töcksfors</name>
+        <description>Hennes & Mauritz - Töcksfors, Töcksfors</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.844788,59.506454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Frölunda Torg</name>
+        <description>Hennes & Mauritz - Frölunda Torg, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.912888,57.652617,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Nordstan</name>
+        <description>Hennes & Mauritz - Nordstan, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.96763,57.708137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - H&M Kungsgatan</name>
+        <description>Hennes & Mauritz - H&M Kungsgatan, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.968048,57.70471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Kongahälla Centrum</name>
+        <description>Hennes & Mauritz - Kongahälla Centrum, Kungälv</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.969826,57.872481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Varuhuset Femman</name>
+        <description>Hennes & Mauritz - Varuhuset Femman, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.970583,57.708541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Mölndal</name>
+        <description>Hennes & Mauritz - Mölndal, Mölndal</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.011735,57.655055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Kungsmässan</name>
+        <description>Hennes & Mauritz - Kungsmässan, Kungsbacka</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.074735,57.492314,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Partille Allum</name>
+        <description>Hennes & Mauritz - Partille Allum, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.103542,57.737529,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Varberg</name>
+        <description>Hennes & Mauritz - Varberg, Varberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.248265,57.105895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Charlottenberg</name>
+        <description>Hennes & Mauritz - Charlottenberg, Eda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.291976,59.882983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Överby</name>
+        <description>Hennes & Mauritz - Överby, Trollhättan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.307469,58.311223,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Alingsås</name>
+        <description>Hennes & Mauritz - Alingsås, Alingsås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.536666,57.930129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Väla</name>
+        <description>Hennes & Mauritz - Väla, Helsingborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.760409,56.093574,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Landskrona</name>
+        <description>Hennes & Mauritz - Landskrona, Landskrona</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.833233,55.870351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Ängelholm C</name>
+        <description>Hennes & Mauritz - Ängelholm C, Ängelholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.862587,56.244137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Hallarna Halmstad</name>
+        <description>Hennes & Mauritz - Hallarna Halmstad, Halmstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.909068,56.655429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Knalleland</name>
+        <description>Hennes & Mauritz - Knalleland, Borås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.937305,57.735485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Emporia</name>
+        <description>Hennes & Mauritz - Emporia, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.970605,55.565534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Center Syd</name>
+        <description>Hennes & Mauritz - Center Syd, Kävlinge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.992561,55.767557,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Gustav Adolfs Torg 2</name>
+        <description>Hennes & Mauritz - Gustav Adolfs Torg 2, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.001493,55.605583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - H&M Home Gustav Adolfs Torg</name>
+        <description>Hennes & Mauritz - H&M Home Gustav Adolfs Torg, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.001676,55.602799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Triangeln</name>
+        <description>Hennes & Mauritz - Triangeln, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.002393,55.596243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Mobilia</name>
+        <description>Hennes & Mauritz - Mobilia, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.003611,55.580556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Trelleborg</name>
+        <description>Hennes & Mauritz - Trelleborg, Trelleborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.152874,55.374585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Nova Lund</name>
+        <description>Hennes & Mauritz - Nova Lund, Lund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.156489,55.715723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Lidköping</name>
+        <description>Hennes & Mauritz - Lidköping, Lidköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.157431,58.503161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Lund City</name>
+        <description>Hennes & Mauritz - Lund City, Lund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.192769,55.702193,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Karlstad Bergvik</name>
+        <description>Hennes & Mauritz - Karlstad Bergvik, Karlstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.424616,59.378406,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Karlstad City</name>
+        <description>Hennes & Mauritz - Karlstad City, Karlstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.500855,59.380095,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Falköping</name>
+        <description>Hennes & Mauritz - Falköping, Falköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.551817,58.160565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Hässleholm</name>
+        <description>Hennes & Mauritz - Hässleholm, Hässleholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.764349,56.155384,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Ystad</name>
+        <description>Hennes & Mauritz - Ystad, Ystad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.821147,55.428919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Elins Esplanad</name>
+        <description>Hennes & Mauritz - Elins Esplanad, Skövde</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.85376,58.404792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Värnamo Pelikanen</name>
+        <description>Hennes & Mauritz - Värnamo Pelikanen, Värnamo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.045676,57.184224,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Jönköping C</name>
+        <description>Hennes & Mauritz - Jönköping C, Jönköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.161788,57.782614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - A6-center</name>
+        <description>Hennes & Mauritz - A6-center, Jönköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.201863,57.775619,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - C4</name>
+        <description>Hennes & Mauritz - C4, Kristianstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.206631,56.025305,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Karlskoga</name>
+        <description>Hennes & Mauritz - Karlskoga, Karlskoga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.523522,59.324549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Mora C</name>
+        <description>Hennes & Mauritz - Mora C, Mora</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.536566,61.003275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Östersund C</name>
+        <description>Hennes & Mauritz - Östersund C, Östersund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.636825,63.177974,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Nässjö</name>
+        <description>Hennes & Mauritz - Nässjö, Nässjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.695287,57.654173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Samarkand</name>
+        <description>Hennes & Mauritz - Samarkand, Växjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.766797,56.885314,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Växjö City</name>
+        <description>Hennes & Mauritz - Växjö City, Växjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.801196,56.879215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Karlshamn</name>
+        <description>Hennes & Mauritz - Karlshamn, Karlshamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.86094,56.170477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Vetlanda</name>
+        <description>Hennes & Mauritz - Vetlanda, Vetlanda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.084034,57.426629,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Marieberg</name>
+        <description>Hennes & Mauritz - Marieberg, Örebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.134025,59.214891,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - H&M Home Vågen</name>
+        <description>Hennes & Mauritz - H&M Home Vågen, Örebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.211376,59.26971,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Örebro City</name>
+        <description>Hennes & Mauritz - Örebro City, Örebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.212502,59.271297,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Kupolen</name>
+        <description>Hennes & Mauritz - Kupolen, Borlänge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.418464,60.485839,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Karlskrona</name>
+        <description>Hennes & Mauritz - Karlskrona, Karlskrona</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.584373,56.162106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - i-HUSET</name>
+        <description>Hennes & Mauritz - i-HUSET, Linköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.586093,58.43493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Linköping</name>
+        <description>Hennes & Mauritz - Linköping, Linköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.625104,58.4098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Falun</name>
+        <description>Hennes & Mauritz - Falun, Falun</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.627597,60.60692,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Ingelsta Shopping</name>
+        <description>Hennes & Mauritz - Ingelsta Shopping, Norrköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.155852,58.618973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Avesta</name>
+        <description>Hennes & Mauritz - Avesta, Avesta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.168249,60.145882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Repslagaregatan 12</name>
+        <description>Hennes & Mauritz - Repslagaregatan 12, Norrköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.190211,58.588083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Katrineholm</name>
+        <description>Hennes & Mauritz - Katrineholm, Katrineholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.206177,58.995917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Giraffen</name>
+        <description>Hennes & Mauritz - Giraffen, Kalmar</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.334022,56.673021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Baronen</name>
+        <description>Hennes & Mauritz - Baronen, Kalmar</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.365308,56.660697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Oskarshamn</name>
+        <description>Hennes & Mauritz - Oskarshamn, Oskarshamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.446919,57.264866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Erikslund</name>
+        <description>Hennes & Mauritz - Erikslund, Västerås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.461983,59.611127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Tuna Park</name>
+        <description>Hennes & Mauritz - Tuna Park, Eskilstuna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.469385,59.37211,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Eskilstuna City</name>
+        <description>Hennes & Mauritz - Eskilstuna City, Eskilstuna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.512053,59.37109,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Vasagatan 13</name>
+        <description>Hennes & Mauritz - Vasagatan 13, Västerås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.54611,59.610115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Västervik</name>
+        <description>Hennes & Mauritz - Västervik, Västervik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.63854,57.752852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Valbo Köpcentrum</name>
+        <description>Hennes & Mauritz - Valbo Köpcentrum, Gävle</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.99261,60.633067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Nyköping</name>
+        <description>Hennes & Mauritz - Nyköping, Nyköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.006008,58.752465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Söderhamn</name>
+        <description>Hennes & Mauritz - Söderhamn, Söderhamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.056103,61.302685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Guldsmeden</name>
+        <description>Hennes & Mauritz - Guldsmeden, Hudiksvall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.104683,61.727765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Gävle city</name>
+        <description>Hennes & Mauritz - Gävle city, Gävle</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.140098,60.674033,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Storgatan 36</name>
+        <description>Hennes & Mauritz - Storgatan 36, Sundsvall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.304089,62.391512,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Birsta City</name>
+        <description>Hennes & Mauritz - Birsta City, Sundsvall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.341592,62.447688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Södertälje</name>
+        <description>Hennes & Mauritz - Södertälje, Södertälje</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.626748,59.1969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Svartbäcksgatan 4</name>
+        <description>Hennes & Mauritz - Svartbäcksgatan 4, Uppsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.637885,59.859245,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Gränbystaden</name>
+        <description>Hennes & Mauritz - Gränbystaden, Uppsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.672639,59.876975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Märsta Centrum</name>
+        <description>Hennes & Mauritz - Märsta Centrum, Sigtuna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.723419,59.619146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Vällingby Centrum</name>
+        <description>Hennes & Mauritz - Vällingby Centrum, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.874922,59.361878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Skärholmen Centrum</name>
+        <description>Hennes & Mauritz - Skärholmen Centrum, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.907161,59.275105,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Väsby Centrum</name>
+        <description>Hennes & Mauritz - Väsby Centrum, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.910136,59.518643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Kungens Kurva</name>
+        <description>Hennes & Mauritz - Kungens Kurva, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.916729,59.269485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Härnösand</name>
+        <description>Hennes & Mauritz - Härnösand, Härnösand</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.940394,62.630513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Kista Galleria</name>
+        <description>Hennes & Mauritz - Kista Galleria, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.943892,59.403423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Sollentuna Centrum</name>
+        <description>Hennes & Mauritz - Sollentuna Centrum, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.951134,59.428332,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Bromma Blocks</name>
+        <description>Hennes & Mauritz - Bromma Blocks, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.953287,59.356455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Huddinge Centrum</name>
+        <description>Hennes & Mauritz - Huddinge Centrum, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.981878,59.236554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Solna Centrum</name>
+        <description>Hennes & Mauritz - Solna Centrum, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.000719,59.359861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Mall of Scandinavia</name>
+        <description>Hennes & Mauritz - Mall of Scandinavia, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.003338,59.370186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Liljeholmen</name>
+        <description>Hennes & Mauritz - Liljeholmen, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.022421,59.309532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Västermalmsgallerian</name>
+        <description>Hennes & Mauritz - Västermalmsgallerian, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.032389,59.334544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Hornstull</name>
+        <description>Hennes & Mauritz - Hornstull, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.0335,59.316791,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Drottninggatan 56</name>
+        <description>Hennes & Mauritz - Drottninggatan 56, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.062485,59.333343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - H&M Home Drottninggatan</name>
+        <description>Hennes & Mauritz - H&M Home Drottninggatan, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.06261,59.332808,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Drottninggatan 50</name>
+        <description>Hennes & Mauritz - Drottninggatan 50, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.063957,59.332885,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Täby Centrum</name>
+        <description>Hennes & Mauritz - Täby Centrum, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.069728,59.445422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - H&M Home Biblioteksgatan</name>
+        <description>Hennes & Mauritz - H&M Home Biblioteksgatan, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.072467,59.335466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - H&M MAN</name>
+        <description>Hennes & Mauritz - H&M MAN, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.072629,59.333695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Globen</name>
+        <description>Hennes & Mauritz - Globen, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.081081,59.293011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Farsta Centrum</name>
+        <description>Hennes & Mauritz - Farsta Centrum, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.089053,59.242993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Fältöversten</name>
+        <description>Hennes & Mauritz - Fältöversten, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.092122,59.339389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Haninge Centrum</name>
+        <description>Hennes & Mauritz - Haninge Centrum, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.139627,59.169734,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Nacka Forum</name>
+        <description>Hennes & Mauritz - Nacka Forum, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.164388,59.309423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Tyresö Centrum</name>
+        <description>Hennes & Mauritz - Tyresö Centrum, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.228973,59.244961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Åkersberga Centrum</name>
+        <description>Hennes & Mauritz - Åkersberga Centrum, Österåker</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.299737,59.479628,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Visby</name>
+        <description>Hennes & Mauritz - Visby, Gotland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.30051,57.637614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Värmdö Köpcentrum</name>
+        <description>Hennes & Mauritz - Värmdö Köpcentrum, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.422203,59.312507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Norrtälje</name>
+        <description>Hennes & Mauritz - Norrtälje, Norrtälje</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.700962,59.757044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Örnsköldsvik</name>
+        <description>Hennes & Mauritz - Örnsköldsvik, Örnsköldsvik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.714952,63.291165,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Avion Shopping</name>
+        <description>Hennes & Mauritz - Avion Shopping, Umeå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.253921,63.809779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Utopia</name>
+        <description>Hennes & Mauritz - Utopia, Umeå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.263035,63.825847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Vintergatans Köpcentrum</name>
+        <description>Hennes & Mauritz - Vintergatans Köpcentrum, Skellefteå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.953279,64.751529,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Småstaden</name>
+        <description>Hennes & Mauritz - Småstaden, Piteå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.477219,65.317427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Boden</name>
+        <description>Hennes & Mauritz - Boden, Boden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.685607,65.824257,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Storhedsvägen 3</name>
+        <description>Hennes & Mauritz - Storhedsvägen 3, Luleå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.040548,65.618054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hennes & Mauritz - Storgatan 51</name>
+        <description>Hennes & Mauritz - Storgatan 51, Luleå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.150402,65.584091,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

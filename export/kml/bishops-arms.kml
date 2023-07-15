@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>The Bishops Arms</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>The Bishops Arms</name>
+      <Placemark>
+        <name>The Bishops Arms Göteborg Järntorget</name>
+        <description>The Bishops Arms Göteborg Järntorget, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.95302,57.69951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bishops Arms Göteborg Plaza</name>
+        <description>The Bishops Arms Göteborg Plaza, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.96291,57.70513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bishops Arms Göteborg Park Avenue</name>
+        <description>The Bishops Arms Göteborg Park Avenue, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.97779,57.69858,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bishops Arms Trollhättan</name>
+        <description>The Bishops Arms Trollhättan, Trollhättan, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.29055,58.28529,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bishops Arms Helsingborg Marina Plaza</name>
+        <description>The Bishops Arms Helsingborg Marina Plaza, Helsingborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.69292,56.04442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bishops Arms Helsingborg Mollberg</name>
+        <description>The Bishops Arms Helsingborg Mollberg, Helsingborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.696222,56.046834,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bishops Arms Malmö Gustav Adolfs Torg</name>
+        <description>The Bishops Arms Malmö Gustav Adolfs Torg, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.999372,55.603195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bishops Arms Malmö Savoy</name>
+        <description>The Bishops Arms Malmö Savoy, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.00024,55.60768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bishops Arms Lund</name>
+        <description>The Bishops Arms Lund, Lund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.19125,55.70631,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bishops Arms Karlstad</name>
+        <description>The Bishops Arms Karlstad, Karlstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.50065,59.38132,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bishops Arms Hässleholm</name>
+        <description>The Bishops Arms Hässleholm, Hässleholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.76605,56.1576,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bishops Arms Skövde</name>
+        <description>The Bishops Arms Skövde, Skövde, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.84499,58.38999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bishops Arms Kristianstad</name>
+        <description>The Bishops Arms Kristianstad, Kristianstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.152136,56.032327,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bishops Arms Jönköping</name>
+        <description>The Bishops Arms Jönköping, Jönköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.169267,57.782847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bishops Arms Mora</name>
+        <description>The Bishops Arms Mora, Mora, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.540187,61.005125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bishops Arms Östersund</name>
+        <description>The Bishops Arms Östersund, Östersund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.63604,63.17883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bishops Arms Växjö</name>
+        <description>The Bishops Arms Växjö, Växjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.80925,56.87771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bishops Arms Örebro</name>
+        <description>The Bishops Arms Örebro, Örebro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.213772,59.273113,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bishops Arms Borlänge</name>
+        <description>The Bishops Arms Borlänge, Borlänge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.4314,60.48589,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bishops Arms Linköping</name>
+        <description>The Bishops Arms Linköping, Linköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.625195,58.411837,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bishops Arms Falun</name>
+        <description>The Bishops Arms Falun, Falun, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.63052,60.606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bishops Arms Köping</name>
+        <description>The Bishops Arms Köping, Köping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.99503,59.51259,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bishops Arms Norrköping</name>
+        <description>The Bishops Arms Norrköping, Norrköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.185978,58.593183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bishops Arms Eskilstuna</name>
+        <description>The Bishops Arms Eskilstuna, Eskilstuna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.51545,59.37224,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bishops Arms Västerås</name>
+        <description>The Bishops Arms Västerås, Västerås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.542818,59.611153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bishops Arms Strängnäs</name>
+        <description>The Bishops Arms Strängnäs, Strängnäs, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.02754,59.37653,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bishops Arms Sundsvall</name>
+        <description>The Bishops Arms Sundsvall, Sundsvall, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.31002,62.39025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bishops Arms Uppsala</name>
+        <description>The Bishops Arms Uppsala, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.648186,59.857023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bishops Arms Stockholm Sundbyberg</name>
+        <description>The Bishops Arms Stockholm Sundbyberg, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.968795,59.361087,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bishops Arms Stockholm S:t Eriksgatan</name>
+        <description>The Bishops Arms Stockholm S:t Eriksgatan, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.03981,59.3467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bishops Arms Stockholm Vasagatan</name>
+        <description>The Bishops Arms Stockholm Vasagatan, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.057705,59.332201,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bishops Arms Stockholm Bellmansgatan</name>
+        <description>The Bishops Arms Stockholm Bellmansgatan, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.06476,59.32002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bishops Arms Stockholm Gamla Stan</name>
+        <description>The Bishops Arms Stockholm Gamla Stan, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.068841,59.323159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bishops Arms Örnsköldsvik</name>
+        <description>The Bishops Arms Örnsköldsvik, Örnsköldsvik, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.713535,63.287289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bishops Arms Kiruna</name>
+        <description>The Bishops Arms Kiruna, Kiruna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.228386,67.854746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bishops Arms Umeå</name>
+        <description>The Bishops Arms Umeå, Umeå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.260154,63.825999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bishops Arms Skellefteå</name>
+        <description>The Bishops Arms Skellefteå, Skellefteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.95438,64.75126,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bishops Arms Piteå</name>
+        <description>The Bishops Arms Piteå, Piteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.48242,65.31624,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bishops Arms Luleå</name>
+        <description>The Bishops Arms Luleå, Luleå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.14553,65.583604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

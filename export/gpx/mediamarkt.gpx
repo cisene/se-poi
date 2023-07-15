@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://github.com/cisene/se-poi -->
+<gpx creator="se-poi" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+  <metadata>
+    <name><![CDATA[MediaMarkt]]></name>
+    <desc><![CDATA[Koordinater - MediaMarkt]]></desc>
+    <link href="https://www.mediamarkt.se/">
+      <text><![CDATA[MediaMarkt]]></text>
+       <type>text/html</type>
+    </link>
+   <time>2023-07-15T16:21:20+02:00</time>
+  </metadata>
+  <bounds minlat="55.550562" minlon="11.946813" maxlat="65.616812" maxlon="22.054688" />
+  <wpt lat="57.650813" lon="11.946813"><name><![CDATA[MediaMarkt Göteborg Högsbo, Göteborg]]></name></wpt>
+  <wpt lat="57.770063" lon="12.000438"><name><![CDATA[MediaMarkt Göteborg Bäckebol, Göteborg]]></name></wpt>
+  <wpt lat="57.724438" lon="12.030687"><name><![CDATA[MediaMarkt Göteborg Torpavallen, Göteborg]]></name></wpt>
+  <wpt lat="56.094062" lon="12.762187"><name><![CDATA[MediaMarkt Helsingborg, Helsingborg]]></name></wpt>
+  <wpt lat="57.731562" lon="12.931938"><name><![CDATA[MediaMarkt Borås, Borås]]></name></wpt>
+  <wpt lat="55.550562" lon="12.985062"><name><![CDATA[MediaMarkt Malmö Svågertorp, Malmö]]></name></wpt>
+  <wpt lat="55.714312" lon="13.152938"><name><![CDATA[MediaMarkt Lund, Lund]]></name></wpt>
+  <wpt lat="58.410812" lon="13.878563"><name><![CDATA[MediaMarkt Skövde, Skövde]]></name></wpt>
+  <wpt lat="56.021062" lon="14.114562"><name><![CDATA[MediaMarkt Kristianstad, Kristianstad]]></name></wpt>
+  <wpt lat="57.760438" lon="14.172937"><name><![CDATA[MediaMarkt Jönköping, Jönköping]]></name></wpt>
+  <wpt lat="56.878062" lon="14.770437"><name><![CDATA[MediaMarkt Växjö, Växjö]]></name></wpt>
+  <wpt lat="59.219437" lon="15.142437"><name><![CDATA[MediaMarkt Örebro, Örebro]]></name></wpt>
+  <wpt lat="58.431687" lon="15.596937"><name><![CDATA[MediaMarkt Linköping, Linköping]]></name></wpt>
+  <wpt lat="58.622062" lon="16.157063"><name><![CDATA[MediaMarkt Norrköping, Norrköping]]></name></wpt>
+  <wpt lat="56.682313" lon="16.317312"><name><![CDATA[MediaMarkt Kalmar, Kalmar]]></name></wpt>
+  <wpt lat="59.613062" lon="16.458438"><name><![CDATA[MediaMarkt Västerås, Västerås]]></name></wpt>
+  <wpt lat="59.374063" lon="16.467562"><name><![CDATA[MediaMarkt Eskilstuna, Eskilstuna]]></name></wpt>
+  <wpt lat="60.627187" lon="16.989937"><name><![CDATA[MediaMarkt Gävle, Gävle]]></name></wpt>
+  <wpt lat="62.440188" lon="17.334562"><name><![CDATA[MediaMarkt Sundsvall, Sundsvall]]></name></wpt>
+  <wpt lat="59.854563" lon="17.683188"><name><![CDATA[MediaMarkt Uppsala, Uppsala]]></name></wpt>
+  <wpt lat="59.413062" lon="17.857813"><name><![CDATA[MediaMarkt Stockholm Barkarby, Stockholm]]></name></wpt>
+  <wpt lat="59.267187" lon="17.909188"><name><![CDATA[MediaMarkt Stockholm Heron City, Stockholm]]></name></wpt>
+  <wpt lat="59.370812" lon="18.001312"><name><![CDATA[MediaMarkt Stockholm Westfield Mall of Scandinavia, Solna]]></name></wpt>
+  <wpt lat="59.333188" lon="18.061563"><name><![CDATA[MediaMarkt Stockholm Drottninggatan, Stockholm]]></name></wpt>
+  <wpt lat="59.444812" lon="18.069812"><name><![CDATA[MediaMarkt Stockholm Täby, Täby]]></name></wpt>
+  <wpt lat="59.197312" lon="18.126312"><name><![CDATA[MediaMarkt Stockholm Länna, Huddinge]]></name></wpt>
+  <wpt lat="59.309812" lon="18.163812"><name><![CDATA[MediaMarkt Stockholm Nacka Forum, Nacka]]></name></wpt>
+  <wpt lat="63.847437" lon="20.156062"><name><![CDATA[MediaMarkt Umeå, Umeå]]></name></wpt>
+  <wpt lat="65.616812" lon="22.054688"><name><![CDATA[MediaMarkt Luleå, Luleå]]></name></wpt>
+</gpx>

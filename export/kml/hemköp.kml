@@ -1,0 +1,1874 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Hemköp</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Hemköp</name>
+      <Placemark>
+        <name>Hemköp Munkedal</name>
+        <description>Hemköp Munkedal, Munkedal</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.472475,58.608056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Ellös</name>
+        <description>Hemköp Ellös, Ellös</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.475898,58.178201,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Hönö</name>
+        <description>Hemköp Hönö, Hönö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.645816,57.682983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Göteborg, Torslanda</name>
+        <description>Hemköp Göteborg, Torslanda, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.76763,57.723958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Svanesund</name>
+        <description>Hemköp Svanesund, Svanesund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.821533,58.142457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Göteborg, Påvelund</name>
+        <description>Hemköp Göteborg, Påvelund, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.874277,57.664686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Göteborg, Långedrag</name>
+        <description>Hemköp Göteborg, Långedrag, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.879939,57.671396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Frölunda Torg</name>
+        <description>Hemköp Frölunda Torg, Frölunda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.909324,57.650909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Göteborg, Högsbo</name>
+        <description>Hemköp Göteborg, Högsbo, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.912735,57.673159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Göteborg, Majorna</name>
+        <description>Hemköp Göteborg, Majorna, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.918365,57.692966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Göteborg, Stigbergstorget</name>
+        <description>Hemköp Göteborg, Stigbergstorget, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.934843,57.698755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Göteborg, Masthuggstorget</name>
+        <description>Hemköp Göteborg, Masthuggstorget, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.9431,57.698461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Kullavik</name>
+        <description>Hemköp Kullavik, Kullavik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.946114,57.546096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Göteborg, Nordenskiöldsgatan</name>
+        <description>Hemköp Göteborg, Nordenskiöldsgatan, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.950884,57.692795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Göteborg, Linnégatan</name>
+        <description>Hemköp Göteborg, Linnégatan, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.952131,57.695531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Göteborg, Annedal</name>
+        <description>Hemköp Göteborg, Annedal, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.959122,57.693278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Billdal</name>
+        <description>Hemköp Billdal, Billdal</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.960996,57.560953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Göteborg, Hvitfeldtsplatsen</name>
+        <description>Hemköp Göteborg, Hvitfeldtsplatsen, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.961182,57.701567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Särö</name>
+        <description>Hemköp Särö, Särö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.966286,57.520461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Göteborg, Nordstan</name>
+        <description>Hemköp Göteborg, Nordstan, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.967278,57.708731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Göteborg, Vasagatan</name>
+        <description>Hemköp Göteborg, Vasagatan, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.968144,57.698596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Göteborg, Guldheden</name>
+        <description>Hemköp Göteborg, Guldheden, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.97183,57.683763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Göteborg, Selma Lagerlöfs Torg</name>
+        <description>Hemköp Göteborg, Selma Lagerlöfs Torg, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.982529,57.749929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Hedemora</name>
+        <description>Hemköp Hedemora, Hedemora</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.9865,57.696994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Mölndal, Bifrost</name>
+        <description>Hemköp Mölndal, Bifrost, Mölndal</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.991533,57.661845,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Partille, Sävedalen</name>
+        <description>Hemköp Partille, Sävedalen, Partille</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.011051,57.666793,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Mölndal City</name>
+        <description>Hemköp Mölndal City, Mölndal</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.012318,57.655063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Onsala</name>
+        <description>Hemköp Onsala, Onsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.019156,57.413442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Göteborg, Kortedala</name>
+        <description>Hemköp Göteborg, Kortedala, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.031739,57.752373,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Kungsbacka</name>
+        <description>Hemköp Kungsbacka, Kungsbacka</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.076657,57.486564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Kungsbacka, Hålabäck</name>
+        <description>Hemköp Kungsbacka, Hålabäck, Kungsbacka</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.087582,57.484709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Mölnlycke</name>
+        <description>Hemköp Mölnlycke, Mölnlycke</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.114032,57.658068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Trollhättan, Kungsgatan</name>
+        <description>Hemköp Trollhättan, Kungsgatan, Trollhättan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.29385,58.287053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Trollhättan, Hjortmossen</name>
+        <description>Hemköp Trollhättan, Hjortmossen, Trollhättan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.294644,58.275787,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Vänersborg, Sundsgatan</name>
+        <description>Hemköp Vänersborg, Sundsgatan, Vänersborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.323403,58.379382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Veddige</name>
+        <description>Hemköp Veddige, Veddige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.333777,57.266683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Vänersborg, Torpa</name>
+        <description>Hemköp Vänersborg, Torpa, Vänersborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.335414,58.363727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Mellerud, Torget</name>
+        <description>Hemköp Mellerud, Torget, Mellerud</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.453129,58.6993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Mellerud, Kvarnkullen</name>
+        <description>Hemköp Mellerud, Kvarnkullen, Mellerud</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.464208,58.697669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Alingsås</name>
+        <description>Hemköp Alingsås, Alingsås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.525598,57.926175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Bollebygd</name>
+        <description>Hemköp Bollebygd, Borås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.570183,57.667851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Helsingborg, Laröd</name>
+        <description>Hemköp Helsingborg, Laröd, Helsingborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.654806,56.091142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Haverdal</name>
+        <description>Hemköp Haverdal, Haverdal</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.666972,56.732341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Grästorp</name>
+        <description>Hemköp Grästorp, Grästorp</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.676439,58.333454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Kinna</name>
+        <description>Hemköp Kinna, Kinna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.696122,57.506744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Helsingborg</name>
+        <description>Hemköp Helsingborg, Helsingborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.701202,56.057177,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Nossebro</name>
+        <description>Hemköp Nossebro, Nossebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.721548,58.187752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Helsingborg, Rydebäck</name>
+        <description>Hemköp Helsingborg, Rydebäck, Helsingborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.775027,55.96629,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Vårgårda</name>
+        <description>Hemköp Vårgårda, Vårgårda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.804854,58.032168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Halmstad, Brogatan</name>
+        <description>Hemköp Halmstad, Brogatan, Halmstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.856584,56.67445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Oskarström</name>
+        <description>Hemköp Oskarström, Oskarström</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.960037,56.805719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Malmö, Kronprinsen</name>
+        <description>Hemköp Malmö, Kronprinsen, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.98486,55.59885,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Sälen, Tandåhallen</name>
+        <description>Hemköp Sälen, Tandåhallen, Tandådalen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.992001,61.179732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Malmö, Triangeln</name>
+        <description>Hemköp Malmö, Triangeln, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.003514,55.595346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Herrljunga</name>
+        <description>Hemköp Herrljunga, Herrljunga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.020894,58.075913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Malmö, Värnhemstorget</name>
+        <description>Hemköp Malmö, Värnhemstorget, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.022955,55.606135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Lomma</name>
+        <description>Hemköp Lomma, Lomma</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.070503,55.673507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Lidköping</name>
+        <description>Hemköp Lidköping, Lidköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.153775,58.503374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Lund, Karhögstorg</name>
+        <description>Hemköp Lund, Karhögstorg, Lund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.191499,55.694538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Ljungbyhed</name>
+        <description>Hemköp Ljungbyhed, Ljungbyhed</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.234589,56.073526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Dalby</name>
+        <description>Hemköp Dalby, Dalby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.349108,55.664369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Karlstad</name>
+        <description>Hemköp Karlstad, Karlstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.497401,59.3793,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Tyringe</name>
+        <description>Hemköp Tyringe, Tyringe</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.60492,56.160993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Anderstorp</name>
+        <description>Hemköp Anderstorp, Anderstorp</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.627623,57.275367,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Malung</name>
+        <description>Hemköp Malung, Malung</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.711268,60.684927,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Ystad</name>
+        <description>Hemköp Ystad, Ystad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.81863,55.432118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Skövde, Rydshallen</name>
+        <description>Hemköp Skövde, Rydshallen, Skövde</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.871377,58.426011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Ljungby</name>
+        <description>Hemköp Ljungby, Ljungby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.933017,56.832354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Tollarp</name>
+        <description>Hemköp Tollarp, Tollarp</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.974173,55.933999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Värnamo City</name>
+        <description>Hemköp Värnamo City, Värnamo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.045769,57.184647,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Skillingaryd</name>
+        <description>Hemköp Skillingaryd, Skillingaryd</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.095346,57.428288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Jönköping</name>
+        <description>Hemköp Jönköping, Jönköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.163205,57.782814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Dala-Järna</name>
+        <description>Hemköp Dala-Järna, Dala-Järna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.372685,60.547579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Vrigstad</name>
+        <description>Hemköp Vrigstad, Vrigstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.476475,57.355052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Östersund, Storsjön</name>
+        <description>Hemköp Östersund, Storsjön, Östersund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.656911,63.171222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Växjö, Högstorp</name>
+        <description>Hemköp Växjö, Högstorp, Växjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.834753,56.879299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Tranås</name>
+        <description>Hemköp Tranås, Tranås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.975685,58.037654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Leksand</name>
+        <description>Hemköp Leksand, Leksand</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.99718,60.733088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Insjön</name>
+        <description>Hemköp Insjön, Insjön</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.089832,60.675389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Mjölby Lundby</name>
+        <description>Hemköp Mjölby Lundby, Mjölby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.11947,58.31931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Rättvik</name>
+        <description>Hemköp Rättvik, Rättvik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.120273,60.882709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Ludvika, Karlavägen</name>
+        <description>Hemköp Ludvika, Karlavägen, Ludvika</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.185372,60.151384,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Örebro, Lucullus</name>
+        <description>Hemköp Örebro, Lucullus, Örebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.215206,59.276426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Lindesberg</name>
+        <description>Hemköp Lindesberg, Lindesberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.22171,59.598846,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Borlänge, Paradiset</name>
+        <description>Hemköp Borlänge, Paradiset, Borlänge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.398722,60.49375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Borlänge, Södra Backa</name>
+        <description>Hemköp Borlänge, Södra Backa, Borlänge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.441177,60.47114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Ljungsbro</name>
+        <description>Hemköp Ljungsbro, Ljungsbro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.499826,58.509686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Linköping Ryd</name>
+        <description>Hemköp Linköping Ryd, Linköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.562681,58.408832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Karlskrona</name>
+        <description>Hemköp Karlskrona, Karlskrona</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.588187,56.162372,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Fellingsbro</name>
+        <description>Hemköp Fellingsbro, Fellingsbro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.593144,59.434324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Linköping Lucullus</name>
+        <description>Hemköp Linköping Lucullus, Linköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.620371,58.41076,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Linköping, City</name>
+        <description>Hemköp Linköping, City, Linköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.627729,58.411349,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Kisa</name>
+        <description>Hemköp Kisa, Kisa</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.632989,57.988624,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Falun, City</name>
+        <description>Hemköp Falun, City, Falun</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.633528,60.605173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Falun, Hosjö</name>
+        <description>Hemköp Falun, Hosjö, Falun</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.732848,60.590075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Köping</name>
+        <description>Hemköp Köping, Köping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.998056,59.513584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Alfta</name>
+        <description>Hemköp Alfta, Alfta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.054292,61.346086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Avesta</name>
+        <description>Hemköp Avesta, Avesta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.160226,60.142627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Norrköping Kungsgatan</name>
+        <description>Hemköp Norrköping Kungsgatan, Norrköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.178348,58.591505,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Norrköping Lasarettsgatan</name>
+        <description>Hemköp Norrköping Lasarettsgatan, Norrköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.179315,58.583879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Kolbäck</name>
+        <description>Hemköp Kolbäck, Kolbäck</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.233033,59.565375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Norrköping Lindö</name>
+        <description>Hemköp Norrköping Lindö, Norrköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.24524,58.601666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Söderköping</name>
+        <description>Hemköp Söderköping, Söderköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.313751,58.483045,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Torshälla</name>
+        <description>Hemköp Torshälla, Torshälla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.484914,59.418378,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Eskilstuna, City</name>
+        <description>Hemköp Eskilstuna, City, Eskilstuna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.516809,59.370615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Eskilstuna, Smeden</name>
+        <description>Hemköp Eskilstuna, Smeden, Eskilstuna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.529879,59.37502,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Västerås</name>
+        <description>Hemköp Västerås, Västerås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.539962,59.608577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Delsbo</name>
+        <description>Hemköp Delsbo, Delsbo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.553798,61.800739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Valdemarsvik</name>
+        <description>Hemköp Valdemarsvik, Valdemarsvik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.578045,58.216145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Västerås Malmaberg</name>
+        <description>Hemköp Västerås Malmaberg, Västerås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.582017,59.62656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Västervik</name>
+        <description>Hemköp Västervik, Västervik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.634787,57.757717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Borgholm</name>
+        <description>Hemköp Borgholm, Borgholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.664675,56.875893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Hudiksvall</name>
+        <description>Hemköp Hudiksvall, Hudiksvall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.103335,61.729233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Sundsvall, Granlo</name>
+        <description>Hemköp Sundsvall, Granlo, Sundsvall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.265411,62.401634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Sundsvall, City</name>
+        <description>Hemköp Sundsvall, City, Sundsvall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.306949,62.391985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Gnesta</name>
+        <description>Hemköp Gnesta, Gnesta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.32651,59.039943,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Vagnhärad</name>
+        <description>Hemköp Vagnhärad, Vagnhärad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.485391,58.945841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Bålsta</name>
+        <description>Hemköp Bålsta, Bålsta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.5121,59.576884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Tierp</name>
+        <description>Hemköp Tierp, Tierp</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.513327,60.344217,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Björklinge</name>
+        <description>Hemköp Björklinge, Björklinge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.55201,60.029363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Uppsala, Västertorg</name>
+        <description>Hemköp Uppsala, Västertorg, Uppsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.602507,59.840786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Södertälje, Ellbe Livs</name>
+        <description>Hemköp Södertälje, Ellbe Livs, Södertälje</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.631276,59.210798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Uppsala, Svava</name>
+        <description>Hemköp Uppsala, Svava, Uppsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.64255,59.857999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Kramfors</name>
+        <description>Hemköp Kramfors, Kramfors</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.778883,62.931023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Stäket</name>
+        <description>Hemköp Stäket, Stäket</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.811915,59.469326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Stockholm, Hässelby Strand</name>
+        <description>Hemköp Stockholm, Hässelby Strand, Hässelby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.832622,59.360357,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Tumba, Storvreten</name>
+        <description>Hemköp Tumba, Storvreten, Tumba</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.83617,59.1918,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Stockholm, Jakobsbergs Centrum</name>
+        <description>Hemköp Stockholm, Jakobsbergs Centrum, Jakobsberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.836656,59.423601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Stockholm, Vällingby</name>
+        <description>Hemköp Stockholm, Vällingby, Vällingby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.873013,59.361795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Stockholm, Blackeberg C</name>
+        <description>Hemköp Stockholm, Blackeberg C, Blackeberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.884884,59.347775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Stockholm, Upplands Väsby</name>
+        <description>Hemköp Stockholm, Upplands Väsby, Upplands Väsby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.889377,59.516426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Tullinge</name>
+        <description>Hemköp Tullinge, Tullinge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.905695,59.207049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Stockholm, Ängby Torg</name>
+        <description>Hemköp Stockholm, Ängby Torg, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.908458,59.347145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Sollentuna, Rotehallen</name>
+        <description>Hemköp Sollentuna, Rotehallen, Sollentuna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.911926,59.476795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Stockholm, Bredäng</name>
+        <description>Hemköp Stockholm, Bredäng, Bredäng</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.934966,59.295476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Härnösand</name>
+        <description>Hemköp Härnösand, Härnösand</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.939378,62.631603,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Sundbyberg, Rissne</name>
+        <description>Hemköp Sundbyberg, Rissne, Sundbyberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.940392,59.376252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Stockholm, Fruängen C</name>
+        <description>Hemköp Stockholm, Fruängen C, Fruängen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.964221,59.285669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Stockholm, Gesters</name>
+        <description>Hemköp Stockholm, Gesters, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.967721,59.293134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Huddinge, Matbörsen</name>
+        <description>Hemköp Huddinge, Matbörsen, Huddinge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.970924,59.253684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Sundbyberg, Sturegatan</name>
+        <description>Hemköp Sundbyberg, Sturegatan, Sundbyberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.973368,59.361231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Stockholm, Huddinge Centrum</name>
+        <description>Hemköp Stockholm, Huddinge Centrum, Huddinge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.98105,59.236335,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Solna, Huvudsta C</name>
+        <description>Hemköp Solna, Huvudsta C, Solna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.98702,59.349695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Stockholm, Telefonplan</name>
+        <description>Hemköp Stockholm, Telefonplan, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.997019,59.298971,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Solna, Rapidköp</name>
+        <description>Hemköp Solna, Rapidköp, Solna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.997611,59.353827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Sollentuna, Sjöbergshallen</name>
+        <description>Hemköp Sollentuna, Sjöbergshallen, Sollentuna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.999167,59.430526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Solna, Ulriksdal</name>
+        <description>Hemköp Solna, Ulriksdal, Ulriksdal</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.99924,59.380831,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Solna Centrum</name>
+        <description>Hemköp Solna Centrum, Solna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.000854,59.359522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Stockholm, Älvsjöhallen</name>
+        <description>Hemköp Stockholm, Älvsjöhallen, Älvsjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.00229,59.278624,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Stockholm, Götahallen</name>
+        <description>Hemköp Stockholm, Götahallen, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.01348,59.280827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Solna, Frösunda Boulevard</name>
+        <description>Hemköp Solna, Frösunda Boulevard, Solna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.016114,59.371818,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Stockholm, Matpressen</name>
+        <description>Hemköp Stockholm, Matpressen, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.017817,59.328079,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Stockholm, Örby</name>
+        <description>Hemköp Stockholm, Örby, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.024922,59.274316,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Stockholm, Sjövikshallen</name>
+        <description>Hemköp Stockholm, Sjövikshallen, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.029581,59.307291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Stockholm, Hornstull</name>
+        <description>Hemköp Stockholm, Hornstull, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.034058,59.316286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Stockholm, Mörby</name>
+        <description>Hemköp Stockholm, Mörby, Danderyd</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.036646,59.397872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Stockholm, Odenplan</name>
+        <description>Hemköp Stockholm, Odenplan, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.046018,59.343056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Stockholm, Wasahallen</name>
+        <description>Hemköp Stockholm, Wasahallen, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.051555,59.339985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Stockholm, Mariahallen</name>
+        <description>Hemköp Stockholm, Mariahallen, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.057318,59.318249,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Stockholm, City</name>
+        <description>Hemköp Stockholm, City, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.064488,59.332788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Stockholm, Fatburen</name>
+        <description>Hemköp Stockholm, Fatburen, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.065493,59.314645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Täby Centrum</name>
+        <description>Hemköp Täby Centrum, Täby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.071526,59.445094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Stockholm, Skanstull</name>
+        <description>Hemköp Stockholm, Skanstull, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.075518,59.307179,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Stockholm, Östermalmstorg</name>
+        <description>Hemköp Stockholm, Östermalmstorg, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.07846,59.336347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Stockholm, Gullmarsplan</name>
+        <description>Hemköp Stockholm, Gullmarsplan, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.07906,59.298464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Täby, Alléns Livs</name>
+        <description>Hemköp Täby, Alléns Livs, Täby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.085191,59.427388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Stockholm, Matglädjen</name>
+        <description>Hemköp Stockholm, Matglädjen, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.086326,59.342967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Stockholm, Fältöversten</name>
+        <description>Hemköp Stockholm, Fältöversten, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.091325,59.337679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Stockholm, Farsta</name>
+        <description>Hemköp Stockholm, Farsta, Farsta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.091325,59.243004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Täby, Näsby Park</name>
+        <description>Hemköp Täby, Näsby Park, Täby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.094869,59.430189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Västerhaninge C</name>
+        <description>Hemköp Västerhaninge C, Västerhaninge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.107008,59.123007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Stockholm, Sköndal C</name>
+        <description>Hemköp Stockholm, Sköndal C, Sköndal</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.114186,59.255463,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Stockholm, Skarpnäck</name>
+        <description>Hemköp Stockholm, Skarpnäck, Enskede</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.122067,59.263259,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Haninge C</name>
+        <description>Hemköp Haninge C, Haninge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.139651,59.168735,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Haninge, Vendelsö</name>
+        <description>Hemköp Haninge, Vendelsö, Haninge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.191514,59.199801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Tyresö, Arno Livs</name>
+        <description>Hemköp Tyresö, Arno Livs, Tyresö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.200365,59.223287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Lidingö, Brevik C</name>
+        <description>Hemköp Lidingö, Brevik C, Lidingö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.205204,59.348292,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Lännersta</name>
+        <description>Hemköp Lännersta, Lännersta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.26045,59.31402,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Åkersberga, Favoriten</name>
+        <description>Hemköp Åkersberga, Favoriten, Åkersberga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.331252,59.472144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Östhammar</name>
+        <description>Hemköp Östhammar, Östhammar</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.36212,60.260227,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Värmdö</name>
+        <description>Hemköp Värmdö, Värmdö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.421648,59.311806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Domsjö</name>
+        <description>Hemköp Domsjö, Domsjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.691043,63.267225,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemköp Örnsköldsvik, Stora torget</name>
+        <description>Hemköp Örnsköldsvik, Stora torget, Örnsköldsvik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.715445,63.289165,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

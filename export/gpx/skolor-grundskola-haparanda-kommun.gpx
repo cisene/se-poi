@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://github.com/cisene/se-poi -->
+<gpx creator="se-poi" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+  <metadata>
+    <name><![CDATA[Grundskolor Haparanda Kommun]]></name>
+    <desc><![CDATA[Koordinater - Grundskolor Haparanda Kommun]]></desc>
+    <link href="https://www.haparanda.se/">
+      <text><![CDATA[Grundskolor Haparanda Kommun]]></text>
+       <type>text/html</type>
+    </link>
+   <time>2023-07-15T16:21:24+02:00</time>
+  </metadata>
+  <bounds minlat="65.739437" minlon="23.736312" maxlat="66.045187" maxlon="24.131188" />
+  <wpt lat="65.739437" lon="23.736312"><name><![CDATA[Seskarö skola, Haparanda]]></name></wpt>
+  <wpt lat="65.805063" lon="23.915062"><name><![CDATA[Nikkala skola, Haparanda]]></name></wpt>
+  <wpt lat="66.045187" lon="23.949937"><name><![CDATA[Karungi skola, Haparanda]]></name></wpt>
+  <wpt lat="65.851438" lon="24.114688"><name><![CDATA[Språkskolan, Haparanda]]></name></wpt>
+  <wpt lat="65.851438" lon="24.114688"><name><![CDATA[Särskolan Eden grundsär, Haparanda]]></name></wpt>
+  <wpt lat="65.838562" lon="24.126062"><name><![CDATA[Montessoriskolan Droppen, Haparanda]]></name></wpt>
+  <wpt lat="65.834563" lon="24.127812"><name><![CDATA[Tornedalsskolan, Haparanda]]></name></wpt>
+  <wpt lat="65.833187" lon="24.129688"><name><![CDATA[Gränsskolan, Haparanda]]></name></wpt>
+  <wpt lat="65.835313" lon="24.131188"><name><![CDATA[Aspstrandens skola, Haparanda]]></name></wpt>
+</gpx>

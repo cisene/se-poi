@@ -1,0 +1,2014 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Shell Finland</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Shell Finland</name>
+      <Placemark>
+        <name>Shell Maarianhamina</name>
+        <description>Shell Maarianhamina, Mariehamn, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.944147,60.102578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Närpiö</name>
+        <description>Shell TS Närpiö, Närpiö, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.382191,62.477719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Pori Tahkoluoto</name>
+        <description>Shell TS Pori Tahkoluoto, Pori, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.4154,61.6337,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Uusikaupunki</name>
+        <description>Shell Express Uusikaupunki, Uusikaupunki, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.423638,60.803988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Rauma Satama</name>
+        <description>Shell TS Rauma Satama, Rauma, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.467819,61.129222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Kristiinankaupunki</name>
+        <description>Shell TS Kristiinankaupunki, Lapväärtti, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.4851,62.262,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Rauma Kortela</name>
+        <description>Shell TS Rauma Kortela, Rauma, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.506447,61.100988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Rauma Karjalakatu</name>
+        <description>Shell Express Rauma Karjalakatu, Rauma, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.510795,61.13239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Vaasa Pitkäkatu</name>
+        <description>Shell Express Vaasa Pitkäkatu, Vaasa, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.622467,63.091317,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Vaasa Meijerinkatu</name>
+        <description>Shell Express Vaasa Meijerinkatu, Vaasa, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.635987,63.100591,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Vaasa Kivihaka</name>
+        <description>Shell Vaasa Kivihaka, Vaasa, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.658953,63.113612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Vaasa Rantamaantie</name>
+        <description>Shell Express Vaasa Rantamaantie, Vaasa, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.664701,63.079057,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Laitila</name>
+        <description>Shell Laitila, Laitila, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.700714,60.874179,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Vaasa Kiitokaari</name>
+        <description>Shell TS Vaasa Kiitokaari, Vaasa, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.721153,63.051112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Pori Tikkula</name>
+        <description>Shell Express Pori Tikkula, Pori, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.753112,61.48625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Pori Karjaranta</name>
+        <description>Shell Express Pori Karjaranta, Pori, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.783888,61.489622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Pori Satakunnankatu</name>
+        <description>Shell TS Pori Satakunnankatu, Pori, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.806346,61.468672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Pori Koivula</name>
+        <description>Shell Pori Koivula, Pori, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.81401,61.474582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Pori Noormarkku</name>
+        <description>Shell Pori Noormarkku, Noormarkku, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.852527,61.584596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Laihia</name>
+        <description>Shell Express Laihia, Laihia, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.000987,62.982933,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Pomarkku</name>
+        <description>Shell Pomarkku, Pomarkku, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.014351,61.701207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Naantali Satama</name>
+        <description>Shell TS Naantali Satama, Naantali, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.061438,60.468741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Turku Satama 2</name>
+        <description>Shell TS Turku Satama 2, Turku, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.20909,60.447674,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Turku Satama 1</name>
+        <description>Shell TS Turku Satama 1, Turku, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.213944,60.447642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Turku Martinmäki</name>
+        <description>Shell Express Turku Martinmäki, Turku, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.256953,60.441106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Turku Mäntymäki</name>
+        <description>Shell Express Turku Mäntymäki, Turku, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.26325,60.435748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Turku SataShell</name>
+        <description>Shell Turku SataShell, Turku, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.269874,60.457603,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Turku Kärsämäentie</name>
+        <description>Shell Express Turku Kärsämäentie, Turku, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.283936,60.477375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Turku Oriketo</name>
+        <description>Shell Turku Oriketo, Turku, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.322941,60.486495,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Kaarina</name>
+        <description>Shell Kaarina, Kaarina, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.37262,60.407612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Kankaanpää</name>
+        <description>Shell Kankaanpää, Kankaanpää, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.392437,61.801501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Lieto</name>
+        <description>Shell Lieto, Lieto, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.46026,60.502851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Piikkiö</name>
+        <description>Shell Piikkiö, Piikkiö, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.524477,60.42309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Uusikaarlepyy Myllytie</name>
+        <description>Shell TS Uusikaarlepyy Myllytie, Uusikaarlepyy, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.542585,63.52672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Aura</name>
+        <description>Shell Aura, Aura, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.552448,60.642726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Huittinen Mommola</name>
+        <description>Shell Huittinen Mommola, Pirkkala, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.682317,61.167872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Pietarsaari, Raatihuoneenkatu</name>
+        <description>Shell Pietarsaari, Raatihuoneenkatu, Pietarsaari, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.687631,63.674209,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Oripää</name>
+        <description>Shell Oripää, Oripää, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.693092,60.857071,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Pietarsaari Jaakonkatu</name>
+        <description>Shell Express Pietarsaari Jaakonkatu, Pietarsaari, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.711525,63.67667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Kemiönsaari Kemiö</name>
+        <description>Shell Express Kemiönsaari Kemiö, Kemiö, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.729335,60.161563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Pietarsaari Kållbyntie</name>
+        <description>Shell TS Pietarsaari Kållbyntie, Pietarsaari, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.788472,63.650643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Seinäjoki Valtionkatu</name>
+        <description>Shell Express Seinäjoki Valtionkatu, Seinäjoki, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.838772,62.793951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Seinäjoki Pohjankaari</name>
+        <description>Shell Express Seinäjoki Pohjankaari, Seinäjoki, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.868189,62.801401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Seinäjoki Pohjankaari</name>
+        <description>Shell TS Seinäjoki Pohjankaari, Seinäjoki, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.868437,62.803723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Seinäjoki Päivölänkatu</name>
+        <description>Shell TS Seinäjoki Päivölänkatu, Seinäjoki, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.869872,62.792577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Vammala Pesurinkatu</name>
+        <description>Shell Vammala Pesurinkatu, Sastamala, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.919978,61.332036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Seinäjoki Roves</name>
+        <description>Shell TS Seinäjoki Roves, Seinäjoki, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.92624,62.765374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Parkano</name>
+        <description>Shell Parkano, Parkano, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.012047,62.005444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Salo Halikko</name>
+        <description>Shell Salo Halikko, Halikko, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.045522,60.425143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Lapua Tamppari</name>
+        <description>Shell Lapua Tamppari, Lapua, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.05145,62.959717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Loimaa</name>
+        <description>Shell Loimaa, Loimaa, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.056503,60.84878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Vammala Stormi</name>
+        <description>Shell Vammala Stormi, Sastamala, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.091293,61.359037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Kokkola Vitsari</name>
+        <description>Shell Kokkola Vitsari, Kokkola, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.204731,63.851638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Evijärvi</name>
+        <description>Shell TS Evijärvi, Evijärvi, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.4677,63.3598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Nokia</name>
+        <description>Shell Nokia, Nokia, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.483811,61.456328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Somero</name>
+        <description>Shell Somero, Somero, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.518469,60.625727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Ylöjärvi</name>
+        <description>Shell Ylöjärvi, Ylöjärvi, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.549603,61.55825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Raasepori Pohjankuru</name>
+        <description>Shell Raasepori Pohjankuru, Pohjankuru, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.552036,60.101819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Forssa</name>
+        <description>Shell TS Forssa, Forssa, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.5727,60.8265,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Raasepori Karjaa</name>
+        <description>Shell Raasepori Karjaa, Karjaa, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.64777,60.053778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Tampere Lielahti</name>
+        <description>Shell Express Tampere Lielahti, Tampere, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.666253,61.516254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Muonio</name>
+        <description>Shell TS Muonio, Muonio, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.675696,67.946097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Tampere Lahdenperänkatu</name>
+        <description>Shell Tampere Lahdenperänkatu, Tampere, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.77212,61.476619,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Tampere Sammon Valtatie</name>
+        <description>Shell Tampere Sammon Valtatie, Tampere, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.857225,61.488743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Toijala</name>
+        <description>Shell Express Toijala, Akaa, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.86915,61.169604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Kalajoki</name>
+        <description>Shell Kalajoki, Kalajoki, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.93582,64.255449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Pello</name>
+        <description>Shell Pello, Pello, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.965465,66.77586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Kangasala Ruutana</name>
+        <description>Shell Kangasala Ruutana, Ruutana, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.99338,61.536348,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Lohja Virkkala</name>
+        <description>Shell Lohja Virkkala, Lohja, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.997402,60.187978,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Valkeakoski</name>
+        <description>Shell Valkeakoski, Valkeakoski, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.003873,61.282593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Lohja Karnainen</name>
+        <description>Shell TS Lohja Karnainen, Lohja, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.0659,60.2934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Hämeenlinna Iittala</name>
+        <description>Shell Hämeenlinna Iittala, Iittala, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.162538,61.097911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Karkkila</name>
+        <description>Shell Karkkila, Karkkila, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.220933,60.543837,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Siuntio Pikkala</name>
+        <description>Shell TS Siuntio Pikkala, Siuntio, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.2922,60.0982,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Orivesi</name>
+        <description>Shell Orivesi, Orivesi, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.355706,61.689304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Orivesi</name>
+        <description>Shell Express Orivesi, Orivesi, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.356971,61.682349,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Loppi</name>
+        <description>Shell Loppi, Jokiniemi, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.478096,60.714519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Ylivieska</name>
+        <description>Shell Ylivieska, Ylivieska, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.529539,64.070536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Espoo Ämmässuo</name>
+        <description>Shell TS Espoo Ämmässuo, Espoo, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.561695,60.243293,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Kyyjärvi</name>
+        <description>Shell Kyyjärvi, Kyyjärvi, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.561741,63.043269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Espoo Kauklahti</name>
+        <description>Shell Express Espoo Kauklahti, Espoo, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.587771,60.187842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Espoo Suomenoja</name>
+        <description>Shell Espoo Suomenoja, Espoo, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.706044,60.161611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Espoo Lahnus</name>
+        <description>Shell Espoo Lahnus, Espoo, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.714944,60.317042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Riihimäki</name>
+        <description>Shell TS Riihimäki, Riihimäki, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.737,60.7526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Espoo Sepänkylä</name>
+        <description>Shell Express Espoo Sepänkylä, Kauniainen, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.743267,60.208562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Nurmijärvi Rajamäki</name>
+        <description>Shell Nurmijärvi Rajamäki, Rajamäki, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.750706,60.527875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Riihimäki Kaarlonkatu</name>
+        <description>Shell Express Riihimäki Kaarlonkatu, Riihimäki, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.765675,60.729479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Espoo Haukilahti</name>
+        <description>Shell Espoo Haukilahti, Espoo, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.77317,60.166172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Nurmijärvi Klaukkala</name>
+        <description>Shell Express Nurmijärvi Klaukkala, Klaukkala, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.78357,60.364906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Nurmijärvi Korsisaari</name>
+        <description>Shell TS Nurmijärvi Korsisaari, Nurmijärvi, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.79287,60.48377,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Espoo Leppävaara</name>
+        <description>Shell Espoo Leppävaara, Espoo, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.809155,60.220512,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Espoo Vallikallio</name>
+        <description>Shell Espoo Vallikallio, Espoo, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.824065,60.227293,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Vantaa Rajatorppa</name>
+        <description>Shell Express Vantaa Rajatorppa, Vantaa, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.827737,60.255291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Helsinki Konala</name>
+        <description>Shell Helsinki Konala, Helsinki, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.8437,60.241569,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Hyvinkää Sillankorvankatu</name>
+        <description>Shell Express Hyvinkää Sillankorvankatu, Hyvinkää, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.864476,60.627919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Vantaa Kaivoksela</name>
+        <description>Shell Vantaa Kaivoksela, Vantaa, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.873685,60.263892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Helsinki Lauttasaari</name>
+        <description>Shell Helsinki Lauttasaari, Helsinki, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.882778,60.155952,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Helsinki Etelä-Haaga</name>
+        <description>Shell Express Helsinki Etelä-Haaga, Helsinki, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.886384,60.213298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Helsinki Tullinpuomi</name>
+        <description>Shell Helsinki Tullinpuomi, Helsinki, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.910807,60.191393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Kittilä</name>
+        <description>Shell Kittilä, Kittilä, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.911762,67.654369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Tuusula Senkkerin Metsätie</name>
+        <description>Shell TS Tuusula Senkkerin Metsätie, Tuusula, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.92184,60.35751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Helsinki Käpylä</name>
+        <description>Shell Helsinki Käpylä, Helsinki, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.942432,60.213467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Helsinki Alppila</name>
+        <description>Shell Helsinki Alppila, Helsinki, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.94901,60.189441,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Helsinki Kruununhaka</name>
+        <description>Shell Express Helsinki Kruununhaka, Helsinki, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.961405,60.174144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Helsinki Pukinmäki</name>
+        <description>Shell Helsinki Pukinmäki, Helsinki, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.995393,60.241152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Vantaa Ruskeasanta</name>
+        <description>Shell Vantaa Ruskeasanta, Vantaa, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.998325,60.308197,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Helsinki Ala-Tikkurila</name>
+        <description>Shell Helsinki Ala-Tikkurila, Helsinki, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.030151,60.283424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Helsinki Herttoniemi</name>
+        <description>Shell Helsinki Herttoniemi, Helsinki, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.037878,60.194353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Helsinki Myllypuro</name>
+        <description>Shell Helsinki Myllypuro, Helsinki, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.065046,60.22826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Vantaa Rekola</name>
+        <description>Shell Express Vantaa Rekola, Vantaa, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.073086,60.331093,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Vantaa Malmarinrinne</name>
+        <description>Shell Express Vantaa Malmarinrinne, Vantaa, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.081356,60.286542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Järvenpää Mannilantie</name>
+        <description>Shell Järvenpää Mannilantie, Järvenpää, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.086071,60.47378,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Helsinki Itäkeskus</name>
+        <description>Shell Helsinki Itäkeskus, Helsinki, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.088461,60.210148,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Tuusula Kellokoski</name>
+        <description>Shell Express Tuusula Kellokoski, Kellokoski, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.098911,60.520866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Vantaa Mikkola</name>
+        <description>Shell Vantaa Mikkola, Vantaa, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.099075,60.344115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Vantaa Hakunila</name>
+        <description>Shell Vantaa Hakunila, Vantaa, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.10311,60.279594,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Helsinki Vartiokylä</name>
+        <description>Shell Express Helsinki Vartiokylä, Helsinki, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.106707,60.219148,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Sipoo Bastukärr</name>
+        <description>Shell TS Sipoo Bastukärr, Kerava, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.167513,60.383053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Helsinki Vuosaari 2</name>
+        <description>Shell TS Helsinki Vuosaari 2, Helsinki, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.170286,60.224363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Helsinki Vuosaari 1</name>
+        <description>Shell TS Helsinki Vuosaari 1, Helsinki, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.170322,60.224578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Jämsä</name>
+        <description>Shell Jämsä, Jämsä, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.17434,61.851856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Petäjävesi</name>
+        <description>Shell TS Petäjävesi, Petäjävesi, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.19281,62.25208,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Veneasema Helsinki Karhusaari</name>
+        <description>Shell Veneasema Helsinki Karhusaari, Helsinki, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.237698,60.250028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Mäntsälä P</name>
+        <description>Shell Mäntsälä P, Mäntsälä, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.354187,60.673625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Ii</name>
+        <description>Shell Ii, Ii, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.375972,65.309096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell 2970 TS Kittilän Kaivos</name>
+        <description>Shell 2970 TS Kittilän Kaivos, Kiistala, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.394622,67.915315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell 2177 TS Kittilän Kaivos</name>
+        <description>Shell 2177 TS Kittilän Kaivos, Kiistala, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.395051,67.915736,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Oulu Pateniemi</name>
+        <description>Shell Oulu Pateniemi, Oulu, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.408292,65.08924,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Oulu Oulunsalo</name>
+        <description>Shell Oulu Oulunsalo, Oulunsalo, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.430854,64.939477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Oulu Oritkari</name>
+        <description>Shell TS Oulu Oritkari, Oulu, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.439145,64.987131,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Oulu Välivainio</name>
+        <description>Shell Express Oulu Välivainio, Oulu, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.469511,65.031802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Kempele Hakamaantie</name>
+        <description>Shell Kempele Hakamaantie, Kempele, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.512393,64.928589,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Kempele Zeppelin</name>
+        <description>Shell Kempele Zeppelin, Kempele, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.538069,64.903812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Oulu Haapalehto</name>
+        <description>Shell Oulu Haapalehto, Oulu, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.544814,65.025516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Pihtipudas</name>
+        <description>Shell Pihtipudas, Pihtipudas, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.588997,63.366612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Porvoo Kuninkaanportti</name>
+        <description>Shell Porvoo Kuninkaanportti, Porvoo, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.609932,60.39314,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Lahti Hennala</name>
+        <description>Shell Express Lahti Hennala, Lahti, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.629949,60.96967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Rovaniemi Teollisuustie</name>
+        <description>Shell Rovaniemi Teollisuustie, Rovaniemi, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.655578,66.489041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Muurame</name>
+        <description>Shell Muurame, Muurame, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.672361,62.137787,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Lahti Kivistönmäki</name>
+        <description>Shell Lahti Kivistönmäki, Lahti, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.67426,60.999512,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Porvoo Teollisuustie</name>
+        <description>Shell Express Porvoo Teollisuustie, Porvoo, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.687444,60.402852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Äänekoski Hirvaskangas</name>
+        <description>Shell Äänekoski Hirvaskangas, Äänekoivisto, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.690725,62.515464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Kiiminki Jääli</name>
+        <description>Shell Express Kiiminki Jääli, Jääli, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.691502,65.100695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Kiiminki Jääli</name>
+        <description>Shell TS Kiiminki Jääli, Jääli, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.691502,65.100695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Jyväskylä Keljo</name>
+        <description>Shell Express Jyväskylä Keljo, Jyväskylä, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.717563,62.213185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Rovaniemi Erottaja</name>
+        <description>Shell Rovaniemi Erottaja, Rovaniemi, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.718394,66.497988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Äänekoski Torikatu</name>
+        <description>Shell Äänekoski Torikatu, Äänekoski, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.719853,62.603809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Lahti Kymijärvi</name>
+        <description>Shell Express Lahti Kymijärvi, Lahti, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.73855,60.98408,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Lahti Kymijärvi</name>
+        <description>Shell TS Lahti Kymijärvi, Lahti, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.73918,60.98385,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Jyväskylä Matkakeskus</name>
+        <description>Shell Jyväskylä Matkakeskus, Jyväskylä, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.755899,62.24342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Veneasema Jyväskylä Lutakko</name>
+        <description>Shell Veneasema Jyväskylä Lutakko, Jyväskylä, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.758307,62.23546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Rovaniemi Saarenkylä</name>
+        <description>Shell Express Rovaniemi Saarenkylä, Saarenkylä, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.78389,66.515775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Jyväskylä Halssila</name>
+        <description>Shell TS Jyväskylä Halssila, Jyväskylä, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.809783,62.240793,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Jyväskylä Halssila</name>
+        <description>Shell Express Jyväskylä Halssila, Jyväskylä, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.809833,62.240777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Äänekoski Suolahti</name>
+        <description>Shell TS Äänekoski Suolahti, Suolahti, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.837285,62.570947,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Rovaniemi Napapiiri</name>
+        <description>Shell Rovaniemi Napapiiri, Napapiiri rovaniemi, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.843417,66.544332,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Karigasniemi</name>
+        <description>Shell Karigasniemi, Karigasniemi, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.851199,69.398931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Nastola</name>
+        <description>Shell TS Nastola, Villähde, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.8877,60.948013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Loviisa Gammelby</name>
+        <description>Shell TS Loviisa Gammelby, Pernajan vanhakylä, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.892942,60.485698,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Hartola Kuninkaanportti</name>
+        <description>Shell Express Hartola Kuninkaanportti, Hartola, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            26.00717,61.564586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Liljendal</name>
+        <description>Shell Express Liljendal, Liljendal, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            26.055733,60.561201,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Liljendal</name>
+        <description>Shell TS Liljendal, Liljendal, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            26.055793,60.56121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Laukaa Lievestuore</name>
+        <description>Shell Laukaa Lievestuore, Lievestuore, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            26.177127,62.250718,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Loviisa</name>
+        <description>Shell Express Loviisa, Loviisa, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            26.232034,60.459162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Keitele</name>
+        <description>Shell TS Keitele, Keitele, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            26.32954,63.172346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Ranua</name>
+        <description>Shell Ranua, Ranua, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            26.506285,65.932774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Kouvola Kuusankoski</name>
+        <description>Shell Express Kouvola Kuusankoski, Kuusankoski, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            26.629924,60.901033,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Kuusankoski Katajaharju</name>
+        <description>Shell Kuusankoski Katajaharju, Kuusankoski, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            26.658096,60.879608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Kouvola Kappelikatu</name>
+        <description>Shell Express Kouvola Kappelikatu, Kouvola, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            26.68506,60.868785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Kotka Ruonala</name>
+        <description>Shell Express Kotka Ruonala, Kotka, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            26.875823,60.480438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Kotka Mussalo</name>
+        <description>Shell TS Kotka Mussalo, Kotka, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            26.88539,60.439249,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Kotka Keskustori</name>
+        <description>Shell Express Kotka Keskustori, Kotka, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            26.938646,60.461183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Kotka Stora Enso Sunila Oy</name>
+        <description>Shell TS Kotka Stora Enso Sunila Oy, Kotka, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            26.9559,60.4952,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Hamina Satama</name>
+        <description>Shell TS Hamina Satama, Hamina, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            27.162253,60.53648,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Iisalmi Pohjolankatu</name>
+        <description>Shell Express Iisalmi Pohjolankatu, Iisalmi, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            27.187769,63.562447,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Ristiina</name>
+        <description>Shell Express Ristiina, Ristiina, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            27.242425,61.513415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Mikkeli Ristiinantie</name>
+        <description>Shell Mikkeli Ristiinantie, Mikkeli, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            27.273635,61.675358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Mikkeli Visulahti</name>
+        <description>Shell Express Mikkeli Visulahti, Mikkeli, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            27.35471,61.703752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Kuopio Rauhalahti</name>
+        <description>Shell Kuopio Rauhalahti, Kuopio, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            27.628345,62.86152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Kuopio Päiväranta</name>
+        <description>Shell Express Kuopio Päiväranta, Kuopio, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            27.665518,62.933997,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Siilinjärvi</name>
+        <description>Shell Siilinjärvi, Siilinjärvi, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            27.674135,63.059117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Kajaani Sotkamontie</name>
+        <description>Shell Kajaani Sotkamontie, Kajaani, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            27.731046,64.216886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Juva Kylmäpurontie</name>
+        <description>Shell TS Juva Kylmäpurontie, Juva, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            27.801217,61.898067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Varkaus Relanderinkatu</name>
+        <description>Shell Express Varkaus Relanderinkatu, Varkaus, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            27.866395,62.3156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Varkaus Mäkikatu</name>
+        <description>Shell Express Varkaus Mäkikatu, Varkaus, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            27.917888,62.303144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell TS Varkaus Mäkikatu</name>
+        <description>Shell TS Varkaus Mäkikatu, Varkaus, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            27.917888,62.303144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Lappeenranta Lauritsala</name>
+        <description>Shell Express Lappeenranta Lauritsala, Lappeenranta, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            28.256629,61.066261,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Ts Imatra Abc</name>
+        <description>Shell Ts Imatra Abc, Imatra, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            28.739902,61.185836,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Imatra Lappeentie</name>
+        <description>Shell Imatra Lappeentie, Imatra, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            28.75423,61.172201,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Savonlinna Miekkoniemi</name>
+        <description>Shell Savonlinna Miekkoniemi, Savonlinna, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            28.923711,61.86907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Outokumpu</name>
+        <description>Shell Outokumpu, Outokumpu, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            28.960559,62.701361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Express Kuusamo</name>
+        <description>Shell Express Kuusamo, Kuusamo, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            29.160603,65.956045,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Kuusamo HelmiSimpukkaExpress</name>
+        <description>Shell Kuusamo HelmiSimpukkaExpress, Kuusamo, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            29.16098,65.95594,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Punkaharju</name>
+        <description>Shell Punkaharju, Punkaharju, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            29.393803,61.756535,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Kuhmo</name>
+        <description>Shell Kuhmo, Kuhmo, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            29.506803,64.122352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Liperi Ylämylly</name>
+        <description>Shell Liperi Ylämylly, Ylämylly, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            29.543934,62.614412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Joensuu Rauhankatu</name>
+        <description>Shell Joensuu Rauhankatu, Joensuu, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            29.771671,62.606936,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

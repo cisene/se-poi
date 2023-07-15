@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Stadium</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Stadium</name>
+      <Placemark>
+        <name>Stadium Uddevalla, Torp Köpcenter 6</name>
+        <description>Stadium Uddevalla, Torp Köpcenter 6, Uddevalla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.80673,58.35296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Frölunda, Frölunda Torg -</name>
+        <description>Stadium Frölunda, Frölunda Torg -, Västra Frölunda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.91158,57.6524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Sisjön, Hantverksvägen 15</name>
+        <description>Stadium Sisjön, Hantverksvägen 15, Askim, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.94939,57.64067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Backaplan, Motorgatann 2</name>
+        <description>Stadium Backaplan, Motorgatann 2, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.952577,57.721247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Run Nordstan, Köpmansgatan 28-34</name>
+        <description>Stadium Run Nordstan, Köpmansgatan 28-34, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.966,57.7102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Nordstan, Götagatan 14-16</name>
+        <description>Stadium Nordstan, Götagatan 14-16, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.96952,57.70771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Fredsgatan, Fredsgatan 8</name>
+        <description>Stadium Fredsgatan, Fredsgatan 8, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.97049,57.70592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Kungsmässan, Borgmästaregatan 5</name>
+        <description>Stadium Kungsmässan, Borgmästaregatan 5, Kungsbacka, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.07462,57.49272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Partille, Nils Henrikssons väg 3</name>
+        <description>Stadium Partille, Nils Henrikssons väg 3, Partille, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.105011,57.73666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Trollhättan, Ladugårdsvägen 12</name>
+        <description>Stadium Trollhättan, Ladugårdsvägen 12, Trollhättan, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.30658,58.31204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Väla, Marknadsvägen 1</name>
+        <description>Stadium Väla, Marknadsvägen 1, Ödåkra, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.75904,56.09365,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Hallarna, Prästvägen 1</name>
+        <description>Stadium Hallarna, Prästvägen 1, Halmstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.909162,56.655329,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Borås, Bergslenegatan 8</name>
+        <description>Stadium Borås, Bergslenegatan 8, Borås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.94019,57.73326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Ski Hundfjället, Kronotorpsvägen 2</name>
+        <description>Stadium Ski Hundfjället, Kronotorpsvägen 2, Sälen, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.96348,61.17994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Emporia, Hyllie Boulevard 19</name>
+        <description>Stadium Emporia, Hyllie Boulevard 19, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.97559,55.56415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Svågertorp, Drakagatan 8</name>
+        <description>Stadium Svågertorp, Drakagatan 8, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.987,55.55115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Center Syd, Marknadsvägen 7</name>
+        <description>Stadium Center Syd, Marknadsvägen 7, Löddeköpinge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.99052,55.76955,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Triangeln, Södra Förstadsgatan 41</name>
+        <description>Stadium Triangeln, Södra Förstadsgatan 41, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.000231,55.595968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Södergatan, Södergatan 22</name>
+        <description>Stadium Södergatan, Södergatan 22, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.00135,55.60441,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Mobilia, Mobilia köpcenter -</name>
+        <description>Stadium Mobilia, Mobilia köpcenter -, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.004243,55.580139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Ski Åre, Åre Torg 78</name>
+        <description>Stadium Ski Åre, Åre Torg 78, Åre, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.07665,63.40124,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Lidköping, Mellbygatan 8</name>
+        <description>Stadium Lidköping, Mellbygatan 8, Lidköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.15518,58.50273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Nova Lund, Företagsvägen 10</name>
+        <description>Stadium Nova Lund, Företagsvägen 10, Lund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.15996,55.71394,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Ski Lindvallen, Snöcentret Lindvallen -</name>
+        <description>Stadium Ski Lindvallen, Snöcentret Lindvallen -, Sälen, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.19398,61.16412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Lund City, Skomakargatan 11</name>
+        <description>Stadium Lund City, Skomakargatan 11, Lund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.194599,55.70286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Bergvik, Frykmans Väg 1</name>
+        <description>Stadium Bergvik, Frykmans Väg 1, Karlstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.42596,59.37209,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Karlstad City, Drottninggatan 11 14</name>
+        <description>Stadium Karlstad City, Drottninggatan 11 14, Karlstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.50288,59.38361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Skövde City, Hertig Johans torg 4</name>
+        <description>Stadium Skövde City, Hertig Johans torg 4, Skövde, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.8456,58.38963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Elins Esplanad, Köpmannagatan 3</name>
+        <description>Stadium Elins Esplanad, Köpmannagatan 3, Skövde, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.85452,58.40552,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Värnamo, Kärnan Köpcenter, Malmövägen 12</name>
+        <description>Stadium Värnamo, Kärnan Köpcenter, Malmövägen 12, Värnamo, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.0589,57.17924,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Kristianstad, Östra Boulevarden 5</name>
+        <description>Stadium Kristianstad, Östra Boulevarden 5, Kristianstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.15803,56.03103,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium C4 Kristianstad, C4 Shopping, Fundationsvägen 17</name>
+        <description>Stadium C4 Kristianstad, C4 Shopping, Fundationsvägen 17, Kristianstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.194973,56.023064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Asecs, Kompanigatan 50</name>
+        <description>Stadium Asecs, Kompanigatan 50, Jönköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.203621,57.773762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Östersund, Prästgatan 47</name>
+        <description>Stadium Östersund, Prästgatan 47, Östersund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.63746,63.17561,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Samarkand, Hejaregatan 32</name>
+        <description>Stadium Samarkand, Hejaregatan 32, Växjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.77617,56.88323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Växjö City, Storgatan 5</name>
+        <description>Stadium Växjö City, Storgatan 5, Växjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.80819,56.87852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Marieberg, Säljarvägen 10</name>
+        <description>Stadium Marieberg, Säljarvägen 10, Örebro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.135677,59.216475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Örebro City, Drottninggatan 27</name>
+        <description>Stadium Örebro City, Drottninggatan 27, Örebro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.207477,59.269179,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Borlänge, Kupolen 79</name>
+        <description>Stadium Borlänge, Kupolen 79, Borlänge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.41798,60.48417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Karlskrona, Ronnebygatan 46</name>
+        <description>Stadium Karlskrona, Ronnebygatan 46, Karlskrona, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.585444,56.162539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Tornby, Västra Svedengatan 16</name>
+        <description>Stadium Tornby, Västra Svedengatan 16, Linköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.59064,58.43313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Linköping City, Nygatan 20</name>
+        <description>Stadium Linköping City, Nygatan 20, Linköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.627199,58.410182,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Falun, Holmgatan 20</name>
+        <description>Stadium Falun, Holmgatan 20, Falun, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.63303,60.60545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Ingelsta, Koppargatan 20</name>
+        <description>Stadium Ingelsta, Koppargatan 20, Norrköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.154502,58.618741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Norrköping City, Drottninggatan 29</name>
+        <description>Stadium Norrköping City, Drottninggatan 29, Norrköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.188138,58.587373,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Hansa City, Bilbyggarvägen 1</name>
+        <description>Stadium Hansa City, Bilbyggarvägen 1, Kalmar, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.31744,56.68261,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Giraffen, Verkstadsgatan 6</name>
+        <description>Stadium Giraffen, Verkstadsgatan 6, Kalmar, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.34,56.67,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Erikslund, Krankroksgatan 19</name>
+        <description>Stadium Erikslund, Krankroksgatan 19, Västerås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.45343,59.60992,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Tuna Park, Gunborg Nymansväg 2</name>
+        <description>Stadium Tuna Park, Gunborg Nymansväg 2, Eskilstuna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.47011,59.37135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Västerås City, Vasagatan 10-12</name>
+        <description>Stadium Västerås City, Vasagatan 10-12, Västerås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.5465,59.61,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Valbo, Valbo Köpcentrum 0</name>
+        <description>Stadium Valbo, Valbo Köpcentrum 0, Valbo, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.99573,60.633612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Gävle City, Drottninggatan 16</name>
+        <description>Stadium Gävle City, Drottninggatan 16, Gävle, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.14266,60.65676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Sundsvall City, Centralgatan 4</name>
+        <description>Stadium Sundsvall City, Centralgatan 4, Sundsvall, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.308,62.39161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Birsta, Gesällvägen 7 C</name>
+        <description>Stadium Birsta, Gesällvägen 7 C, Sundsvall, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.33,62.44,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Uppsala City, Kungsängsgatan 2-4</name>
+        <description>Stadium Uppsala City, Kungsängsgatan 2-4, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.64172,59.85837,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Gränby, Gränby Centrum, Marknadsgatan 1</name>
+        <description>Stadium Gränby, Gränby Centrum, Marknadsgatan 1, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.67262,59.88142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Boländerna+, Rapsgatan 5 D</name>
+        <description>Stadium Boländerna+, Rapsgatan 5 D, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.691247,59.84709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Barkarby+, Flyginfarten 7</name>
+        <description>Stadium Barkarby+, Flyginfarten 7, Järfälla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.85853,59.4197,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Vällingby, Årevägen 59</name>
+        <description>Stadium Vällingby, Årevägen 59, Vällingby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.87554,59.36166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Skärholmen, Byholmsgången 1-3</name>
+        <description>Stadium Skärholmen, Byholmsgången 1-3, Skärholmen, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.90715,59.275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Väsby, Dragonvägen 86</name>
+        <description>Stadium Väsby, Dragonvägen 86, Upplands Väsby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.90992,59.51867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Kungens Kurva+, Modulvägen 6</name>
+        <description>Stadium Kungens Kurva+, Modulvägen 6, Kungens Kurva, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.91743,59.2701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Kista, Danmarksgatan 42</name>
+        <description>Stadium Kista, Danmarksgatan 42, Kista, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.942658,59.403008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Bromma, Ulvsundavägen 191 F</name>
+        <description>Stadium Bromma, Ulvsundavägen 191 F, Bromma, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.94944,59.356643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Sollentuna, Sollentunavägen 163</name>
+        <description>Stadium Sollentuna, Sollentunavägen 163, Sollentuna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.951336,59.428242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Solna, Centrumslingan 14A</name>
+        <description>Stadium Solna, Centrumslingan 14A, Solna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.00108,59.35958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Mall of Scandinavia, Evenemangsgatan 14C</name>
+        <description>Stadium Mall of Scandinavia, Evenemangsgatan 14C, Solna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.001599,59.370669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Drottninggatan, Drottninggatan 53</name>
+        <description>Stadium Drottninggatan, Drottninggatan 53, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.06186,59.3333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Run Kungsgatan, Kungsgatan 8</name>
+        <description>Stadium Run Kungsgatan, Kungsgatan 8, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.069133,59.335512,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Gallerian, Hamngatan 37</name>
+        <description>Stadium Gallerian, Hamngatan 37, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.07,59.33,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Ringen, Götgatan 98</name>
+        <description>Stadium Ringen, Götgatan 98, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.0756,59.30899,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Täby, Östantorget 151 B</name>
+        <description>Stadium Täby, Östantorget 151 B, Täby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.07869,59.44763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Globen, Arenatorget 6</name>
+        <description>Stadium Globen, Arenatorget 6, Johanneshov, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.081281,59.293644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Farsta, Farsta Torg 23</name>
+        <description>Stadium Farsta, Farsta Torg 23, Farsta, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.09165,59.24244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Sickla, Simbagatan 10</name>
+        <description>Stadium Sickla, Simbagatan 10, Nacka, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.12736,59.30597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Haninge, Stores Gränd 8</name>
+        <description>Stadium Haninge, Stores Gränd 8, Haninge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.13942,59.16966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Nacka Forum, Vikdalsvägen 6</name>
+        <description>Stadium Nacka Forum, Vikdalsvägen 6, Nacka, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.163652,59.309739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Visby, Österväg 9</name>
+        <description>Stadium Visby, Österväg 9, Visby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.30126,57.63756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Örnsköldsvik, Storgatan 15</name>
+        <description>Stadium Örnsköldsvik, Storgatan 15, Örnsköldsvik, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.71497,63.29118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Umeå Syd, Marknadsgatan 7</name>
+        <description>Stadium Umeå Syd, Marknadsgatan 7, Umeå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.25159,63.806555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Umeå City, Kungsgatan 69</name>
+        <description>Stadium Umeå City, Kungsgatan 69, Umeå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.2663,63.82539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Skellefteå, Nygatan 50</name>
+        <description>Stadium Skellefteå, Nygatan 50, Skellefteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.95452,64.75044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadium Luleå, Timmermansgatan 19</name>
+        <description>Stadium Luleå, Timmermansgatan 19, Luleå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.15459,65.58501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,2084 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Handelsbanken</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Handelsbanken</name>
+      <Placemark>
+        <name>Handelsbanken Göteborg Torslanda</name>
+        <description>Handelsbanken Göteborg Torslanda, Torslanda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.774278,57.709946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Stenungsund</name>
+        <description>Handelsbanken Stenungsund, Stenungsund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.815489,58.063122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Göteborg Volvo PVB</name>
+        <description>Handelsbanken Göteborg Volvo PVB, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.8612,57.727715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Älvsborg</name>
+        <description>Handelsbanken Älvsborg, Västra Frölunda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.880107,57.671969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Göteborg Frölunda</name>
+        <description>Handelsbanken Göteborg Frölunda, Västra Frölunda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.913734,57.647541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Eriksberg Lindholmen</name>
+        <description>Handelsbanken Eriksberg Lindholmen, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.920406,57.70908,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Uddevalla</name>
+        <description>Handelsbanken Uddevalla, Uddevalla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.934593,58.349395,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Göteborg Första Långgatan</name>
+        <description>Handelsbanken Göteborg Första Långgatan, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.94674,57.699494,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Göteborg Sisjön</name>
+        <description>Handelsbanken Göteborg Sisjön, Askim, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.947385,57.640733,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Kungälv</name>
+        <description>Handelsbanken Kungälv, Kungälv, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.966813,57.874572,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Göteborg City</name>
+        <description>Handelsbanken Göteborg City, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.968027,57.705868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Göteborg Avenyn</name>
+        <description>Handelsbanken Göteborg Avenyn, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.977466,57.699092,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Mölndal</name>
+        <description>Handelsbanken Mölndal, Mölndal, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.987291,57.652739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Göteborg Almedal</name>
+        <description>Handelsbanken Göteborg Almedal, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.003033,57.683031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Göteborg Örgryte</name>
+        <description>Handelsbanken Göteborg Örgryte, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.007259,57.704811,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Kungsbacka</name>
+        <description>Handelsbanken Kungsbacka, Kungsbacka, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.073285,57.489323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Partille</name>
+        <description>Handelsbanken Partille, Sävedalen, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.076476,57.733226,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Mölnlycke</name>
+        <description>Handelsbanken Mölnlycke, Mölnlycke, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.116975,57.658816,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Varberg</name>
+        <description>Handelsbanken Varberg, Varberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.248986,57.105775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Lerum</name>
+        <description>Handelsbanken Lerum, Lerum, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.271159,57.770016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Trollhättan</name>
+        <description>Handelsbanken Trollhättan, Trollhättan, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.288798,58.284301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Vänersborg</name>
+        <description>Handelsbanken Vänersborg, Vänersborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.322048,58.378609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Falkenberg</name>
+        <description>Handelsbanken Falkenberg, Falkenberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.484103,56.903445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Alingsås</name>
+        <description>Handelsbanken Alingsås, Alingsås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.535346,57.930405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Höganäs</name>
+        <description>Handelsbanken Höganäs, Höganäs, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.555198,56.199381,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Bollebygd</name>
+        <description>Handelsbanken Bollebygd, Bollebygd, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.568381,57.667886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Helsingborg Stortorget</name>
+        <description>Handelsbanken Helsingborg Stortorget, Helsingborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.693716,56.046662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Åmål</name>
+        <description>Handelsbanken Åmål, Åmål, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.705918,59.05111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Landskrona</name>
+        <description>Handelsbanken Landskrona, Landskrona, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.829909,55.870827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Skanör</name>
+        <description>Handelsbanken Skanör, Skanör, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.843938,55.412513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Båstad</name>
+        <description>Handelsbanken Båstad, Båstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.849241,56.426769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Ängelholm</name>
+        <description>Handelsbanken Ängelholm, Ängelholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.862462,56.243004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Halmstad</name>
+        <description>Handelsbanken Halmstad, Halmstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.866071,56.674207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Malmö Limhamn</name>
+        <description>Handelsbanken Malmö Limhamn, Limhamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.932149,55.582439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Borås City</name>
+        <description>Handelsbanken Borås City, Borås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.935116,57.716887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Vara</name>
+        <description>Handelsbanken Vara, Vara, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.951492,58.261891,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Höllviken</name>
+        <description>Handelsbanken Höllviken, Höllviken, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.956693,55.421242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Malmö Fridhem</name>
+        <description>Handelsbanken Malmö Fridhem, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.965205,55.593989,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Malmö City</name>
+        <description>Handelsbanken Malmö City, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.00106,55.610179,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Malmö Stortorget</name>
+        <description>Handelsbanken Malmö Stortorget, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.001493,55.605583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Malmö Fosie</name>
+        <description>Handelsbanken Malmö Fosie, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.053022,55.569698,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Malmö Öster</name>
+        <description>Handelsbanken Malmö Öster, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.065526,55.595785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Lomma</name>
+        <description>Handelsbanken Lomma, Lomma, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.068803,55.673247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Åre</name>
+        <description>Handelsbanken Åre, Åre, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.076631,63.39875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Kävlinge</name>
+        <description>Handelsbanken Kävlinge, Kävlinge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.109436,55.791341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Sunne</name>
+        <description>Handelsbanken Sunne, Sunne, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.147067,59.837607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Trelleborg</name>
+        <description>Handelsbanken Trelleborg, Trelleborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.153945,55.372996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Lidköping</name>
+        <description>Handelsbanken Lidköping, Lidköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.157018,58.503268,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Lund City</name>
+        <description>Handelsbanken Lund City, Lund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.192543,55.701078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Staffanstorp</name>
+        <description>Handelsbanken Staffanstorp, Staffanstorp, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.208758,55.644007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Lund Ideon</name>
+        <description>Handelsbanken Lund Ideon, Lund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.216252,55.716874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Eslöv</name>
+        <description>Handelsbanken Eslöv, Eslöv, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.303315,55.839867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Lima</name>
+        <description>Handelsbanken Lima, Lima, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.360464,60.93459,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Ulricehamn</name>
+        <description>Handelsbanken Ulricehamn, Ulricehamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.412459,57.793374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Karlstad</name>
+        <description>Handelsbanken Karlstad, Karlstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.501195,59.380319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Gislaved</name>
+        <description>Handelsbanken Gislaved, Gislaved, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.544124,57.301718,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Falköping</name>
+        <description>Handelsbanken Falköping, Falköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.554705,58.160732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Sjöbo</name>
+        <description>Handelsbanken Sjöbo, Sjöbo, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.704392,55.631593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Hässleholm</name>
+        <description>Handelsbanken Hässleholm, Hässleholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.760911,56.157941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Mariestad</name>
+        <description>Handelsbanken Mariestad, Mariestad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.820894,58.709161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Ystad</name>
+        <description>Handelsbanken Ystad, Ystad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.82119,55.429031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Skövde</name>
+        <description>Handelsbanken Skövde, Skövde, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.846408,58.390592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Ljungby</name>
+        <description>Handelsbanken Ljungby, Ljungby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.941426,56.833583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Värnamo</name>
+        <description>Handelsbanken Värnamo, Värnamo, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.038067,57.185397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Älmhult</name>
+        <description>Handelsbanken Älmhult, Älmhult, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.140974,56.552277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Kristianstad Åhus</name>
+        <description>Handelsbanken Kristianstad Åhus, Kristianstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.15703,56.031515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Jönköping</name>
+        <description>Handelsbanken Jönköping, Jönköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.178677,57.780298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Vansbro</name>
+        <description>Handelsbanken Vansbro, Vansbro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.226533,60.510445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Simrishamn</name>
+        <description>Handelsbanken Simrishamn, Simrishamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.350173,55.556822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Sveg</name>
+        <description>Handelsbanken Sveg, Sveg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.358336,62.033644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Krokom</name>
+        <description>Handelsbanken Krokom, Krokom, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.447571,63.327008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Karlskoga</name>
+        <description>Handelsbanken Karlskoga, Karlskoga, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.522762,59.326277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Mora</name>
+        <description>Handelsbanken Mora, Mora, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.536359,61.004707,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Östersund</name>
+        <description>Handelsbanken Östersund, Östersund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.636925,63.178901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Nässjö</name>
+        <description>Handelsbanken Nässjö, Nässjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.698245,57.653267,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Växjö</name>
+        <description>Handelsbanken Växjö, Växjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.80092,56.879799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Karlshamn</name>
+        <description>Handelsbanken Karlshamn, Karlshamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.861695,56.1704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Tranås</name>
+        <description>Handelsbanken Tranås, Tranås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.976682,58.03508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Leksand</name>
+        <description>Handelsbanken Leksand, Leksand, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.996473,60.732324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Motala</name>
+        <description>Handelsbanken Motala, Motala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.037075,58.537522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Vetlanda</name>
+        <description>Handelsbanken Vetlanda, Vetlanda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.086112,57.425876,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Mjölby</name>
+        <description>Handelsbanken Mjölby, Mjölby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.126897,58.326771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Kumla</name>
+        <description>Handelsbanken Kumla, Kumla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.142909,59.127825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Ludvika</name>
+        <description>Handelsbanken Ludvika, Ludvika, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.18569,60.150418,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Örebro Drottningparken</name>
+        <description>Handelsbanken Örebro Drottningparken, Örebro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.201042,59.265616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Örebro Ekersgatan</name>
+        <description>Handelsbanken Örebro Ekersgatan, Örebro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.205708,59.276148,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Örebro Stortorget</name>
+        <description>Handelsbanken Örebro Stortorget, Örebro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.21382,59.271975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Lindesberg</name>
+        <description>Handelsbanken Lindesberg, Lindesberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.225181,59.59262,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Borlänge</name>
+        <description>Handelsbanken Borlänge, Borlänge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.432552,60.485536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Strömsund</name>
+        <description>Handelsbanken Strömsund, Strömsund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.558569,63.851951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Karlskrona</name>
+        <description>Handelsbanken Karlskrona, Karlskrona, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.590951,56.167384,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Linköping</name>
+        <description>Handelsbanken Linköping, Linköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.626743,58.412318,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Falun</name>
+        <description>Handelsbanken Falun, Falun, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.631068,60.606898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Ånge</name>
+        <description>Handelsbanken Ånge, Ånge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.658639,62.524215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Fagersta</name>
+        <description>Handelsbanken Fagersta, Fagersta, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.792565,60.00431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Edsbyn</name>
+        <description>Handelsbanken Edsbyn, Edsbyn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.818794,61.375158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Arboga</name>
+        <description>Handelsbanken Arboga, Arboga, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.840742,59.395107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Vimmerby</name>
+        <description>Handelsbanken Vimmerby, Vimmerby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.856077,57.66567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Hedemora</name>
+        <description>Handelsbanken Hedemora, Hedemora, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.985676,60.277837,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Köping</name>
+        <description>Handelsbanken Köping, Köping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.997346,59.513347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Ljusdal</name>
+        <description>Handelsbanken Ljusdal, Ljusdal, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.095403,61.828083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Norrköping</name>
+        <description>Handelsbanken Norrköping, Norrköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.185933,58.592591,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Katrineholm</name>
+        <description>Handelsbanken Katrineholm, Katrineholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.207432,58.995832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Kalmar</name>
+        <description>Handelsbanken Kalmar, Kalmar, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.363414,56.663325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Bollnäs</name>
+        <description>Handelsbanken Bollnäs, Bollnäs, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.393891,61.347642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Oskarshamn</name>
+        <description>Handelsbanken Oskarshamn, Oskarshamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.446992,57.265897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Eskilstuna</name>
+        <description>Handelsbanken Eskilstuna, Eskilstuna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.512774,59.370911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Västerås Köpingsvägen</name>
+        <description>Handelsbanken Västerås Köpingsvägen, Västerås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.523893,59.602767,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Västerås City</name>
+        <description>Handelsbanken Västerås City, Västerås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.547554,59.610811,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Västerås Öster Mälarstrand</name>
+        <description>Handelsbanken Västerås Öster Mälarstrand, Västerås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.575472,59.601313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Sala Heby</name>
+        <description>Handelsbanken Sala Heby, Sala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.605633,59.920688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Västervik</name>
+        <description>Handelsbanken Västervik, Västervik, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.637962,57.758261,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Vilhelmina</name>
+        <description>Handelsbanken Vilhelmina, Vilhelmina, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.654444,64.624884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Öland</name>
+        <description>Handelsbanken Öland, Borgholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.657156,56.879435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Sandviken</name>
+        <description>Handelsbanken Sandviken, Sandviken, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.775474,60.621088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Nyköping</name>
+        <description>Handelsbanken Nyköping, Nyköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.00571,58.752403,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Strängnäs</name>
+        <description>Handelsbanken Strängnäs, Strängnäs, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.026834,59.376798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Söderhamn</name>
+        <description>Handelsbanken Söderhamn, Söderhamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.056212,61.302798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Enköping</name>
+        <description>Handelsbanken Enköping, Enköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.079648,59.635629,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Hudiksvall</name>
+        <description>Handelsbanken Hudiksvall, Hudiksvall, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.105546,61.727604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Gävle City</name>
+        <description>Handelsbanken Gävle City, Gävle, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.142753,60.675197,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Sollefteå</name>
+        <description>Handelsbanken Sollefteå, Sollefteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.27042,63.16703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Sundsvall</name>
+        <description>Handelsbanken Sundsvall, Sundsvall, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.31439,62.387561,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Tierp</name>
+        <description>Handelsbanken Tierp, Tierp, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.516247,60.343681,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Bålsta</name>
+        <description>Handelsbanken Bålsta, Bålsta, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.531177,59.566261,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Uppsala Luthagen</name>
+        <description>Handelsbanken Uppsala Luthagen, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.613269,59.862763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Södertälje</name>
+        <description>Handelsbanken Södertälje, Södertälje, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.62406,59.201431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Uppsala Rosendal</name>
+        <description>Handelsbanken Uppsala Rosendal, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.632479,59.831904,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Uppsala City</name>
+        <description>Handelsbanken Uppsala City, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.639696,59.859762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Uppsala Boländerna</name>
+        <description>Handelsbanken Uppsala Boländerna, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.664834,59.855527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Sigtuna</name>
+        <description>Handelsbanken Sigtuna, Sigtuna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.722065,59.61688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Kungsängen</name>
+        <description>Handelsbanken Kungsängen, Kungsängen, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.749775,59.479314,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Kramfors</name>
+        <description>Handelsbanken Kramfors, Kramfors, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.776772,62.930768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Knivsta</name>
+        <description>Handelsbanken Knivsta, Knivsta, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.78947,59.725943,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Ekerö</name>
+        <description>Handelsbanken Ekerö, Ekerö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.811585,59.289819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Jakobsberg</name>
+        <description>Handelsbanken Jakobsberg, Järfälla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.835397,59.424393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Vällingby</name>
+        <description>Handelsbanken Vällingby, Vällingby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.871976,59.362327,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Tullinge</name>
+        <description>Handelsbanken Tullinge, Tullinge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.90319,59.206142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Upplands Väsby</name>
+        <description>Handelsbanken Upplands Väsby, Upplands Väsby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.911934,59.518512,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Brommaplan</name>
+        <description>Handelsbanken Brommaplan, Bromma, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.938191,59.339542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Härnösand</name>
+        <description>Handelsbanken Härnösand, Härnösand, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.938881,62.633121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Kista</name>
+        <description>Handelsbanken Kista, Kista, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.946777,59.401474,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Nynäshamn</name>
+        <description>Handelsbanken Nynäshamn, Nynäshamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.947828,58.903658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Sollentuna Centrum</name>
+        <description>Handelsbanken Sollentuna Centrum, Sollentuna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.952433,59.426862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Sundbyberg</name>
+        <description>Handelsbanken Sundbyberg, Sundbyberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.966122,59.36127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Hägersten</name>
+        <description>Handelsbanken Hägersten, Hägersten, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.967163,59.293252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Alviks Torg</name>
+        <description>Handelsbanken Alviks Torg, Bromma, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.982426,59.332651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Huddinge Centrum</name>
+        <description>Handelsbanken Huddinge Centrum, Huddinge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.983018,59.236428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Solna</name>
+        <description>Handelsbanken Solna, Solna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.998134,59.362187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Arenastaden</name>
+        <description>Handelsbanken Arenastaden, Solna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.001822,59.369692,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Stockholm Hornsberg</name>
+        <description>Handelsbanken Stockholm Hornsberg, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.005111,59.339329,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Älvsjö</name>
+        <description>Handelsbanken Älvsjö, Älvsjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.008864,59.279373,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Stockholm Arbetargatan</name>
+        <description>Handelsbanken Stockholm Arbetargatan, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.028903,59.33532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Marievik</name>
+        <description>Handelsbanken Marievik, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.028913,59.309966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Mörby Centrum</name>
+        <description>Handelsbanken Mörby Centrum, Danderyd, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.036568,59.397217,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Stockholm S:t Eriksplan</name>
+        <description>Handelsbanken Stockholm S:t Eriksplan, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.036599,59.339529,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Stockholm Vanadisplan</name>
+        <description>Handelsbanken Stockholm Vanadisplan, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.039115,59.345299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Stockholm Högalid</name>
+        <description>Handelsbanken Stockholm Högalid, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.041097,59.316371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Stockholm Kungsholmstorg</name>
+        <description>Handelsbanken Stockholm Kungsholmstorg, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.0425,59.329009,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Stockholm Norrtullsgatan</name>
+        <description>Handelsbanken Stockholm Norrtullsgatan, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.050712,59.343366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Stockholm Vasagatan</name>
+        <description>Handelsbanken Stockholm Vasagatan, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.057402,59.332808,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Täby Centrum</name>
+        <description>Handelsbanken Täby Centrum, Täby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.067722,59.443626,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Stockholm Götgatsbacken</name>
+        <description>Handelsbanken Stockholm Götgatsbacken, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.070875,59.319275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Stockholm Stureplan</name>
+        <description>Handelsbanken Stockholm Stureplan, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.07234,59.335662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Stockholm Kungsträdgården</name>
+        <description>Handelsbanken Stockholm Kungsträdgården, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.073335,59.330154,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Stockholm Norrmalmstorg</name>
+        <description>Handelsbanken Stockholm Norrmalmstorg, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.073823,59.333749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Stockholm Humlegården</name>
+        <description>Handelsbanken Stockholm Humlegården, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.076361,59.340233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Stockholm Skanstull</name>
+        <description>Handelsbanken Stockholm Skanstull, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.076485,59.308523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Vallentuna</name>
+        <description>Handelsbanken Vallentuna, Vallentuna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.076843,59.534451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Stockholm Strandvägen</name>
+        <description>Handelsbanken Stockholm Strandvägen, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.079017,59.332391,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Stockholm Östermalmstorg</name>
+        <description>Handelsbanken Stockholm Östermalmstorg, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.079175,59.336409,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Globen</name>
+        <description>Handelsbanken Globen, Johanneshov, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.079907,59.294517,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Djursholm</name>
+        <description>Handelsbanken Djursholm, Djursholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.089289,59.397532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Stockholm Karlaplan</name>
+        <description>Handelsbanken Stockholm Karlaplan, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.089908,59.336966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Farsta Centrum</name>
+        <description>Handelsbanken Farsta Centrum, Farsta, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.093643,59.241931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Hammarby Sjöstad</name>
+        <description>Handelsbanken Hammarby Sjöstad, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.093849,59.304444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Stockholm Gärdet</name>
+        <description>Handelsbanken Stockholm Gärdet, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.1011,59.348463,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Lidingö</name>
+        <description>Handelsbanken Lidingö, Lidingö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.135475,59.365709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Haninge</name>
+        <description>Handelsbanken Haninge, Handen, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.135502,59.166099,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Nacka Forum</name>
+        <description>Handelsbanken Nacka Forum, Nacka, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.166145,59.309077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Tyresö</name>
+        <description>Handelsbanken Tyresö, Tyresö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.219712,59.246732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Saltsjö-Boo</name>
+        <description>Handelsbanken Saltsjö-Boo, Saltsjö-Boo, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.256853,59.326664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Åkersberga</name>
+        <description>Handelsbanken Åkersberga, Åkersberga, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.298733,59.479685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Gotland</name>
+        <description>Handelsbanken Gotland, Visby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.299412,57.637799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Östhammar</name>
+        <description>Handelsbanken Östhammar, Östhammar, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.373247,60.258884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Värmdö</name>
+        <description>Handelsbanken Värmdö, Gustavsberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.392898,59.326688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Hallstavik</name>
+        <description>Handelsbanken Hallstavik, Hallstavik, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.597103,60.049547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Lycksele</name>
+        <description>Handelsbanken Lycksele, Lycksele, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.677269,64.594997,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Norrtälje</name>
+        <description>Handelsbanken Norrtälje, Norrtälje, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.702736,59.757153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Örnsköldsvik</name>
+        <description>Handelsbanken Örnsköldsvik, Örnsköldsvik, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.716434,63.289291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Norsjö - Malå</name>
+        <description>Handelsbanken Norsjö - Malå, Norsjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.480426,64.912503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Nordmaling</name>
+        <description>Handelsbanken Nordmaling, Nordmaling, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.498612,63.569051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Vännäs</name>
+        <description>Handelsbanken Vännäs, Vännäs, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.753563,63.905718,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Umeå Teg</name>
+        <description>Handelsbanken Umeå Teg, Umeå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.253554,63.820505,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Umeå City</name>
+        <description>Handelsbanken Umeå City, Umeå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.263512,63.824469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Kiruna</name>
+        <description>Handelsbanken Kiruna, Kiruna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.303032,67.848251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Gällivare</name>
+        <description>Handelsbanken Gällivare, Gällivare, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.659209,67.134418,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Skellefteå</name>
+        <description>Handelsbanken Skellefteå, Skellefteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.950003,64.749108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Älvsbyn</name>
+        <description>Handelsbanken Älvsbyn, Älvsbyn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.008456,65.673633,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Piteå</name>
+        <description>Handelsbanken Piteå, Piteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.480856,65.317724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Boden</name>
+        <description>Handelsbanken Boden, Boden, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.688402,65.825196,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Luleå Storgatan</name>
+        <description>Handelsbanken Luleå Storgatan, Luleå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.149986,65.584108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Kalix</name>
+        <description>Handelsbanken Kalix, Kalix, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.142469,65.85512,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handelsbanken Pajala</name>
+        <description>Handelsbanken Pajala, Pajala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.367491,67.213449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

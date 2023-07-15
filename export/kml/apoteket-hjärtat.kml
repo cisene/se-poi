@@ -1,0 +1,3954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Apotek Hjärtat</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Apotek Hjärtat</name>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Kvantum</name>
+        <description>Apotek Hjärtat ICA Kvantum, Strömstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.194098,58.935751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Nordby Köpcenter</name>
+        <description>Apotek Hjärtat Nordby Köpcenter, Strömstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.209955,59.064896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Myggenäs</name>
+        <description>Apotek Hjärtat Myggenäs, Tjörn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.75165,58.06218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Torslanda Torg</name>
+        <description>Apotek Hjärtat Torslanda Torg, Torslanda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.767026,57.723354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi Torslanda</name>
+        <description>Apotek Hjärtat ICA Maxi Torslanda, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.771708,57.709928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi Torp</name>
+        <description>Apotek Hjärtat ICA Maxi Torp, Uddevalla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.81004,58.353729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat</name>
+        <description>Apotek Hjärtat, Stenungsund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.817542,58.069261,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Kyrkbytorget</name>
+        <description>Apotek Hjärtat Kyrkbytorget, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.908036,57.711415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat (Vågen)</name>
+        <description>Apotek Hjärtat (Vågen), Frölunda Torg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.910467,57.650843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Frölunda Torg</name>
+        <description>Apotek Hjärtat Frölunda Torg, Frölunda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.911573,57.652718,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Vällebergsvägen 12</name>
+        <description>Apotek Hjärtat Vällebergsvägen 12, Ljungskile, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.920496,58.224194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Kvantum</name>
+        <description>Apotek Hjärtat ICA Kvantum, Uddevalla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.922335,58.343173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Markmyntsgatan 4</name>
+        <description>Apotek Hjärtat Markmyntsgatan 4, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.928037,57.670957,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Kvantum Sannegården</name>
+        <description>Apotek Hjärtat ICA Kvantum Sannegården, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.929607,57.710131,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Magasinsgatan 10</name>
+        <description>Apotek Hjärtat Magasinsgatan 10, Ed, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.934225,58.912966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi Högsbo</name>
+        <description>Apotek Hjärtat ICA Maxi Högsbo, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.945744,57.650522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Linnégatan 62</name>
+        <description>Apotek Hjärtat Linnégatan 62, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.952803,57.693013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Kungsgatan 35</name>
+        <description>Apotek Hjärtat Kungsgatan 35, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.96502,57.7042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Nordstan</name>
+        <description>Apotek Hjärtat Nordstan, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.968089,57.707613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Kungälv, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.974235,57.87395,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Avenyn</name>
+        <description>Apotek Hjärtat Avenyn, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.97642,57.69963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Focus Gårda Affärscentrum</name>
+        <description>Apotek Hjärtat Focus Gårda Affärscentrum, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.993185,57.698143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Kvantum Bäckebol</name>
+        <description>Apotek Hjärtat ICA Kvantum Bäckebol, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.999388,57.767583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.004017,57.680189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Mölndal Centrum</name>
+        <description>Apotek Hjärtat Mölndal Centrum, Mölndal, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.014736,57.655493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Angered Centrum</name>
+        <description>Apotek Hjärtat Angered Centrum, Angered, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.05048,57.79687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Kungsmässan</name>
+        <description>Apotek Hjärtat Kungsmässan, Kungsbacka, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.074468,57.491273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Kungsbacka, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.075005,57.516207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi Allum</name>
+        <description>Apotek Hjärtat ICA Maxi Allum, Partille, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.10458,57.7368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Fjellhandel</name>
+        <description>Apotek Hjärtat Fjellhandel, Storlien, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.108758,63.311451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Storgatan 7</name>
+        <description>Apotek Hjärtat Storgatan 7, Bengtsfors, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.226112,59.028727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Kvantum</name>
+        <description>Apotek Hjärtat ICA Kvantum, Lerum, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.24564,57.7506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Kvantum Hajen</name>
+        <description>Apotek Hjärtat ICA Kvantum Hajen, Varberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.257559,57.116648,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Solkatten Köpcenter</name>
+        <description>Apotek Hjärtat Solkatten Köpcenter, Lerum, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.268757,57.769447,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Supermarket</name>
+        <description>Apotek Hjärtat ICA Supermarket, Charlottenberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.286491,59.874315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Vårdcentralen</name>
+        <description>Apotek Hjärtat Vårdcentralen, Gråbo, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.296877,57.83512,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Trollhättan, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.303582,58.313654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Kvantum</name>
+        <description>Apotek Hjärtat ICA Kvantum, Vänersborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.317185,58.381073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Vårdcentralen</name>
+        <description>Apotek Hjärtat Vårdcentralen, Brålanda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.359559,58.56133,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Norra Kungsgatan 1</name>
+        <description>Apotek Hjärtat Norra Kungsgatan 1, Mellerud, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.453328,58.699882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Hjortsberg</name>
+        <description>Apotek Hjärtat Hjortsberg, Falkenberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.51303,56.88639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Alingsås lasarett</name>
+        <description>Apotek Hjärtat Alingsås lasarett, Alingsås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.52528,57.92898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat</name>
+        <description>Apotek Hjärtat, Funäsdalen, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.526049,62.54892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Gästgivaregatan 3</name>
+        <description>Apotek Hjärtat Gästgivaregatan 3, Sollebrunn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.53228,58.120123,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Alingsås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.545738,57.924112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Kvantum</name>
+        <description>Apotek Hjärtat ICA Kvantum, Höganäs, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.566046,56.190514,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Torget</name>
+        <description>Apotek Hjärtat Torget, Arvika, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.592398,59.654512,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Arvika Sjukhus</name>
+        <description>Apotek Hjärtat Arvika Sjukhus, Arvika, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.613694,59.665686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Tågaborg</name>
+        <description>Apotek Hjärtat Tågaborg, Helsingborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.6923,56.0573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Klockaregatan 3</name>
+        <description>Apotek Hjärtat Klockaregatan 3, Kinna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.692449,57.507789,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Kvantum</name>
+        <description>Apotek Hjärtat ICA Kvantum, Helsingborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.701254,56.033882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Helsingborgs lasarett</name>
+        <description>Apotek Hjärtat Helsingborgs lasarett, Helsingborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.703929,56.04702,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Mellanbrogatan 3</name>
+        <description>Apotek Hjärtat Mellanbrogatan 3, Åmål, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.704013,59.052096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi Berga</name>
+        <description>Apotek Hjärtat ICA Maxi Berga, Helsingborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.719694,56.065385,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Skaragatan 92</name>
+        <description>Apotek Hjärtat Skaragatan 92, Helsingborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.72704,56.049877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi Råå</name>
+        <description>Apotek Hjärtat ICA Maxi Råå, Helsingborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.742121,56.002359,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Väla</name>
+        <description>Apotek Hjärtat Väla, Helsingborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.75669,56.09206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi Flygstaden</name>
+        <description>Apotek Hjärtat ICA Maxi Flygstaden, Halmstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.806178,56.679443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Pjäsgatan 4</name>
+        <description>Apotek Hjärtat Pjäsgatan 4, Landskrona, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.824969,55.88847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Drottninggatan 31</name>
+        <description>Apotek Hjärtat Drottninggatan 31, Landskrona, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.830669,55.868595,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Kvantum</name>
+        <description>Apotek Hjärtat ICA Kvantum, Landskrona, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.855817,55.879333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Brogatan</name>
+        <description>Apotek Hjärtat Brogatan, Halmstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.85648,56.67454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Ängelholms sjukhus</name>
+        <description>Apotek Hjärtat Ängelholms sjukhus, Ängelholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.85917,56.23972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Hyllinge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.860441,56.101128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Nyhemstorg</name>
+        <description>Apotek Hjärtat Nyhemstorg, Halmstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.87643,56.667817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi Högskolan</name>
+        <description>Apotek Hjärtat ICA Maxi Högskolan, Halmstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.87792,56.664822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Ängelholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.890112,56.251972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Linnégatan 38</name>
+        <description>Apotek Hjärtat Linnégatan 38, Limhamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.93291,55.581866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Knalleland</name>
+        <description>Apotek Hjärtat Knalleland, Borås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.939008,57.730413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Borås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.943421,57.710661,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Sjöbo Torg</name>
+        <description>Apotek Hjärtat Sjöbo Torg, Borås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.943468,57.749336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Mellbystrand, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.955513,56.504277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Kvantum</name>
+        <description>Apotek Hjärtat ICA Kvantum, Vara, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.960034,58.257509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Emporia</name>
+        <description>Apotek Hjärtat Emporia, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.97011,55.56577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Bellevuegården</name>
+        <description>Apotek Hjärtat Bellevuegården, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.975842,55.580753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Kronprinsen</name>
+        <description>Apotek Hjärtat Kronprinsen, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.983823,55.59748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Löddeköpinge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.992476,55.770726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Skånes Universitetssjukhus</name>
+        <description>Apotek Hjärtat Skånes Universitetssjukhus, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.00117,55.5892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Södra Förstadsgatan 30</name>
+        <description>Apotek Hjärtat Södra Förstadsgatan 30, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.001302,55.597673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Triangeln</name>
+        <description>Apotek Hjärtat Triangeln, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.003139,55.594629,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Mobilia</name>
+        <description>Apotek Hjärtat Mobilia, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.003861,55.580381,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Caroli</name>
+        <description>Apotek Hjärtat Caroli, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.00692,55.60599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Lindängen</name>
+        <description>Apotek Hjärtat Lindängen, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.015047,55.559044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Stortorget</name>
+        <description>Apotek Hjärtat Stortorget, Vellinge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.020504,55.471338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi Ystadvägen</name>
+        <description>Apotek Hjärtat ICA Maxi Ystadvägen, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.037085,55.573088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Stortorget 9</name>
+        <description>Apotek Hjärtat Stortorget 9, Laholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.044454,56.513396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Jägersro Center</name>
+        <description>Apotek Hjärtat Jägersro Center, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.059645,55.570467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Torgstråket 16</name>
+        <description>Apotek Hjärtat Torgstråket 16, Lomma, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.068478,55.672308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Nissastigen</name>
+        <description>Apotek Hjärtat Nissastigen, Torup, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.077741,56.9562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Burlöv</name>
+        <description>Apotek Hjärtat Burlöv, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.084701,55.640647,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi Toftanäs</name>
+        <description>Apotek Hjärtat ICA Maxi Toftanäs, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.097495,55.597438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Trelleborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.131261,55.373943,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Sjukhuset</name>
+        <description>Apotek Hjärtat Sjukhuset, Lidköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.1504,58.49742,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Kvantum</name>
+        <description>Apotek Hjärtat ICA Kvantum, Klippan, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.15631,56.1336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Nova Lund</name>
+        <description>Apotek Hjärtat Nova Lund, Lund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.156425,55.713908,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Lasarettet</name>
+        <description>Apotek Hjärtat Lasarettet, Trelleborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.1603,55.38027,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Guldvingens Vårdcentral</name>
+        <description>Apotek Hjärtat Guldvingens Vårdcentral, Lidköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.166557,58.494042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Knut den Stores torg 2</name>
+        <description>Apotek Hjärtat Knut den Stores torg 2, Lund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.18926,55.705332,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Skånes Universitetssjukhus</name>
+        <description>Apotek Hjärtat Skånes Universitetssjukhus, Lund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.19621,55.71243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Mårtenstorget 12</name>
+        <description>Apotek Hjärtat Mårtenstorget 12, Lund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.197121,55.701357,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Storgatan 4</name>
+        <description>Apotek Hjärtat Storgatan 4, Staffanstorp, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.206483,55.642565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Kvantum</name>
+        <description>Apotek Hjärtat ICA Kvantum, Svedala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.234255,55.506484,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Södergatan 8c</name>
+        <description>Apotek Hjärtat Södergatan 8c, Eslöv, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.30272,55.838286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Ulricehamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.42148,57.81269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Bergvik Köpcenter</name>
+        <description>Apotek Hjärtat Bergvik Köpcenter, Karlstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.427608,59.376659,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Karlstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.430478,59.375575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Postvägen 1</name>
+        <description>Apotek Hjärtat Postvägen 1, Ekshärad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.493869,60.173347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Kvantum</name>
+        <description>Apotek Hjärtat ICA Kvantum, Hammarö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.50437,59.34239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat</name>
+        <description>Apotek Hjärtat, Hede, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.512571,62.418468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat</name>
+        <description>Apotek Hjärtat, Löberöd, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.520379,55.775555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Kvantum</name>
+        <description>Apotek Hjärtat ICA Kvantum, Gislaved, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.543452,57.30341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Torget 2 B</name>
+        <description>Apotek Hjärtat Torget 2 B, Munkfors, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.543877,59.83559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Falköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.56161,58.153755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi Välsviken</name>
+        <description>Apotek Hjärtat ICA Maxi Välsviken, Karlstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.58037,59.39625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Vårdcentralen</name>
+        <description>Apotek Hjärtat Vårdcentralen, Reftele, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.598685,57.174713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat</name>
+        <description>Apotek Hjärtat, Hörby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.662105,55.851472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Storgatan 3-5</name>
+        <description>Apotek Hjärtat Storgatan 3-5, Hagfors, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.695302,60.034366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Kvantum</name>
+        <description>Apotek Hjärtat ICA Kvantum, Hässleholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.759432,56.154514,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Hässleholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.779458,56.164462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Kvantum</name>
+        <description>Apotek Hjärtat ICA Kvantum, Ystad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.808998,55.444417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Nya Torget</name>
+        <description>Apotek Hjärtat Nya Torget, Mariestad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.822383,58.70976,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Commerce</name>
+        <description>Apotek Hjärtat Commerce, Skövde, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.845,58.39,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Elins Esplanad</name>
+        <description>Apotek Hjärtat Elins Esplanad, Skövde, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.854527,58.405522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Stora Torggatan 1</name>
+        <description>Apotek Hjärtat Stora Torggatan 1, Vinslöv, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.915381,56.103785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Ljungby lasarett</name>
+        <description>Apotek Hjärtat Ljungby lasarett, Ljungby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.93508,56.83534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Ljungby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.944626,56.834795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Centralgatan 2</name>
+        <description>Apotek Hjärtat Centralgatan 2, Tomelilla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.952974,55.543779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Torggatan 1</name>
+        <description>Apotek Hjärtat Torggatan 1, Tidaholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.958096,58.181311,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Lagan</name>
+        <description>Apotek Hjärtat Lagan, Lagan, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.996403,56.919235,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Kvantum</name>
+        <description>Apotek Hjärtat ICA Kvantum, Värnamo, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.061826,57.175014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Tydingegatan 1</name>
+        <description>Apotek Hjärtat Tydingegatan 1, Broby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.078839,56.253805,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Vårdcentralen</name>
+        <description>Apotek Hjärtat Vårdcentralen, Gullspång, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.087202,58.980151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Kristinehamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.128784,59.31177,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Norra Esplanaden 6</name>
+        <description>Apotek Hjärtat Norra Esplanaden 6, Älmhult, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.14084,56.552286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Kristianstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.167812,56.025864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Smedjegatan 2</name>
+        <description>Apotek Hjärtat Smedjegatan 2, Jönköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.170372,57.782304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Centralsjukhuset</name>
+        <description>Apotek Hjärtat Centralsjukhuset, Kristianstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.17389,56.02991,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Jönköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.176685,57.771912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Asecs</name>
+        <description>Apotek Hjärtat Asecs, Jönköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.203005,57.773305,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Kvantum</name>
+        <description>Apotek Hjärtat ICA Kvantum, Huskvarna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.27056,57.7905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Kvantum</name>
+        <description>Apotek Hjärtat ICA Kvantum, Åhus, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.295248,55.926277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Simrishamns sjukhus</name>
+        <description>Apotek Hjärtat Simrishamns sjukhus, Simrishamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.34218,55.55352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat</name>
+        <description>Apotek Hjärtat, Sveg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.364293,62.033863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Värdshusvägen 3</name>
+        <description>Apotek Hjärtat Värdshusvägen 3, Vrigstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.46621,57.35627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Bromölla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.480279,56.066687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Karlskoga, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.507383,59.328222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Östra Storgatan 38</name>
+        <description>Apotek Hjärtat Östra Storgatan 38, Olofström, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.530742,56.27707,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Järnvägsgatan 5A</name>
+        <description>Apotek Hjärtat Järnvägsgatan 5A, Sölvesborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.582051,56.049568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat</name>
+        <description>Apotek Hjärtat, Lammhult, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.583151,57.169534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Mora, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.596024,61.006111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat</name>
+        <description>Apotek Hjärtat, Orsa, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.61926,61.12049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Postgatan 21</name>
+        <description>Apotek Hjärtat Postgatan 21, Laxå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.620045,58.98563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Östersund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.6509,63.19218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Kvantum</name>
+        <description>Apotek Hjärtat ICA Kvantum, Östersund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.691212,63.170484,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat</name>
+        <description>Apotek Hjärtat, Ryd, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.693043,56.465118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Rådhusgatan 30</name>
+        <description>Apotek Hjärtat Rådhusgatan 30, Nässjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.697042,57.653723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Torget 1</name>
+        <description>Apotek Hjärtat Torget 1, Bodafors, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.703263,57.505935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Växjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.765286,56.884182,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Dalbo Centrum</name>
+        <description>Apotek Hjärtat Dalbo Centrum, Växjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.796383,56.890441,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Tegnér</name>
+        <description>Apotek Hjärtat Tegnér, Växjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.801483,56.879252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Centrallasarettet</name>
+        <description>Apotek Hjärtat Centrallasarettet, Växjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.80744,56.87469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Kvantum Teleborg</name>
+        <description>Apotek Hjärtat ICA Kvantum Teleborg, Växjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.82341,56.85714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Karlshamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.845,56.19559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Hälsocentralen</name>
+        <description>Apotek Hjärtat Hälsocentralen, Lit, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.849143,63.319566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat</name>
+        <description>Apotek Hjärtat, Rottne, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.892268,57.022024,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Kvantum</name>
+        <description>Apotek Hjärtat ICA Kvantum, Tranås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.975856,58.033631,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Örabergsvägen 5</name>
+        <description>Apotek Hjärtat Örabergsvägen 5, Grängesberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.00888,60.075943,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Lasarettet i Motala</name>
+        <description>Apotek Hjärtat Lasarettet i Motala, Motala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.02783,58.54441,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Motala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.033273,58.557644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Postgatan 5</name>
+        <description>Apotek Hjärtat Postgatan 5, Boxholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.05502,58.197348,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Galleria Kvarnen</name>
+        <description>Apotek Hjärtat Galleria Kvarnen, Mjölby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.12528,58.325694,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Vårdcentralen</name>
+        <description>Apotek Hjärtat Vårdcentralen, Storå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.127925,59.714151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Marieberg Galleria</name>
+        <description>Apotek Hjärtat Marieberg Galleria, Örebro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.137866,59.216473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Kumla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.14316,59.126184,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Vetlanda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.194163,57.399366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Kvantum</name>
+        <description>Apotek Hjärtat ICA Kvantum, Ludvika, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.19418,60.15136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi Boglundsgatan</name>
+        <description>Apotek Hjärtat ICA Maxi Boglundsgatan, Örebro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.203825,59.297556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Krämaren</name>
+        <description>Apotek Hjärtat Krämaren, Örebro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.209914,59.269172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Järntorget</name>
+        <description>Apotek Hjärtat Järntorget, Örebro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.214132,59.275439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Olaus Petri Vårdcentral</name>
+        <description>Apotek Hjärtat Olaus Petri Vårdcentral, Örebro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.217484,59.280679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Kungsgatan</name>
+        <description>Apotek Hjärtat Kungsgatan, Lindesberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.223258,59.594184,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi Universitetet</name>
+        <description>Apotek Hjärtat ICA Maxi Universitetet, Örebro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.230269,59.252505,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Ronneby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.272388,56.21506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Borlänge Centrum</name>
+        <description>Apotek Hjärtat Borlänge Centrum, Borlänge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.432873,60.486977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Borlänge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.447747,60.482627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Djurgården</name>
+        <description>Apotek Hjärtat Djurgården, Linköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.588424,58.386565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat i-HUSET</name>
+        <description>Apotek Hjärtat i-HUSET, Linköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.591032,58.430086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Linköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.591488,58.432178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Westmansgatan 25</name>
+        <description>Apotek Hjärtat Westmansgatan 25, Linköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.604522,58.402881,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Blekingesjukhuset</name>
+        <description>Apotek Hjärtat Blekingesjukhuset, Karlskrona, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.60567,56.18393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Movägen 4</name>
+        <description>Apotek Hjärtat Movägen 4, Rödeby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.616931,56.260995,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Universitetssjukhuset Södra entrén</name>
+        <description>Apotek Hjärtat Universitetssjukhuset Södra entrén, Linköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.62059,58.39867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Universitetssjukhuset Norra Entrén</name>
+        <description>Apotek Hjärtat Universitetssjukhuset Norra Entrén, Linköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.622339,58.402175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Tanneforsgatan 11</name>
+        <description>Apotek Hjärtat Tanneforsgatan 11, Linköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.62266,58.41037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Karlskrona, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.640688,56.197094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Falun, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.658607,60.607046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Vårdcentralen</name>
+        <description>Apotek Hjärtat Vårdcentralen, Skinnskatteberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.686669,59.827679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Bergslagsvägen 9</name>
+        <description>Apotek Hjärtat Bergslagsvägen 9, Finspång, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.775024,58.70712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Vårdcentralen</name>
+        <description>Apotek Hjärtat Vårdcentralen, Linghem, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.781935,58.427118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Bergslagssjukhuset</name>
+        <description>Apotek Hjärtat Bergslagssjukhuset, Fagersta, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.810014,59.996946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Sporthallsvägen 2</name>
+        <description>Apotek Hjärtat Sporthallsvägen 2, Edsbyn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.810994,61.379572,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Ahllöfsgatan 18-20</name>
+        <description>Apotek Hjärtat Ahllöfsgatan 18-20, Arboga, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.841521,59.395466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Norrtullsgatan 5</name>
+        <description>Apotek Hjärtat Norrtullsgatan 5, Vimmerby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.855727,57.666999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Vårdcentralen</name>
+        <description>Apotek Hjärtat Vårdcentralen, Mörlunda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.863935,57.317186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Storgatan 6</name>
+        <description>Apotek Hjärtat Storgatan 6, Nybro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.907416,56.744145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Bergslagsvägen 34</name>
+        <description>Apotek Hjärtat Bergslagsvägen 34, Skärblacka, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.914063,58.581111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Köping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.9743,59.52282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Supermarket</name>
+        <description>Apotek Hjärtat ICA Supermarket, Hedemora, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.99442,60.282111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Hyttgatan 5</name>
+        <description>Apotek Hjärtat Hyttgatan 5, Långshyttan, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.031989,60.451915,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Kvantum Klockaretorpet</name>
+        <description>Apotek Hjärtat ICA Kvantum Klockaretorpet, Norrköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.141044,58.582149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi Ingelsta</name>
+        <description>Apotek Hjärtat ICA Maxi Ingelsta, Norrköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.15458,58.618459,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Stationsgatan 37</name>
+        <description>Apotek Hjärtat Stationsgatan 37, Järvsö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.171385,61.717626,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat</name>
+        <description>Apotek Hjärtat, Ljungbyholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.174425,56.63403,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Drottninggatan 56</name>
+        <description>Apotek Hjärtat Drottninggatan 56, Norrköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.188756,58.587064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Galleria Mirum Hagebygatan</name>
+        <description>Apotek Hjärtat Galleria Mirum Hagebygatan, Norrköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.207392,58.572367,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Galleria Mirum Hägern</name>
+        <description>Apotek Hjärtat Galleria Mirum Hägern, Norrköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.211671,58.573187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Kullbergska Sjukhuset</name>
+        <description>Apotek Hjärtat Kullbergska Sjukhuset, Katrineholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.2211,58.9919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Lövåsen</name>
+        <description>Apotek Hjärtat Lövåsen, Katrineholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.22412,59.00199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Hammartorget 10</name>
+        <description>Apotek Hjärtat Hammartorget 10, Hallstahammar, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.22831,59.613678,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Länssjukhuset</name>
+        <description>Apotek Hjärtat Länssjukhuset, Kalmar, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.32489,56.65865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Vårdcentralen</name>
+        <description>Apotek Hjärtat Vårdcentralen, Blomstermåla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.333094,56.980971,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Kungsvägen 40</name>
+        <description>Apotek Hjärtat Kungsvägen 40, Ankarsrum, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.333555,57.699563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Kalmar, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.338073,56.669204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Hälsocentralen</name>
+        <description>Apotek Hjärtat Hälsocentralen, Arbrå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.374444,61.470443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Bollnäs, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.396537,66.33934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat</name>
+        <description>Apotek Hjärtat, Gamleby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.400072,57.897745,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Oskarshamns Sjukhus</name>
+        <description>Apotek Hjärtat Oskarshamns Sjukhus, Oskarshamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.423351,57.262653,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Vårdcentralen</name>
+        <description>Apotek Hjärtat Vårdcentralen, Skultuna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.425795,59.719751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Oskarshamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.433287,57.265611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Erikslund</name>
+        <description>Apotek Hjärtat Erikslund, Västerås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.45124,59.61049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi Erikslund</name>
+        <description>Apotek Hjärtat ICA Maxi Erikslund, Västerås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.46014,59.616192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Centrumhuset</name>
+        <description>Apotek Hjärtat Centrumhuset, Ramsele, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.473862,63.54217,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Supermarket Stenby</name>
+        <description>Apotek Hjärtat ICA Supermarket Stenby, Eskilstuna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.47503,59.35667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Kungsgatan 37</name>
+        <description>Apotek Hjärtat Kungsgatan 37, Eskilstuna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.508908,59.371832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Eskilstuna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.533974,59.388321,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Mälarsjukhuset</name>
+        <description>Apotek Hjärtat Mälarsjukhuset, Eskilstuna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.53474,59.36294,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Kvantum</name>
+        <description>Apotek Hjärtat ICA Kvantum, Västerås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.54508,59.63732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Vasagatan 20</name>
+        <description>Apotek Hjärtat Vasagatan 20, Västerås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.54567,59.61094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Bygdevägen 13</name>
+        <description>Apotek Hjärtat Bygdevägen 13, Vikbolandet, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.565548,58.57537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Stationsgatan 2</name>
+        <description>Apotek Hjärtat Stationsgatan 2, Kilafors, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.56881,61.23066,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Västerås Sjukhus</name>
+        <description>Apotek Hjärtat Västerås Sjukhus, Västerås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.58039,59.6176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Skiljeboplatsen 2</name>
+        <description>Apotek Hjärtat Skiljeboplatsen 2, Västerås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.593918,59.620624,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Sala Torg</name>
+        <description>Apotek Hjärtat Sala Torg, Sala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.60596,59.91961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi Hälla</name>
+        <description>Apotek Hjärtat ICA Maxi Hälla, Västerås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.620667,59.609705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Sandviken, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.772895,60.624149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Vårdcentralen</name>
+        <description>Apotek Hjärtat Vårdcentralen, Liden, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.803369,62.704018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Hälsocentralen Linden</name>
+        <description>Apotek Hjärtat Hälsocentralen Linden, Bergvik, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.830243,61.260802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Nyköpings lasarett</name>
+        <description>Apotek Hjärtat Nyköpings lasarett, Nyköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.995814,58.759748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat E-Center</name>
+        <description>Apotek Hjärtat E-Center, Söderhamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.01689,61.29426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Pål Jungs Hage</name>
+        <description>Apotek Hjärtat Pål Jungs Hage, Nyköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.017673,58.772147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Nyköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.021888,58.768623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Skolhusgatan 3B</name>
+        <description>Apotek Hjärtat Skolhusgatan 3B, Söderhamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.05548,61.303068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Stora Torget</name>
+        <description>Apotek Hjärtat Stora Torget, Enköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.078405,59.6353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Enköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.087818,59.652238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Hudiksvall, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.116042,61.742965,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Drottninggatan 12</name>
+        <description>Apotek Hjärtat Drottninggatan 12, Gävle, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.141521,60.673994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Gävle, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.149046,60.648432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Kvantum Fjällbacken</name>
+        <description>Apotek Hjärtat ICA Kvantum Fjällbacken, Gävle, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.179759,60.669016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Vårdcentralen</name>
+        <description>Apotek Hjärtat Vårdcentralen, Östervåla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.186297,60.182143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Kvantum Nacksta</name>
+        <description>Apotek Hjärtat ICA Kvantum Nacksta, Sundsvall, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.262475,62.39193,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Kvantum</name>
+        <description>Apotek Hjärtat ICA Kvantum, Sollefteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.289803,63.161511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Sundsvalls Sjukhus</name>
+        <description>Apotek Hjärtat Sundsvalls Sjukhus, Sundsvall, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.305808,62.408025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Esplanaden</name>
+        <description>Apotek Hjärtat Esplanaden, Sundsvall, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.30932,62.39098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Bydalen</name>
+        <description>Apotek Hjärtat Bydalen, Sundsvall, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.339579,62.413837,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Sundsvall, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.350494,62.442507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Centralgatan 17</name>
+        <description>Apotek Hjärtat Centralgatan 17, Tierp, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.513718,60.343862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Bålsta Centrum</name>
+        <description>Apotek Hjärtat Bålsta Centrum, Bålsta, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.527174,59.566514,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Bålsta, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.549934,59.559471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Kvantum</name>
+        <description>Apotek Hjärtat ICA Kvantum, Trosa, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.55115,58.90641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi Stenhagen</name>
+        <description>Apotek Hjärtat ICA Maxi Stenhagen, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.560186,59.848577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi Vasa</name>
+        <description>Apotek Hjärtat ICA Maxi Vasa, Södertälje, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.579178,59.187396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Västertorg 5 B</name>
+        <description>Apotek Hjärtat Västertorg 5 B, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.601996,59.841016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Stabby</name>
+        <description>Apotek Hjärtat Stabby, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.6076,59.86613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Luna Gallerian</name>
+        <description>Apotek Hjärtat Luna Gallerian, Södertälje, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.620713,59.195669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Luthagen</name>
+        <description>Apotek Hjärtat Luthagen, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.62696,59.86126,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Gottsunda Centrum</name>
+        <description>Apotek Hjärtat Gottsunda Centrum, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.63023,59.8111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Södertälje sjukhus</name>
+        <description>Apotek Hjärtat Södertälje sjukhus, Södertälje, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.63112,59.19909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Akademiska Sjukhuset</name>
+        <description>Apotek Hjärtat Akademiska Sjukhuset, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.63964,59.849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Heidenstamstorg</name>
+        <description>Apotek Hjärtat Heidenstamstorg, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.646481,59.877036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi Moraberg</name>
+        <description>Apotek Hjärtat ICA Maxi Moraberg, Södertälje, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.66987,59.19942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Norra Gränbystaden</name>
+        <description>Apotek Hjärtat Norra Gränbystaden, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.670021,59.885099,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Brantingstorget 9 A</name>
+        <description>Apotek Hjärtat Brantingstorget 9 A, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.670919,59.868329,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Gränbystaden galleria</name>
+        <description>Apotek Hjärtat Gränbystaden galleria, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.672659,59.877019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi Gnista</name>
+        <description>Apotek Hjärtat ICA Maxi Gnista, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.712702,59.843186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Kungsängens Centrum</name>
+        <description>Apotek Hjärtat Kungsängens Centrum, Kungsängen, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.750459,59.478318,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Kungsgatan 5A</name>
+        <description>Apotek Hjärtat Kungsgatan 5A, Kramfors, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.781164,62.930589,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Kvantum</name>
+        <description>Apotek Hjärtat ICA Kvantum, Knivsta, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.786985,59.730198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Viksjö centrum</name>
+        <description>Apotek Hjärtat Viksjö centrum, Järfälla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.801725,59.41112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Kallhälls Centrum</name>
+        <description>Apotek Hjärtat Kallhälls Centrum, Järfälla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.805569,59.454459,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Hallunda Centrum</name>
+        <description>Apotek Hjärtat Hallunda Centrum, Norsborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.82672,59.24471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Botkyrka, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.832441,59.237401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Tumba Centrum</name>
+        <description>Apotek Hjärtat Tumba Centrum, Tumba, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.83496,59.19908,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Hässelbytorg 22</name>
+        <description>Apotek Hjärtat Hässelbytorg 22, Hässelby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.84309,59.368412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Alby Centrum</name>
+        <description>Apotek Hjärtat Alby Centrum, Norsborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.846423,59.238455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Kvantum</name>
+        <description>Apotek Hjärtat ICA Kvantum, Märsta, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.85634,59.62087,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi Barkarbystaden</name>
+        <description>Apotek Hjärtat ICA Maxi Barkarbystaden, Järfälla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.863426,59.414933,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Vällingby City</name>
+        <description>Apotek Hjärtat Vällingby City, Vällingby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.871989,59.362584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Ormen Vällingby City</name>
+        <description>Apotek Hjärtat Ormen Vällingby City, Vällingby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.874185,59.361674,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Blackebergs Centrum</name>
+        <description>Apotek Hjärtat Blackebergs Centrum, Bromma, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.8843,59.34795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Dannemoravägen 2</name>
+        <description>Apotek Hjärtat Dannemoravägen 2, Österbybruk, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.895902,60.196355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Skärholmens Centrum</name>
+        <description>Apotek Hjärtat Skärholmens Centrum, Skärholmen, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.908073,59.275004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Väsby Centrum (Väst)</name>
+        <description>Apotek Hjärtat Väsby Centrum (Väst), Upplands Väsby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.909925,59.518665,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Väsby Centrum (Norr)</name>
+        <description>Apotek Hjärtat Väsby Centrum (Norr), Upplands Väsby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.909925,59.518665,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat</name>
+        <description>Apotek Hjärtat, Kungens Kurva, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.922009,59.270681,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Härnösand, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.927965,62.636772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Nockebytorg 2-4</name>
+        <description>Apotek Hjärtat Nockebytorg 2-4, Bromma, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.928611,59.329165,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi Häggvik</name>
+        <description>Apotek Hjärtat ICA Maxi Häggvik, Sollentuna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.932468,59.437653,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Kista Galleria</name>
+        <description>Apotek Hjärtat Kista Galleria, Kista, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.941875,59.40196,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Nynäshamn</name>
+        <description>Apotek Hjärtat Nynäshamn, Nynäshamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.946298,58.904379,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Vasen Kista Galleria (Jan Stenbeckstorg)</name>
+        <description>Apotek Hjärtat Vasen Kista Galleria (Jan Stenbeckstorg), Kista, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.94712,59.4029,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Flemingsberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.94801,59.21855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Sollentuna Centrum</name>
+        <description>Apotek Hjärtat Sollentuna Centrum, Sollentuna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.948037,59.428849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Bromma Blocks</name>
+        <description>Apotek Hjärtat Bromma Blocks, Bromma, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.954842,59.356492,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Bromma, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.95512,59.35403,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Nynäshamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.956076,58.912673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Fruängen Centrum</name>
+        <description>Apotek Hjärtat Fruängen Centrum, Fruängen, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.964145,59.28556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Västertorps Centrum</name>
+        <description>Apotek Hjärtat Västertorps Centrum, Hägersten, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.966857,59.294114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Stationshuset</name>
+        <description>Apotek Hjärtat Stationshuset, Sundbyberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.971274,59.360544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Solna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.980571,59.358658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Huddinge Centrum</name>
+        <description>Apotek Hjärtat Huddinge Centrum, Huddinge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.98225,59.236095,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Hotellgatan 1 Solna Centrum</name>
+        <description>Apotek Hjärtat Hotellgatan 1 Solna Centrum, Solna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.999779,59.359634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Mall of Scandinavia</name>
+        <description>Apotek Hjärtat Mall of Scandinavia, Solna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.004274,59.371582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi Lindhagen</name>
+        <description>Apotek Hjärtat ICA Maxi Lindhagen, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.009408,59.337244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat S:t Görans Sjukhus</name>
+        <description>Apotek Hjärtat S:t Görans Sjukhus, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.01998,59.33389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Liljeholmstorget</name>
+        <description>Apotek Hjärtat Liljeholmstorget, Liljeholmen, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.02191,59.30981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Hornstull</name>
+        <description>Apotek Hjärtat Hornstull, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.034364,59.315563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Högdalsgången 32</name>
+        <description>Apotek Hjärtat Högdalsgången 32, Bandhagen, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.040636,59.263781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Danderyds sjukhus</name>
+        <description>Apotek Hjärtat Danderyds sjukhus, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.04323,59.39114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Kvantum Kungsholmen</name>
+        <description>Apotek Hjärtat ICA Kvantum Kungsholmen, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.044659,59.333042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Enebyängen</name>
+        <description>Apotek Hjärtat Enebyängen, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.045667,59.423016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Supermarket</name>
+        <description>Apotek Hjärtat ICA Supermarket, Sabbatsberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.04715,59.33987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Odenplan</name>
+        <description>Apotek Hjärtat Odenplan, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.051771,59.342387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Södersjukhuset</name>
+        <description>Apotek Hjärtat Södersjukhuset, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.05579,59.30998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Mariatorget</name>
+        <description>Apotek Hjärtat Mariatorget, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.057969,59.317468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Åhléns City</name>
+        <description>Apotek Hjärtat Åhléns City, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.06151,59.33219,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Kvantum Södermalm</name>
+        <description>Apotek Hjärtat ICA Kvantum Södermalm, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.066471,59.312492,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Entré E</name>
+        <description>Apotek Hjärtat Entré E, Täby Centrum, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.06945,59.44464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Entré H</name>
+        <description>Apotek Hjärtat Entré H, Täby Centrum, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.071526,59.445094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Skanstull</name>
+        <description>Apotek Hjärtat Skanstull, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.075097,59.307828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Ringen</name>
+        <description>Apotek Hjärtat Ringen, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.07515,59.30785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Folkungagatan</name>
+        <description>Apotek Hjärtat Folkungagatan, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.075851,59.314271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Vallentuna Centrum</name>
+        <description>Apotek Hjärtat Vallentuna Centrum, Vallentuna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.07718,59.534663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Gubbängen</name>
+        <description>Apotek Hjärtat Gubbängen, Enskede, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.082951,59.262182,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Hammarby Sjöstad</name>
+        <description>Apotek Hjärtat Hammarby Sjöstad, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.08793,59.30287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Fältöversten</name>
+        <description>Apotek Hjärtat Fältöversten, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.090877,59.338809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Farsta Centrum</name>
+        <description>Apotek Hjärtat Farsta Centrum, Farsta, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.093019,59.24259,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Kärrtorp</name>
+        <description>Apotek Hjärtat Kärrtorp, Kärrtorp, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.113254,59.284059,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Sickla</name>
+        <description>Apotek Hjärtat Sickla, Nacka, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.13082,59.30513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Bagarmossens Centrum</name>
+        <description>Apotek Hjärtat Bagarmossens Centrum, Bagarmossen, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.13192,59.27677,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Lidingö Centrum</name>
+        <description>Apotek Hjärtat Lidingö Centrum, Lidingö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.135676,59.365808,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Haninge Centrum</name>
+        <description>Apotek Hjärtat Haninge Centrum, Haninge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.141008,59.168043,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Port 73</name>
+        <description>Apotek Hjärtat Port 73, Haninge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.149224,59.179241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Haninge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.157062,59.182023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Forum Nacka</name>
+        <description>Apotek Hjärtat Forum Nacka, Nacka, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.16439,59.309419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Nacka, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.17243,59.31175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Älta centrum</name>
+        <description>Apotek Hjärtat Älta centrum, Älta, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.175533,59.256449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Sundbrolund</name>
+        <description>Apotek Hjärtat Sundbrolund, Ullånger, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.18457,63.014319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Tyresö Centrum</name>
+        <description>Apotek Hjärtat Tyresö Centrum, Tyresö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.229091,59.243982,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Åkersberga Centrum</name>
+        <description>Apotek Hjärtat Åkersberga Centrum, Åkersberga, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.300156,59.47961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Visby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.322535,57.623852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Värmdö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.425805,59.311911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Bjästa</name>
+        <description>Apotek Hjärtat Bjästa, Bjästa, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.502021,63.201076,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Norrteljeporten</name>
+        <description>Apotek Hjärtat Norrteljeporten, Norrtälje, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.676287,59.746837,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat</name>
+        <description>Apotek Hjärtat, Lycksele, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.677383,64.594011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Norrtälje Sjukhus</name>
+        <description>Apotek Hjärtat Norrtälje Sjukhus, Norrtälje, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.69073,59.75826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Flygfältet</name>
+        <description>Apotek Hjärtat Flygfältet, Norrtälje, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.69449,59.75237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Tullportsgatan</name>
+        <description>Apotek Hjärtat Tullportsgatan, Norrtälje, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.700251,59.757105,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Sjukhuset</name>
+        <description>Apotek Hjärtat Sjukhuset, Örnsköldsvik, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.714061,63.298564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Storgatan 28</name>
+        <description>Apotek Hjärtat Storgatan 28, Örnsköldsvik, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.715227,63.29122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Kvantum</name>
+        <description>Apotek Hjärtat ICA Kvantum, Örnsköldsvik, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.72078,63.30253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Vårdcentralen</name>
+        <description>Apotek Hjärtat Vårdcentralen, Husum, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.165495,63.339523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Storgatan 10 A</name>
+        <description>Apotek Hjärtat Storgatan 10 A, Bjurholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.211831,63.929724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Storgatan 4</name>
+        <description>Apotek Hjärtat Storgatan 4, Nordmaling, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.499493,63.569088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Vårdcentralen</name>
+        <description>Apotek Hjärtat Vårdcentralen, Hörnefors, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.909175,63.624336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Storgatan 33</name>
+        <description>Apotek Hjärtat Storgatan 33, Jörn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.039869,65.059467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Kvantum Kronoparken</name>
+        <description>Apotek Hjärtat ICA Kvantum Kronoparken, Umeå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.191267,63.840961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi Strömpilen</name>
+        <description>Apotek Hjärtat ICA Maxi Strömpilen, Umeå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.302734,63.79763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Kvantum Mariehem</name>
+        <description>Apotek Hjärtat ICA Kvantum Mariehem, Umeå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.32947,63.83204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Ringen 76</name>
+        <description>Apotek Hjärtat Ringen 76, Boliden, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.384901,64.861667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Kvantum Kronbodgatan</name>
+        <description>Apotek Hjärtat ICA Kvantum Kronbodgatan, Skellefteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.917041,64.755757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Lasarettet</name>
+        <description>Apotek Hjärtat Lasarettet, Skellefteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.943005,64.756548,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Gymnasievägen 8</name>
+        <description>Apotek Hjärtat Gymnasievägen 8, Skellefteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.966656,64.738422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Hantverkargatan 1</name>
+        <description>Apotek Hjärtat Hantverkargatan 1, Älvsbyn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.01082,65.67363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi Solbacken</name>
+        <description>Apotek Hjärtat ICA Maxi Solbacken, Skellefteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.025132,64.766045,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Vårdcentralen</name>
+        <description>Apotek Hjärtat Vårdcentralen, Öjebyn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.41075,65.347583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Kvantum</name>
+        <description>Apotek Hjärtat ICA Kvantum, Piteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.480753,65.314341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Piteå Sjukhus</name>
+        <description>Apotek Hjärtat Piteå Sjukhus, Piteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.496734,65.312622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Maxi</name>
+        <description>Apotek Hjärtat ICA Maxi, Luleå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.048413,65.617054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat ICA Kvantum</name>
+        <description>Apotek Hjärtat ICA Kvantum, Luleå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.14793,65.59541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Björkskatans Vårdcentral</name>
+        <description>Apotek Hjärtat Björkskatans Vårdcentral, Luleå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.17119,65.61444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apotek Hjärtat Skurholmen</name>
+        <description>Apotek Hjärtat Skurholmen, Luleå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.198564,65.582142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

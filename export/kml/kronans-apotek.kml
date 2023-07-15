@@ -1,0 +1,3154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Kronans Apotek</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Kronans Apotek</name>
+      <Placemark>
+        <name>Kronans Apotek Strömstad</name>
+        <description>Kronans Apotek Strömstad, Strömstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.170687,58.938688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Nordby Shoppingcenter</name>
+        <description>Kronans Apotek Nordby Shoppingcenter, Nordby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.208188,59.064187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Kungshamn Hälsans Hus</name>
+        <description>Kronans Apotek Kungshamn Hälsans Hus, Kungshamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.256687,58.360312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Ellös Vårdcentral</name>
+        <description>Kronans Apotek Ellös Vårdcentral, Ellös, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.468813,58.178438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Henån</name>
+        <description>Kronans Apotek Henån, Henån, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.677938,58.235687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Torslanda</name>
+        <description>Kronans Apotek Torslanda, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.773687,57.709937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Torp Köpcentrum</name>
+        <description>Kronans Apotek Torp Köpcentrum, Herrestad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.809313,58.353437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Östra Torp</name>
+        <description>Kronans Apotek Östra Torp, Herrestad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.824063,58.354062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Göteborg Mariaplan</name>
+        <description>Kronans Apotek Göteborg Mariaplan, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.920687,57.687188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Eriksbergs Köpcenter</name>
+        <description>Kronans Apotek Eriksbergs Köpcenter, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.921312,57.709312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Uddevalla Västerlånggatan</name>
+        <description>Kronans Apotek Uddevalla Västerlånggatan, Uddevalla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.932187,58.349312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Uddevalla Dalaberg</name>
+        <description>Kronans Apotek Uddevalla Dalaberg, Uddevalla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.934062,58.371562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Göteborg Wieselgrensplatsen 5</name>
+        <description>Kronans Apotek Göteborg Wieselgrensplatsen 5, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.937188,57.721688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Göteborg Kvillebacken</name>
+        <description>Kronans Apotek Göteborg Kvillebacken, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.948562,57.720937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Askim Hantverksvägen</name>
+        <description>Kronans Apotek Askim Hantverksvägen, Askim, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.949438,57.642562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Askim Datavägen</name>
+        <description>Kronans Apotek Askim Datavägen, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.953062,57.640313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Backaplan</name>
+        <description>Kronans Apotek Backaplan, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.954937,57.722938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Billdal</name>
+        <description>Kronans Apotek Billdal, Billdal, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.961063,57.560938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Sahlgrenska Sjukhuset</name>
+        <description>Kronans Apotek Sahlgrenska Sjukhuset, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.961688,57.682562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Kongahälla Center</name>
+        <description>Kronans Apotek Kongahälla Center, Kongahälla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.968438,57.873438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Göteborg Kungsportsplatsen</name>
+        <description>Kronans Apotek Göteborg Kungsportsplatsen, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.968813,57.704437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Göteborg Dr Fries-Torg</name>
+        <description>Kronans Apotek Göteborg Dr Fries-Torg, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.971563,57.683688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Hisings-Backa</name>
+        <description>Kronans Apotek Hisings-Backa, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.982188,57.750312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Färgelanda</name>
+        <description>Kronans Apotek Färgelanda, Färgelanda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.997563,58.568062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Bäckebol Köpcentrum</name>
+        <description>Kronans Apotek Bäckebol Köpcentrum, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.000312,57.769437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Göteborg Gamlestan</name>
+        <description>Kronans Apotek Göteborg Gamlestan, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.014312,57.730187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Mölndals Galleria</name>
+        <description>Kronans Apotek Mölndals Galleria, Mölndal, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.015438,57.655438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Ale Torg</name>
+        <description>Kronans Apotek Ale Torg, Nödinge-Nol, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.046812,57.894188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Angereds Centrum</name>
+        <description>Kronans Apotek Angereds Centrum, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.052062,57.797187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Göteborg Rymdtorget</name>
+        <description>Kronans Apotek Göteborg Rymdtorget, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.071813,57.756563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Kungsbacka Innerstaden</name>
+        <description>Kronans Apotek Kungsbacka Innerstaden, Kungsbacka, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.076438,57.486438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Tölöleden</name>
+        <description>Kronans Apotek Tölöleden, Kungsbacka, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.081312,57.509937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Kungsbacka Hantverksgatan</name>
+        <description>Kronans Apotek Kungsbacka Hantverksgatan, Kungsbacka, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.081437,57.478188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Partille Kyrkotorget</name>
+        <description>Kronans Apotek Partille Kyrkotorget, Partille, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.108812,57.740313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Mölnlycke Centrum</name>
+        <description>Kronans Apotek Mölnlycke Centrum, Mölnlycke, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.117437,57.658187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Partille Port</name>
+        <description>Kronans Apotek Partille Port, Partille, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.121437,57.740313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Varberg Torggatan</name>
+        <description>Kronans Apotek Varberg Torggatan, Varberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.252937,57.105438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Lerum Vårdcentral</name>
+        <description>Kronans Apotek Lerum Vårdcentral, Lerum, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.268688,57.770312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Trollhättan Sylte Centrum</name>
+        <description>Kronans Apotek Trollhättan Sylte Centrum, Trollhättan, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.277812,58.254687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Varberg Breared</name>
+        <description>Kronans Apotek Varberg Breared, Varberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.278437,57.082313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Överby Köpcenter</name>
+        <description>Kronans Apotek Överby Köpcenter, Trollhättan, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.303313,58.313812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Sätila Vårdcentral</name>
+        <description>Kronans Apotek Sätila Vårdcentral, Sätila, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.433063,57.542938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Falkenberg Sandgatan</name>
+        <description>Kronans Apotek Falkenberg Sandgatan, Falkenberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.482688,56.903813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Falkenberg Nygatan</name>
+        <description>Kronans Apotek Falkenberg Nygatan, Falkenberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.490813,56.903813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Alingsås</name>
+        <description>Kronans Apotek Alingsås, Alingsås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.537063,57.930062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Höganäs</name>
+        <description>Kronans Apotek Höganäs, Höganäs, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.564937,56.199938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Arvika</name>
+        <description>Kronans Apotek Arvika, Arvika, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.605313,59.659688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Skene</name>
+        <description>Kronans Apotek Skene, Kinna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.645688,57.491437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Kinna</name>
+        <description>Kronans Apotek Kinna, Kinna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.691813,57.506687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Helsingborg Södergatan</name>
+        <description>Kronans Apotek Helsingborg Södergatan, Helsingborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.702312,56.040188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Nossebro Vårdcentral</name>
+        <description>Kronans Apotek Nossebro Vårdcentral, Nossebro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.725812,58.191688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Väla Centrum</name>
+        <description>Kronans Apotek Väla Centrum, Helsingborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.756813,56.092687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Rydebäck</name>
+        <description>Kronans Apotek Rydebäck, Rydebäck, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.774812,55.966437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Förslöv Vårdcentral</name>
+        <description>Kronans Apotek Förslöv Vårdcentral, Förslöv, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.819562,56.348813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Skanör</name>
+        <description>Kronans Apotek Skanör, Skanör, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.844188,55.412437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Båstad</name>
+        <description>Kronans Apotek Båstad, Båstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.848187,56.427062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Landskrona</name>
+        <description>Kronans Apotek Landskrona, Landskrona, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.857812,55.873562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Ängelholm Storgatan</name>
+        <description>Kronans Apotek Ängelholm Storgatan, Ängelholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.862562,56.244062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Ängelholm Laxgatan</name>
+        <description>Kronans Apotek Ängelholm Laxgatan, Ängelholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.862938,56.242562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Viskafors Vårdcentral</name>
+        <description>Kronans Apotek Viskafors Vårdcentral, Viskafors, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.865188,57.630437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Halmstad Hallarna</name>
+        <description>Kronans Apotek Halmstad Hallarna, Halmstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.910687,56.655812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Säffle 45an Köpcentrum</name>
+        <description>Kronans Apotek Säffle 45an Köpcentrum, Säffle, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.919688,59.134812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Limhamn</name>
+        <description>Kronans Apotek Limhamn, Limhamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.932562,55.581563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Borås Allégatan 43</name>
+        <description>Kronans Apotek Borås Allégatan 43, Borås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.942438,57.720437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Höllviken</name>
+        <description>Kronans Apotek Höllviken, Höllviken, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.951812,55.417562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Borås Enedalsgatan</name>
+        <description>Kronans Apotek Borås Enedalsgatan, Borås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.964562,57.716437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Vara Vårdcentral</name>
+        <description>Kronans Apotek Vara Vårdcentral, Vara, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.966188,58.264187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Malmö Kronprinsen</name>
+        <description>Kronans Apotek Malmö Kronprinsen, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.984938,55.598687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Boda Vårdcentral</name>
+        <description>Kronans Apotek Boda Vårdcentral, Borås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.989062,57.729437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Malmö Södra Forstadsgatan</name>
+        <description>Kronans Apotek Malmö Södra Forstadsgatan, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.000937,55.597313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Malmö Stora Nygatan</name>
+        <description>Kronans Apotek Malmö Stora Nygatan, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.003438,55.603687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Mobilia Malmö</name>
+        <description>Kronans Apotek Mobilia Malmö, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.003563,55.581187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Torsby</name>
+        <description>Kronans Apotek Torsby, Torsby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.007813,60.135188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Rosengårds Centrum</name>
+        <description>Kronans Apotek Rosengårds Centrum, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.044812,55.586437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Likenäs</name>
+        <description>Kronans Apotek Likenäs, Likenäs, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.046062,60.611937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Jägersro</name>
+        <description>Kronans Apotek Jägersro, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.058813,55.569812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Lidköping</name>
+        <description>Kronans Apotek Lidköping, Lidköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.156562,58.504188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Mobilia Lund</name>
+        <description>Kronans Apotek Mobilia Lund, Lund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.162688,55.717687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Vålberg Vårdcentral</name>
+        <description>Kronans Apotek Vålberg Vårdcentral, Lilla Bårum, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.190062,59.402438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Lund Centrum</name>
+        <description>Kronans Apotek Lund Centrum, Lund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.192563,55.702188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Lund Faladstorget</name>
+        <description>Kronans Apotek Lund Faladstorget, Lund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.203188,55.723437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Staffanstorp</name>
+        <description>Kronans Apotek Staffanstorp, Staffanstorp, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.207688,55.643438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Sälen</name>
+        <description>Kronans Apotek Sälen, Sälen, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.267062,61.156063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Kil</name>
+        <description>Kronans Apotek Kil, Kil, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.314063,59.503812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Anderslöv</name>
+        <description>Kronans Apotek Anderslöv, Svedala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.317438,55.438063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Södra Sandby</name>
+        <description>Kronans Apotek Södra Sandby, Södra Sandby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.342562,55.717437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Bergvik</name>
+        <description>Kronans Apotek Bergvik, Karlstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.426312,59.377063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Skurup</name>
+        <description>Kronans Apotek Skurup, Skurup, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.501188,55.478813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Karlstad Drottninggatan</name>
+        <description>Kronans Apotek Karlstad Drottninggatan, Karlstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.501313,59.379312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Gislaved</name>
+        <description>Kronans Apotek Gislaved, Gislaved, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.540062,57.302312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Höör</name>
+        <description>Kronans Apotek Höör, Höör, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.540188,55.933813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Sjukhuset Falköping</name>
+        <description>Kronans Apotek Sjukhuset Falköping, Falköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.555187,58.188437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Karlstad Kronoparken</name>
+        <description>Kronans Apotek Karlstad Kronoparken, Karlstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.580063,59.407062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Tyringe</name>
+        <description>Kronans Apotek Tyringe, Tyringe, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.596438,56.158812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Anderstorp</name>
+        <description>Kronans Apotek Anderstorp, Anderstorp, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.630937,57.282438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Hörby</name>
+        <description>Kronans Apotek Hörby, Hörby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.663813,55.852062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Bjärnum</name>
+        <description>Kronans Apotek Bjärnum, Bjärnum, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.710562,56.291187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Malung</name>
+        <description>Kronans Apotek Malung, Malung, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.713938,60.684687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Strömsnäsbruk</name>
+        <description>Kronans Apotek Strömsnäsbruk, Strömsnäsbruk, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.731438,56.547812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Hässleholm</name>
+        <description>Kronans Apotek Hässleholm, Hässleholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.765937,56.158687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Mariestad Vårdcentral</name>
+        <description>Kronans Apotek Mariestad Vårdcentral, Mariestad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.796688,58.704937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Ystad</name>
+        <description>Kronans Apotek Ystad, Ystad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.822062,55.430187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Mullsjö</name>
+        <description>Kronans Apotek Mullsjö, Mullsjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.879188,57.916187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Värnamo</name>
+        <description>Kronans Apotek Värnamo, Värnamo, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.039312,57.184812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Värnamo Vråens Vårdcentral</name>
+        <description>Kronans Apotek Värnamo Vråens Vårdcentral, Värnamo, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.067063,57.182063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Skillingaryd</name>
+        <description>Kronans Apotek Skillingaryd, Skillingaryd, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.092187,57.427937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Degeberga Vårdcentral</name>
+        <description>Kronans Apotek Degeberga Vårdcentral, Degeberga, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.092187,55.837688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Kristinehamn</name>
+        <description>Kronans Apotek Kristinehamn, Kristinehamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.101688,59.313063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Kristianstad Harlöv</name>
+        <description>Kronans Apotek Kristianstad Harlöv, Kristianstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.117812,56.025437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Jönköping Munksjöstaden</name>
+        <description>Kronans Apotek Jönköping Munksjöstaden, Jönköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.155062,57.770562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Kristianstad Galleria Boulevard</name>
+        <description>Kronans Apotek Kristianstad Galleria Boulevard, Kristianstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.159187,56.029312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Jönköping Hälsans Vårdcentrum</name>
+        <description>Kronans Apotek Jönköping Hälsans Vårdcentrum, Jönköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.159813,57.779312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Älmhult Shopping</name>
+        <description>Kronans Apotek Älmhult Shopping, Älmhult, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.160312,56.552312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Hova</name>
+        <description>Kronans Apotek Hova, Hova, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.214187,58.858187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Oxnehaga Vårdcentral</name>
+        <description>Kronans Apotek Oxnehaga Vårdcentral, Jönköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.265438,57.774687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Huskvarna Vårdcentrum</name>
+        <description>Kronans Apotek Huskvarna Vårdcentrum, Huskvarna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.274313,57.789063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Hjo</name>
+        <description>Kronans Apotek Hjo, Hjo, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.292938,58.305437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Svenstavik</name>
+        <description>Kronans Apotek Svenstavik, Svenstavik, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.431062,62.764688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Vislanda</name>
+        <description>Kronans Apotek Vislanda, Vislanda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.451438,56.786938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Gränna Vårdcentral</name>
+        <description>Kronans Apotek Gränna Vårdcentral, Gränna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.468563,58.026063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Karlsborg</name>
+        <description>Kronans Apotek Karlsborg, Karlsborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.511688,58.530438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Mora</name>
+        <description>Kronans Apotek Mora, Mora, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.537562,61.003937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Moheda Vårdcentral</name>
+        <description>Kronans Apotek Moheda Vårdcentral, Moheda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.573438,57.002813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Karlskoga</name>
+        <description>Kronans Apotek Karlskoga, Karlskoga, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.574562,59.328437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Östersund Mittpunkten</name>
+        <description>Kronans Apotek Östersund Mittpunkten, Östersund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.638188,63.175438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Sävsjo</name>
+        <description>Kronans Apotek Sävsjo, Sävsjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.663187,57.400437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Östersund Odensala</name>
+        <description>Kronans Apotek Östersund Odensala, Östersund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.707438,63.157937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Höglandssjukhuset Nässjö</name>
+        <description>Kronans Apotek Höglandssjukhuset Nässjö, Nässjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.713938,57.654562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Växjö Linnégallerian</name>
+        <description>Kronans Apotek Växjö Linnégallerian, Växjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.807688,56.879062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Brunflo</name>
+        <description>Kronans Apotek Brunflo, Brunflo, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.830438,63.081187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Norremark</name>
+        <description>Kronans Apotek Norremark, Norremark, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.831563,56.902812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Karlshamn</name>
+        <description>Kronans Apotek Karlshamn, Karlshamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.863812,56.170812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Landsbro Vårdcentral</name>
+        <description>Kronans Apotek Landsbro Vårdcentral, Landsbro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.912437,57.370562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Ingelstad Vårdcentral</name>
+        <description>Kronans Apotek Ingelstad Vårdcentral, Norrköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.921938,56.743813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Sunnansjö</name>
+        <description>Kronans Apotek Sunnansjö, Sunnansjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.957688,60.216812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Eksjö</name>
+        <description>Kronans Apotek Eksjö, Eksjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.968687,57.671063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Tranås</name>
+        <description>Kronans Apotek Tranås, Tranås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.976563,58.035312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Kopparberg</name>
+        <description>Kronans Apotek Kopparberg, Kopparberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.991312,59.875062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Motala</name>
+        <description>Kronans Apotek Motala, Motala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.034313,58.537063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Vetlanda</name>
+        <description>Kronans Apotek Vetlanda, Vetlanda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.089688,57.426313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Hallsberg</name>
+        <description>Kronans Apotek Hallsberg, Hallsberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.110812,59.065812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Mjölby</name>
+        <description>Kronans Apotek Mjölby, Mjölby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.125687,58.325938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Kumla</name>
+        <description>Kronans Apotek Kumla, Kumla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.143313,59.126312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Ludvika Lasarett</name>
+        <description>Kronans Apotek Ludvika Lasarett, Ludvika, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.203563,60.155938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Örebro Baronbackarna</name>
+        <description>Kronans Apotek Örebro Baronbackarna, Örebro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.205312,59.291313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Örebro Krämaren</name>
+        <description>Kronans Apotek Örebro Krämaren, Örebro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.209563,59.268563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Borensberg</name>
+        <description>Kronans Apotek Borensberg, Borensberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.276937,58.561813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Ronneby</name>
+        <description>Kronans Apotek Ronneby, Ronneby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.279438,56.210437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Depot Mantorp</name>
+        <description>Kronans Apotek Depot Mantorp, Mantorp, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.294812,58.366687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Tärnaby</name>
+        <description>Kronans Apotek Tärnaby, Tärnaby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.314563,65.716562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Pålsboda</name>
+        <description>Kronans Apotek Pålsboda, Pålsboda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.337187,59.064937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Frövi</name>
+        <description>Kronans Apotek Frövi, Frövi, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.363188,59.466313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Borlänge Norra Backa</name>
+        <description>Kronans Apotek Borlänge Norra Backa, Borlänge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.418188,60.480312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Kupolen</name>
+        <description>Kronans Apotek Kupolen, Borlänge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.418437,60.484437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Grycksbo Vårdcentral</name>
+        <description>Kronans Apotek Grycksbo Vårdcentral, Grycksbo, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.492188,60.686813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Ryd Centrum</name>
+        <description>Kronans Apotek Ryd Centrum, Linköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.562687,58.408812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Virserum</name>
+        <description>Kronans Apotek Virserum, Virserum, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.582688,57.318562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Skäggetorps Centrum</name>
+        <description>Kronans Apotek Skäggetorps Centrum, Linköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.583687,58.427437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Karlskrona</name>
+        <description>Kronans Apotek Karlskrona, Karlskrona, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.585062,56.162688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Falun</name>
+        <description>Kronans Apotek Falun, Falun, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.632062,60.605312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Karlskrona Lyckeby</name>
+        <description>Kronans Apotek Karlskrona Lyckeby, Karlskrona, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.650063,56.197063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Johannelund Centrum</name>
+        <description>Kronans Apotek Johannelund Centrum, Linköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.662063,58.395562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Säter</name>
+        <description>Kronans Apotek Säter, Säter, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.750687,60.346812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Finspång Viberga</name>
+        <description>Kronans Apotek Finspång Viberga, Finspång, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.815563,58.701187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Kolsva Vårdcentral</name>
+        <description>Kronans Apotek Kolsva Vårdcentral, Kolsva, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.842813,59.599812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Färila</name>
+        <description>Kronans Apotek Färila, Färila, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.845313,61.797438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Köping</name>
+        <description>Kronans Apotek Köping, Köping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.997312,59.513188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Torsås</name>
+        <description>Kronans Apotek Torsås, Torsås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.001062,56.412188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Ljusdal</name>
+        <description>Kronans Apotek Ljusdal, Ljusdal, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.095562,61.827938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Eneby Centrum</name>
+        <description>Kronans Apotek Eneby Centrum, Norrköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.143563,58.603562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Ingelsta Shopping</name>
+        <description>Kronans Apotek Ingelsta Shopping, Norrköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.156937,58.618562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Norrköping Skarphagen</name>
+        <description>Kronans Apotek Norrköping Skarphagen, Norrköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.157812,58.577313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Avesta</name>
+        <description>Kronans Apotek Avesta, Avesta, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.168563,60.145937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Norrköping Nya Torget</name>
+        <description>Kronans Apotek Norrköping Nya Torget, Norrköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.191562,58.591313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Katrineholm</name>
+        <description>Kronans Apotek Katrineholm, Katrineholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.207563,58.995062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Kalmar Giraffen</name>
+        <description>Kronans Apotek Kalmar Giraffen, Kalmar, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.334063,56.671437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Kalmar City</name>
+        <description>Kronans Apotek Kalmar City, Kalmar, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.363687,56.663438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Bollnäs</name>
+        <description>Kronans Apotek Bollnäs, Bollnäs, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.390813,61.369187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Dorotea</name>
+        <description>Kronans Apotek Dorotea, Dorotea, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.410562,64.261437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Oskarshamn</name>
+        <description>Kronans Apotek Oskarshamn, Oskarshamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.446312,57.264312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Västerås Erikslund Shoppingcenter</name>
+        <description>Kronans Apotek Västerås Erikslund Shoppingcenter, Västerås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.452438,59.609938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Västerås Erikslund</name>
+        <description>Kronans Apotek Västerås Erikslund, Västerås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.462313,59.616813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Tuna Park</name>
+        <description>Kronans Apotek Tuna Park, Eskilstuna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.469187,59.375438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Västerås Bäckby</name>
+        <description>Kronans Apotek Västerås Bäckby, Västerås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.474063,59.599187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Eskilstuna Sveaplan</name>
+        <description>Kronans Apotek Eskilstuna Sveaplan, Eskilstuna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.523313,59.366062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Önsta-Gryta Vårdcentral</name>
+        <description>Kronans Apotek Önsta-Gryta Vårdcentral, Västerås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.539063,59.648562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Västerås Kvarteret Igor</name>
+        <description>Kronans Apotek Västerås Kvarteret Igor, Västerås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.543813,59.611812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Delsbo</name>
+        <description>Kronans Apotek Delsbo, Delsbo, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.557313,61.800438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Västerås Stenby</name>
+        <description>Kronans Apotek Västerås Stenby, Västerås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.567687,59.635687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Flen</name>
+        <description>Kronans Apotek Flen, Flen, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.590812,59.059313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Västervik</name>
+        <description>Kronans Apotek Västervik, Västervik, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.637313,57.759687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Vilhelmina</name>
+        <description>Kronans Apotek Vilhelmina, Vilhelmina, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.653562,64.625187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Ockelbo</name>
+        <description>Kronans Apotek Ockelbo, Ockelbo, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.716563,60.889813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Sandviken</name>
+        <description>Kronans Apotek Sandviken, Sandviken, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.777563,60.620438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Valbo Köpcentrum</name>
+        <description>Kronans Apotek Valbo Köpcentrum, Valbo, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.990687,60.633312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Hedesunda Hälsocentral</name>
+        <description>Kronans Apotek Hedesunda Hälsocentral, Hedesunda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.007813,60.393187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Strängnäs</name>
+        <description>Kronans Apotek Strängnäs, Strängnäs, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.025062,59.376937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Nyköping Gustavsberg</name>
+        <description>Kronans Apotek Nyköping Gustavsberg, Nyköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.025438,58.770063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Vårdcentralen Ekensberg</name>
+        <description>Kronans Apotek Vårdcentralen Ekensberg, Nyköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.033563,58.760562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Hudiksvall Drottninggatan</name>
+        <description>Kronans Apotek Hudiksvall Drottninggatan, Hudiksvall, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.104563,61.728188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Hudiksvall Guldsmeden</name>
+        <description>Kronans Apotek Hudiksvall Guldsmeden, Hudiksvall, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.104563,61.728188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Storuman</name>
+        <description>Kronans Apotek Storuman, Storuman, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.113188,65.095438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Enköping</name>
+        <description>Kronans Apotek Enköping, Enköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.120188,59.642187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Gävle Södertull</name>
+        <description>Kronans Apotek Gävle Södertull, Gävle, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.148812,60.666562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Gävle Fjällbacken</name>
+        <description>Kronans Apotek Gävle Fjällbacken, Gävle, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.183062,60.668688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Sundsvall Norrmalmsgatan</name>
+        <description>Kronans Apotek Sundsvall Norrmalmsgatan, Sundsvall, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.312312,62.395562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Timrå</name>
+        <description>Kronans Apotek Timrå, Timrå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.323313,62.485937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Birsta City</name>
+        <description>Kronans Apotek Birsta City, Sundsvall, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.332687,62.446938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Birsta</name>
+        <description>Kronans Apotek Birsta, Sundsvall, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.334938,62.443938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Sundsvall Skönsberg</name>
+        <description>Kronans Apotek Sundsvall Skönsberg, Sundsvall, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.340812,62.400813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Åsele</name>
+        <description>Kronans Apotek Åsele, Åsele, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.358812,64.160562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Kvissleby</name>
+        <description>Kronans Apotek Kvissleby, Kvissleby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.378312,62.299688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Alnö</name>
+        <description>Kronans Apotek Alnö, Sundsvall, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.416313,62.427937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Sorsele</name>
+        <description>Kronans Apotek Sorsele, Sorsele, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.541438,65.537063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Stenhagen</name>
+        <description>Kronans Apotek Stenhagen, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.565062,59.849312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Gottsunda Centrum</name>
+        <description>Kronans Apotek Gottsunda Centrum, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.628937,59.810187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Uppsala Rosendal</name>
+        <description>Kronans Apotek Uppsala Rosendal, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.633313,59.832563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Uppsala Svartbäcksgatan</name>
+        <description>Kronans Apotek Uppsala Svartbäcksgatan, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.635312,59.860437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Södertälje Weda</name>
+        <description>Kronans Apotek Södertälje Weda, Södertälje, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.643813,59.205938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Uppsala Kvarnengallerian</name>
+        <description>Kronans Apotek Uppsala Kvarnengallerian, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.646563,59.862188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Nyby</name>
+        <description>Kronans Apotek Nyby, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.660938,59.886187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Uppsala Gränbystaden</name>
+        <description>Kronans Apotek Uppsala Gränbystaden, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.673563,59.877562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Storvreta</name>
+        <description>Kronans Apotek Storvreta, Storvreta, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.703437,59.960313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Brunna Park</name>
+        <description>Kronans Apotek Brunna Park, Kungsängen, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.741687,59.496063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Kramfors</name>
+        <description>Kronans Apotek Kramfors, Kramfors, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.777563,62.932063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Knivsta</name>
+        <description>Kronans Apotek Knivsta, Knivsta, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.786938,59.727312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Tumba Centrum</name>
+        <description>Kronans Apotek Tumba Centrum, Tumba, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.834938,59.199188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Jakobsbergs Centrum</name>
+        <description>Kronans Apotek Jakobsbergs Centrum, Jakobsberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.837688,59.424312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Veddesta</name>
+        <description>Kronans Apotek Veddesta, Jakobsberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.843313,59.409688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Jakobsbergs Sjukhus</name>
+        <description>Kronans Apotek Jakobsbergs Sjukhus, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.846312,59.422313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Märsta Västra Bangatan</name>
+        <description>Kronans Apotek Märsta Västra Bangatan, Märsta, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.856187,59.616437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Vinsta</name>
+        <description>Kronans Apotek Vinsta, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.859187,59.369187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Arjeplog</name>
+        <description>Kronans Apotek Arjeplog, Arjeplog, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.888813,66.052188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Tensta Centrum</name>
+        <description>Kronans Apotek Tensta Centrum, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.902437,59.393937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Upplands Väsby</name>
+        <description>Kronans Apotek Upplands Väsby, Upplands Väsby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.902687,59.521438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Skärholmen Centrum</name>
+        <description>Kronans Apotek Skärholmen Centrum, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.907063,59.275562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Häggvik</name>
+        <description>Kronans Apotek Häggvik, Sollentuna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.927312,59.437812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Rinkeby</name>
+        <description>Kronans Apotek Rinkeby, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.927563,59.388312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Huddinge Sjukhus</name>
+        <description>Kronans Apotek Huddinge Sjukhus, Huddinge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.936687,59.221563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Härnösand Storgatan</name>
+        <description>Kronans Apotek Härnösand Storgatan, Härnösand, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.939937,62.632312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Rissne Madenvägen</name>
+        <description>Kronans Apotek Rissne Madenvägen, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.946813,59.379812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Nynäshamn</name>
+        <description>Kronans Apotek Nynäshamn, Nynäshamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.947313,58.903312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Bromma Blocks</name>
+        <description>Kronans Apotek Bromma Blocks, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.953313,59.356437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Härnösand Öbacka</name>
+        <description>Kronans Apotek Härnösand Öbacka, Härnösand, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.957687,62.632062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Sollentuna Edsberg</name>
+        <description>Kronans Apotek Sollentuna Edsberg, Sollentuna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.965812,59.445437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Sundbyberg</name>
+        <description>Kronans Apotek Sundbyberg, Sundbyberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.973188,59.361438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Alvikstorg</name>
+        <description>Kronans Apotek Alvikstorg, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.980313,59.333062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Stuvsta</name>
+        <description>Kronans Apotek Stuvsta, Huddinge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.997937,59.252813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Västberga</name>
+        <description>Kronans Apotek Västberga, Västberga, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.003937,59.294438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Stockholm Lindhagensgatan</name>
+        <description>Kronans Apotek Stockholm Lindhagensgatan, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.009437,59.337312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Älvsjö</name>
+        <description>Kronans Apotek Älvsjö, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.012937,59.275562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Liljeholmstorget Galleria Plan 1</name>
+        <description>Kronans Apotek Liljeholmstorget Galleria Plan 1, Liljeholmen, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.022438,59.309438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Liljeholmstorget Galleria Plan 2</name>
+        <description>Kronans Apotek Liljeholmstorget Galleria Plan 2, Liljeholmen, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.022438,59.309438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Lisebergs Vårdcentral</name>
+        <description>Kronans Apotek Lisebergs Vårdcentral, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.030313,59.284813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Stockholm Sankt Eriksgatan</name>
+        <description>Kronans Apotek Stockholm Sankt Eriksgatan, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.032438,59.333938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Eye Center of Excellence</name>
+        <description>Kronans Apotek Eye Center of Excellence, Solna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.032688,59.348687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Stockholm Hornstull</name>
+        <description>Kronans Apotek Stockholm Hornstull, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.034062,59.316562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Mörby Centrum</name>
+        <description>Kronans Apotek Mörby Centrum, Danderyd, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.036313,59.397687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Stockholm Kungsholmstorg</name>
+        <description>Kronans Apotek Stockholm Kungsholmstorg, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.042938,59.329187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Stockholm Odenplan</name>
+        <description>Kronans Apotek Stockholm Odenplan, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.050187,59.343312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Stockholm Centralstationen</name>
+        <description>Kronans Apotek Stockholm Centralstationen, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.057313,59.330562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Stockholm Sveavägen</name>
+        <description>Kronans Apotek Stockholm Sveavägen, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.059812,59.339062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Stockholm Odengatan</name>
+        <description>Kronans Apotek Stockholm Odengatan, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.060063,59.345312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Stockholm Drottninggatan</name>
+        <description>Kronans Apotek Stockholm Drottninggatan, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.060812,59.334063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Stockholm Mariatorget</name>
+        <description>Kronans Apotek Stockholm Mariatorget, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.061813,59.318938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Täby Kyrkby</name>
+        <description>Kronans Apotek Täby Kyrkby, Täby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.065188,59.493188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Stockholm Östermalmstorg</name>
+        <description>Kronans Apotek Stockholm Östermalmstorg, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.078812,59.336813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Stockholm Karlavägen</name>
+        <description>Kronans Apotek Stockholm Karlavägen, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.080813,59.339813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Alunda</name>
+        <description>Kronans Apotek Alunda, Alunda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.081063,60.064187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Globen Shopping</name>
+        <description>Kronans Apotek Globen Shopping, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.081313,59.293188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Hökarängen</name>
+        <description>Kronans Apotek Hökarängen, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.081688,59.256687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Stockholm Renstiernas Gata</name>
+        <description>Kronans Apotek Stockholm Renstiernas Gata, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.084187,59.314062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Norra Djurgårdsstaden</name>
+        <description>Kronans Apotek Norra Djurgårdsstaden, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.089312,59.357563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Enskededalen</name>
+        <description>Kronans Apotek Enskededalen, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.095188,59.286062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Sickla Curanten</name>
+        <description>Kronans Apotek Sickla Curanten, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.121187,59.306438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Sickla Köpkvarter</name>
+        <description>Kronans Apotek Sickla Köpkvarter, Sickla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.124187,59.305437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Skarpnäck</name>
+        <description>Kronans Apotek Skarpnäck, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.128188,59.267187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Haninge Port-73</name>
+        <description>Kronans Apotek Haninge Port-73, Haninge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.149938,59.179437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Lidingö Sjukhus</name>
+        <description>Kronans Apotek Lidingö Sjukhus, Lidingö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.150562,59.351188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Klintehamn</name>
+        <description>Kronans Apotek Klintehamn, Klintehamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.201687,57.386063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Tyresö Centrum</name>
+        <description>Kronans Apotek Tyresö Centrum, Tyresö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.230063,59.244563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Fisksätra</name>
+        <description>Kronans Apotek Fisksätra, Fisksätra, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.257312,59.293312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Åkersberga Centrum</name>
+        <description>Kronans Apotek Åkersberga Centrum, Åkersberga, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.297688,59.479813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Visby Skarphällsgatan</name>
+        <description>Kronans Apotek Visby Skarphällsgatan, Visby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.327063,57.636187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Östhammar</name>
+        <description>Kronans Apotek Östhammar, Östhammar, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.372937,60.258813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Värmdö Marknad</name>
+        <description>Kronans Apotek Värmdö Marknad, Gustavsberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.383187,59.309812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Öregrund Vårdcentral</name>
+        <description>Kronans Apotek Öregrund Vårdcentral, Öregrund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.440312,60.340063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Hallstavik</name>
+        <description>Kronans Apotek Hallstavik, Hallstavik, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.596688,60.055563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Slite</name>
+        <description>Kronans Apotek Slite, Slite, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.801812,57.703937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Arvidsjaur</name>
+        <description>Kronans Apotek Arvidsjaur, Arvidsjaur, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.173313,65.592938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Vindelns Vårdcentral</name>
+        <description>Kronans Apotek Vindelns Vårdcentral, Vindeln, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.714062,64.200937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Vännäs</name>
+        <description>Kronans Apotek Vännäs, Vännäs, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.752313,63.906813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Umeå Backens Vårdcentral</name>
+        <description>Kronans Apotek Umeå Backens Vårdcentral, Umeå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.163187,63.837312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Gallerian Kiruna</name>
+        <description>Kronans Apotek Gallerian Kiruna, Kiruna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.227063,67.854438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Umeå Dragonens Vårdcentral</name>
+        <description>Kronans Apotek Umeå Dragonens Vårdcentral, Umeå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.249187,63.834187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Kiruna</name>
+        <description>Kronans Apotek Kiruna, Kiruna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.253312,67.845312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Umeå Renmarkstorget</name>
+        <description>Kronans Apotek Umeå Renmarkstorget, Umeå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.259937,63.826812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Umeå Ersboda</name>
+        <description>Kronans Apotek Umeå Ersboda, Umeå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.300562,63.851563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Umeå Ålidhem</name>
+        <description>Kronans Apotek Umeå Ålidhem, Umeå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.314687,63.814062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Holmsund</name>
+        <description>Kronans Apotek Holmsund, Holmsund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.366188,63.707687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Sävar</name>
+        <description>Kronans Apotek Sävar, Sävar, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.551063,63.900937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Burträsk Vårdcentral</name>
+        <description>Kronans Apotek Burträsk Vårdcentral, Burträsk, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.654562,64.517687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Gällivare Malmheden</name>
+        <description>Kronans Apotek Gällivare Malmheden, Gällivare, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.658687,67.149687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Gällivare Sjukhus</name>
+        <description>Kronans Apotek Gällivare Sjukhus, Gällivare, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.687188,67.131062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Skellefteå Centrum</name>
+        <description>Kronans Apotek Skellefteå Centrum, Skellefteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.952688,64.750438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Kåge Vårdcentral</name>
+        <description>Kronans Apotek Kåge Vårdcentral, Kåge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.988563,64.832687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Kallinge</name>
+        <description>Kronans Apotek Kallinge, Kallinge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.988563,64.832687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Gallerian Piteå</name>
+        <description>Kronans Apotek Gallerian Piteå, Piteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.481938,65.315938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Vittangi Vårdcentral</name>
+        <description>Kronans Apotek Vittangi Vårdcentral, Vittangi, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.609313,67.817312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Luleå Vårdcentralen Bergnäset</name>
+        <description>Kronans Apotek Luleå Vårdcentralen Bergnäset, Luleå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.106563,65.573813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronans Apotek Haparanda</name>
+        <description>Kronans Apotek Haparanda, Haparanda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.132937,65.840812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

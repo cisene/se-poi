@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Twilfit By Change</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Twilfit By Change</name>
+      <Placemark>
+        <name>Twilfit Frölunda, Västra Frölunda</name>
+        <description>Twilfit Frölunda, Västra Frölunda, Västra Frölunda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.911108,57.65198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Kungsgatan, Göteborg</name>
+        <description>Twilfit Kungsgatan, Göteborg, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.967469,57.704675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Femman, Göteborg</name>
+        <description>Twilfit Femman, Göteborg, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.969465,57.708475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Kungmässan, Kungsbacka</name>
+        <description>Twilfit Kungmässan, Kungsbacka, Kungsbacka, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.064543,57.492431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Allum, Partille</name>
+        <description>Twilfit Allum, Partille, Partille, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.106112,57.739274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Helsingborg</name>
+        <description>Twilfit Helsingborg, Helsingborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.693124,56.048239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Väla, Ödåkra</name>
+        <description>Twilfit Väla, Ödåkra, Ödåkra-Väla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.755673,56.091595,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Halmstad</name>
+        <description>Twilfit Halmstad, Halmstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.858142,56.675672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit by CHANGE Lingerie Emporia</name>
+        <description>Twilfit by CHANGE Lingerie Emporia, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.972534,55.564955,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CHANGE Lingerie Emporia</name>
+        <description>CHANGE Lingerie Emporia, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.00131,55.60331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Triangeln, Malmö</name>
+        <description>Twilfit Triangeln, Malmö, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.002423,55.595996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Mobilia, Malmö</name>
+        <description>Twilfit Mobilia, Malmö, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.003461,55.580973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Stora Nygatan, Malmö</name>
+        <description>Twilfit Stora Nygatan, Malmö, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.00415,55.603857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Nova Lund, Lund</name>
+        <description>Twilfit Nova Lund, Lund, Lund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.159866,55.713403,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Karlstad</name>
+        <description>Twilfit Karlstad, Karlstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.499585,59.378566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Skövde</name>
+        <description>Twilfit Skövde, Skövde, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.845066,58.390087,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Kristianstad</name>
+        <description>Twilfit Kristianstad, Kristianstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.157235,56.030046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Jönköping A6, Jönköping</name>
+        <description>Twilfit Jönköping A6, Jönköping, Jönköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.161906,57.782615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Jönköping C, Jönköping</name>
+        <description>Twilfit Jönköping C, Jönköping, Jönköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.170564,57.782601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Växjö Grand Samarkand, Växjö</name>
+        <description>Twilfit Växjö Grand Samarkand, Växjö, Växjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.761969,56.88415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Marieberg, Örebro</name>
+        <description>Twilfit Marieberg, Örebro, Örebro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.209067,59.268408,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Örebro</name>
+        <description>Twilfit Örebro, Örebro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.210364,59.270585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Linköping</name>
+        <description>Twilfit Linköping, Linköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.624942,58.410104,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Falun</name>
+        <description>Twilfit Falun, Falun, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.629588,60.607281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Norrköping</name>
+        <description>Twilfit Norrköping, Norrköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.189838,58.587559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Giraffen, Kalmar</name>
+        <description>Twilfit Giraffen, Kalmar, Kalma, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.337211,56.670568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Eskilstuna</name>
+        <description>Twilfit Eskilstuna, Eskilstuna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.510487,59.371888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Västerås Igor, Västerås</name>
+        <description>Twilfit Västerås Igor, Västerås, Västerås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.543446,59.611448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Valbo</name>
+        <description>Twilfit Valbo, Valbo, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.993443,60.633207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Nyköping</name>
+        <description>Twilfit Nyköping, Nyköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.005051,58.752022,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Gävle</name>
+        <description>Twilfit Gävle, Gävle, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.140761,60.674346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Birsta City, Sundsvall</name>
+        <description>Twilfit Birsta City, Sundsvall, Sundsvall, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.334627,62.447158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit St Per, Uppsala</name>
+        <description>Twilfit St Per, Uppsala, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.637982,59.860221,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Gränbystaden, Uppsala</name>
+        <description>Twilfit Gränbystaden, Uppsala, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.674702,59.876226,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Jakobsberg, Visirstråket</name>
+        <description>Twilfit Jakobsberg, Visirstråket, Järfälla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.835977,59.42318,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Vällingby</name>
+        <description>Twilfit Vällingby, Vällingby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.873016,59.363227,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Skärholmen</name>
+        <description>Twilfit Skärholmen, Skärholmen, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.907526,59.275568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Sollentuna</name>
+        <description>Twilfit Sollentuna, Sollentuna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.951839,59.429278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Bromma Blocks, Bromma</name>
+        <description>Twilfit Bromma Blocks, Bromma, Bromma, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.953134,59.35636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Solna Centrum, Stockholm</name>
+        <description>Twilfit Solna Centrum, Stockholm, Solna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.9713,59.35547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Huddinge</name>
+        <description>Twilfit Huddinge, Huddinge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.981612,59.235702,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Mall of Scandinavia, Solna</name>
+        <description>Twilfit Mall of Scandinavia, Solna, Solna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.003667,59.370471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Liljeholmen, Stockholm</name>
+        <description>Twilfit Liljeholmen, Stockholm, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.023254,59.309843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Västermalmsgallerian, Stockholm</name>
+        <description>Twilfit Västermalmsgallerian, Stockholm, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.034015,59.336357,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Drottninggatan, Stockholm</name>
+        <description>Twilfit Drottninggatan, Stockholm, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.058697,59.336607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Gallerian, Stockholm</name>
+        <description>Twilfit Gallerian, Stockholm, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.067278,59.332433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Ringen, Stockholm</name>
+        <description>Twilfit Ringen, Stockholm, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.069416,59.307441,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Täby</name>
+        <description>Twilfit Täby, Täby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.071473,59.445062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Nybrogatan, Stockholm</name>
+        <description>Twilfit Nybrogatan, Stockholm, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.077127,59.334539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Fältöversten, Stockholm</name>
+        <description>Twilfit Fältöversten, Stockholm, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.08996,59.338315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Farsta centrum, Stockholm</name>
+        <description>Twilfit Farsta centrum, Stockholm, Farsta, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.09722,59.24028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Sickla, Nacka</name>
+        <description>Twilfit Sickla, Nacka, Nacka, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.124142,59.305864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Nacka</name>
+        <description>Twilfit Nacka, Nacka, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.167705,59.309948,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Skellefteå</name>
+        <description>Twilfit Skellefteå, Skellefteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.954396,64.750089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilfit Luleå</name>
+        <description>Twilfit Luleå, Luleå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.153096,65.583937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

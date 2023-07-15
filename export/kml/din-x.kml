@@ -1,0 +1,1944 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Din-X</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Din-X</name>
+      <Placemark>
+        <name>Din-X Fjällbacka</name>
+        <description>Din-X Fjällbacka, Fjällbacka, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.301688,58.600967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Töcksfors</name>
+        <description>Din-X Töcksfors, Töcksfors, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.819072,59.510221,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Koppom</name>
+        <description>Din-X Koppom, Koppom, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.146267,59.69819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Väröbacka</name>
+        <description>Din-X Väröbacka, Väröbacka, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.181086,57.254947,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Bengtsfors</name>
+        <description>Din-X Bengtsfors, Bengtsfors, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.221312,59.031867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Träslövsläge Båt</name>
+        <description>Din-X Träslövsläge Båt, Träslövsläge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.272098,57.056421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Dals Långed</name>
+        <description>Din-X Dals Långed, Dals Långed, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.294618,58.929361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Träslövsläge</name>
+        <description>Din-X Träslövsläge, Träslövsläge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.296404,57.056018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Derome</name>
+        <description>Din-X Derome, Derome, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.304756,57.234525,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Årjäng Sillerud</name>
+        <description>Din-X Årjäng Sillerud, Årjäng, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.309807,59.320502,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Arvika Sulvik</name>
+        <description>Din-X Arvika Sulvik, Arvika, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.51,59.67,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Sollebrunn</name>
+        <description>Din-X Sollebrunn, Sollebrunn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.523258,58.12207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Arvika Speke</name>
+        <description>Din-X Arvika Speke, Arvika, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.543176,59.666907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Svaneholm</name>
+        <description>Din-X Svaneholm, Svaneholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.548938,59.175937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Glava</name>
+        <description>Din-X Glava, Glava, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.56,59.56,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Gunnarskog</name>
+        <description>Din-X Gunnarskog, Gunnarskog, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.567962,59.820415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Långserud</name>
+        <description>Din-X Långserud, Långserud, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.57,59.26,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Haverdal</name>
+        <description>Din-X Haverdal, Haverdal, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.670321,56.730009,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Jonstorp</name>
+        <description>Din-X Jonstorp, Jonstorp, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.672199,56.221029,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Helsingborg Norra Hamnen</name>
+        <description>Din-X Helsingborg Norra Hamnen, Helsingborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.686822,56.048394,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Helsingborg Kullavägen 3</name>
+        <description>Din-X Helsingborg Kullavägen 3, Helsingborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.694534,56.047202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Kinna</name>
+        <description>Din-X Kinna, Kinna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.695587,57.512109,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Slöinge</name>
+        <description>Din-X Slöinge, Slöinge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.695768,56.854676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Helsingborg</name>
+        <description>Din-X Helsingborg, Helsingborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.714614,56.051049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Ullared</name>
+        <description>Din-X Ullared, Ullared, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.718464,57.135762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Ramlösa</name>
+        <description>Din-X Ramlösa, Ramlösa, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.758821,56.028187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Östmark</name>
+        <description>Din-X Östmark, Östmark, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.760279,60.279296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Grevie</name>
+        <description>Din-X Grevie, Grevie, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.775216,56.388752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Bredöl</name>
+        <description>Din-X Bredöl, Bredöl, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.78,58.23,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Rydebäck</name>
+        <description>Din-X Rydebäck, Rydebäck, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.78,55.97,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Sandared</name>
+        <description>Din-X Sandared, Sandared, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.784689,57.710745,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Ängelholm Skälderviken</name>
+        <description>Din-X Ängelholm Skälderviken, Ängelholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.839483,56.284966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Strövelstorp</name>
+        <description>Din-X Strövelstorp, Strövelstorp, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.840341,56.17299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Landskrona</name>
+        <description>Din-X Landskrona, Landskrona, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.852147,55.871192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Älvsered</name>
+        <description>Din-X Älvsered, Älvsered, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.858979,57.23932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Ängelholm</name>
+        <description>Din-X Ängelholm, Ängelholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.860233,56.229477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Hyllinge</name>
+        <description>Din-X Hyllinge, Hyllinge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.860448,56.101094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Vallåkra</name>
+        <description>Din-X Vallåkra, Vallåkra, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.863723,55.962935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Ängelholm Margretetorpsvägen</name>
+        <description>Din-X Ängelholm Margretetorpsvägen, Ängelholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.870188,56.290563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Gräsmark</name>
+        <description>Din-X Gräsmark, Gräsmark, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.910594,59.946189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Hjärnarp</name>
+        <description>Din-X Hjärnarp, Hjärnarp, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.916846,56.316133,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Saxtorp</name>
+        <description>Din-X Saxtorp, Saxtorp, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.934865,55.849535,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Tågarp</name>
+        <description>Din-X Tågarp, Tågarp, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.953961,55.921506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Vara</name>
+        <description>Din-X Vara, Vara, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.959497,58.258179,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Oskarsström</name>
+        <description>Din-X Oskarsström, Oskarsström, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.960037,56.805719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Hofterup</name>
+        <description>Din-X Hofterup, Hofterup, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.96956,55.792047,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Billesholm</name>
+        <description>Din-X Billesholm, Billesholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.975789,56.050335,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Vedum</name>
+        <description>Din-X Vedum, Vedum, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.994947,58.167523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Bjärred</name>
+        <description>Din-X Bjärred, Bjärred, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.037618,55.719981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Malmö Nya Agnesfridsvägen</name>
+        <description>Din-X Malmö Nya Agnesfridsvägen, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.050161,55.566456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Lomma</name>
+        <description>Din-X Lomma, Lomma, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.082188,55.682267,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Kågeröd</name>
+        <description>Din-X Kågeröd, Kågeröd, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.083335,56.002156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Kinnared</name>
+        <description>Din-X Kinnared, Kinnared, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.096618,57.025679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Kävlinge</name>
+        <description>Din-X Kävlinge, Kävlinge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.099371,55.795729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Sunne Stöpafors</name>
+        <description>Din-X Sunne Stöpafors, Sunne, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.10617,59.960438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Västra Ämtervik</name>
+        <description>Din-X Västra Ämtervik, Västra Ämtervik, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.14339,59.72561,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Marieholm</name>
+        <description>Din-X Marieholm, Marieholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.152404,55.863005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Lidköping</name>
+        <description>Din-X Lidköping, Lidköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.171944,58.498286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Alstad</name>
+        <description>Din-X Alstad, Alstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.208023,55.447112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Fagerås</name>
+        <description>Din-X Fagerås, Fagerås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.227745,59.521518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Hyltebruk</name>
+        <description>Din-X Hyltebruk, Hyltebruk, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.240981,57.001342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Svedala</name>
+        <description>Din-X Svedala, Svedala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.250819,55.51305,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Stöllet</name>
+        <description>Din-X Stöllet, Stöllet, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.258795,60.423045,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Klågerup</name>
+        <description>Din-X Klågerup, Klågerup, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.260679,55.598398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Örkelljunga</name>
+        <description>Din-X Örkelljunga, Örkelljunga, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.286245,56.284142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Källby</name>
+        <description>Din-X Källby, Källby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.310051,58.505907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Knäred</name>
+        <description>Din-X Knäred, Knäred, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.327392,56.510618,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Södra Sandby</name>
+        <description>Din-X Södra Sandby, Södra Sandby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.331015,55.71876,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Hasslebro</name>
+        <description>Din-X Hasslebro, Hasslebro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.3582,55.946262,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Dalby</name>
+        <description>Din-X Dalby, Dalby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.363775,55.661034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Genarp</name>
+        <description>Din-X Genarp, Genarp, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.399449,55.606379,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Löberöd</name>
+        <description>Din-X Löberöd, Löberöd, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.50993,55.7745,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Höör Norra Rörum</name>
+        <description>Din-X Höör Norra Rörum, Höör, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.512892,56.01524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Markaryd Råstorp</name>
+        <description>Din-X Markaryd Råstorp, Markaryd, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.529191,56.485253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Falköping</name>
+        <description>Din-X Falköping, Falköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.578882,58.170844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Blentarp</name>
+        <description>Din-X Blentarp, Blentarp, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.599087,55.59052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Råda</name>
+        <description>Din-X Råda, Råda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.6,60.01,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Sjöbo</name>
+        <description>Din-X Sjöbo, Sjöbo, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.680497,55.637118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Malung</name>
+        <description>Din-X Malung, Malung, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.709138,60.690361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Strömsnäsbruk</name>
+        <description>Din-X Strömsnäsbruk, Strömsnäsbruk, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.722452,56.555374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Mariestad</name>
+        <description>Din-X Mariestad, Mariestad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.836294,58.710376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Tidaholm</name>
+        <description>Din-X Tidaholm, Tidaholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.895977,58.194157,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Vinslöv</name>
+        <description>Din-X Vinslöv, Vinslöv, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.912734,56.102898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Hästveda</name>
+        <description>Din-X Hästveda, Hästveda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.933937,56.283009,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Huaröd</name>
+        <description>Din-X Huaröd, Huaröd, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.969168,55.841616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Osby</name>
+        <description>Din-X Osby, Osby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.001016,56.385731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Önnestad</name>
+        <description>Din-X Önnestad, Önnestad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.022547,56.05434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Värnamo</name>
+        <description>Din-X Värnamo, Värnamo, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.038988,57.207491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Älvdalen</name>
+        <description>Din-X Älvdalen, Älvdalen, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.047741,61.221168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Äppelbo</name>
+        <description>Din-X Äppelbo, Äppelbo, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.072553,60.477138,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Habo</name>
+        <description>Din-X Habo, Habo, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.083819,57.920303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Färlöv</name>
+        <description>Din-X Färlöv, Färlöv, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.084075,56.073481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Degeberga</name>
+        <description>Din-X Degeberga, Degeberga, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.094659,55.834639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Vaggeryd</name>
+        <description>Din-X Vaggeryd, Vaggeryd, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.13632,57.496857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Agunnaryd</name>
+        <description>Din-X Agunnaryd, Agunnaryd, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.147455,56.747541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Kristianstad Åsum</name>
+        <description>Din-X Kristianstad Åsum, Kristianstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.150408,55.998701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Älmhult</name>
+        <description>Din-X Älmhult, Älmhult, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.17,56.56,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Borrby</name>
+        <description>Din-X Borrby, Borrby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.177956,55.452168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Kristianstad</name>
+        <description>Din-X Kristianstad, Kristianstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.183821,56.029508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Kivik</name>
+        <description>Din-X Kivik, Kivik, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.217634,55.681836,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Simrishamn</name>
+        <description>Din-X Simrishamn, Simrishamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.338376,55.555148,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Åtorp</name>
+        <description>Din-X Åtorp, Åtorp, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.368957,59.12062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Fredriksberg</name>
+        <description>Din-X Fredriksberg, Fredriksberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.373944,60.141058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Villands Vånga</name>
+        <description>Din-X Villands Vånga, Villands Vånga, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.374614,56.179243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Dala Järna</name>
+        <description>Din-X Dala Järna, Dala Järna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.386798,60.540863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Bromölla</name>
+        <description>Din-X Bromölla, Bromölla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.469428,56.064635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Forserum</name>
+        <description>Din-X Forserum, Forserum, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.478605,57.698701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Grimslöv</name>
+        <description>Din-X Grimslöv, Grimslöv, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.541983,56.737546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Moheda</name>
+        <description>Din-X Moheda, Moheda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.572156,57.001189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Stockaryd</name>
+        <description>Din-X Stockaryd, Stockaryd, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.593023,57.313481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Orsa</name>
+        <description>Din-X Orsa, Orsa, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.627736,61.115381,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Björbo</name>
+        <description>Din-X Björbo, Björbo, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.681525,60.46639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Bodafors</name>
+        <description>Din-X Bodafors, Bodafors, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.706564,57.504402,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Mörrum</name>
+        <description>Din-X Mörrum, Mörrum, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.74332,56.19131,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Urshult</name>
+        <description>Din-X Urshult, Urshult, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.819959,56.529776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Rottne</name>
+        <description>Din-X Rottne, Rottne, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.887179,57.024091,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Landsbro</name>
+        <description>Din-X Landsbro, Landsbro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.918887,57.371286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Tingsryd</name>
+        <description>Din-X Tingsryd, Tingsryd, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.986423,56.518292,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Hallsberg Östansjö</name>
+        <description>Din-X Hallsberg Östansjö, Hallsberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.989706,59.047389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Kopparberg</name>
+        <description>Din-X Kopparberg, Kopparberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.000351,59.874121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Rönneshytta</name>
+        <description>Din-X Rönneshytta, Rönneshytta, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.041222,58.92277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Hovmantorp</name>
+        <description>Din-X Hovmantorp, Hovmantorp, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.153292,56.785882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Örebro</name>
+        <description>Din-X Örebro, Örebro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.238507,59.242938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Kårböle</name>
+        <description>Din-X Kårböle, Kårböle, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.301626,61.986807,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Sågmyra</name>
+        <description>Din-X Sågmyra, Sågmyra, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.317753,60.713069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Åseda</name>
+        <description>Din-X Åseda, Åseda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.343452,57.165886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Kosta</name>
+        <description>Din-X Kosta, Kosta, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.390326,56.84569,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Smedjebacken</name>
+        <description>Din-X Smedjebacken, Smedjebacken, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.400559,60.133442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Hasslö</name>
+        <description>Din-X Hasslö, Hasslö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.468384,56.112594,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Eriksmåla</name>
+        <description>Din-X Eriksmåla, Eriksmåla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.480718,56.7342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Stora Mellösa</name>
+        <description>Din-X Stora Mellösa, Stora Mellösa, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.500172,59.208786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Broakulla</name>
+        <description>Din-X Broakulla, Broakulla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.530947,56.693461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Fridlevstad</name>
+        <description>Din-X Fridlevstad, Fridlevstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.54232,56.270596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Älghult</name>
+        <description>Din-X Älghult, Älghult, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.572556,57.009595,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Hällestad</name>
+        <description>Din-X Hällestad, Hällestad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.572827,58.744746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Gustafs</name>
+        <description>Din-X Gustafs, Gustafs, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.592544,60.41294,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Fellingsbro</name>
+        <description>Din-X Fellingsbro, Fellingsbro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.596175,59.430874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Silverdalen Högsjö</name>
+        <description>Din-X Silverdalen Högsjö, Silverdalen, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.669478,59.028119,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Silverdalen</name>
+        <description>Din-X Silverdalen, Silverdalen, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.757924,57.539797,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Möcklö</name>
+        <description>Din-X Möcklö, Möcklö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.759685,56.150372,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Säter</name>
+        <description>Din-X Säter, Säter, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.762785,60.343464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Södra Vi</name>
+        <description>Din-X Södra Vi, Södra Vi, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.786892,57.733451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Linghem</name>
+        <description>Din-X Linghem, Linghem, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.803143,58.43991,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Färila</name>
+        <description>Din-X Färila, Färila, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.845122,61.801606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Kolsva</name>
+        <description>Din-X Kolsva, Kolsva, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.85212,59.593088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Fäggeby</name>
+        <description>Din-X Fäggeby, Fäggeby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.88904,60.39528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Svärdsjö</name>
+        <description>Din-X Svärdsjö, Svärdsjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.894654,60.735538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Björkfors</name>
+        <description>Din-X Björkfors, Björkfors, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.905636,58.01983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Norberg</name>
+        <description>Din-X Norberg, Norberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.928917,60.073958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Långshyttan</name>
+        <description>Din-X Långshyttan, Långshyttan, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.029494,60.446986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Bergkvara</name>
+        <description>Din-X Bergkvara, Bergkvara, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.068983,56.400895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Katrineholm Strångsjö</name>
+        <description>Din-X Katrineholm Strångsjö, Katrineholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.181444,58.988237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Ramnäs</name>
+        <description>Din-X Ramnäs, Ramnäs, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.193635,59.775094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Krylbo</name>
+        <description>Din-X Krylbo, Krylbo, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.213115,60.133349,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Katrineholm</name>
+        <description>Din-X Katrineholm, Katrineholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.237009,59.007417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Fliseryd</name>
+        <description>Din-X Fliseryd, Fliseryd, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.264993,57.127809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Läckeby</name>
+        <description>Din-X Läckeby, Läckeby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.305054,56.761813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Läckeby Gas</name>
+        <description>Din-X Läckeby Gas, Läckeby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.305675,56.761086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Älmeboda Rävemåla</name>
+        <description>Din-X Älmeboda Rävemåla, Älmeboda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.329313,57.710563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Ankarsrum</name>
+        <description>Din-X Ankarsrum, Ankarsrum, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.329628,57.710227,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Skultuna</name>
+        <description>Din-X Skultuna, Skultuna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.430719,59.71371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Blankaholm</name>
+        <description>Din-X Blankaholm, Blankaholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.50677,57.573927,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Lingbo</name>
+        <description>Din-X Lingbo, Lingbo, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.694992,60.993033,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Loftahammar</name>
+        <description>Din-X Loftahammar, Loftahammar, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.695103,57.906072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Vrena</name>
+        <description>Din-X Vrena, Vrena, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.69583,58.862743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Österfärnebo</name>
+        <description>Din-X Österfärnebo, Österfärnebo, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.797502,60.309758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Heby</name>
+        <description>Din-X Heby, Heby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.8574,59.935036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Löttorp</name>
+        <description>Din-X Löttorp, Löttorp, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.01159,57.161111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Hedesunda</name>
+        <description>Din-X Hedesunda, Hedesunda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.013426,60.383758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Mariefred Läggesta</name>
+        <description>Din-X Mariefred Läggesta, Mariefred, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.174506,59.251293,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Järlåsa</name>
+        <description>Din-X Järlåsa, Järlåsa, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.196971,59.886237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Stallarholmen</name>
+        <description>Din-X Stallarholmen, Stallarholmen, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.204819,59.364426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Söderfors</name>
+        <description>Din-X Söderfors, Söderfors, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.248726,60.384424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Gnesta</name>
+        <description>Din-X Gnesta, Gnesta, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.32651,59.039943,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Tierp</name>
+        <description>Din-X Tierp, Tierp, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.522744,60.349922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Björklinge</name>
+        <description>Din-X Björklinge, Björklinge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.551379,60.036084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Bro</name>
+        <description>Din-X Bro, Bro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.626492,59.516207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Ekerö</name>
+        <description>Din-X Ekerö, Ekerö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.78561,59.27654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Upplands Väsby</name>
+        <description>Din-X Upplands Väsby, Upplands Väsby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.888168,59.516974,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Ösmo</name>
+        <description>Din-X Ösmo, Ösmo, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.896827,58.98221,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Alunda</name>
+        <description>Din-X Alunda, Alunda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.078655,60.062205,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Lunda</name>
+        <description>Din-X Lunda, Lunda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.080978,59.682493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Almunge</name>
+        <description>Din-X Almunge, Almunge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.085075,59.89018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Åkersberga Svinninge</name>
+        <description>Din-X Åkersberga Svinninge, Åkersberga, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.262792,59.44546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Åkersberga Margretelunds Centrum</name>
+        <description>Din-X Åkersberga Margretelunds Centrum, Åkersberga, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.331633,59.471986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Edsbro</name>
+        <description>Din-X Edsbro, Edsbro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.510753,59.898329,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Ljusterö</name>
+        <description>Din-X Ljusterö, Ljusterö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.590903,59.541852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Björna</name>
+        <description>Din-X Björna, Björna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.59872,63.549936,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Norrtälje Vreta</name>
+        <description>Din-X Norrtälje Vreta, Norrtälje, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.790801,59.733334,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din-X Bodbyn</name>
+        <description>Din-X Bodbyn, Bodbyn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.392734,64.004337,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

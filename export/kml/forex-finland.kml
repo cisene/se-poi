@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Forex Finland</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Forex Finland</name>
+      <Placemark>
+        <name>Forex Turku</name>
+        <description>Forex Turku, Turku, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.26595,60.45057,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Forex Tampere</name>
+        <description>Forex Tampere, Tampere, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.77053,61.49868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Forex Helsinki</name>
+        <description>Forex Helsinki, Helsinki, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.94195,60.17089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Forex Helsinki-Vantaa Airport</name>
+        <description>Forex Helsinki-Vantaa Airport, Helsinki-Vantaa Airport, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.96,60.31562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Forex Helsinki-Vantaa Airport</name>
+        <description>Forex Helsinki-Vantaa Airport, Helsinki-Vantaa Airport, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.96222,60.31562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Forex Helsinki-Vantaa Airport</name>
+        <description>Forex Helsinki-Vantaa Airport, Helsinki-Vantaa Airport, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.96271,60.31673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Forex Vantaa</name>
+        <description>Forex Vantaa, Vantaa, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.96288,60.2923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Forex Helsinki-Vantaa Airport</name>
+        <description>Forex Helsinki-Vantaa Airport, Helsinki-Vantaa Airport, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.96573,60.31808,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Forex Helsinki-Vantaa Airport</name>
+        <description>Forex Helsinki-Vantaa Airport, Helsinki-Vantaa Airport, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.96636,60.31778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Forex Helsinki-Vantaa Airport</name>
+        <description>Forex Helsinki-Vantaa Airport, Helsinki-Vantaa Airport, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.96715,60.31842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Forex Helsinki-Vantaa Airport</name>
+        <description>Forex Helsinki-Vantaa Airport, Helsinki-Vantaa Airport, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.96742,60.31828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Forex Helsinki-Vantaa Airport</name>
+        <description>Forex Helsinki-Vantaa Airport, Helsinki-Vantaa Airport, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.96802,60.31769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Forex Helsinki-Vantaa Airport</name>
+        <description>Forex Helsinki-Vantaa Airport, Helsinki-Vantaa Airport, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.971,60.31672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

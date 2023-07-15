@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://github.com/cisene/se-poi -->
+<gpx creator="se-poi" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+  <metadata>
+    <name><![CDATA[7-Eleven]]></name>
+    <desc><![CDATA[Koordinater - 7-Eleven]]></desc>
+    <link href="https://7-eleven.se/">
+      <text><![CDATA[7-Eleven]]></text>
+       <type>text/html</type>
+    </link>
+   <time>2023-07-15T16:21:22+02:00</time>
+  </metadata>
+  <bounds minlat="55.540388" minlon="11.910971" maxlat="59.859135" maxlon="18.102722" />
+  <wpt lat="57.652347" lon="11.910971"><name><![CDATA[7-Eleven Frölunda Torg, Västra Frölunda]]></name></wpt>
+  <wpt lat="57.687371" lon="11.921968"><name><![CDATA[7-Eleven Slottsskogsgatan, Göteborg]]></name></wpt>
+  <wpt lat="57.697014" lon="11.951291"><name><![CDATA[7-Eleven Gbg Linnégatan 26, Göteborg]]></name></wpt>
+  <wpt lat="57.699425" lon="11.952093"><name><![CDATA[7-Eleven Gbg Linnégatan 1, Göteborg]]></name></wpt>
+  <wpt lat="57.703438" lon="11.96076"><name><![CDATA[7-Eleven Gbg Kungsgatan 20, Göteborg]]></name></wpt>
+  <wpt lat="57.697365" lon="11.962963"><name><![CDATA[7-Eleven Gbg Vasagatan 5, Göteborg]]></name></wpt>
+  <wpt lat="57.70285" lon="11.964281"><name><![CDATA[7-Eleven Gbg Västra Hamngatan, Göteborg]]></name></wpt>
+  <wpt lat="57.707158" lon="11.968223"><name><![CDATA[7-Eleven Östra Hamngatan 30-34  7-Eleven, Göteborg]]></name></wpt>
+  <wpt lat="57.705529" lon="11.969163"><name><![CDATA[7-Eleven Korsetten, Göteborg]]></name></wpt>
+  <wpt lat="57.7039" lon="11.96935"><name><![CDATA[7-Eleven Kungsportsplatsen, Göteborg]]></name></wpt>
+  <wpt lat="57.69876" lon="11.969456"><name><![CDATA[7-Eleven Gbg Vasagatan 36, Göteborg]]></name></wpt>
+  <wpt lat="57.708609" lon="11.970198"><name><![CDATA[7-Eleven Femmahuset Göteborg, Göteborg]]></name></wpt>
+  <wpt lat="57.707608" lon="11.971633"><name><![CDATA[7-Eleven Drottningtorget, Göteborg]]></name></wpt>
+  <wpt lat="57.709471" lon="11.972013"><name><![CDATA[7-Eleven Gbg Nils Ericsonsplatsen, Göteborg]]></name></wpt>
+  <wpt lat="57.709077" lon="11.973145"><name><![CDATA[7-Eleven Express Gbg Cstn, Göteborg]]></name></wpt>
+  <wpt lat="57.70087" lon="11.974466"><name><![CDATA[7-Eleven Gbg Kungsportsavenyn 14, Göteborg]]></name></wpt>
+  <wpt lat="57.698814" lon="11.977312"><name><![CDATA[7-Eleven Gbg Kungsportsavenyn 34, Göteborg]]></name></wpt>
+  <wpt lat="57.699264" lon="11.983987"><name><![CDATA[7-Eleven Gbg Berzeliigatan, Göteborg]]></name></wpt>
+  <wpt lat="57.7064" lon="11.984314"><name><![CDATA[7-Eleven Ullevi, Göteborg]]></name></wpt>
+  <wpt lat="57.696637" lon="11.986741"><name><![CDATA[7-Eleven 7 Eleven Korsvägen, Göteborg]]></name></wpt>
+  <wpt lat="57.668584" lon="12.296201"><name><![CDATA[7-Eleven Incheckningshallen, Landvetter]]></name></wpt>
+  <wpt lat="55.609023" lon="12.996244"><name><![CDATA[7-Eleven Citykajen, Malmö]]></name></wpt>
+  <wpt lat="55.594258" lon="12.999864"><name><![CDATA[7-Eleven Rådmansgatan 13, Malmö]]></name></wpt>
+  <wpt lat="55.60873" lon="13.00047"><name><![CDATA[7-Eleven Malmö Kungalängan, Malmö]]></name></wpt>
+  <wpt lat="55.604555" lon="13.003187"><name><![CDATA[7-Eleven Malmö Baltzarsgatan, Malmö]]></name></wpt>
+  <wpt lat="55.705437" lon="13.187603"><name><![CDATA[7-Eleven Lund Knut den Stores T, Lund]]></name></wpt>
+  <wpt lat="55.540388" lon="13.364866"><name><![CDATA[7-Eleven Express Malmö Airport, Malmö-Sturup]]></name></wpt>
+  <wpt lat="57.766524" lon="14.194518"><name><![CDATA[7-Eleven Jönköping Ryhov, Jönköping]]></name></wpt>
+  <wpt lat="58.401532" lon="15.620724"><name><![CDATA[7-Eleven Linköping Lus, Linköping]]></name></wpt>
+  <wpt lat="59.859135" lon="17.64035"><name><![CDATA[7-Eleven Dragarbrunnsgatan 39, Uppsala]]></name></wpt>
+  <wpt lat="59.647881" lon="17.928566"><name><![CDATA[7-Eleven Arlanda Inrikes, Stockholm-Arlanda]]></name></wpt>
+  <wpt lat="59.362622" lon="17.970593"><name><![CDATA[7-Eleven Sundbyberg, Sundbyberg]]></name></wpt>
+  <wpt lat="59.358698" lon="17.998882"><name><![CDATA[7-Eleven Express Solna C, Solna]]></name></wpt>
+  <wpt lat="59.33117" lon="18.030644"><name><![CDATA[7-Eleven Hantverkargatan, Stockholm]]></name></wpt>
+  <wpt lat="59.33488" lon="18.033102"><name><![CDATA[7-Eleven Sankt Eriksgatan 44, Stockholm]]></name></wpt>
+  <wpt lat="59.34" lon="18.034054"><name><![CDATA[7-Eleven Rörstrandsgatan, Stockholm]]></name></wpt>
+  <wpt lat="59.315964" lon="18.034327"><name><![CDATA[7-Eleven Hornsbruksgatan, Stockholm]]></name></wpt>
+  <wpt lat="59.33416" lon="18.035817"><name><![CDATA[7-Eleven Flemingatan 34, Stockholm]]></name></wpt>
+  <wpt lat="59.342119" lon="18.037877"><name><![CDATA[7-Eleven S:t  Eriksgatan 89, Stockholm]]></name></wpt>
+  <wpt lat="59.3328" lon="18.04516"><name><![CDATA[7-Eleven Flemingatan 19, Stockholm]]></name></wpt>
+  <wpt lat="59.3285" lon="18.046877"><name><![CDATA[7-Eleven Hantverkargatan 21, Stockholm]]></name></wpt>
+  <wpt lat="59.342434" lon="18.048847"><name><![CDATA[7-Eleven Odengatan 77, Stockholm]]></name></wpt>
+  <wpt lat="59.344345" lon="18.04958"><name><![CDATA[7-Eleven Norrtullsgatan, Stockholm]]></name></wpt>
+  <wpt lat="59.335519" lon="18.05142"><name><![CDATA[7-Eleven Sthlm Lilla Bantorget, Stockholm]]></name></wpt>
+  <wpt lat="59.365283" lon="18.054474"><name><![CDATA[7-Eleven Universitetet T-bana, Stockholm]]></name></wpt>
+  <wpt lat="59.330453" lon="18.054594"><name><![CDATA[7-Eleven Klarabergsviadukten 82, Stockholm]]></name></wpt>
+  <wpt lat="59.333695" lon="18.056538"><name><![CDATA[7-Eleven Vasagatan 44, Stockholm]]></name></wpt>
+  <wpt lat="59.338676" lon="18.05671"><name><![CDATA[7-Eleven Drottninggatan 106, Stockholm]]></name></wpt>
+  <wpt lat="59.340557" lon="18.058509"><name><![CDATA[7-Eleven Sveavägen 55, Stockholm]]></name></wpt>
+  <wpt lat="59.336792" lon="18.058514"><name><![CDATA[7-Eleven Drottninggatan 90 B, Stockholm]]></name></wpt>
+  <wpt lat="59.362633" lon="18.058573"><name><![CDATA[7-Eleven Sthlm Universitetsvägen, Stockholm]]></name></wpt>
+  <wpt lat="59.331127" lon="18.058659"><name><![CDATA[7-Eleven Sthlm Centralplan, Stockholm]]></name></wpt>
+  <wpt lat="59.345241" lon="18.059565"><name><![CDATA[7-Eleven Odengatan 32, Stockholm]]></name></wpt>
+  <wpt lat="59.331738" lon="18.06055"><name><![CDATA[7-Eleven Sthlm Klarabergsgatan, Stockholm]]></name></wpt>
+  <wpt lat="59.3402" lon="18.062502"><name><![CDATA[7-Eleven Tegnergatan, Stockholm]]></name></wpt>
+  <wpt lat="59.345745" lon="18.06252"><name><![CDATA[7-Eleven Odengatan 22, Stockholm]]></name></wpt>
+  <wpt lat="59.318916" lon="18.063217"><name><![CDATA[7-Eleven Mariatorget, Stockholm]]></name></wpt>
+  <wpt lat="59.33523" lon="18.067673"><name><![CDATA[7-Eleven Regeringsgatan 54, Stockholm]]></name></wpt>
+  <wpt lat="59.33893" lon="18.068224"><name><![CDATA[7-Eleven Birger Jarlsgatan 39, Stockholm]]></name></wpt>
+  <wpt lat="59.324474" lon="18.069998"><name><![CDATA[7-Eleven Västerlånggatan 38, Stockholm]]></name></wpt>
+  <wpt lat="59.336052" lon="18.070154"><name><![CDATA[7-Eleven Sthlm Kungsgatan 9, Stockholm]]></name></wpt>
+  <wpt lat="59.333659" lon="18.071164"><name><![CDATA[7-Eleven Norrlandsgatan, Stockholm]]></name></wpt>
+  <wpt lat="59.31522" lon="18.07129"><name><![CDATA[7-Eleven Medborgarplatsen 13, Stockholm]]></name></wpt>
+  <wpt lat="59.317284" lon="18.071766"><name><![CDATA[7-Eleven Götgatan 25, Stockholm]]></name></wpt>
+  <wpt lat="59.346584" lon="18.072111"><name><![CDATA[7-Eleven Drottning Kristinas Väg, Stockholm]]></name></wpt>
+  <wpt lat="59.3135" lon="18.073666"><name><![CDATA[7-Eleven Götgatan 57, Stockholm]]></name></wpt>
+  <wpt lat="59.314204" lon="18.074266"><name><![CDATA[7-Eleven Folkungagatan 52, Stockholm]]></name></wpt>
+  <wpt lat="59.33521" lon="18.07492"><name><![CDATA[7-Eleven Grev Turegatan/Riddargatan, Stockholm]]></name></wpt>
+  <wpt lat="59.310493" lon="18.075161"><name><![CDATA[7-Eleven Sthlm Götgatan 90, Stockholm]]></name></wpt>
+  <wpt lat="59.33326" lon="18.075617"><name><![CDATA[7-Eleven Birger Jarlsgatan 2, Stockholm]]></name></wpt>
+  <wpt lat="59.336502" lon="18.076347"><name><![CDATA[7-Eleven Humlegårdsgatan 11, Stockholm]]></name></wpt>
+  <wpt lat="59.34064" lon="18.076464"><name><![CDATA[7-Eleven Sthlm Sturegatan 9, Stockholm]]></name></wpt>
+  <wpt lat="59.29875" lon="18.079245"><name><![CDATA[7-Eleven Gullmarsplan, Johanneshov]]></name></wpt>
+  <wpt lat="59.337105" lon="18.080732"><name><![CDATA[7-Eleven Linnegatan 27, Stockholm]]></name></wpt>
+  <wpt lat="59.312811" lon="18.082728"><name><![CDATA[7-Eleven Skånegatan 79, Stockholm]]></name></wpt>
+  <wpt lat="59.334904" lon="18.084248"><name><![CDATA[7-Eleven Sthlm Storgatan, Stockholm]]></name></wpt>
+  <wpt lat="59.34183" lon="18.087261"><name><![CDATA[7-Eleven Valhallavägen 133, Stockholm]]></name></wpt>
+  <wpt lat="59.337986" lon="18.101223"><name><![CDATA[7-Eleven Gyllenstiernsgatan, Stockholm]]></name></wpt>
+  <wpt lat="59.295509" lon="18.102722"><name><![CDATA[7-Eleven Hammarbyhöjden, Johanneshov]]></name></wpt>
+</gpx>

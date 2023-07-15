@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Clas Ohlson</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Clas Ohlson</name>
+      <Placemark>
+        <name>Clas Ohlson Insjön Hjultorget</name>
+        <description>Clas Ohlson Insjön Hjultorget, Insjön</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.08983,60.67372,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Telefonbutiken Sverige</name>
+        <description>Clas Ohlson Telefonbutiken Sverige, Telefonbutiken</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.08993,60.67385,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Örebro Marieberg Galleria</name>
+        <description>Clas Ohlson Örebro Marieberg Galleria, Örebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.1384,59.21747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Örebro Krämaren</name>
+        <description>Clas Ohlson Örebro Krämaren, Örebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.20967,59.26918,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Borlänge Norra Backa</name>
+        <description>Clas Ohlson Borlänge Norra Backa, Borlänge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.42094,60.48006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Linköping Tornby</name>
+        <description>Clas Ohlson Linköping Tornby, Linköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.586042,58.433317,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Linköping Åhlenshuset</name>
+        <description>Clas Ohlson Linköping Åhlenshuset, Linköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.627,58.41135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Falun Falan Gallerian</name>
+        <description>Clas Ohlson Falun Falan Gallerian, Falun</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.62918,60.60677,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Norrköping Ingelsta Köpcentrum</name>
+        <description>Clas Ohlson Norrköping Ingelsta Köpcentrum, Norrköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.15599,58.61895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Norrköping Galleria Domino</name>
+        <description>Clas Ohlson Norrköping Galleria Domino, Norrköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.18868,58.58858,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Norrköping Mirum Gallerian</name>
+        <description>Clas Ohlson Norrköping Mirum Gallerian, Norrköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.2101,58.57283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Västerås Erikslund Shopping Center</name>
+        <description>Clas Ohlson Västerås Erikslund Shopping Center, Västerås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.45132,59.6104,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Eskilstuna Cityhuset</name>
+        <description>Clas Ohlson Eskilstuna Cityhuset, Eskilstuna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.51023,59.37167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Västerås Kvarteret Igor</name>
+        <description>Clas Ohlson Västerås Kvarteret Igor, Västerås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.5436,59.61128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Gävle Valbo Köpcentrum</name>
+        <description>Clas Ohlson Gävle Valbo Köpcentrum, Gävle</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.9944,60.6336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Nyköping Gallerian Västerport</name>
+        <description>Clas Ohlson Nyköping Gallerian Västerport, Nyköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.00632,58.752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Hudiksvall Fyren Gallerian</name>
+        <description>Clas Ohlson Hudiksvall Fyren Gallerian, Hudiksvall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.10512,61.7272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Gävle Gallerian Nian</name>
+        <description>Clas Ohlson Gävle Gallerian Nian, Gävle</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.14085,60.67402,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Södertälje Lunagallerian</name>
+        <description>Clas Ohlson Södertälje Lunagallerian, Södertälje</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.62593,59.19677,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Uppsala S:t Per Gallerian</name>
+        <description>Clas Ohlson Uppsala S:t Per Gallerian, Uppsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.637531,59.859557,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Uppsala Gränbystaden</name>
+        <description>Clas Ohlson Uppsala Gränbystaden, Uppsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.67353,59.87723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Stockholm Märsta Centrum</name>
+        <description>Clas Ohlson Stockholm Märsta Centrum, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.85592,59.619852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Stockholm Barkarby Gate</name>
+        <description>Clas Ohlson Stockholm Barkarby Gate, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.862375,59.414142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Stockholm Vällingby Centrum</name>
+        <description>Clas Ohlson Stockholm Vällingby Centrum, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.87525,59.3604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Stockholm Väsby Centrum</name>
+        <description>Clas Ohlson Stockholm Väsby Centrum, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.90997,59.51868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Stockholm Kungens Kurva</name>
+        <description>Clas Ohlson Stockholm Kungens Kurva, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.917566,59.269673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Stockholm Kista Galleria</name>
+        <description>Clas Ohlson Stockholm Kista Galleria, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.94477,59.40272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Stockholm Sollentuna Centrum</name>
+        <description>Clas Ohlson Stockholm Sollentuna Centrum, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.951038,59.428801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Stockholm Bromma Blocks</name>
+        <description>Clas Ohlson Stockholm Bromma Blocks, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.95523,59.35563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Stockholm Solna Mall of Scandinavia</name>
+        <description>Clas Ohlson Stockholm Solna Mall of Scandinavia, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.00114,59.37115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Stockholm Solna Centrum</name>
+        <description>Clas Ohlson Stockholm Solna Centrum, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.00125,59.35918,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Stockholm Liljeholmstorget</name>
+        <description>Clas Ohlson Stockholm Liljeholmstorget, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.02315,59.30962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Stockholm Hornstull</name>
+        <description>Clas Ohlson Stockholm Hornstull, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.033785,59.316758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Stockholm Sveavägen</name>
+        <description>Clas Ohlson Stockholm Sveavägen, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.061594,59.337942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Stockholm Drottninggatan</name>
+        <description>Clas Ohlson Stockholm Drottninggatan, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.0618,59.33328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Stockholm Gallerian</name>
+        <description>Clas Ohlson Stockholm Gallerian, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.06743,59.33178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Stockholm Täby Centrum</name>
+        <description>Clas Ohlson Stockholm Täby Centrum, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.06828,59.44448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Stockholm Ringen Centrum</name>
+        <description>Clas Ohlson Stockholm Ringen Centrum, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.0755,59.308958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Stockholm Farsta Centrum</name>
+        <description>Clas Ohlson Stockholm Farsta Centrum, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.08972,59.2425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Stockholm Fältöversten</name>
+        <description>Clas Ohlson Stockholm Fältöversten, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.09228,59.33969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Stockholm Sickla Köpkvarter</name>
+        <description>Clas Ohlson Stockholm Sickla Köpkvarter, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.13077,59.30457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Stockholm Haninge Centrum</name>
+        <description>Clas Ohlson Stockholm Haninge Centrum, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.14,59.16928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Stockholm Nacka Forum</name>
+        <description>Clas Ohlson Stockholm Nacka Forum, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.16437,59.30943,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Stockholm Tyresö Centrum</name>
+        <description>Clas Ohlson Stockholm Tyresö Centrum, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.228661,59.244105,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Stockholm Värmdö Köpcentrum</name>
+        <description>Clas Ohlson Stockholm Värmdö Köpcentrum, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.429447,59.313194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clas Ohlson Norrtälje Flygfältets handelsområde</name>
+        <description>Clas Ohlson Norrtälje Flygfältets handelsområde, Norrtälje</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.691855,59.750407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,2834 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Cubus</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Cubus</name>
+      <Placemark>
+        <name>Florø</name>
+        <description>Florø, Florø</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            5.037931,61.600843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sotra - Bergen</name>
+        <description>Sotra - Bergen, Bergen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            5.126929,60.357696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bømlo</name>
+        <description>Bømlo, Bømlo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            5.132526,59.770779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Måløy</name>
+        <description>Måløy, Måløy</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            5.14469,61.926939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Åkrehamn</name>
+        <description>Åkrehamn, Åkrehamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            5.192457,59.264215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kleppestø - Bergen</name>
+        <description>Kleppestø - Bergen, Bergen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            5.226849,60.409076,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vestkanten - Bergen</name>
+        <description>Vestkanten - Bergen, Bergen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            5.233333,60.366667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Markedet - Haugesund</name>
+        <description>Markedet - Haugesund, Haugesund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            5.273388,59.4113,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Knarvik - Bergen</name>
+        <description>Knarvik - Bergen, Bergen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            5.285967,60.547643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Laksevåg - Bergen</name>
+        <description>Laksevåg - Bergen, Bergen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            5.287007,60.389514,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oasen - Bergen</name>
+        <description>Oasen - Bergen, Bergen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            5.290167,60.349607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Horisont Åsane - Bergen</name>
+        <description>Horisont Åsane - Bergen, Bergen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            5.32321,60.469412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sundt - Bergen</name>
+        <description>Sundt - Bergen, Bergen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            5.323941,60.392311,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Åsane Storsenter - Bergen</name>
+        <description>Åsane Storsenter - Bergen, Bergen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            5.324653,60.468824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Torgallmenningen - Bergen</name>
+        <description>Torgallmenningen - Bergen, Bergen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            5.325368,60.392995,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lagunen - Bergen</name>
+        <description>Lagunen - Bergen, Bergen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            5.328386,60.297384,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Amanda - Haugesund</name>
+        <description>Amanda - Haugesund, Haugesund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            5.33134,59.396284,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bergen Storsenter</name>
+        <description>Bergen Storsenter, Bergen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            5.333172,60.390575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Amfi Os - Bergen</name>
+        <description>Amfi Os - Bergen, Bergen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            5.456271,60.202431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Øyrane Torg - Bergen</name>
+        <description>Øyrane Torg - Bergen, Bergen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            5.465028,60.421317,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stord</name>
+        <description>Stord, Stord</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            5.499533,59.77896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jærhagen</name>
+        <description>Jærhagen, Jærhagen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            5.626237,58.779492,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fosnavåg</name>
+        <description>Fosnavåg, Fosnavåg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            5.634596,62.341458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bryne</name>
+        <description>Bryne, Bryne</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            5.639826,58.73544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tasta - Stavanger</name>
+        <description>Tasta - Stavanger, Stavanger</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            5.673813,58.982924,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Madla</name>
+        <description>Madla, Hafrsfjord</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            5.68064,58.95212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kvadrat - Sandnes</name>
+        <description>Kvadrat - Sandnes, Sandnes</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            5.72158,58.876096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arkaden - Stavanger</name>
+        <description>Arkaden - Stavanger, Stavanger</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            5.736134,58.970747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vågen - Sandnes</name>
+        <description>Vågen - Sandnes, Sandnes</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            5.738124,58.851165,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Husnes</name>
+        <description>Husnes, Husnes</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            5.756034,59.862105,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Førde</name>
+        <description>Førde, Førde</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            5.848778,61.45264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ålgård</name>
+        <description>Ålgård, Ålgård</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            5.850232,58.767081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ulsteinvik</name>
+        <description>Ulsteinvik, Ulsteinvik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            5.854989,62.339759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordfjordeid</name>
+        <description>Nordfjordeid, Nordfjordeid</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            5.984134,61.90834,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Egersund</name>
+        <description>Egersund, Egersund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            6.004178,58.453064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jørpeland</name>
+        <description>Jørpeland, Jørpeland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            6.039356,59.020634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Volda</name>
+        <description>Volda, Volda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            6.067282,62.144945,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ørsta</name>
+        <description>Ørsta, Ørsta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            6.123901,62.199464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Norheimsund</name>
+        <description>Norheimsund, Norheimsund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            6.145361,60.372757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ålesund</name>
+        <description>Ålesund, Ålesund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            6.157816,62.472861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Moa - Ålesund</name>
+        <description>Moa - Ålesund, Ålesund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            6.34969,62.466282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Voss</name>
+        <description>Voss, Voss</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            6.434212,60.629475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Odda</name>
+        <description>Odda, Odda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            6.545616,60.069064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Flekkefjord</name>
+        <description>Flekkefjord, Flekkefjord</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            6.666492,58.29447,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stryn</name>
+        <description>Stryn, Stryn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            6.719208,61.903342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Farsund</name>
+        <description>Farsund, Farsund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            6.80351,58.095967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vestnes</name>
+        <description>Vestnes, Vestnes</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            7.088384,62.626436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lyngdal</name>
+        <description>Lyngdal, Lyngdal</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            7.101696,58.156363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sogndal</name>
+        <description>Sogndal, Sogndal</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            7.102038,61.23203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Roseby - Molde</name>
+        <description>Roseby - Molde, Molde</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            7.178279,62.739251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mandal</name>
+        <description>Mandal, Mandal</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            7.461263,58.028992,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Åndalsnes</name>
+        <description>Åndalsnes, Åndalsnes</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            7.68722,62.567446,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Futura - Kristiansund</name>
+        <description>Futura - Kristiansund, Kristiansund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            7.728079,63.110335,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kristiansund N</name>
+        <description>Kristiansund N, Kristiansund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            7.728079,63.110335,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Evje</name>
+        <description>Evje, Evje</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            7.807359,58.587138,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vågsbygd - Kristiansand</name>
+        <description>Vågsbygd - Kristiansand, Kristiansand</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            7.953911,58.12456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vennesla</name>
+        <description>Vennesla, Vennesla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            7.97107,58.270811,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Markensgate - Kristiansand</name>
+        <description>Markensgate - Kristiansand, Kristiansand</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            7.993084,58.145536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sandens - Kristiansand</name>
+        <description>Sandens - Kristiansand, Kristiansand</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            7.99476,58.144742,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sørlandssenteret - Kristiansand</name>
+        <description>Sørlandssenteret - Kristiansand, Kristiansand</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            8.129542,58.179917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lillesand</name>
+        <description>Lillesand, Lillesand</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            8.396668,58.2623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sunndalsøra</name>
+        <description>Sunndalsøra, Sunndalsøra</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            8.565603,62.672646,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rjukan</name>
+        <description>Rjukan, Rjukan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            8.591266,59.879158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grimstad</name>
+        <description>Grimstad, Grimstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            8.593188,58.338023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Surna</name>
+        <description>Surna, Surnadal</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            8.711717,62.969422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Harebakken - Arendal</name>
+        <description>Harebakken - Arendal, Arendal</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            8.74688,58.474404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alti Arendal</name>
+        <description>Alti Arendal, Arendal</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            8.764157,58.459786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gol</name>
+        <description>Gol, Gol</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            8.939202,60.702015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hitra</name>
+        <description>Hitra, Hitra</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            8.977168,63.601486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bø</name>
+        <description>Bø, Bø</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            9.065095,59.413868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kyrksæterøra - Trondheim</name>
+        <description>Kyrksæterøra - Trondheim, Trondheim</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            9.084184,63.293507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Notodden</name>
+        <description>Notodden, Notodden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            9.221665,59.566253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fagernes</name>
+        <description>Fagernes, Fagernes</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            9.231857,60.985645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sannidal</name>
+        <description>Sannidal, Sannidal</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            9.285371,58.895193,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Flå</name>
+        <description>Flå, Flå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            9.460774,60.429902,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Otta</name>
+        <description>Otta, Otta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            9.54032,61.771431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arkaden Skien</name>
+        <description>Arkaden Skien, Skien</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            9.602216,59.195509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Herkules - Skien</name>
+        <description>Herkules - Skien, Skien</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            9.602216,59.195509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Down Town - Porsgrunn</name>
+        <description>Down Town - Porsgrunn, Porsgrunn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            9.642441,59.138251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kongsberg</name>
+        <description>Kongsberg, Kongsberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            9.651703,59.668615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brekstad</name>
+        <description>Brekstad, Brekstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            9.660779,63.692687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stathelle</name>
+        <description>Stathelle, Stathelle</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            9.693865,59.045868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oppdal</name>
+        <description>Oppdal, Oppdal</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            9.697246,62.59457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AMFI Orkanger</name>
+        <description>AMFI Orkanger, Orkanger</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            9.84447,63.297469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Krokstadelva - Drammen</name>
+        <description>Krokstadelva - Drammen, Drammen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.000939,59.756501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Larvik sentrum</name>
+        <description>Larvik sentrum, Larvik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.028637,59.053887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Larvik</name>
+        <description>Larvik, Larvik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.047645,59.068342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dokka</name>
+        <description>Dokka, Dokka</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.070967,60.83619,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gulskogen - Drammen</name>
+        <description>Gulskogen - Drammen, Drammen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.157977,59.742531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Magasinet - Drammen</name>
+        <description>Magasinet - Drammen, Drammen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.206461,59.742869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sandefjord</name>
+        <description>Sandefjord, Sandefjord</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.226146,59.130195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hønefoss</name>
+        <description>Hønefoss, Hønefoss</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.255136,60.164942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Liertoppen - Lierskogen Drammen</name>
+        <description>Liertoppen - Lierskogen Drammen, Lierskogen Drammen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.305846,59.811293,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Holmestrand</name>
+        <description>Holmestrand, Holmestrand</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.315073,59.49072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>City Syd - Trondheim</name>
+        <description>City Syd - Trondheim, Trondheim</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.376776,63.361542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Trondheim Torg</name>
+        <description>Trondheim Torg, Trondheim</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.393033,63.430297,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tønsberg</name>
+        <description>Tønsberg, Tønsberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.409407,59.270696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Solsiden - Trondheim</name>
+        <description>Solsiden - Trondheim, Trondheim</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.411661,63.435064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asker</name>
+        <description>Asker, Asker</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.4343,59.836935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>City Lade - Trondheim</name>
+        <description>City Lade - Trondheim, Trondheim</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.446525,63.443693,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Strandtorget - Lillehammer</name>
+        <description>Strandtorget - Lillehammer, Lillehammer</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.452676,61.114593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sirkus - Trondheim</name>
+        <description>Sirkus - Trondheim, Trondheim</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.455548,63.436799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lillehammer</name>
+        <description>Lillehammer, Lillehammer</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.464581,61.118025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Horten</name>
+        <description>Horten, Horten</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.485754,59.415071,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Holmensenteret - Asker</name>
+        <description>Holmensenteret - Asker, Asker</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.488459,59.854382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sandvika</name>
+        <description>Sandvika, Sandvika</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.520381,59.89011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gran</name>
+        <description>Gran, Gran</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.572368,60.356597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Raufoss</name>
+        <description>Raufoss, Gjøvik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.614595,60.727966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fornebu</name>
+        <description>Fornebu, Fornebu</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.621475,59.892406,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CC Vest - Lysaker</name>
+        <description>CC Vest - Lysaker, Oslo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.636359,59.91765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AMFI Moss</name>
+        <description>AMFI Moss, Moss</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.664922,59.436276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gjøvik</name>
+        <description>Gjøvik, Gjøvik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.693629,60.799991,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mosseporten</name>
+        <description>Mosseporten, Moss</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.703235,59.446244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bogstadveien</name>
+        <description>Bogstadveien, Oslo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.72222,59.92554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grensen - Oslo</name>
+        <description>Grensen - Oslo, Oslo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.742701,59.913825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vestby</name>
+        <description>Vestby, Vestby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.746677,59.602366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Torggata - Oslo</name>
+        <description>Torggata - Oslo, Oslo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.746776,59.913261,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oslo City</name>
+        <description>Oslo City, Oslo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.751571,59.912649,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Malvik - Trondheim</name>
+        <description>Malvik - Trondheim, Trondheim</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.751911,63.420852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vinterbro</name>
+        <description>Vinterbro, Vinterbro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.7713,59.73973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Storo - Oslo</name>
+        <description>Storo - Oslo, Oslo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.774949,59.945852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tynset</name>
+        <description>Tynset, Tynset</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.777008,62.275852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bryn - Oslo</name>
+        <description>Bryn - Oslo, Oslo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.821312,59.903556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mortensrud - Oslo</name>
+        <description>Mortensrud - Oslo, Oslo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.826903,59.849684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Linderud - Oslo</name>
+        <description>Linderud - Oslo, Oslo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.835428,59.943087,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ski</name>
+        <description>Ski, Ski</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.83588,59.719632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stjørdal</name>
+        <description>Stjørdal, Stjørdal</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.923862,63.468928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stovner - Oslo</name>
+        <description>Stovner - Oslo, Oslo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.924524,59.962145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fredrikstad</name>
+        <description>Fredrikstad, Fredrikstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.939732,59.214204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Triaden - Lørenskog</name>
+        <description>Triaden - Lørenskog, Lørenskog</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.952528,59.918594,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Metro - Lørenskog</name>
+        <description>Metro - Lørenskog, Lørenskog</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.957562,59.92805,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Østfoldhallen - Fredrikstad</name>
+        <description>Østfoldhallen - Fredrikstad, Fredrikstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.994512,59.252316,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Strømmen</name>
+        <description>Strømmen, Strømmen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.007331,59.947286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skedsmokorset</name>
+        <description>Skedsmokorset, Skedsmokorset</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.040378,60.000786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lillestrøm</name>
+        <description>Lillestrøm, Lillestrøm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.048614,59.95592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CC Stadion - Hamar</name>
+        <description>CC Stadion - Hamar, Hamar</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.078642,60.79494,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kløfta</name>
+        <description>Kløfta, Kløfta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.137649,60.076396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Askim</name>
+        <description>Askim, Askim</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.165611,59.582991,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jessheim</name>
+        <description>Jessheim, Jessheim</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.171331,60.142619,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Råholt</name>
+        <description>Råholt, Råholt</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.175302,60.280737,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Strömstad shoppingcenter</name>
+        <description>Strömstad shoppingcenter, Strömstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.188439,58.946249,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Strömstad Nordby köpcenter</name>
+        <description>Strömstad Nordby köpcenter, Strömstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.207716,59.064395,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rørvik</name>
+        <description>Rørvik, Rørvik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.236508,64.861812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Morenen - Slitu</name>
+        <description>Morenen - Slitu, Slitu</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.277371,59.578834,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Levanger</name>
+        <description>Levanger, Levanger</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.281181,63.742465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tanum</name>
+        <description>Tanum, Tanum</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.346729,58.721162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vormsund</name>
+        <description>Vormsund, Vormsund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.410735,60.15112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Verdal</name>
+        <description>Verdal, Verdal</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.48507,63.791797,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Steinkjer</name>
+        <description>Steinkjer, Steinkjer</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.489699,64.011658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Namsos</name>
+        <description>Namsos, Namsos</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.504149,64.467419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Elverum</name>
+        <description>Elverum, Elverum</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.565575,60.878168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bjørkelangen</name>
+        <description>Bjørkelangen, Bjørkelangen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.568471,59.884065,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Uddevalla Torp</name>
+        <description>Uddevalla Torp, Uddevalla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.810429,58.353866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Töcksfors</name>
+        <description>Töcksfors, Töcksfors</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.844652,59.505789,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Göteborg Frölunda Torg</name>
+        <description>Göteborg Frölunda Torg, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.90926,57.652331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kungälv</name>
+        <description>Kungälv, Kungälv</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.968201,57.874176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Göteborg Nordstan</name>
+        <description>Göteborg Nordstan, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.969424,57.707443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mölndal</name>
+        <description>Mölndal, Mölndal</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.012982,57.655301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brønnøysund</name>
+        <description>Brønnøysund, Brønnøysund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.2101,65.473355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Varberg</name>
+        <description>Varberg, Varberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.24884,57.109118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Charlottenberg</name>
+        <description>Charlottenberg, Charlottenberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.288277,59.880847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Trollhättan SIBA-huset</name>
+        <description>Trollhättan SIBA-huset, Trollhättan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.30799,58.312578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sandnessjøen</name>
+        <description>Sandnessjøen, Sandnessjøen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.635135,66.022293,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Helsingborg Väla</name>
+        <description>Helsingborg Väla, Helsingborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.755302,56.092029,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Halmstad Hallarna</name>
+        <description>Halmstad Hallarna, Halmstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.911351,56.655329,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Borås</name>
+        <description>Borås, Borås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.940531,57.733046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Malmö Emporia</name>
+        <description>Malmö Emporia, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.974654,55.563613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Löddeköpinge</name>
+        <description>Löddeköpinge, Löddeköpinge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.98859,55.76879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Malmö Triangeln</name>
+        <description>Malmö Triangeln, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.001168,55.59517,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Malmö Mobilia</name>
+        <description>Malmö Mobilia, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.003159,55.582386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidköping</name>
+        <description>Lidköping, Lidköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.155014,58.50459,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lund - Nova Lund</name>
+        <description>Lund - Nova Lund, Lund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.159958,55.71394,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mosjøen</name>
+        <description>Mosjøen, Mosjøen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.190248,65.839919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Karlstad Bergvik</name>
+        <description>Karlstad Bergvik, Karlstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.42485,59.377484,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Karlstad</name>
+        <description>Karlstad, Karlstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.499571,59.380112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Leknes</name>
+        <description>Leknes, Leknes</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.609503,68.148631,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skövde</name>
+        <description>Skövde, Skövde</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.856608,58.405365,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mo i Rana</name>
+        <description>Mo i Rana, Mo i Rana</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.139057,66.307864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kristianstad</name>
+        <description>Kristianstad, Kristianstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.158844,56.030086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kristianstad C4 Shopping</name>
+        <description>Kristianstad C4 Shopping, Kristianstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.202255,56.026731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jönköping Asecs</name>
+        <description>Jönköping Asecs, Jönköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.203624,57.773766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Glasshuset - Bodø</name>
+        <description>Glasshuset - Bodø, Bodø</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.379504,67.283808,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>City Nord - Bodø</name>
+        <description>City Nord - Bodø, Bodø</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.408451,67.284024,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mora</name>
+        <description>Mora, Mora</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.537787,61.004459,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Svolvær</name>
+        <description>Svolvær, Svolvær</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.559477,68.234262,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Östersund</name>
+        <description>Östersund, Östersund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.638429,63.175807,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Växjö</name>
+        <description>Växjö, Växjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.766574,56.884798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Karlshamn</name>
+        <description>Karlshamn, Karlshamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.8607,56.1706,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Örebro Marieberg</name>
+        <description>Örebro Marieberg, Örebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.137673,59.217949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fauske</name>
+        <description>Fauske, Fauske</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.395789,67.258322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sortland</name>
+        <description>Sortland, Sortland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.416665,68.695839,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Borlänge</name>
+        <description>Borlänge, Borlänge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.417971,60.484166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Karlskrona</name>
+        <description>Karlskrona, Karlskrona</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.582839,56.161288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Linköping i-Huset</name>
+        <description>Linköping i-Huset, Linköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.585309,58.434301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Linköping Galleria Gränden</name>
+        <description>Linköping Galleria Gränden, Linköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.626892,58.409477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Falun</name>
+        <description>Falun, Falun</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.632997,60.605489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Karlskrona Amiralen</name>
+        <description>Karlskrona Amiralen, Karlskrona</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.641606,56.19697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vimmerby</name>
+        <description>Vimmerby, Vimmerby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.853699,57.666486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Norrköping Ingelsta</name>
+        <description>Norrköping Ingelsta, Norrköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.155929,58.618338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Norrköping Linden</name>
+        <description>Norrköping Linden, Norrköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.188896,58.587465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Norrköping Mirum Galleria</name>
+        <description>Norrköping Mirum Galleria, Norrköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.210994,58.572994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kalmar</name>
+        <description>Kalmar, Kalmar</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.320158,56.687012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oskarshamn</name>
+        <description>Oskarshamn, Oskarshamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.446604,57.264277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Västerås Erikslund</name>
+        <description>Västerås Erikslund, Västerås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.462113,59.611242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eskilstuna Tuna Park</name>
+        <description>Eskilstuna Tuna Park, Eskilstuna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.469067,59.372017,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Västerås Kvarteret Igor</name>
+        <description>Västerås Kvarteret Igor, Västerås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.544552,59.611817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Amfi Kanebogen - Harstad</name>
+        <description>Amfi Kanebogen - Harstad, Harstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.566331,68.779602,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Västervik</name>
+        <description>Västervik, Västervik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.63225,57.75736,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gävle Valbo</name>
+        <description>Gävle Valbo, Gävle</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.992739,60.633675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nyköping</name>
+        <description>Nyköping, Nyköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.00353,58.751458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sundsvall Birsta City</name>
+        <description>Sundsvall Birsta City, Sundsvall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.338216,62.447065,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Narvik</name>
+        <description>Narvik, Narvik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.435295,68.441258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Uppsala</name>
+        <description>Uppsala, Uppsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.638444,59.858719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Uppsala Gränby Centrum</name>
+        <description>Uppsala Gränby Centrum, Uppsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.672659,59.877019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stockholm Vällingby</name>
+        <description>Stockholm Vällingby, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.873416,59.363174,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stockholm Skärholmen SKHLM</name>
+        <description>Stockholm Skärholmen SKHLM, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.9083,59.275217,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stockholm Sollentuna C</name>
+        <description>Stockholm Sollentuna C, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.950743,59.42844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Finnsnes</name>
+        <description>Finnsnes, Finnsnes</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.978581,69.228918,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Solna Mall of Scandinavia</name>
+        <description>Solna Mall of Scandinavia, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.99965,59.370664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stockholm Drottninggatan</name>
+        <description>Stockholm Drottninggatan, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.060929,59.334488,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stockholm Täby C</name>
+        <description>Stockholm Täby C, Täby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.069508,59.444862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Visby</name>
+        <description>Visby, Visby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.299607,57.637895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bardufoss</name>
+        <description>Bardufoss, Bardufoss</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.513291,69.064724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Örnsköldsvik</name>
+        <description>Örnsköldsvik, Örnsköldsvik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.714565,63.289281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jekta - Tromsø</name>
+        <description>Jekta - Tromsø, Tromsø</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.92103,69.674566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nerstranda - Tromsø</name>
+        <description>Nerstranda - Tromsø, Tromsø</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.954855,69.646501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tromsdalen</name>
+        <description>Tromsdalen, Tromsø</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.970862,69.639962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Umeå Avion Shopping</name>
+        <description>Umeå Avion Shopping, Umeå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.254656,63.807752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skellefteå</name>
+        <description>Skellefteå, Skellefteå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.9544,64.750085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Piteå</name>
+        <description>Piteå, Piteå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.479732,65.316927,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rauma, Potkur</name>
+        <description>Rauma, Potkur, Rauma</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.506958,61.128227,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vaasa, Espen</name>
+        <description>Vaasa, Espen, Vaasa</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.616504,63.096429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vaasa, GW Galleria</name>
+        <description>Vaasa, GW Galleria, Vaasa</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.649621,63.109218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pori, Puuvilla</name>
+        <description>Pori, Puuvilla, Pori</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.798674,61.492495,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Luleå Smedjan Gallerian</name>
+        <description>Luleå Smedjan Gallerian, Smedjan Gallerian</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.153227,65.583985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Raisio, Mylly</name>
+        <description>Raisio, Mylly, Turku</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.205177,60.491816,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Turku, Kultatalo</name>
+        <description>Turku, Kultatalo, Turku</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.26535,60.451443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Turku, Skanssi</name>
+        <description>Turku, Skanssi, Turku</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.318926,60.429696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seinäjoki, Ideapark</name>
+        <description>Seinäjoki, Ideapark, Seinäjoki</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.801414,62.792293,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Salo, Plaza</name>
+        <description>Salo, Plaza, Salo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.124741,60.386373,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kokkola, Chydenia</name>
+        <description>Kokkola, Chydenia, Kokkola</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.133028,63.836239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alta</name>
+        <description>Alta, Alta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.272645,69.966175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Forssa,  Prisma</name>
+        <description>Forssa,  Prisma, Forssa</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.637034,60.812193,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tampere,  Lielahtikeskus</name>
+        <description>Tampere,  Lielahtikeskus, Tampere</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.668612,61.520478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hammerfest</name>
+        <description>Hammerfest, Hammerfest</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.681978,70.663911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tampere, Koskikeskus</name>
+        <description>Tampere, Koskikeskus, Tampere</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.76811,61.495351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lempäälä, Ideapark</name>
+        <description>Lempäälä, Ideapark, Lempäälä</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.798539,61.362645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tornio, Rajalla</name>
+        <description>Tornio, Rajalla, Tornio</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.142026,65.844297,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hämeenlinna, Goodman</name>
+        <description>Hämeenlinna, Goodman, Hämeenlinna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.455864,60.996666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Espoo, Iso-Omena</name>
+        <description>Espoo, Iso-Omena, Espoo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.740127,60.161897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Espoo, Sello</name>
+        <description>Espoo, Sello, Espoo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.810264,60.21712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hyvinkää, Willa</name>
+        <description>Hyvinkää, Willa, Hyvinkää</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.865502,60.632156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Helsinki, Tripla</name>
+        <description>Helsinki, Tripla, Helsinki</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.930445,60.197915,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Helsinki, Kamppi</name>
+        <description>Helsinki, Kamppi, Helsinki</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.933499,60.169427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Helsinki, Forum</name>
+        <description>Helsinki, Forum, Helsinki</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.937469,60.16895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vantaa, Jumbo</name>
+        <description>Vantaa, Jumbo, Vantaa</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.962113,60.290768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lakselv</name>
+        <description>Lakselv, Lakselv</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.971782,70.051326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Helsinki, Redi</name>
+        <description>Helsinki, Redi, Helsinki</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.980927,60.189609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Järvenpää, Prisma</name>
+        <description>Järvenpää, Prisma, Järvenpää</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.084411,60.469534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Helsinki, Itis</name>
+        <description>Helsinki, Itis, Helsinki</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.085417,60.212632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oulu, Ideapark</name>
+        <description>Oulu, Ideapark, Oulu</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.447315,65.076172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oulu, Valkea</name>
+        <description>Oulu, Valkea, Oulu</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.472096,65.011422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oulu, Zeppelin</name>
+        <description>Oulu, Zeppelin, Kempele</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.538861,64.903251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Porvoo, Taidetehdas</name>
+        <description>Porvoo, Taidetehdas, Porvoo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.657557,60.389271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lahti, Trio</name>
+        <description>Lahti, Trio, Lahti</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.662222,60.982652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rovaniemi, Sampokeskus</name>
+        <description>Rovaniemi, Sampokeskus, Rovaniemi</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.730627,66.501702,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lahti, Karisma</name>
+        <description>Lahti, Karisma, Lahti</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.736976,60.982892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jyväskylä, Forum</name>
+        <description>Jyväskylä, Forum, Jyväskylä</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.748641,62.241968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jyväskylä, Seppä</name>
+        <description>Jyväskylä, Seppä, Jyväskylä</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.777256,62.256007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kouvola, Veturi</name>
+        <description>Kouvola, Veturi, Kouvola</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            26.655417,60.872098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kotka, Pasaati</name>
+        <description>Kotka, Pasaati, Kotka</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            26.944604,60.46618,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Iisalmi, Iisa</name>
+        <description>Iisalmi, Iisa, Iisalmi</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            27.187896,63.555727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mikkeli, Stella</name>
+        <description>Mikkeli, Stella, Mikkeli</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            27.275285,61.689292,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kuopio, Matkus</name>
+        <description>Kuopio, Matkus, Kuopio</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            27.601006,62.839601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kajaani</name>
+        <description>Kajaani, Kajaani</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            27.733612,64.224964,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lappeenranta, Galleria</name>
+        <description>Lappeenranta, Galleria, Lappeenranta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            28.190278,61.055833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vadsø</name>
+        <description>Vadsø, Vadsø</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            29.753139,70.072022,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Joensuu, Iso-Myy</name>
+        <description>Joensuu, Iso-Myy, Joensuu</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            29.763922,62.601714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kirkenes</name>
+        <description>Kirkenes, Kirkenes</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            30.037372,69.728301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

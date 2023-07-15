@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://github.com/cisene/se-poi -->
+<gpx creator="se-poi" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+  <metadata>
+    <name><![CDATA[Kreatima]]></name>
+    <desc><![CDATA[Koordinater - Kreatima]]></desc>
+    <link href="https://kreatima.com/">
+      <text><![CDATA[Kreatima]]></text>
+       <type>text/html</type>
+    </link>
+   <time>2023-07-15T16:21:19+02:00</time>
+  </metadata>
+  <bounds minlat="57.70409" minlon="11.96092" maxlat="59.334505" maxlon="18.056809" />
+  <wpt lat="57.70409" lon="11.96092"><name><![CDATA[Kreatima Göteborg, Göteborg]]></name></wpt>
+  <wpt lat="59.334505" lon="18.056809"><name><![CDATA[Kreatima Stockholm, Stockholm]]></name></wpt>
+</gpx>

@@ -1,0 +1,4134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Systembolaget - Ombud</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Systembolaget - Ombud</name>
+      <Placemark>
+        <name>Systembolaget Ombud, Nordkosters Livs</name>
+        <description>Systembolaget Ombud, Nordkosters Livs, Nordkoster</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.01536,58.9077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Tempo Resö</name>
+        <description>Systembolaget Ombud, Tempo Resö, Resö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.17602,58.8036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Skutan</name>
+        <description>Systembolaget Ombud, ICA Skutan, Hamburgsund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.27225,58.55245,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Skoaffären</name>
+        <description>Systembolaget Ombud, Skoaffären, Fjällbacka</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.28187,58.59809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Glas o Porslin</name>
+        <description>Systembolaget Ombud, Glas o Porslin, Hunnebostrand</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.29552,58.44024,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Tärnan</name>
+        <description>Systembolaget Ombud, ICA Tärnan, Bovallstrand</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.32285,58.47567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Järn o. Färg</name>
+        <description>Systembolaget Ombud, Järn o. Färg, Tanumshede</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.3237,58.72382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Provianten</name>
+        <description>Systembolaget Ombud, ICA Provianten, Gullholmen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.40249,58.17897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Grundsunds Handel</name>
+        <description>Systembolaget Ombud, Grundsunds Handel, Grundsund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.42363,58.21251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Magasinet</name>
+        <description>Systembolaget Ombud, Magasinet, Hälleviksstrand</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.44364,58.12352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Coop Konsum</name>
+        <description>Systembolaget Ombud, Coop Konsum, Brastad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.48205,58.38258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Arwidssons Järn</name>
+        <description>Systembolaget Ombud, Arwidssons Järn, Hällevadsholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.53669,58.58078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, First Trade 471 32 SKÄRHAMN</name>
+        <description>Systembolaget Ombud, First Trade 471 32 SKÄRHAMN, Skärhamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.54631,57.99089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Konsum</name>
+        <description>Systembolaget Ombud, Konsum, Marstrand</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.58901,57.88678,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Hedekas Allköp</name>
+        <description>Systembolaget Ombud, Hedekas Allköp, Hedekas</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.77966,58.64494,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Konsum</name>
+        <description>Systembolaget Ombud, Konsum, Styrsö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.78103,57.61751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Gotteposten</name>
+        <description>Systembolaget Ombud, Gotteposten, Kärna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.79092,57.84444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Konsum</name>
+        <description>Systembolaget Ombud, Konsum, Töcksfors</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.83644,59.5093,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Lennartsfors Brukshandel</name>
+        <description>Systembolaget Ombud, Lennartsfors Brukshandel, Lennartsfors</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.90466,59.31851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Servicebutiken Mitt i Prick</name>
+        <description>Systembolaget Ombud, Servicebutiken Mitt i Prick, Ljungskile</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.92013,58.22352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Coop Konsum</name>
+        <description>Systembolaget Ombud, Coop Konsum, Storlien</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.10347,63.31551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Bygga Värmland</name>
+        <description>Systembolaget Ombud, Bygga Värmland, Koppom</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.14985,59.7066,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Coop Konsum</name>
+        <description>Systembolaget Ombud, Coop Konsum, Bäckefors</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.15957,58.8066,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Hilco</name>
+        <description>Systembolaget Ombud, Hilco, Frillesås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.17666,57.31621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Väröhallen</name>
+        <description>Systembolaget Ombud, Väröhallen, Väröbacka</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.18397,57.24704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Gränsbua</name>
+        <description>Systembolaget Ombud, Gränsbua, Flötningen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.21671,61.86666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA</name>
+        <description>Systembolaget Ombud, ICA, Sillerud</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.31095,59.31901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Spar Veddige</name>
+        <description>Systembolaget Ombud, Spar Veddige, Veddige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.33398,57.26656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Cypressen</name>
+        <description>Systembolaget Ombud, Cypressen, Brålanda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.35134,58.56246,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Konsumhallen</name>
+        <description>Systembolaget Ombud, Konsumhallen, Åmotfors</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.36302,59.76306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Supermarket</name>
+        <description>Systembolaget Ombud, ICA Supermarket, Tvååker</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.39841,57.04114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Hindåsen</name>
+        <description>Systembolaget Ombud, ICA Hindåsen, Hindås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.44713,57.7037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Fengersfors Handel</name>
+        <description>Systembolaget Ombud, Fengersfors Handel, Fengersfors</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.47152,58.99599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Skällinge Livs</name>
+        <description>Systembolaget Ombud, Skällinge Livs, Skällinge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.47299,57.18038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Bilisten</name>
+        <description>Systembolaget Ombud, Bilisten, Horred</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.47651,57.35475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Lindberg</name>
+        <description>Systembolaget Ombud, ICA Lindberg, Björketorp</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.52436,57.42712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Gittes Garn</name>
+        <description>Systembolaget Ombud, Gittes Garn, Sollebrunn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.52909,58.12112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Coop Konsum</name>
+        <description>Systembolaget Ombud, Coop Konsum, Svanskog</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.55185,59.17917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Konsum</name>
+        <description>Systembolaget Ombud, Konsum, Glava</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.56242,59.54934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Kungsäters Handel</name>
+        <description>Systembolaget Ombud, Kungsäters Handel, Kungsäter</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.56285,57.3046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Höljes Handel</name>
+        <description>Systembolaget Ombud, Höljes Handel, Höljes</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.59737,60.89859,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Torekov Båt & Motor</name>
+        <description>Systembolaget Ombud, Torekov Båt & Motor, Torekov</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.62874,56.42552,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Vessige</name>
+        <description>Systembolaget Ombud, ICA Vessige, Vessigebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.64782,56.97777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Bykooperativet i Lekvattnet</name>
+        <description>Systembolaget Ombud, Bykooperativet i Lekvattnet, Lekvattnet</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.67885,60.18838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Ullareds Närbutik</name>
+        <description>Systembolaget Ombud, Ullareds Närbutik, Ullared</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.71708,57.13663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Coop Konsum</name>
+        <description>Systembolaget Ombud, Coop Konsum, Idre</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.72291,61.85795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Harplinge Pappershandel</name>
+        <description>Systembolaget Ombud, Harplinge Pappershandel, Harplinge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.7273,56.74054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Älekulla Livs/ICA</name>
+        <description>Systembolaget Ombud, Älekulla Livs/ICA, Älekulla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.72738,57.34474,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Kiosken</name>
+        <description>Systembolaget Ombud, Kiosken, Getinge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.73425,56.82002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Östmarks Handel</name>
+        <description>Systembolaget Ombud, Östmarks Handel, Östmark</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.75952,60.28318,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Ljungdalens Turistbyrå</name>
+        <description>Systembolaget Ombud, Ljungdalens Turistbyrå, Ljungdalen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.79045,62.85245,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Michaels Allköp</name>
+        <description>Systembolaget Ombud, Michaels Allköp, Öxabäck</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.8041,57.39379,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Rörbäcksnäs</name>
+        <description>Systembolaget Ombud, ICA Rörbäcksnäs, Rörbäcksnäs</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.81337,61.12922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Heberlein's</name>
+        <description>Systembolaget Ombud, Heberlein's, Förslöv</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.81913,56.35435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Hässelborgs Livs/ICA</name>
+        <description>Systembolaget Ombud, Hässelborgs Livs/ICA, Älvsered</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.85987,57.23953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Coop Konsum</name>
+        <description>Systembolaget Ombud, Coop Konsum, Sysslebäck</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.87181,60.72932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Överlida Livs</name>
+        <description>Systembolaget Ombud, Överlida Livs, Överlida</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.89861,57.35055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Duveds Livs</name>
+        <description>Systembolaget Ombud, Duveds Livs, Duved</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.92945,63.39329,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Lanthandeln</name>
+        <description>Systembolaget Ombud, Lanthandeln, Kallsedet</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.93331,63.7,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Matboden</name>
+        <description>Systembolaget Ombud, Matboden, Ätran</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.94904,57.12072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Handlar'n</name>
+        <description>Systembolaget Ombud, Handlar'n, Mårdaklev</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.97876,57.24854,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Fegenkiosken</name>
+        <description>Systembolaget Ombud, Fegenkiosken, Fegen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.03762,57.1055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Likenäs Allköp</name>
+        <description>Systembolaget Ombud, Likenäs Allköp, Likenäs</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.04268,60.61411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Ottsjöbua</name>
+        <description>Systembolaget Ombud, ICA Ottsjöbua, Ottsjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.0542,63.21581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Coop Konsum</name>
+        <description>Systembolaget Ombud, Coop Konsum, Sörsjön</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.08443,61.409,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Preem</name>
+        <description>Systembolaget Ombud, Preem, Våxtorp</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.11966,56.41701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Matöppet</name>
+        <description>Systembolaget Ombud, Matöppet, Simlångsdalen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.12911,56.72062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Coop Konsum</name>
+        <description>Systembolaget Ombud, Coop Konsum, Lysvik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.1335,60.01421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Språngs Färg</name>
+        <description>Systembolaget Ombud, Språngs Färg, Särna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.13925,61.69339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Håcksviks Knallen</name>
+        <description>Systembolaget Ombud, Håcksviks Knallen, Håcksvik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.14605,57.31741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Skogsstjärnan</name>
+        <description>Systembolaget Ombud, ICA Skogsstjärnan, Ambjörby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.16752,60.49869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Sahlins Livs</name>
+        <description>Systembolaget Ombud, Sahlins Livs, Kvänum</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.18556,58.29909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Nära</name>
+        <description>Systembolaget Ombud, ICA Nära, Länghem</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.23968,57.6035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Strandbergs</name>
+        <description>Systembolaget Ombud, ICA Strandbergs, Undersåker</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.24449,63.31431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Öhmans i Lofsdalen</name>
+        <description>Systembolaget Ombud, Öhmans i Lofsdalen, Lofsdalen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.26976,62.11231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Sundholms Speceri & Diversehandel</name>
+        <description>Systembolaget Ombud, Sundholms Speceri & Diversehandel, Stöllet</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.27088,60.41101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Röstångaservice</name>
+        <description>Systembolaget Ombud, Röstångaservice, Röstånga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.29046,56.0012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Shell</name>
+        <description>Systembolaget Ombud, Shell, Knäred</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.3165,56.51801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Thiels Eftr.</name>
+        <description>Systembolaget Ombud, Thiels Eftr., Floby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.33678,58.13873,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Nya Lima Handel</name>
+        <description>Systembolaget Ombud, Nya Lima Handel, Lima</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.34047,60.97507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Klacken Skobutik</name>
+        <description>Systembolaget Ombud, Klacken Skobutik, Smålandsstenar</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.41272,57.16356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Postens Lantbrevbäring</name>
+        <description>Systembolaget Ombud, Postens Lantbrevbäring, Götene</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.49261,58.52822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Bengtssons Färgtema</name>
+        <description>Systembolaget Ombud, Bengtssons Färgtema, Veberöd</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.49365,55.63333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Statoil</name>
+        <description>Systembolaget Ombud, Statoil, Ekshärad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.49562,60.17607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Everta ICA</name>
+        <description>Systembolaget Ombud, Everta ICA, Dalstorp</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.51015,57.6061,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Primören</name>
+        <description>Systembolaget Ombud, Primören, Harlösa</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.52785,55.71641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Coop Konsum</name>
+        <description>Systembolaget Ombud, Coop Konsum, Unnaryd</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.52819,56.95485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Matrutan</name>
+        <description>Systembolaget Ombud, ICA Matrutan, Grimsås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.54881,57.48328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Åsarp Järn & Bygg</name>
+        <description>Systembolaget Ombud, Åsarp Järn & Bygg, Åsarp</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.56248,58.02432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Matglädje</name>
+        <description>Systembolaget Ombud, Matglädje, Reftele</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.59435,57.17477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Matlusten</name>
+        <description>Systembolaget Ombud, ICA Matlusten, Tyringe</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.60191,56.15945,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Handlarn i Blentarp</name>
+        <description>Systembolaget Ombud, Handlarn i Blentarp, Blentarp</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.60311,55.58368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Hinneryd Livs</name>
+        <description>Systembolaget Ombud, Hinneryd Livs, Hinneryd</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.60852,56.61821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Mörsil</name>
+        <description>Systembolaget Ombud, ICA Mörsil, Mörsil</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.65878,63.3086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Vittsjö Blomsterhandel</name>
+        <description>Systembolaget Ombud, Vittsjö Blomsterhandel, Vittsjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.66418,56.33823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Skattkärrs Livs</name>
+        <description>Systembolaget Ombud, Skattkärrs Livs, Skattkärr</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.67485,59.41331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Nya Birgers Kläder</name>
+        <description>Systembolaget Ombud, Nya Birgers Kläder, Sösdala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.68216,56.04094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Olof Nils</name>
+        <description>Systembolaget Ombud, Olof Nils, Bjärnum</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.71059,56.29079,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Coop Konsum</name>
+        <description>Systembolaget Ombud, Coop Konsum, Molkom</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.7209,59.6011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Nära</name>
+        <description>Systembolaget Ombud, ICA Nära, Strömsnäsbruk</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.73181,56.54884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Nära</name>
+        <description>Systembolaget Ombud, ICA Nära, Bredaryd</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.73688,57.17527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Konsum</name>
+        <description>Systembolaget Ombud, Konsum, Traryd</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.74839,56.57827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Öststorm</name>
+        <description>Systembolaget Ombud, Öststorm, Väse</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.85122,59.38238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Ekbergs Fiske</name>
+        <description>Systembolaget Ombud, Ekbergs Fiske, Vemdalen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.86326,62.45015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Börtnans Livs</name>
+        <description>Systembolaget Ombud, Börtnans Livs, Börtnan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.86738,62.75935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Linsell</name>
+        <description>Systembolaget Ombud, ICA Linsell, Linsell</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.8905,62.15685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Solens Livs</name>
+        <description>Systembolaget Ombud, Solens Livs, Venjan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.90939,60.95335,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Matöppet i Vinslöv HB</name>
+        <description>Systembolaget Ombud, Matöppet i Vinslöv HB, Vinslöv</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.913,56.1031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Alsen</name>
+        <description>Systembolaget Ombud, ICA Alsen, Alsen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.92469,63.38678,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Fremiko</name>
+        <description>Systembolaget Ombud, Fremiko, Sjötorp</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.9801,58.83933,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Kvarnen</name>
+        <description>Systembolaget Ombud, ICA Kvarnen, Tidan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.00467,58.57357,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Trångsvikens Bygdegård</name>
+        <description>Systembolaget Ombud, Trångsvikens Bygdegård, Trångsviken</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.0185,63.33143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Jormboden</name>
+        <description>Systembolaget Ombud, Jormboden, Jormvattnet</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.04152,64.72072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Freijs Livs</name>
+        <description>Systembolaget Ombud, Freijs Livs, Lyrestad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.06042,58.8039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Lillhärdals Livs</name>
+        <description>Systembolaget Ombud, Lillhärdals Livs, Lillhärdal</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.0697,61.85015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Eltjänster</name>
+        <description>Systembolaget Ombud, Eltjänster, Degeberga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.09015,55.83673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Ansättens Fjällservice</name>
+        <description>Systembolaget Ombud, Ansättens Fjällservice, Åkersjön</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.09996,63.76666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Götes Allköp</name>
+        <description>Systembolaget Ombud, Götes Allköp, Brösarp</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.10081,55.72552,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Postens Lantbrevbäring</name>
+        <description>Systembolaget Ombud, Postens Lantbrevbäring, Pilgrimstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.10614,59.309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Brynolfs Livs</name>
+        <description>Systembolaget Ombud, Brynolfs Livs, Löderup</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.11258,55.43883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Valsjöbyn</name>
+        <description>Systembolaget Ombud, ICA Valsjöbyn, Valsjöbyn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.13612,64.06866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Winthers Bodega</name>
+        <description>Systembolaget Ombud, Winthers Bodega, Gäddede</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.14299,64.5004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Konfekthörnan</name>
+        <description>Systembolaget Ombud, Konfekthörnan, Vaggeryd</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.14874,57.49919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Skålan</name>
+        <description>Systembolaget Ombud, ICA Skålan, Skålan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.16156,62.64684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Fjällträffen Rötviken</name>
+        <description>Systembolaget Ombud, Fjällträffen Rötviken, Rötviken</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.1636,63.97347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Olas Livs</name>
+        <description>Systembolaget Ombud, Olas Livs, Lesjöfors</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.18166,59.97927,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Bäckhammars Livs</name>
+        <description>Systembolaget Ombud, Bäckhammars Livs, Bäckhammar</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.19086,59.15995,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Morlinds Lanthandel</name>
+        <description>Systembolaget Ombud, Morlinds Lanthandel, Klövsjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.19368,62.52212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Hova Skoaffär</name>
+        <description>Systembolaget Ombud, Hova Skoaffär, Hova</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.21697,58.85745,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Macken i Kivik</name>
+        <description>Systembolaget Ombud, Macken i Kivik, Kivik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.22633,55.68518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Näldhallen</name>
+        <description>Systembolaget Ombud, ICA Näldhallen, Nälden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.24222,63.34944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Ica Nära</name>
+        <description>Systembolaget Ombud, Ica Nära, Liatorp</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.27393,56.66496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Lönsboda Färg o Papper</name>
+        <description>Systembolaget Ombud, Lönsboda Färg o Papper, Lönsboda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.32057,56.39759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Nära</name>
+        <description>Systembolaget Ombud, ICA Nära, Tenhult</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.32135,57.7092,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Visingsö lanthandel</name>
+        <description>Systembolaget Ombud, Visingsö lanthandel, Visingsö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.34171,58.04954,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Granngården</name>
+        <description>Systembolaget Ombud, Granngården, Myrviken</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.35451,62.99919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Nära</name>
+        <description>Systembolaget Ombud, ICA Nära, Undenäs</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.40074,58.65975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Handelsboden</name>
+        <description>Systembolaget Ombud, Handelsboden, Häradsbäck</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.45109,56.53003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Kiosk o. Present AB</name>
+        <description>Systembolaget Ombud, Kiosk o. Present AB, Malmbäck</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.46388,57.57837,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Citykiosken</name>
+        <description>Systembolaget Ombud, Citykiosken, Forserum</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.47618,57.69929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Sporren</name>
+        <description>Systembolaget Ombud, ICA Sporren, Hackås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.51585,62.92912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Moheda Färghandel</name>
+        <description>Systembolaget Ombud, Moheda Färghandel, Moheda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.57188,57.0014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA</name>
+        <description>Systembolaget Ombud, ICA, Fåker</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.57978,62.99109,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Supermarket</name>
+        <description>Systembolaget Ombud, ICA Supermarket, Lammhult</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.58108,57.16906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, OK Föllinge</name>
+        <description>Systembolaget Ombud, OK Föllinge, Föllinge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.61123,63.67037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Citykiosken</name>
+        <description>Systembolaget Ombud, Citykiosken, Bodafors</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.70222,57.5058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Bohlins Allivs</name>
+        <description>Systembolaget Ombud, Bohlins Allivs, Kalvsvik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.71201,56.73303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Coop Konsum</name>
+        <description>Systembolaget Ombud, Coop Konsum, Björbo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.73107,60.45595,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Jarmos Livs & Bensin</name>
+        <description>Systembolaget Ombud, Jarmos Livs & Bensin, Klimpfjäll</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.79801,65.06156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, OK</name>
+        <description>Systembolaget Ombud, OK, Laxsjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.80162,63.81371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Nära</name>
+        <description>Systembolaget Ombud, ICA Nära, Dala-floda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.81047,60.5099,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Sedins</name>
+        <description>Systembolaget Ombud, Sedins, Brunflo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.82731,63.07857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Litshallen</name>
+        <description>Systembolaget Ombud, ICA Litshallen, Lit</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.84611,63.31821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Skatteunge Handel</name>
+        <description>Systembolaget Ombud, Skatteunge Handel, Skattungbyn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.85772,61.18648,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Glas o. Bygg</name>
+        <description>Systembolaget Ombud, Glas o. Bygg, Rottne</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.89122,57.02152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Spar</name>
+        <description>Systembolaget Ombud, Spar, Landsbro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.90162,57.36996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Coop Konsum</name>
+        <description>Systembolaget Ombud, Coop Konsum, Överturingen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.91416,62.45085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Coop Konsum</name>
+        <description>Systembolaget Ombud, Coop Konsum, Ingelstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.92026,56.74564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Statoil Rv 45</name>
+        <description>Systembolaget Ombud, Statoil Rv 45, Ytterhogdal</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.9371,62.17407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA SJöbergs</name>
+        <description>Systembolaget Ombud, ICA SJöbergs, Mockfjärd</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.9646,60.49999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Torget</name>
+        <description>Systembolaget Ombud, ICA Torget, Grangärde</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.97826,60.26246,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Grängesbergs Färg</name>
+        <description>Systembolaget Ombud, Grängesbergs Färg, Grängesberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.00583,60.07517,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Svaningen Handel</name>
+        <description>Systembolaget Ombud, Svaningen Handel, Svaningen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.01665,64.28328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Pilishandlar'n</name>
+        <description>Systembolaget Ombud, Pilishandlar'n, Pilgrimstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.04243,62.95585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Thours Blommor</name>
+        <description>Systembolaget Ombud, Thours Blommor, Braås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.04973,57.06256,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Borgafjällens Lanthandel</name>
+        <description>Systembolaget Ombud, Borgafjällens Lanthandel, Borgafjäll</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.05368,64.75165,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Coop Konsum</name>
+        <description>Systembolaget Ombud, Coop Konsum, Skänninge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.08565,58.39559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, V Berglunds Järnhandel</name>
+        <description>Systembolaget Ombud, V Berglunds Järnhandel, Hemavan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.08727,65.81631,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Dädesjö Lanthandel</name>
+        <description>Systembolaget Ombud, Dädesjö Lanthandel, Dädesjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.10618,57.0099,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Lanthallen</name>
+        <description>Systembolaget Ombud, Lanthallen, Bräkne-hoby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.11779,56.22842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Blåsjön ICA Blåsjöfjäll</name>
+        <description>Systembolaget Ombud, Blåsjön ICA Blåsjöfjäll, Stora</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.1305,59.71331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Oreboden</name>
+        <description>Systembolaget Ombud, Oreboden, Furudal</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.13848,61.16866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Bodsjö Diverse</name>
+        <description>Systembolaget Ombud, Bodsjö Diverse, Sidsjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.15001,62.73333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Handlar'n</name>
+        <description>Systembolaget Ombud, Handlar'n, Godegård</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.1604,58.74764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Berglunds Närbutik</name>
+        <description>Systembolaget Ombud, Berglunds Närbutik, Los</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.16469,61.73823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Kölsillre Handel</name>
+        <description>Systembolaget Ombud, Kölsillre Handel, Kölsillre</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.21108,62.39749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA</name>
+        <description>Systembolaget Ombud, ICA, Fornåsa</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.22603,58.47847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Lidsjöbergs Handel</name>
+        <description>Systembolaget Ombud, Lidsjöbergs Handel, Lidsjöberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.23034,64.3082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Gällö Livs</name>
+        <description>Systembolaget Ombud, Gällö Livs, Gällö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.23162,62.91261,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Matöppet</name>
+        <description>Systembolaget Ombud, Matöppet, Rävemåla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.26332,56.55695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Malexander Café</name>
+        <description>Systembolaget Ombud, Malexander Café, Malexander</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.27905,58.03333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Östensons</name>
+        <description>Systembolaget Ombud, Östensons, Borensberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.28094,58.56276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Önnebo Lanthandel</name>
+        <description>Systembolaget Ombud, Önnebo Lanthandel, Önnebo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.28326,58.23333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Lenhovda Färghandel</name>
+        <description>Systembolaget Ombud, Lenhovda Färghandel, Lenhovda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.28574,56.99669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Affärn at a Margita</name>
+        <description>Systembolaget Ombud, Affärn at a Margita, Rissna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.33703,63.05895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Lundbergs Livs</name>
+        <description>Systembolaget Ombud, Lundbergs Livs, Hjältevad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.34116,57.62862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Lillkiosken</name>
+        <description>Systembolaget Ombud, Lillkiosken, Hammerdal</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.35172,63.58298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Tjällmo Handel</name>
+        <description>Systembolaget Ombud, Tjällmo Handel, Tjällmo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.35603,58.71491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Matöppet</name>
+        <description>Systembolaget Ombud, Matöppet, Eringsboda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.36762,56.43743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Skiröboden</name>
+        <description>Systembolaget Ombud, Skiröboden, Skirö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.36909,57.37317,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Listerby Livs</name>
+        <description>Systembolaget Ombud, Listerby Livs, Listerby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.40319,56.19999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Dalfors Lanthandel</name>
+        <description>Systembolaget Ombud, Dalfors Lanthandel, Dalfors</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.40843,61.21461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Handlar'n</name>
+        <description>Systembolaget Ombud, Handlar'n, Ulrika</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.43275,58.12682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Spar</name>
+        <description>Systembolaget Ombud, Spar, Bjursås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.44305,60.73913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Tvings Kioskhandel</name>
+        <description>Systembolaget Ombud, Tvings Kioskhandel, Tving</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.46436,56.3077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Östavalls Livs</name>
+        <description>Systembolaget Ombud, Östavalls Livs, Östavall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.4781,62.42652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Handlarn</name>
+        <description>Systembolaget Ombud, Handlarn, Ljusfallshammar</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.49606,58.78748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Spar</name>
+        <description>Systembolaget Ombud, Spar, Ljungsbro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.50174,58.5083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Butik och Bensin</name>
+        <description>Systembolaget Ombud, Butik och Bensin, Kvillsfors</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.50406,57.4038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Sista Utposten</name>
+        <description>Systembolaget Ombud, Sista Utposten, Kittelfjäll</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.51522,65.25225,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Flåsjöbua</name>
+        <description>Systembolaget Ombud, Flåsjöbua, Gubbhögen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.55001,64.21661,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Aspö Livsmedel</name>
+        <description>Systembolaget Ombud, Aspö Livsmedel, Drottningskär</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.55749,56.11361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Bärkehallen</name>
+        <description>Systembolaget Ombud, ICA Bärkehallen, Söderbärke</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.55793,60.07007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Gertie Claessons Åkeri</name>
+        <description>Systembolaget Ombud, Gertie Claessons Åkeri, Nävragöl</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.56711,56.37497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, HandLarn</name>
+        <description>Systembolaget Ombud, HandLarn, Målerås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.56874,56.91491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Engdahls Färghandel</name>
+        <description>Systembolaget Ombud, Engdahls Färghandel, Mariannelund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.57183,57.61671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Butik Kyrkbacken</name>
+        <description>Systembolaget Ombud, Butik Kyrkbacken, Virserum</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.5819,57.31921,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Postens Lantbrevbäring</name>
+        <description>Systembolaget Ombud, Postens Lantbrevbäring, Karlskrona</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.58386,56.16146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Bokhandeln</name>
+        <description>Systembolaget Ombud, Bokhandeln, Fellingsbro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.59383,59.43513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Blixten</name>
+        <description>Systembolaget Ombud, ICA Blixten, Stugun</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.60251,63.16756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Blomsterbutiken</name>
+        <description>Systembolaget Ombud, Blomsterbutiken, Järnforsen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.61608,57.41251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Alsterhallen</name>
+        <description>Systembolaget Ombud, ICA Alsterhallen, Alstermo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.6563,56.97517,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Bingsjö Lanthandel</name>
+        <description>Systembolaget Ombud, Bingsjö Lanthandel, Bingsjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.65922,61.02732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Sturköhallen</name>
+        <description>Systembolaget Ombud, Sturköhallen, Sturkö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.67932,56.11271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Handlarn</name>
+        <description>Systembolaget Ombud, Handlarn, Brokind</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.68267,58.21961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Melkers</name>
+        <description>Systembolaget Ombud, ICA Melkers, Rimforsa</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.6855,58.13663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Igelfors Livs AB</name>
+        <description>Systembolaget Ombud, Igelfors Livs AB, Igelfors</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.69728,58.84764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Ica Wohlfarts</name>
+        <description>Systembolaget Ombud, Ica Wohlfarts, Gullringen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.71892,57.8005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Konsum</name>
+        <description>Systembolaget Ombud, Konsum, Orrefors</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.74823,56.83853,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Tänger Handel HB</name>
+        <description>Systembolaget Ombud, Tänger Handel HB, Övertänger</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.75098,60.86416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Cedervall Bensin & Service</name>
+        <description>Systembolaget Ombud, Cedervall Bensin & Service, Enviken</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.75853,60.808,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Torhallen</name>
+        <description>Systembolaget Ombud, Torhallen, Torhamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.83362,56.09479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Svensk Kassaservice</name>
+        <description>Systembolaget Ombud, Svensk Kassaservice, Jämjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.83757,56.19219,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Edlunds Foto & Data</name>
+        <description>Systembolaget Ombud, Edlunds Foto & Data, Färila</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.84032,61.79899,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Postens Lantbrevbäring</name>
+        <description>Systembolaget Ombud, Postens Lantbrevbäring, Hultsfred</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.841,57.48838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Kolsva Handel</name>
+        <description>Systembolaget Ombud, Kolsva Handel, Kolsva</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.84281,59.59989,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Mörlunda Färg & Papper</name>
+        <description>Systembolaget Ombud, Mörlunda Färg & Papper, Mörlunda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.86283,57.32052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Hävla Handel</name>
+        <description>Systembolaget Ombud, Hävla Handel, Hävla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.86662,58.91511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Stalon Bensin & Diverse</name>
+        <description>Systembolaget Ombud, Stalon Bensin & Diverse, Stalon</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.90003,64.94994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Svärdsjö Färg AB</name>
+        <description>Systembolaget Ombud, Svärdsjö Färg AB, Svärdsjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.90552,60.74144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Coop Konsum Eskilsvägen 4</name>
+        <description>Systembolaget Ombud, Coop Konsum Eskilsvägen 4, Skärblacka</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.91361,58.58168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Konsum</name>
+        <description>Systembolaget Ombud, Konsum, Alsterbro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.91405,56.93403,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Macken</name>
+        <description>Systembolaget Ombud, Macken, Hycklinge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.91816,57.92242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Nära</name>
+        <description>Systembolaget Ombud, ICA Nära, Påryd</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.92547,56.56916,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Rejmyre Kiosk</name>
+        <description>Systembolaget Ombud, Rejmyre Kiosk, Rejmyre</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.93028,58.82972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Konsum</name>
+        <description>Systembolaget Ombud, Konsum, Fågelmara</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.94874,56.25975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Oves Livs</name>
+        <description>Systembolaget Ombud, Oves Livs, Överammer</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.95338,63.21401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Dikanäs Fjällhandel</name>
+        <description>Systembolaget Ombud, Dikanäs Fjällhandel, Dikanäs</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.98783,65.23493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, NAGGEN</name>
+        <description>Systembolaget Ombud, NAGGEN, Naggen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.9886,62.27787,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Österåker Lanthandelscenter</name>
+        <description>Systembolaget Ombud, Österåker Lanthandelscenter, Österåker</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.9887,59.12522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Husby Lanthandel</name>
+        <description>Systembolaget Ombud, Husby Lanthandel, Dala-husby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.99385,60.38558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Mathyttan</name>
+        <description>Systembolaget Ombud, ICA Mathyttan, Långshyttan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.03346,60.45265,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Ljungaverkskiosken</name>
+        <description>Systembolaget Ombud, Ljungaverkskiosken, Ljungaverk</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.05107,62.49059,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Kälarne Livs</name>
+        <description>Systembolaget Ombud, Kälarne Livs, Kälarne</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.0917,62.97317,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Trekanten</name>
+        <description>Systembolaget Ombud, ICA Trekanten, Trekanten</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.12067,56.69939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Allans Livs</name>
+        <description>Systembolaget Ombud, Allans Livs, Vassmolösa</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.1656,56.59459,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Järnhuset</name>
+        <description>Systembolaget Ombud, Järnhuset, Järvsö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.16945,61.71531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Konsum Fränsta</name>
+        <description>Systembolaget Ombud, Konsum Fränsta, Fränsta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.17659,62.49789,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Totebo Lanthandel</name>
+        <description>Systembolaget Ombud, Totebo Lanthandel, Totebo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.18476,57.63103,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Coop Konsum</name>
+        <description>Systembolaget Ombud, Coop Konsum, Kristdala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.19695,57.39979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, HC's Sport o Fiske</name>
+        <description>Systembolaget Ombud, HC's Sport o Fiske, Hoting</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.20073,64.1087,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Stjärnsundskiosken</name>
+        <description>Systembolaget Ombud, Stjärnsundskiosken, Stjärnsund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.20882,60.43363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Vindelfjällen</name>
+        <description>Systembolaget Ombud, ICA Vindelfjällen, Ammarnäs</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.20957,65.95775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Lungsjöns Livs</name>
+        <description>Systembolaget Ombud, Lungsjöns Livs, Lungsjön</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.24996,63.46676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Hjorteds Handelsträdgård</name>
+        <description>Systembolaget Ombud, Hjorteds Handelsträdgård, Hjorted</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.30692,57.62102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Sjöbergs Ljud & Bild</name>
+        <description>Systembolaget Ombud, Sjöbergs Ljud & Bild, Överum</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.30864,57.99069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Konsum</name>
+        <description>Systembolaget Ombud, Konsum, Torpshammar</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.33003,62.47287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Centrumköp</name>
+        <description>Systembolaget Ombud, Centrumköp, Rossön</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.34232,63.92282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Köplusten</name>
+        <description>Systembolaget Ombud, Köplusten, Salbohed</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.34757,59.91231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Maries livs</name>
+        <description>Systembolaget Ombud, Maries livs, Malgovik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.36208,64.63893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Coop Konsum</name>
+        <description>Systembolaget Ombud, Coop Konsum, Krokek</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.36853,58.66896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Nära Skansen</name>
+        <description>Systembolaget Ombud, ICA Nära Skansen, Mörbylånga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.37823,56.52632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Spelboa i Arbrå</name>
+        <description>Systembolaget Ombud, Spelboa i Arbrå, Arbrå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.37865,61.47287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Nära Mörbylånga</name>
+        <description>Systembolaget Ombud, ICA Nära Mörbylånga, Mörbylånga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.38511,56.52532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Arvidssons Specerier</name>
+        <description>Systembolaget Ombud, Arvidssons Specerier, Grönhögen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.40375,56.26846,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Jourlivs</name>
+        <description>Systembolaget Ombud, Jourlivs, Horndal</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.41011,60.29799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Ringarums Livs AB</name>
+        <description>Systembolaget Ombud, Ringarums Livs AB, Ringarum</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.44567,58.33303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Coop Konsum</name>
+        <description>Systembolaget Ombud, Coop Konsum, Hälleforsnäs</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.49851,59.14994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Coop Konsum</name>
+        <description>Systembolaget Ombud, Coop Konsum, Blankaholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.5254,57.59029,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA</name>
+        <description>Systembolaget Ombud, ICA, Friggesund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.54447,61.89749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Edselehallen</name>
+        <description>Systembolaget Ombud, Edselehallen, Edsele</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.54533,63.4049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Coop Konsum</name>
+        <description>Systembolaget Ombud, Coop Konsum, Figeholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.54972,57.37117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Delsbo Livs</name>
+        <description>Systembolaget Ombud, Delsbo Livs, Delsbo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.55393,61.8,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Kilafors Färghandel</name>
+        <description>Systembolaget Ombud, Kilafors Färghandel, Kilafors</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.56802,61.23043,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Isak</name>
+        <description>Systembolaget Ombud, ICA Isak, Stöde</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.58254,62.41791,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Evas Livs</name>
+        <description>Systembolaget Ombud, Evas Livs, Svanabyn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.63977,64.1034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Bottna Lanthandel</name>
+        <description>Systembolaget Ombud, Bottna Lanthandel, Bottna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.67241,58.39199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Coop Konsum</name>
+        <description>Systembolaget Ombud, Coop Konsum, Ärla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.67782,59.28188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, DinX Bensin</name>
+        <description>Systembolaget Ombud, DinX Bensin, Loftahammar</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.69577,57.9059,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Tempo</name>
+        <description>Systembolaget Ombud, Tempo, Vrena</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.69998,58.86126,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Uno-X</name>
+        <description>Systembolaget Ombud, Uno-X, Hassela</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.7078,62.11011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, QSTAR</name>
+        <description>Systembolaget Ombud, QSTAR, Jönåker</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.72455,58.74524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Färnebo Livs</name>
+        <description>Systembolaget Ombud, Färnebo Livs, Österfärnebo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.79913,60.31471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Coop Konsum</name>
+        <description>Systembolaget Ombud, Coop Konsum, Nävekvarn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.80007,58.63193,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Tempo</name>
+        <description>Systembolaget Ombud, Tempo, Sparreholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.81606,59.07427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Trönö Lanthandel</name>
+        <description>Systembolaget Ombud, Trönö Lanthandel, Trönö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.83728,61.39529,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Service Center</name>
+        <description>Systembolaget Ombud, ICA Service Center, Stråtjära</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.84295,61.16616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Konsum</name>
+        <description>Systembolaget Ombud, Konsum, Junsele</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.87955,63.69579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Coop Konsum</name>
+        <description>Systembolaget Ombud, Coop Konsum, Näsåker</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.8974,63.44264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Fjärdhundra Allköp</name>
+        <description>Systembolaget Ombud, Fjärdhundra Allköp, Fjärdhundra</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.92551,59.77657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Uno-X</name>
+        <description>Systembolaget Ombud, Uno-X, Tärnsjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.92843,60.15415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Arkö Livs VIKBOLANDET</name>
+        <description>Systembolaget Ombud, Arkö Livs VIKBOLANDET, Arkösund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.93273,58.48978,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Jäckviks Livs</name>
+        <description>Systembolaget Ombud, Jäckviks Livs, Jäckvik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.97086,66.38698,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Lunda Handel</name>
+        <description>Systembolaget Ombud, Lunda Handel, Huddungeby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.98333,60.05005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Löttorpshallen</name>
+        <description>Systembolaget Ombud, Löttorpshallen, Löttorp</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.99226,57.16616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Köpcentrum</name>
+        <description>Systembolaget Ombud, Köpcentrum, Valbo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.00033,60.64044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Coop Konsum Iggesund</name>
+        <description>Systembolaget Ombud, Coop Konsum Iggesund, Enånger</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.00464,61.54744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Stina i backen</name>
+        <description>Systembolaget Ombud, Stina i backen, Hedesunda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.00781,60.39319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Strandhallen</name>
+        <description>Systembolaget Ombud, ICA Strandhallen, Stjärnhov</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.0085,59.08098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Matfors Spelbutik</name>
+        <description>Systembolaget Ombud, Matfors Spelbutik, Matfors</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.02087,62.34714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Lucksta Livs</name>
+        <description>Systembolaget Ombud, Lucksta Livs, Lucksta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.04932,62.29909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Köpmangatan 9</name>
+        <description>Systembolaget Ombud, Köpmangatan 9, Söderhamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.05232,61.3018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Handlar'n</name>
+        <description>Systembolaget Ombud, Handlar'n, Resele</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.06692,63.33493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Indals Livs</name>
+        <description>Systembolaget Ombud, Indals Livs, Indal</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.09733,62.57707,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Coop Konsum</name>
+        <description>Systembolaget Ombud, Coop Konsum, Axmarby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.13067,61.004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Coop Konsum</name>
+        <description>Systembolaget Ombud, Coop Konsum, Norrsundet</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.14149,60.93053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA i Järlåsa</name>
+        <description>Systembolaget Ombud, ICA i Järlåsa, Järlåsa</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.19726,59.88548,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA-Hallen</name>
+        <description>Systembolaget Ombud, ICA-Hallen, Harmånger</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.21821,61.92782,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Coop Konsum</name>
+        <description>Systembolaget Ombud, Coop Konsum, Tystberga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.23455,58.84724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Stjärnan</name>
+        <description>Systembolaget Ombud, ICA Stjärnan, Gnarp</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.23926,62.05395,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Örsundsbro</name>
+        <description>Systembolaget Ombud, ICA Örsundsbro, Örsundsbro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.30937,59.73533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Ljustorps Handel</name>
+        <description>Systembolaget Ombud, Ljustorps Handel, Ljustorp</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.33464,62.62222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Kajutan AB</name>
+        <description>Systembolaget Ombud, Kajutan AB, Stocka</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.33516,61.89799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Tjädern</name>
+        <description>Systembolaget Ombud, ICA Tjädern, Oxsätra</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.36135,60.0013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Söråkershallen</name>
+        <description>Systembolaget Ombud, Söråkershallen, Söråker</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.50775,62.5058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Reutmans Lanthandel</name>
+        <description>Systembolaget Ombud, Reutmans Lanthandel, Blattnicksele</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.59056,65.33713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Skyttens Livs</name>
+        <description>Systembolaget Ombud, Skyttens Livs, Skyttorp</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.72949,60.07907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Konsum</name>
+        <description>Systembolaget Ombud, Konsum, Vattholma</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.73353,60.01621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Handlar'n i Undrom</name>
+        <description>Systembolaget Ombud, Handlar'n i Undrom, Undrom</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.74229,63.11811,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Deremars Livs</name>
+        <description>Systembolaget Ombud, Deremars Livs, Skärplinge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.75992,60.47267,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Kniven</name>
+        <description>Systembolaget Ombud, ICA Kniven, Knivsta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.78827,59.72482,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Coop Konsum</name>
+        <description>Systembolaget Ombud, Coop Konsum, Skorped</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.85613,63.38458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Brukskanonen</name>
+        <description>Systembolaget Ombud, ICA Brukskanonen, Österbybruk</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.89531,60.19629,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, LUNGVIK</name>
+        <description>Systembolaget Ombud, LUNGVIK, Lungvik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.91662,62.91671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Jonssons Livs</name>
+        <description>Systembolaget Ombud, Jonssons Livs, Gargnäs</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.96343,65.31271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Coop Konsum</name>
+        <description>Systembolaget Ombud, Coop Konsum, Almunge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.04515,59.87547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Nära Strömmen</name>
+        <description>Systembolaget Ombud, ICA Nära Strömmen, Noraström</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.08208,62.87207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Sanfo Sport</name>
+        <description>Systembolaget Ombud, Sanfo Sport, Alunda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.08528,60.06506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Slagnäs Lanthandel</name>
+        <description>Systembolaget Ombud, Slagnäs Lanthandel, Slagnäs</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.16697,65.58608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Supermarket</name>
+        <description>Systembolaget Ombud, ICA Supermarket, Gimo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.1852,60.17227,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Pressbyrån</name>
+        <description>Systembolaget Ombud, Pressbyrån, Klintehamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.2034,57.38578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Knuten</name>
+        <description>Systembolaget Ombud, ICA Knuten, Knutby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.26569,59.9094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Hoburgshallen</name>
+        <description>Systembolaget Ombud, Hoburgshallen, Burgsvik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.27437,57.03073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Bonus Livs</name>
+        <description>Systembolaget Ombud, Bonus Livs, Sidensjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.28252,63.29959,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Utö Livs</name>
+        <description>Systembolaget Ombud, Utö Livs, Utö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.29155,58.95595,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA</name>
+        <description>Systembolaget Ombud, ICA, Nordingrå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.29344,62.93023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Postens Lantbrevbäring</name>
+        <description>Systembolaget Ombud, Postens Lantbrevbäring, Visby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.30006,57.63843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Docksta Järn</name>
+        <description>Systembolaget Ombud, Docksta Järn, Docksta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.32634,63.05455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Karlavagnen</name>
+        <description>Systembolaget Ombud, Karlavagnen, Östhammar</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.36983,60.25875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Fredrika</name>
+        <description>Systembolaget Ombud, ICA Fredrika, Fredrika</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.39885,64.07467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Tempo</name>
+        <description>Systembolaget Ombud, Tempo, Mjällom</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.42782,62.98578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Skeppet</name>
+        <description>Systembolaget Ombud, ICA Skeppet, Hargshamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.46115,60.17067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Pär Johanssons Livs</name>
+        <description>Systembolaget Ombud, Pär Johanssons Livs, Edsbro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.49432,59.89649,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Hemlings Lanthandel</name>
+        <description>Systembolaget Ombud, Hemlings Lanthandel, Hemling</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.54036,63.65675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Köpmanholmens Servicebutik</name>
+        <description>Systembolaget Ombud, Köpmanholmens Servicebutik, Köpmanholmen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.5596,63.16926,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Bäcklunds Järn o Färg</name>
+        <description>Systembolaget Ombud, Bäcklunds Järn o Färg, Björna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.59878,63.55085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Gideå Handel</name>
+        <description>Systembolaget Ombud, Gideå Handel, Gideå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.61666,63.55005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Guns Livs</name>
+        <description>Systembolaget Ombud, ICA Guns Livs, Nämdö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.68925,59.18208,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Handlarn</name>
+        <description>Systembolaget Ombud, Handlarn, Långviksmon</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.69424,63.62962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, LJUGARN</name>
+        <description>Systembolaget Ombud, LJUGARN, Ljugarn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.70197,57.33363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Singö</name>
+        <description>Systembolaget Ombud, ICA Singö, Singö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.73333,60.16666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Grisslehamns Livs</name>
+        <description>Systembolaget Ombud, Grisslehamns Livs, Grisslehamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.80703,60.1007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, BACKA ICA Barometern</name>
+        <description>Systembolaget Ombud, BACKA ICA Barometern, Väddö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.80791,59.97057,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Lapporten</name>
+        <description>Systembolaget Ombud, ICA Lapporten, Abisko</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.8322,68.35075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Konsum</name>
+        <description>Systembolaget Ombud, Konsum, Trehörningsjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.86443,63.69259,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Coop Konsum</name>
+        <description>Systembolaget Ombud, Coop Konsum, Möja</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.87465,59.4053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA</name>
+        <description>Systembolaget Ombud, ICA, Rusksele</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.90121,64.81381,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Vätö Matboa</name>
+        <description>Systembolaget Ombud, Vätö Matboa, Vätö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.91813,59.8035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Örträsk Livs</name>
+        <description>Systembolaget Ombud, Örträsk Livs, Örträsk</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.98051,64.14014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Flärke Lanthandel</name>
+        <description>Systembolaget Ombud, Flärke Lanthandel, Flärke</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.0245,63.57697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Gräddö Skärgårdshandel</name>
+        <description>Systembolaget Ombud, Gräddö Skärgårdshandel, Gräddö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.03514,59.76366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Bungehallen</name>
+        <description>Systembolaget Ombud, ICA Bungehallen, Fårösund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.05532,57.86306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Blochman Lantz Livs</name>
+        <description>Systembolaget Ombud, Blochman Lantz Livs, Fårö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.13326,57.91661,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Bäcklunds Järn</name>
+        <description>Systembolaget Ombud, Bäcklunds Järn, Husum</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.16324,63.34054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Åmsele Kiosk o. Bensin</name>
+        <description>Systembolaget Ombud, Åmsele Kiosk o. Bensin, Åmsele</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.34709,64.53023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Gränsmyr Bensin & Livs</name>
+        <description>Systembolaget Ombud, Gränsmyr Bensin & Livs, Gräsmyr</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.62177,63.76866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Stenbergs Kiosk</name>
+        <description>Systembolaget Ombud, Stenbergs Kiosk, Glommersträsk</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.62787,65.26136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Lapponia Livs</name>
+        <description>Systembolaget Ombud, Lapponia Livs, Porjus</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.81689,66.95905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Coop Konsumhallen</name>
+        <description>Systembolaget Ombud, Coop Konsumhallen, Hörnefors</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.90846,63.62552,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, L Perssons Diversehandel</name>
+        <description>Systembolaget Ombud, L Perssons Diversehandel, Kåbdalis</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.98664,66.14884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Tornet</name>
+        <description>Systembolaget Ombud, ICA Tornet, Sörmjöle</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.99961,63.68118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Jörns Busstation</name>
+        <description>Systembolaget Ombud, Jörns Busstation, Jörn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.03777,65.05965,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Matboa</name>
+        <description>Systembolaget Ombud, Matboa, Tavelsjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.05753,64.03803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA</name>
+        <description>Systembolaget Ombud, ICA, Botsmark</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.24311,64.25435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Extra</name>
+        <description>Systembolaget Ombud, ICA Extra, Boliden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.38958,64.86746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Edmans Handel</name>
+        <description>Systembolaget Ombud, Edmans Handel, Bullmark</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.48236,64.03193,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA</name>
+        <description>Systembolaget Ombud, ICA, Bygdsiljum</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.50351,64.35085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Tobias Livs</name>
+        <description>Systembolaget Ombud, Tobias Livs, Vidsel</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.53228,65.83363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Sävarkiosken</name>
+        <description>Systembolaget Ombud, Sävarkiosken, Sävar</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.55033,63.9031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, UnoX Bensin</name>
+        <description>Systembolaget Ombud, UnoX Bensin, Vuollerim</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.60394,66.43083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Burträsks Busstation</name>
+        <description>Systembolaget Ombud, Burträsks Busstation, Burträsk</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.65816,64.51821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Polar</name>
+        <description>Systembolaget Ombud, ICA Polar, Gällivare</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.65833,67.13303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Coop Konsum</name>
+        <description>Systembolaget Ombud, Coop Konsum, Kusmark</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.80712,64.87657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Järnaffär'n</name>
+        <description>Systembolaget Ombud, Järnaffär'n, Bygdeå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.84974,64.06546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Harads Café</name>
+        <description>Systembolaget Ombud, Harads Café, Harads</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.95137,66.08618,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Dyrlind Snabbköp</name>
+        <description>Systembolaget Ombud, Dyrlind Snabbköp, Skaulo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.11393,67.41481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Olofssons</name>
+        <description>Systembolaget Ombud, ICA Olofssons, Lillpite</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.15285,65.37387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Mitt I Konfektyr och Video</name>
+        <description>Systembolaget Ombud, Mitt I Konfektyr och Video, Bureå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.19977,64.61801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Holmgrens Livs</name>
+        <description>Systembolaget Ombud, Holmgrens Livs, Skelleftehamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.22089,64.68908,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Lövångers Blommor</name>
+        <description>Systembolaget Ombud, Lövångers Blommor, Lövånger</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.31419,64.36946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Coop Konsum</name>
+        <description>Systembolaget Ombud, Coop Konsum, Nilivaara</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.61232,67.22442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Coop Konsum</name>
+        <description>Systembolaget Ombud, Coop Konsum, Vittangi</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.64497,67.67757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Risviks svejde AB</name>
+        <description>Systembolaget Ombud, Risviks svejde AB, Rosvik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.68904,65.43013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Gunnarsby Livs</name>
+        <description>Systembolaget Ombud, Gunnarsby Livs, Gunnarsbyn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.80467,66.08358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Mäkis Snabbköp</name>
+        <description>Systembolaget Ombud, Mäkis Snabbköp, Ullatti</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.81362,67.01571,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Coop Konsum</name>
+        <description>Systembolaget Ombud, Coop Konsum, Lannavaara</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.97264,68.04884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Niemisel Livs Nära Dig</name>
+        <description>Systembolaget Ombud, Niemisel Livs Nära Dig, Niemisel</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.9907,66.01911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Asurboden</name>
+        <description>Systembolaget Ombud, Asurboden, Masugnsbyn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.03529,67.46106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Handelsboden</name>
+        <description>Systembolaget Ombud, ICA Handelsboden, Råneå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.28942,65.85725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Statoil</name>
+        <description>Systembolaget Ombud, Statoil, Karesuando</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.45935,68.43893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Nära Alskog</name>
+        <description>Systembolaget Ombud, ICA Nära Alskog, Junosuando</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.50772,67.42962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Silverlinds Bil</name>
+        <description>Systembolaget Ombud, Silverlinds Bil, Tärendö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.61418,67.16886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Nyckeln</name>
+        <description>Systembolaget Ombud, ICA Nyckeln, Töre</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.64612,65.91251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Coop Konsum</name>
+        <description>Systembolaget Ombud, Coop Konsum, Morjärv</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.70111,66.06906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Postens Lantbrevbäring</name>
+        <description>Systembolaget Ombud, Postens Lantbrevbäring, Pilgrimstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.36919,67.21071,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Kajutan Livs</name>
+        <description>Systembolaget Ombud, Kajutan Livs, Båtskärsnäs</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.41489,65.78548,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Coop Konsum</name>
+        <description>Systembolaget Ombud, Coop Konsum, Sangis</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.50983,65.85875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, Seskarö Livs</name>
+        <description>Systembolaget Ombud, Seskarö Livs, Seskarö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.73803,65.73883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Ombud, ICA Rautila</name>
+        <description>Systembolaget Ombud, ICA Rautila, Juoksengi</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.8504,66.56846,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

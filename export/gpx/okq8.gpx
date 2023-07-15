@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://github.com/cisene/se-poi -->
+<gpx creator="se-poi" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+  <metadata>
+    <name><![CDATA[OKQ8]]></name>
+    <desc><![CDATA[Koordinater - OKQ8]]></desc>
+    <link href="https://www.okq8.se/">
+      <text><![CDATA[OKQ8]]></text>
+       <type>text/html</type>
+    </link>
+   <time>2023-07-15T16:21:21+02:00</time>
+  </metadata>
+  <bounds minlat="54.826198" minlon="8.936021" maxlat="67.85716" maxlon="24.12331" />
+  <wpt lat="56.127742" lon="8.936021"><name><![CDATA[Ids Herning 3432, Herning]]></name></wpt>
+  <wpt lat="56.558499" lon="9.050816"><name><![CDATA[Ids Skive 2275, Skive]]></name></wpt>
+  <wpt lat="55.473832" lon="9.158809"><name><![CDATA[Ids Vejen 3426, Vejen]]></name></wpt>
+  <wpt lat="54.826198" lon="9.329696"><name><![CDATA[Ids Frøslev Øst 3490, Padborg]]></name></wpt>
+  <wpt lat="54.832264" lon="9.333108"><name><![CDATA[Ids Frøslev Vest 3480, Padborg]]></name></wpt>
+  <wpt lat="54.829618" lon="9.350042"><name><![CDATA[Ids Padborg 3422, Padborg]]></name></wpt>
+  <wpt lat="56.448876" lon="9.379236"><name><![CDATA[Ids Viborg 2191, Viborg]]></name></wpt>
+  <wpt lat="55.508663" lon="9.439136"><name><![CDATA[Ids Kolding 6060, Kolding]]></name></wpt>
+  <wpt lat="55.533425" lon="9.485796"><name><![CDATA[Ids Bramdrupdam 3465, Kolding]]></name></wpt>
+  <wpt lat="55.845088" lon="9.487529"><name><![CDATA[Ids Tørring 3419, Tørring]]></name></wpt>
+  <wpt lat="55.541535" lon="9.628326"><name><![CDATA[Ids Taulov 3435, Fredericia]]></name></wpt>
+  <wpt lat="55.542932" lon="9.704567"><name><![CDATA[Local Outlet - Ids Postnord Fredericia, Fredericia]]></name></wpt>
+  <wpt lat="56.840888" lon="9.741158"><name><![CDATA[Ids Himmerland 2270, Suldrup]]></name></wpt>
+  <wpt lat="55.88632" lon="9.78646"><name><![CDATA[Ids Horsens Vest 2400, Horsens]]></name></wpt>
+  <wpt lat="57.00845" lon="9.88533"><name><![CDATA[Ids Aalborg Sv 2446, Ålborg Sv]]></name></wpt>
+  <wpt lat="57.038858" lon="9.916588"><name><![CDATA[Local Outlet - Ids Postnord Ålborg, Ålborg]]></name></wpt>
+  <wpt lat="57.587591" lon="9.977672"><name><![CDATA[Ids Hirtshals 2195, Hirtshals]]></name></wpt>
+  <wpt lat="57.575767" lon="9.988593"><name><![CDATA[Ids Transportcenter Hirtshals 6079, Hirtshals]]></name></wpt>
+  <wpt lat="57.043109" lon="10.056576"><name><![CDATA[Ids Aalborg 2241, Aalborg Øst]]></name></wpt>
+  <wpt lat="56.417555" lon="10.068333"><name><![CDATA[Ids Randers 2280, Randers]]></name></wpt>
+  <wpt lat="56.161821" lon="10.074246"><name><![CDATA[Ids Åf Transportcenter 3434, Brabrand]]></name></wpt>
+  <wpt lat="56.165672" lon="10.101074"><name><![CDATA[Local Outlet - Ids Ole Larsen Transport A/S, Brabrand]]></name></wpt>
+  <wpt lat="55.39455" lon="10.190585"><name><![CDATA[Ids Esbjerg 3234, Esbjerg]]></name></wpt>
+  <wpt lat="55.39455" lon="10.190585"><name><![CDATA[Ids Kildebjerg 3124, Vissenbjerg]]></name></wpt>
+  <wpt lat="56.20806" lon="10.227943"><name><![CDATA[Local Outlet - Ids Postnord Risskov, Risskov]]></name></wpt>
+  <wpt lat="57.313144" lon="10.450145"><name><![CDATA[Ids Sæby 2232, Sæby]]></name></wpt>
+  <wpt lat="55.36933" lon="10.49997"><name><![CDATA[Ids Odense 6077, Odense]]></name></wpt>
+  <wpt lat="55.34767" lon="11.11878"><name><![CDATA[Ids Korsør 1524, Korsør]]></name></wpt>
+  <wpt lat="58.93033" lon="11.18672"><name><![CDATA[Strömstad Solviksgatan, Strömstad]]></name></wpt>
+  <wpt lat="58.94799" lon="11.19596"><name><![CDATA[Strömstad Tångenv (Tanka), Strömstad]]></name></wpt>
+  <wpt lat="59.06353" lon="11.21265"><name><![CDATA[Strömstad, Strömstad]]></name></wpt>
+  <wpt lat="58.45197" lon="11.31594"><name><![CDATA[Hunnebostrand (Tanka), Hunnebostrand]]></name></wpt>
+  <wpt lat="55.396905" lon="11.322494"><name><![CDATA[Local Outlet - Ids Slagelse, Slagelse]]></name></wpt>
+  <wpt lat="58.72137" lon="11.32896"><name><![CDATA[Tanumshede Industriv (Tanka), Tanumshede]]></name></wpt>
+  <wpt lat="58.28629" lon="11.46175"><name><![CDATA[Lysekil Förrådsvägen (Tanka), Lysekil]]></name></wpt>
+  <wpt lat="57.98629" lon="11.55671"><name><![CDATA[Skärhamn Enebacken, Skärhamn]]></name></wpt>
+  <wpt lat="58.52712" lon="11.57518"><name><![CDATA[Dingle Kustvägen (Tanka), Dingle]]></name></wpt>
+  <wpt lat="58.48807" lon="11.62969"><name><![CDATA[Ids Håbygård, Munkedal]]></name></wpt>
+  <wpt lat="58.48795" lon="11.62988"><name><![CDATA[Munkedal Håbygård, Munkedal]]></name></wpt>
+  <wpt lat="57.70685" lon="11.81738"><name><![CDATA[Ids Göteborg Hamn, Göteborg]]></name></wpt>
+  <wpt lat="58.07494" lon="11.83958"><name><![CDATA[Stenungssund Industrivägen, Stenungsund]]></name></wpt>
+  <wpt lat="58.07435" lon="11.83997"><name><![CDATA[Stenungsund Doterödsv (Tanka), Stenungsund]]></name></wpt>
+  <wpt lat="57.71315" lon="11.84213"><name><![CDATA[Göteborg Torslanda (Tanka), Göteborg]]></name></wpt>
+  <wpt lat="59.50481" lon="11.8623"><name><![CDATA[Ids Töcksfors, Töcksfors]]></name></wpt>
+  <wpt lat="58.34982" lon="11.87054"><name><![CDATA[Uddevalla Kärranäsv (Tanka), Uddevalla]]></name></wpt>
+  <wpt lat="58.35312" lon="11.87132"><name><![CDATA[Uddevalla Kurverödsleden, Uddevalla]]></name></wpt>
+  <wpt lat="57.66885" lon="11.872"><name><![CDATA[Västra Frölunda Ängkärrsv, Västra Frölunda]]></name></wpt>
+  <wpt lat="57.755" lon="11.8794"><name><![CDATA[Tuve Stenebyvägen (Tanka), Göteborg]]></name></wpt>
+  <wpt lat="57.66001" lon="11.89152"><name><![CDATA[Västra Frölunda Bärnstensg, Västra Frölunda]]></name></wpt>
+  <wpt lat="57.71357" lon="11.89749"><name><![CDATA[Göteborg Sommarvädersg, Göteborg]]></name></wpt>
+  <wpt lat="54.900281" lon="11.898901"><name><![CDATA[Ids Cargo Syd 1534, Nr. Alslev]]></name></wpt>
+  <wpt lat="57.65121" lon="11.903122"><name><![CDATA[Västra Frölunda Skattegårdsv, Västra Frölunda]]></name></wpt>
+  <wpt lat="58.35355" lon="11.91685"><name><![CDATA[Uddevalla Strömstadsvägen, Uddevalla]]></name></wpt>
+  <wpt lat="57.71617" lon="11.92274"><name><![CDATA[Göteborg Gropegårdsg (Tanka), Göteborg]]></name></wpt>
+  <wpt lat="58.36574" lon="11.93017"><name><![CDATA[Uddevalla Trumpetvägen, Uddevalla]]></name></wpt>
+  <wpt lat="58.34632" lon="11.93064"><name><![CDATA[Uddevalla Göteborgsv (Tanka), Uddevalla]]></name></wpt>
+  <wpt lat="57.71221" lon="11.93136"><name><![CDATA[Göteborg Lundbyleden (Tanka), Göteborg]]></name></wpt>
+  <wpt lat="57.88061" lon="11.94737"><name><![CDATA[Kungälv Bultgatan (Tanka), Kungälv]]></name></wpt>
+  <wpt lat="57.59844" lon="11.94802"><name><![CDATA[Hovås Brottkärrsvägen, Hovås]]></name></wpt>
+  <wpt lat="58.9002" lon="11.9535"><name><![CDATA[Ed (Tanka), Ed]]></name></wpt>
+  <wpt lat="57.64949" lon="11.95514"><name><![CDATA[V Frölunda Långebergsg (Tanka), Västra Frölunda]]></name></wpt>
+  <wpt lat="57.56259" lon="11.96032"><name><![CDATA[Billdal, Billdal]]></name></wpt>
+  <wpt lat="57.72726" lon="11.97198"><name><![CDATA[Hisings Backa Brunnsbo, Hisings Backa]]></name></wpt>
+  <wpt lat="57.71749" lon="11.98131"><name><![CDATA[Göteborg Gasklockan, Göteborg]]></name></wpt>
+  <wpt lat="57.88053" lon="11.98163"><name><![CDATA[Kungälv, Kungälv]]></name></wpt>
+  <wpt lat="57.748" lon="11.9914"><name><![CDATA[Ids Hisings Backa, Hisings Backa]]></name></wpt>
+  <wpt lat="57.74767" lon="11.99247"><name><![CDATA[Hisings Backa Importg  (Tanka), Hisings Backa]]></name></wpt>
+  <wpt lat="57.77215" lon="11.99825"><name><![CDATA[Bäckebol, Hisings Backa]]></name></wpt>
+  <wpt lat="57.64161" lon="12.00804"><name><![CDATA[Mölndal Åbro Argongat (Tanka), Mölndal]]></name></wpt>
+  <wpt lat="57.67183" lon="12.00965"><name><![CDATA[Mölndal Göteborgsv, Mölndal]]></name></wpt>
+  <wpt lat="59.81722" lon="12.01082"><name><![CDATA[Skillingsfors, Skillingsfors]]></name></wpt>
+  <wpt lat="57.78911" lon="12.04269"><name><![CDATA[Angered Göteborg, Angered]]></name></wpt>
+  <wpt lat="57.8959" lon="12.04644"><name><![CDATA[Nödinge Nödingevägen, Nödinge]]></name></wpt>
+  <wpt lat="57.75531" lon="12.04793"><name><![CDATA[Göteborg Bergsjövägen, Göteborg]]></name></wpt>
+  <wpt lat="57.601834" lon="12.051756"><name><![CDATA[Kållered Ekenleden, Kållered]]></name></wpt>
+  <wpt lat="57.73178" lon="12.0637"><name><![CDATA[Sävedalen Göteborgsv (Tanka), Sävedalen]]></name></wpt>
+  <wpt lat="57.50639" lon="12.06489"><name><![CDATA[Ids Okq8 Kungsbacka, Kungsbacka]]></name></wpt>
+  <wpt lat="57.50639" lon="12.06489"><name><![CDATA[Kungsbacka Energigatan, Kungsbacka]]></name></wpt>
+  <wpt lat="55.62645" lon="12.09409"><name><![CDATA[Ids Roskilde Nord 6057, Roskilde]]></name></wpt>
+  <wpt lat="57.74104" lon="12.12466"><name><![CDATA[Partille G:A Kronvägen, Partille]]></name></wpt>
+  <wpt lat="58.14822" lon="12.13426"><name><![CDATA[Lilla Edet Skansenvägen, Lilla Edet]]></name></wpt>
+  <wpt lat="59.39485" lon="12.13708"><name><![CDATA[Årjäng Snickargatan, Årjäng]]></name></wpt>
+  <wpt lat="55.490154" lon="12.163089"><name><![CDATA[Ids Køge Transportcenter 6076, Køge]]></name></wpt>
+  <wpt lat="55.54543" lon="12.21467"><name><![CDATA[Ids Karlstrup 1528, Karlslunde]]></name></wpt>
+  <wpt lat="57.68512" lon="12.22977"><name><![CDATA[Landvetter G:A Landsvägen, Landvetter]]></name></wpt>
+  <wpt lat="58.33976" lon="12.23941"><name><![CDATA[Ids Vänersborg, Vänersborg]]></name></wpt>
+  <wpt lat="58.33936" lon="12.23957"><name><![CDATA[Trestad (Tanka), Vänersborg]]></name></wpt>
+  <wpt lat="55.63463" lon="12.253451"><name><![CDATA[Ids Høje Taastrup 6075, Taastrup]]></name></wpt>
+  <wpt lat="57.11639" lon="12.25977"><name><![CDATA[Varberg Monarkvägen, Varberg]]></name></wpt>
+  <wpt lat="57.12266" lon="12.27766"><name><![CDATA[Varberg Värnamov 14 (Tanka), Varberg]]></name></wpt>
+  <wpt lat="57.78275" lon="12.29554"><name><![CDATA[Lerum Stenkullen, Stenkullen]]></name></wpt>
+  <wpt lat="58.28938" lon="12.29892"><name><![CDATA[Trollhättan Tunhemsv 4 (Tanka), Trollhättan]]></name></wpt>
+  <wpt lat="58.2734" lon="12.31077"><name><![CDATA[Trollhättan Lantmannavägen, Trollhättan]]></name></wpt>
+  <wpt lat="57.68041" lon="12.31114"><name><![CDATA[Landvetter Flygplatsvägen 10, Landvetter]]></name></wpt>
+  <wpt lat="58.35545" lon="12.31545"><name><![CDATA[Vänersborg Johannesb (Tanka), Vänersborg]]></name></wpt>
+  <wpt lat="58.30829" lon="12.32065"><name><![CDATA[Trollhättan Flygmotorv (Tanka), Trollhättan]]></name></wpt>
+  <wpt lat="58.29487" lon="12.32104"><name><![CDATA[Trollhättan E45 / Kardanv, Trollhättan]]></name></wpt>
+  <wpt lat="58.36604" lon="12.3213"><name><![CDATA[Vänersborg Edsvägen, Vänersborg]]></name></wpt>
+  <wpt lat="57.06227" lon="12.35195"><name><![CDATA[Ids Himle, Tvååker]]></name></wpt>
+  <wpt lat="57.06263" lon="12.35259"><name><![CDATA[Tvååker Himle, Tvååker]]></name></wpt>
+  <wpt lat="58.55905" lon="12.35781"><name><![CDATA[Brålanda Storgatan, Brålanda]]></name></wpt>
+  <wpt lat="55.643324" lon="12.400248"><name><![CDATA[Ids Brøndby 6054, Brøndby]]></name></wpt>
+  <wpt lat="58.69907" lon="12.44887"><name><![CDATA[Mellerud Landsvägsg (Tanka), Mellerud]]></name></wpt>
+  <wpt lat="56.91436" lon="12.50376"><name><![CDATA[Falkenberg Varbergsv (Tanka), Falkenberg]]></name></wpt>
+  <wpt lat="56.00152" lon="12.51558"><name><![CDATA[Ids Kvistgaard 1123, Kvistgaard]]></name></wpt>
+  <wpt lat="62.54982" lon="12.51764"><name><![CDATA[Funäsdalen, Funäsdalen]]></name></wpt>
+  <wpt lat="57.42937" lon="12.52811"><name><![CDATA[Björketorp Automat, Björketorp]]></name></wpt>
+  <wpt lat="56.89842" lon="12.528113"><name><![CDATA[Tvätt Falkenberg, Falkenberg]]></name></wpt>
+  <wpt lat="57.92542" lon="12.53035"><name><![CDATA[Alingsås Bangatan (Tanka), Alingsås]]></name></wpt>
+  <wpt lat="56.89849" lon="12.53069"><name><![CDATA[Falkenberg Årstadsvägen, Falkenberg]]></name></wpt>
+  <wpt lat="57.93003" lon="12.56108"><name><![CDATA[Alingsås Kristineholmsv, Alingsås]]></name></wpt>
+  <wpt lat="56.20279" lon="12.57681"><name><![CDATA[Höganäs Prins Carlsgatan, Höganäs]]></name></wpt>
+  <wpt lat="59.66933" lon="12.59385"><name><![CDATA[Arvika Blästervägen, Arvika]]></name></wpt>
+  <wpt lat="59.65947" lon="12.60781"><name><![CDATA[Arvika Karlstadsv, Arvika]]></name></wpt>
+  <wpt lat="58.33361" lon="12.60995"><name><![CDATA[Grästorp, Grästorp]]></name></wpt>
+  <wpt lat="58.33361" lon="12.60995"><name><![CDATA[Ids Okq8 Grästorp, Grästorp]]></name></wpt>
+  <wpt lat="59.66055" lon="12.61059"><name><![CDATA[Arvika Åkaregatan 5 (Tanka), Arvika]]></name></wpt>
+  <wpt lat="59.04624" lon="12.67903"><name><![CDATA[Åmål Hovslagaregatan, Åmål]]></name></wpt>
+  <wpt lat="57.50441" lon="12.69785"><name><![CDATA[Kinna Lyddevägen, Kinna]]></name></wpt>
+  <wpt lat="56.05819" lon="12.70462"><name><![CDATA[Helsingborg Ängelholmsv, Helsingborg]]></name></wpt>
+  <wpt lat="57.51489" lon="12.70932"><name><![CDATA[Kinna Verkstadsgat (Tanka), Kinna]]></name></wpt>
+  <wpt lat="56.06983" lon="12.71882"><name><![CDATA[Helsingborg Bergav (Tanka), Helsingborg]]></name></wpt>
+  <wpt lat="56.01229" lon="12.73219"><name><![CDATA[Helsingborg Landskronav, Helsingborg]]></name></wpt>
+  <wpt lat="56.06529" lon="12.74819"><name><![CDATA[Helsingborg Norra, Helsingborg]]></name></wpt>
+  <wpt lat="56.09349" lon="12.75912"><name><![CDATA[Ödåkra-Väla, Ödåkra-Väla]]></name></wpt>
+  <wpt lat="56.04691" lon="12.77714"><name><![CDATA[Ids Helsingborg, Helsingborg]]></name></wpt>
+  <wpt lat="56.67445" lon="12.79946"><name><![CDATA[Halmstad Flygstaden, Halmstad]]></name></wpt>
+  <wpt lat="58.05028" lon="12.81529"><name><![CDATA[Vårgårda, Vårgårda]]></name></wpt>
+  <wpt lat="58.05047" lon="12.81566"><name><![CDATA[Ids Vårgårda, Vårgårda]]></name></wpt>
+  <wpt lat="55.93862" lon="12.81799"><name><![CDATA[Glumslöv Södergående, Glumslöv]]></name></wpt>
+  <wpt lat="55.93862" lon="12.81799"><name><![CDATA[Ids Okq8 Glumslöv Södergående, Glumslöv]]></name></wpt>
+  <wpt lat="55.93851" lon="12.81805"><name><![CDATA[Ids Glumslöv Södergående, Glumslöv]]></name></wpt>
+  <wpt lat="55.94124" lon="12.81836"><name><![CDATA[Ids Glumslöv Norrgående, Glumslöv]]></name></wpt>
+  <wpt lat="55.94082" lon="12.81843"><name><![CDATA[Glumslöv Norrgående, Glumslöv]]></name></wpt>
+  <wpt lat="55.88634" lon="12.83191"><name><![CDATA[Landskrona (Tanka), Landskrona]]></name></wpt>
+  <wpt lat="55.87257" lon="12.84918"><name><![CDATA[Landskrona Föreningsg, Landskrona]]></name></wpt>
+  <wpt lat="55.87927" lon="12.86756"><name><![CDATA[Ids Dsv Landskrona, Landskrona]]></name></wpt>
+  <wpt lat="56.42695" lon="12.87633"><name><![CDATA[Båstad Hallandsvägen, Båstad]]></name></wpt>
+  <wpt lat="56.23783" lon="12.87694"><name><![CDATA[Ängelholm Östra Vägen, Ängelholm]]></name></wpt>
+  <wpt lat="56.6772" lon="12.8814"><name><![CDATA[Halmstad Kristinehedsv (Tanka), Halmstad]]></name></wpt>
+  <wpt lat="59.66367" lon="12.88294"><name><![CDATA[Vikene, Brunskog]]></name></wpt>
+  <wpt lat="56.67382" lon="12.89336"><name><![CDATA[Halmstad Frennarpsvägen, Halmstad]]></name></wpt>
+  <wpt lat="56.24594" lon="12.89446"><name><![CDATA[Ängelholm Kungsgårdsl (Tanka), Ängelholm]]></name></wpt>
+  <wpt lat="56.65583" lon="12.89966"><name><![CDATA[Ids Halmstad, Halmstad]]></name></wpt>
+  <wpt lat="56.65558" lon="12.89985"><name><![CDATA[Halmstad Laholmsvägen, Halmstad]]></name></wpt>
+  <wpt lat="59.1353" lon="12.91913"><name><![CDATA[Säffle Järnvägsgatan, Säffle]]></name></wpt>
+  <wpt lat="57.72644" lon="12.92317"><name><![CDATA[Borås Getängsvägen, Borås]]></name></wpt>
+  <wpt lat="56.38926" lon="12.93669"><name><![CDATA[Båstad Östra Karup, Båstad]]></name></wpt>
+  <wpt lat="56.38926" lon="12.93669"><name><![CDATA[Ids Okq8 Båstad, Båstad]]></name></wpt>
+  <wpt lat="57.73918" lon="12.93827"><name><![CDATA[Borås Alidelundsg, Borås]]></name></wpt>
+  <wpt lat="59.14225" lon="12.94211"><name><![CDATA[Säffle Sommarrovägen, Säffle]]></name></wpt>
+  <wpt lat="59.14134" lon="12.94431"><name><![CDATA[Säffle Stamvägen 1 (Tanka), Säffle]]></name></wpt>
+  <wpt lat="56.13877" lon="12.9508"><name><![CDATA[Åstorp Västra Vägen, Åstorp]]></name></wpt>
+  <wpt lat="56.50523" lon="12.95559"><name><![CDATA[Mellbystrand Norrleden, Mellbystrand]]></name></wpt>
+  <wpt lat="55.42488" lon="12.95907"><name><![CDATA[Höllviken, Höllviken]]></name></wpt>
+  <wpt lat="56.05618" lon="12.96045"><name><![CDATA[Billesholm Spinngatan, Billesholm]]></name></wpt>
+  <wpt lat="58.25658" lon="12.96413"><name><![CDATA[Vara Torggatan (Tanka), Vara]]></name></wpt>
+  <wpt lat="55.59356" lon="12.96701"><name><![CDATA[Malmö Erikslust, Malmö]]></name></wpt>
+  <wpt lat="57.72016" lon="12.97373"><name><![CDATA[Borås Hultagatan, Borås]]></name></wpt>
+  <wpt lat="55.58009" lon="12.97555"><name><![CDATA[Malmö Svansjögatan, Malmö]]></name></wpt>
+  <wpt lat="57.72279" lon="12.98882"><name><![CDATA[Borås Hultagatan (Tanka), Borås]]></name></wpt>
+  <wpt lat="60.13149" lon="12.99363"><name><![CDATA[Torsby Toria Center (Tanka), Torsby]]></name></wpt>
+  <wpt lat="55.77404" lon="12.99831"><name><![CDATA[Löddeköpinge, Löddeköpinge]]></name></wpt>
+  <wpt lat="55.57843" lon="13.00459"><name><![CDATA[Malmö Mobilia, Malmö]]></name></wpt>
+  <wpt lat="55.56351" lon="13.00728"><name><![CDATA[Malmö Kvartettgatan, Malmö]]></name></wpt>
+  <wpt lat="57.82409" lon="13.00904"><name><![CDATA[Fristad, Fristad]]></name></wpt>
+  <wpt lat="60.13509" lon="13.01196"><name><![CDATA[Torsby Kyrkogatan, Torsby]]></name></wpt>
+  <wpt lat="55.47342" lon="13.02043"><name><![CDATA[Vellinge Börjesgatan, Vellinge]]></name></wpt>
+  <wpt lat="55.62781" lon="13.02865"><name><![CDATA[Ids Malmö Hamn, Malmö]]></name></wpt>
+  <wpt lat="56.50087" lon="13.02937"><name><![CDATA[Laholm Industrigat (Tanka), Laholm]]></name></wpt>
+  <wpt lat="55.61465" lon="13.03168"><name><![CDATA[Malmö Västkustv, Malmö]]></name></wpt>
+  <wpt lat="55.54912" lon="13.03389"><name><![CDATA[Malmö Lockarp, Oxie]]></name></wpt>
+  <wpt lat="55.57034" lon="13.05476"><name><![CDATA[Malmö Agnesfridsv (Tanka), Malmö]]></name></wpt>
+  <wpt lat="55.61019" lon="13.06234"><name><![CDATA[Malmö Vattenverksvägen, Malmö]]></name></wpt>
+  <wpt lat="55.63011" lon="13.06929"><name><![CDATA[Arlöv Lundavägen, Arlöv]]></name></wpt>
+  <wpt lat="63.40301" lon="13.07473"><name><![CDATA[Åre, Åre]]></name></wpt>
+  <wpt lat="55.38463" lon="13.08576"><name><![CDATA[Trelleborg, Trelleborg]]></name></wpt>
+  <wpt lat="56.95763" lon="13.08966"><name><![CDATA[Torup Gamla Nissastig (Tanka), Torup]]></name></wpt>
+  <wpt lat="55.5948" lon="13.10024"><name><![CDATA[Malmö Batterigatan (Toftanäs), Malmö]]></name></wpt>
+  <wpt lat="55.61149" lon="13.10241"><name><![CDATA[Stora Bernstorp, Arlöv]]></name></wpt>
+  <wpt lat="59.35818" lon="13.11315"><name><![CDATA[Grums Sveagatan, Grums]]></name></wpt>
+  <wpt lat="57.49998" lon="13.11439"><name><![CDATA[Svenljunga Nylännesgatan, Svenljunga]]></name></wpt>
+  <wpt lat="58.5207" lon="13.11653"><name><![CDATA[Lidköping Tvättcenter, Lidköping]]></name></wpt>
+  <wpt lat="56.13662" lon="13.12718"><name><![CDATA[Klippan Storgatan (Tanka), Klippan]]></name></wpt>
+  <wpt lat="59.83704" lon="13.12791"><name><![CDATA[Sunne Sörgårdsgatan, Sunne]]></name></wpt>
+  <wpt lat="59.83786" lon="13.12889"><name><![CDATA[Sunne Norrgårdsgatan (Tanka), Sunne]]></name></wpt>
+  <wpt lat="55.38229" lon="13.13249"><name><![CDATA[Trelleborg Hedvägen 187, Trelleborg]]></name></wpt>
+  <wpt lat="55.37316" lon="13.13611"><name><![CDATA[Ids Trelleborg Hamnen, Trelleborg]]></name></wpt>
+  <wpt lat="58.4926" lon="13.14"><name><![CDATA[Lidköping, Lidköping]]></name></wpt>
+  <wpt lat="61.69363" lon="13.14161"><name><![CDATA[Särna Särnavägen, Särna]]></name></wpt>
+  <wpt lat="59.36783" lon="13.1429"><name><![CDATA[Ids Grums, Grums]]></name></wpt>
+  <wpt lat="59.36784" lon="13.14373"><name><![CDATA[Grums Nyängsvägen, Grums]]></name></wpt>
+  <wpt lat="58.4966" lon="13.14903"><name><![CDATA[Lidköping Mellbyg (Tanka), Lidköping]]></name></wpt>
+  <wpt lat="55.38138" lon="13.15002"><name><![CDATA[Trelleborg Hedvägen (Tanka), Trelleborg]]></name></wpt>
+  <wpt lat="55.71141" lon="13.18109"><name><![CDATA[Lund Kung Oscars Väg, Lund]]></name></wpt>
+  <wpt lat="55.71461" lon="13.20029"><name><![CDATA[Lund Getingevägen, Lund]]></name></wpt>
+  <wpt lat="55.6564" lon="13.2219"><name><![CDATA[Ids Minipris Staffanstorp, Staffanstorp]]></name></wpt>
+  <wpt lat="55.6564" lon="13.2219"><name><![CDATA[Staffanstorp, Staffanstorp]]></name></wpt>
+  <wpt lat="55.69646" lon="13.22347"><name><![CDATA[Lund Porfyrvägen (Tanka), Lund]]></name></wpt>
+  <wpt lat="55.51535" lon="13.2342"><name><![CDATA[Svedala N.Tvärgatan, Svedala]]></name></wpt>
+  <wpt lat="61.1566" lon="13.26644"><name><![CDATA[Sälen Sälenvägen, Sälen]]></name></wpt>
+  <wpt lat="56.28494" lon="13.27879"><name><![CDATA[Örkelljunga Vallhallavägen, Örkelljunga]]></name></wpt>
+  <wpt lat="55.84113" lon="13.32578"><name><![CDATA[Eslöv Vikhemsvägen (Tanka), Eslöv]]></name></wpt>
+  <wpt lat="55.84338" lon="13.33132"><name><![CDATA[Eslöv Fallskärmsgatan, Eslöv]]></name></wpt>
+  <wpt lat="55.71836" lon="13.33133"><name><![CDATA[Södra Sandby Lundavägen, Södra Sandby]]></name></wpt>
+  <wpt lat="59.50398" lon="13.33193"><name><![CDATA[Kil Stenåsen, Kil]]></name></wpt>
+  <wpt lat="55.66204" lon="13.33955"><name><![CDATA[Dalby Södra, Pumpvägen 2-4, Dalby]]></name></wpt>
+  <wpt lat="57.49302" lon="13.34017"><name><![CDATA[Tranemo Limmaredsv (Tanka), Tranemo]]></name></wpt>
+  <wpt lat="55.53904" lon="13.35729"><name><![CDATA[Malmö Sturup, Svedala]]></name></wpt>
+  <wpt lat="56.13546" lon="13.39324"><name><![CDATA[Perstorp Banvallsvägen, Perstorp]]></name></wpt>
+  <wpt lat="57.15709" lon="13.40744"><name><![CDATA[Smålandsstenar S Nissa (Tanka), Smålandsstenar]]></name></wpt>
+  <wpt lat="57.79631" lon="13.41392"><name><![CDATA[Ulricehamn Boråsvägen, Ulricehamn]]></name></wpt>
+  <wpt lat="58.38078" lon="13.41439"><name><![CDATA[Skara Smedtorpsg-Munkatorpsg, Skara]]></name></wpt>
+  <wpt lat="58.37794" lon="13.41833"><name><![CDATA[Skara Hospitalsgat (Tanka), Skara]]></name></wpt>
+  <wpt lat="57.80632" lon="13.42195"><name><![CDATA[Ulricehamn Falköpingsv (Tanka), Ulricehamn]]></name></wpt>
+  <wpt lat="59.37787" lon="13.429835"><name><![CDATA[Karlstad Köpvägen, Karlstad]]></name></wpt>
+  <wpt lat="59.377804" lon="13.430717"><name><![CDATA[Bergvik Tvättbana, Karlstad]]></name></wpt>
+  <wpt lat="58.39079" lon="13.46109"><name><![CDATA[Skara Skaraborgsgatan 70, Skara]]></name></wpt>
+  <wpt lat="63.34612" lon="13.46158"><name><![CDATA[Järpen Skansvägen, Järpen]]></name></wpt>
+  <wpt lat="59.52694" lon="13.47274"><name><![CDATA[Forshaga Storgatan, Forshaga]]></name></wpt>
+  <wpt lat="56.36202" lon="13.47446"><name><![CDATA[Ids Skånes Fagerhult, Skånes Fagerhult]]></name></wpt>
+  <wpt lat="56.36193" lon="13.47448"><name><![CDATA[Skånes Fagerhult, Skånes Fagerhult]]></name></wpt>
+  <wpt lat="59.32414" lon="13.47732"><name><![CDATA[Skoghall Hovlandavägen, Skoghall]]></name></wpt>
+  <wpt lat="59.38382" lon="13.47941"><name><![CDATA[Karlstad Hagalundsvägen 27, Karlstad]]></name></wpt>
+  <wpt lat="55.4903" lon="13.48804"><name><![CDATA[Ids Minipris Skurup, Skurup]]></name></wpt>
+  <wpt lat="55.4903" lon="13.48804"><name><![CDATA[Skurup, Skurup]]></name></wpt>
+  <wpt lat="60.17391" lon="13.49586"><name><![CDATA[Ekshärad Klarälvsvägen, Ekshärad]]></name></wpt>
+  <wpt lat="55.64078" lon="13.50275"><name><![CDATA[Veberöd Truckvägen, Veberöd]]></name></wpt>
+  <wpt lat="59.344" lon="13.50313"><name><![CDATA[Hammarö Aut, Hammarö]]></name></wpt>
+  <wpt lat="59.37337" lon="13.50601"><name><![CDATA[Karlstad Packhusgat 1 (Tanka), Karlstad]]></name></wpt>
+  <wpt lat="62.42033" lon="13.51528"><name><![CDATA[Hede Råndalsvägen, Hede]]></name></wpt>
+  <wpt lat="57.29086" lon="13.52222"><name><![CDATA[Gislaved Södergård, Gislaved]]></name></wpt>
+  <wpt lat="59.40131" lon="13.53418"><name><![CDATA[Karlstad Höjdgatan, Karlstad]]></name></wpt>
+  <wpt lat="55.92633" lon="13.54652"><name><![CDATA[Höör Björkgatan, Höör]]></name></wpt>
+  <wpt lat="59.83553" lon="13.54689"><name><![CDATA[Munkfors Tallbacksvägen, Munkfors]]></name></wpt>
+  <wpt lat="59.37541" lon="13.56246"><name><![CDATA[Lovartsgatan 9 Gas Aut, Karlstad]]></name></wpt>
+  <wpt lat="57.29765" lon="13.56842"><name><![CDATA[Gislaved Baldersv 37 (Tanka), Gislaved]]></name></wpt>
+  <wpt lat="58.17028" lon="13.5802"><name><![CDATA[Falköping Österängsg, Falköping]]></name></wpt>
+  <wpt lat="58.16964" lon="13.58042"><name><![CDATA[Falköping Lovenegat (Tanka), Falköping]]></name></wpt>
+  <wpt lat="56.45562" lon="13.59406"><name><![CDATA[Markaryd Hässleholmsv (Tanka), Markaryd]]></name></wpt>
+  <wpt lat="57.78044" lon="13.66068"><name><![CDATA[Ids Strängsered, Ulricehamn]]></name></wpt>
+  <wpt lat="57.77997" lon="13.66237"><name><![CDATA[Ulricehamn Strängsered, Ulricehamn]]></name></wpt>
+  <wpt lat="55.8644" lon="13.6631"><name><![CDATA[Hörby Slagtofta (Tanka), Hörby]]></name></wpt>
+  <wpt lat="63.31063" lon="13.68319"><name><![CDATA[Mörsil Åsanvägen, Mörsil]]></name></wpt>
+  <wpt lat="55.63554" lon="13.68498"><name><![CDATA[Sjöbo Planteringsg (Tanka), Sjöbo]]></name></wpt>
+  <wpt lat="60.02019" lon="13.69165"><name><![CDATA[Hagfors Blomvägen, Hagfors]]></name></wpt>
+  <wpt lat="59.88625" lon="13.72128"><name><![CDATA[Sunnemo, Sunnemo]]></name></wpt>
+  <wpt lat="60.68693" lon="13.72208"><name><![CDATA[Malung Morav (Tanka), Malung]]></name></wpt>
+  <wpt lat="56.56044" lon="13.72344"><name><![CDATA[Strömsnäsbruk Hinnerydsvägen, Strömsnäsbruk]]></name></wpt>
+  <wpt lat="60.67947" lon="13.73112"><name><![CDATA[Ids Okq8 Malung, Malung]]></name></wpt>
+  <wpt lat="60.67947" lon="13.73112"><name><![CDATA[Malung Backselsvägen, Malung]]></name></wpt>
+  <wpt lat="57.17229" lon="13.74087"><name><![CDATA[Bredaryd Östra Vägen, Bredaryd]]></name></wpt>
+  <wpt lat="56.1584" lon="13.75578"><name><![CDATA[Hässleholm Kaptensgatan, Hässleholm]]></name></wpt>
+  <wpt lat="56.16986" lon="13.75977"><name><![CDATA[Hässleholm N.Kringelv (Tanka), Hässleholm]]></name></wpt>
+  <wpt lat="56.1544" lon="13.76594"><name><![CDATA[Hässleholm 3:E Avenyn, Hässleholm]]></name></wpt>
+  <wpt lat="58.69756" lon="13.81826"><name><![CDATA[Mariestad Leverstadsvägen, Mariestad]]></name></wpt>
+  <wpt lat="58.67806" lon="13.82028"><name><![CDATA[Mariestad Hammarsmedsg (Tanka), Mariestad]]></name></wpt>
+  <wpt lat="55.43681" lon="13.82478"><name><![CDATA[Ystad Kristianstadsvägen, Ystad]]></name></wpt>
+  <wpt lat="58.39527" lon="13.83686"><name><![CDATA[Skövde Gamla Kungsvägen, Skövde]]></name></wpt>
+  <wpt lat="55.44569" lon="13.83986"><name><![CDATA[Ystad Metallgatan (Tanka), Ystad]]></name></wpt>
+  <wpt lat="59.39177" lon="13.85312"><name><![CDATA[Ids Väse, Väse]]></name></wpt>
+  <wpt lat="59.39119" lon="13.85358"><name><![CDATA[Väse, Väse]]></name></wpt>
+  <wpt lat="58.69355" lon="13.85765"><name><![CDATA[Ids Mariestad B-Sidan, Mariestad]]></name></wpt>
+  <wpt lat="58.69223" lon="13.85884"><name><![CDATA[Ids Mariestad Norrgående, Mariestad]]></name></wpt>
+  <wpt lat="58.69371" lon="13.8591"><name><![CDATA[Mariestad Muggebo, Mariestad]]></name></wpt>
+  <wpt lat="58.41922" lon="13.87012"><name><![CDATA[Skövde Mellomkvarnsv (Tanka), Skövde]]></name></wpt>
+  <wpt lat="58.41354" lon="13.87882"><name><![CDATA[Skövde, Skövde]]></name></wpt>
+  <wpt lat="56.81119" lon="13.90721"><name><![CDATA[Ljungby (Tanka), Ljungby]]></name></wpt>
+  <wpt lat="56.8292" lon="13.92389"><name><![CDATA[Ljungby Helsingborgsvägen, Ljungby]]></name></wpt>
+  <wpt lat="58.17791" lon="13.942"><name><![CDATA[Tidaholm Skogsholmsvägen, Tidaholm]]></name></wpt>
+  <wpt lat="55.54664" lon="13.94683"><name><![CDATA[Tomelilla Malmöv (Tanka), Tomelilla]]></name></wpt>
+  <wpt lat="56.37685" lon="13.99224"><name><![CDATA[Osby Såggatan (Tanka), Osby]]></name></wpt>
+  <wpt lat="57.18262" lon="14.02655"><name><![CDATA[Värnamo Halmstadsvägen, Värnamo]]></name></wpt>
+  <wpt lat="61.2284" lon="14.03886"><name><![CDATA[Älvdalen Dalgatan, Älvdalen]]></name></wpt>
+  <wpt lat="57.19168" lon="14.06407"><name><![CDATA[Värnamo Nydalav (Tanka), Värnamo]]></name></wpt>
+  <wpt lat="57.16301" lon="14.07385"><name><![CDATA[Värnamo Bredasten, Värnamo]]></name></wpt>
+  <wpt lat="57.16072" lon="14.07577"><name><![CDATA[Värnamo, Värnamo]]></name></wpt>
+  <wpt lat="57.160402" lon="14.075816"><name><![CDATA[Ids Värnamo, Värnamo]]></name></wpt>
+  <wpt lat="57.34978" lon="14.09774"><name><![CDATA[Ids Klevshult, Skillingaryd]]></name></wpt>
+  <wpt lat="57.34978" lon="14.09816"><name><![CDATA[Skillingaryd Klevshult, Skillingaryd]]></name></wpt>
+  <wpt lat="55.72636" lon="14.10006"><name><![CDATA[Brösarp Albovägen, Brösarp]]></name></wpt>
+  <wpt lat="59.31494" lon="14.10278"><name><![CDATA[Kristinehamn Västerlångg, Kristinehamn]]></name></wpt>
+  <wpt lat="59.2986" lon="14.12005"><name><![CDATA[Kristinehamn Västgötag (Tanka), Kristinehamn]]></name></wpt>
+  <wpt lat="64.49999" lon="14.1408"><name><![CDATA[Gäddede Norgevägen, Gäddede]]></name></wpt>
+  <wpt lat="56.53219" lon="14.14241"><name><![CDATA[Älmhult S:A Ringv, Älmhult]]></name></wpt>
+  <wpt lat="56.555" lon="14.14312"><name><![CDATA[Älmhult Danska Vägen 4 (Tanka), Älmhult]]></name></wpt>
+  <wpt lat="56.0219" lon="14.14315"><name><![CDATA[Kristianstad Långebrogatan, Kristianstad]]></name></wpt>
+  <wpt lat="58.42976" lon="14.14571"><name><![CDATA[Tibro Värdshusgatan, Tibro]]></name></wpt>
+  <wpt lat="57.76469" lon="14.15232"><name><![CDATA[Jönköping Jordbrovägen, Jönköping]]></name></wpt>
+  <wpt lat="59.71354" lon="14.15407"><name><![CDATA[Filipstad Konsul Lundstr.V, Filipstad]]></name></wpt>
+  <wpt lat="57.67207" lon="14.1631"><name><![CDATA[Ids Torsvik, Jönköping]]></name></wpt>
+  <wpt lat="57.76123" lon="14.16985"><name><![CDATA[Jönköping Solåsvägen, Jönköping]]></name></wpt>
+  <wpt lat="59.71463" lon="14.17447"><name><![CDATA[Filipstad Scheelegat (Tanka), Filipstad]]></name></wpt>
+  <wpt lat="59.97348" lon="14.18799"><name><![CDATA[Lesjöfors Bergslagsgatan, Lesjöfors]]></name></wpt>
+  <wpt lat="56.02823" lon="14.20947"><name><![CDATA[Kristianstad Blekingev (Tanka), Kristianstad]]></name></wpt>
+  <wpt lat="60.50853" lon="14.22913"><name><![CDATA[Vansbro Älvgatan, Vansbro]]></name></wpt>
+  <wpt lat="57.78924" lon="14.26473"><name><![CDATA[Huskvarna Vårstarondellen, Huskvarna]]></name></wpt>
+  <wpt lat="58.31249" lon="14.28363"><name><![CDATA[Hjo Industrigatan, Hjo]]></name></wpt>
+  <wpt lat="59.53026" lon="14.28386"><name><![CDATA[Storfors Västra Skyttegatan, Storfors]]></name></wpt>
+  <wpt lat="55.93274" lon="14.29106"><name><![CDATA[Åhus Stormgatan, Åhus]]></name></wpt>
+  <wpt lat="55.54535" lon="14.33562"><name><![CDATA[Simrishamn Fabriksg (Tanka), Simrishamn]]></name></wpt>
+  <wpt lat="62.03439" lon="14.36779"><name><![CDATA[Sveg Vallarvägen, Sveg]]></name></wpt>
+  <wpt lat="62.75259" lon="14.42764"><name><![CDATA[Svenstavik, Svenstavik]]></name></wpt>
+  <wpt lat="63.32876" lon="14.43113"><name><![CDATA[Krokom Föllingevägen, Krokom]]></name></wpt>
+  <wpt lat="63.32896" lon="14.43215"><name><![CDATA[Ids Krokom, Krokom]]></name></wpt>
+  <wpt lat="59.24865" lon="14.43709"><name><![CDATA[Degerfors Garagegatan, Degerfors]]></name></wpt>
+  <wpt lat="59.29985" lon="14.49148"><name><![CDATA[Karlskoga Tibastvägen (Tanka), Karlskoga]]></name></wpt>
+  <wpt lat="59.32438" lon="14.49769"><name><![CDATA[Karlskoga Selma Lagerlöfs Väg, Karlskoga]]></name></wpt>
+  <wpt lat="58.54446" lon="14.50241"><name><![CDATA[Karlsborg Askersundsvägen, Karlsborg]]></name></wpt>
+  <wpt lat="59.674971" lon="14.520858"><name><![CDATA[Eskilstuna Biltvätt, Eskilstuna]]></name></wpt>
+  <wpt lat="59.77014" lon="14.52217"><name><![CDATA[Hällefors Svartälvsvägen, Hällefors]]></name></wpt>
+  <wpt lat="62.461913" lon="14.533601"><name><![CDATA[Rätan Sjövägen, Rätan]]></name></wpt>
+  <wpt lat="61.01556" lon="14.53845"><name><![CDATA[Mora Önavägen, Mora]]></name></wpt>
+  <wpt lat="61.00098" lon="14.53915"><name><![CDATA[Mora Yvradsvägen, Mora]]></name></wpt>
+  <wpt lat="56.27597" lon="14.5421"><name><![CDATA[Olofström Ekhagsv (Tanka), Olofström]]></name></wpt>
+  <wpt lat="56.89381" lon="14.54669"><name><![CDATA[Alvesta Fabriksgatan, Alvesta]]></name></wpt>
+  <wpt lat="61.00959" lon="14.56472"><name><![CDATA[Mora Broåkern (Tanka), Mora]]></name></wpt>
+  <wpt lat="61.00911" lon="14.5663"><name><![CDATA[Mora Vasagatan, Mora]]></name></wpt>
+  <wpt lat="56.05592" lon="14.56732"><name><![CDATA[Sölvesborg Kämpaslätt (Tanka), Sölvesborg]]></name></wpt>
+  <wpt lat="59.32761" lon="14.5759"><name><![CDATA[Karlskoga Prix, Karlskoga]]></name></wpt>
+  <wpt lat="62.99064" lon="14.598"><name><![CDATA[Fåker Grönviken, Fåker]]></name></wpt>
+  <wpt lat="63.67133" lon="14.62101"><name><![CDATA[Föllinge Långgatan 13, Föllinge]]></name></wpt>
+  <wpt lat="63.20945" lon="14.63349"><name><![CDATA[Östersund Semsåvägen, Östersund]]></name></wpt>
+  <wpt lat="58.9855" lon="14.63631"><name><![CDATA[Laxå Riksvägen-Revirg, Laxå]]></name></wpt>
+  <wpt lat="63.17308" lon="14.64287"><name><![CDATA[Östersund S.Gröngatan, Östersund]]></name></wpt>
+  <wpt lat="58.22594" lon="14.6694"><name><![CDATA[Ids Ödeshög, Ödeshög]]></name></wpt>
+  <wpt lat="58.22635" lon="14.66962"><name><![CDATA[Ödeshög Liljekonvaljvägen, Ödeshög]]></name></wpt>
+  <wpt lat="63.17707" lon="14.67026"><name><![CDATA[Östersund Körfältsvägen, Östersund]]></name></wpt>
+  <wpt lat="63.17049" lon="14.67785"><name><![CDATA[Östersund Fagerbacken (Tanka), Östersund]]></name></wpt>
+  <wpt lat="57.65836" lon="14.69166"><name><![CDATA[Nässjö Rådhusgatan, Nässjö]]></name></wpt>
+  <wpt lat="57.64735" lon="14.73002"><name><![CDATA[Nässjö Sörängsvägen (Tanka), Nässjö]]></name></wpt>
+  <wpt lat="57.66667" lon="14.73333"><name><![CDATA[Tvätt Nässjö, Nässjö]]></name></wpt>
+  <wpt lat="63.16178" lon="14.74263"><name><![CDATA[Östersund Brosslarvägen, Östersund]]></name></wpt>
+  <wpt lat="56.88511" lon="14.75271"><name><![CDATA[Växjö Stora Vägen, Växjö]]></name></wpt>
+  <wpt lat="56.88508" lon="14.7714"><name><![CDATA[Växjö Ljungadalsg (Tanka), Växjö]]></name></wpt>
+  <wpt lat="56.87807" lon="14.77537"><name><![CDATA[Växjö Sambandsvägen, Växjö]]></name></wpt>
+  <wpt lat="56.8948" lon="14.78074"><name><![CDATA[Växjö Arabygatan, Växjö]]></name></wpt>
+  <wpt lat="63.08406" lon="14.81804"><name><![CDATA[Brunflo, Brunflo]]></name></wpt>
+  <wpt lat="56.90199" lon="14.82686"><name><![CDATA[Växjö Norremarksvägen, Växjö]]></name></wpt>
+  <wpt lat="56.19432" lon="14.84399"><name><![CDATA[Asarum Karlshamn (Tanka), Asarum]]></name></wpt>
+  <wpt lat="59.17224" lon="14.87192"><name><![CDATA[Fjugesta Letstigen, Fjugesta]]></name></wpt>
+  <wpt lat="58.44159" lon="14.88196"><name><![CDATA[Vadstena Södra Vägen, Vadstena]]></name></wpt>
+  <wpt lat="58.89009" lon="14.89811"><name><![CDATA[Askersund Duvnäsv (Tanka), Askersund]]></name></wpt>
+  <wpt lat="58.89227" lon="14.92527"><name><![CDATA[Askersund, Askersund]]></name></wpt>
+  <wpt lat="57.64814" lon="14.95213"><name><![CDATA[Eksjö Stallbergav, Eksjö]]></name></wpt>
+  <wpt lat="60.50683" lon="14.95927"><name><![CDATA[Mockfjärd Nordanholen, Mockfjärd]]></name></wpt>
+  <wpt lat="58.03534" lon="14.97805"><name><![CDATA[Tranås Ågatan (Tanka), Tranås]]></name></wpt>
+  <wpt lat="60.27073" lon="14.98314"><name><![CDATA[Grangärde Gärdsvedsv, Grangärde]]></name></wpt>
+  <wpt lat="56.51873" lon="14.98549"><name><![CDATA[Tingsryd Storgatan (Tanka), Tingsryd]]></name></wpt>
+  <wpt lat="60.7319" lon="15.00164"><name><![CDATA[Leksand Hagagatan, Leksand]]></name></wpt>
+  <wpt lat="60.7375" lon="15.00457"><name><![CDATA[Leksand Limsjöänget (Tanka), Leksand]]></name></wpt>
+  <wpt lat="58.54229" lon="15.01434"><name><![CDATA[Motala Vintergatan, Motala]]></name></wpt>
+  <wpt lat="59.86946" lon="15.01571"><name><![CDATA[Kopparberg, Kopparberg]]></name></wpt>
+  <wpt lat="58.53583" lon="15.01635"><name><![CDATA[Motala Vintergat (Tanka), Motala]]></name></wpt>
+  <wpt lat="59.51361" lon="15.02172"><name><![CDATA[Nora Storgatan, Nora]]></name></wpt>
+  <wpt lat="58.55673" lon="15.02399"><name><![CDATA[Motala Skiffervägen Snabbtvätt, Motala]]></name></wpt>
+  <wpt lat="58.556315" lon="15.039305"><name><![CDATA[Moränvägen Biltvätt, Motala]]></name></wpt>
+  <wpt lat="57.44591" lon="15.06183"><name><![CDATA[Vetlanda Kolvägen (Tanka), Vetlanda]]></name></wpt>
+  <wpt lat="58.2025" lon="15.06361"><name><![CDATA[Boxholm Västerleden, Boxholm]]></name></wpt>
+  <wpt lat="58.54089" lon="15.06742"><name><![CDATA[Motala Lustigkullev Snabbtvätt, Motala]]></name></wpt>
+  <wpt lat="57.4337" lon="15.07091"><name><![CDATA[Vetlanda Storgatan, Vetlanda]]></name></wpt>
+  <wpt lat="65.81368" lon="15.08245"><name><![CDATA[Hemavan Aut, Hemavan]]></name></wpt>
+  <wpt lat="57.413446" lon="15.08762"><name><![CDATA[Tvätt Vetlanda, Vetlanda]]></name></wpt>
+  <wpt lat="58.32268" lon="15.08914"><name><![CDATA[Mjölby Tvättcenter, Mjölby]]></name></wpt>
+  <wpt lat="58.32348" lon="15.09169"><name><![CDATA[Mjölby Västra Trafikplats, Mjölby]]></name></wpt>
+  <wpt lat="59.07063" lon="15.10061"><name><![CDATA[Hallsberg Samzeliigatan, Hallsberg]]></name></wpt>
+  <wpt lat="60.86088" lon="15.10444"><name><![CDATA[Rättvik, Rättvik]]></name></wpt>
+  <wpt lat="60.88732" lon="15.11342"><name><![CDATA[Rättvik Riksvägen, Rättvik]]></name></wpt>
+  <wpt lat="58.31857" lon="15.11768"><name><![CDATA[Mjölby Smålandsvägen, Mjölby]]></name></wpt>
+  <wpt lat="59.23785" lon="15.12426"><name><![CDATA[Ids Örebro, Örebro]]></name></wpt>
+  <wpt lat="60.56059" lon="15.13432"><name><![CDATA[Djurås Södra Industrivägen, Djurås]]></name></wpt>
+  <wpt lat="60.56059" lon="15.13432"><name><![CDATA[Ids Okq8 Djurås, Djurås]]></name></wpt>
+  <wpt lat="59.12413" lon="15.13457"><name><![CDATA[Kumla Stenevägen, Kumla]]></name></wpt>
+  <wpt lat="59.21495" lon="15.13599"><name><![CDATA[Örebro Marieberg, Örebro]]></name></wpt>
+  <wpt lat="59.143578" lon="15.137053"><name><![CDATA[Kumla Täbyvägen, Kumla]]></name></wpt>
+  <wpt lat="58.33175" lon="15.14966"><name><![CDATA[Mjölby Kungsgatan (Tanka), Mjölby]]></name></wpt>
+  <wpt lat="59.27084" lon="15.17496"><name><![CDATA[Örebro Västhagagatan, Örebro]]></name></wpt>
+  <wpt lat="60.13065" lon="15.17818"><name><![CDATA[Ludvika Snöåvägen, Ludvika]]></name></wpt>
+  <wpt lat="60.14422" lon="15.18"><name><![CDATA[Ludvika Tunnelgatan (Tanka), Ludvika]]></name></wpt>
+  <wpt lat="59.29948" lon="15.1968"><name><![CDATA[Örebro Vivalla, Örebro]]></name></wpt>
+  <wpt lat="59.26466" lon="15.1988"><name><![CDATA[Örebro Södermalmsplan, Örebro]]></name></wpt>
+  <wpt lat="59.2741" lon="15.2066"><name><![CDATA[Sjölandsgatan Biltvätt, Örebro]]></name></wpt>
+  <wpt lat="60.14924" lon="15.20764"><name><![CDATA[Ludvika Gamla Bangatan, Ludvika]]></name></wpt>
+  <wpt lat="59.60326" lon="15.20772"><name><![CDATA[Lindesberg Bergslagsv (Tanka), Lindesberg]]></name></wpt>
+  <wpt lat="59.29765" lon="15.22971"><name><![CDATA[Örebro Bettorpsg (Tanka), Örebro]]></name></wpt>
+  <wpt lat="59.3253" lon="15.23118"><name><![CDATA[Örebro Saluvägen, Örebro]]></name></wpt>
+  <wpt lat="59.26518" lon="15.23843"><name><![CDATA[Örebro Hagmarksgatan, Örebro]]></name></wpt>
+  <wpt lat="62.91661" lon="15.25506"><name><![CDATA[Gällö, Gällö]]></name></wpt>
+  <wpt lat="62.91661" lon="15.25506"><name><![CDATA[Ids Okq8 Gällö, Gällö]]></name></wpt>
+  <wpt lat="56.232375" lon="15.258996"><name><![CDATA[Ids Minipris Ronneby, Ronneby]]></name></wpt>
+  <wpt lat="56.232375" lon="15.258996"><name><![CDATA[Ronneby, Ronneby]]></name></wpt>
+  <wpt lat="56.75451" lon="15.26798"><name><![CDATA[Lessebo Storgatan, Lessebo]]></name></wpt>
+  <wpt lat="56.216019" lon="15.269259"><name><![CDATA[Tvätt Ronneby, Ronneby]]></name></wpt>
+  <wpt lat="56.218066" lon="15.27068"><name><![CDATA[Ronneby Plankgatan, Ronneby]]></name></wpt>
+  <wpt lat="59.07182" lon="15.33168"><name><![CDATA[Pålsboda N:A Storgatan, Pålsboda]]></name></wpt>
+  <wpt lat="63.59194" lon="15.35373"><name><![CDATA[Hammerdal Sikåsvägen, Hammerdal]]></name></wpt>
+  <wpt lat="60.13467" lon="15.40293"><name><![CDATA[Smedjebacken Bäverstigen, Smedjebacken]]></name></wpt>
+  <wpt lat="60.46882" lon="15.4071"><name><![CDATA[Ids Borlänge, Borlänge]]></name></wpt>
+  <wpt lat="60.47857" lon="15.41281"><name><![CDATA[Borlänge Norra Backa, Borlänge]]></name></wpt>
+  <wpt lat="62.75555" lon="15.41593"><name><![CDATA[Bräcke Riksvägen, Bräcke]]></name></wpt>
+  <wpt lat="62.75555" lon="15.41593"><name><![CDATA[Ids Minipris Bräcke, Bräcke]]></name></wpt>
+  <wpt lat="58.3769" lon="15.42675"><name><![CDATA[Vikingstad, Vikingstad]]></name></wpt>
+  <wpt lat="60.47855" lon="15.43801"><name><![CDATA[Borlänge Bygatan, Borlänge]]></name></wpt>
+  <wpt lat="60.48339" lon="15.44491"><name><![CDATA[Borlänge Skinnargatan, Borlänge]]></name></wpt>
+  <wpt lat="60.72512" lon="15.44711"><name><![CDATA[Bjursås Storvägen, Bjursås]]></name></wpt>
+  <wpt lat="62.42895" lon="15.47591"><name><![CDATA[Östavall Östavallsvägen, Östavall]]></name></wpt>
+  <wpt lat="60.44857" lon="15.48773"><name><![CDATA[Borlänge Smedjebacksv (Tanka), Borlänge]]></name></wpt>
+  <wpt lat="58.50812" lon="15.50109"><name><![CDATA[Ljungsbro Cloettavägen, Ljungsbro]]></name></wpt>
+  <wpt lat="56.20634" lon="15.52838"><name><![CDATA[Nättraby Idrottsvägen, Nättraby]]></name></wpt>
+  <wpt lat="63.84908" lon="15.53912"><name><![CDATA[Ids Okq8 Strömsund, Strömsund]]></name></wpt>
+  <wpt lat="63.84908" lon="15.53912"><name><![CDATA[Strömsund Näsviken, Strömsund]]></name></wpt>
+  <wpt lat="56.62759" lon="15.54731"><name><![CDATA[Emmaboda Granitv (Tanka), Emmaboda]]></name></wpt>
+  <wpt lat="58.391602" lon="15.549132"><name><![CDATA[Algolgatan Biltvätt, Linköping]]></name></wpt>
+  <wpt lat="63.85472" lon="15.56069"><name><![CDATA[Strömsund Lövbergav (Tanka), Strömsund]]></name></wpt>
+  <wpt lat="58.40704" lon="15.57949"><name><![CDATA[Linköping Rydsvägen, Linköping]]></name></wpt>
+  <wpt lat="58.43258" lon="15.58312"><name><![CDATA[Linköping, Linköping]]></name></wpt>
+  <wpt lat="56.17339" lon="15.59871"><name><![CDATA[Karlskrona Blåport, Karlskrona]]></name></wpt>
+  <wpt lat="63.16599" lon="15.59938"><name><![CDATA[Stugun Stuguvägen, Stugun]]></name></wpt>
+  <wpt lat="60.60416" lon="15.60316"><name><![CDATA[Falun Ingarvsvägen, Falun]]></name></wpt>
+  <wpt lat="56.196123" lon="15.612077"><name><![CDATA[Tvätt Skönstavik, Karlskrona]]></name></wpt>
+  <wpt lat="56.26023" lon="15.61793"><name><![CDATA[Rödeby Rödebyvägen, Rödeby]]></name></wpt>
+  <wpt lat="60.6032" lon="15.62639"><name><![CDATA[Falun Gruvgatan, Falun]]></name></wpt>
+  <wpt lat="56.198947" lon="15.633371"><name><![CDATA[Tvätt Gullberna, Karlskrona]]></name></wpt>
+  <wpt lat="56.2027" lon="15.63546"><name><![CDATA[Karlskrona Gullbernav (Tanka), Karlskrona]]></name></wpt>
+  <wpt lat="57.98217" lon="15.6383"><name><![CDATA[Kisa Kalmarvägen (Tanka), Kisa]]></name></wpt>
+  <wpt lat="58.41653" lon="15.63954"><name><![CDATA[Linköping Vigfastg 1 (Tanka), Linköping]]></name></wpt>
+  <wpt lat="56.19863" lon="15.65095"><name><![CDATA[Lyckeby Stationsvägen, Lyckeby]]></name></wpt>
+  <wpt lat="58.39927" lon="15.65372"><name><![CDATA[Linköping Kylarevägen, Linköping]]></name></wpt>
+  <wpt lat="60.60871" lon="15.65404"><name><![CDATA[Falun Bataljonsvägen, Falun]]></name></wpt>
+  <wpt lat="58.41836" lon="15.657649"><name><![CDATA[Torvingegatan Biltvätt, Linköping]]></name></wpt>
+  <wpt lat="60.60786" lon="15.66287"><name><![CDATA[Falun Kolonnvägen (Tanka), Falun]]></name></wpt>
+  <wpt lat="56.97164" lon="15.66413"><name><![CDATA[Alstermo Aspvägen, Alstermo]]></name></wpt>
+  <wpt lat="58.39482" lon="15.67241"><name><![CDATA[Linköping Duvkullestigen 1, Linköping]]></name></wpt>
+  <wpt lat="60.59576" lon="15.68485"><name><![CDATA[Falun Korsnäsvägen (Tanka), Falun]]></name></wpt>
+  <wpt lat="60.59475" lon="15.69268"><name><![CDATA[Falun Tryckerivägen, Falun]]></name></wpt>
+  <wpt lat="60.00779" lon="15.78569"><name><![CDATA[Fagersta Norbergsv, Fagersta]]></name></wpt>
+  <wpt lat="58.7042" lon="15.79333"><name><![CDATA[Finspång Norrköpingsv, Finspång]]></name></wpt>
+  <wpt lat="58.70372" lon="15.79539"><name><![CDATA[Finspång Norrköpingsv (Tanka), Finspång]]></name></wpt>
+  <wpt lat="59.9828" lon="15.80874"><name><![CDATA[Fagersta Virsbov, Fagersta]]></name></wpt>
+  <wpt lat="61.38335" lon="15.82274"><name><![CDATA[Edsbyn Rotebergsvägen, Edsbyn]]></name></wpt>
+  <wpt lat="57.49874" lon="15.82734"><name><![CDATA[Hultsfred Nytorpsvägen, Hultsfred]]></name></wpt>
+  <wpt lat="59.42593" lon="15.828899"><name><![CDATA[Arboga Sätra, Mälarporten, Arboga]]></name></wpt>
+  <wpt lat="59.4259" lon="15.83011"><name><![CDATA[Ids Arboga, Arboga]]></name></wpt>
+  <wpt lat="56.1925" lon="15.83882"><name><![CDATA[Jämjö Riksvägen, Jämjö]]></name></wpt>
+  <wpt lat="61.8006" lon="15.8425"><name><![CDATA[Färila, Färila]]></name></wpt>
+  <wpt lat="59.59928" lon="15.84366"><name><![CDATA[Kolsva Bergslagsvägen, Kolsva]]></name></wpt>
+  <wpt lat="57.6621" lon="15.8489"><name><![CDATA[Vimmerby Maskingatan (Tanka), Vimmerby]]></name></wpt>
+  <wpt lat="57.669" lon="15.84976"><name><![CDATA[Ids Minipris Vimmerby, Vimmerby]]></name></wpt>
+  <wpt lat="57.669" lon="15.84976"><name><![CDATA[Vimmerby Magasinsgatan, Vimmerby]]></name></wpt>
+  <wpt lat="59.04795" lon="15.87422"><name><![CDATA[Vingåker Storgatan, Vingåker]]></name></wpt>
+  <wpt lat="56.73645" lon="15.89089"><name><![CDATA[Nybro Skruvens Väg, Nybro]]></name></wpt>
+  <wpt lat="56.74325" lon="15.89422"><name><![CDATA[Nybro Servicegatan (Tanka), Nybro]]></name></wpt>
+  <wpt lat="59.51994" lon="15.97245"><name><![CDATA[Köping Ringvägen (Tanka), Köping]]></name></wpt>
+  <wpt lat="59.52305" lon="15.97756"><name><![CDATA[Köping Ringvägen, Köping]]></name></wpt>
+  <wpt lat="60.29794" lon="15.97846"><name><![CDATA[Hedemora Tviksta, Hedemora]]></name></wpt>
+  <wpt lat="59.51265" lon="15.98271"><name><![CDATA[Köping Hultgrensgatan 12, Köping]]></name></wpt>
+  <wpt lat="59.51085" lon="15.98648"><name><![CDATA[Köping Hultgrensgatan 8, Köping]]></name></wpt>
+  <wpt lat="60.28335" lon="15.99126"><name><![CDATA[Hedemora Gussarvsg., Hedemora]]></name></wpt>
+  <wpt lat="60.28379" lon="15.99262"><name><![CDATA[Hedemora Gussarvsgat (Tanka), Hedemora]]></name></wpt>
+  <wpt lat="56.41429" lon="15.99969"><name><![CDATA[Torsås Kalmarvägen, Torsås]]></name></wpt>
+  <wpt lat="58.20343" lon="16.0002"><name><![CDATA[Åtvidaberg Prästängsv (Tanka), Åtvidaberg]]></name></wpt>
+  <wpt lat="59.51445" lon="16.0067"><name><![CDATA[Köping Västeråsvägen, Köping]]></name></wpt>
+  <wpt lat="64.41882" lon="16.00812"><name><![CDATA[Dorotea, Dorotea]]></name></wpt>
+  <wpt lat="59.41887" lon="16.06634"><name><![CDATA[Kungsör Kungsgatan, Kungsör]]></name></wpt>
+  <wpt lat="61.34492" lon="16.07117"><name><![CDATA[Alfta Krangatan, Alfta]]></name></wpt>
+  <wpt lat="58.56822" lon="16.07961"><name><![CDATA[Norrköping Skärblackav, Norrköping]]></name></wpt>
+  <wpt lat="58.56817" lon="16.07964"><name><![CDATA[Ids Klinga, Norrköping]]></name></wpt>
+  <wpt lat="61.82354" lon="16.11033"><name><![CDATA[Ljusdal N.Järnvägsgatan, Ljusdal]]></name></wpt>
+  <wpt lat="58.58097" lon="16.13409"><name><![CDATA[Norrköping Moa Martinssons G., Norrköping]]></name></wpt>
+  <wpt lat="58.611399" lon="16.159553"><name><![CDATA[Koppargatan Biltvätt, Norrköping]]></name></wpt>
+  <wpt lat="58.57829" lon="16.16124"><name><![CDATA[Norrköping Skarphagsleden, Norrköping]]></name></wpt>
+  <wpt lat="58.60191" lon="16.16727"><name><![CDATA[Norrköping Stockholmsv 72-74, Norrköping]]></name></wpt>
+  <wpt lat="58.617779" lon="16.172916"><name><![CDATA[Norrköping Ingelsta, Norrköping]]></name></wpt>
+  <wpt lat="60.14442" lon="16.17867"><name><![CDATA[Avesta Dalavägen, Avesta]]></name></wpt>
+  <wpt lat="60.14096" lon="16.1953"><name><![CDATA[Avesta Bergsnäsgatan, Avesta]]></name></wpt>
+  <wpt lat="60.14159" lon="16.19547"><name><![CDATA[Avesta Bergsnäsgat (Tanka), Avesta]]></name></wpt>
+  <wpt lat="58.56728" lon="16.21548"><name><![CDATA[Norrköping Hagebygatan, Norrköping]]></name></wpt>
+  <wpt lat="58.58796" lon="16.21769"><name><![CDATA[Norrköping Exportg 9 (Tanka), Norrköping]]></name></wpt>
+  <wpt lat="58.99847" lon="16.22082"><name><![CDATA[Ids Okq8 Katrineholm, Katrineholm]]></name></wpt>
+  <wpt lat="58.99847" lon="16.22082"><name><![CDATA[Katrineholm Vassmogatan, Katrineholm]]></name></wpt>
+  <wpt lat="59.00106" lon="16.22369"><name><![CDATA[Katrineholm Starrv (Tanka), Katrineholm]]></name></wpt>
+  <wpt lat="58.580263" lon="16.228998"><name><![CDATA[Fjärilsgatan Biltvätt, Norrköping]]></name></wpt>
+  <wpt lat="59.61177" lon="16.2319"><name><![CDATA[Hallstahammar Västeråsv, Hallstahammar]]></name></wpt>
+  <wpt lat="59.005776" lon="16.234234"><name><![CDATA[Uppsalavägen Biltvätt, Katrineholm]]></name></wpt>
+  <wpt lat="60.11975" lon="16.24129"><name><![CDATA[Krylbo Folkaregatan, Krylbo]]></name></wpt>
+  <wpt lat="59.69968" lon="16.24709"><name><![CDATA[Surahammar Enbärsvägen, Surahammar]]></name></wpt>
+  <wpt lat="60.54089" lon="16.26325"><name><![CDATA[Hofors Faluvägen, Hofors]]></name></wpt>
+  <wpt lat="56.6891" lon="16.315"><name><![CDATA[Kalmar Trångsundsv (Tanka), Kalmar]]></name></wpt>
+  <wpt lat="59.46231" lon="16.31629"><name><![CDATA[Kvicksund, Kvicksund]]></name></wpt>
+  <wpt lat="56.68354" lon="16.31978"><name><![CDATA[Ids Kalmar, Kalmar]]></name></wpt>
+  <wpt lat="56.68296" lon="16.32243"><name><![CDATA[Kalmar Ölandsleden, Kalmar]]></name></wpt>
+  <wpt lat="58.476" lon="16.33553"><name><![CDATA[Söderköping Länsmansgatan, Söderköping]]></name></wpt>
+  <wpt lat="56.67363" lon="16.35107"><name><![CDATA[Kalmar Borgmästaregatan, Kalmar]]></name></wpt>
+  <wpt lat="61.34398" lon="16.3817"><name><![CDATA[Bollnäs Hantverkarg (Tanka), Bollnäs]]></name></wpt>
+  <wpt lat="56.52551" lon="16.3833"><name><![CDATA[Mörbylånga Köpmangatan, Mörbylånga]]></name></wpt>
+  <wpt lat="61.35342" lon="16.39125"><name><![CDATA[Bollnäs Fabriksg, Bollnäs]]></name></wpt>
+  <wpt lat="61.36724" lon="16.39376"><name><![CDATA[Bollnäs Norrlandsvägen, Bollnäs]]></name></wpt>
+  <wpt lat="64.26003" lon="16.40039"><name><![CDATA[Dorotea Storgatan, Dorotea]]></name></wpt>
+  <wpt lat="60.29018" lon="16.40165"><name><![CDATA[Horndal Stora Vägen, Horndal]]></name></wpt>
+  <wpt lat="59.40322" lon="16.42417"><name><![CDATA[Eskilstuna Folkesta, Eskilstuna]]></name></wpt>
+  <wpt lat="57.26401" lon="16.43894"><name><![CDATA[Oskarshamn Idrottsvägen, Oskarshamn]]></name></wpt>
+  <wpt lat="57.05046" lon="16.44059"><name><![CDATA[Mönsterås Storgatan, Mönsterås]]></name></wpt>
+  <wpt lat="57.25147" lon="16.44464"><name><![CDATA[Oskarshamn Inkörningsv (Tanka), Oskarshamn]]></name></wpt>
+  <wpt lat="58.33434" lon="16.4546"><name><![CDATA[Ids Okq8 Ringarum, Ringarum]]></name></wpt>
+  <wpt lat="58.33434" lon="16.4546"><name><![CDATA[Ringarum Kyrkängsvägen, Ringarum]]></name></wpt>
+  <wpt lat="59.38856" lon="16.46815"><name><![CDATA[Eskilstuna Mått Jo Väg (Tanka), Eskilstuna]]></name></wpt>
+  <wpt lat="59.37521" lon="16.46909"><name><![CDATA[Eskilstuna Svallinge, Eskilstuna]]></name></wpt>
+  <wpt lat="59.61253" lon="16.46936"><name><![CDATA[Västerås Erikslund, Västerås]]></name></wpt>
+  <wpt lat="63.53948" lon="16.47013"><name><![CDATA[Ramsele Storgatan, Ramsele]]></name></wpt>
+  <wpt lat="59.41177" lon="16.47679"><name><![CDATA[Torshälla Eskilstunavägen, Torshälla]]></name></wpt>
+  <wpt lat="59.60502" lon="16.48278"><name><![CDATA[Västerås Hejargränd, Västerås]]></name></wpt>
+  <wpt lat="59.34196" lon="16.48645"><name><![CDATA[Eskilstuna Skjulstagatan, Eskilstuna]]></name></wpt>
+  <wpt lat="59.3562" lon="16.50147"><name><![CDATA[Eskilstuna Sturegatan, Eskilstuna]]></name></wpt>
+  <wpt lat="59.37742" lon="16.51967"><name><![CDATA[Eskilstuna Västerg, Eskilstuna]]></name></wpt>
+  <wpt lat="59.36615" lon="16.5211"><name><![CDATA[Eskilstuna Lundbladsv, Eskilstuna]]></name></wpt>
+  <wpt lat="59.60055" lon="16.52255"><name><![CDATA[Västerås Djuphamnsvägen, Västerås]]></name></wpt>
+  <wpt lat="56.68133" lon="16.52295"><name><![CDATA[Färjestaden Algutsrum, Färjestaden]]></name></wpt>
+  <wpt lat="60.58523" lon="16.52958"><name><![CDATA[Storvik Landsvägen, Storvik]]></name></wpt>
+  <wpt lat="59.63593" lon="16.54586"><name><![CDATA[Ids Minipris Västerås, Västerås]]></name></wpt>
+  <wpt lat="59.63593" lon="16.54586"><name><![CDATA[Västerås Grytarondellen, Västerås]]></name></wpt>
+  <wpt lat="59.61883" lon="16.55422"><name><![CDATA[Västerås Kopparbergsvägen, Västerås]]></name></wpt>
+  <wpt lat="59.64151" lon="16.56645"><name><![CDATA[Västerås Strömledn G (Tanka), Västerås]]></name></wpt>
+  <wpt lat="59.60814" lon="16.57323"><name><![CDATA[Västerås Viksäng (Tanka), Västerås]]></name></wpt>
+  <wpt lat="59.63237" lon="16.58141"><name><![CDATA[Västerås Norrleden, Västerås]]></name></wpt>
+  <wpt lat="58.21212" lon="16.58287"><name><![CDATA[Valdemarsvik Vammarg 1 (Tanka), Valdemarsvik]]></name></wpt>
+  <wpt lat="59.923" lon="16.58725"><name><![CDATA[Sala Berggatan (Tanka), Sala]]></name></wpt>
+  <wpt lat="59.05155" lon="16.59727"><name><![CDATA[Flen Brogatan, Flen]]></name></wpt>
+  <wpt lat="59.614641" lon="16.60233"><name><![CDATA[Österleden Biltvätt, Västerås]]></name></wpt>
+  <wpt lat="57.76757" lon="16.60517"><name><![CDATA[Västervik Breviksv (Tanka), Västervik]]></name></wpt>
+  <wpt lat="57.76171" lon="16.61075"><name><![CDATA[Västervik Allén, Västervik]]></name></wpt>
+  <wpt lat="59.91174" lon="16.61838"><name><![CDATA[Sala Gymnasiegatan, Sala]]></name></wpt>
+  <wpt lat="59.91549" lon="16.62251"><name><![CDATA[Sala Uppsalavägen, Sala]]></name></wpt>
+  <wpt lat="59.60964" lon="16.62504"><name><![CDATA[Västerås Hällamotet, Västerås]]></name></wpt>
+  <wpt lat="56.87747" lon="16.66304"><name><![CDATA[Borgholm (Tanka), Borgholm]]></name></wpt>
+  <wpt lat="64.62389" lon="16.6635"><name><![CDATA[Vilhelmina Volgsjövägen 41, Vilhelmina]]></name></wpt>
+  <wpt lat="64.62228" lon="16.66585"><name><![CDATA[Vilhelmina Volgsjövägen 58, Vilhelmina]]></name></wpt>
+  <wpt lat="56.87369" lon="16.66792"><name><![CDATA[Borgholm Storgatan, Borgholm]]></name></wpt>
+  <wpt lat="64.61322" lon="16.68314"><name><![CDATA[Vilhelmina Aut, Vilhelmina]]></name></wpt>
+  <wpt lat="59.34229" lon="16.69818"><name><![CDATA[Ids Eskilstuna, Eskilstuna]]></name></wpt>
+  <wpt lat="60.87296" lon="16.70304"><name><![CDATA[Ockelbo Planks Väg, Ockelbo]]></name></wpt>
+  <wpt lat="60.62339" lon="16.7681"><name><![CDATA[Sandviken Gävlevägen (Tanka), Sandviken]]></name></wpt>
+  <wpt lat="60.62349" lon="16.77038"><name><![CDATA[Sandviken Linggatan, Sandviken]]></name></wpt>
+  <wpt lat="58.80284" lon="16.78539"><name><![CDATA[Stigtomta Bärbovägen, Stigtomta]]></name></wpt>
+  <wpt lat="59.93505" lon="16.86988"><name><![CDATA[Heby Verkstadsgatan, Heby]]></name></wpt>
+  <wpt lat="63.69521" lon="16.88794"><name><![CDATA[Junsele Köpmangatan, Junsele]]></name></wpt>
+  <wpt lat="60.61356" lon="16.89037"><name><![CDATA[Forsbacka, Forsbacka]]></name></wpt>
+  <wpt lat="61.07134" lon="16.96725"><name><![CDATA[Söderhamn Tönnebro, Stråtjära]]></name></wpt>
+  <wpt lat="61.07125" lon="16.96739"><name><![CDATA[Ids Tönnebro, Söderhamn]]></name></wpt>
+  <wpt lat="58.74943" lon="16.97788"><name><![CDATA[Nyköping Gumsbacken (Tanka), Nyköping]]></name></wpt>
+  <wpt lat="60.63192" lon="16.9893"><name><![CDATA[Valbo Mackmyra, Valbo]]></name></wpt>
+  <wpt lat="58.74788" lon="17.00164"><name><![CDATA[Nyköping Teatergatan, Nyköping]]></name></wpt>
+  <wpt lat="57.1633" lon="17.01214"><name><![CDATA[Löttorp Högby, Löttorp]]></name></wpt>
+  <wpt lat="62.34454" lon="17.01806"><name><![CDATA[Matfors, Matfors]]></name></wpt>
+  <wpt lat="59.32816" lon="17.01884"><name><![CDATA[Strängnäs Kalkstensg (Tanka), Strängnäs]]></name></wpt>
+  <wpt lat="61.2951" lon="17.019"><name><![CDATA[Söderhamn Stickvägen, Söderhamn]]></name></wpt>
+  <wpt lat="59.36711" lon="17.02348"><name><![CDATA[Strängnäs Markörvägen, Strängnäs]]></name></wpt>
+  <wpt lat="58.7689" lon="17.02562"><name><![CDATA[Nyköping Gustavsbergsstigen, Nyköping]]></name></wpt>
+  <wpt lat="61.714866" lon="17.044744"><name><![CDATA[Hudiksvall Helsingeporten, Hudiksvall]]></name></wpt>
+  <wpt lat="61.97659" lon="17.055"><name><![CDATA[Bergsjö Schönströmsvägen, Bergsjö]]></name></wpt>
+  <wpt lat="61.31129" lon="17.06019"><name><![CDATA[Söderhamn Norralagatan, Söderhamn]]></name></wpt>
+  <wpt lat="61.29463" lon="17.06444"><name><![CDATA[Söderhamn Flygvägen (Tanka), Söderhamn]]></name></wpt>
+  <wpt lat="59.65754" lon="17.07702"><name><![CDATA[Enköping Grusgatan (Tanka), Enköping]]></name></wpt>
+  <wpt lat="59.63213" lon="17.08329"><name><![CDATA[Enköping Sandgatan, Enköping]]></name></wpt>
+  <wpt lat="59.64762" lon="17.08381"><name><![CDATA[Enköping Gesällgatan, Enköping]]></name></wpt>
+  <wpt lat="61.73406" lon="17.09657"><name><![CDATA[Hudiksvall Kullbäcksv (Tanka), Hudiksvall]]></name></wpt>
+  <wpt lat="61.71873" lon="17.09718"><name><![CDATA[Hudiksvall Södra Vägen, Hudiksvall]]></name></wpt>
+  <wpt lat="58.66862" lon="17.10684"><name><![CDATA[Oxelösund Styrmansgatan, Oxelösund]]></name></wpt>
+  <wpt lat="65.10471" lon="17.12265"><name><![CDATA[Storuman Blå Vägen, Storuman]]></name></wpt>
+  <wpt lat="60.65676" lon="17.1332"><name><![CDATA[Gävle Skogmursvägen, Gävle]]></name></wpt>
+  <wpt lat="60.6431" lon="17.14318"><name><![CDATA[Gävle Ingenjörsg Snabbtvätt, Gävle]]></name></wpt>
+  <wpt lat="60.70114" lon="17.15289"><name><![CDATA[Gävle Forsbyvägen, Gävle]]></name></wpt>
+  <wpt lat="60.66205" lon="17.15902"><name><![CDATA[Gävle S.Kungsg 61-63 (Tanka), Gävle]]></name></wpt>
+  <wpt lat="60.67765" lon="17.16378"><name><![CDATA[Gävle Skeppsbron, Gävle]]></name></wpt>
+  <wpt lat="60.67012" lon="17.1843"><name><![CDATA[Gävle Brynäsgatan, Gävle]]></name></wpt>
+  <wpt lat="59.6605" lon="17.24185"><name><![CDATA[Grillby Grillbyvägen, Grillby]]></name></wpt>
+  <wpt lat="62.05664" lon="17.266385"><name><![CDATA[Gnarp Åkne, Gnarp]]></name></wpt>
+  <wpt lat="62.39228" lon="17.2674"><name><![CDATA[Sundsvall Bergsg Bultg, Sundsvall]]></name></wpt>
+  <wpt lat="62.38956" lon="17.27703"><name><![CDATA[Sundsvall Bultgatan (Tanka), Sundsvall]]></name></wpt>
+  <wpt lat="63.16222" lon="17.30491"><name><![CDATA[Sollefteå Storgatan (Tanka), Sollefteå]]></name></wpt>
+  <wpt lat="63.16099" lon="17.30806"><name><![CDATA[Sollefteå Storgatan, Sollefteå]]></name></wpt>
+  <wpt lat="62.38654" lon="17.30824"><name><![CDATA[Sundsvall Östra Långgatan, Sundsvall]]></name></wpt>
+  <wpt lat="62.48244" lon="17.31453"><name><![CDATA[Timrå Vitögatan, Timrå]]></name></wpt>
+  <wpt lat="62.49342" lon="17.32735"><name><![CDATA[Timrå Terminalv 4 (Tanka), Timrå]]></name></wpt>
+  <wpt lat="62.448628" lon="17.327797"><name><![CDATA[Ids Sundsvall, Sundsvall]]></name></wpt>
+  <wpt lat="62.44857" lon="17.32818"><name><![CDATA[Sundsvall Birsta, Sundsvall]]></name></wpt>
+  <wpt lat="59.03451" lon="17.33086"><name><![CDATA[Gnesta, Gnesta]]></name></wpt>
+  <wpt lat="62.39821" lon="17.33978"><name><![CDATA[Sundsvall Gillebergsvägen, Sundsvall]]></name></wpt>
+  <wpt lat="62.41571" lon="17.34258"><name><![CDATA[Sundsvall Norra Vägen, Sundsvall]]></name></wpt>
+  <wpt lat="64.16217" lon="17.35332"><name><![CDATA[Åsele Centralgatan, Åsele]]></name></wpt>
+  <wpt lat="62.38044" lon="17.3577"><name><![CDATA[Sundsvall Landsv.Allén (Tanka), Sundsvall]]></name></wpt>
+  <wpt lat="62.34404" lon="17.36098"><name><![CDATA[Sundsvall Kustvägen, Sundsvall]]></name></wpt>
+  <wpt lat="64.17589" lon="17.36419"><name><![CDATA[Åsele Aut, Åsele]]></name></wpt>
+  <wpt lat="58.91647" lon="17.36827"><name><![CDATA[Sillekrog Norr, Tystberga]]></name></wpt>
+  <wpt lat="58.91629" lon="17.36856"><name><![CDATA[Ids Sillekrog Norrgående, Tystberga]]></name></wpt>
+  <wpt lat="58.9185" lon="17.36926"><name><![CDATA[Ids Sillekrog Syd, Tystberga]]></name></wpt>
+  <wpt lat="58.91858" lon="17.36934"><name><![CDATA[Sillekrog Söder, Tystberga]]></name></wpt>
+  <wpt lat="62.30162" lon="17.37755"><name><![CDATA[Kvissleby Affärsgatan, Kvissleby]]></name></wpt>
+  <wpt lat="62.43255" lon="17.41397"><name><![CDATA[Alnön Maskinistvägen, Alnö]]></name></wpt>
+  <wpt lat="59.1906" lon="17.46031"><name><![CDATA[Nykvarn, Nykvarn]]></name></wpt>
+  <wpt lat="58.945054" lon="17.488652"><name><![CDATA[Vagnhärad Gnestavägen, Vagnhärad]]></name></wpt>
+  <wpt lat="62.50817" lon="17.49814"><name><![CDATA[Söråker Centrumvägen, Söråker]]></name></wpt>
+  <wpt lat="59.57444" lon="17.5173"><name><![CDATA[Bålsta Stockholmsvägen 36, Bålsta]]></name></wpt>
+  <wpt lat="60.33925" lon="17.51818"><name><![CDATA[Tierp Västra Tämnarvägen, Tierp]]></name></wpt>
+  <wpt lat="59.5642" lon="17.53722"><name><![CDATA[Bålsta Stockholmsvägen 117, Bålsta]]></name></wpt>
+  <wpt lat="65.53461" lon="17.54037"><name><![CDATA[Sorsele Stationsgatan, Sorsele]]></name></wpt>
+  <wpt lat="59.18606" lon="17.57413"><name><![CDATA[Södertälje Aut Genetaleden, Södertälje]]></name></wpt>
+  <wpt lat="59.0873" lon="17.57893"><name><![CDATA[Järna Floravägen, Järna]]></name></wpt>
+  <wpt lat="59.87194" lon="17.60114"><name><![CDATA[Uppsala Skebogatan, Uppsala]]></name></wpt>
+  <wpt lat="59.17872" lon="17.61492"><name><![CDATA[Södertälje Stålhamravägen, Södertälje]]></name></wpt>
+  <wpt lat="59.81676" lon="17.61908"><name><![CDATA[Uppsala Bernadottevägen, Uppsala]]></name></wpt>
+  <wpt lat="59.189154" lon="17.628294"><name><![CDATA[Södertälje Bangatan, Södertälje]]></name></wpt>
+  <wpt lat="59.86822" lon="17.62945"><name><![CDATA[Uppsala Svartbäcksgatan, Uppsala]]></name></wpt>
+  <wpt lat="59.20334" lon="17.64477"><name><![CDATA[Södertälje Bergaholmsvägen, Södertälje]]></name></wpt>
+  <wpt lat="59.20314" lon="17.65745"><name><![CDATA[Södertälje Morabergsv (Tanka), Södertälje]]></name></wpt>
+  <wpt lat="59.84881" lon="17.65992"><name><![CDATA[Uppsala Kungsgatan 97 (Tanka), Uppsala]]></name></wpt>
+  <wpt lat="59.868" lon="17.66163"><name><![CDATA[Uppsala Årstagatan, Uppsala]]></name></wpt>
+  <wpt lat="59.84786" lon="17.66389"><name><![CDATA[Uppsala Kungsgatan 80, Uppsala]]></name></wpt>
+  <wpt lat="59.94352" lon="17.66825"><name><![CDATA[Fullerö, Uppsala]]></name></wpt>
+  <wpt lat="59.623" lon="17.72168"><name><![CDATA[Sigtuna Uppsalavägen, Sigtuna]]></name></wpt>
+  <wpt lat="59.84415" lon="17.72917"><name><![CDATA[Ids Uppsala, Uppsala]]></name></wpt>
+  <wpt lat="59.47941" lon="17.72994"><name><![CDATA[Kungsängen Skolvägen, Kungsängen]]></name></wpt>
+  <wpt lat="59.84425" lon="17.72999"><name><![CDATA[Uppsala Säby, Uppsala]]></name></wpt>
+  <wpt lat="59.32323" lon="17.75126"><name><![CDATA[Skå Svanhagen, Skå]]></name></wpt>
+  <wpt lat="62.93452" lon="17.77098"><name><![CDATA[Kramfors Finnmarksvägen, Kramfors]]></name></wpt>
+  <wpt lat="62.92084" lon="17.78375"><name><![CDATA[Kramfors Högstavägen, Kramfors]]></name></wpt>
+  <wpt lat="59.28649" lon="17.80058"><name><![CDATA[Ekerö Åkerstigen, Ekerö]]></name></wpt>
+  <wpt lat="59.19262" lon="17.82566"><name><![CDATA[Tumba Däldvägen, Tumba]]></name></wpt>
+  <wpt lat="59.41431" lon="17.82615"><name><![CDATA[Järfälla Datavägen, Järfälla]]></name></wpt>
+  <wpt lat="59.21377" lon="17.82872"><name><![CDATA[Tumba Tuna (Tanka), Tumba]]></name></wpt>
+  <wpt lat="59.21377" lon="17.82872"><name><![CDATA[Tumba Tuna Snabbtvätt, Tumba]]></name></wpt>
+  <wpt lat="59.13994" lon="17.83244"><name><![CDATA[Grödinge Rosenhill, Grödinge]]></name></wpt>
+  <wpt lat="59.45092" lon="17.83271"><name><![CDATA[Järfälla Jättevägen 2, Järfälla]]></name></wpt>
+  <wpt lat="59.45066" lon="17.83399"><name><![CDATA[Järfälla Jättevägen, Järfälla]]></name></wpt>
+  <wpt lat="59.24371" lon="17.83577"><name><![CDATA[Norsborg Brunnavägen, Norsborg]]></name></wpt>
+  <wpt lat="62.67443" lon="17.83992"><name><![CDATA[Älandsbro Nässlandsvägen, Älandsbro]]></name></wpt>
+  <wpt lat="59.42081" lon="17.84513"><name><![CDATA[Järfälla Dackevägen (Tanka), Järfälla]]></name></wpt>
+  <wpt lat="59.42836" lon="17.84738"><name><![CDATA[Jakobsberg Värmevägen 1, Järfälla]]></name></wpt>
+  <wpt lat="59.42043" lon="17.8537"><name><![CDATA[Järfälla Enköpingsvägen, Järfälla]]></name></wpt>
+  <wpt lat="59.37345" lon="17.85543"><name><![CDATA[Vällingby Krossg (Tanka), Vällingby]]></name></wpt>
+  <wpt lat="59.25119" lon="17.86424"><name><![CDATA[Norsborg Tegelbruksvägen, Norsborg]]></name></wpt>
+  <wpt lat="59.39211" lon="17.86948"><name><![CDATA[Spånga Lunda, Spånga]]></name></wpt>
+  <wpt lat="59.61407" lon="17.87133"><name><![CDATA[Arlandastad Servogatan (Tanka), Arlandastad]]></name></wpt>
+  <wpt lat="59.61428" lon="17.87394"><name><![CDATA[Arlandastad Servogatan, Arlandastad]]></name></wpt>
+  <wpt lat="59.35823" lon="17.87614"><name><![CDATA[Vällingby Jämtlandsgatan, Vällingby]]></name></wpt>
+  <wpt lat="59.57659" lon="17.89587"><name><![CDATA[Rosersberg Tp179/E4, Rosersberg]]></name></wpt>
+  <wpt lat="62.64964" lon="17.89599"><name><![CDATA[Härnösand Saltviksvägen, Härnösand]]></name></wpt>
+  <wpt lat="59.57664" lon="17.89624"><name><![CDATA[Ids Rosersberg, Rosersberg]]></name></wpt>
+  <wpt lat="66.05108" lon="17.89832"><name><![CDATA[Arjeplog Lappvallsv, Arjeplog]]></name></wpt>
+  <wpt lat="59.27248" lon="17.90898"><name><![CDATA[Skärholmen Ekholmsvägen, Skärholmen]]></name></wpt>
+  <wpt lat="62.63976" lon="17.91239"><name><![CDATA[Härnösand Industrigat (Tanka), Härnösand]]></name></wpt>
+  <wpt lat="59.47345" lon="17.91401"><name><![CDATA[Sollentuna Kung Hans Väg 1, Sollentuna]]></name></wpt>
+  <wpt lat="59.4511" lon="17.92429"><name><![CDATA[Sollentuna Norrvikenleden, Sollentuna]]></name></wpt>
+  <wpt lat="59.41726" lon="17.92494"><name><![CDATA[Kista Kottbygatan, Kista]]></name></wpt>
+  <wpt lat="59.51344" lon="17.92624"><name><![CDATA[Upplands Väsby, Upplands Väsby]]></name></wpt>
+  <wpt lat="62.635605" lon="17.926429"><name><![CDATA[Härnösand Kaptensgatan, Härnösand]]></name></wpt>
+  <wpt lat="59.51544" lon="17.92648"><name><![CDATA[Upplands Väsby Glädjen (Tanka), Upplands Väsby]]></name></wpt>
+  <wpt lat="59.38568" lon="17.93685"><name><![CDATA[Spånga Rinkebysvängen, Spånga]]></name></wpt>
+  <wpt lat="59.40622" lon="17.93802"><name><![CDATA[Kista Danmarksgatan (Tanka), Kista]]></name></wpt>
+  <wpt lat="59.34031" lon="17.93971"><name><![CDATA[Bromma, Bromma]]></name></wpt>
+  <wpt lat="58.91728" lon="17.93997"><name><![CDATA[Nynäshamn Nynäsvägen, Nynäshamn]]></name></wpt>
+  <wpt lat="59.44562" lon="17.94229"><name><![CDATA[Sollentuna Häggvik, Sollentuna]]></name></wpt>
+  <wpt lat="59.28485" lon="17.94736"><name><![CDATA[Huddinge Häradsvägen (Tanka), Segeltorp]]></name></wpt>
+  <wpt lat="59.28515" lon="17.95467"><name><![CDATA[Hägersten Elisabeth Tamms Gata, Hägersten]]></name></wpt>
+  <wpt lat="58.91263" lon="17.95866"><name><![CDATA[Nynäshamn Aut, Nynäshamn]]></name></wpt>
+  <wpt lat="62.628335" lon="17.961101"><name><![CDATA[Härnösand Brännavägen, Härnösand]]></name></wpt>
+  <wpt lat="59.33509" lon="17.96962"><name><![CDATA[Bromma Ulvsundaplan (Tanka), Bromma]]></name></wpt>
+  <wpt lat="59.37685" lon="17.97148"><name><![CDATA[Sundbyberg Gesällvägen, Sundbyberg]]></name></wpt>
+  <wpt lat="59.40844" lon="17.97382"><name><![CDATA[Sollentuna Sollentunav, Sollentuna]]></name></wpt>
+  <wpt lat="59.3557" lon="17.97685"><name><![CDATA[Solna Hemvärnsgatan, Solna]]></name></wpt>
+  <wpt lat="59.28782" lon="17.98018"><name><![CDATA[Hägersten Mickelsbergsvägen, Hägersten]]></name></wpt>
+  <wpt lat="59.35815" lon="17.98687"><name><![CDATA[Solna Ankdammsgatan (Tanka), Solna]]></name></wpt>
+  <wpt lat="59.24535" lon="18.00042"><name><![CDATA[Huddinge Huddingevägen, Huddinge]]></name></wpt>
+  <wpt lat="59.36969" lon="18.00187"><name><![CDATA[Solna Mall Of Scandinavia, Solna]]></name></wpt>
+  <wpt lat="59.29478" lon="18.00284"><name><![CDATA[Hägersten Kontrollvägen, Hägersten]]></name></wpt>
+  <wpt lat="59.25013" lon="18.00924"><name><![CDATA[Huddinge Ågestavägen, Huddinge]]></name></wpt>
+  <wpt lat="59.35312" lon="18.01607"><name><![CDATA[Solna Solnavägen, Solna]]></name></wpt>
+  <wpt lat="59.29924" lon="18.02206"><name><![CDATA[Ids Årsta, Stockholm]]></name></wpt>
+  <wpt lat="59.379916" lon="18.02551"><name><![CDATA[Solna Kungshamravägen, Solna]]></name></wpt>
+  <wpt lat="59.41049" lon="18.03272"><name><![CDATA[Danderyd, Danderyd]]></name></wpt>
+  <wpt lat="59.2958" lon="18.03493"><name><![CDATA[Årsta Partihandlarvägen, Årsta]]></name></wpt>
+  <wpt lat="59.27109" lon="18.04367"><name><![CDATA[Bandhagen Bärbogränd, Bandhagen]]></name></wpt>
+  <wpt lat="59.34996" lon="18.04735"><name><![CDATA[Stockholm Sveavägen, Stockholm]]></name></wpt>
+  <wpt lat="59.43863" lon="18.05263"><name><![CDATA[Täby Enhagsv 2 (Tanka), Täby]]></name></wpt>
+  <wpt lat="59.43615" lon="18.06668"><name><![CDATA[Täby Näsbydalsvägen, Täby]]></name></wpt>
+  <wpt lat="59.53182" lon="18.07921"><name><![CDATA[Vallentuna, Vallentuna]]></name></wpt>
+  <wpt lat="60.06311" lon="18.08165"><name><![CDATA[Alunda, Alunda]]></name></wpt>
+  <wpt lat="59.53173" lon="18.0833"><name><![CDATA[Vallentuna Angarnsv (Tanka), Vallentuna]]></name></wpt>
+  <wpt lat="59.2887" lon="18.08471"><name><![CDATA[Johanneshov Arenavägen, Johanneshov]]></name></wpt>
+  <wpt lat="59.24622" lon="18.08969"><name><![CDATA[Farsta Forshagagatan, Farsta]]></name></wpt>
+  <wpt lat="59.14596" lon="18.11536"><name><![CDATA[Ids Haninge-Jordbro, Haninge]]></name></wpt>
+  <wpt lat="63.44893" lon="18.11747"><name><![CDATA[Bredbyn, Bredbyn]]></name></wpt>
+  <wpt lat="59.36924" lon="18.12058"><name><![CDATA[Lidingö Islinge Hamnväg, Lidingö]]></name></wpt>
+  <wpt lat="59.30703" lon="18.12818"><name><![CDATA[Nacka Värmdövägen, Nacka]]></name></wpt>
+  <wpt lat="59.3629" lon="18.13306"><name><![CDATA[Lidingö Drottningvägen, Lidingö]]></name></wpt>
+  <wpt lat="59.15612" lon="18.13442"><name><![CDATA[Handen Jordbrorondell Nynäsv, Handen]]></name></wpt>
+  <wpt lat="59.17866" lon="18.14452"><name><![CDATA[Haninge Nynäsvägen 23, Haninge]]></name></wpt>
+  <wpt lat="59.16509" lon="18.1618"><name><![CDATA[Haninge Kilowattv (Tanka), Handen]]></name></wpt>
+  <wpt lat="59.31326" lon="18.18228"><name><![CDATA[Nacka Skvaltans Väg, Nacka]]></name></wpt>
+  <wpt lat="63.01052" lon="18.18828"><name><![CDATA[Ullånger Centrumvägen, Ullånger]]></name></wpt>
+  <wpt lat="60.1748" lon="18.19068"><name><![CDATA[Gimo Uppsalavägen, Gimo]]></name></wpt>
+  <wpt lat="59.22011" lon="18.20708"><name><![CDATA[Tyresö Vendelsövägen, Tyresö]]></name></wpt>
+  <wpt lat="59.24275" lon="18.2153"><name><![CDATA[Tyresö Bollmorav 123 (Tanka), Tyresö]]></name></wpt>
+  <wpt lat="59.2491" lon="18.23267"><name><![CDATA[Tyresö Siklöjevägen, Tyresö]]></name></wpt>
+  <wpt lat="59.323797" lon="18.257203"><name><![CDATA[Saltsjö-Boo Kanholmsvägen, Saltsjö-Boo]]></name></wpt>
+  <wpt lat="57.62564" lon="18.27383"><name><![CDATA[Visby Färjeleden, Visby]]></name></wpt>
+  <wpt lat="59.48162" lon="18.28082"><name><![CDATA[Åkersberga Rallarv 9 (Tanka), Åkersberga]]></name></wpt>
+  <wpt lat="59.48122" lon="18.2838"><name><![CDATA[Åkersberga Rallarvägen 2, Åkersberga]]></name></wpt>
+  <wpt lat="63.42612" lon="18.2957"><name><![CDATA[Mellansel Västerselsvägen, Mellansel]]></name></wpt>
+  <wpt lat="57.63835" lon="18.30066"><name><![CDATA[Visby Kung Magnus Väg, Visby]]></name></wpt>
+  <wpt lat="59.63485" lon="18.33061"><name><![CDATA[Ids Minipris Roslagsstoppet, Vallentuna]]></name></wpt>
+  <wpt lat="59.63485" lon="18.33061"><name><![CDATA[Vallentuna Roslagsstoppet, Vallentuna]]></name></wpt>
+  <wpt lat="60.25597" lon="18.34751"><name><![CDATA[Östhammar Gammelbygatan, Östhammar]]></name></wpt>
+  <wpt lat="60.25631" lon="18.34976"><name><![CDATA[Östhammar Hantverksg (Tanka), Östhammar]]></name></wpt>
+  <wpt lat="59.74503" lon="18.37068"><name><![CDATA[Rimbo Roslagsvägen, Rimbo]]></name></wpt>
+  <wpt lat="57.2371" lon="18.3826"><name><![CDATA[Hemse Automat, Hemse]]></name></wpt>
+  <wpt lat="59.32873" lon="18.39307"><name><![CDATA[Gustavsberg Bleksängsvägen, Gustavsberg]]></name></wpt>
+  <wpt lat="57.5037" lon="18.4565"><name><![CDATA[Romakloster Visbyvägen, Romakloster]]></name></wpt>
+  <wpt lat="63.19905" lon="18.49798"><name><![CDATA[Bjästa, Bjästa]]></name></wpt>
+  <wpt lat="60.04836" lon="18.57524"><name><![CDATA[Hallstavik Uppsalav 73, Hallstavik]]></name></wpt>
+  <wpt lat="64.59953" lon="18.6675"><name><![CDATA[Lycksele Lilltjärnsv (Tanka), Lycksele]]></name></wpt>
+  <wpt lat="64.59222" lon="18.67957"><name><![CDATA[Lycksele Villarydsvägen, Lycksele]]></name></wpt>
+  <wpt lat="59.74771" lon="18.68851"><name><![CDATA[Norrtälje Stockholmsv 51, Norrtälje]]></name></wpt>
+  <wpt lat="59.76045" lon="18.6904"><name><![CDATA[Norrtälje Estunav (Tanka), Norrtälje]]></name></wpt>
+  <wpt lat="63.27251" lon="18.6906"><name><![CDATA[Domsjö Hörnett, Domsjö]]></name></wpt>
+  <wpt lat="64.58827" lon="18.69359"><name><![CDATA[Lycksele Umevägen, Lycksele]]></name></wpt>
+  <wpt lat="64.58883" lon="18.69684"><name><![CDATA[Lycksele Aut, Lycksele]]></name></wpt>
+  <wpt lat="63.29158" lon="18.70535"><name><![CDATA[Örnsköldsvik Härnösandsv 4, Örnsköldsvik]]></name></wpt>
+  <wpt lat="59.76797" lon="18.71954"><name><![CDATA[Norrtälje Grind Klövergatan, Norrtälje]]></name></wpt>
+  <wpt lat="63.30325" lon="18.71975"><name><![CDATA[Örnsköldsvik Ångermanl.G, Örnsköldsvik]]></name></wpt>
+  <wpt lat="63.30174" lon="18.72075"><name><![CDATA[Örnsköldsvik (Tanka), Örnsköldsvik]]></name></wpt>
+  <wpt lat="65.19192" lon="18.72576"><name><![CDATA[Malå Fabriksgatan, Malå]]></name></wpt>
+  <wpt lat="59.96499" lon="18.80416"><name><![CDATA[Väddö Norrtäljevägen, Väddö]]></name></wpt>
+  <wpt lat="57.70727" lon="18.80629"><name><![CDATA[Slite Storgatan, Slite]]></name></wpt>
+  <wpt lat="63.342384" lon="19.156237"><name><![CDATA[Husum Farbriksvägen, Husum]]></name></wpt>
+  <wpt lat="65.59471" lon="19.17039"><name><![CDATA[Arvidsjaur Storgatan, Arvidsjaur]]></name></wpt>
+  <wpt lat="63.93187" lon="19.22397"><name><![CDATA[Bjurholm Vännäsvägen (Tanka), Bjurholm]]></name></wpt>
+  <wpt lat="63.57574" lon="19.45999"><name><![CDATA[Nordmaling Rödviksvägen, Nordmaling]]></name></wpt>
+  <wpt lat="64.91511" lon="19.48626"><name><![CDATA[Norsjö, Norsjö]]></name></wpt>
+  <wpt lat="64.19787" lon="19.72311"><name><![CDATA[Vindeln Hökvägen, Vindeln]]></name></wpt>
+  <wpt lat="63.92038" lon="19.80704"><name><![CDATA[Vännäsby Kungstensvägen, Vännäsby]]></name></wpt>
+  <wpt lat="66.96044" lon="19.82179"><name><![CDATA[Porjus Industrivägen, Porjus]]></name></wpt>
+  <wpt lat="66.60582" lon="19.82343"><name><![CDATA[Jokkmokk Klockarvägen, Jokkmokk]]></name></wpt>
+  <wpt lat="64.03831" lon="20.05966"><name><![CDATA[Tavelsjö, Tavelsjö]]></name></wpt>
+  <wpt lat="63.8753" lon="20.06132"><name><![CDATA[Umeå Brännland, Umeå]]></name></wpt>
+  <wpt lat="63.84092" lon="20.18962"><name><![CDATA[Umeå Kronoskogsvägen, Umeå]]></name></wpt>
+  <wpt lat="63.8554" lon="20.20703"><name><![CDATA[Ids Umeå Västerslätt, Umeå]]></name></wpt>
+  <wpt lat="67.85716" lon="20.22998"><name><![CDATA[Kiruna Steinholtzg, Kiruna]]></name></wpt>
+  <wpt lat="63.81405" lon="20.24561"><name><![CDATA[Umeå Verkstadsgat (Tanka), Umeå]]></name></wpt>
+  <wpt lat="63.818" lon="20.25131"><name><![CDATA[Umeå Odlarvägen, Umeå]]></name></wpt>
+  <wpt lat="67.845837" lon="20.254886"><name><![CDATA[Kiruna Österleden, Kiruna]]></name></wpt>
+  <wpt lat="67.8482" lon="20.26155"><name><![CDATA[Kiruna Industrivägen 5 (Tanka), Kiruna]]></name></wpt>
+  <wpt lat="63.83242" lon="20.2802"><name><![CDATA[Umeå Parkvägen, Umeå]]></name></wpt>
+  <wpt lat="63.7983" lon="20.28266"><name><![CDATA[Umeå Alvik, Umeå]]></name></wpt>
+  <wpt lat="63.85202" lon="20.30151"><name><![CDATA[Umeå Formvägen, Umeå]]></name></wpt>
+  <wpt lat="63.81087" lon="20.32841"><name><![CDATA[Umeå Mineralvägen, Umeå]]></name></wpt>
+  <wpt lat="65.38483" lon="20.33009"><name><![CDATA[Långträsk Basvägen, Långträsk]]></name></wpt>
+  <wpt lat="63.71082" lon="20.37225"><name><![CDATA[Holmsund, Holmsund]]></name></wpt>
+  <wpt lat="64.86911" lon="20.38359"><name><![CDATA[Boliden Storgatan, Boliden]]></name></wpt>
+  <wpt lat="64.35373" lon="20.50481"><name><![CDATA[Bygdsiljum, Bygdsiljum]]></name></wpt>
+  <wpt lat="63.91056" lon="20.53514"><name><![CDATA[Sävar (Sävar Såg) Aut, Sävar]]></name></wpt>
+  <wpt lat="67.14877" lon="20.65888"><name><![CDATA[Gällivare Metallvägen, Gällivare]]></name></wpt>
+  <wpt lat="64.52119" lon="20.65963"><name><![CDATA[Burträsk, Burträsk]]></name></wpt>
+  <wpt lat="67.1492" lon="20.66089"><name><![CDATA[Gällivare Bilvägen (Tanka), Gällivare]]></name></wpt>
+  <wpt lat="67.13599" lon="20.68061"><name><![CDATA[Gällivare Luleåvägen, Gällivare]]></name></wpt>
+  <wpt lat="64.19244" lon="20.84921"><name><![CDATA[Robertsfors Storgatan, Robertsfors]]></name></wpt>
+  <wpt lat="64.75317" lon="20.94047"><name><![CDATA[Skellefteå Kanalgatan, Skellefteå]]></name></wpt>
+  <wpt lat="64.76231" lon="20.94804"><name><![CDATA[Skellefteå Erikslid, Skellefteå]]></name></wpt>
+  <wpt lat="64.73839" lon="20.9643"><name><![CDATA[Skellefteå Mackvägen 5, Skellefteå]]></name></wpt>
+  <wpt lat="64.72993" lon="20.97199"><name><![CDATA[Skellefteå Tjärnv (Tanka), Skellefteå]]></name></wpt>
+  <wpt lat="64.76279" lon="21.00261"><name><![CDATA[Skellefteå Nöppelbergsvägen, Skellefteå]]></name></wpt>
+  <wpt lat="65.67313" lon="21.005"><name><![CDATA[Älvsbyn Kyrkogårdsgatan, Älvsbyn]]></name></wpt>
+  <wpt lat="64.27264" lon="21.04699"><name><![CDATA[Ånäset Skolgatan, Ånäset]]></name></wpt>
+  <wpt lat="64.71647" lon="21.14042"><name><![CDATA[Ursviken Furunäsgatan, Ursviken]]></name></wpt>
+  <wpt lat="65.3391" lon="21.23053"><name><![CDATA[Roknäs Roknäsvägen, Roknäs]]></name></wpt>
+  <wpt lat="64.37296" lon="21.30129"><name><![CDATA[Lövånger, Lövånger]]></name></wpt>
+  <wpt lat="65.34591" lon="21.40273"><name><![CDATA[Öjebyn Gammelstadsvägen, Öjebyn]]></name></wpt>
+  <wpt lat="65.31998" lon="21.41809"><name><![CDATA[Piteå Turbovägen (Tanka), Öjebyn]]></name></wpt>
+  <wpt lat="65.318797" lon="21.434421"><name><![CDATA[Piteå Oktanvägen, Piteå]]></name></wpt>
+  <wpt lat="65.3185" lon="21.49333"><name><![CDATA[Piteå Norra Hamnen, Piteå]]></name></wpt>
+  <wpt lat="65.40991" lon="21.50346"><name><![CDATA[Norrfjärden Håkingevägen, Norrfjärden]]></name></wpt>
+  <wpt lat="65.23711" lon="21.52811"><name><![CDATA[Piteå Havsbadet, Piteå]]></name></wpt>
+  <wpt lat="67.67502" lon="21.63037"><name><![CDATA[Vittangi Gästisvägen, Vittangi]]></name></wpt>
+  <wpt lat="65.82598" lon="21.67696"><name><![CDATA[Boden Brogatan, Boden]]></name></wpt>
+  <wpt lat="65.4313" lon="21.68941"><name><![CDATA[Rosvik Handelsgränd, Rosvik]]></name></wpt>
+  <wpt lat="65.82077" lon="21.70136"><name><![CDATA[Boden Sturegatan 10 (Tanka), Boden]]></name></wpt>
+  <wpt lat="65.55029" lon="21.84354"><name><![CDATA[Luleå Älvsbyvägen, Luleå]]></name></wpt>
+  <wpt lat="65.62328" lon="22.03907"><name><![CDATA[Ids Luleå, Luleå]]></name></wpt>
+  <wpt lat="65.61812" lon="22.04309"><name><![CDATA[Luleå Centralvägen, Luleå]]></name></wpt>
+  <wpt lat="65.61423" lon="22.10347"><name><![CDATA[Luleå Notviken, Luleå]]></name></wpt>
+  <wpt lat="65.59064" lon="22.14774"><name><![CDATA[Luleå Robertviksg, Luleå]]></name></wpt>
+  <wpt lat="65.59512" lon="22.15261"><name><![CDATA[Luleå Gammelstadsv 23 (Tanka), Luleå]]></name></wpt>
+  <wpt lat="65.58071" lon="22.16411"><name><![CDATA[Luleå Södra Hamnen, Luleå]]></name></wpt>
+  <wpt lat="65.58014" lon="22.18999"><name><![CDATA[Luleå Hertsövägen, Luleå]]></name></wpt>
+  <wpt lat="65.84985" lon="22.27646"><name><![CDATA[Råneå Sörsidan, Råneå]]></name></wpt>
+  <wpt lat="65.911074" lon="22.656933"><name><![CDATA[Töre, Töre]]></name></wpt>
+  <wpt lat="66.06947" lon="22.70963"><name><![CDATA[Morjärv Pionjärgatan, Morjärv]]></name></wpt>
+  <wpt lat="66.32472" lon="22.84625"><name><![CDATA[Överkalix Storgatan, Överkalix]]></name></wpt>
+  <wpt lat="65.85053" lon="23.11785"><name><![CDATA[Kalix Stabsvägen 11 (Tanka), Kalix]]></name></wpt>
+  <wpt lat="65.85423" lon="23.13584"><name><![CDATA[Kalix Strandgatan, Kalix]]></name></wpt>
+  <wpt lat="65.85348" lon="23.14799"><name><![CDATA[Kalix Parallellgatan, Kalix]]></name></wpt>
+  <wpt lat="67.20891" lon="23.36714"><name><![CDATA[Pajala Genvägen, Pajala]]></name></wpt>
+  <wpt lat="66.38268" lon="23.65001"><name><![CDATA[Övertorneå Sockenvägen, Övertorneå]]></name></wpt>
+  <wpt lat="65.84461" lon="24.12331"><name><![CDATA[Haparanda Ahlmarksv., Haparanda]]></name></wpt>
+</gpx>

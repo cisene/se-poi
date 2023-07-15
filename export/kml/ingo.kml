@@ -1,0 +1,2954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ingo</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Ingo</name>
+      <Placemark>
+        <name>INGO Brastad</name>
+        <description>INGO Brastad, Brastad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.481128,58.384699,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Hönö</name>
+        <description>INGO Hönö, Hönö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.646461,57.698605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Rotviksbro</name>
+        <description>INGO Rotviksbro, Uddevalla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.688408,58.343068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Varekil</name>
+        <description>INGO Varekil, Varekil, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.72283,58.12486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Häggvall Tjörn</name>
+        <description>INGO Häggvall Tjörn, Höviksnäs, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.734359,58.03837,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Stenungsund</name>
+        <description>INGO Stenungsund, Stenungsund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.828289,58.0775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Arendal</name>
+        <description>INGO Arendal, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.849311,57.706042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Västra Frölunda, Traneredsvägen</name>
+        <description>INGO Västra Frölunda, Traneredsvägen, Västra Frölunda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.888376,57.660263,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO VÄstra Frölunda, Åkered</name>
+        <description>INGO VÄstra Frölunda, Åkered, Västra Frölunda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.898951,57.635068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Uddevalla</name>
+        <description>INGO Uddevalla, Uddevalla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.91496,58.35384,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Västra Frölunda, Frölundamotet</name>
+        <description>INGO Västra Frölunda, Frölundamotet, Västra Frölunda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.916111,57.647525,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Uddevalla Göteborgsvägen</name>
+        <description>INGO Uddevalla Göteborgsvägen, Uddevalla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.922832,58.344416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Göteborg Sannegården</name>
+        <description>INGO Göteborg Sannegården, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.932311,57.710911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Uddevalla Helenedalsvägen</name>
+        <description>INGO Uddevalla Helenedalsvägen, Uddevalla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.932665,58.36794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Sisjön</name>
+        <description>INGO Sisjön, Askim, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.941602,57.641272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Göteborg, Minelundsvägen</name>
+        <description>INGO Göteborg, Minelundsvägen, Hisings backa, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.95619,57.730368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Kungälv</name>
+        <description>INGO Kungälv, Kungälv, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.984675,57.878149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Göteborg Tingstadsmotet</name>
+        <description>INGO Göteborg Tingstadsmotet, Hisings Backa, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.985401,57.730154,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Göteborg Bäckebolsmotet</name>
+        <description>INGO Göteborg Bäckebolsmotet, Hisings Backa, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.99475,57.75891,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Göteborg Grafiska Vägen</name>
+        <description>INGO Göteborg Grafiska Vägen, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.002292,57.682145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Göteborg Gamlestaden</name>
+        <description>INGO Göteborg Gamlestaden, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.005533,57.736462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Göteborg Hjällbo</name>
+        <description>INGO Göteborg Hjällbo, Angered, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.01465,57.76405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Göteborg Kviberg</name>
+        <description>INGO Göteborg Kviberg, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.02437,57.73592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Göteborg Gårdsten</name>
+        <description>INGO Göteborg Gårdsten, Angered, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.033769,57.801452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Kållered</name>
+        <description>INGO Kållered, Kållered, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.045693,57.618543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Kungsbacka</name>
+        <description>INGO Kungsbacka, Kungsbacka, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.068385,57.505323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Göteborg Utbyvägen</name>
+        <description>INGO Göteborg Utbyvägen, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.077908,57.740649,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Lödöse</name>
+        <description>INGO Lödöse, Lödöse, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.15346,58.02866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Bäckefors</name>
+        <description>INGO Bäckefors, Bäckefors, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.15348,58.80363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Bengtsfors</name>
+        <description>INGO Bengtsfors, Bengtsfors, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.234076,59.026113,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Morokulien</name>
+        <description>INGO Morokulien, Charlottenberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.24248,59.93089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Lerum</name>
+        <description>INGO Lerum, Lerum, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.262168,57.763336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Varberg</name>
+        <description>INGO Varberg, Varberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.263178,57.123109,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Frändefors</name>
+        <description>INGO Frändefors, Frändefors, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.266576,58.475575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Vänersborg Djupedalsvägen</name>
+        <description>INGO Vänersborg Djupedalsvägen, Vänersborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.30418,58.3832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Trollhättan Tunhemsvägen</name>
+        <description>INGO Trollhättan Tunhemsvägen, Trollhättan, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.30934,58.28857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Trollhättan Grafitvägen</name>
+        <description>INGO Trollhättan Grafitvägen, Trollhättan, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.3215,58.29885,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Vänersborg</name>
+        <description>INGO Vänersborg, Vänersborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.32775,58.364317,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Tvååker</name>
+        <description>INGO Tvååker, Tvååker, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.392106,57.043774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Hällingsjö</name>
+        <description>INGO Hällingsjö, Hällingsjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.435204,57.619445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Horred</name>
+        <description>INGO Horred, Horred, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.48182,57.36001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Falkenberg Söderleden</name>
+        <description>INGO Falkenberg Söderleden, Falkenberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.498376,56.895758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Alingsås</name>
+        <description>INGO Alingsås, Alingsås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.549752,57.928983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Arvika Palmviksgatan</name>
+        <description>INGO Arvika Palmviksgatan, Arvika, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.58485,59.656139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Viken Hälsingborgsvägen</name>
+        <description>INGO Viken Hälsingborgsvägen, Viken, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.587103,56.141434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Arvika Mötterudsvägen</name>
+        <description>INGO Arvika Mötterudsvägen, Arvika, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.616926,59.647356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Vessigebro</name>
+        <description>INGO Vessigebro, Vessigebro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.646036,56.978187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Skene</name>
+        <description>INGO Skene, Skene, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.667991,57.496694,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Åmål</name>
+        <description>INGO Åmål, Åmål, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.675408,59.055838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Helsingborg Filbornavägen</name>
+        <description>INGO Helsingborg Filbornavägen, Helsingborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.72827,56.05239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Helsingborg Kielergatan</name>
+        <description>INGO Helsingborg Kielergatan, Helsingborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.740567,56.005676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Halmstad Flygstaden</name>
+        <description>INGO Halmstad Flygstaden, Halmstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.799265,56.67382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Halmstad Kärleken</name>
+        <description>INGO Halmstad Kärleken, Halmstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.867908,56.693101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Landskrona</name>
+        <description>INGO Landskrona, Landskrona, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.886752,55.874872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Ängelholm</name>
+        <description>INGO Ängelholm, Ängelholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.88882,56.251158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Halmstad Andersberg</name>
+        <description>INGO Halmstad Andersberg, Halmstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.893711,56.660472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Vara E20</name>
+        <description>INGO Vara E20, Vara, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.91254,58.21595,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Duved</name>
+        <description>INGO Duved, Duved, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.91758,63.39259,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Malmö Bunkeflostrand</name>
+        <description>INGO Malmö Bunkeflostrand, Bunkeflostrand, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.91977,55.56036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Åstorp</name>
+        <description>INGO Åstorp, Åstorp, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.926773,56.135185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Borås Skaraborgsvägen</name>
+        <description>INGO Borås Skaraborgsvägen, Borås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.940038,57.730655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Borås Fristadsvägen</name>
+        <description>INGO Borås Fristadsvägen, Borås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.947699,57.753789,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Vara Kungsgatan</name>
+        <description>INGO Vara Kungsgatan, Vara, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.957247,58.267247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Ekeby</name>
+        <description>INGO Ekeby, Ekeby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.962363,56.005616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Borås Gånghestervägen</name>
+        <description>INGO Borås Gånghestervägen, Borås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.973416,57.703803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Munka Ljungby</name>
+        <description>INGO Munka Ljungby, Munka-Ljungby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.973679,56.254829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Malmö Lorensbergsgatan</name>
+        <description>INGO Malmö Lorensbergsgatan, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.982546,55.589096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Malmö Pildammsvägen</name>
+        <description>INGO Malmö Pildammsvägen, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.98584,55.563766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Fristad RV42</name>
+        <description>INGO Fristad RV42, Fristad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.01278,57.813846,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Vägsjöfors</name>
+        <description>INGO Vägsjöfors, Torsby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.028808,60.274638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Laholm</name>
+        <description>INGO Laholm, Laholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.033028,56.500855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Malmö Sallerupsvägen</name>
+        <description>INGO Malmö Sallerupsvägen, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.03876,55.600537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Malmö Lundavägen</name>
+        <description>INGO Malmö Lundavägen, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.0448,55.61581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Malmö Rosengård</name>
+        <description>INGO Malmö Rosengård, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.047624,55.587089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Malmö Jägersro</name>
+        <description>INGO Malmö Jägersro, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.057549,55.572359,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Trelleborg</name>
+        <description>INGO Trelleborg, Trelleborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.087033,55.384993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Malmö Toftanäs/Flansbjer</name>
+        <description>INGO Malmö Toftanäs/Flansbjer, Arlöv, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.094695,55.607382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Sunne</name>
+        <description>INGO Sunne, Sunne, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.13832,59.82829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Klippan</name>
+        <description>INGO Klippan, Klippan, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.14919,56.13532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Lidköping</name>
+        <description>INGO Lidköping, Lidköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.174092,58.498233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Staffanstorp</name>
+        <description>INGO Staffanstorp, Staffanstorp, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.186708,55.629925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Lund</name>
+        <description>INGO Lund, Lund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.189457,55.695338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Hyltebruk</name>
+        <description>INGO Hyltebruk, Hyltebruk, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.240242,57.005294,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Transtrand</name>
+        <description>INGO Transtrand, Transtrand, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.309,61.09991,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Eslöv</name>
+        <description>INGO Eslöv, Eslöv, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.309047,55.833596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Kil</name>
+        <description>INGO Kil, Kil, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.32362,59.50451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Skeppshult</name>
+        <description>INGO Skeppshult, Skeppshult, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.37918,57.126032,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Perstorp</name>
+        <description>INGO Perstorp, Perstorp, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.39238,56.13866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Skara</name>
+        <description>INGO Skara, Skara, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.444263,58.384511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Karlstad Våxnäs</name>
+        <description>INGO Karlstad Våxnäs, Karlstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.48019,59.384413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Karlstad Sandbäcksgatan</name>
+        <description>INGO Karlstad Sandbäcksgatan, Karlstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.497097,59.390648,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Skurup</name>
+        <description>INGO Skurup, Skurup, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.49942,55.48291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Karlstad Lantvärnsgatan</name>
+        <description>INGO Karlstad Lantvärnsgatan, Karlstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.523888,59.382237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Munkfors</name>
+        <description>INGO Munkfors, Munkfors, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.52727,59.82885,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Höör</name>
+        <description>INGO Höör, Höör, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.544524,55.927346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Hässleholm</name>
+        <description>INGO Hässleholm, Hässleholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.74691,56.156788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Hässleholm Esplanadgatan</name>
+        <description>INGO Hässleholm Esplanadgatan, Hässleholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.773437,56.162197,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Ystad</name>
+        <description>INGO Ystad, Ystad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.80584,55.443746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Mariestad E20</name>
+        <description>INGO Mariestad E20, Mariestad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.814621,58.678137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Mariestad</name>
+        <description>INGO Mariestad, Mariestad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.83653,58.709803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Skövde G Adolfsgatan</name>
+        <description>INGO Skövde G Adolfsgatan, Skövde, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.854026,58.406724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Vemdalen</name>
+        <description>INGO Vemdalen, Vemdalen, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.86272,62.44862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Mullsjö</name>
+        <description>INGO Mullsjö, Mullsjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.87171,57.91401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Skövde Norregårdsvägen</name>
+        <description>INGO Skövde Norregårdsvägen, Skövde, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.877177,58.393433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Ljungby Ringvägen</name>
+        <description>INGO Ljungby Ringvägen, Ljungby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.906262,56.813528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Tomelilla</name>
+        <description>INGO Tomelilla, Tomelilla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.913243,55.560095,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Tomelilla Tryde</name>
+        <description>INGO Tomelilla Tryde, Tomelilla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.93348,55.55536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Ljungby</name>
+        <description>INGO Ljungby, Ljungby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.945914,56.841257,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Lagan</name>
+        <description>INGO Lagan, Lagan, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.97132,56.91847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Tollarp</name>
+        <description>INGO Tollarp, Tollarp, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.9892,55.9318,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Ölme</name>
+        <description>INGO Ölme, Kristinehamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.010925,59.369931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Gullspång</name>
+        <description>INGO Gullspång, Gullspång, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.093193,58.986327,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Taberg</name>
+        <description>INGO Taberg, Taberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.09765,57.68205,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Kristinehamn</name>
+        <description>INGO Kristinehamn, Kristinehamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.105008,59.316159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Bankeryd</name>
+        <description>INGO Bankeryd, Bankeryd, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.11715,57.86611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Töreboda</name>
+        <description>INGO Töreboda, Töreboda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.128317,58.708799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Kristianstad Långebrogatan</name>
+        <description>INGO Kristianstad Långebrogatan, Kristianstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.138694,56.02089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Jönköping Kortebovägen</name>
+        <description>INGO Jönköping Kortebovägen, Jönköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.1488,57.80917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Kristianstad Lyckans Höjd</name>
+        <description>INGO Kristianstad Lyckans Höjd, Kristianstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.162091,56.03884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Kristianstad Snapphanevägen</name>
+        <description>INGO Kristianstad Snapphanevägen, Kristianstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.16534,56.05811,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Jönköping Herkulesvägen</name>
+        <description>INGO Jönköping Herkulesvägen, Jönköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.173831,57.76966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Tibro</name>
+        <description>INGO Tibro, Tibro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.17508,58.41925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Hova</name>
+        <description>INGO Hova, Hova, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.218443,58.861342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Jönköping Ekhagen</name>
+        <description>INGO Jönköping Ekhagen, Jönköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.221533,57.779457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Vansbro</name>
+        <description>INGO Vansbro, Vansbro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.2314,60.508823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Hjo</name>
+        <description>INGO Hjo, Hjo, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.256146,58.303095,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Åhus</name>
+        <description>INGO Åhus, Åhus, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.29174,55.93029,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Lönsboda</name>
+        <description>INGO Lönsboda, Lönsboda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.31907,56.39881,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Myrviken</name>
+        <description>INGO Myrviken, Oviken, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.34007,62.99941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Degerfors</name>
+        <description>INGO Degerfors, Degerfors, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.434411,59.241314,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Karlskoga</name>
+        <description>INGO Karlskoga, Karlskoga, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.507987,59.327264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Olofström</name>
+        <description>INGO Olofström, Olofström, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.5375,56.2778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Grythyttan</name>
+        <description>INGO Grythyttan, Grythyttan, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.54372,59.7057,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Lammhult</name>
+        <description>INGO Lammhult, Lammhult, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.575084,57.170491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Östersund Frösön</name>
+        <description>INGO Östersund Frösön, Frösön, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.582402,63.171225,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Sölvesborg</name>
+        <description>INGO Sölvesborg, Sölvesborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.59445,56.05925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Mora Noret</name>
+        <description>INGO Mora Noret, Mora, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.606,61.0063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Laxå</name>
+        <description>INGO Laxå, Laxå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.62499,58.98236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Östersund Hofvallen</name>
+        <description>INGO Östersund Hofvallen, Östersund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.639914,63.191127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Nässjö</name>
+        <description>INGO Nässjö, Nässjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.69158,57.657637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Östersund</name>
+        <description>INGO Östersund, Östersund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.69221,63.17661,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Växjö Mörners Väg</name>
+        <description>INGO Växjö Mörners Väg, Växjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.779556,56.888157,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Växjö Söderleden</name>
+        <description>INGO Växjö Söderleden, Växjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.785657,56.877216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Dala-Floda</name>
+        <description>INGO Dala-Floda, Dala-Floda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.802,60.50972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Lit</name>
+        <description>INGO Lit, Lit, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.8457,63.31623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Karlshamn</name>
+        <description>INGO Karlshamn, Karlshamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.84938,56.18519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Karlshamn Österport</name>
+        <description>INGO Karlshamn Österport, Karlshamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.88218,56.16677,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Askersund</name>
+        <description>INGO Askersund, Askersund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.91323,58.88673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Ytterhogdal</name>
+        <description>INGO Ytterhogdal, Ytterhogdal, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.95153,62.17071,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Eksjö</name>
+        <description>INGO Eksjö, Eksjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.954178,57.647442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Motala Bråstorp</name>
+        <description>INGO Motala Bråstorp, Motala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.035912,58.556111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Motala Lustigkullevägen</name>
+        <description>INGO Motala Lustigkullevägen, Motala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.06748,58.54095,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Hemavan</name>
+        <description>INGO Hemavan, Hemavan, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.08612,65.81888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Vetlanda</name>
+        <description>INGO Vetlanda, Vetlanda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.097324,57.424738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Guldsmedshyttan</name>
+        <description>INGO Guldsmedshyttan, Guldsmedshyttan, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.10077,59.69971,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Hallsberg</name>
+        <description>INGO Hallsberg, Hallsberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.10187,59.06821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Mjölby</name>
+        <description>INGO Mjölby, Mjölby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.11218,58.33109,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Kumla</name>
+        <description>INGO Kumla, Kumla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.139568,59.151044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Örebro Adolfsbergsvägen</name>
+        <description>INGO Örebro Adolfsbergsvägen, Örebro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.173361,59.258572,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Örebro Gustavsvik</name>
+        <description>INGO Örebro Gustavsvik, Örebro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.196943,59.250174,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Örebro Bettorpsgatan</name>
+        <description>INGO Örebro Bettorpsgatan, Örebro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.2309,59.30565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Lenhovda</name>
+        <description>INGO Lenhovda, Lenhovda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.27896,56.99716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Kallinge</name>
+        <description>INGO Kallinge, Kallinge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.28364,56.23813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Tärnaby</name>
+        <description>INGO Tärnaby, Tärnaby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.292253,65.713726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Borlänge Nygårdsvägen</name>
+        <description>INGO Borlänge Nygårdsvägen, Borlänge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.40471,60.47462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Borlänge Hammargatan</name>
+        <description>INGO Borlänge Hammargatan, Borlänge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.442595,60.47144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Strömsund</name>
+        <description>INGO Strömsund, Strömsund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.55487,63.85178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Linköping Industrigatan</name>
+        <description>INGO Linköping Industrigatan, Linköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.60126,58.41975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Falun</name>
+        <description>INGO Falun, Falun, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.61724,60.6228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Karlskrona Verkövägen</name>
+        <description>INGO Karlskrona Verkövägen, Karlskrona, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.635107,56.195795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Kisa</name>
+        <description>INGO Kisa, Kisa, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.63818,57.987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Linköping Gumpekullavägen</name>
+        <description>INGO Linköping Gumpekullavägen, Linköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.638518,58.416354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Linköping Högdalsgatan</name>
+        <description>INGO Linköping Högdalsgatan, Linköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.64621,58.39326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Linköping Åtvidabergsvägen</name>
+        <description>INGO Linköping Åtvidabergsvägen, Linköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.665093,58.400939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Ånge</name>
+        <description>INGO Ånge, Ånge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.6759,62.52467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Rimforsa</name>
+        <description>INGO Rimforsa, Rimforsa, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.67901,58.139367,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Linköping Järdalavägen</name>
+        <description>INGO Linköping Järdalavägen, Linköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.67902,58.38573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Säter Riksväg 70</name>
+        <description>INGO Säter Riksväg 70, Säter, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.74723,60.35008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Målilla</name>
+        <description>INGO Målilla, Målilla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.80821,57.38885,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Arboga Burskapsvägen</name>
+        <description>INGO Arboga Burskapsvägen, Arboga, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.828822,59.426569,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Vingåker</name>
+        <description>INGO Vingåker, Vingåker, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.86658,59.03841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Arboga</name>
+        <description>INGO Arboga, Arboga, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.889843,59.395568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Borgsjö</name>
+        <description>INGO Borgsjö, Erikslund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.919934,62.537125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Köping</name>
+        <description>INGO Köping, Köping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.97544,59.51623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Högsby</name>
+        <description>INGO Högsby, Högsby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.009271,57.167457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Norrköping De Geersgatan</name>
+        <description>INGO Norrköping De Geersgatan, Norrköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.139327,58.606765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Ingelsta Koppargatan</name>
+        <description>INGO Ingelsta Koppargatan, Norrköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.158596,58.611328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Norrköping Vagngatan</name>
+        <description>INGO Norrköping Vagngatan, Norrköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.162007,58.578627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Järvsö</name>
+        <description>INGO Järvsö, Järvsö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.16425,61.70545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Hoting</name>
+        <description>INGO Hoting, Hoting, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.172068,64.107343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Avesta</name>
+        <description>INGO Avesta, Avesta, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.177059,60.155337,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Katrineholm Vasavägen</name>
+        <description>INGO Katrineholm Vasavägen, Katrineholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.21169,58.99552,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Norrköping Hageby Centrum</name>
+        <description>INGO Norrköping Hageby Centrum, Norrköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.212822,58.57376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Norrköping Lindövägen</name>
+        <description>INGO Norrköping Lindövägen, Norrköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.21561,58.59123,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Hallstahammar</name>
+        <description>INGO Hallstahammar, Hallstahammar, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.236161,59.610654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Kalmar Wismark</name>
+        <description>INGO Kalmar Wismark, Kalmar, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.32554,56.69306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Kalmar Södra Vägen</name>
+        <description>INGO Kalmar Södra Vägen, Kalmar, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.327234,56.666905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Hammarstrand</name>
+        <description>INGO Hammarstrand, Hammarstrand, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.35244,63.11142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Bollnäs</name>
+        <description>INGO Bollnäs, Bollnäs, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.39738,61.3563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Oskarshamn</name>
+        <description>INGO Oskarshamn, Oskarshamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.458547,57.260545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Västerås Erikslund</name>
+        <description>INGO Västerås Erikslund, Västerås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.462611,59.618606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Västerås Gjutjärnsgatan</name>
+        <description>INGO Västerås Gjutjärnsgatan, Västerås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.491418,59.594539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Eskilstuna</name>
+        <description>INGO Eskilstuna, Eskilstuna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.5076,59.3851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Delsbo</name>
+        <description>INGO Delsbo, Delsbo, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.5521,61.79855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Kilafors</name>
+        <description>INGO Kilafors, Kilafors, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.56428,61.23012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Västerås Strömledningsgatan</name>
+        <description>INGO Västerås Strömledningsgatan, Västerås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.568403,59.642716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Stöde</name>
+        <description>INGO Stöde, Stöde, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.58383,62.41768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Valdemarsvik</name>
+        <description>INGO Valdemarsvik, Valdemarsvik, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.5848,58.21135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Västervik</name>
+        <description>INGO Västervik, Västervik, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.598371,57.764677,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Västerås Österleden</name>
+        <description>INGO Västerås Österleden, Västerås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.599854,59.62277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Sala</name>
+        <description>INGO Sala, Sala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.6165,59.918,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Västervik Allén</name>
+        <description>INGO Västervik Allén, Västervik, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.61718,57.75958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Bispgården</name>
+        <description>INGO Bispgården, Bispgården, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.66239,63.01001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Borgholm</name>
+        <description>INGO Borgholm, Borgholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.66382,56.87684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Malmköping</name>
+        <description>INGO Malmköping, Malmköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.718573,59.140949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Sandviken Vallhov</name>
+        <description>INGO Sandviken Vallhov, Sandviken, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.741403,60.621386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Heby</name>
+        <description>INGO Heby, Heby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.86852,59.93499,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Nyköping Oppeby</name>
+        <description>INGO Nyköping Oppeby, Nyköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.98695,58.76975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Nyköping</name>
+        <description>INGO Nyköping, Nyköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.02861,58.74832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Enköping DR Westerlundsgatan</name>
+        <description>INGO Enköping DR Westerlundsgatan, Enköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.07011,59.63755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Enköping Grusgatan</name>
+        <description>INGO Enköping Grusgatan, Enköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.07736,59.65786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Hudiksvall</name>
+        <description>INGO Hudiksvall, Hudiksvall, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.094227,61.71721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Oxelösund</name>
+        <description>INGO Oxelösund, Oxelösund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.0984,58.67271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Storuman</name>
+        <description>INGO Storuman, Storuman, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.12211,65.10939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Enköping Annelund</name>
+        <description>INGO Enköping Annelund, Enköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.141676,59.646896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Gävle Ingenjörsgatan</name>
+        <description>INGO Gävle Ingenjörsgatan, Gävle, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.147337,60.64553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Gävle Strömsbrovägen</name>
+        <description>INGO Gävle Strömsbrovägen, Gävle, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.15325,60.68585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Gävle Hemlingby</name>
+        <description>INGO Gävle Hemlingby, Gävle, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.16,60.6605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Sundsvall Bultgatan</name>
+        <description>INGO Sundsvall Bultgatan, Sundsvall, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.26698,62.39279,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Timrå</name>
+        <description>INGO Timrå, Timrå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.32836,62.48935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Birsta</name>
+        <description>INGO Birsta, Sundsvall, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.33245,62.4425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Birsta Antennvägen</name>
+        <description>INGO Birsta Antennvägen, Sundsvall, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.34351,62.44189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Sundsvall Brofästet</name>
+        <description>INGO Sundsvall Brofästet, Sundsvall, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.358018,62.380253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Åsele</name>
+        <description>INGO Åsele, Åsele, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.36952,64.16775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Nykvarn</name>
+        <description>INGO Nykvarn, Nykvarn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.43657,59.17581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Tierp</name>
+        <description>INGO Tierp, Tierp, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.5193,60.3413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Trosa</name>
+        <description>INGO Trosa, Trosa, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.5509,58.90985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Uppsala ICA Maxi</name>
+        <description>INGO Uppsala ICA Maxi, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.56115,59.84854,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Södertälje Scaniarinken</name>
+        <description>INGO Södertälje Scaniarinken, Södertälje, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.569421,59.190468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Södertälje Nyköpingsvägen 52</name>
+        <description>INGO Södertälje Nyköpingsvägen 52, Södertälje, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.628008,59.187104,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Uppsala Svartbäcksgatan</name>
+        <description>INGO Uppsala Svartbäcksgatan, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.62811,59.86894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO BRO</name>
+        <description>INGO BRO, Bro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.64059,59.51436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO SÖDERTÄLJE SYD</name>
+        <description>INGO SÖDERTÄLJE SYD, Södertälje, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.64181,59.15855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Södertälje Bergaholmsvägen</name>
+        <description>INGO Södertälje Bergaholmsvägen, Södertälje, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.64451,59.20425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Uppsala Fullerö</name>
+        <description>INGO Uppsala Fullerö, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.658978,59.940568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Uppsala Kungsgatan</name>
+        <description>INGO Uppsala Kungsgatan, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.66049,59.84911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Uppsala Kungsgatan 103</name>
+        <description>INGO Uppsala Kungsgatan 103, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.66307,59.8466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Uppsala Fyrislund</name>
+        <description>INGO Uppsala Fyrislund, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.68764,59.85831,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Uppsala Vilan</name>
+        <description>INGO Uppsala Vilan, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.69775,59.82057,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Kungsängen</name>
+        <description>INGO Kungsängen, Kungsängen, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.72581,59.47843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Uppsala E4S</name>
+        <description>INGO Uppsala E4S, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.72873,59.84468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Nyland</name>
+        <description>INGO Nyland, Nyland, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.756095,63.005645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Viksjö Plogvägen</name>
+        <description>INGO Viksjö Plogvägen, Järfälla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.79837,59.41314,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Hässelby Gård</name>
+        <description>INGO Hässelby Gård, Hässelby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.83889,59.36472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Sollentuna</name>
+        <description>INGO Sollentuna, Sollentuna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.85285,59.47737,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Fittja</name>
+        <description>INGO Fittja, Norsborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.85769,59.25116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Kungens Kurva</name>
+        <description>INGO Kungens Kurva, Kungens Kurva, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.89698,59.26604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Spånga</name>
+        <description>INGO Spånga, Spånga, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.90731,59.38575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Akalla</name>
+        <description>INGO Akalla, Kista, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.925256,59.416675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Upplands Väsby</name>
+        <description>INGO Upplands Väsby, Upplands Väsby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.9296,59.5143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Nynäshamn</name>
+        <description>INGO Nynäshamn, Nynäshamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.93813,58.91864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Solna</name>
+        <description>INGO Solna, Solna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.00496,59.35017,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Älvsjö</name>
+        <description>INGO Älvsjö, Älvsjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.01338,59.27222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Danderyd</name>
+        <description>INGO Danderyd, Danderyd, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.03474,59.41264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Täby</name>
+        <description>INGO Täby, Täby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.04257,59.44021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Fagersjö</name>
+        <description>INGO Fagersjö, Farsta, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.06468,59.24799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Jordbro</name>
+        <description>INGO Jordbro, Haninge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.122946,59.139245,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Skogås</name>
+        <description>INGO Skogås, Skogås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.15389,59.21687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Haninge Söderbyleden</name>
+        <description>INGO Haninge Söderbyleden, Haninge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.158351,59.180172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Handen</name>
+        <description>INGO Handen, Handen, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.160273,59.174909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Gottröra</name>
+        <description>INGO Gottröra, Rimbo, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.1612,59.73867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Nacka</name>
+        <description>INGO Nacka, Nacka, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.17541,59.31195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Åkersberga</name>
+        <description>INGO Åkersberga, Åkersberga, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.27726,59.4878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Östhammar</name>
+        <description>INGO Östhammar, Östhammar, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.3653,60.25959,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Gustavsberg</name>
+        <description>INGO Gustavsberg, Gustavsberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.383141,59.3077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Värmdö Centrum</name>
+        <description>INGO Värmdö Centrum, Ingarö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.42814,59.31305,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Romakloster</name>
+        <description>INGO Romakloster, Romakloster, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.45873,57.50093,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Bjästa</name>
+        <description>INGO Bjästa, Bjästa, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.49986,63.19977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Djurhamn</name>
+        <description>INGO Djurhamn, Djurhamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.66788,59.2908,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Örnsköldsvik Gullänget</name>
+        <description>INGO Örnsköldsvik Gullänget, Örnsköldsvik, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.696909,63.314814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Malå</name>
+        <description>INGO Malå, Malå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.74662,65.17898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Fårösund</name>
+        <description>INGO Fårösund, Fårösund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.051457,57.860084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Arvidsjaur</name>
+        <description>INGO Arvidsjaur, Arvidsjaur, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.189984,65.587515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Hörnefors</name>
+        <description>INGO Hörnefors, Hörnefors, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.91128,63.638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Umeå Carlshem</name>
+        <description>INGO Umeå Carlshem, Umeå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.311244,63.80196,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Skellefteå Degerbyn</name>
+        <description>INGO Skellefteå Degerbyn, Skellefteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.90176,64.75716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Skellefteå Solbacken</name>
+        <description>INGO Skellefteå Solbacken, Skellefteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.025253,64.766873,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Bureå</name>
+        <description>INGO Bureå, Bureå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.19927,64.61733,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Byske</name>
+        <description>INGO Byske, Byske, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.21062,64.95517,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Piteå</name>
+        <description>INGO Piteå, Piteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.4468,65.32343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGO Haparanda</name>
+        <description>INGO Haparanda, Haparanda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.12756,65.83923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

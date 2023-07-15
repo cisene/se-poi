@@ -1,0 +1,1224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Nordea</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Nordea</name>
+      <Placemark>
+        <name>Nordea Strömstad, Badhusgatan 5</name>
+        <description>Nordea Strömstad, Badhusgatan 5, Strömstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.171805,58.93814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Torslanda, Gamla Flygplatsvägen 42</name>
+        <description>Nordea Torslanda, Gamla Flygplatsvägen 42, Torslanda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.774429,57.70995,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Stenungsund, Stenungs Torg, Sandbergs Plats 4</name>
+        <description>Nordea Stenungsund, Stenungs Torg, Sandbergs Plats 4, Stenungsund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.817757,58.069614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Uddevalla, Karl Gustavsgatan 1</name>
+        <description>Nordea Uddevalla, Karl Gustavsgatan 1, Uddevalla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.927862,58.35164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Askim, Hantverksvägen 15</name>
+        <description>Nordea Askim, Hantverksvägen 15, Askim, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.947714,57.640705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Göteborg, Västra Hamngatan 1</name>
+        <description>Nordea Göteborg, Västra Hamngatan 1, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.962773,57.70539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Göteborg, Kilsgatan 4</name>
+        <description>Nordea Göteborg, Kilsgatan 4, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.972884,57.714256,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Kungälv, Uddevallavägen 12</name>
+        <description>Nordea Kungälv, Uddevallavägen 12, Kungälv, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.977767,57.87375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Göteborg, Rådgivning 7</name>
+        <description>Nordea Göteborg, Rådgivning 7, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.981379,57.693684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Mölndal, Storgatan 32a</name>
+        <description>Nordea Mölndal, Storgatan 32a, Mölndal, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.011438,57.655117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Kungsbacka, Vallgatan 3</name>
+        <description>Nordea Kungsbacka, Vallgatan 3, Kungsbacka, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.077225,57.4889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Partille, Gamla Kronvägen 50</name>
+        <description>Nordea Partille, Gamla Kronvägen 50, Partille, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.10791,57.7401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Mölnlycke, Lennart Kvarnströms Plats 6</name>
+        <description>Nordea Mölnlycke, Lennart Kvarnströms Plats 6, Mölnlycke, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.110406,57.65915,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Varberg, Västra Vallgatan 2, 3 Trappor</name>
+        <description>Nordea Varberg, Västra Vallgatan 2, 3 Trappor, Varberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.24884,57.10912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Lerum, Lilla Torget 7</name>
+        <description>Nordea Lerum, Lilla Torget 7, Lerum, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.267852,57.76967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Trollhättan, Storgatan 43</name>
+        <description>Nordea Trollhättan, Storgatan 43, Trollhättan, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.286218,58.28501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Falkenberg, Torggatan 1</name>
+        <description>Nordea Falkenberg, Torggatan 1, Falkenberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.490634,56.904152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Alingsås, Lilla Torget</name>
+        <description>Nordea Alingsås, Lilla Torget, Alingsås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.531972,57.928818,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Arvika, Torggatan 7</name>
+        <description>Nordea Arvika, Torggatan 7, Arvika, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.592182,59.655273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Helsingborg, Kullagatan 26</name>
+        <description>Nordea Helsingborg, Kullagatan 26, Helsingborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.692938,56.0483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Kinna, Kyrkogatan 2</name>
+        <description>Nordea Kinna, Kyrkogatan 2, Kinna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.695177,57.507706,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Halmstad, Nygatan 1</name>
+        <description>Nordea Halmstad, Nygatan 1, Halmstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.856172,56.670433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Ängelholm, Storgatan 26</name>
+        <description>Nordea Ängelholm, Storgatan 26, Ängelholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.862287,56.242466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Säffle, Stortorget 2</name>
+        <description>Nordea Säffle, Stortorget 2, Säffle, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.928711,59.132378,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Limhamn, Linnégatan 45</name>
+        <description>Nordea Limhamn, Linnégatan 45, Limhamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.933537,55.581463,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Borås, Västerbrogatan 8a 3 Vån</name>
+        <description>Nordea Borås, Västerbrogatan 8a 3 Vån, Borås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.935458,57.722027,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Malmö, Carlsgatan 6-8</name>
+        <description>Nordea Malmö, Carlsgatan 6-8, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.999395,55.610645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Torsby, Järnvägsgatan 2</name>
+        <description>Nordea Torsby, Järnvägsgatan 2, Torsby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.00762,60.134457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Trelleborg, Algatan 36</name>
+        <description>Nordea Trelleborg, Algatan 36, Trelleborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.155789,55.37448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Lidköping, Nya Stadens Torg 5</name>
+        <description>Nordea Lidköping, Nya Stadens Torg 5, Lidköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.157432,58.503162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Lund, Stora Södergatan 2</name>
+        <description>Nordea Lund, Stora Södergatan 2, Lund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.192552,55.70224,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Karlstad, Tingvallagatan 11</name>
+        <description>Nordea Karlstad, Tingvallagatan 11, Karlstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.503258,59.38013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Anderstorp, Ågatan 48</name>
+        <description>Nordea Anderstorp, Ågatan 48, Anderstorp, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.626671,57.282917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Hagfors, Kyrkogatan 2</name>
+        <description>Nordea Hagfors, Kyrkogatan 2, Hagfors, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.699004,60.031696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Hässleholm, Frykholmsgatan 4</name>
+        <description>Nordea Hässleholm, Frykholmsgatan 4, Hässleholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.765818,56.1588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Ystad, Stortorget 13</name>
+        <description>Nordea Ystad, Stortorget 13, Ystad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.819363,55.429005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Ystad, Stortorget 13</name>
+        <description>Nordea Ystad, Stortorget 13, Ystad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.819363,55.429005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Mariestad, Kungsgatan 6</name>
+        <description>Nordea Mariestad, Kungsgatan 6, Mariestad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.820595,58.70838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Skövde, Kyrkogatan 20</name>
+        <description>Nordea Skövde, Kyrkogatan 20, Skövde, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.843766,58.388676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Värnamo, Storgatan 24</name>
+        <description>Nordea Värnamo, Storgatan 24, Värnamo, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.042515,57.184452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Kristinehamn, Tegelslagaregatan 30</name>
+        <description>Nordea Kristinehamn, Tegelslagaregatan 30, Kristinehamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.107509,59.309242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Jönköping, Vaggerydsgatan 1</name>
+        <description>Nordea Jönköping, Vaggerydsgatan 1, Jönköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.154702,57.768776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Kristianstad, Västra Storgatan 51 U</name>
+        <description>Nordea Kristianstad, Västra Storgatan 51 U, Kristianstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.158525,56.02781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Karlskoga, Kilgatan 2</name>
+        <description>Nordea Karlskoga, Kilgatan 2, Karlskoga, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.523151,59.32581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Mora, Kyrkogatan 2</name>
+        <description>Nordea Mora, Kyrkogatan 2, Mora, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.54007,61.00662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Östersund, Storgatan 36</name>
+        <description>Nordea Östersund, Storgatan 36, Östersund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.635254,63.177177,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Nässjö, Stortorget 1</name>
+        <description>Nordea Nässjö, Stortorget 1, Nässjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.695883,57.653282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Växjö, Storgatan 82 A</name>
+        <description>Nordea Växjö, Storgatan 82 A, Växjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.774859,56.879993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Karlshamn, Christopher Schrödergatan 13</name>
+        <description>Nordea Karlshamn, Christopher Schrödergatan 13, Karlshamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.863948,56.17109,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Leksand, Torget</name>
+        <description>Nordea Leksand, Torget, Leksand, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.996833,60.732357,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Motala, Drottninggatan 50</name>
+        <description>Nordea Motala, Drottninggatan 50, Motala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.026103,58.537106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Vetlanda, Stationsgatan 1 B</name>
+        <description>Nordea Vetlanda, Stationsgatan 1 B, Vetlanda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.084446,57.42747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Ludvika, Storgatan 9</name>
+        <description>Nordea Ludvika, Storgatan 9, Ludvika, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.187976,60.15125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Örebro, Nygatan 15</name>
+        <description>Nordea Örebro, Nygatan 15, Örebro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.210379,59.27097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Borlänge, Stationsgatan 6</name>
+        <description>Nordea Borlänge, Stationsgatan 6, Borlänge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.43285,60.4851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Karlskrona, Ronnebygatan 34</name>
+        <description>Nordea Karlskrona, Ronnebygatan 34, Karlskrona, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.58863,56.16215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Linköping, Nygatan 30</name>
+        <description>Nordea Linköping, Nygatan 30, Linköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.623953,58.409607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Falun, Stora Torget</name>
+        <description>Nordea Falun, Stora Torget, Falun, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.629026,60.607697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Köping, Glasgatan 21</name>
+        <description>Nordea Köping, Glasgatan 21, Köping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.001596,59.510326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Avesta, Polervägen 10</name>
+        <description>Nordea Avesta, Polervägen 10, Avesta, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.172266,60.1494,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Norrköping, Drottninggatan 64</name>
+        <description>Nordea Norrköping, Drottninggatan 64, Norrköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.189257,58.58598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Katrineholm, Drottninggatan 11</name>
+        <description>Nordea Katrineholm, Drottninggatan 11, Katrineholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.204424,58.99392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Kalmar, Norra Långgatan 31</name>
+        <description>Nordea Kalmar, Norra Långgatan 31, Kalmar, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.364601,56.66464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Bollnäs, Västra Stationsgatan 7</name>
+        <description>Nordea Bollnäs, Västra Stationsgatan 7, Bollnäs, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.394007,61.348534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Eskilstuna, Fristadstorget 2</name>
+        <description>Nordea Eskilstuna, Fristadstorget 2, Eskilstuna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.515053,59.37134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Västerås, Stora Gatan 23</name>
+        <description>Nordea Västerås, Stora Gatan 23, Västerås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.546564,59.60907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Sala, Norrbygatan 7</name>
+        <description>Nordea Sala, Norrbygatan 7, Sala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.608376,59.91937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Västervik, Kvarngatan 16</name>
+        <description>Nordea Västervik, Kvarngatan 16, Västervik, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.639847,57.7581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Sandviken, Odengatan 40</name>
+        <description>Nordea Sandviken, Odengatan 40, Sandviken, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.775562,60.622272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Nyköping, Östra Storgatan 12</name>
+        <description>Nordea Nyköping, Östra Storgatan 12, Nyköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.014904,58.75418,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Strängnäs, Trädgårdsgatan 10</name>
+        <description>Nordea Strängnäs, Trädgårdsgatan 10, Strängnäs, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.026028,59.37656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Söderhamn, Köpmangatan 5</name>
+        <description>Nordea Söderhamn, Köpmangatan 5, Söderhamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.05386,61.301983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Enköping, Kungsgatan 21-23</name>
+        <description>Nordea Enköping, Kungsgatan 21-23, Enköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.078968,59.635326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Hudiksvall, Storgatan 35</name>
+        <description>Nordea Hudiksvall, Storgatan 35, Hudiksvall, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.108772,61.72773,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Gävle, Norra Kungsgatan 5</name>
+        <description>Nordea Gävle, Norra Kungsgatan 5, Gävle, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.144102,60.674324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Sollefteå, Storgatan 47-49</name>
+        <description>Nordea Sollefteå, Storgatan 47-49, Sollefteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.266407,63.168457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Sundsvall, Kyrkogatan 15</name>
+        <description>Nordea Sundsvall, Kyrkogatan 15, Sundsvall, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.308672,62.39012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Södertälje, Storgatan 2 B</name>
+        <description>Nordea Södertälje, Storgatan 2 B, Södertälje, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.628193,59.195263,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Uppsala, S:t Persgatan 21 A</name>
+        <description>Nordea Uppsala, S:t Persgatan 21 A, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.64117,59.86109,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Uppsala, Bolandsgatan 15 G, 1 Tr</name>
+        <description>Nordea Uppsala, Bolandsgatan 15 G, 1 Tr, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.68428,59.85238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Knivsta, Forsbyvägen 2</name>
+        <description>Nordea Knivsta, Forsbyvägen 2, Knivsta, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.790405,59.72546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Tumba, Tumba Torg 103</name>
+        <description>Nordea Tumba, Tumba Torg 103, Tumba, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.835045,59.199017,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Märsta, Raisiogatan 1</name>
+        <description>Nordea Märsta, Raisiogatan 1, Märsta, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.857,59.61898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Järfälla, Barkaby Bas Veddestabron 14</name>
+        <description>Nordea Järfälla, Barkaby Bas Veddestabron 14, Järfälla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.86208,59.407715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Vällingby, Solursgången 4</name>
+        <description>Nordea Vällingby, Solursgången 4, Vällingby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.873468,59.36323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Upplands Väsby, Centralvägen 3a</name>
+        <description>Nordea Upplands Väsby, Centralvägen 3a, Upplands Väsby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.902681,59.5214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Härnösand, Stora Torget 7</name>
+        <description>Nordea Härnösand, Stora Torget 7, Härnösand, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.938576,62.632614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Sollentuna, Sofielundsvägen 2, Plan 1</name>
+        <description>Nordea Sollentuna, Sofielundsvägen 2, Plan 1, Sollentuna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.94148,59.43911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Sollentuna, Sofielundsvägen 2, Gatuplanet</name>
+        <description>Nordea Sollentuna, Sofielundsvägen 2, Gatuplanet, Sollentuna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.9467,59.433826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Huddinge, Forelltorget 8</name>
+        <description>Nordea Huddinge, Forelltorget 8, Huddinge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.981049,59.236336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Solna, Evenemangsgatan 17 / Dalvägen 22</name>
+        <description>Nordea Solna, Evenemangsgatan 17 / Dalvägen 22, Solna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.00119,59.36933,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Älvsjö, Johan Skyttes Väg 192</name>
+        <description>Nordea Älvsjö, Johan Skyttes Väg 192, Älvsjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.007883,59.278675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Stockholm, Liljeholmstorget 7, Plan 5, Hiss A</name>
+        <description>Nordea Stockholm, Liljeholmstorget 7, Plan 5, Hiss A, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.021402,59.308605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Danderyd, Svärdvägen 3b</name>
+        <description>Nordea Danderyd, Svärdvägen 3b, Danderyd, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.034725,59.39963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Stockholm, Mäster Samuelsgatan 20</name>
+        <description>Nordea Stockholm, Mäster Samuelsgatan 20, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.068848,59.33423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Täby, Esplanaden 19, Plan 2. Entré K4 Från Täby Torg</name>
+        <description>Nordea Täby, Esplanaden 19, Plan 2. Entré K4 Från Täby Torg, Täby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.069563,59.444218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Stockholm, Smålandsgatan 15-17</name>
+        <description>Nordea Stockholm, Smålandsgatan 15-17, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.07058,59.332935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Stockholm, Norrlandsgatan 3</name>
+        <description>Nordea Stockholm, Norrlandsgatan 3, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.07119,59.333214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Stockholm, Katarina Bangata 13</name>
+        <description>Nordea Stockholm, Katarina Bangata 13, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.075222,59.312202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Farsta, Farstagången 28</name>
+        <description>Nordea Farsta, Farstagången 28, Farsta, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.090115,59.241657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Stockholm, Hammarby Allé 108</name>
+        <description>Nordea Stockholm, Hammarby Allé 108, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.101103,59.302475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Lidingö, Stockholmsvägen 33</name>
+        <description>Nordea Lidingö, Stockholmsvägen 33, Lidingö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.126587,59.364887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Haninge, Handenterminalen 3</name>
+        <description>Nordea Haninge, Handenterminalen 3, Haninge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.135923,59.16827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Nacka, Romansvägen 12</name>
+        <description>Nordea Nacka, Romansvägen 12, Nacka, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.166145,59.30908,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Åkersberga, Storängstorget 1</name>
+        <description>Nordea Åkersberga, Storängstorget 1, Åkersberga, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.298529,59.479427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Visby, Skolportsgatan 7</name>
+        <description>Nordea Visby, Skolportsgatan 7, Visby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.301514,57.63658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Östhammar, Drottninggatan 9</name>
+        <description>Nordea Östhammar, Drottninggatan 9, Östhammar, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.374006,60.258728,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Falun, Stora Torget</name>
+        <description>Nordea Falun, Stora Torget, Falun, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.643501,60.128162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Olika Orter, Olika Orter</name>
+        <description>Nordea Olika Orter, Olika Orter, Olika Orter, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.643501,60.128162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Lycksele, Storgatan 24</name>
+        <description>Nordea Lycksele, Storgatan 24, Lycksele, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.677908,64.59421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Norrtälje, Stora Brogatan 3</name>
+        <description>Nordea Norrtälje, Stora Brogatan 3, Norrtälje, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.70268,59.757965,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Örnsköldsvik, Hamngatan 15 B</name>
+        <description>Nordea Örnsköldsvik, Hamngatan 15 B, Örnsköldsvik, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.717205,63.288734,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Örnsköldsvik, Hamngatan 15</name>
+        <description>Nordea Örnsköldsvik, Hamngatan 15, Örnsköldsvik, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.717218,63.28869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Kiruna, Föreningsgatan 9</name>
+        <description>Nordea Kiruna, Föreningsgatan 9, Kiruna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.225492,67.85461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Umeå, Rådhusesplanaden 3</name>
+        <description>Nordea Umeå, Rådhusesplanaden 3, Umeå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.263142,63.826504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Skellefteå, Nygatan 42</name>
+        <description>Nordea Skellefteå, Nygatan 42, Skellefteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.951855,64.75062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Piteå, Hamnplan 9</name>
+        <description>Nordea Piteå, Hamnplan 9, Piteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.47804,65.315254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordea Luleå, Köpmangatan 38</name>
+        <description>Nordea Luleå, Köpmangatan 38, Luleå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.154362,65.58361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

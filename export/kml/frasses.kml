@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Frasses</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Frasses</name>
+      <Placemark>
+        <name>Frasses Sveg</name>
+        <description>Frasses Sveg, Sveg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.359312,62.033062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frasses Krokom</name>
+        <description>Frasses Krokom, Krokom, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.448187,63.326437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frasses Karlskoga</name>
+        <description>Frasses Karlskoga, Karlskoga, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.571938,59.328563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frasses Strömsund</name>
+        <description>Frasses Strömsund, Strömsund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.555563,63.849563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frasses Hoting</name>
+        <description>Frasses Hoting, Hoting, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.172187,64.107563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frasses Söderköping</name>
+        <description>Frasses Söderköping, Söderköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.335563,58.475188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frasses Kalmar</name>
+        <description>Frasses Kalmar, Kalmar, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.352438,56.662813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frasses Mönsterås</name>
+        <description>Frasses Mönsterås, Mönsterås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.436312,57.036313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frasses Vilhelmina</name>
+        <description>Frasses Vilhelmina, Vilhelmina, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.659188,64.624562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frasses Hudiksvall</name>
+        <description>Frasses Hudiksvall, Hudiksvall, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.103813,61.738062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frasses Storuman</name>
+        <description>Frasses Storuman, Storuman, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.122359,65.108962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frasses Uppsala</name>
+        <description>Frasses Uppsala, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.629937,59.810187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frasses Arjeplog</name>
+        <description>Frasses Arjeplog, Arjeplog, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.888312,66.051187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frasses Lycksele</name>
+        <description>Frasses Lycksele, Lycksele, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.679938,64.591813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frasses Norrtälje</name>
+        <description>Frasses Norrtälje, Norrtälje, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.688938,59.768062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frasses Malå</name>
+        <description>Frasses Malå, Malå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.746563,65.179063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frasses Arvidsjaur A-Grillen</name>
+        <description>Frasses Arvidsjaur A-Grillen, Arvidsjaur, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.179688,65.591188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frasses Norsjö</name>
+        <description>Frasses Norsjö, Norsjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.483313,64.911563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frasses Vindeln</name>
+        <description>Frasses Vindeln, Vindeln, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.715688,64.203563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frasses Vännäs</name>
+        <description>Frasses Vännäs, Vännäs, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.753563,63.908938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frasses Umeå Grubbe</name>
+        <description>Frasses Umeå Grubbe, Umeå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.219187,63.832687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frasses Kiruna</name>
+        <description>Frasses Kiruna, Kiruna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.254188,67.844687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frasses Gällivare</name>
+        <description>Frasses Gällivare, Gällivare, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.659062,67.149062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frasses Bygdeå</name>
+        <description>Frasses Bygdeå, Bygdeå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.849562,64.061562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frasses Piteå</name>
+        <description>Frasses Piteå, Piteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.420938,65.320813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frasses Boden</name>
+        <description>Frasses Boden, Boden, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.688063,65.825187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frasses Luleå</name>
+        <description>Frasses Luleå, Luleå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.189062,65.580187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frasses Pajala</name>
+        <description>Frasses Pajala, Pajala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.371437,67.210687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

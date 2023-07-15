@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Byggmax</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Byggmax</name>
+      <Placemark>
+        <name>Byggmax Fossumsbergsvägen 1</name>
+        <description>Byggmax Fossumsbergsvägen 1, Uddevalla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.95917,58.35222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Byggmax Transportgatan 39</name>
+        <description>Byggmax Transportgatan 39, Hisings Backa</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.00028,57.78,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Byggmax Gamla Riksvägen 10-12</name>
+        <description>Byggmax Gamla Riksvägen 10-12, Kållered</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.04583,57.61667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Byggmax Annebergsvägen 6</name>
+        <description>Byggmax Annebergsvägen 6, Varberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.27667,57.16472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Byggmax Garnisonsgatan 46</name>
+        <description>Byggmax Garnisonsgatan 46, Helsingborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.71222,56.08222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Byggmax Verkstadsgatan 2</name>
+        <description>Byggmax Verkstadsgatan 2, Halmstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.89333,56.65778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Byggmax Getängsvägen 36</name>
+        <description>Byggmax Getängsvägen 36, Borås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.925,57.73306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Byggmax Fraktvägen 1</name>
+        <description>Byggmax Fraktvägen 1, Löddeköpinge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.99694,55.76778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Byggmax Vellingevägen</name>
+        <description>Byggmax Vellingevägen, Vellinge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.015,55.48278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Byggmax Maskinvägen 7</name>
+        <description>Byggmax Maskinvägen 7, Staffanstorp</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.22833,55.65083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Byggmax Faktorigatan 5</name>
+        <description>Byggmax Faktorigatan 5, Karlstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.52556,59.38028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Byggmax Norregårdsvägen 25</name>
+        <description>Byggmax Norregårdsvägen 25, Skövde</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.89139,58.39583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Byggmax Industrigatan 2</name>
+        <description>Byggmax Industrigatan 2, Kristianstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.15694,56.0425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Byggmax Bultvägen 1</name>
+        <description>Byggmax Bultvägen 1, Jönköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.16944,57.75417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Byggmax Odenskogsv. 35</name>
+        <description>Byggmax Odenskogsv. 35, Östersund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.68444,63.16444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Byggmax Ljungadalsgatan 17</name>
+        <description>Byggmax Ljungadalsgatan 17, Växjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.76556,56.89333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Byggmax Stångjärnsgatan 8</name>
+        <description>Byggmax Stångjärnsgatan 8, Örebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.2075,59.28944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Byggmax Yxhammargatan 5</name>
+        <description>Byggmax Yxhammargatan 5, Falun</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.62056,60.60611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Byggmax Uranvägen</name>
+        <description>Byggmax Uranvägen, Karlskrona</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.63611,56.21528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Byggmax Hagalundsvägen 3</name>
+        <description>Byggmax Hagalundsvägen 3, Linköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.64472,58.41278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Byggmax Lindåkersgatan 12</name>
+        <description>Byggmax Lindåkersgatan 12, Norrköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.18556,58.60194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Byggmax Tyska vägen 2</name>
+        <description>Byggmax Tyska vägen 2, Kalmar</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.32833,56.69472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Byggmax Torestavägen 4</name>
+        <description>Byggmax Torestavägen 4, Eskilstuna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.42111,59.40194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Byggmax Brandthovdagatan 10</name>
+        <description>Byggmax Brandthovdagatan 10, Västerås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.60556,59.61556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Byggmax Skogsta 22</name>
+        <description>Byggmax Skogsta 22, Hudiksvall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.09056,61.76944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Byggmax Atlasgatan 11</name>
+        <description>Byggmax Atlasgatan 11, Gävle</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.18278,60.67611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Byggmax Lärlingsvägen 6</name>
+        <description>Byggmax Lärlingsvägen 6, Sundsvall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.32778,62.44056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Byggmax Hållnäsgatan 6A</name>
+        <description>Byggmax Hållnäsgatan 6A, Uppsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.58667,59.87889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Byggmax Tunabergsvägen 1</name>
+        <description>Byggmax Tunabergsvägen 1, Tumba</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.82694,59.21472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Byggmax Kranvägen 8</name>
+        <description>Byggmax Kranvägen 8, Upplands Väsby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.92333,59.50083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Byggmax Länna</name>
+        <description>Byggmax Länna, Skogås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.11861,59.1975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Byggmax Måttbandsvägen 3-5</name>
+        <description>Byggmax Måttbandsvägen 3-5, Täby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.12901,59.46626,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Byggmax Sågvägen 22</name>
+        <description>Byggmax Sågvägen 22, Åkersberga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.28611,59.47917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Byggmax Mätarvägen 2 B</name>
+        <description>Byggmax Mätarvägen 2 B, Umeå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.21333,63.85139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Byggmax Uppfinnarvägen 5</name>
+        <description>Byggmax Uppfinnarvägen 5, Skellefteå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.90028,64.75889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Byggmax Betongvägen 5</name>
+        <description>Byggmax Betongvägen 5, Luleå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.05333,65.61306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

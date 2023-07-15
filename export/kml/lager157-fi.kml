@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Lager 157 Finland</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Lager 157 Finland</name>
+      <Placemark>
+        <name>Lager 157 Pori</name>
+        <description>Lager 157 Pori, Pori, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.8381,61.4553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lager 157 Turku</name>
+        <description>Lager 157 Turku, Raisio, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.2211,60.4915,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lager 157 Vantaa</name>
+        <description>Lager 157 Vantaa, Vantaa, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.9732,60.2752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lager 157 Lahti</name>
+        <description>Lager 157 Lahti, Lahti, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.6567,60.9579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lager 157 Palokka</name>
+        <description>Lager 157 Palokka, Palokka, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.7137,62.2876,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lager 157 Kuopio</name>
+        <description>Lager 157 Kuopio, Kuopio, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            27.6039,62.8241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lager 157 Lappeenranta</name>
+        <description>Lager 157 Lappeenranta, Lappeenranta, Finland</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            28.2155,61.0409,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

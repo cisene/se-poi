@@ -1,0 +1,1734 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Europcar</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Europcar</name>
+      <Placemark>
+        <name>Europcar Stenungsund</name>
+        <description>Europcar Stenungsund, Stora Höga, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.8408,58.0192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Uddevalla</name>
+        <description>Europcar Uddevalla, Uddevalla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.9258,58.3438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Göteborg Sisjön</name>
+        <description>Europcar Göteborg Sisjön, Askim, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.9442,57.6437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Göteborg Audi Eklanda</name>
+        <description>Europcar Göteborg Audi Eklanda, Mölndal, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.9627,57.6471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Göteborg City</name>
+        <description>Europcar Göteborg City, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.968,57.7091,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Göteborg Hisingen</name>
+        <description>Europcar Göteborg Hisingen, Hisings Backa, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.9874,57.7337,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Göteborg Mölndal</name>
+        <description>Europcar Göteborg Mölndal, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.0037,57.6809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Göteborg Kungsbacka</name>
+        <description>Europcar Göteborg Kungsbacka, Kungsbacka, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.0779,57.5063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Årjäng</name>
+        <description>Europcar Årjäng, Årjäng, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.134,59.3928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Varberg Järnvägsstation</name>
+        <description>Europcar Varberg Järnvägsstation, Varberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.2484,57.1121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Varberg</name>
+        <description>Europcar Varberg, Varberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.2763,57.1649,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Göteborg Landvetter Flygplats</name>
+        <description>Europcar Göteborg Landvetter Flygplats, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.2972,57.6685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Vänersborg</name>
+        <description>Europcar Vänersborg, Vänersborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.3223,58.3661,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Trollhättan</name>
+        <description>Europcar Trollhättan, Trollhättan, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.3258,58.2949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Trollhättan Flygplats</name>
+        <description>Europcar Trollhättan Flygplats, Trollhättan, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.349,58.3162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Falkenberg Järnvägsstation</name>
+        <description>Europcar Falkenberg Järnvägsstation, Falkenberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.5078,56.9189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Falkenberg</name>
+        <description>Europcar Falkenberg, Falkenberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.5264,56.8994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Funäsdalen</name>
+        <description>Europcar Funäsdalen, Funäsdalen, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.5288,62.5506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Arvika</name>
+        <description>Europcar Arvika, Arvika, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.585,59.6565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Arvika Järnvägsstation</name>
+        <description>Europcar Arvika Järnvägsstation, Arvika, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.5914,59.6539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Kinna</name>
+        <description>Europcar Kinna, Kinna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.6997,57.51,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Helsingborg</name>
+        <description>Europcar Helsingborg, Helsingborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.7145,56.074,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Idre</name>
+        <description>Europcar Idre, Idre, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.7224,61.8579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Halmstad</name>
+        <description>Europcar Halmstad, Halmstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.7972,56.6722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Halmstad Flygplats</name>
+        <description>Europcar Halmstad Flygplats, Halmstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.8151,56.6819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Scandinavian Mountains Flygplats</name>
+        <description>Europcar Scandinavian Mountains Flygplats, Sälen, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.8413,61.1591,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Landskrona</name>
+        <description>Europcar Landskrona, Landskrona, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.856,55.8712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Ängelholm</name>
+        <description>Europcar Ängelholm, Ängelholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.8604,56.2308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Ängelholm Flyplats</name>
+        <description>Europcar Ängelholm Flyplats, Ängelholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.8689,56.2872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Halmstad Tågstation - Sweden use only</name>
+        <description>Europcar Halmstad Tågstation - Sweden use only, Halmstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.8924,56.7557,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Borås</name>
+        <description>Europcar Borås, Borås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.9325,57.7331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Borås Järnvägsstation</name>
+        <description>Europcar Borås Järnvägsstation, Borås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.9327,57.7207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Vara</name>
+        <description>Europcar Vara, Vara, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.9642,58.2565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Malmö City</name>
+        <description>Europcar Malmö City, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.0045,55.6067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Malmö Fosie</name>
+        <description>Europcar Malmö Fosie, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.046,55.5658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Malmö Bulltofta</name>
+        <description>Europcar Malmö Bulltofta, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.0653,55.604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Malmö Transportbilscenter</name>
+        <description>Europcar Malmö Transportbilscenter, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.0653,55.6038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Åre Tågstation</name>
+        <description>Europcar Åre Tågstation, Åre, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.0763,63.3989,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Trelleborg</name>
+        <description>Europcar Trelleborg, Trelleborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.1355,55.3798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Lidköping</name>
+        <description>Europcar Lidköping, Lidköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.1778,58.4973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Sälen</name>
+        <description>Europcar Sälen, Sälen, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.2002,61.1645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Lund</name>
+        <description>Europcar Lund, Lund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.2162,55.688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Malmö Lokal</name>
+        <description>Europcar Malmö Lokal, Svedala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.2325,55.507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Karlstad Flygplats</name>
+        <description>Europcar Karlstad Flygplats, Karlstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.3459,59.4435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Malmö Flygplats Sturup</name>
+        <description>Europcar Malmö Flygplats Sturup, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.3639,55.5394,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Skara</name>
+        <description>Europcar Skara, Skara, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.4311,58.3806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Karlstad</name>
+        <description>Europcar Karlstad, Karlstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.4772,59.3836,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Karlstad Järnvägsstation</name>
+        <description>Europcar Karlstad Järnvägsstation, Karlstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.4998,59.378,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Falköping</name>
+        <description>Europcar Falköping, Falköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.5666,58.1636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Malung</name>
+        <description>Europcar Malung, Malung, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.7198,60.6857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Hässleholm Tågservice Station</name>
+        <description>Europcar Hässleholm Tågservice Station, Hässleholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.7637,56.1579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Mariestad</name>
+        <description>Europcar Mariestad, Mariestad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.8193,58.6973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Skövde Tågstation</name>
+        <description>Europcar Skövde Tågstation, Skövde, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.8518,58.3894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Skövde</name>
+        <description>Europcar Skövde, Skövde, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.8815,58.4194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Ljungby</name>
+        <description>Europcar Ljungby, Ljungby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.9089,56.814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Värnamo</name>
+        <description>Europcar Värnamo, Värnamo, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.062,57.1914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Jönköping Flygplats</name>
+        <description>Europcar Jönköping Flygplats, Jönköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.0705,57.7504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Kristianstad Flygplats</name>
+        <description>Europcar Kristianstad Flygplats, Everöd, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.0814,55.924,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Kristinehamn Järnvägsstation</name>
+        <description>Europcar Kristinehamn Järnvägsstation, Kristinehamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.108,59.3166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Kristinehamn</name>
+        <description>Europcar Kristinehamn, Kristinehamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.1086,59.3099,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Kristianstad</name>
+        <description>Europcar Kristianstad, Kristianstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.1726,56.0274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Jönköping</name>
+        <description>Europcar Jönköping, Jönköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.1733,57.7666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Sveg</name>
+        <description>Europcar Sveg, Sveg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.3669,62.034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Sveg Airport</name>
+        <description>Europcar Sveg Airport, Sveg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.4223,62.0472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Östersund Flygplats</name>
+        <description>Europcar Östersund Flygplats, Östersund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.4979,63.1984,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Mora Flygplats</name>
+        <description>Europcar Mora Flygplats, Mora, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.504,60.9585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Karlskoga</name>
+        <description>Europcar Karlskoga, Karlskoga, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.5241,59.3271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Mora Tågstation</name>
+        <description>Europcar Mora Tågstation, Mora, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.5581,61.009,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Mora</name>
+        <description>Europcar Mora, Mora, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.5917,61.0075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Orsa</name>
+        <description>Europcar Orsa, Orsa, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.6282,61.1164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Östersund Centralstation</name>
+        <description>Europcar Östersund Centralstation, Östersund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.6377,63.1707,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Östersund</name>
+        <description>Europcar Östersund, Östersund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.64,63.1909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Växjö Flygplats</name>
+        <description>Europcar Växjö Flygplats, Växjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.7315,56.926,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Nässjö</name>
+        <description>Europcar Nässjö, Nässjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.7393,57.6479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Växjö</name>
+        <description>Europcar Växjö, Växjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.7831,56.8785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Eksjö</name>
+        <description>Europcar Eksjö, Eksjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.9703,57.6663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Tranås</name>
+        <description>Europcar Tranås, Tranås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.9747,58.0443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Örebro Flygplats</name>
+        <description>Europcar Örebro Flygplats, Örebro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.0463,59.2275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Rättviks Resecentrum</name>
+        <description>Europcar Rättviks Resecentrum, Rättvik, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.1159,60.8849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Örebro</name>
+        <description>Europcar Örebro, Örebro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.2071,59.2967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Ronneby</name>
+        <description>Europcar Ronneby, Ronneby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.2644,56.2185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Ronneyby Flygplats</name>
+        <description>Europcar Ronneyby Flygplats, Ronneby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.2672,56.2545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Borlänge Centralstation Hotell Galaxen</name>
+        <description>Europcar Borlänge Centralstation Hotell Galaxen, Borlänge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.4302,60.4877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Borlänge</name>
+        <description>Europcar Borlänge, Borlänge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.4343,60.485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Linköping</name>
+        <description>Europcar Linköping, Linköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.5908,58.4272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Falun</name>
+        <description>Europcar Falun, Falun, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.6226,60.5969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Karlskrona</name>
+        <description>Europcar Karlskrona, Karlskrona, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.6372,56.209,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Falun Centralstation</name>
+        <description>Europcar Falun Centralstation, Falun, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.642,60.604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Linköping Flygplats</name>
+        <description>Europcar Linköping Flygplats, Linköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.6578,58.4075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Fagersta</name>
+        <description>Europcar Fagersta, Fagersta, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.813,59.9922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Hedemora</name>
+        <description>Europcar Hedemora, Hedemora, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.9892,60.2894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Norrköping Tågstation</name>
+        <description>Europcar Norrköping Tågstation, Norrköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.1834,58.5964,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Avesta Bilmetro</name>
+        <description>Europcar Avesta Bilmetro, Avesta, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.1927,60.1401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Avesta Krylbovägen</name>
+        <description>Europcar Avesta Krylbovägen, Avesta, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.195,60.1432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Avesta Tågstation - Sweden use only</name>
+        <description>Europcar Avesta Tågstation - Sweden use only, Krylbo, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.2153,60.1299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Norrköping</name>
+        <description>Europcar Norrköping, Norrköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.2159,58.5832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Norrköping Flygplats</name>
+        <description>Europcar Norrköping Flygplats, Norrköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.2337,58.5828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Kalmar Flygplats</name>
+        <description>Europcar Kalmar Flygplats, Kalmar, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.2872,56.6775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Kalmar</name>
+        <description>Europcar Kalmar, Kalmar, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.3291,56.6659,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Scania Oskarshamn (Leveranspunkt)</name>
+        <description>Europcar Scania Oskarshamn (Leveranspunkt), Oskarshamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.4283,57.2549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Oskarshamn</name>
+        <description>Europcar Oskarshamn, Oskarshamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.4484,57.2522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Eskilstuna</name>
+        <description>Europcar Eskilstuna, Eskilstuna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.4711,59.388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Västerås</name>
+        <description>Europcar Västerås, Västerås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.5551,59.6184,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Västerås Flygplats</name>
+        <description>Europcar Västerås Flygplats, Västerås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.6256,59.589,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Sandviken</name>
+        <description>Europcar Sandviken, Sandviken, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.7592,60.6232,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Nyköping Skavsta Flygplats</name>
+        <description>Europcar Nyköping Skavsta Flygplats, Nyköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.9239,58.7847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Nyköping</name>
+        <description>Europcar Nyköping, Nyköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.9944,58.7457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Söderhamn</name>
+        <description>Europcar Söderhamn, Söderhamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.0357,61.2961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Hudiksvall</name>
+        <description>Europcar Hudiksvall, Hudiksvall, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.12,61.7486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Gävle</name>
+        <description>Europcar Gävle, Gävle, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.1733,60.6661,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Sundsvall Centralstation</name>
+        <description>Europcar Sundsvall Centralstation, Sundsvall, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.3158,62.3867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Sundsvall</name>
+        <description>Europcar Sundsvall, Sundsvall, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.3318,62.4423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Sundsvall Midlanda Flygplats</name>
+        <description>Europcar Sundsvall Midlanda Flygplats, Sundsvall, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.4361,62.5262,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Scania Södertälje Byggnad 321</name>
+        <description>Europcar Scania Södertälje Byggnad 321, Södertälje, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.6101,59.2044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Södertälje</name>
+        <description>Europcar Södertälje, Södertälje, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.6144,59.2031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Scania Södertälje Byggnad 209</name>
+        <description>Europcar Scania Södertälje Byggnad 209, Södertälje, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.6323,59.1838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Scania Södertälje Stc</name>
+        <description>Europcar Scania Södertälje Stc, Södertälje, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.635,59.167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Scania Södertälje Gjuteriporten</name>
+        <description>Europcar Scania Södertälje Gjuteriporten, Södertälje, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.6356,59.1831,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Scania Södertälje Chassiporten</name>
+        <description>Europcar Scania Södertälje Chassiporten, Södertälje, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.6427,59.1721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Scania Södertälje Ck 3</name>
+        <description>Europcar Scania Södertälje Ck 3, Södertälje, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.6427,59.1721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Scania Södertälje Byggnad 280</name>
+        <description>Europcar Scania Södertälje Byggnad 280, Södertälje, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.6427,59.1721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Scania Södertälje Byggnad 210</name>
+        <description>Europcar Scania Södertälje Byggnad 210, Södertälje, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.6427,59.1721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Scania Södertälje Byggnad 150</name>
+        <description>Europcar Scania Södertälje Byggnad 150, Södertälje, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.6427,59.1721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Scania Södertälje Scania Syd</name>
+        <description>Europcar Scania Södertälje Scania Syd, Södertälje, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.6458,59.1595,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Scania Södertälje Byggnad 270</name>
+        <description>Europcar Scania Södertälje Byggnad 270, Södertälje, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.6459,59.1719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Södertälje Syd Tågstation</name>
+        <description>Europcar Södertälje Syd Tågstation, Södertälje, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.6463,59.1622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Uppsala</name>
+        <description>Europcar Uppsala, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.7133,59.8465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Stockholm Audi Kista</name>
+        <description>Europcar Stockholm Audi Kista, Kista, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.9211,59.4199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Stockholm Kista</name>
+        <description>Europcar Stockholm Kista, Kista, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.9223,59.4189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Upplands Väsby</name>
+        <description>Europcar Upplands Väsby, Upplands väsby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.9256,59.5087,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Stockholm Skoda Bredden</name>
+        <description>Europcar Stockholm Skoda Bredden, Upplands väsby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.9266,59.4967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Stockholm Volkswagen Bredden</name>
+        <description>Europcar Stockholm Volkswagen Bredden, Upplands väsby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.9279,59.5002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Stockholm Arlanda Flygplats</name>
+        <description>Europcar Stockholm Arlanda Flygplats, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.9393,59.6381,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Stockholm Bromma Flygplats</name>
+        <description>Europcar Stockholm Bromma Flygplats, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.9456,59.3555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Stockholm Bromma Ulvsunda</name>
+        <description>Europcar Stockholm Bromma Ulvsunda, Bromma, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.9589,59.348,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Solna</name>
+        <description>Europcar Solna, Solna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.9966,59.3619,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Stockholm Liljeholmen</name>
+        <description>Europcar Stockholm Liljeholmen, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.0278,59.3095,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Stockholm Liljeholmen Transportbilar</name>
+        <description>Europcar Stockholm Liljeholmen Transportbilar, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.0287,59.3091,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Stockholm City</name>
+        <description>Europcar Stockholm City, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.0539,59.3341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Stockholm Täby</name>
+        <description>Europcar Stockholm Täby, Täby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.0542,59.4377,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Stockholm Södermalm</name>
+        <description>Europcar Stockholm Södermalm, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.0814,59.3103,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Stockholm Hammarby</name>
+        <description>Europcar Stockholm Hammarby, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.1017,59.3017,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Stockholm Albyberg</name>
+        <description>Europcar Stockholm Albyberg, Handen, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.1604,59.1529,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Stockholm Haninge</name>
+        <description>Europcar Stockholm Haninge, Haninge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.1619,59.1647,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Visby (Gotland)</name>
+        <description>Europcar Visby (Gotland), Visby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.2766,57.623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Åkersberga</name>
+        <description>Europcar Åkersberga, Akersberga, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.2805,59.4827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Visby Flygplats (Gotland)</name>
+        <description>Europcar Visby Flygplats (Gotland), Visby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.3388,57.6606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Norrtälje</name>
+        <description>Europcar Norrtälje, Norrtälje, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.6858,59.7475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Örnsköldsvik Resecentrum</name>
+        <description>Europcar Örnsköldsvik Resecentrum, Örnsköldsvik, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.7078,63.288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Örnsköldsvik</name>
+        <description>Europcar Örnsköldsvik, Örnsköldsvik, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.7206,63.3031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Örnsköldsvik Flygplats</name>
+        <description>Europcar Örnsköldsvik Flygplats, Örnsköldsvik, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.993,63.4111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Arvidsjaur</name>
+        <description>Europcar Arvidsjaur, Arvidsjaur, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.1973,65.5848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Arvidsjaur Flygplats</name>
+        <description>Europcar Arvidsjaur Flygplats, Arvidsjaur, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.2648,65.592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Kiruna Station</name>
+        <description>Europcar Kiruna Station, Kiruna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.1939,67.8732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Kiruna</name>
+        <description>Europcar Kiruna, Kiruna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.266,67.8485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Umeå Centralstation</name>
+        <description>Europcar Umeå Centralstation, Umeå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.2669,63.8298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Umeå</name>
+        <description>Europcar Umeå, Umeå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.2831,63.8331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Umeå Flygplats</name>
+        <description>Europcar Umeå Flygplats, Umeå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.2892,63.7929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Kiruna Flygplats</name>
+        <description>Europcar Kiruna Flygplats, Kiruna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.3344,67.8255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Gällivare</name>
+        <description>Europcar Gällivare, Gällivare, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.6243,67.1529,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Gällivare Resecentrum</name>
+        <description>Europcar Gällivare Resecentrum, Gällivare, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.6516,67.1334,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Gällivare Flygplats</name>
+        <description>Europcar Gällivare Flygplats, Gällivare, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.8134,67.1353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Skellefteå</name>
+        <description>Europcar Skellefteå, Skellefteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.9676,64.7334,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Skellefteå Flygplats</name>
+        <description>Europcar Skellefteå Flygplats, Skellefteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.0675,64.6232,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Piteå</name>
+        <description>Europcar Piteå, Piteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.4298,65.3188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Bodens resecentrum</name>
+        <description>Europcar Bodens resecentrum, Boden, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.7072,65.8287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Luleå Flygplats</name>
+        <description>Europcar Luleå Flygplats, Luleå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.1245,65.5489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Luleå</name>
+        <description>Europcar Luleå, Luleå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.1348,65.6039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europcar Luleå Centralstation</name>
+        <description>Europcar Luleå Centralstation, Luleå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.1645,65.5839,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

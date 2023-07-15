@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://github.com/cisene/se-poi -->
+<gpx creator="se-poi" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+  <metadata>
+    <name><![CDATA[Bauhaus]]></name>
+    <desc><![CDATA[Koordinater - Bauhaus]]></desc>
+    <link href="https://www.bauhaus.se/">
+      <text><![CDATA[Bauhaus]]></text>
+       <type>text/html</type>
+    </link>
+   <time>2023-07-15T16:21:14+02:00</time>
+  </metadata>
+  <bounds minlat="55.5531" minlon="11.8113" maxlat="62.43944" maxlon="18.1344" />
+  <wpt lat="58.3537" lon="11.8113"><name><![CDATA[Bauhaus Göteborg Hedkärr 103, Uddevalla]]></name></wpt>
+  <wpt lat="57.7689" lon="11.99722"><name><![CDATA[Bauhaus Transportgatan 19, Göteborg]]></name></wpt>
+  <wpt lat="56.0985" lon="12.8775"><name><![CDATA[Bauhaus Brännaregatan 2, Hyllinge]]></name></wpt>
+  <wpt lat="55.7705" lon="12.9848"><name><![CDATA[Bauhaus Handelsvägen 1, Löddeköpinge]]></name></wpt>
+  <wpt lat="55.5531" lon="12.9947"><name><![CDATA[Bauhaus Nornegatan 8, Malmö]]></name></wpt>
+  <wpt lat="58.61167" lon="16.16861"><name><![CDATA[Bauhaus Kromgatan 2, Norrköping]]></name></wpt>
+  <wpt lat="59.61222" lon="16.4684"><name><![CDATA[Bauhaus Hallsta Gårdsgatan 1, Västerås]]></name></wpt>
+  <wpt lat="62.43944" lon="17.33194"><name><![CDATA[Bauhaus Gesällvägen 13, Sundsvall]]></name></wpt>
+  <wpt lat="59.8477" lon="17.6874"><name><![CDATA[Bauhaus Verkstadsgatan 16, Uppsala]]></name></wpt>
+  <wpt lat="59.2375" lon="17.8361"><name><![CDATA[Bauhaus Stockholm Segersbyvägen 26, Norsborg]]></name></wpt>
+  <wpt lat="59.4233" lon="17.8542"><name><![CDATA[Bauhaus Stockholm Barkaby Enköpingsv, Järfälla]]></name></wpt>
+  <wpt lat="59.35" lon="17.96389"><name><![CDATA[Bauhaus Stockholm Bryggerivägen 12D, Bromma]]></name></wpt>
+  <wpt lat="59.1995" lon="18.1344"><name><![CDATA[Bauhaus Stockholm Gamla Nynäsv 600, Skogås]]></name></wpt>
+</gpx>

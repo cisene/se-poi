@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Tele2</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Tele2</name>
+      <Placemark>
+        <name>Tele2 Frölunda Torg</name>
+        <description>Tele2 Frölunda Torg, Västra Frölunda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.912468,57.652411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tele2 Göteborg, Backaplan</name>
+        <description>Tele2 Göteborg, Backaplan, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.95372,57.72316,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tele2 Göteborg, Nordstan</name>
+        <description>Tele2 Göteborg, Nordstan, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.969684,57.707432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tele2 Trollhättan, Etage</name>
+        <description>Tele2 Trollhättan, Etage, Trollhättan, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.309967,58.31437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tele2 Helsingborg, Väla Centrum</name>
+        <description>Tele2 Helsingborg, Väla Centrum, Ödåkra-Väla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.756816,56.092055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tele2 Malmö, Triangeln</name>
+        <description>Tele2 Malmö, Triangeln, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.001783,55.595101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tele2 Malmö, Mobilia</name>
+        <description>Tele2 Malmö, Mobilia, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.004093,55.583391,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tele2 Skövde, Elins Esplanad</name>
+        <description>Tele2 Skövde, Elins Esplanad, Skövde, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.856793,58.405388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tele2 Jönköping, Asecs (A6)</name>
+        <description>Tele2 Jönköping, Asecs (A6), Jönköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.204443,57.775356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tele2 Växjö, Grand Samarkand</name>
+        <description>Tele2 Växjö, Grand Samarkand, Växjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.766962,56.884678,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tele2 Örebro City</name>
+        <description>Tele2 Örebro City, Örebro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.210804,59.27061,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tele2 Norrköping, Galleria Domino</name>
+        <description>Tele2 Norrköping, Galleria Domino, Norrköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.18895,58.58843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tele2 Västerås, Erikslund Shopping Center</name>
+        <description>Tele2 Västerås, Erikslund Shopping Center, Västerås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.454807,59.609976,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tele2 Eskilstuna, Tuna Park</name>
+        <description>Tele2 Eskilstuna, Tuna Park, Eskilstuna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.470114,59.371344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tele2 Västerås, Igor Köpcentrum</name>
+        <description>Tele2 Västerås, Igor Köpcentrum, Västerås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.544845,59.611431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tele2 Uppsala, Gränbystaden</name>
+        <description>Tele2 Uppsala, Gränbystaden, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.672659,59.877019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tele2 Vällingby Centrum</name>
+        <description>Tele2 Vällingby Centrum, Vällingby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.873799,59.362426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tele2 Skärholmen Centrum</name>
+        <description>Tele2 Skärholmen Centrum, Skärholmen, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.907736,59.27517,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tele2 Kista Galleria</name>
+        <description>Tele2 Kista Galleria, Kista, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.944615,59.402272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tele2 Bromma Blocks</name>
+        <description>Tele2 Bromma Blocks, Bromma, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.955186,59.355605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tele2 Solna, Westfield Mall of Scandinavia</name>
+        <description>Tele2 Solna, Westfield Mall of Scandinavia, Solna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.005496,59.369329,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tele2 Stockholm, Kungsgatan 35</name>
+        <description>Tele2 Stockholm, Kungsgatan 35, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.065107,59.335691,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tele2 Stockholm, Gallerian</name>
+        <description>Tele2 Stockholm, Gallerian, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.06719,59.332464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tele2 Täby Centrum</name>
+        <description>Tele2 Täby Centrum, Täby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.07033,59.4419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tele2 Stockholm, Götgatan 86</name>
+        <description>Tele2 Stockholm, Götgatan 86, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.074562,59.311032,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tele2 Farsta Centrum</name>
+        <description>Tele2 Farsta Centrum, Farsta, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.147807,59.206376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tele2 Haninge, Port 73</name>
+        <description>Tele2 Haninge, Port 73, Haninge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.149224,59.179241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tele2 Nacka Forum</name>
+        <description>Tele2 Nacka Forum, Nacka, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.16439,59.309419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tele2 Visby, Ica Maxi</name>
+        <description>Tele2 Visby, Ica Maxi, Visby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.323183,57.624322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

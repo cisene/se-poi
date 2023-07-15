@@ -1,0 +1,1034 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Kjell & Company</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Kjell & Company</name>
+      <Placemark>
+        <name>Kjell & Co Nordby</name>
+        <description>Kjell & Co Nordby, Strömstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.208207,59.06436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Torp Köpcentrum</name>
+        <description>Kjell & Co Torp Köpcentrum, Uddevalla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.806278,58.352897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Stenungsund</name>
+        <description>Kjell & Co Stenungsund, Stenungsund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.817562,58.068198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Frölunda Torg</name>
+        <description>Kjell & Co Frölunda Torg, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.912355,57.652571,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Backaplan</name>
+        <description>Kjell & Co Backaplan, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.953345,57.723099,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Kungsgatan Gbg</name>
+        <description>Kjell & Co Kungsgatan Gbg, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.964314,57.704015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Nordstan</name>
+        <description>Kjell & Co Nordstan, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.968472,57.707582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Bäckebol</name>
+        <description>Kjell & Co Bäckebol, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.000814,57.769604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Kungsmässan</name>
+        <description>Kjell & Co Kungsmässan, Kungsbacka, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.074143,57.492805,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Partille Allum</name>
+        <description>Kjell & Co Partille Allum, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.105615,57.738825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Varberg</name>
+        <description>Kjell & Co Varberg, Varberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.2475,57.105963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Etage</name>
+        <description>Kjell & Co Etage, Trollhättan, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.307521,58.31215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Alingsås</name>
+        <description>Kjell & Co Alingsås, Alingsås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.537813,57.930026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Helsingborg city</name>
+        <description>Kjell & Co Helsingborg city, Helsingborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.696289,56.045133,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Väla Centrum</name>
+        <description>Kjell & Co Väla Centrum, Helsingborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.755159,56.090994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Halmstad city</name>
+        <description>Kjell & Co Halmstad city, Halmstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.857575,56.675428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Knalleland</name>
+        <description>Kjell & Co Knalleland, Borås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.937803,57.733884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Borås city</name>
+        <description>Kjell & Co Borås city, Borås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.94171,57.72021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Emporia</name>
+        <description>Kjell & Co Emporia, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.97284,55.565171,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Center Syd</name>
+        <description>Kjell & Co Center Syd, Löddeköpinge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.987792,55.769022,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Södergatan</name>
+        <description>Kjell & Co Södergatan, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.00114,55.603594,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Triangeln</name>
+        <description>Kjell & Co Triangeln, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.003225,55.595149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Mobilia</name>
+        <description>Kjell & Co Mobilia, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.004187,55.580899,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Burlöv Center</name>
+        <description>Kjell & Co Burlöv Center, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.084628,55.639471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Lidköping</name>
+        <description>Kjell & Co Lidköping, Lidköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.157586,58.504606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Nova Lund</name>
+        <description>Kjell & Co Nova Lund, Lund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.160314,55.714701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Lund city</name>
+        <description>Kjell & Co Lund city, Lund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.189132,55.69677,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Bergvik</name>
+        <description>Kjell & Co Bergvik, Karlstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.427865,59.376161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Mitt i City</name>
+        <description>Kjell & Co Mitt i City, Karlstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.500397,59.379686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Hässleholm</name>
+        <description>Kjell & Co Hässleholm, Hässleholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.766766,56.158616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Ystad</name>
+        <description>Kjell & Co Ystad, Ystad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.82333,55.430352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Skövde</name>
+        <description>Kjell & Co Skövde, Skövde, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.845015,58.390444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Värnamo</name>
+        <description>Kjell & Co Värnamo, Värnamo, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.04145,57.185264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Kristianstad</name>
+        <description>Kjell & Co Kristianstad, Kristianstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.156632,56.028428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Jönköping city</name>
+        <description>Kjell & Co Jönköping city, Jönköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.170009,57.781849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co A6 Center</name>
+        <description>Kjell & Co A6 Center, Jönköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.205605,57.774844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Mora</name>
+        <description>Kjell & Co Mora, Mora, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.537569,61.004366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Östersund</name>
+        <description>Kjell & Co Östersund, Östersund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.637192,63.176654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Tegnér</name>
+        <description>Kjell & Co Tegnér, Växjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.800404,56.87963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Motala</name>
+        <description>Kjell & Co Motala, Motala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.0352,58.5371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Marieberg</name>
+        <description>Kjell & Co Marieberg, Örebro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.137427,59.217971,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Örebro city</name>
+        <description>Kjell & Co Örebro city, Örebro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.210222,59.27036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Kupolen</name>
+        <description>Kjell & Co Kupolen, Borlänge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.418579,60.484079,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Karlskrona</name>
+        <description>Kjell & Co Karlskrona, Karlskrona, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.583611,56.162288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Tornby</name>
+        <description>Kjell & Co Tornby, Linköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.585737,58.434631,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Gyllenhuset</name>
+        <description>Kjell & Co Gyllenhuset, Linköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.626872,58.410545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Falun</name>
+        <description>Kjell & Co Falun, Falun, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.632494,60.605503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Galleria Domino</name>
+        <description>Kjell & Co Galleria Domino, Norrköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.18849,58.588176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Mirum Galleria</name>
+        <description>Kjell & Co Mirum Galleria, Norrköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.208045,58.572711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Baronen</name>
+        <description>Kjell & Co Baronen, Kalmar, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.364312,56.660643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Bollnäs</name>
+        <description>Kjell & Co Bollnäs, Bollnäs, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.393442,61.348768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Erikslund</name>
+        <description>Kjell & Co Erikslund, Västerås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.453116,59.609346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Tuna Park</name>
+        <description>Kjell & Co Tuna Park, Eskilstuna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.469953,59.371298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Västerås city</name>
+        <description>Kjell & Co Västerås city, Västerås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.545044,59.61173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Västervik</name>
+        <description>Kjell & Co Västervik, Västervik, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.637042,57.758786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Valbo köpcentrum</name>
+        <description>Kjell & Co Valbo köpcentrum, Gävle, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.99413,60.633536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Nyköping</name>
+        <description>Kjell & Co Nyköping, Nyköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.003573,58.752449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Hudiksvall</name>
+        <description>Kjell & Co Hudiksvall, Hudiksvall, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.104769,61.727678,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Gävle city</name>
+        <description>Kjell & Co Gävle city, Gävle, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.141122,60.673843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Sundsvall City</name>
+        <description>Kjell & Co Sundsvall City, Sundsvall, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.307663,62.391185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Birsta City</name>
+        <description>Kjell & Co Birsta City, Sundsvall, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.336905,62.446828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Kringlan</name>
+        <description>Kjell & Co Kringlan, Södertälje, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.627884,59.196005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Uppsala city</name>
+        <description>Kjell & Co Uppsala city, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.635256,59.860485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Gränby Centrum</name>
+        <description>Kjell & Co Gränby Centrum, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.673139,59.877707,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Jakobsberg</name>
+        <description>Kjell & Co Jakobsberg, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.837061,59.423251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Barkarby Gate</name>
+        <description>Kjell & Co Barkarby Gate, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.862632,59.413141,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Vällingby City</name>
+        <description>Kjell & Co Vällingby City, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.87454,59.36256,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Skärholmen Centrum</name>
+        <description>Kjell & Co Skärholmen Centrum, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.9061,59.27558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Väsby Centrum</name>
+        <description>Kjell & Co Väsby Centrum, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.910836,59.518615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Kungens Kurva</name>
+        <description>Kjell & Co Kungens Kurva, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.923742,59.266931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Kista Galleria</name>
+        <description>Kjell & Co Kista Galleria, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.942754,59.404408,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Sollentuna</name>
+        <description>Kjell & Co Sollentuna, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.950628,59.428244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Sundbyberg</name>
+        <description>Kjell & Co Sundbyberg, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.969132,59.361053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Huddinge</name>
+        <description>Kjell & Co Huddinge, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.980399,59.236503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Solna Centrum</name>
+        <description>Kjell & Co Solna Centrum, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.998757,59.360942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Mall of Scandinavia</name>
+        <description>Kjell & Co Mall of Scandinavia, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.004203,59.37097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Liljeholmstorget</name>
+        <description>Kjell & Co Liljeholmstorget, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.022635,59.309686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Kungsholmen</name>
+        <description>Kjell & Co Kungsholmen, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.033844,59.33443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Odenplan</name>
+        <description>Kjell & Co Odenplan, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.051806,59.343286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Centralstation</name>
+        <description>Kjell & Co Centralstation, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.058029,59.330665,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Kungsgatan</name>
+        <description>Kjell & Co Kungsgatan, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.062706,59.335212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Sergelgatan</name>
+        <description>Kjell & Co Sergelgatan, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.063447,59.333528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Täby Centrum</name>
+        <description>Kjell & Co Täby Centrum, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.0721,59.445039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Södermalm Skrapan</name>
+        <description>Kjell & Co Södermalm Skrapan, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.073647,59.312126,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Ringvägen</name>
+        <description>Kjell & Co Ringvägen, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.075633,59.307841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Fältöversten</name>
+        <description>Kjell & Co Fältöversten, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.090715,59.339375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Farsta Centrum</name>
+        <description>Kjell & Co Farsta Centrum, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.091493,59.242861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Sickla</name>
+        <description>Kjell & Co Sickla, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.123159,59.306129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Haninge Centrum</name>
+        <description>Kjell & Co Haninge Centrum, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.139919,59.169015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Nacka Forum</name>
+        <description>Kjell & Co Nacka Forum, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.165008,59.309361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Tyresö Centrum</name>
+        <description>Kjell & Co Tyresö Centrum, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.230538,59.243548,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Åkersberga</name>
+        <description>Kjell & Co Åkersberga, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.297839,59.479811,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Visby</name>
+        <description>Kjell & Co Visby, Visby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.3004,57.6374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Örnsköldsvik</name>
+        <description>Kjell & Co Örnsköldsvik, Örnsköldsvik, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.715824,63.289487,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Avion</name>
+        <description>Kjell & Co Avion, Umeå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.254897,63.809014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Umeå</name>
+        <description>Kjell & Co Umeå, Umeå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.260563,63.825382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Skellefteå</name>
+        <description>Kjell & Co Skellefteå, Skellefteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.952084,64.751021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Piteå</name>
+        <description>Kjell & Co Piteå, Piteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.48187,65.315888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjell & Co Luleå</name>
+        <description>Kjell & Co Luleå, Luleå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.154111,65.584269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

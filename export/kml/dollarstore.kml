@@ -1,0 +1,1334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Dollarstore</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Dollarstore</name>
+      <Placemark>
+        <name>Dollarstore Tanumshede</name>
+        <description>Dollarstore Tanumshede, Tanumshede</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.346235,58.722201,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Töcksfors</name>
+        <description>Dollarstore Töcksfors, Töcksfors</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.818764,59.509127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Backaplan</name>
+        <description>Dollarstore Backaplan, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.955601,57.724464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Kungsbacka</name>
+        <description>Dollarstore Kungsbacka, Kungsbacka</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.081266,57.512776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Älvängen</name>
+        <description>Dollarstore Älvängen, Älvängen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.133038,57.963541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Varberg</name>
+        <description>Dollarstore Varberg, Varberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.267663,57.122294,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Charlottenberg</name>
+        <description>Dollarstore Charlottenberg, Charlottenberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.28446,59.873141,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Trollhättan</name>
+        <description>Dollarstore Trollhättan, Trollhättan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.300898,58.315606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Vänersborg</name>
+        <description>Dollarstore Vänersborg, Vänersborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.345875,58.370137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Mellerud</name>
+        <description>Dollarstore Mellerud, Mellerud</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.451468,58.704125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Falkenberg</name>
+        <description>Dollarstore Falkenberg, Falkenberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.502973,56.918044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Alingsås</name>
+        <description>Dollarstore Alingsås, Alingsås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.528182,57.940849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DollarStore Höganäs</name>
+        <description>DollarStore Höganäs, Höganäs</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.560341,56.213197,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Arvika</name>
+        <description>Dollarstore Arvika, Arvika</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.595737,59.67622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Skene</name>
+        <description>Dollarstore Skene, Skene</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.630248,57.492838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Helsingborg</name>
+        <description>Dollarstore Helsingborg, Helsingborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.717585,56.023112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Halmstad</name>
+        <description>Dollarstore Halmstad, Halmstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.798314,56.674456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Landskrona</name>
+        <description>Dollarstore Landskrona, Landskrona</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.84947,55.870735,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Hyllinge</name>
+        <description>Dollarstore Hyllinge, Hyllinge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.853537,56.101483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Säffle</name>
+        <description>Dollarstore Säffle, Säffle</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.886935,59.128162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Borås</name>
+        <description>Dollarstore Borås, Borås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.965115,57.717032,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Torsby</name>
+        <description>Dollarstore Torsby, Torsby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.986888,60.136525,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Löddeköpinge</name>
+        <description>Dollarstore Löddeköpinge, Löddeköpinge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.988143,55.772078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Laholm</name>
+        <description>Dollarstore Laholm, Laholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.00711,56.498105,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DollarStore Jägersro</name>
+        <description>DollarStore Jägersro, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.058659,55.570015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Toftanäs</name>
+        <description>Dollarstore Toftanäs, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.098868,55.595216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Trelleborg</name>
+        <description>Dollarstore Trelleborg, Trelleborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.119769,55.384055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Lidköping</name>
+        <description>Dollarstore Lidköping, Lidköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.184511,58.493039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Staffanstorp</name>
+        <description>Dollarstore Staffanstorp, Staffanstorp</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.230179,55.644286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Eslöv</name>
+        <description>Dollarstore Eslöv, Eslöv</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.331515,55.843301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Ulricehamn</name>
+        <description>Dollarstore Ulricehamn, Ulricehamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.409322,57.804771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Skara</name>
+        <description>Dollarstore Skara, Skara</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.4133,58.37794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Skurup</name>
+        <description>Dollarstore Skurup, Skurup</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.488896,55.490304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Hammarö</name>
+        <description>Dollarstore Hammarö, Hammarö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.503862,59.345615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Gislaved</name>
+        <description>Dollarstore Gislaved, Gislaved</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.546461,57.322428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Falköping</name>
+        <description>Dollarstore Falköping, Falköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.556002,58.150739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DollarStore Höör</name>
+        <description>DollarStore Höör, Höör</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.56243,55.951685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Markaryd</name>
+        <description>Dollarstore Markaryd, Markaryd</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.60644,56.446485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Sjöbo</name>
+        <description>Dollarstore Sjöbo, Sjöbo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.679572,55.636577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Hagfors</name>
+        <description>Dollarstore Hagfors, Hagfors</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.697884,60.043619,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Malung</name>
+        <description>Dollarstore Malung, Malung</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.700188,60.697324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Hässleholm</name>
+        <description>Dollarstore Hässleholm, Hässleholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.756355,56.171031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Mariestad</name>
+        <description>Dollarstore Mariestad, Mariestad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.816847,58.68493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Skövde</name>
+        <description>Dollarstore Skövde, Skövde</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.885092,58.409665,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Ljungby</name>
+        <description>Dollarstore Ljungby, Ljungby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.909157,56.811453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Värnamo</name>
+        <description>Dollarstore Värnamo, Värnamo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.074088,57.166633,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Kristinehamn</name>
+        <description>Dollarstore Kristinehamn, Kristinehamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.101498,59.313012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Filipstad</name>
+        <description>Dollarstore Filipstad, Filipstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.150029,59.713123,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DollarStore Jönköping</name>
+        <description>DollarStore Jönköping, Jönköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.177789,57.760985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Kristianstad</name>
+        <description>Dollarstore Kristianstad, Kristianstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.196027,56.024768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Simrishamn</name>
+        <description>Dollarstore Simrishamn, Simrishamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.333202,55.544472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Sveg</name>
+        <description>Dollarstore Sveg, Sveg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.379351,62.036473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Svenstavik</name>
+        <description>Dollarstore Svenstavik, Svenstavik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.42718,62.749756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Karlskoga</name>
+        <description>Dollarstore Karlskoga, Karlskoga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.491895,59.29705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Sölvesborg</name>
+        <description>Dollarstore Sölvesborg, Sölvesborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.567123,56.05562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Mora</name>
+        <description>Dollarstore Mora, Mora</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.591158,61.007142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Laxå</name>
+        <description>Dollarstore Laxå, Laxå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.622684,58.981209,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Östersund</name>
+        <description>Dollarstore Östersund, Östersund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.642339,63.168054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DollarStore Östersund Lillänge</name>
+        <description>DollarStore Östersund Lillänge, Östersund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.695058,63.172882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Nässjö</name>
+        <description>Dollarstore Nässjö, Nässjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.74127,57.649057,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Växjö</name>
+        <description>Dollarstore Växjö, Växjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.76865,56.878151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Eksjö</name>
+        <description>Dollarstore Eksjö, Eksjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.950261,57.650059,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Motala</name>
+        <description>Dollarstore Motala, Motala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.04361,58.557745,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Vetlanda</name>
+        <description>Dollarstore Vetlanda, Vetlanda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.088306,57.413498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Mjölby</name>
+        <description>Dollarstore Mjölby, Mjölby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.092043,58.32281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Hallsberg</name>
+        <description>Dollarstore Hallsberg, Hallsberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.098247,59.075833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Örebro Marieberg</name>
+        <description>Dollarstore Örebro Marieberg, Örebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.138644,59.218228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Ludvika</name>
+        <description>Dollarstore Ludvika, Ludvika</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.176248,60.130541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Örebro</name>
+        <description>Dollarstore Örebro, Örebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.233116,59.324021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Ronneby</name>
+        <description>Dollarstore Ronneby, Ronneby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.263969,56.234126,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Borlänge</name>
+        <description>Dollarstore Borlänge, Borlänge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.412732,60.478443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Strömsund</name>
+        <description>Dollarstore Strömsund, Strömsund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.53429,63.8482,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Falun</name>
+        <description>Dollarstore Falun, Falun</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.610613,60.575677,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Linköping</name>
+        <description>Dollarstore Linköping, Linköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.663661,58.426535,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Fagersta</name>
+        <description>Dollarstore Fagersta, Fagersta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.789094,60.00229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Finspång</name>
+        <description>Dollarstore Finspång, Finspång</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.823352,58.703624,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Arboga</name>
+        <description>Dollarstore Arboga, Arboga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.832914,59.427263,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DollarStore Hultsfred</name>
+        <description>DollarStore Hultsfred, Hultsfred</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.841651,57.49484,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Vimmerby</name>
+        <description>Dollarstore Vimmerby, Vimmerby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.849973,57.658494,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Nybro</name>
+        <description>Dollarstore Nybro, Nybro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.890176,56.736939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Hedemora</name>
+        <description>Dollarstore Hedemora, Hedemora</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.987579,60.286636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Ljusdal</name>
+        <description>Dollarstore Ljusdal, Ljusdal</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.122209,61.821816,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Norrköping</name>
+        <description>Dollarstore Norrköping, Norrköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.15694,58.62253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Avesta</name>
+        <description>Dollarstore Avesta, Avesta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.20407,60.150024,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Katrineholm</name>
+        <description>Dollarstore Katrineholm, Katrineholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.234188,59.005924,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DollarStore Kalmar</name>
+        <description>DollarStore Kalmar, Kalmar</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.319718,56.687231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Söderköping</name>
+        <description>Dollarstore Söderköping, Söderköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.335491,58.475423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Bollnäs</name>
+        <description>Dollarstore Bollnäs, Bollnäs</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.397186,61.335874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Oskarshamn</name>
+        <description>Dollarstore Oskarshamn, Oskarshamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.42877,57.262658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Västerås</name>
+        <description>Dollarstore Västerås, Västerås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.493278,59.594876,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Eskilstuna</name>
+        <description>Dollarstore Eskilstuna, Eskilstuna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.529044,59.387379,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Västerås Stenby</name>
+        <description>Dollarstore Västerås Stenby, Västerås Stenby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.566607,59.636006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Västervik</name>
+        <description>Dollarstore Västervik, Västervik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.600314,57.763784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Sala</name>
+        <description>Dollarstore Sala, Sala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.625688,59.918009,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Borgholm</name>
+        <description>Dollarstore Borgholm, Borgholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.671191,56.88053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Sandviken</name>
+        <description>Dollarstore Sandviken, Sandviken</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.772153,60.626699,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Söderhamn</name>
+        <description>Dollarstore Söderhamn, Söderhamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.014677,61.294077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Nyköping</name>
+        <description>Dollarstore Nyköping, Nyköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.019615,58.772227,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Strängnäs</name>
+        <description>Dollarstore Strängnäs, Strängnäs</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.021936,59.337046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Enköping</name>
+        <description>Dollarstore Enköping, Enköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.088149,59.654273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Hudiksvall</name>
+        <description>Dollarstore Hudiksvall, Hudiksvall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.095242,61.733561,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Gävle</name>
+        <description>Dollarstore Gävle, Gävle</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.149187,60.645306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Sundsvall</name>
+        <description>Dollarstore Sundsvall, Sundsvall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.342879,62.442978,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Nykvarn</name>
+        <description>Dollarstore Nykvarn, Nykvarn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.45898,59.188131,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Tierp</name>
+        <description>Dollarstore Tierp, Tierp</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.493711,60.344488,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Uppsala Stenhagen</name>
+        <description>Dollarstore Uppsala Stenhagen, Uppsala Stenhagen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.565019,59.849506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Bro</name>
+        <description>Dollarstore Bro, Bro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.629094,59.527218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Uppsala Gränby</name>
+        <description>Dollarstore Uppsala Gränby, Uppsala Gränby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.674374,59.884719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Kramfors</name>
+        <description>Dollarstore Kramfors, Kramfors</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.783853,62.93345,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Barkarby</name>
+        <description>Dollarstore Barkarby, Järfälla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.855907,59.414895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Botkyrka</name>
+        <description>Dollarstore Botkyrka, Botkyrka</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.864803,59.253863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Kungens Kurva</name>
+        <description>Dollarstore Kungens Kurva, Kungens Kurva</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.919377,59.274598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Häggvik</name>
+        <description>Dollarstore Häggvik, Sollentuna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.928355,59.436706,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Härnösand</name>
+        <description>Dollarstore Härnösand, Härnösand</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.930119,62.635503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Nynäshamn</name>
+        <description>Dollarstore Nynäshamn, Nynäshamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.955595,58.912594,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Arninge</name>
+        <description>Dollarstore Arninge, Täby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.13302,59.461524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Haninge</name>
+        <description>Dollarstore Haninge, Haninge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.150025,59.179328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DollarStore Visby</name>
+        <description>DollarStore Visby, Visby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.3225,57.62278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Norrtälje</name>
+        <description>Dollarstore Norrtälje, Norrtälje</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.695012,59.764987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Lycksele</name>
+        <description>Dollarstore Lycksele, Lycksele</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.697529,64.582827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Örnsköldsvik</name>
+        <description>Dollarstore Örnsköldsvik, Örnsköldsvik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.780713,63.308301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Arvidsjaur</name>
+        <description>Dollarstore Arvidsjaur, Arvidsjaur</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.206886,65.580164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Umeå</name>
+        <description>Dollarstore Umeå, Umeå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.304602,63.84826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Gällivare</name>
+        <description>Dollarstore Gällivare, Gällivare</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.658213,67.148162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Skellefteå</name>
+        <description>Dollarstore Skellefteå, Skellefteå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.971965,64.734276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Piteå</name>
+        <description>Dollarstore Piteå, Piteå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.447049,65.322462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Boden</name>
+        <description>Dollarstore Boden, Boden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.663522,65.825254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Luleå</name>
+        <description>Dollarstore Luleå, Luleå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.048658,65.61923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollarstore Haparanda</name>
+        <description>Dollarstore Haparanda, Haparanda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.115483,65.841837,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

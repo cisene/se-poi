@@ -1,0 +1,1174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Max Hamburgerrestauranger</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Max Hamburgerrestauranger</name>
+      <Placemark>
+        <name>Max i Strömstad</name>
+        <description>Max i Strömstad, Strömstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.20562,59.06511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Uddevalla</name>
+        <description>Max i Uddevalla, Uddevalla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.81156,58.35169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Gamla Ullevi</name>
+        <description>Max i Gamla Ullevi, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.98,57.706,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max på Liseberg - Tornet</name>
+        <description>Max på Liseberg - Tornet, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.9911,57.6952,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Bäckebol</name>
+        <description>Max i Bäckebol, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.993188,57.758475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max på Liseberg - Storgatan</name>
+        <description>Max på Liseberg - Storgatan, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.994,57.6951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max på Liseberg - Balder</name>
+        <description>Max på Liseberg - Balder, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.9951,57.6935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Göteborg</name>
+        <description>Max i Göteborg, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.02963,57.72397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Partille</name>
+        <description>Max i Partille, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.10513,57.73754,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Trollhättan</name>
+        <description>Max i Trollhättan, Trollhättan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.29134,58.28535,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max på Landvetter</name>
+        <description>Max på Landvetter, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.292314,57.668799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Trollhättan</name>
+        <description>Max i Trollhättan, Trollhättan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.30583,58.31553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Falkenberg</name>
+        <description>Max i Falkenberg, Falkenberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.517637,56.931391,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Alingsås</name>
+        <description>Max i Alingsås, Alingsås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.529585,57.923283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Helsingborg</name>
+        <description>Max i Helsingborg, Helsingborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.70213,56.04054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Väla</name>
+        <description>Max i Väla, Helsingborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.76485,56.09213,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Halmstad</name>
+        <description>Max i Halmstad, Halmstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.80364,56.67801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Hyllinge</name>
+        <description>Max i Hyllinge, Helsingborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.85204,56.09957,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Halmstad</name>
+        <description>Max i Halmstad, Halmstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.90812,56.65844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Borås</name>
+        <description>Max i Borås, Borås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.935977,57.734085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Malmö</name>
+        <description>Max i Malmö, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.97194,55.56361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Löddeköpinge</name>
+        <description>Max i Löddeköpinge, Löddeköpinge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.98831,55.77137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Malmö</name>
+        <description>Max i Malmö, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.00011,55.60554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Malmö</name>
+        <description>Max i Malmö, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.03861,55.57195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Åre</name>
+        <description>Max i Åre, Åre</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.07803,63.40041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Lund</name>
+        <description>Max i Lund, Lund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.15624,55.71622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Lund</name>
+        <description>Max i Lund, Lund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.18172,55.71144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Karlstad</name>
+        <description>Max i Karlstad, Karlstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.42536,59.37901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Karlstad</name>
+        <description>Max i Karlstad, Karlstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.46839,59.38142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Ystad</name>
+        <description>Max i Ystad, Ystad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.82101,55.4291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Skövde</name>
+        <description>Max i Skövde, Skövde</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.87419,58.40839,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Ljungby</name>
+        <description>Max i Ljungby, Ljungby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.90722,56.8125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Värnamo</name>
+        <description>Max i Värnamo, Värnamo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.07426,57.16323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Kristianstad</name>
+        <description>Max i Kristianstad, Kristianstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.14483,56.02249,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Jönköping</name>
+        <description>Max i Jönköping, Jönköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.15294,57.76517,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Jönköping</name>
+        <description>Max i Jönköping, Jönköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.17614,57.77349,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Jönköping</name>
+        <description>Max i Jönköping, Jönköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.22667,57.78056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Karlskoga</name>
+        <description>Max i Karlskoga, Karlskoga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.52571,59.32497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Mora</name>
+        <description>Max i Mora, Mora</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.598243,61.006738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Östersund</name>
+        <description>Max i Östersund, Östersund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.64362,63.16759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Växjö</name>
+        <description>Max i Växjö, Växjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.77521,56.87803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Växjö</name>
+        <description>Max i Växjö, Växjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.819319,56.860783,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Mjölby</name>
+        <description>Max i Mjölby, Mjölby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.08972,58.32389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Örebro</name>
+        <description>Max i Örebro, Örebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.13431,59.21289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Örebro</name>
+        <description>Max i Örebro, Örebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.20349,59.29738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Örebro</name>
+        <description>Max i Örebro, Örebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.22371,59.26692,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Borlänge</name>
+        <description>Max i Borlänge, Borlänge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.436252,60.477048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Linköping</name>
+        <description>Max i Linköping, Linköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.59313,58.43483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Karlskrona</name>
+        <description>Max i Karlskrona, Karlskrona</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.63229,56.19543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Falun</name>
+        <description>Max i Falun, Falun</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.64167,60.60444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Linköping</name>
+        <description>Max i Linköping, Linköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.65716,58.41762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Köping</name>
+        <description>Max i Köping, Köping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.97279,59.52036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Norrköping</name>
+        <description>Max i Norrköping, Norrköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.15944,58.61194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Norrköping</name>
+        <description>Max i Norrköping, Norrköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.1898,58.59741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Kalmar</name>
+        <description>Max i Kalmar, Kalmar</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.31586,56.69138,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Kalmar</name>
+        <description>Max i Kalmar, Kalmar</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.35389,56.6675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Bollnäs</name>
+        <description>Max i Bollnäs, Bollnäs</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.38843,61.348635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Eskilstuna</name>
+        <description>Max i Eskilstuna, Eskilstuna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.46639,59.3925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Västerås</name>
+        <description>Max i Västerås, Västerås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.46757,59.6129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Eskilstuna</name>
+        <description>Max i Eskilstuna, Eskilstuna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.47011,59.37484,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Västerås</name>
+        <description>Max i Västerås, Västerås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.57,59.61333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Västerås</name>
+        <description>Max i Västerås, Västerås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.6135,59.61269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Nyköping</name>
+        <description>Max i Nyköping, Nyköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.97857,58.74833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Nyköping</name>
+        <description>Max i Nyköping, Nyköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.02339,58.77317,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Hudiksvall</name>
+        <description>Max i Hudiksvall, Hudiksvall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.046834,61.7145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Enköping</name>
+        <description>Max i Enköping, Enköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.081303,59.65295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Gävle</name>
+        <description>Max i Gävle, Gävle</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.13691,60.68083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Gävle</name>
+        <description>Max i Gävle, Gävle</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.142489,60.639383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Gävle</name>
+        <description>Max i Gävle, Gävle</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.16041,60.66007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Sundsvall</name>
+        <description>Max i Sundsvall, Sundsvall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.31938,62.38698,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Sundsvall</name>
+        <description>Max i Sundsvall, Sundsvall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.34406,62.44239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Södertälje</name>
+        <description>Max i Södertälje, Södertälje</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.60931,59.20225,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Uppsala</name>
+        <description>Max i Uppsala, Uppsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.63865,59.85886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Uppsala</name>
+        <description>Max i Uppsala, Uppsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.65777,59.86868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Uppsala</name>
+        <description>Max i Uppsala, Uppsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.66553,59.88565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Uppsala</name>
+        <description>Max i Uppsala, Uppsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.69103,59.85037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Märsta</name>
+        <description>Max i Märsta, Märsta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.849364,59.616367,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Slagsta</name>
+        <description>Max i Slagsta, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.854166,59.253163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Barkarby</name>
+        <description>Max i Barkarby, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.85438,59.4207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Vårby</name>
+        <description>Max i Vårby, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.8766,59.25138,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Rotebro</name>
+        <description>Max i Rotebro, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.917537,59.47065,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max Infra City</name>
+        <description>Max Infra City, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.92417,59.49583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max på Arlanda</name>
+        <description>Max på Arlanda, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.92853,59.64765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max på Arlanda</name>
+        <description>Max på Arlanda, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.930795,59.651127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max på Arlanda</name>
+        <description>Max på Arlanda, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.93443,59.65177,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Häggvik</name>
+        <description>Max i Häggvik, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.942273,59.445445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Kista</name>
+        <description>Max i Kista, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.94658,59.40244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Bromma</name>
+        <description>Max i Bromma, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.95695,59.35056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Solna</name>
+        <description>Max i Solna, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.99429,59.36046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Mall of Scandinavia</name>
+        <description>Max i Mall of Scandinavia, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.005408,59.369498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max på Torsplan</name>
+        <description>Max på Torsplan, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.032167,59.346746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max Vasagatan</name>
+        <description>Max Vasagatan, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.05735,59.33234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Roslags-Näsby</name>
+        <description>Max i Roslags-Näsby, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.066365,59.434331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max Hamngatan</name>
+        <description>Max Hamngatan, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.07174,59.33274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Hammarby Sjöstad</name>
+        <description>Max i Hammarby Sjöstad, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.10321,59.30215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Arninge</name>
+        <description>Max i Arninge, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.12889,59.46,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Länna</name>
+        <description>Max i Länna, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.12944,59.2,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Lidingö</name>
+        <description>Max i Lidingö, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.1531,59.348376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Visby</name>
+        <description>Max i Visby, Visby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.30357,57.63749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Värmdö</name>
+        <description>Max i Värmdö, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.42505,59.31207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Örnsköldsvik</name>
+        <description>Max i Örnsköldsvik, Örnsköldsvik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.7051,63.29073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Umeå</name>
+        <description>Max i Umeå, Umeå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.254753,63.804002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Umeå</name>
+        <description>Max i Umeå, Umeå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.25942,63.82979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Umeå - Utopia</name>
+        <description>Max i Umeå - Utopia, Umeå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.2645,63.8257,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Skellefteå</name>
+        <description>Max i Skellefteå, Skellefteå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.95988,64.75089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Krysset gatukök</name>
+        <description>Krysset gatukök, Skellefteå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.964053,64.737664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Piteå</name>
+        <description>Max i Piteå, Piteå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.47412,65.32063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Boden</name>
+        <description>Max i Boden, Boden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.70799,65.81734,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Luleå</name>
+        <description>Max i Luleå, Luleå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.04153,65.61809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Luleå</name>
+        <description>Max i Luleå, Luleå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.13859,65.60239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Luleå</name>
+        <description>Max i Luleå, Luleå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.14797,65.59006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Luleå</name>
+        <description>Max i Luleå, Luleå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.1544,65.58531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Max i Haparanda</name>
+        <description>Max i Haparanda, Haparanda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.13335,65.84106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

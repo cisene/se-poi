@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Grundskolor Piteå Kommun</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Grundskolor Piteå Kommun</name>
+      <Placemark>
+        <name>Svensby skola</name>
+        <description>Svensby skola, Svensby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.138063,59.728813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>I ur och skur - Forsen</name>
+        <description>I ur och skur - Forsen, Sikfors, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.198563,65.533062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sjulnässkolan</name>
+        <description>Sjulnässkolan, Sjulsnäs, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.240437,65.344813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dalbackens Friskola</name>
+        <description>Dalbackens Friskola, Hemmingsmark, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.285438,65.223062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Böle skola</name>
+        <description>Böle skola, Piteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.310938,65.385562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tolvmans Friskola</name>
+        <description>Tolvmans Friskola, Bergsviken, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.381813,65.307937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bergsviksskolan</name>
+        <description>Bergsviksskolan, Bergsviken, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.392688,65.303438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Björklundaskolan</name>
+        <description>Björklundaskolan, Öjebyn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.400062,65.343187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Solanderskolan</name>
+        <description>Solanderskolan, Öjebyn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.402687,65.345187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hortlax skola</name>
+        <description>Hortlax skola, Hortlax, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.408313,65.285938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kullenskolan</name>
+        <description>Kullenskolan, Piteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.408687,65.326437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Norrbyskolan</name>
+        <description>Norrbyskolan, Piteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.409312,65.286812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Backeskolan</name>
+        <description>Backeskolan, Piteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.459938,65.319437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Långskataskolan</name>
+        <description>Långskataskolan, Piteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.471063,65.337563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Norrmalmskolan</name>
+        <description>Norrmalmskolan, Piteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.481938,65.319563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rönnskolan</name>
+        <description>Rönnskolan, Piteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.485188,65.319437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Christinaskolan</name>
+        <description>Christinaskolan, Piteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.486312,65.319437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jävre skola</name>
+        <description>Jävre skola, Jävre, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.486312,65.155937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sjulsmarks skola</name>
+        <description>Sjulsmarks skola, Sjulsmark, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.488813,65.522937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Klubbgärdsskolan</name>
+        <description>Klubbgärdsskolan, Piteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.491312,65.303313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Porsnässkolan</name>
+        <description>Porsnässkolan, Norrfjärden, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.491437,65.420563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Munksunds skola</name>
+        <description>Munksunds skola, Piteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.496313,65.280937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Strömbacka Hugin</name>
+        <description>Strömbacka Hugin, Piteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.497937,65.315562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Strömbacka Mjölner</name>
+        <description>Strömbacka Mjölner, Piteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.497937,65.315562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Strömbacka Munin</name>
+        <description>Strömbacka Munin, Piteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.497937,65.315562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Strömbacka Mimer</name>
+        <description>Strömbacka Mimer, Piteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.497937,65.315562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Strömbacka Magne</name>
+        <description>Strömbacka Magne, Piteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.497937,65.315562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Backgårdsskolan</name>
+        <description>Backgårdsskolan, Norrfjärden, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.504062,65.419562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pitholmsskolan 4-6</name>
+        <description>Pitholmsskolan 4-6, Piteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.505187,65.298312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pitholmsskolan 7-9</name>
+        <description>Pitholmsskolan 7-9, Piteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.506062,65.298187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Strömnäs skola</name>
+        <description>Strömnäs skola, Piteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.506563,65.311813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rosviks skola</name>
+        <description>Rosviks skola, Rosvik, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.692188,65.426937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://github.com/cisene/se-poi -->
+<gpx creator="se-poi" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+  <metadata>
+    <name><![CDATA[Filmstaden]]></name>
+    <desc><![CDATA[Koordinater - Filmstaden]]></desc>
+    <link href="https://filmstaden.se/">
+      <text><![CDATA[Filmstaden]]></text>
+       <type>text/html</type>
+    </link>
+   <time>2023-07-15T16:21:17+02:00</time>
+  </metadata>
+  <bounds minlat="55.374434" minlon="11.931095" maxlat="65.585156" maxlon="22.154219" />
+  <wpt lat="58.346663" lon="11.931095"><name><![CDATA[Biostaden Uddevalla, Uddevalla]]></name></wpt>
+  <wpt lat="57.703482" lon="11.966815"><name><![CDATA[Biopalatset, Göteborg]]></name></wpt>
+  <wpt lat="57.697371" lon="11.978552"><name><![CDATA[Göta i Göteborg, Göteborg]]></name></wpt>
+  <wpt lat="57.702405" lon="11.986084"><name><![CDATA[Filmstaden Bergakungen, Göteborg]]></name></wpt>
+  <wpt lat="57.486138" lon="12.068444"><name><![CDATA[Biostaden Kungsbacka, Kungsbacka]]></name></wpt>
+  <wpt lat="57.102451" lon="12.253823"><name><![CDATA[Capitol Varberg, Varberg]]></name></wpt>
+  <wpt lat="58.284813" lon="12.291313"><name><![CDATA[Biostaden Trollhättan, Trollhättan]]></name></wpt>
+  <wpt lat="58.379138" lon="12.322056"><name><![CDATA[Saga Vänersborg, Vänersborg]]></name></wpt>
+  <wpt lat="57.928313" lon="12.535857"><name><![CDATA[Saga Alingsås, Alingsås]]></name></wpt>
+  <wpt lat="56.040693" lon="12.701144"><name><![CDATA[Filmstaden Helsingborg, Helsingborg]]></name></wpt>
+  <wpt lat="55.870584" lon="12.832303"><name><![CDATA[Maxim Landskrona, Landskrona]]></name></wpt>
+  <wpt lat="56.676206" lon="12.858082"><name><![CDATA[Röda Kvarn i Halmstad, Halmstad]]></name></wpt>
+  <wpt lat="57.721584" lon="12.940258"><name><![CDATA[Biostaden 2001 Borås, Borås]]></name></wpt>
+  <wpt lat="55.426306" lon="12.965733"><name><![CDATA[Biohuset Höllviken, Höllviken]]></name></wpt>
+  <wpt lat="55.599795" lon="13.000737"><name><![CDATA[Filmstaden Storgatan, Malmö]]></name></wpt>
+  <wpt lat="55.601542" lon="13.000981"><name><![CDATA[Royal Malmö, Malmö]]></name></wpt>
+  <wpt lat="55.607499" lon="13.024427"><name><![CDATA[Filmstaden Entré, Malmö]]></name></wpt>
+  <wpt lat="61.15641" lon="13.117632"><name><![CDATA[Vinterpalatset Sälen, Sälen]]></name></wpt>
+  <wpt lat="55.374434" lon="13.152113"><name><![CDATA[Grand Trelleborg, Trelleborg]]></name></wpt>
+  <wpt lat="55.701317" lon="13.19492"><name><![CDATA[Filmstaden Lund, Lund]]></name></wpt>
+  <wpt lat="58.384541" lon="13.44327"><name><![CDATA[Grand Skara, Skara]]></name></wpt>
+  <wpt lat="59.379132" lon="13.498134"><name><![CDATA[Filmstaden Karlstad, Karlstad]]></name></wpt>
+  <wpt lat="58.708562" lon="13.819992"><name><![CDATA[Saga Mariestad, Mariestad]]></name></wpt>
+  <wpt lat="55.432119" lon="13.842301"><name><![CDATA[Cinema 3 i Ystad, Ystad]]></name></wpt>
+  <wpt lat="58.38873" lon="13.845294"><name><![CDATA[Biostaden Saga Skövde, Skövde]]></name></wpt>
+  <wpt lat="57.18848" lon="14.037574"><name><![CDATA[Biostaden Värnamo, Värnamo]]></name></wpt>
+  <wpt lat="56.030306" lon="14.159219"><name><![CDATA[Kosmorama Kristianstad, Kristianstad]]></name></wpt>
+  <wpt lat="57.783471" lon="14.161804"><name><![CDATA[Filmstaden Jönköping, Jönköping]]></name></wpt>
+  <wpt lat="56.074592" lon="14.467688"><name><![CDATA[Filmpalatset i Bromölla, Bromölla]]></name></wpt>
+  <wpt lat="61.004368" lon="14.537872"><name><![CDATA[Saga Mora, Mora]]></name></wpt>
+  <wpt lat="63.177692" lon="14.637328"><name><![CDATA[Biostaden Östersund, Östersund]]></name></wpt>
+  <wpt lat="56.878895" lon="14.797829"><name><![CDATA[Filmstaden Växjö, Växjö]]></name></wpt>
+  <wpt lat="58.538459" lon="15.034477"><name><![CDATA[Royal Motala, Motala]]></name></wpt>
+  <wpt lat="57.427429" lon="15.08493"><name><![CDATA[Saga Vetlanda, Vetlanda]]></name></wpt>
+  <wpt lat="58.325262" lon="15.131154"><name><![CDATA[Saga Mjölby, Mjölby]]></name></wpt>
+  <wpt lat="59.273151" lon="15.212506"><name><![CDATA[Filmstaden Örebro, Örebro]]></name></wpt>
+  <wpt lat="60.487815" lon="15.435706"><name><![CDATA[Biopalatset Borlänge, Borlänge]]></name></wpt>
+  <wpt lat="56.162304" lon="15.58937"><name><![CDATA[Biostaden Karlskrona, Karlskrona]]></name></wpt>
+  <wpt lat="58.411811" lon="15.621913"><name><![CDATA[Filmstaden Linköping, Linköping]]></name></wpt>
+  <wpt lat="60.607698" lon="15.629026"><name><![CDATA[Falan Falun, Falun]]></name></wpt>
+  <wpt lat="59.512708" lon="15.99287"><name><![CDATA[Royal Köping, Köping]]></name></wpt>
+  <wpt lat="58.586824" lon="16.188409"><name><![CDATA[Filmstaden Norrköping, Norrköping]]></name></wpt>
+  <wpt lat="58.992996" lon="16.204455"><name><![CDATA[Cinema 3 Katrineholm, Katrineholm]]></name></wpt>
+  <wpt lat="56.663445" lon="16.356779"><name><![CDATA[Saga Kalmar, Kalmar]]></name></wpt>
+  <wpt lat="56.661094" lon="16.365096"><name><![CDATA[Biostaden Kalmar, Kalmar]]></name></wpt>
+  <wpt lat="59.376206" lon="16.500021"><name><![CDATA[Biostaden Eskilstuna, Eskilstuna]]></name></wpt>
+  <wpt lat="59.611946" lon="16.547728"><name><![CDATA[Filmstaden Västerås, Västerås]]></name></wpt>
+  <wpt lat="57.757065" lon="16.639286"><name><![CDATA[Biostaden Västervik, Västervik]]></name></wpt>
+  <wpt lat="58.750042" lon="16.989047"><name><![CDATA[Biostaden Nyköping, Nyköping]]></name></wpt>
+  <wpt lat="59.377452" lon="17.032119"><name><![CDATA[Cinema 3 Strängnäs, Strängnäs]]></name></wpt>
+  <wpt lat="61.301671" lon="17.052945"><name><![CDATA[Svea i Söderhamn, Söderhamn]]></name></wpt>
+  <wpt lat="61.727088" lon="17.10583"><name><![CDATA[Cinema 3 i Hudiksvall, Hudiksvall]]></name></wpt>
+  <wpt lat="60.67488" lon="17.141273"><name><![CDATA[Filmstaden Gävle, Gävle]]></name></wpt>
+  <wpt lat="59.857594" lon="17.637505"><name><![CDATA[Spegeln, Uppsala]]></name></wpt>
+  <wpt lat="59.856941" lon="17.638188"><name><![CDATA[Filmstaden Uppsala, Uppsala]]></name></wpt>
+  <wpt lat="59.859279" lon="17.641557"><name><![CDATA[Royal Uppsala, Uppsala]]></name></wpt>
+  <wpt lat="59.362781" lon="17.871838"><name><![CDATA[Filmstaden Vällingby, Stockholm]]></name></wpt>
+  <wpt lat="59.267201" lon="17.910267"><name><![CDATA[Filmstaden Heron City, Stockholm]]></name></wpt>
+  <wpt lat="62.633527" lon="17.940062"><name><![CDATA[Saga Härnösand, Härnösand]]></name></wpt>
+  <wpt lat="59.40231" lon="17.945734"><name><![CDATA[Filmstaden Kista, Stockholm]]></name></wpt>
+  <wpt lat="59.367098" lon="17.982112"><name><![CDATA[Filmstaden Råsunda, Stockholm]]></name></wpt>
+  <wpt lat="59.369329" lon="18.005496"><name><![CDATA[Filmstaden Scandinavia, Stockholm]]></name></wpt>
+  <wpt lat="59.339236" lon="18.059492"><name><![CDATA[Grand Stockholm, Stockholm]]></name></wpt>
+  <wpt lat="59.335439" lon="18.059983"><name><![CDATA[Skandia, Stockholm]]></name></wpt>
+  <wpt lat="59.334666" lon="18.06283"><name><![CDATA[Filmstaden Sergel, Stockholm]]></name></wpt>
+  <wpt lat="59.336131" lon="18.067115"><name><![CDATA[Saga, Stockholm]]></name></wpt>
+  <wpt lat="59.445102" lon="18.067541"><name><![CDATA[Filmstaden Täby, Stockholm]]></name></wpt>
+  <wpt lat="59.33906" lon="18.067741"><name><![CDATA[Sture, Stockholm]]></name></wpt>
+  <wpt lat="59.336031" lon="18.068917"><name><![CDATA[Rigoletto, Stockholm]]></name></wpt>
+  <wpt lat="59.314049" lon="18.071269"><name><![CDATA[Filmstaden Söder, Stockholm]]></name></wpt>
+  <wpt lat="59.312739" lon="18.074368"><name><![CDATA[Victoria Stockholm, Stockholm]]></name></wpt>
+  <wpt lat="59.305126" lon="18.121386"><name><![CDATA[Filmstaden Sickla, Stockholm]]></name></wpt>
+  <wpt lat="59.365808" lon="18.135676"><name><![CDATA[Grand Lidingö, Stockholm]]></name></wpt>
+  <wpt lat="57.638675" lon="18.29763"><name><![CDATA[Biostaden Borgen Visby, Visby]]></name></wpt>
+  <wpt lat="59.757966" lon="18.702681"><name><![CDATA[Royal Norrtälje, Norrtälje]]></name></wpt>
+  <wpt lat="63.290958" lon="18.716214"><name><![CDATA[Biostaden Palladium Örnsköldsvik, Örnsköldsvik]]></name></wpt>
+  <wpt lat="63.824137" lon="20.26398"><name><![CDATA[Filmstaden Umeå, Umeå]]></name></wpt>
+  <wpt lat="64.751213" lon="20.954742"><name><![CDATA[Biostaden Aveny Skellefteå, Skellefteå]]></name></wpt>
+  <wpt lat="65.585156" lon="22.154219"><name><![CDATA[Filmstaden Luleå, Luleå]]></name></wpt>
+</gpx>

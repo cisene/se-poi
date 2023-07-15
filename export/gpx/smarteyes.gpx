@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://github.com/cisene/se-poi -->
+<gpx creator="se-poi" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+  <metadata>
+    <name><![CDATA[Smarteyes]]></name>
+    <desc><![CDATA[Koordinater - Smarteyes]]></desc>
+    <link href="https://www.smarteyes.se/">
+      <text><![CDATA[Smarteyes]]></text>
+       <type>text/html</type>
+    </link>
+   <time>2023-07-15T16:21:24+02:00</time>
+  </metadata>
+  <bounds minlat="55.564743" minlon="11.911824" maxlat="59.75703" maxlon="18.699635" />
+  <wpt lat="57.652563" lon="11.911824"><name><![CDATA[Smarteyes Göteborg Frölunda, Göteborg]]></name></wpt>
+  <wpt lat="57.70476" lon="11.963842"><name><![CDATA[Smarteyes Göteborg Kyrkogatan, Göteborg]]></name></wpt>
+  <wpt lat="57.705015" lon="11.969861"><name><![CDATA[Smarteyes Göteborg Kungsgatan, Göteborg]]></name></wpt>
+  <wpt lat="55.564743" lon="12.974169"><name><![CDATA[Smarteyes Malmö Emporia, Malmö]]></name></wpt>
+  <wpt lat="55.596108" lon="13.002887"><name><![CDATA[Smarteyes Malmö City, Malmö]]></name></wpt>
+  <wpt lat="55.701497" lon="13.192696"><name><![CDATA[Smarteyes Lund, Lund]]></name></wpt>
+  <wpt lat="59.19717" lon="17.626394"><name><![CDATA[Smarteyes Södertälje, Södertälje]]></name></wpt>
+  <wpt lat="59.363577" lon="17.874499"><name><![CDATA[Smarteyes Stockholm Vällingby, Stockholm]]></name></wpt>
+  <wpt lat="59.276605" lon="17.908556"><name><![CDATA[Smarteyes Stockholm Skärholmen, Stockholm]]></name></wpt>
+  <wpt lat="59.235754" lon="17.982057"><name><![CDATA[Smarteyes Stockholm Huddinge, Stockholm]]></name></wpt>
+  <wpt lat="59.360263" lon="17.999694"><name><![CDATA[Smarteyes Stockholm Solna, Stockholm]]></name></wpt>
+  <wpt lat="59.309368" lon="18.022416"><name><![CDATA[Smarteyes Stockholm Liljeholmen, Stockholm]]></name></wpt>
+  <wpt lat="59.332345" lon="18.030144"><name><![CDATA[Smarteyes Stockholm Fridhemsplan (Åhléns), Stockholm]]></name></wpt>
+  <wpt lat="59.335931" lon="18.064749"><name><![CDATA[Smarteyes Stockholm Kungsgatan, Stockholm]]></name></wpt>
+  <wpt lat="59.444989" lon="18.07289"><name><![CDATA[Smarteyes Stockholm Täby, Stockholm]]></name></wpt>
+  <wpt lat="59.313693" lon="18.073393"><name><![CDATA[Smarteyes Stockholm Götgatan, Stockholm]]></name></wpt>
+  <wpt lat="59.17924" lon="18.149222"><name><![CDATA[Smarteyes Stockholm Haninge, Stockholm]]></name></wpt>
+  <wpt lat="59.310285" lon="18.163807"><name><![CDATA[Smarteyes Stockholm Nacka, Stockholm]]></name></wpt>
+  <wpt lat="59.75703" lon="18.699635"><name><![CDATA[Smarteyes Norrtälje, Norrtälje]]></name></wpt>
+</gpx>

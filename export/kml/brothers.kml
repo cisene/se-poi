@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Brothers</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Brothers</name>
+      <Placemark>
+        <name>Brothers Turku</name>
+        <description>Brothers Turku, Turku</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            0.0,0.0,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brothers Torp</name>
+        <description>Brothers Torp, Uddevalla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.865593,58.34471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brothers Göteborg Frölunda Torg</name>
+        <description>Brothers Göteborg Frölunda Torg, Västra frölunda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.912231,57.651757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brothers Göteborg Nordstan</name>
+        <description>Brothers Göteborg Nordstan, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.97456,57.70887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brothers Kungsbacka</name>
+        <description>Brothers Kungsbacka, Kungsbacka</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.075021,57.491509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brothers Göteborg Allum</name>
+        <description>Brothers Göteborg Allum, Partille</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.106236,57.73728,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brothers Varberg</name>
+        <description>Brothers Varberg, Varberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.253046,57.105387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brothers Väla</name>
+        <description>Brothers Väla, Ödåkra-Väla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.757103,56.091698,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nowaste Lager - Brothers</name>
+        <description>Nowaste Lager - Brothers, Helsingborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.78494,56.071325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brothers Halmstad Hallarna</name>
+        <description>Brothers Halmstad Hallarna, Halmstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.911448,56.655335,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brothers Borås Knalleland</name>
+        <description>Brothers Borås Knalleland, Borås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.942754,57.734808,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brothers Malmö Triangeln</name>
+        <description>Brothers Malmö Triangeln, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.002464,55.595809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brothers Malmö Emporia</name>
+        <description>Brothers Malmö Emporia, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.003822,55.604981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brothers Nova Lund</name>
+        <description>Brothers Nova Lund, Lund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.159958,55.71394,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brothers Karlstad</name>
+        <description>Brothers Karlstad, Karlstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.499571,59.380112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brothers Skövde</name>
+        <description>Brothers Skövde, Skövde</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.844999,58.389996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brothers C4 Kristianstad</name>
+        <description>Brothers C4 Kristianstad, Kristianstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.197108,56.02343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brothers Jönköping Asecs</name>
+        <description>Brothers Jönköping Asecs, Jönköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.203979,57.774485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brothers Växjö</name>
+        <description>Brothers Växjö, Växjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.802621,56.878667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brothers Örebro Marieberg</name>
+        <description>Brothers Örebro Marieberg, Örebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.139579,59.215935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brothers Borlänge Kupolen</name>
+        <description>Brothers Borlänge Kupolen, Borlänge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.417971,60.484166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brothers Linköping Ikea</name>
+        <description>Brothers Linköping Ikea, Linköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.587852,58.43236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brothers Linköping Gränden</name>
+        <description>Brothers Linköping Gränden, Linköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.62662,58.410072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brothers Falun</name>
+        <description>Brothers Falun, Falun</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.630955,60.606067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brothers Norrköping</name>
+        <description>Brothers Norrköping, Norrköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.190573,58.588573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brothers Erikslund</name>
+        <description>Brothers Erikslund, Västerås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.462396,59.611362,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brothers Eskilstuna Tuna Park</name>
+        <description>Brothers Eskilstuna Tuna Park, Eskilstuna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.469067,59.372017,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brothers Västerås</name>
+        <description>Brothers Västerås, Västerås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.544552,59.611817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brothers Sundsvall Birsta</name>
+        <description>Brothers Sundsvall Birsta, Sundsvall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.335877,62.447125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brothers Södertälje</name>
+        <description>Brothers Södertälje, Södertälje</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.626597,59.195841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brothers Uppsala</name>
+        <description>Brothers Uppsala, Uppsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.638278,59.8591,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brothers Gränby</name>
+        <description>Brothers Gränby, Uppsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.671632,59.877328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brothers Mall of Scandinavia</name>
+        <description>Brothers Mall of Scandinavia, Solna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.003612,59.370034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brothers Stockholm Liljeholmen</name>
+        <description>Brothers Stockholm Liljeholmen, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.021402,59.308606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brothers Stockholm Drottninggatan</name>
+        <description>Brothers Stockholm Drottninggatan, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.061852,59.333305,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brothers Täby</name>
+        <description>Brothers Täby, Täby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.06646,59.442097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brothers Gallerian</name>
+        <description>Brothers Gallerian, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.067468,59.33122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brothers Stockholm Ringen</name>
+        <description>Brothers Stockholm Ringen, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.07435,59.307575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brothers Stockholm Fältöversten</name>
+        <description>Brothers Stockholm Fältöversten, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.092934,59.338177,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brothers Sickla</name>
+        <description>Brothers Sickla, Nacka</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.124495,59.306035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brothers Farsta</name>
+        <description>Brothers Farsta, Farsta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.146909,59.205835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brothers Nacka</name>
+        <description>Brothers Nacka, Nacka</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.16404,59.310845,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brothers Umeå</name>
+        <description>Brothers Umeå, Umeå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.254734,63.805493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

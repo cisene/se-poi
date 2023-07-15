@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://github.com/cisene/se-poi -->
+<gpx creator="se-poi" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+  <metadata>
+    <name><![CDATA[Shell Finland]]></name>
+    <desc><![CDATA[Koordinater - Shell Finland]]></desc>
+    <link href="https://www.shell.fi/">
+      <text><![CDATA[Shell Finland]]></text>
+       <type>text/html</type>
+    </link>
+   <time>2023-07-15T16:21:22+02:00</time>
+  </metadata>
+  <bounds minlat="60.053778" minlon="19.944147" maxlat="69.398931" maxlon="29.771671" />
+  <wpt lat="60.102578" lon="19.944147"><name><![CDATA[Shell Maarianhamina, Mariehamn]]></name></wpt>
+  <wpt lat="62.477719" lon="21.382191"><name><![CDATA[Shell TS Närpiö, Närpiö]]></name></wpt>
+  <wpt lat="61.6337" lon="21.4154"><name><![CDATA[Shell TS Pori Tahkoluoto, Pori]]></name></wpt>
+  <wpt lat="60.803988" lon="21.423638"><name><![CDATA[Shell Express Uusikaupunki, Uusikaupunki]]></name></wpt>
+  <wpt lat="61.129222" lon="21.467819"><name><![CDATA[Shell TS Rauma Satama, Rauma]]></name></wpt>
+  <wpt lat="62.262" lon="21.4851"><name><![CDATA[Shell TS Kristiinankaupunki, Lapväärtti]]></name></wpt>
+  <wpt lat="61.100988" lon="21.506447"><name><![CDATA[Shell TS Rauma Kortela, Rauma]]></name></wpt>
+  <wpt lat="61.13239" lon="21.510795"><name><![CDATA[Shell Express Rauma Karjalakatu, Rauma]]></name></wpt>
+  <wpt lat="63.091317" lon="21.622467"><name><![CDATA[Shell Express Vaasa Pitkäkatu, Vaasa]]></name></wpt>
+  <wpt lat="63.100591" lon="21.635987"><name><![CDATA[Shell Express Vaasa Meijerinkatu, Vaasa]]></name></wpt>
+  <wpt lat="63.113612" lon="21.658953"><name><![CDATA[Shell Vaasa Kivihaka, Vaasa]]></name></wpt>
+  <wpt lat="63.079057" lon="21.664701"><name><![CDATA[Shell Express Vaasa Rantamaantie, Vaasa]]></name></wpt>
+  <wpt lat="60.874179" lon="21.700714"><name><![CDATA[Shell Laitila, Laitila]]></name></wpt>
+  <wpt lat="63.051112" lon="21.721153"><name><![CDATA[Shell TS Vaasa Kiitokaari, Vaasa]]></name></wpt>
+  <wpt lat="61.48625" lon="21.753112"><name><![CDATA[Shell Express Pori Tikkula, Pori]]></name></wpt>
+  <wpt lat="61.489622" lon="21.783888"><name><![CDATA[Shell Express Pori Karjaranta, Pori]]></name></wpt>
+  <wpt lat="61.468672" lon="21.806346"><name><![CDATA[Shell TS Pori Satakunnankatu, Pori]]></name></wpt>
+  <wpt lat="61.474582" lon="21.81401"><name><![CDATA[Shell Pori Koivula, Pori]]></name></wpt>
+  <wpt lat="61.584596" lon="21.852527"><name><![CDATA[Shell Pori Noormarkku, Noormarkku]]></name></wpt>
+  <wpt lat="62.982933" lon="22.000987"><name><![CDATA[Shell Express Laihia, Laihia]]></name></wpt>
+  <wpt lat="61.701207" lon="22.014351"><name><![CDATA[Shell Pomarkku, Pomarkku]]></name></wpt>
+  <wpt lat="60.468741" lon="22.061438"><name><![CDATA[Shell TS Naantali Satama, Naantali]]></name></wpt>
+  <wpt lat="60.447674" lon="22.20909"><name><![CDATA[Shell TS Turku Satama 2, Turku]]></name></wpt>
+  <wpt lat="60.447642" lon="22.213944"><name><![CDATA[Shell TS Turku Satama 1, Turku]]></name></wpt>
+  <wpt lat="60.441106" lon="22.256953"><name><![CDATA[Shell Express Turku Martinmäki, Turku]]></name></wpt>
+  <wpt lat="60.435748" lon="22.26325"><name><![CDATA[Shell Express Turku Mäntymäki, Turku]]></name></wpt>
+  <wpt lat="60.457603" lon="22.269874"><name><![CDATA[Shell Turku SataShell, Turku]]></name></wpt>
+  <wpt lat="60.477375" lon="22.283936"><name><![CDATA[Shell Express Turku Kärsämäentie, Turku]]></name></wpt>
+  <wpt lat="60.486495" lon="22.322941"><name><![CDATA[Shell Turku Oriketo, Turku]]></name></wpt>
+  <wpt lat="60.407612" lon="22.37262"><name><![CDATA[Shell Kaarina, Kaarina]]></name></wpt>
+  <wpt lat="61.801501" lon="22.392437"><name><![CDATA[Shell Kankaanpää, Kankaanpää]]></name></wpt>
+  <wpt lat="60.502851" lon="22.46026"><name><![CDATA[Shell Lieto, Lieto]]></name></wpt>
+  <wpt lat="60.42309" lon="22.524477"><name><![CDATA[Shell Piikkiö, Piikkiö]]></name></wpt>
+  <wpt lat="63.52672" lon="22.542585"><name><![CDATA[Shell TS Uusikaarlepyy Myllytie, Uusikaarlepyy]]></name></wpt>
+  <wpt lat="60.642726" lon="22.552448"><name><![CDATA[Shell Aura, Aura]]></name></wpt>
+  <wpt lat="61.167872" lon="22.682317"><name><![CDATA[Shell Huittinen Mommola, Pirkkala]]></name></wpt>
+  <wpt lat="63.674209" lon="22.687631"><name><![CDATA[Shell Pietarsaari, Raatihuoneenkatu, Pietarsaari]]></name></wpt>
+  <wpt lat="60.857071" lon="22.693092"><name><![CDATA[Shell Oripää, Oripää]]></name></wpt>
+  <wpt lat="63.67667" lon="22.711525"><name><![CDATA[Shell Express Pietarsaari Jaakonkatu, Pietarsaari]]></name></wpt>
+  <wpt lat="60.161563" lon="22.729335"><name><![CDATA[Shell Express Kemiönsaari Kemiö, Kemiö]]></name></wpt>
+  <wpt lat="63.650643" lon="22.788472"><name><![CDATA[Shell TS Pietarsaari Kållbyntie, Pietarsaari]]></name></wpt>
+  <wpt lat="62.793951" lon="22.838772"><name><![CDATA[Shell Express Seinäjoki Valtionkatu, Seinäjoki]]></name></wpt>
+  <wpt lat="62.801401" lon="22.868189"><name><![CDATA[Shell Express Seinäjoki Pohjankaari, Seinäjoki]]></name></wpt>
+  <wpt lat="62.803723" lon="22.868437"><name><![CDATA[Shell TS Seinäjoki Pohjankaari, Seinäjoki]]></name></wpt>
+  <wpt lat="62.792577" lon="22.869872"><name><![CDATA[Shell TS Seinäjoki Päivölänkatu, Seinäjoki]]></name></wpt>
+  <wpt lat="61.332036" lon="22.919978"><name><![CDATA[Shell Vammala Pesurinkatu, Sastamala]]></name></wpt>
+  <wpt lat="62.765374" lon="22.92624"><name><![CDATA[Shell TS Seinäjoki Roves, Seinäjoki]]></name></wpt>
+  <wpt lat="62.005444" lon="23.012047"><name><![CDATA[Shell Parkano, Parkano]]></name></wpt>
+  <wpt lat="60.425143" lon="23.045522"><name><![CDATA[Shell Salo Halikko, Halikko]]></name></wpt>
+  <wpt lat="62.959717" lon="23.05145"><name><![CDATA[Shell Lapua Tamppari, Lapua]]></name></wpt>
+  <wpt lat="60.84878" lon="23.056503"><name><![CDATA[Shell Loimaa, Loimaa]]></name></wpt>
+  <wpt lat="61.359037" lon="23.091293"><name><![CDATA[Shell Vammala Stormi, Sastamala]]></name></wpt>
+  <wpt lat="63.851638" lon="23.204731"><name><![CDATA[Shell Kokkola Vitsari, Kokkola]]></name></wpt>
+  <wpt lat="63.3598" lon="23.4677"><name><![CDATA[Shell TS Evijärvi, Evijärvi]]></name></wpt>
+  <wpt lat="61.456328" lon="23.483811"><name><![CDATA[Shell Nokia, Nokia]]></name></wpt>
+  <wpt lat="60.625727" lon="23.518469"><name><![CDATA[Shell Somero, Somero]]></name></wpt>
+  <wpt lat="61.55825" lon="23.549603"><name><![CDATA[Shell Ylöjärvi, Ylöjärvi]]></name></wpt>
+  <wpt lat="60.101819" lon="23.552036"><name><![CDATA[Shell Raasepori Pohjankuru, Pohjankuru]]></name></wpt>
+  <wpt lat="60.8265" lon="23.5727"><name><![CDATA[Shell TS Forssa, Forssa]]></name></wpt>
+  <wpt lat="60.053778" lon="23.64777"><name><![CDATA[Shell Raasepori Karjaa, Karjaa]]></name></wpt>
+  <wpt lat="61.516254" lon="23.666253"><name><![CDATA[Shell Express Tampere Lielahti, Tampere]]></name></wpt>
+  <wpt lat="67.946097" lon="23.675696"><name><![CDATA[Shell TS Muonio, Muonio]]></name></wpt>
+  <wpt lat="61.476619" lon="23.77212"><name><![CDATA[Shell Tampere Lahdenperänkatu, Tampere]]></name></wpt>
+  <wpt lat="61.488743" lon="23.857225"><name><![CDATA[Shell Tampere Sammon Valtatie, Tampere]]></name></wpt>
+  <wpt lat="61.169604" lon="23.86915"><name><![CDATA[Shell Express Toijala, Akaa]]></name></wpt>
+  <wpt lat="64.255449" lon="23.93582"><name><![CDATA[Shell Kalajoki, Kalajoki]]></name></wpt>
+  <wpt lat="66.77586" lon="23.965465"><name><![CDATA[Shell Pello, Pello]]></name></wpt>
+  <wpt lat="61.536348" lon="23.99338"><name><![CDATA[Shell Kangasala Ruutana, Ruutana]]></name></wpt>
+  <wpt lat="60.187978" lon="23.997402"><name><![CDATA[Shell Lohja Virkkala, Lohja]]></name></wpt>
+  <wpt lat="61.282593" lon="24.003873"><name><![CDATA[Shell Valkeakoski, Valkeakoski]]></name></wpt>
+  <wpt lat="60.2934" lon="24.0659"><name><![CDATA[Shell TS Lohja Karnainen, Lohja]]></name></wpt>
+  <wpt lat="61.097911" lon="24.162538"><name><![CDATA[Shell Hämeenlinna Iittala, Iittala]]></name></wpt>
+  <wpt lat="60.543837" lon="24.220933"><name><![CDATA[Shell Karkkila, Karkkila]]></name></wpt>
+  <wpt lat="60.0982" lon="24.2922"><name><![CDATA[Shell TS Siuntio Pikkala, Siuntio]]></name></wpt>
+  <wpt lat="61.689304" lon="24.355706"><name><![CDATA[Shell Orivesi, Orivesi]]></name></wpt>
+  <wpt lat="61.682349" lon="24.356971"><name><![CDATA[Shell Express Orivesi, Orivesi]]></name></wpt>
+  <wpt lat="60.714519" lon="24.478096"><name><![CDATA[Shell Loppi, Jokiniemi]]></name></wpt>
+  <wpt lat="64.070536" lon="24.529539"><name><![CDATA[Shell Ylivieska, Ylivieska]]></name></wpt>
+  <wpt lat="60.243293" lon="24.561695"><name><![CDATA[Shell TS Espoo Ämmässuo, Espoo]]></name></wpt>
+  <wpt lat="63.043269" lon="24.561741"><name><![CDATA[Shell Kyyjärvi, Kyyjärvi]]></name></wpt>
+  <wpt lat="60.187842" lon="24.587771"><name><![CDATA[Shell Express Espoo Kauklahti, Espoo]]></name></wpt>
+  <wpt lat="60.161611" lon="24.706044"><name><![CDATA[Shell Espoo Suomenoja, Espoo]]></name></wpt>
+  <wpt lat="60.317042" lon="24.714944"><name><![CDATA[Shell Espoo Lahnus, Espoo]]></name></wpt>
+  <wpt lat="60.7526" lon="24.737"><name><![CDATA[Shell TS Riihimäki, Riihimäki]]></name></wpt>
+  <wpt lat="60.208562" lon="24.743267"><name><![CDATA[Shell Express Espoo Sepänkylä, Kauniainen]]></name></wpt>
+  <wpt lat="60.527875" lon="24.750706"><name><![CDATA[Shell Nurmijärvi Rajamäki, Rajamäki]]></name></wpt>
+  <wpt lat="60.729479" lon="24.765675"><name><![CDATA[Shell Express Riihimäki Kaarlonkatu, Riihimäki]]></name></wpt>
+  <wpt lat="60.166172" lon="24.77317"><name><![CDATA[Shell Espoo Haukilahti, Espoo]]></name></wpt>
+  <wpt lat="60.364906" lon="24.78357"><name><![CDATA[Shell Express Nurmijärvi Klaukkala, Klaukkala]]></name></wpt>
+  <wpt lat="60.48377" lon="24.79287"><name><![CDATA[Shell TS Nurmijärvi Korsisaari, Nurmijärvi]]></name></wpt>
+  <wpt lat="60.220512" lon="24.809155"><name><![CDATA[Shell Espoo Leppävaara, Espoo]]></name></wpt>
+  <wpt lat="60.227293" lon="24.824065"><name><![CDATA[Shell Espoo Vallikallio, Espoo]]></name></wpt>
+  <wpt lat="60.255291" lon="24.827737"><name><![CDATA[Shell Express Vantaa Rajatorppa, Vantaa]]></name></wpt>
+  <wpt lat="60.241569" lon="24.8437"><name><![CDATA[Shell Helsinki Konala, Helsinki]]></name></wpt>
+  <wpt lat="60.627919" lon="24.864476"><name><![CDATA[Shell Express Hyvinkää Sillankorvankatu, Hyvinkää]]></name></wpt>
+  <wpt lat="60.263892" lon="24.873685"><name><![CDATA[Shell Vantaa Kaivoksela, Vantaa]]></name></wpt>
+  <wpt lat="60.155952" lon="24.882778"><name><![CDATA[Shell Helsinki Lauttasaari, Helsinki]]></name></wpt>
+  <wpt lat="60.213298" lon="24.886384"><name><![CDATA[Shell Express Helsinki Etelä-Haaga, Helsinki]]></name></wpt>
+  <wpt lat="60.191393" lon="24.910807"><name><![CDATA[Shell Helsinki Tullinpuomi, Helsinki]]></name></wpt>
+  <wpt lat="67.654369" lon="24.911762"><name><![CDATA[Shell Kittilä, Kittilä]]></name></wpt>
+  <wpt lat="60.35751" lon="24.92184"><name><![CDATA[Shell TS Tuusula Senkkerin Metsätie, Tuusula]]></name></wpt>
+  <wpt lat="60.213467" lon="24.942432"><name><![CDATA[Shell Helsinki Käpylä, Helsinki]]></name></wpt>
+  <wpt lat="60.189441" lon="24.94901"><name><![CDATA[Shell Helsinki Alppila, Helsinki]]></name></wpt>
+  <wpt lat="60.174144" lon="24.961405"><name><![CDATA[Shell Express Helsinki Kruununhaka, Helsinki]]></name></wpt>
+  <wpt lat="60.241152" lon="24.995393"><name><![CDATA[Shell Helsinki Pukinmäki, Helsinki]]></name></wpt>
+  <wpt lat="60.308197" lon="24.998325"><name><![CDATA[Shell Vantaa Ruskeasanta, Vantaa]]></name></wpt>
+  <wpt lat="60.283424" lon="25.030151"><name><![CDATA[Shell Helsinki Ala-Tikkurila, Helsinki]]></name></wpt>
+  <wpt lat="60.194353" lon="25.037878"><name><![CDATA[Shell Helsinki Herttoniemi, Helsinki]]></name></wpt>
+  <wpt lat="60.22826" lon="25.065046"><name><![CDATA[Shell Helsinki Myllypuro, Helsinki]]></name></wpt>
+  <wpt lat="60.331093" lon="25.073086"><name><![CDATA[Shell Express Vantaa Rekola, Vantaa]]></name></wpt>
+  <wpt lat="60.286542" lon="25.081356"><name><![CDATA[Shell Express Vantaa Malmarinrinne, Vantaa]]></name></wpt>
+  <wpt lat="60.47378" lon="25.086071"><name><![CDATA[Shell Järvenpää Mannilantie, Järvenpää]]></name></wpt>
+  <wpt lat="60.210148" lon="25.088461"><name><![CDATA[Shell Helsinki Itäkeskus, Helsinki]]></name></wpt>
+  <wpt lat="60.520866" lon="25.098911"><name><![CDATA[Shell Express Tuusula Kellokoski, Kellokoski]]></name></wpt>
+  <wpt lat="60.344115" lon="25.099075"><name><![CDATA[Shell Vantaa Mikkola, Vantaa]]></name></wpt>
+  <wpt lat="60.279594" lon="25.10311"><name><![CDATA[Shell Vantaa Hakunila, Vantaa]]></name></wpt>
+  <wpt lat="60.219148" lon="25.106707"><name><![CDATA[Shell Express Helsinki Vartiokylä, Helsinki]]></name></wpt>
+  <wpt lat="60.383053" lon="25.167513"><name><![CDATA[Shell TS Sipoo Bastukärr, Kerava]]></name></wpt>
+  <wpt lat="60.224363" lon="25.170286"><name><![CDATA[Shell TS Helsinki Vuosaari 2, Helsinki]]></name></wpt>
+  <wpt lat="60.224578" lon="25.170322"><name><![CDATA[Shell TS Helsinki Vuosaari 1, Helsinki]]></name></wpt>
+  <wpt lat="61.851856" lon="25.17434"><name><![CDATA[Shell Jämsä, Jämsä]]></name></wpt>
+  <wpt lat="62.25208" lon="25.19281"><name><![CDATA[Shell TS Petäjävesi, Petäjävesi]]></name></wpt>
+  <wpt lat="60.250028" lon="25.237698"><name><![CDATA[Shell Veneasema Helsinki Karhusaari, Helsinki]]></name></wpt>
+  <wpt lat="60.673625" lon="25.354187"><name><![CDATA[Shell Mäntsälä P, Mäntsälä]]></name></wpt>
+  <wpt lat="65.309096" lon="25.375972"><name><![CDATA[Shell Ii, Ii]]></name></wpt>
+  <wpt lat="67.915315" lon="25.394622"><name><![CDATA[Shell 2970 TS Kittilän Kaivos, Kiistala]]></name></wpt>
+  <wpt lat="67.915736" lon="25.395051"><name><![CDATA[Shell 2177 TS Kittilän Kaivos, Kiistala]]></name></wpt>
+  <wpt lat="65.08924" lon="25.408292"><name><![CDATA[Shell Oulu Pateniemi, Oulu]]></name></wpt>
+  <wpt lat="64.939477" lon="25.430854"><name><![CDATA[Shell Oulu Oulunsalo, Oulunsalo]]></name></wpt>
+  <wpt lat="64.987131" lon="25.439145"><name><![CDATA[Shell TS Oulu Oritkari, Oulu]]></name></wpt>
+  <wpt lat="65.031802" lon="25.469511"><name><![CDATA[Shell Express Oulu Välivainio, Oulu]]></name></wpt>
+  <wpt lat="64.928589" lon="25.512393"><name><![CDATA[Shell Kempele Hakamaantie, Kempele]]></name></wpt>
+  <wpt lat="64.903812" lon="25.538069"><name><![CDATA[Shell Kempele Zeppelin, Kempele]]></name></wpt>
+  <wpt lat="65.025516" lon="25.544814"><name><![CDATA[Shell Oulu Haapalehto, Oulu]]></name></wpt>
+  <wpt lat="63.366612" lon="25.588997"><name><![CDATA[Shell Pihtipudas, Pihtipudas]]></name></wpt>
+  <wpt lat="60.39314" lon="25.609932"><name><![CDATA[Shell Porvoo Kuninkaanportti, Porvoo]]></name></wpt>
+  <wpt lat="60.96967" lon="25.629949"><name><![CDATA[Shell Express Lahti Hennala, Lahti]]></name></wpt>
+  <wpt lat="66.489041" lon="25.655578"><name><![CDATA[Shell Rovaniemi Teollisuustie, Rovaniemi]]></name></wpt>
+  <wpt lat="62.137787" lon="25.672361"><name><![CDATA[Shell Muurame, Muurame]]></name></wpt>
+  <wpt lat="60.999512" lon="25.67426"><name><![CDATA[Shell Lahti Kivistönmäki, Lahti]]></name></wpt>
+  <wpt lat="60.402852" lon="25.687444"><name><![CDATA[Shell Express Porvoo Teollisuustie, Porvoo]]></name></wpt>
+  <wpt lat="62.515464" lon="25.690725"><name><![CDATA[Shell Äänekoski Hirvaskangas, Äänekoivisto]]></name></wpt>
+  <wpt lat="65.100695" lon="25.691502"><name><![CDATA[Shell Express Kiiminki Jääli, Jääli]]></name></wpt>
+  <wpt lat="65.100695" lon="25.691502"><name><![CDATA[Shell TS Kiiminki Jääli, Jääli]]></name></wpt>
+  <wpt lat="62.213185" lon="25.717563"><name><![CDATA[Shell Express Jyväskylä Keljo, Jyväskylä]]></name></wpt>
+  <wpt lat="66.497988" lon="25.718394"><name><![CDATA[Shell Rovaniemi Erottaja, Rovaniemi]]></name></wpt>
+  <wpt lat="62.603809" lon="25.719853"><name><![CDATA[Shell Äänekoski Torikatu, Äänekoski]]></name></wpt>
+  <wpt lat="60.98408" lon="25.73855"><name><![CDATA[Shell Express Lahti Kymijärvi, Lahti]]></name></wpt>
+  <wpt lat="60.98385" lon="25.73918"><name><![CDATA[Shell TS Lahti Kymijärvi, Lahti]]></name></wpt>
+  <wpt lat="62.24342" lon="25.755899"><name><![CDATA[Shell Jyväskylä Matkakeskus, Jyväskylä]]></name></wpt>
+  <wpt lat="62.23546" lon="25.758307"><name><![CDATA[Shell Veneasema Jyväskylä Lutakko, Jyväskylä]]></name></wpt>
+  <wpt lat="66.515775" lon="25.78389"><name><![CDATA[Shell Express Rovaniemi Saarenkylä, Saarenkylä]]></name></wpt>
+  <wpt lat="62.240793" lon="25.809783"><name><![CDATA[Shell TS Jyväskylä Halssila, Jyväskylä]]></name></wpt>
+  <wpt lat="62.240777" lon="25.809833"><name><![CDATA[Shell Express Jyväskylä Halssila, Jyväskylä]]></name></wpt>
+  <wpt lat="62.570947" lon="25.837285"><name><![CDATA[Shell TS Äänekoski Suolahti, Suolahti]]></name></wpt>
+  <wpt lat="66.544332" lon="25.843417"><name><![CDATA[Shell Rovaniemi Napapiiri, Napapiiri rovaniemi]]></name></wpt>
+  <wpt lat="69.398931" lon="25.851199"><name><![CDATA[Shell Karigasniemi, Karigasniemi]]></name></wpt>
+  <wpt lat="60.948013" lon="25.8877"><name><![CDATA[Shell TS Nastola, Villähde]]></name></wpt>
+  <wpt lat="60.485698" lon="25.892942"><name><![CDATA[Shell TS Loviisa Gammelby, Pernajan vanhakylä]]></name></wpt>
+  <wpt lat="61.564586" lon="26.00717"><name><![CDATA[Shell Express Hartola Kuninkaanportti, Hartola]]></name></wpt>
+  <wpt lat="60.561201" lon="26.055733"><name><![CDATA[Shell Express Liljendal, Liljendal]]></name></wpt>
+  <wpt lat="60.56121" lon="26.055793"><name><![CDATA[Shell TS Liljendal, Liljendal]]></name></wpt>
+  <wpt lat="62.250718" lon="26.177127"><name><![CDATA[Shell Laukaa Lievestuore, Lievestuore]]></name></wpt>
+  <wpt lat="60.459162" lon="26.232034"><name><![CDATA[Shell Express Loviisa, Loviisa]]></name></wpt>
+  <wpt lat="63.172346" lon="26.32954"><name><![CDATA[Shell TS Keitele, Keitele]]></name></wpt>
+  <wpt lat="65.932774" lon="26.506285"><name><![CDATA[Shell Ranua, Ranua]]></name></wpt>
+  <wpt lat="60.901033" lon="26.629924"><name><![CDATA[Shell Express Kouvola Kuusankoski, Kuusankoski]]></name></wpt>
+  <wpt lat="60.879608" lon="26.658096"><name><![CDATA[Shell Kuusankoski Katajaharju, Kuusankoski]]></name></wpt>
+  <wpt lat="60.868785" lon="26.68506"><name><![CDATA[Shell Express Kouvola Kappelikatu, Kouvola]]></name></wpt>
+  <wpt lat="60.480438" lon="26.875823"><name><![CDATA[Shell Express Kotka Ruonala, Kotka]]></name></wpt>
+  <wpt lat="60.439249" lon="26.88539"><name><![CDATA[Shell TS Kotka Mussalo, Kotka]]></name></wpt>
+  <wpt lat="60.461183" lon="26.938646"><name><![CDATA[Shell Express Kotka Keskustori, Kotka]]></name></wpt>
+  <wpt lat="60.4952" lon="26.9559"><name><![CDATA[Shell TS Kotka Stora Enso Sunila Oy, Kotka]]></name></wpt>
+  <wpt lat="60.53648" lon="27.162253"><name><![CDATA[Shell TS Hamina Satama, Hamina]]></name></wpt>
+  <wpt lat="63.562447" lon="27.187769"><name><![CDATA[Shell Express Iisalmi Pohjolankatu, Iisalmi]]></name></wpt>
+  <wpt lat="61.513415" lon="27.242425"><name><![CDATA[Shell Express Ristiina, Ristiina]]></name></wpt>
+  <wpt lat="61.675358" lon="27.273635"><name><![CDATA[Shell Mikkeli Ristiinantie, Mikkeli]]></name></wpt>
+  <wpt lat="61.703752" lon="27.35471"><name><![CDATA[Shell Express Mikkeli Visulahti, Mikkeli]]></name></wpt>
+  <wpt lat="62.86152" lon="27.628345"><name><![CDATA[Shell Kuopio Rauhalahti, Kuopio]]></name></wpt>
+  <wpt lat="62.933997" lon="27.665518"><name><![CDATA[Shell Express Kuopio Päiväranta, Kuopio]]></name></wpt>
+  <wpt lat="63.059117" lon="27.674135"><name><![CDATA[Shell Siilinjärvi, Siilinjärvi]]></name></wpt>
+  <wpt lat="64.216886" lon="27.731046"><name><![CDATA[Shell Kajaani Sotkamontie, Kajaani]]></name></wpt>
+  <wpt lat="61.898067" lon="27.801217"><name><![CDATA[Shell TS Juva Kylmäpurontie, Juva]]></name></wpt>
+  <wpt lat="62.3156" lon="27.866395"><name><![CDATA[Shell Express Varkaus Relanderinkatu, Varkaus]]></name></wpt>
+  <wpt lat="62.303144" lon="27.917888"><name><![CDATA[Shell Express Varkaus Mäkikatu, Varkaus]]></name></wpt>
+  <wpt lat="62.303144" lon="27.917888"><name><![CDATA[Shell TS Varkaus Mäkikatu, Varkaus]]></name></wpt>
+  <wpt lat="61.066261" lon="28.256629"><name><![CDATA[Shell Express Lappeenranta Lauritsala, Lappeenranta]]></name></wpt>
+  <wpt lat="61.185836" lon="28.739902"><name><![CDATA[Shell Ts Imatra Abc, Imatra]]></name></wpt>
+  <wpt lat="61.172201" lon="28.75423"><name><![CDATA[Shell Imatra Lappeentie, Imatra]]></name></wpt>
+  <wpt lat="61.86907" lon="28.923711"><name><![CDATA[Shell Savonlinna Miekkoniemi, Savonlinna]]></name></wpt>
+  <wpt lat="62.701361" lon="28.960559"><name><![CDATA[Shell Outokumpu, Outokumpu]]></name></wpt>
+  <wpt lat="65.956045" lon="29.160603"><name><![CDATA[Shell Express Kuusamo, Kuusamo]]></name></wpt>
+  <wpt lat="65.95594" lon="29.16098"><name><![CDATA[Shell Kuusamo HelmiSimpukkaExpress, Kuusamo]]></name></wpt>
+  <wpt lat="61.756535" lon="29.393803"><name><![CDATA[Shell Punkaharju, Punkaharju]]></name></wpt>
+  <wpt lat="64.122352" lon="29.506803"><name><![CDATA[Shell Kuhmo, Kuhmo]]></name></wpt>
+  <wpt lat="62.614412" lon="29.543934"><name><![CDATA[Shell Liperi Ylämylly, Ylämylly]]></name></wpt>
+  <wpt lat="62.606936" lon="29.771671"><name><![CDATA[Shell Joensuu Rauhankatu, Joensuu]]></name></wpt>
+</gpx>

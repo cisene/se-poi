@@ -1,0 +1,4524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Systembolaget</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Systembolaget</name>
+      <Placemark>
+        <name>Systembolaget Butik, Oslovägen 7</name>
+        <description>Systembolaget Butik, Oslovägen 7, Strömstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.17689,58.94004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Oslovägen 56</name>
+        <description>Systembolaget Butik, Oslovägen 56, Strömstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.192016,58.947312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Sältevägen 3</name>
+        <description>Systembolaget Butik, Sältevägen 3, Grebbestad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.2555,58.69229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Hallindenvägen 2 B</name>
+        <description>Systembolaget Butik, Hallindenvägen 2 B, Kungshamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.26031,58.35765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Korsgatan 5</name>
+        <description>Systembolaget Butik, Korsgatan 5, Lysekil</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.43424,58.27427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Norgårdsvägen 10 B</name>
+        <description>Systembolaget Butik, Norgårdsvägen 10 B, Öckerö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.654563,57.708188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Strömstadsvägen 1</name>
+        <description>Systembolaget Butik, Strömstadsvägen 1, Munkedal</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.67454,58.46686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Hamntorget</name>
+        <description>Systembolaget Butik, Hamntorget, Henån</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.67782,58.23793,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Postflyget 16</name>
+        <description>Systembolaget Butik, Postflyget 16, Torslanda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.778562,57.708938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Torp Köpcentrum</name>
+        <description>Systembolaget Butik, Torp Köpcentrum, Uddevalla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.81224,58.35495,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Östra Köpmansgatan 25</name>
+        <description>Systembolaget Butik, Östra Köpmansgatan 25, Stenungsund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.817687,58.067563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Karl Johansgatan 85</name>
+        <description>Systembolaget Butik, Karl Johansgatan 85, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.91348,57.69049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Frölunda Torg</name>
+        <description>Systembolaget Butik, Frölunda Torg, Västra Frölunda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.91464,57.65145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Kolhamnsgatan 9</name>
+        <description>Systembolaget Butik, Kolhamnsgatan 9, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.92206,57.709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Västerlånggatan 2 B</name>
+        <description>Systembolaget Butik, Västerlånggatan 2 B, Uddevalla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.93261,58.35345,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Delesgatan 7</name>
+        <description>Systembolaget Butik, Delesgatan 7, Ed</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.93572,58.91221,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Lona Knapes Gata 1</name>
+        <description>Systembolaget Butik, Lona Knapes Gata 1, Västra Frölunda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.948688,57.651063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Hantverksvägen 2-8</name>
+        <description>Systembolaget Butik, Hantverksvägen 2-8, Askim</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.949438,57.642562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Linnégatan 28 B</name>
+        <description>Systembolaget Butik, Linnégatan 28 B, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.95132,57.69699,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Krogabacksvägen 12</name>
+        <description>Systembolaget Butik, Krogabacksvägen 12, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.952938,57.598937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Swedenborgsgatan 5</name>
+        <description>Systembolaget Butik, Swedenborgsgatan 5, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.9532,57.72202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Älvebacken 7</name>
+        <description>Systembolaget Butik, Älvebacken 7, Kungälv</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.966062,57.874188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Kungstorget 1</name>
+        <description>Systembolaget Butik, Kungstorget 1, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.967187,57.702938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Lilla Klädpressaregatan 8-16 Nordstan</name>
+        <description>Systembolaget Butik, Lilla Klädpressaregatan 8-16 Nordstan, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.96838,57.7096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Lilla Klädpressaregatan 2</name>
+        <description>Systembolaget Butik, Lilla Klädpressaregatan 2, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.968578,57.709838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Kapellplatsen 4 Landala Torg</name>
+        <description>Systembolaget Butik, Kapellplatsen 4 Landala Torg, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.97189,57.69339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Kungsportsavenyn 18</name>
+        <description>Systembolaget Butik, Kungsportsavenyn 18, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.97511,57.7003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Åvägen 42 Gårda Centrum</name>
+        <description>Systembolaget Butik, Åvägen 42 Gårda Centrum, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.99319,57.69799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Centrumvägen 2</name>
+        <description>Systembolaget Butik, Centrumvägen 2, Färgelanda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.99371,58.56596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Kobbarnas Väg 1</name>
+        <description>Systembolaget Butik, Kobbarnas Väg 1, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.99687,57.71421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Transportgatan 19-21</name>
+        <description>Systembolaget Butik, Transportgatan 19-21, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.999813,57.768937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Hornsgatan 1</name>
+        <description>Systembolaget Butik, Hornsgatan 1, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.012187,57.728687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Nygatan 8</name>
+        <description>Systembolaget Butik, Nygatan 8, Mölndal</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.015203,57.654538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Torpavallsgatan 4</name>
+        <description>Systembolaget Butik, Torpavallsgatan 4, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.03325,57.72442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Ekenleden 12</name>
+        <description>Systembolaget Butik, Ekenleden 12, Kållered</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.044672,57.609588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Ale Torg 7</name>
+        <description>Systembolaget Butik, Ale Torg 7, Nödinge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.047187,57.895063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Grepgatan 10</name>
+        <description>Systembolaget Butik, Grepgatan 10, Angered</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.051453,57.797263,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Hedebrovägen 50</name>
+        <description>Systembolaget Butik, Hedebrovägen 50, Kungsbacka</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.073937,57.515812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Nygatan 17</name>
+        <description>Systembolaget Butik, Nygatan 17, Kungsbacka</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.07848,57.48518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Kyrktorget 14</name>
+        <description>Systembolaget Butik, Kyrktorget 14, Partille</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.10691,57.73933,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Biblioteksgatan 14 B</name>
+        <description>Systembolaget Butik, Biblioteksgatan 14 B, Mölnlycke</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.115953,57.657938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Göteborgsvägen 37</name>
+        <description>Systembolaget Butik, Göteborgsvägen 37, Lilla Edet</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.128187,58.137438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storgatan 47</name>
+        <description>Systembolaget Butik, Storgatan 47, Årjäng</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.13298,59.39189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Berglunds Gränd 1</name>
+        <description>Systembolaget Butik, Berglunds Gränd 1, Bengtsfors</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.22482,59.02942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Västra-Vallgatan 6</name>
+        <description>Systembolaget Butik, Västra-Vallgatan 6, Varberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.24808,57.1052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Lerum Centrum</name>
+        <description>Systembolaget Butik, Lerum Centrum, Lerum</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.269188,57.770187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Vrångagatan 5</name>
+        <description>Systembolaget Butik, Vrångagatan 5, Varberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.279312,57.082313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Helga Görlins Gata 1</name>
+        <description>Systembolaget Butik, Helga Görlins Gata 1, Charlottenberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.289813,59.881812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Kungsgatan 32</name>
+        <description>Systembolaget Butik, Kungsgatan 32, Trollhättan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.290578,58.284863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Anes Väg 2</name>
+        <description>Systembolaget Butik, Anes Väg 2, Trollhättan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.302938,58.314187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Regementsgatan 4 D</name>
+        <description>Systembolaget Butik, Regementsgatan 4 D, Vänersborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.330938,58.377813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storgatan 8</name>
+        <description>Systembolaget Butik, Storgatan 8, Mellerud</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.45189,58.7002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Sandgatan 34</name>
+        <description>Systembolaget Butik, Sandgatan 34, Falkenberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.483438,56.903063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Kungsgatan 34 C</name>
+        <description>Systembolaget Butik, Kungsgatan 34 C, Alingsås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.53754,57.92992,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Sjöängsvägen 2</name>
+        <description>Systembolaget Butik, Sjöängsvägen 2, Funäsdalen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.54001,62.54604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storgatan 58 E</name>
+        <description>Systembolaget Butik, Storgatan 58 E, Höganäs</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.559828,56.200063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Krokdalsvägen 4</name>
+        <description>Systembolaget Butik, Krokdalsvägen 4, Skärhamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.571312,57.668937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Göteborgsvägen 21</name>
+        <description>Systembolaget Butik, Göteborgsvägen 21, Bollebygd</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.571438,57.669187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storgatan 23</name>
+        <description>Systembolaget Butik, Storgatan 23, Arvika</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.59335,59.65425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Torggatan 8</name>
+        <description>Systembolaget Butik, Torggatan 8, Grästorp</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.68097,58.33393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Drottninggatan 18</name>
+        <description>Systembolaget Butik, Drottninggatan 18, Helsingborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.691813,56.047562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Boråsvägen 31</name>
+        <description>Systembolaget Butik, Boråsvägen 31, Kinna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.69268,57.5071,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Torggatan 11</name>
+        <description>Systembolaget Butik, Torggatan 11, Åmål</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.702047,59.052037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Järnvägsgatan 3 B</name>
+        <description>Systembolaget Butik, Järnvägsgatan 3 B, Nossebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.71762,58.18698,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, HSB-Vägen 1</name>
+        <description>Systembolaget Butik, HSB-Vägen 1, Idre</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.719938,61.858062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Regementsvägen 7</name>
+        <description>Systembolaget Butik, Regementsvägen 7, Helsingborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.719938,56.065438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Landskronavägen 33</name>
+        <description>Systembolaget Butik, Landskronavägen 33, Helsingborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.744687,56.001812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Väla Centrum</name>
+        <description>Systembolaget Butik, Väla Centrum, Ödåkra-Väla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.75391,56.09149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Kundvägen 5 E</name>
+        <description>Systembolaget Butik, Kundvägen 5 E, Halmstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.806812,56.678187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Kungsgatan 26</name>
+        <description>Systembolaget Butik, Kungsgatan 26, Vårgårda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.80888,58.03493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Trädgårdsgatan 9</name>
+        <description>Systembolaget Butik, Trädgårdsgatan 9, Landskrona</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.83053,55.86836,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Köpmansgatan 72 D</name>
+        <description>Systembolaget Butik, Köpmansgatan 72 D, Båstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.84537,56.42832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Köpmansgatan 5</name>
+        <description>Systembolaget Butik, Köpmansgatan 5, Halmstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.85646,56.67397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storgatan 47 B</name>
+        <description>Systembolaget Butik, Storgatan 47 B, Ängelholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.863266,56.245438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Prästvägen 1</name>
+        <description>Systembolaget Butik, Prästvägen 1, Halmstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.907438,56.657688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Norra Storgatan 20</name>
+        <description>Systembolaget Butik, Norra Storgatan 20, Bjuv</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.91413,56.08718,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Sundsgatan 28</name>
+        <description>Systembolaget Butik, Sundsgatan 28, Säffle</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.93169,59.13153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Algårdsvägen 15</name>
+        <description>Systembolaget Butik, Algårdsvägen 15, Borås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.932937,57.732687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Linnégatan 47</name>
+        <description>Systembolaget Butik, Linnégatan 47, Limhamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.93305,55.58158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Allégatan 16</name>
+        <description>Systembolaget Butik, Allégatan 16, Borås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.940437,57.723062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Trandögatan 14</name>
+        <description>Systembolaget Butik, Trandögatan 14, Borås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.941313,57.710938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Torggatan 15</name>
+        <description>Systembolaget Butik, Torggatan 15, Åstorp</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.94732,56.13463,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Drottninggatan 10</name>
+        <description>Systembolaget Butik, Drottninggatan 10, Vara</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.95529,58.26236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Kungstorpsvägen 10</name>
+        <description>Systembolaget Butik, Kungstorpsvägen 10, Höllviken</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.965687,55.426562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Hyllie Stationsväg 18</name>
+        <description>Systembolaget Butik, Hyllie Stationsväg 18, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.972563,55.564687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Masttorget 2</name>
+        <description>Systembolaget Butik, Masttorget 2, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.980562,55.611312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Regementsgatan 52</name>
+        <description>Systembolaget Butik, Regementsgatan 52, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.985437,55.598687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Marknadsvägen 5</name>
+        <description>Systembolaget Butik, Marknadsvägen 5, Löddeköpinge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.991188,55.768438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Södra Förstadsgatan 50 B</name>
+        <description>Systembolaget Butik, Södra Förstadsgatan 50 B, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.00263,55.59609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Malmborgsgatan 6</name>
+        <description>Systembolaget Butik, Malmborgsgatan 6, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.003937,55.602937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Stadiongatan 3 D</name>
+        <description>Systembolaget Butik, Stadiongatan 3 D, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.004563,55.579437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Nya Torget 3</name>
+        <description>Systembolaget Butik, Nya Torget 3, Torsby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.00776,60.13543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Järnvägsgatan 2 L</name>
+        <description>Systembolaget Butik, Järnvägsgatan 2 L, Vellinge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.02136,55.46976,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Fredsgatan 14 B</name>
+        <description>Systembolaget Butik, Fredsgatan 14 B, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.024687,55.607687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storgatan 44</name>
+        <description>Systembolaget Butik, Storgatan 44, Herrljunga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.02533,58.07817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Östertullsgatan 12</name>
+        <description>Systembolaget Butik, Östertullsgatan 12, Laholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.0441,56.51171,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Jägersrovägen 151</name>
+        <description>Systembolaget Butik, Jägersrovägen 151, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.058687,55.570062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Seglaregatan 6</name>
+        <description>Systembolaget Butik, Seglaregatan 6, Lomma</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.069047,55.673237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Burlövs Centrum</name>
+        <description>Systembolaget Butik, Burlövs Centrum, Arlöv</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.0843,55.63903,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Årevägen 49</name>
+        <description>Systembolaget Butik, Årevägen 49, Åre</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.087187,63.395562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Herrevadsgatan 11 H</name>
+        <description>Systembolaget Butik, Herrevadsgatan 11 H, Svalöv</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.10775,55.91301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Stenhuggaregatan 2</name>
+        <description>Systembolaget Butik, Stenhuggaregatan 2, Kävlinge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.110188,55.790813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Boråsvägen 2</name>
+        <description>Systembolaget Butik, Boråsvägen 2, Svenljunga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.11075,57.49669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Sveagatan 99</name>
+        <description>Systembolaget Butik, Sveagatan 99, Grums</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.11247,59.35285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storgatan 23</name>
+        <description>Systembolaget Butik, Storgatan 23, Klippan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.13098,56.13553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Kvarngatan 13</name>
+        <description>Systembolaget Butik, Kvarngatan 13, Sunne</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.145188,59.836687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Götgatan 15</name>
+        <description>Systembolaget Butik, Götgatan 15, Lidköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.1543,58.5026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Algatan 16</name>
+        <description>Systembolaget Butik, Algatan 16, Trelleborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.157937,55.374313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Traktorvägen 4</name>
+        <description>Systembolaget Butik, Traktorvägen 4, Lund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.162937,55.717437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Bangatan 10</name>
+        <description>Systembolaget Butik, Bangatan 10, Lund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.18767,55.7049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Mårtenstorget 1</name>
+        <description>Systembolaget Butik, Mårtenstorget 1, Lund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.195063,55.701687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Bråhögsplatsen 1 C</name>
+        <description>Systembolaget Butik, Bråhögsplatsen 1 C, Staffanstorp</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.205188,55.642562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storgatan 15</name>
+        <description>Systembolaget Butik, Storgatan 15, Svedala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.23639,55.5085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storgatan 10 B</name>
+        <description>Systembolaget Butik, Storgatan 10 B, Hyltebruk</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.2379,56.99639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Centrumhuset</name>
+        <description>Systembolaget Butik, Centrumhuset, Sälen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.26859,61.15565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Terrassen 1 B</name>
+        <description>Systembolaget Butik, Terrassen 1 B, Örkelljunga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.279063,56.283437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Norregatan 6</name>
+        <description>Systembolaget Butik, Norregatan 6, Eslöv</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.303937,55.840438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storgatan 16 B</name>
+        <description>Systembolaget Butik, Storgatan 16 B, Kil</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.32293,59.5047,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Kristers Väg 3</name>
+        <description>Systembolaget Butik, Kristers Väg 3, Dalby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.34893,55.66436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storgatan 25</name>
+        <description>Systembolaget Butik, Storgatan 25, Tranemo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.35091,57.48348,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Köpmangatan 14 F</name>
+        <description>Systembolaget Butik, Köpmangatan 14 F, Perstorp</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.394141,56.138413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Järngatan 12 A</name>
+        <description>Systembolaget Butik, Järngatan 12 A, Ulricehamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.412266,57.792363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Frykmans Väg 1</name>
+        <description>Systembolaget Butik, Frykmans Väg 1, Karlstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.42325,59.37917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Marumsgatan 15</name>
+        <description>Systembolaget Butik, Marumsgatan 15, Skara</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.43498,58.38468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Gastkullevägen 1 A</name>
+        <description>Systembolaget Butik, Gastkullevägen 1 A, Järpen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.46077,63.34664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Åråsvägen 5</name>
+        <description>Systembolaget Butik, Åråsvägen 5, Skoghall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.46626,59.32792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Järnvägsgatan 24</name>
+        <description>Systembolaget Butik, Järnvägsgatan 24, Forshaga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.48013,59.53043,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Järnvägsgatan 6 E</name>
+        <description>Systembolaget Butik, Järnvägsgatan 6 E, Götene</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.49253,58.52782,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Järnvägsgatan 2</name>
+        <description>Systembolaget Butik, Järnvägsgatan 2, Karlstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.499688,59.378687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Stora Torggatan 8</name>
+        <description>Systembolaget Butik, Stora Torggatan 8, Skurup</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.500937,55.478813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Nya Torg 10</name>
+        <description>Systembolaget Butik, Nya Torg 10, Höör</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.5388,55.93493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Köpmangatan 4</name>
+        <description>Systembolaget Butik, Köpmangatan 4, Gislaved</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.53888,57.3025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Tallbacksvägen 21 B</name>
+        <description>Systembolaget Butik, Tallbacksvägen 21 B, Munkfors</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.54536,59.83533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Stora Torget 17</name>
+        <description>Systembolaget Butik, Stora Torget 17, Falköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.55312,58.16096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Rävbergsvägen 17</name>
+        <description>Systembolaget Butik, Rävbergsvägen 17, Karlstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.579688,59.396062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Drottninggatan 32</name>
+        <description>Systembolaget Butik, Drottninggatan 32, Markaryd</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.59758,56.46396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Nya Torg 8</name>
+        <description>Systembolaget Butik, Nya Torg 8, Hörby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.6612,55.85185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storgatan 7</name>
+        <description>Systembolaget Butik, Storgatan 7, Hagfors</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.69378,60.03663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Östergatan 10</name>
+        <description>Systembolaget Butik, Östergatan 10, Sjöbo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.70915,55.63013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Grönlandsvägen 35</name>
+        <description>Systembolaget Butik, Grönlandsvägen 35, Malung</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.71368,60.68298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Köpmansgatan 2</name>
+        <description>Systembolaget Butik, Köpmansgatan 2, Gnosjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.73305,57.35905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Borggårdsgatan 1</name>
+        <description>Systembolaget Butik, Borggårdsgatan 1, Hässleholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.759937,56.154812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Stora Östergatan 13</name>
+        <description>Systembolaget Butik, Stora Östergatan 13, Ystad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.8226,55.43013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Stockholmsvägen 3</name>
+        <description>Systembolaget Butik, Stockholmsvägen 3, Mariestad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.82588,58.7097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Hertig Johans Torg 4</name>
+        <description>Systembolaget Butik, Hertig Johans Torg 4, Skövde</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.84513,58.38978,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Nolhagavägen 1</name>
+        <description>Systembolaget Butik, Nolhagavägen 1, Skövde</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.856938,58.407812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Järnvägsgatan 29</name>
+        <description>Systembolaget Butik, Järnvägsgatan 29, Mullsjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.88465,57.91531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Eskilsgatan 7</name>
+        <description>Systembolaget Butik, Eskilsgatan 7, Ljungby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.94107,56.83473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Centralgatan 4</name>
+        <description>Systembolaget Butik, Centralgatan 4, Tomelilla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.95328,55.54364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Gamla Torget 8</name>
+        <description>Systembolaget Butik, Gamla Torget 8, Tidaholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.957453,58.180738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Västra Järnvägsgatan 18</name>
+        <description>Systembolaget Butik, Västra Järnvägsgatan 18, Osby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.99463,56.38168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Dalgatan 81 H</name>
+        <description>Systembolaget Butik, Dalgatan 81 H, Älvdalen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.036938,61.229687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Flanaden</name>
+        <description>Systembolaget Butik, Flanaden, Värnamo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.04086,57.18338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Jönkpingsvägen 7 B</name>
+        <description>Systembolaget Butik, Jönkpingsvägen 7 B, Habo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.07449,57.9085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Östra Järnvägsgatan 7</name>
+        <description>Systembolaget Butik, Östra Järnvägsgatan 7, Broby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.07513,56.25345,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storgatan 9</name>
+        <description>Systembolaget Butik, Storgatan 9, Gullspång</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.09074,58.98718,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Centralplan 1</name>
+        <description>Systembolaget Butik, Centralplan 1, Skillingaryd</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.09196,57.42832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Kungsgatan 43</name>
+        <description>Systembolaget Butik, Kungsgatan 43, Kristinehamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.10873,59.3079,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Kyrkogatan 24</name>
+        <description>Systembolaget Butik, Kyrkogatan 24, Töreboda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.12564,58.7096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Norra Esplanaden 6</name>
+        <description>Systembolaget Butik, Norra Esplanaden 6, Älmhult</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.14144,56.55265,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Östra Boulevarden 3</name>
+        <description>Systembolaget Butik, Östra Boulevarden 3, Kristianstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.158188,56.030938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Centrumgatan 6</name>
+        <description>Systembolaget Butik, Centrumgatan 6, Tibro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.164188,58.425187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Viktoriagatan 3</name>
+        <description>Systembolaget Butik, Viktoriagatan 3, Filipstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.17058,59.71281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Fiskargränd 5</name>
+        <description>Systembolaget Butik, Fiskargränd 5, Jönköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.172062,57.780438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Bataljonsgatan 5</name>
+        <description>Systembolaget Butik, Bataljonsgatan 5, Jönköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.205813,57.772063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Norra Allégatan 25</name>
+        <description>Systembolaget Butik, Norra Allégatan 25, Vansbro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.223453,60.511488,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Djupadalsgatan 12</name>
+        <description>Systembolaget Butik, Djupadalsgatan 12, Storfors</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.272562,59.531188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Rosenborgsgatan 33</name>
+        <description>Systembolaget Butik, Rosenborgsgatan 33, Huskvarna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.27409,57.78948,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Hamngatan 18</name>
+        <description>Systembolaget Butik, Hamngatan 18, Hjo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.29123,58.3037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Vallgatan 30</name>
+        <description>Systembolaget Butik, Vallgatan 30, Åhus</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.294688,55.928687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Stora Rådmansgatan 5</name>
+        <description>Systembolaget Butik, Stora Rådmansgatan 5, Simrishamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.34843,55.55725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Fjällvägen 5</name>
+        <description>Systembolaget Butik, Fjällvägen 5, Sveg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.3584,62.03263,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Centrumvägen 3 B</name>
+        <description>Systembolaget Butik, Centrumvägen 3 B, Svenstavik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.432313,62.767937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Herrgårdsgatan 12</name>
+        <description>Systembolaget Butik, Herrgårdsgatan 12, Degerfors</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.432562,59.238312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Genvägen 8</name>
+        <description>Systembolaget Butik, Genvägen 8, Krokom</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.4517,63.32692,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storgatan 35</name>
+        <description>Systembolaget Butik, Storgatan 35, Bromölla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.466687,56.074313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Ribbagårdsgränd 2</name>
+        <description>Systembolaget Butik, Ribbagårdsgränd 2, Gränna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.46699,58.02242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storgatan 9</name>
+        <description>Systembolaget Butik, Storgatan 9, Karlsborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.51152,58.52912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Sikforsvägen 26-28</name>
+        <description>Systembolaget Butik, Sikforsvägen 26-28, Hällefors</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.520188,59.783687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Centrumleden 25</name>
+        <description>Systembolaget Butik, Centrumleden 25, Karlskoga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.524188,59.325688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Östra Storgatan 34</name>
+        <description>Systembolaget Butik, Östra Storgatan 34, Olofström</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.52917,56.27787,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Kyrkogatan 19</name>
+        <description>Systembolaget Butik, Kyrkogatan 19, Mora</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.538563,61.004438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storgatan 14</name>
+        <description>Systembolaget Butik, Storgatan 14, Alvesta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.55576,56.89949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Järnvägsgatan 5</name>
+        <description>Systembolaget Butik, Järnvägsgatan 5, Sölvesborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.582438,56.049563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Centralgatan 2</name>
+        <description>Systembolaget Butik, Centralgatan 2, Orsa</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.61863,61.11901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Centrumtorget 19</name>
+        <description>Systembolaget Butik, Centrumtorget 19, Laxå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.619813,58.985687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Kyrkgatan 66</name>
+        <description>Systembolaget Butik, Kyrkgatan 66, Östersund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.63859,63.17587,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Riddaregatan 1</name>
+        <description>Systembolaget Butik, Riddaregatan 1, Ödeshög</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.65296,58.22942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storgatan 5</name>
+        <description>Systembolaget Butik, Storgatan 5, Sävsjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.66931,57.4004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Hagvägen 11</name>
+        <description>Systembolaget Butik, Hagvägen 11, Östersund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.691313,63.171063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storgatan 34</name>
+        <description>Systembolaget Butik, Storgatan 34, Nässjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.69452,57.65415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Hejaregatan 22</name>
+        <description>Systembolaget Butik, Hejaregatan 22, Växjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.763312,56.885063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storgatan 40</name>
+        <description>Systembolaget Butik, Storgatan 40, Växjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.800187,56.879188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Köpmansgatan 6</name>
+        <description>Systembolaget Butik, Köpmansgatan 6, Aneby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.81518,57.83883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Deltavägen 4</name>
+        <description>Systembolaget Butik, Deltavägen 4, Växjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.831938,56.902812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Drottninggatan 71 B</name>
+        <description>Systembolaget Butik, Drottninggatan 71 B, Karlshamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.86041,56.17257,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Stickspåret 2 B</name>
+        <description>Systembolaget Butik, Stickspåret 2 B, Fjugesta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.872016,59.174188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Hovsgatan 4</name>
+        <description>Systembolaget Butik, Hovsgatan 4, Vadstena</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.88892,58.44724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Väderkvarnsgatan 15</name>
+        <description>Systembolaget Butik, Väderkvarnsgatan 15, Askersund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.903313,58.879188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Södra Storgatan 4 C</name>
+        <description>Systembolaget Butik, Södra Storgatan 4 C, Eksjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.97301,57.66526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storgatan 23</name>
+        <description>Systembolaget Butik, Storgatan 23, Tranås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.97454,58.03383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storgatan 74</name>
+        <description>Systembolaget Butik, Storgatan 74, Tingsryd</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.97963,56.52452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Gruvfogdegatan 1</name>
+        <description>Systembolaget Butik, Gruvfogdegatan 1, Kopparberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.992687,59.875687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Norsgatan 26</name>
+        <description>Systembolaget Butik, Norsgatan 26, Leksand</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.999063,60.730312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Kungsgatan 20</name>
+        <description>Systembolaget Butik, Kungsgatan 20, Motala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.03272,58.53723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storgatan 11</name>
+        <description>Systembolaget Butik, Storgatan 11, Nora</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.038563,59.518937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Postgatan 5 C</name>
+        <description>Systembolaget Butik, Postgatan 5 C, Boxholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.05592,58.19679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Blå-vägen 35</name>
+        <description>Systembolaget Butik, Blå-vägen 35, Hemavan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.084312,65.818938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Biblioteksgatan 8</name>
+        <description>Systembolaget Butik, Biblioteksgatan 8, Vetlanda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.0846,57.42502,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Stortorget 4</name>
+        <description>Systembolaget Butik, Stortorget 4, Hallsberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.110812,59.065938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storgatan 10</name>
+        <description>Systembolaget Butik, Storgatan 10, Rättvik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.1185,60.88378,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Jerikodalsgatan 1-3</name>
+        <description>Systembolaget Butik, Jerikodalsgatan 1-3, Mjölby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.1263,58.32582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Industrivägen 8</name>
+        <description>Systembolaget Butik, Industrivägen 8, Djurås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.131813,60.560812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Säljarevägen 3</name>
+        <description>Systembolaget Butik, Säljarevägen 3, Örebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.138687,59.218312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Köpmangatan 22</name>
+        <description>Systembolaget Butik, Köpmangatan 22, Kumla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.143187,59.125937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Fredsgatan 15</name>
+        <description>Systembolaget Butik, Fredsgatan 15, Ludvika</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.18569,60.14794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Prologgatan 8</name>
+        <description>Systembolaget Butik, Prologgatan 8, Örebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.198688,59.294812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Kungsgatan 11</name>
+        <description>Systembolaget Butik, Kungsgatan 11, Örebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.214437,59.270812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Kristinavägen 41</name>
+        <description>Systembolaget Butik, Kristinavägen 41, Lindesberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.226063,59.594437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Sörbyängsvägen 26</name>
+        <description>Systembolaget Butik, Sörbyängsvägen 26, Örebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.231063,59.252562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storgatan 71</name>
+        <description>Systembolaget Butik, Storgatan 71, Lessebo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.2697,56.75175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Strandgatan 4</name>
+        <description>Systembolaget Butik, Strandgatan 4, Ronneby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.27535,56.21011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Hagagatan 1 A</name>
+        <description>Systembolaget Butik, Hagagatan 1 A, Ydre</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.276563,57.824438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Olofsgatan 10</name>
+        <description>Systembolaget Butik, Olofsgatan 10, Åseda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.34407,57.17167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Johan Ahlbäcks Plats 4</name>
+        <description>Systembolaget Butik, Johan Ahlbäcks Plats 4, Smedjebacken</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.4136,60.14204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Norra Backagatan 5 A</name>
+        <description>Systembolaget Butik, Norra Backagatan 5 A, Borlänge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.418812,60.478437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Riksvägen 39</name>
+        <description>Systembolaget Butik, Riksvägen 39, Bräcke</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.419812,62.749063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Sveagatan 9</name>
+        <description>Systembolaget Butik, Sveagatan 9, Borlänge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.43274,60.48688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Hantverkaregatan 7</name>
+        <description>Systembolaget Butik, Hantverkaregatan 7, Emmaboda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.53905,56.63063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storgatan 6</name>
+        <description>Systembolaget Butik, Storgatan 6, Strömsund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.5583,63.85145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Arklimästaregatan 46</name>
+        <description>Systembolaget Butik, Arklimästaregatan 46, Karlskrona</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.58128,56.16146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Åsmestadsgatan 6</name>
+        <description>Systembolaget Butik, Åsmestadsgatan 6, Linköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.588687,58.386437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Norra Svedengatan 9</name>
+        <description>Systembolaget Butik, Norra Svedengatan 9, Linköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.589063,58.435187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Repslagaregatan 25-27</name>
+        <description>Systembolaget Butik, Repslagaregatan 25-27, Linköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.627187,58.410562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Falugatan 2</name>
+        <description>Systembolaget Butik, Falugatan 2, Falun</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.629437,60.606687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Torggatan 3</name>
+        <description>Systembolaget Butik, Torggatan 3, Kisa</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.63295,57.98878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Verkovägen 9</name>
+        <description>Systembolaget Butik, Verkovägen 9, Lyckeby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.642188,56.196438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Järnvägsgatan 7</name>
+        <description>Systembolaget Butik, Järnvägsgatan 7, Ånge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.64958,62.52542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Ekholmens Centrum</name>
+        <description>Systembolaget Butik, Ekholmens Centrum, Linköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.681563,58.380063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Centralvägen 7</name>
+        <description>Systembolaget Butik, Centralvägen 7, Skinnskatteberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.69334,59.83033,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Gränsgatan 3</name>
+        <description>Systembolaget Butik, Gränsgatan 3, Säter</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.74785,60.34424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Bergslagsvägen 9</name>
+        <description>Systembolaget Butik, Bergslagsvägen 9, Finspång</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.77465,58.7076,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Järntorget 1</name>
+        <description>Systembolaget Butik, Järntorget 1, Fagersta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.7903,60.0041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Långgatan 17</name>
+        <description>Systembolaget Butik, Långgatan 17, Edsbyn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.817438,61.375937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Nygatan 27</name>
+        <description>Systembolaget Butik, Nygatan 27, Arboga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.84057,59.39499,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Bryggerigatan 3</name>
+        <description>Systembolaget Butik, Bryggerigatan 3, Hultsfred</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.84231,57.48778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Sevedegatan 25 B</name>
+        <description>Systembolaget Butik, Sevedegatan 25 B, Vimmerby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.85239,57.66636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storgatan 18-20</name>
+        <description>Systembolaget Butik, Storgatan 18-20, Vingåker</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.872563,59.044937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Bangatan 9</name>
+        <description>Systembolaget Butik, Bangatan 9, Nybro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.9051,56.74234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Malmgatan 18</name>
+        <description>Systembolaget Butik, Malmgatan 18, Norberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.92674,60.06416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Åsgatan 64</name>
+        <description>Systembolaget Butik, Åsgatan 64, Hedemora</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.984938,60.277812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Stora Gatan 17</name>
+        <description>Systembolaget Butik, Stora Gatan 17, Köping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.99784,59.51351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Adelswärdsgatan 4 C</name>
+        <description>Systembolaget Butik, Adelswärdsgatan 4 C, Åtvidaberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.99835,58.2019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Allfargatan 9</name>
+        <description>Systembolaget Butik, Allfargatan 9, Torsås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.00029,56.41231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Posttorget</name>
+        <description>Systembolaget Butik, Posttorget, Högsby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.0258,57.16636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Drottninggatan 15</name>
+        <description>Systembolaget Butik, Drottninggatan 15, Kungsör</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.096938,59.423313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Norra Järnvägsgatan 45</name>
+        <description>Systembolaget Butik, Norra Järnvägsgatan 45, Ljusdal</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.09832,61.82682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Blygatan 27</name>
+        <description>Systembolaget Butik, Blygatan 27, Norrköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.161687,58.615938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Kromgatan 1</name>
+        <description>Systembolaget Butik, Kromgatan 1, Norrköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.163312,58.612313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Kungsgatan 13</name>
+        <description>Systembolaget Butik, Kungsgatan 13, Avesta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.171937,60.145063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Hantverkaregatan 26</name>
+        <description>Systembolaget Butik, Hantverkaregatan 26, Norrköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.191187,58.587187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Köpmangatan 9</name>
+        <description>Systembolaget Butik, Köpmangatan 9, Katrineholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.20718,58.99549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Mirum Galleria</name>
+        <description>Systembolaget Butik, Mirum Galleria, Norrköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.209437,58.572812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Köpmangatan 27-29</name>
+        <description>Systembolaget Butik, Köpmangatan 27-29, Surahammar</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.22171,59.708,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Hammartorget 5 B</name>
+        <description>Systembolaget Butik, Hammartorget 5 B, Hallstahammar</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.22725,59.61451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Skolgatan 16</name>
+        <description>Systembolaget Butik, Skolgatan 16, Hofors</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.285562,60.546188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Rådhustorget 2</name>
+        <description>Systembolaget Butik, Rådhustorget 2, Söderköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.32072,58.48198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Verkstadsgatan 6 D</name>
+        <description>Systembolaget Butik, Verkstadsgatan 6 D, Kalmar</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.336312,56.670437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Centralgatan 12</name>
+        <description>Systembolaget Butik, Centralgatan 12, Hammarstrand</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.35439,63.1097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Norra Långgatan 23-25</name>
+        <description>Systembolaget Butik, Norra Långgatan 23-25, Kalmar</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.363687,56.664187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Långgatan 10</name>
+        <description>Systembolaget Butik, Långgatan 10, Bollnäs</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.39299,61.34714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Bondevägen 4</name>
+        <description>Systembolaget Butik, Bondevägen 4, Gamleby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.40146,57.89869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Parkvägen 1</name>
+        <description>Systembolaget Butik, Parkvägen 1, Dorotea</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.41573,64.26206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Åsevadsgatan 3</name>
+        <description>Systembolaget Butik, Åsevadsgatan 3, Mönsterås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.443188,57.041812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Postmästaregatan 16</name>
+        <description>Systembolaget Butik, Postmästaregatan 16, Oskarshamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.44514,57.26416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Traversgatan 10 A</name>
+        <description>Systembolaget Butik, Traversgatan 10 A, Västerås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.464062,59.616437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Gunborg Nymans Väg 2</name>
+        <description>Systembolaget Butik, Gunborg Nymans Väg 2, Eskilstuna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.46803,59.37557,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Ölands Köpstad</name>
+        <description>Systembolaget Butik, Ölands Köpstad, Färjestaden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.468313,56.651562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storgatan 16</name>
+        <description>Systembolaget Butik, Storgatan 16, Ramsele</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.470813,63.536938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Levins Gränd 1</name>
+        <description>Systembolaget Butik, Levins Gränd 1, Torshälla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.47624,59.42022,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Kungsgatan 12</name>
+        <description>Systembolaget Butik, Kungsgatan 12, Eskilstuna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.51462,59.37027,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Vasagatan 21</name>
+        <description>Systembolaget Butik, Vasagatan 21, Västerås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.544063,59.611438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Stenbygatan 1</name>
+        <description>Systembolaget Butik, Stenbygatan 1, Västerås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.568188,59.635312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Götgatan 1</name>
+        <description>Systembolaget Butik, Götgatan 1, Flen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.588687,59.058437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Centralplan</name>
+        <description>Systembolaget Butik, Centralplan, Valdemarsvik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.60246,58.202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Rådmansgatan 10</name>
+        <description>Systembolaget Butik, Rådmansgatan 10, Sala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.6068,59.92022,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Stockholmsvägen 136 B</name>
+        <description>Systembolaget Butik, Stockholmsvägen 136 B, Västerås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.619937,59.608688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Västra Kyrkogatan 34</name>
+        <description>Systembolaget Butik, Västra Kyrkogatan 34, Västervik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.634516,57.757662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Östra Kyrkogatan 19</name>
+        <description>Systembolaget Butik, Östra Kyrkogatan 19, Borgholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.65611,56.87867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Volgsjövägen 44</name>
+        <description>Systembolaget Butik, Volgsjövägen 44, Vilhelmina</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.657812,64.624188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Södra Åsgatan 32</name>
+        <description>Systembolaget Butik, Södra Åsgatan 32, Ockelbo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.71439,60.88538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Landsvägsgatan 26</name>
+        <description>Systembolaget Butik, Landsvägsgatan 26, Malmköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.73119,59.13163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Köpmangatan 19</name>
+        <description>Systembolaget Butik, Köpmangatan 19, Sandviken</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.7743,60.62022,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Valbo Köpcentrum</name>
+        <description>Systembolaget Butik, Valbo Köpcentrum, Valbo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.99067,60.63453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Västra Storgatan 13</name>
+        <description>Systembolaget Butik, Västra Storgatan 13, Nyköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.003687,58.751937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Gustafsbergsstigen 4</name>
+        <description>Systembolaget Butik, Gustafsbergsstigen 4, Nyköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.025562,58.769937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Trädgårdsgatan 12</name>
+        <description>Systembolaget Butik, Trädgårdsgatan 12, Strängnäs</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.02683,59.37667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Köpmangatan 9</name>
+        <description>Systembolaget Butik, Köpmangatan 9, Söderhamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.05593,61.3026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storgatan 21</name>
+        <description>Systembolaget Butik, Storgatan 21, Bergsjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.05803,61.98578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Östra Ringgatan 21</name>
+        <description>Systembolaget Butik, Östra Ringgatan 21, Enköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.08181,59.63383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Norra Kyrkogatan 14</name>
+        <description>Systembolaget Butik, Norra Kyrkogatan 14, Hudiksvall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.10222,61.72912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Järntorget 4</name>
+        <description>Systembolaget Butik, Järntorget 4, Oxelösund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.103938,58.669812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Stationsgatan 5</name>
+        <description>Systembolaget Butik, Stationsgatan 5, Storuman</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.114063,65.096063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Drottninggatan 9</name>
+        <description>Systembolaget Butik, Drottninggatan 9, Gävle</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.13927,60.67397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Ingenjörsgatan 5</name>
+        <description>Systembolaget Butik, Ingenjörsgatan 5, Gävle</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.14434,60.64484,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Torgvägen 10</name>
+        <description>Systembolaget Butik, Torgvägen 10, Östervåla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.17707,60.18168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storgatan 17-19</name>
+        <description>Systembolaget Butik, Storgatan 17-19, Mariefred</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.21985,59.25925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storgatan 48</name>
+        <description>Systembolaget Butik, Storgatan 48, Sollefteå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.26625,63.16836,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Västra Storgatan 16 A</name>
+        <description>Systembolaget Butik, Västra Storgatan 16 A, Gnesta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.306938,59.049062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Sjögatan 16</name>
+        <description>Systembolaget Butik, Sjögatan 16, Sundsvall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.308062,62.391813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Köpmangatan 29</name>
+        <description>Systembolaget Butik, Köpmangatan 29, Timrå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.32505,62.48618,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Gesällvägen 3</name>
+        <description>Systembolaget Butik, Gesällvägen 3, Sundsvall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.334938,62.443812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storgatan 33</name>
+        <description>Systembolaget Butik, Storgatan 33, Åsele</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.35162,64.16116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Affärsgatan 7</name>
+        <description>Systembolaget Butik, Affärsgatan 7, Kvissleby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.37828,62.29819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Centrumgatan 7</name>
+        <description>Systembolaget Butik, Centrumgatan 7, Skutskär</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.414563,60.624938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Centrumvägen 26</name>
+        <description>Systembolaget Butik, Centrumvägen 26, Nykvarn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.433062,59.177312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Centralgatan 14</name>
+        <description>Systembolaget Butik, Centralgatan 14, Tierp</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.51424,60.34384,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Centrumstråket 2</name>
+        <description>Systembolaget Butik, Centrumstråket 2, Bålsta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.528562,59.567312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Strandvägen 5</name>
+        <description>Systembolaget Butik, Strandvägen 5, Sorsele</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.53608,65.53493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Östra Långgatan 35</name>
+        <description>Systembolaget Butik, Östra Långgatan 35, Trosa</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.54809,58.89669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Herrhagsvägen 1</name>
+        <description>Systembolaget Butik, Herrhagsvägen 1, Uppsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.564687,59.848813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Genetaleden 7</name>
+        <description>Systembolaget Butik, Genetaleden 7, Södertälje</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.61541,59.18238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Gästgivaregatan 6 Lunagallerian</name>
+        <description>Systembolaget Butik, Gästgivaregatan 6 Lunagallerian, Södertälje</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.62631,59.19699,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Valthornsvägen 7</name>
+        <description>Systembolaget Butik, Valthornsvägen 7, Uppsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.629562,59.810313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Dragarbrunnsgatan 48 A</name>
+        <description>Systembolaget Butik, Dragarbrunnsgatan 48 A, Uppsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.642187,59.858438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Vaksalagatan 30</name>
+        <description>Systembolaget Butik, Vaksalagatan 30, Uppsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.64651,59.86206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Marknadsgatan 1</name>
+        <description>Systembolaget Butik, Marknadsgatan 1, Uppsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.674062,59.877312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Stångjärnsgatan 10</name>
+        <description>Systembolaget Butik, Stångjärnsgatan 10, Uppsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.685563,59.847188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Stora Gatan 56 C</name>
+        <description>Systembolaget Butik, Stora Gatan 56 C, Sigtuna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.7245,59.61701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Kyrkvägen 4 A</name>
+        <description>Systembolaget Butik, Kyrkvägen 4 A, Kungsängen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.75051,59.47937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Säby Torg 5</name>
+        <description>Systembolaget Butik, Säby Torg 5, Rönninge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.76657,59.2011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Kungsgatan 5 B</name>
+        <description>Systembolaget Butik, Kungsgatan 5 B, Kramfors</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.7816,62.92962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Centralvägen 12</name>
+        <description>Systembolaget Butik, Centralvägen 12, Knivsta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.788063,59.725938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Viksjö Centrum Viksjöplan</name>
+        <description>Systembolaget Butik, Viksjö Centrum Viksjöplan, Järfälla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.80293,59.41111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Ångbåtsvägen 4</name>
+        <description>Systembolaget Butik, Ångbåtsvägen 4, Ekerö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.80998,59.29039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Kumla Gårdsväg 30 A</name>
+        <description>Systembolaget Butik, Kumla Gårdsväg 30 A, Norsborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.832062,59.237813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Tumba Torg 8</name>
+        <description>Systembolaget Butik, Tumba Torg 8, Tumba</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.83339,59.19899,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Banérstråket</name>
+        <description>Systembolaget Butik, Banérstråket, Järfälla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.83629,59.42272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Hässelby Torg 3</name>
+        <description>Systembolaget Butik, Hässelby Torg 3, Hässelby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.84348,59.36726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Nymärsta Kulle 3</name>
+        <description>Systembolaget Butik, Nymärsta Kulle 3, Märsta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.85948,59.61631,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Majorsvägen 2 D</name>
+        <description>Systembolaget Butik, Majorsvägen 2 D, Järfälla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.862187,59.414313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Ångermannagatan 165</name>
+        <description>Systembolaget Butik, Ångermannagatan 165, Vällingby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.87378,59.36366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storgatan 15 B</name>
+        <description>Systembolaget Butik, Storgatan 15 B, Arjeplog</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.89168,66.05205,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Dragonvägen 86</name>
+        <description>Systembolaget Butik, Dragonvägen 86, Upplands Väsby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.90933,59.51891,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Skärholmsplan 1</name>
+        <description>Systembolaget Butik, Skärholmsplan 1, Skärholmen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.909687,59.276312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Konsumentvägen 1</name>
+        <description>Systembolaget Butik, Konsumentvägen 1, Sollentuna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.9173,59.47167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Tangentvägen 2</name>
+        <description>Systembolaget Butik, Tangentvägen 2, Huddinge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.921563,59.270562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Norra Malmvägen 80-82</name>
+        <description>Systembolaget Butik, Norra Malmvägen 80-82, Sollentuna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.932938,59.440438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storgatan 26</name>
+        <description>Systembolaget Butik, Storgatan 26, Härnösand</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.939437,62.631687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Klädesvägen 12</name>
+        <description>Systembolaget Butik, Klädesvägen 12, Bromma</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.93967,59.33943,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Kista Galleria</name>
+        <description>Systembolaget Butik, Kista Galleria, Kista</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.9433,59.4021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Mörbyvägen 3</name>
+        <description>Systembolaget Butik, Mörbyvägen 3, Nynäshamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.9462,58.9038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Sollentunavägen 163 C</name>
+        <description>Systembolaget Butik, Sollentunavägen 163 C, Sollentuna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.952312,59.427688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Ulvsundavägen 189 A</name>
+        <description>Systembolaget Butik, Ulvsundavägen 189 A, Bromma</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.954062,59.356063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Fruängsgången 10</name>
+        <description>Systembolaget Butik, Fruängsgången 10, Hägersten</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.96522,59.28538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Landsvägen 53 B</name>
+        <description>Systembolaget Butik, Landsvägen 53 B, Sundbyberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.96792,59.36136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Östra Madenvägen 10 A</name>
+        <description>Systembolaget Butik, Östra Madenvägen 10 A, Sundbyberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.969062,59.378187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Sjödalstorget 5</name>
+        <description>Systembolaget Butik, Sjödalstorget 5, Huddinge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.9819,59.23553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Postgången 28</name>
+        <description>Systembolaget Butik, Postgången 28, Solna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.99969,59.36076,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Västbergavägen 4</name>
+        <description>Systembolaget Butik, Västbergavägen 4, Hägersten</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.003687,59.294187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Råsta Strandväg 13 C</name>
+        <description>Systembolaget Butik, Råsta Strandväg 13 C, Solna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.004688,59.370188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Lindhagensgatan 118</name>
+        <description>Systembolaget Butik, Lindhagensgatan 118, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.009437,59.337312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Älvsjö-Ängsvägen 2-6</name>
+        <description>Systembolaget Butik, Älvsjö-Ängsvägen 2-6, Älvsjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.013312,59.275312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Rålambsvägen 7-9</name>
+        <description>Systembolaget Butik, Rålambsvägen 7-9, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.01861,59.32822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Liljeholmstorget 3</name>
+        <description>Systembolaget Butik, Liljeholmstorget 3, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.022188,59.309687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Fleminggatan 56</name>
+        <description>Systembolaget Butik, Fleminggatan 56, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.03035,59.33473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Solnavägen 2 B</name>
+        <description>Systembolaget Butik, Solnavägen 2 B, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.033187,59.346563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Långholmsgatan 21 A</name>
+        <description>Systembolaget Butik, Långholmsgatan 21 A, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.03344,59.31631,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Golfvägen 6 A</name>
+        <description>Systembolaget Butik, Golfvägen 6 A, Danderyd</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.036938,59.397063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Odengatan 92</name>
+        <description>Systembolaget Butik, Odengatan 92, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.04224,59.34074,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Kungsholmstorg 11 A</name>
+        <description>Systembolaget Butik, Kungsholmstorg 11 A, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.04255,59.32832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Högdalsgången 19</name>
+        <description>Systembolaget Butik, Högdalsgången 19, Bandhagen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.04378,59.26316,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Fleminggatan 18</name>
+        <description>Systembolaget Butik, Fleminggatan 18, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.044688,59.333062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Odengatan 58</name>
+        <description>Systembolaget Butik, Odengatan 58, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.05349,59.34354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Rosenlundsgatan 7</name>
+        <description>Systembolaget Butik, Rosenlundsgatan 7, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.05581,59.31651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Sveavägen 66</name>
+        <description>Systembolaget Butik, Sveavägen 66, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.06018,59.33913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Drottninggatan 45</name>
+        <description>Systembolaget Butik, Drottninggatan 45, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.062312,59.332437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Birger Jarlsgatan 84</name>
+        <description>Systembolaget Butik, Birger Jarlsgatan 84, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.06328,59.34444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Hötorgshallen</name>
+        <description>Systembolaget Butik, Hötorgshallen, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.06357,59.33483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Norrlandsgatan 3</name>
+        <description>Systembolaget Butik, Norrlandsgatan 3, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.071188,59.333188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Medborgarplatsen 3</name>
+        <description>Systembolaget Butik, Medborgarplatsen 3, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.0718,59.31451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Norra Galleriagången 1024</name>
+        <description>Systembolaget Butik, Norra Galleriagången 1024, Täby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.073563,59.444562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Folkungagatan 56</name>
+        <description>Systembolaget Butik, Folkungagatan 56, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.07454,59.31431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Götgatan 132</name>
+        <description>Systembolaget Butik, Götgatan 132, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.0761,59.3085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Tuna Torg 19</name>
+        <description>Systembolaget Butik, Tuna Torg 19, Vallentuna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.07672,59.53453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Gullmarsplan 4-6</name>
+        <description>Systembolaget Butik, Gullmarsplan 4-6, Johanneshov</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.07928,59.29849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Nybrogatan 47</name>
+        <description>Systembolaget Butik, Nybrogatan 47, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.07931,59.33723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Arenavägen 57</name>
+        <description>Systembolaget Butik, Arenavägen 57, Johanneshov</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.080937,59.293188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Folkungagatan 101</name>
+        <description>Systembolaget Butik, Folkungagatan 101, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.084437,59.315687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Karlaplan 13</name>
+        <description>Systembolaget Butik, Karlaplan 13, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.09061,59.33823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Farstaplan 27</name>
+        <description>Systembolaget Butik, Farstaplan 27, Farsta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.091422,59.242937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Bobergsgatan 50</name>
+        <description>Systembolaget Butik, Bobergsgatan 50, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.091813,59.358438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Karlavägen 100 A</name>
+        <description>Systembolaget Butik, Karlavägen 100 A, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.09713,59.33603,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Lugnets Allé 26-28</name>
+        <description>Systembolaget Butik, Lugnets Allé 26-28, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.103563,59.302437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Kyrkvägen 2</name>
+        <description>Systembolaget Butik, Kyrkvägen 2, Västerhaninge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.106687,59.122563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Sköndalsvägen 3</name>
+        <description>Systembolaget Butik, Sköndalsvägen 3, Sköndal</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.106813,59.260438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Siroccogatan 7</name>
+        <description>Systembolaget Butik, Siroccogatan 7, Nacka</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.130812,59.304562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Friggavägen 24</name>
+        <description>Systembolaget Butik, Friggavägen 24, Lidingö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.13515,59.36636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Saluvägen 10</name>
+        <description>Systembolaget Butik, Saluvägen 10, Täby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.139187,59.460062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Drakslingan 12</name>
+        <description>Systembolaget Butik, Drakslingan 12, Haninge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.14,59.16846,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Skogåsplan 9</name>
+        <description>Systembolaget Butik, Skogåsplan 9, Skogås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.153312,59.217813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Österport 2</name>
+        <description>Systembolaget Butik, Österport 2, Haninge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.158687,59.181313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Forumvägen 14</name>
+        <description>Systembolaget Butik, Forumvägen 14, Nacka</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.164266,59.310137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Marknadsgränd 29</name>
+        <description>Systembolaget Butik, Marknadsgränd 29, Tyresö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.23005,59.24364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Ormingeplan 3</name>
+        <description>Systembolaget Butik, Ormingeplan 3, Saltsjö-Boo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.25665,59.32682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Torggatan 19</name>
+        <description>Systembolaget Butik, Torggatan 19, Saltsjöbaden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.2769,59.28428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storängstorget 7</name>
+        <description>Systembolaget Butik, Storängstorget 7, Åkersberga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.297812,59.480062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Österväg 3 C</name>
+        <description>Systembolaget Butik, Österväg 3 C, Visby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.29968,57.63803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Söderhamnen 10</name>
+        <description>Systembolaget Butik, Söderhamnen 10, Vaxholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.34962,59.4013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Köpmannagatan 2</name>
+        <description>Systembolaget Butik, Köpmannagatan 2, Rimbo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.36645,59.74374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storgatan 61</name>
+        <description>Systembolaget Butik, Storgatan 61, Hemse</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.37718,57.24064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Centrum</name>
+        <description>Systembolaget Butik, Centrum, Gustavsberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.39245,59.32782,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Fenix väg 4</name>
+        <description>Systembolaget Butik, Fenix väg 4, Gustavsberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.42845,59.31351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Rådhusgatan 10</name>
+        <description>Systembolaget Butik, Rådhusgatan 10, Öregrund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.4404,60.33973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Centrumtorget</name>
+        <description>Systembolaget Butik, Centrumtorget, Hallstavik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.60057,60.04634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storgatan 25</name>
+        <description>Systembolaget Butik, Storgatan 25, Lycksele</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.67812,64.59409,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Tullportsgatan 12</name>
+        <description>Systembolaget Butik, Tullportsgatan 12, Norrtälje</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.70075,59.75715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Stora Torget 3</name>
+        <description>Systembolaget Butik, Stora Torget 3, Örnsköldsvik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.714937,63.289187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Hästmarksvägen 6</name>
+        <description>Systembolaget Butik, Hästmarksvägen 6, Örnsköldsvik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.734812,63.302688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storgatan 23</name>
+        <description>Systembolaget Butik, Storgatan 23, Malå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.74253,65.18218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Tullhagsplan 2 B</name>
+        <description>Systembolaget Butik, Tullhagsplan 2 B, Slite</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.80183,57.704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Stationsgatan 21 A</name>
+        <description>Systembolaget Butik, Stationsgatan 21 A, Arvidsjaur</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.175,65.59189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storgatan 6</name>
+        <description>Systembolaget Butik, Storgatan 6, Bjurholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.21608,63.93113,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storgatan 72</name>
+        <description>Systembolaget Butik, Storgatan 72, Norsjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.47896,64.91351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Affärsvägen 1</name>
+        <description>Systembolaget Butik, Affärsvägen 1, Nordmaling</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.49424,63.56836,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Järnvägsallén 5</name>
+        <description>Systembolaget Butik, Järnvägsallén 5, Vindeln</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.718313,64.202812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Östra Järnvägsgatan 7</name>
+        <description>Systembolaget Butik, Östra Järnvägsgatan 7, Vännäs</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.75185,63.9072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Berggatan 7</name>
+        <description>Systembolaget Butik, Berggatan 7, Jokkmokk</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.828562,66.606813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Marknadsgatan 5 B</name>
+        <description>Systembolaget Butik, Marknadsgatan 5 B, Umeå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.255187,63.805563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Rådhusesplanaden 6 E</name>
+        <description>Systembolaget Butik, Rådhusesplanaden 6 E, Umeå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.265062,63.826937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Strömpilsplatsen 29</name>
+        <description>Systembolaget Butik, Strömpilsplatsen 29, Umeå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.303812,63.797812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Formvägen 4</name>
+        <description>Systembolaget Butik, Formvägen 4, Umeå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.30476,63.85115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Alvar Janssons Gata</name>
+        <description>Systembolaget Butik, Alvar Janssons Gata, Kiruna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.307187,67.849563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Hantverkaregatan 15</name>
+        <description>Systembolaget Butik, Hantverkaregatan 15, Gällivare</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.66337,67.13513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storgatan 29 B</name>
+        <description>Systembolaget Butik, Storgatan 29 B, Robertsfors</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.847812,64.192688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Nygatan 50</name>
+        <description>Systembolaget Butik, Nygatan 50, Skellefteå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.954437,64.750062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Skolgatan 27</name>
+        <description>Systembolaget Butik, Skolgatan 27, Älvsbyn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.00835,65.67287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Varugatan 22</name>
+        <description>Systembolaget Butik, Varugatan 22, Skellefteå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.024938,64.765062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storgatan 65</name>
+        <description>Systembolaget Butik, Storgatan 65, Piteå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.477438,65.317688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Drottninggatan 8 B</name>
+        <description>Systembolaget Butik, Drottninggatan 8 B, Boden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.68612,65.82372,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Besiktningsvägen 19 A</name>
+        <description>Systembolaget Butik, Besiktningsvägen 19 A, Luleå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.046563,65.619062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Delfingatan 2</name>
+        <description>Systembolaget Butik, Delfingatan 2, Luleå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.148438,65.595562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Storgatan 61</name>
+        <description>Systembolaget Butik, Storgatan 61, Luleå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.159188,65.585062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Tvärgatan 2</name>
+        <description>Systembolaget Butik, Tvärgatan 2, Överkalix</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.844938,66.325688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Strandgatan 10</name>
+        <description>Systembolaget Butik, Strandgatan 10, Kalix</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.1396,65.85535,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Medborgarvägen 3</name>
+        <description>Systembolaget Butik, Medborgarvägen 3, Pajala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.36881,67.21211,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Hemvägen 11</name>
+        <description>Systembolaget Butik, Hemvägen 11, Övertorneå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.65624,66.38458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Systembolaget Butik, Norra Esplanaden 8</name>
+        <description>Systembolaget Butik, Norra Esplanaden 8, Haparanda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.133063,65.841062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

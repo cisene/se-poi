@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>3 Butiker</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>3 Butiker</name>
+      <Placemark>
+        <name>3Butiken Örebro</name>
+        <description>3Butiken Örebro, Örebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.211813,59.269562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3Butiken Domino</name>
+        <description>3Butiken Domino, Norrköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.188812,58.588188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3Butiken Erikslund</name>
+        <description>3Butiken Erikslund, Västerås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.453187,59.609313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3Butiken Tunapark</name>
+        <description>3Butiken Tunapark, Eskilstuna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.470062,59.371437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3Butiken City</name>
+        <description>3Butiken City, Uppsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.637188,59.860062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3Butiken S:t Per Gallerian</name>
+        <description>3Butiken S:t Per Gallerian, Uppsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.637687,59.859687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3Butiken Gränby</name>
+        <description>3Butiken Gränby, Uppsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.673812,59.877187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3Butiken Skärholmen Centrum</name>
+        <description>3Butiken Skärholmen Centrum, Skärholmen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.906687,59.275312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3Butiken Kista Galleri</name>
+        <description>3Butiken Kista Galleri, Kista</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.944437,59.402313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3Butiken Kungsgatan</name>
+        <description>3Butiken Kungsgatan, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.064437,59.335563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3Butiken Täby Centrum</name>
+        <description>3Butiken Täby Centrum, Täby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.071562,59.443938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3Butiken Ringen</name>
+        <description>3Butiken Ringen, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.075187,59.307938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3Butiken Farsta Centrum</name>
+        <description>3Butiken Farsta Centrum, Farsta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.091437,59.243063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3Butiken Nacka Forum</name>
+        <description>3Butiken Nacka Forum, Nacka</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.165062,59.309062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

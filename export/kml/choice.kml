@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Nordic Choice Hotels</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Nordic Choice Hotels</name>
+      <Placemark>
+        <name>Quality Spa & Resort</name>
+        <description>Quality Spa & Resort, Strömstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.16076,58.94422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stenungsbaden Yacht Club</name>
+        <description>Stenungsbaden Yacht Club, Stenungsund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.8071,58.0637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quality Hotel 11</name>
+        <description>Quality Hotel 11, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.91417,57.70145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Comfort Hotel City Center</name>
+        <description>Comfort Hotel City Center, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.95679,57.70465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clarion Collection Hotel Odin</name>
+        <description>Clarion Collection Hotel Odin, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.97902,57.70879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quality Hotel Winn</name>
+        <description>Quality Hotel Winn, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.98042,57.7309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quality Hotel Panorama</name>
+        <description>Quality Hotel Panorama, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.98789,57.68959,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clarion Collection Hotel Fregatten</name>
+        <description>Clarion Collection Hotel Fregatten, Varberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.24619,57.10751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quality Hotel</name>
+        <description>Quality Hotel, Vänersborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.31885,58.36229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Comfort Hotel Bristol</name>
+        <description>Comfort Hotel Bristol, Arvika</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.59346,59.65511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clarion Grand Hotel</name>
+        <description>Clarion Grand Hotel, Helsingborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.6943,56.0464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Comfort Hotel Nouveau</name>
+        <description>Comfort Hotel Nouveau, Helsingborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.6999,56.041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clarion Collection Hotel Norre Park</name>
+        <description>Clarion Collection Hotel Norre Park, Halmstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.85864,56.67808,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quality Hotel</name>
+        <description>Quality Hotel, Halmstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.91181,56.65399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Comfort Hotel Royal</name>
+        <description>Comfort Hotel Royal, Säffle</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.9215,59.1304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Comfort Hotel Jazz</name>
+        <description>Comfort Hotel Jazz, Borås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.94196,57.72117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clarion Collection Hotel Temperance</name>
+        <description>Clarion Collection Hotel Temperance, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.99839,55.60382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Comfort Hotel Malmö</name>
+        <description>Comfort Hotel Malmö, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.00118,55.61067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quality Hotel Konserthuset</name>
+        <description>Quality Hotel Konserthuset, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.00794,55.59934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Selma Spa</name>
+        <description>Selma Spa, Sunne</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.1289,59.8281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quality Hotel Selma Lagerlof</name>
+        <description>Quality Hotel Selma Lagerlof, Sunne</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.13563,59.8263,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clarion Collection Hotel Drott</name>
+        <description>Clarion Collection Hotel Drott, Karlstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.499,59.3786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clarion Hotel Plaza</name>
+        <description>Clarion Hotel Plaza, Karlstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.50168,59.3783,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clarion Collection Bilan</name>
+        <description>Clarion Collection Bilan, Karlstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.50886,59.37971,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clarion Collection Hotel Majoren</name>
+        <description>Clarion Collection Hotel Majoren, Skövde</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.85007,58.39074,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quality Hotel Prisma</name>
+        <description>Quality Hotel Prisma, Skövde</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.8577,58.3892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quality Hotel Grand</name>
+        <description>Quality Hotel Grand, Kristianstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.15333,56.03235,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Comfort Hotel</name>
+        <description>Comfort Hotel, Jönköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.1564,57.77876,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clarion Collection Hotel Victoria</name>
+        <description>Clarion Collection Hotel Victoria, Jönköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.16041,57.78242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quality Hotel</name>
+        <description>Quality Hotel, Jönköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.19232,57.76128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quality Hotel Winn</name>
+        <description>Quality Hotel Winn, Jönköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.2707,57.81498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clarion Hotel Grand</name>
+        <description>Clarion Hotel Grand, Östersund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.6363,63.1802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quality Hotel</name>
+        <description>Quality Hotel, Växjo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.83261,56.87901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quality Hotel</name>
+        <description>Quality Hotel, Örebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.20307,59.29758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clarion Hotel</name>
+        <description>Clarion Hotel, Örebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.21353,59.27026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quality Hotel Galaxen</name>
+        <description>Quality Hotel Galaxen, Borlänge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.43028,60.48806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clarion Collection Hotel Carlscrona</name>
+        <description>Clarion Collection Hotel Carlscrona, Karlskrona</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.5904,56.1669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quality Hotel Ekoxen</name>
+        <description>Quality Hotel Ekoxen, Linköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.62428,58.40565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clarion Collection Hotel Bergmästaren</name>
+        <description>Clarion Collection Hotel Bergmästaren, Falun</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.6355,60.6059,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clarion Collection Hotel Packhuset</name>
+        <description>Clarion Collection Hotel Packhuset, Kalmar</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.36555,56.66134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clarion Collection Hotel Post</name>
+        <description>Clarion Collection Hotel Post, Oskarshamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.44947,57.26475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quality Hotel</name>
+        <description>Quality Hotel, Västerås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.49942,59.6242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clarion Collection Htl Bolinder Munktell</name>
+        <description>Clarion Collection Htl Bolinder Munktell, Eskilstuna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.51245,59.37614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quality Hotel Statt</name>
+        <description>Quality Hotel Statt, Eskilstuna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.51691,59.3716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clarion Collection Hotel Etage</name>
+        <description>Clarion Collection Hotel Etage, Västerås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.54601,59.60978,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clarion Collection Hotel Kompaniet</name>
+        <description>Clarion Collection Hotel Kompaniet, Nyköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.01589,58.74812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clarion Hotel Winn</name>
+        <description>Clarion Hotel Winn, Gävle</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.1403,60.6756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clarion Collection Hotel Grand</name>
+        <description>Clarion Collection Hotel Grand, Sundsvall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.3111,62.38972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aronsborgs Konferenshotell</name>
+        <description>Aronsborgs Konferenshotell, Bålsta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.5282,59.5536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quality Hotel Park</name>
+        <description>Quality Hotel Park, Södertälje</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.6275,59.1933,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clarion Hotel Gillet</name>
+        <description>Clarion Hotel Gillet, Uppsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.63795,59.86057,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quality Hotel Airport</name>
+        <description>Quality Hotel Airport, Arlanda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.89502,59.60764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quality Hotel Prince Philip</name>
+        <description>Quality Hotel Prince Philip, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.90851,59.27364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Comfort Hotel</name>
+        <description>Comfort Hotel, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.05214,59.33262,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clarion Hotel Sign</name>
+        <description>Clarion Hotel Sign, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.05461,59.33336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clarion Hotel</name>
+        <description>Clarion Hotel, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.07463,59.30748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clarion Collection Hotel Wellington</name>
+        <description>Clarion Collection Hotel Wellington, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.08229,59.33523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quality Hotel Globe</name>
+        <description>Quality Hotel Globe, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.08442,59.29144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clarion Collection Hotel Tapto</name>
+        <description>Clarion Collection Hotel Tapto, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.0867,59.34334,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clarion Collection Hotel Karlaplan</name>
+        <description>Clarion Collection Hotel Karlaplan, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.08785,59.34036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quality Hotel</name>
+        <description>Quality Hotel, Nacka</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.12023,59.30709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quality Hotel Winn</name>
+        <description>Quality Hotel Winn, Haninge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.1349,59.1655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yasuragi Hasseludden</name>
+        <description>Yasuragi Hasseludden, Saltsjö-Boo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.2404,59.3458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clarion Hotel Wisby</name>
+        <description>Clarion Hotel Wisby, Visby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.29079,57.63856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clarion Collection Hotel Uman</name>
+        <description>Clarion Collection Hotel Uman, Umeå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.26579,63.82441,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quality Hotel Statt</name>
+        <description>Quality Hotel Statt, Skellefteå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.95078,64.75046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quality Hotel</name>
+        <description>Quality Hotel, Luleå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.14711,65.58375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Comfort Hotel</name>
+        <description>Comfort Hotel, Luleå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.15794,65.58489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

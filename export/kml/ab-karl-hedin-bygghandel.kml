@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>AB Karl Hedin Bygghandel</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>AB Karl Hedin Bygghandel</name>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Kungshamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.301312,58.383187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Munkedal</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.637562,58.481437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Trollhättan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.318812,58.276063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Vänersborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.338563,58.377688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Torsby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.000687,60.151562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Sunne</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.123437,59.850188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Sälen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.197437,61.166812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Kil</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.333687,59.501687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Karlstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.445313,59.373312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Hagfors</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.670438,60.011187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Vemdalen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.866312,62.464562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Kristinehamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.099312,59.321938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Filipstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.153562,59.712312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Sveg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.353063,62.032312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Karlskoga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.486688,59.330188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Mora</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.522312,61.035937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Orsa</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.625187,61.116687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Laxå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.635938,58.986562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Östersund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.654687,63.161812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Leksand</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.996063,60.725188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Rättvik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.147562,60.895187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Örebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.165188,59.264312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Ludvika</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.176813,60.129687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Lindesberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.192937,59.603687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Borlänge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.420063,60.473188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Falun</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.655188,60.597313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Säter</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.740687,60.345312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Edsbyn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.841313,61.371063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Arboga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.870062,59.401438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Hedemora</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.985938,60.288438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Köping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.994937,59.509187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Ljusdal</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.102313,61.836813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Avesta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.178797,60.147963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Fagersta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.208188,60.119062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Hallstahammar</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.248063,59.607563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Hofors</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.285812,60.539313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Eskilstuna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.502812,59.381312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Sala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.632562,59.919062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Sandviken</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.752437,60.612687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Strängnäs</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.030938,59.353687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Söderhamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.054063,61.327813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Enköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.075047,59.653213,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Hudiksvall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.118563,61.748062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Gävle</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.174437,60.665563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Timrå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.339688,62.500812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Sundsvall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.363687,62.379312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Bålsta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.547187,59.559812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Härnösand</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.898562,62.648562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Rimbo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.376562,59.744937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Karl Hedin Bygghandel</name>
+        <description>AB Karl Hedin Bygghandel, Norrtälje</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.691812,59.740188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

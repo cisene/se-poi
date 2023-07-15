@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Indiska Magasinet</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Indiska Magasinet</name>
+      <Placemark>
+        <name>Nordby</name>
+        <description>Nordby, Strömstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.208232,59.064158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Torp</name>
+        <description>Torp, Uddevalla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.812218,58.354714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kungsgatan Göteborg</name>
+        <description>Kungsgatan Göteborg, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.96625,57.704259,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Femmanhuset</name>
+        <description>Femmanhuset, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.969754,57.7085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mölndal Galleria</name>
+        <description>Mölndal Galleria, Mölndal</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.014714,57.65403,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Överby Etage</name>
+        <description>Överby Etage, Trollhättan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.30813,58.312606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Halmstad</name>
+        <description>Halmstad, Halmstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.857322,56.675273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Borås</name>
+        <description>Borås, Borås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.939553,57.72009,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Malmö</name>
+        <description>Malmö, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.001387,55.604082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lund</name>
+        <description>Lund, Lund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.19231,55.701695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mitt i City</name>
+        <description>Mitt i City, Karlstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.500737,59.379376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kristianstad</name>
+        <description>Kristianstad, Kristianstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.157033,56.029113,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jönköping</name>
+        <description>Jönköping, Jönköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.171754,57.782333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Östersund</name>
+        <description>Östersund, Östersund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.636646,63.178368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Växjö</name>
+        <description>Växjö, Växjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.805412,56.878657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Örebro</name>
+        <description>Örebro, Örebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.209755,59.270398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kupolen</name>
+        <description>Kupolen, Borlänge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.418356,60.48443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Karlskrona</name>
+        <description>Karlskrona, Karlskrona</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.583538,56.161487,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Falun</name>
+        <description>Falun, Falun</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.632152,60.60616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Giraffen</name>
+        <description>Giraffen, Kalmar</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.337711,56.6705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Erikslund</name>
+        <description>Erikslund, Västerås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.455784,59.609688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Västerås</name>
+        <description>Västerås, Västerås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.545381,59.610788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gävle</name>
+        <description>Gävle, Gävle</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.142165,60.675112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Birsta City</name>
+        <description>Birsta City, Sundsvall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.335938,62.446999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Uppsala City</name>
+        <description>Uppsala City, Uppsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.636918,59.8595,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gränby</name>
+        <description>Gränby, Uppsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.671213,59.876764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Liljeholmstorget</name>
+        <description>Liljeholmstorget, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.022606,59.309421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Odenplan</name>
+        <description>Odenplan, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.048677,59.342169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Indiska Kungsgatan Stockholm</name>
+        <description>Indiska Kungsgatan Stockholm, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.060976,59.335113,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Täby Centrum</name>
+        <description>Täby Centrum, Täby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.069789,59.444121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Götgatan</name>
+        <description>Götgatan, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.072104,59.316429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ringen</name>
+        <description>Ringen, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.075535,59.308984,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nacka Forum</name>
+        <description>Nacka Forum, Nacka</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.163958,59.310769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avion</name>
+        <description>Avion, Umeå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.253921,63.809779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Umeå</name>
+        <description>Umeå, Umeå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.259947,63.826545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skellefteå</name>
+        <description>Skellefteå, Skellefteå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.954994,64.75077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Småstaden</name>
+        <description>Småstaden, Piteå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.478167,65.316635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Luleå</name>
+        <description>Luleå, Luleå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.150381,65.584349,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Linköping</name>
+        <description>Linköping, Linköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            58.410332,15.623224,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sturegallerian</name>
+        <description>Sturegallerian, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            59.336767,18.073313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

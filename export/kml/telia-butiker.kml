@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Telia</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Telia</name>
+      <Placemark>
+        <name>Telia Uddevalla, Torp Köpcentrum</name>
+        <description>Telia Uddevalla, Torp Köpcentrum, Uddevalla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.805563,58.352688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Västra Frölunda, Frölunda Torg</name>
+        <description>Telia Västra Frölunda, Frölunda Torg, Västra Frölunda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.911188,57.652438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Kungälv, Kongahälla</name>
+        <description>Telia Kungälv, Kongahälla, Kungälv, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.967437,57.873812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Göteborg, Nordstan</name>
+        <description>Telia Göteborg, Nordstan, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.968937,57.708312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Göteborg, Kungsportsplatsen</name>
+        <description>Telia Göteborg, Kungsportsplatsen, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.970063,57.704187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Kungsbacka, Kungsmässan</name>
+        <description>Telia Kungsbacka, Kungsmässan, Kungsbacka, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.074562,57.492687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Partille, Allum</name>
+        <description>Telia Partille, Allum, Partille, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.106188,57.737313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Varberg, Östra Långgatan</name>
+        <description>Telia Varberg, Östra Långgatan, Varberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.254062,57.108062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Trollhättan, Ladugårdsvägen</name>
+        <description>Telia Trollhättan, Ladugårdsvägen, Trollhättan, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.306563,58.311937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Falkenberg, Torggatan</name>
+        <description>Telia Falkenberg, Torggatan, Falkenberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.490562,56.904312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Ödåkra-Väla, Väla Centrum</name>
+        <description>Telia Ödåkra-Väla, Väla Centrum, Ödåkra-Väla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.759438,56.092062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Halmstad, Hallarna</name>
+        <description>Telia Halmstad, Hallarna, Halmstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.910187,56.655563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Borås, Allégatan</name>
+        <description>Telia Borås, Allégatan, Borås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.942438,57.721062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Malmö, Emporia Shoppingcenter</name>
+        <description>Telia Malmö, Emporia Shoppingcenter, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.972437,55.564563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Malmö, Triangeln</name>
+        <description>Telia Malmö, Triangeln, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.002063,55.595687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Malmö, Mobilia Shoppingcenter</name>
+        <description>Telia Malmö, Mobilia Shoppingcenter, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.004062,55.580687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Lund, Knut den Stores Torg</name>
+        <description>Telia Lund, Knut den Stores Torg, Lund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.188688,55.705188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Karlstad, Bergvik</name>
+        <description>Telia Karlstad, Bergvik, Karlstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.426562,59.376562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Karlstad, Järnvägsgatan 7</name>
+        <description>Telia Karlstad, Järnvägsgatan 7, Karlstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.499063,59.379562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Skövde, Köpmannagatan</name>
+        <description>Telia Skövde, Köpmannagatan, Skövde, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.855562,58.405187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Jönköping, Asecs</name>
+        <description>Telia Jönköping, Asecs, Jönköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.203563,57.773812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Kristianstad, C4</name>
+        <description>Telia Kristianstad, C4, Kristianstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.205312,56.026937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Östersund, Kyrkgatan</name>
+        <description>Telia Östersund, Kyrkgatan, Östersund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.638562,63.176562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Växjö, Grand Samarkand</name>
+        <description>Telia Växjö, Grand Samarkand, Växjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.766188,56.883813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Örebro, Marieberg Galleria</name>
+        <description>Telia Örebro, Marieberg Galleria, Örebro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.137313,59.217188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Örebro, Drottninggatan</name>
+        <description>Telia Örebro, Drottninggatan, Örebro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.210938,59.271563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Borlänge, Kupolen</name>
+        <description>Telia Borlänge, Kupolen, Borlänge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.418563,60.484063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Linköping, I-Huset</name>
+        <description>Telia Linköping, I-Huset, Linköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.585438,58.433437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Falun, Gallerian</name>
+        <description>Telia Falun, Gallerian, Falun, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.629563,60.606687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Norrköping, Repslagaregatan</name>
+        <description>Telia Norrköping, Repslagaregatan, Norrköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.188688,58.588563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Kalmar, Kaggensgatan</name>
+        <description>Telia Kalmar, Kaggensgatan, Kalmar, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.361688,56.664313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Västerås, Erikslund</name>
+        <description>Telia Västerås, Erikslund, Västerås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.453063,59.609562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Eskilstuna, Tuna Park</name>
+        <description>Telia Eskilstuna, Tuna Park, Eskilstuna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.470188,59.371063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Valbo, Valbo Köpcentrum</name>
+        <description>Telia Valbo, Valbo Köpcentrum, Valbo, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.993938,60.632813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Nyköping, Galleria Axet</name>
+        <description>Telia Nyköping, Galleria Axet, Nyköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.003687,58.751937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Hudiksvall, Guldsmeden</name>
+        <description>Telia Hudiksvall, Guldsmeden, Hudiksvall, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.104813,61.728313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Gävle, Drottninggatan 12</name>
+        <description>Telia Gävle, Drottninggatan 12, Gävle, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.141813,60.674062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Sundsvall, Birsta City</name>
+        <description>Telia Sundsvall, Birsta City, Sundsvall, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.337438,62.446938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Uppsala, Bredgränd</name>
+        <description>Telia Uppsala, Bredgränd, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.641562,59.857687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Uppsala, Gränby Centrum</name>
+        <description>Telia Uppsala, Gränby Centrum, Uppsala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.672812,59.877063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Vällingby, Vällingby Torg</name>
+        <description>Telia Vällingby, Vällingby Torg, Vällingby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.872687,59.362188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Skärholmen, Skärholmen Centrum</name>
+        <description>Telia Skärholmen, Skärholmen Centrum, Skärholmen, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.906937,59.275437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Sollentuna, Sollentuna Centrum</name>
+        <description>Telia Sollentuna, Sollentuna Centrum, Sollentuna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.951062,59.428313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Solna, Mall of Scandinavia</name>
+        <description>Telia Solna, Mall of Scandinavia, Solna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.005688,59.369062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Stockholm, Västermalmsgallerian</name>
+        <description>Telia Stockholm, Västermalmsgallerian, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.032312,59.334688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Stockholm, Drottninggatan</name>
+        <description>Telia Stockholm, Drottninggatan, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.060437,59.334937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Stockholm, Åhlens City</name>
+        <description>Telia Stockholm, Åhlens City, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.061687,59.332313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Stockholm, Kungsgatan</name>
+        <description>Telia Stockholm, Kungsgatan, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.064188,59.335812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Täby, Marknadsvägen</name>
+        <description>Telia Täby, Marknadsvägen, Täby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.071937,59.444187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Stockholm, Ringen</name>
+        <description>Telia Stockholm, Ringen, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.075313,59.307812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Stockholm, Fältöversten</name>
+        <description>Telia Stockholm, Fältöversten, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.091437,59.338938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Farsta, Farsta Centrum</name>
+        <description>Telia Farsta, Farsta Centrum, Farsta, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.091563,59.242937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Haninge, Haninge Centrum</name>
+        <description>Telia Haninge, Haninge Centrum, Handen, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.140313,59.170187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Nacka, Nacka Centrum</name>
+        <description>Telia Nacka, Nacka Centrum, Nacka, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.165188,59.309062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Visby, Österväg 6</name>
+        <description>Telia Visby, Österväg 6, Visby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.299937,57.637687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Örnsköldsvik, Storgatan</name>
+        <description>Telia Örnsköldsvik, Storgatan, Örnsköldsvik, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.715688,63.290437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Umeå, Avion Shopping</name>
+        <description>Telia Umeå, Avion Shopping, Umeå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.253937,63.806687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Umeå, Kungsgatan</name>
+        <description>Telia Umeå, Kungsgatan, Umeå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.266188,63.825063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Skellefteå, Nygatan</name>
+        <description>Telia Skellefteå, Nygatan, Skellefteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.954313,64.750812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telia Luleå, Smedjan</name>
+        <description>Telia Luleå, Smedjan, Luleå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.153188,65.583938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,1204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Guldfynd</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Guldfynd</name>
+      <Placemark>
+        <name>Guldfynd Nordby</name>
+        <description>Guldfynd Nordby, Strömstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.205438,59.064812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Torp</name>
+        <description>Guldfynd Torp, Uddevalla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.812188,58.353313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Stenungsund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.816813,58.069063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Frölunda</name>
+        <description>Guldfynd Frölunda, Västra Frölunda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.911812,57.651937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Backaplan</name>
+        <description>Guldfynd Backaplan, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.951187,57.721812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Kungspassagen</name>
+        <description>Guldfynd Kungspassagen, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.967813,57.704687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Kungälv</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.968187,57.873438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Nordstan</name>
+        <description>Guldfynd Nordstan, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.969313,57.708062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Mölndal</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.012937,57.655062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Kungsbacka</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.073937,57.492687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Partille</name>
+        <description>Guldfynd Partille, Partille</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.105313,57.737938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Varberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.248563,57.105312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Charlottenberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.291062,59.881312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Oden</name>
+        <description>Guldfynd Oden, Trollhättan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.291062,58.285187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Överby</name>
+        <description>Guldfynd Överby, Trollhättan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.305813,58.312812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Alingsås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.537063,57.930312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Arvika</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.592187,59.654812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Väla C</name>
+        <description>Guldfynd Väla C, Ödåkra</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.756687,56.092062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Landskrona</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.830813,55.870687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Halmstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.856188,56.674813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Hallarna</name>
+        <description>Guldfynd Hallarna, Halmstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.856562,56.674688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Borås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.938937,57.720437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Mellbystrand</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.956563,56.502938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Emporia</name>
+        <description>Guldfynd Emporia, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.973063,55.565188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Löddeköpinge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.990188,55.768812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Södergatan</name>
+        <description>Guldfynd Södergatan, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.001188,55.603687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Triangeln</name>
+        <description>Guldfynd Triangeln, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.003063,55.595312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Mobilia</name>
+        <description>Guldfynd Mobilia, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.004563,55.580437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Jägersro</name>
+        <description>Guldfynd Jägersro, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.057562,55.570313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Burlöv</name>
+        <description>Guldfynd Burlöv, Arlöv</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.083938,55.640187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Lidköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.155188,58.504562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Trelleborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.158313,55.374562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Nova</name>
+        <description>Guldfynd Nova, Lund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.159562,55.713563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Lund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.191688,55.703312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Bergvik Köpcenter</name>
+        <description>Guldfynd Bergvik Köpcenter, Karlstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.425812,59.377938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Mitt i City</name>
+        <description>Guldfynd Mitt i City, Karlstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.500687,59.379438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Hässleholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.767437,56.158062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Ystad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.821188,55.429688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Mariestad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.823438,58.709063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Skövde</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.845063,58.389938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Ljungby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.941063,56.834563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Värnamo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.041562,57.184562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Kristianstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.156813,56.029063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Jönköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.172438,57.781813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd A6</name>
+        <description>Guldfynd A6, Jönköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.203812,57.773812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Karlskoga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.522438,59.327438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Mora</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.538563,61.004562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Växjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.806437,56.878937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Karlshamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.860563,56.172562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Motala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.035312,58.537063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Marieberg</name>
+        <description>Guldfynd Marieberg, Örebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.138063,59.217687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Ludvika</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.185562,60.150188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Krämaren</name>
+        <description>Guldfynd Krämaren, Örebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.209938,59.269063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Borlänge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.417938,60.484063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Karlskrona</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.583687,56.162063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Ikeahuset</name>
+        <description>Guldfynd Ikeahuset, Linköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.585562,58.432562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Gränden</name>
+        <description>Guldfynd Gränden, Linköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.626938,58.410062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Falun</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.632062,60.605563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Maxi</name>
+        <description>Guldfynd Maxi, Norrköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.157063,58.618313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Avesta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.168312,60.145937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Spiralen</name>
+        <description>Guldfynd Spiralen, Norrköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.190438,58.586938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Katrineholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.208813,58.994813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Giraffen</name>
+        <description>Guldfynd Giraffen, Kalmar</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.336813,56.670437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Baronen</name>
+        <description>Guldfynd Baronen, Kalmar</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.365187,56.660812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Bollnäs</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.396313,61.348813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Erikslund</name>
+        <description>Guldfynd Erikslund, Västerås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.457937,59.611187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Tunapark</name>
+        <description>Guldfynd Tunapark, Eskilstuna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.470062,59.371313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd City</name>
+        <description>Guldfynd City, Eskilstuna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.511688,59.371313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Sala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.605812,59.919313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Hälla</name>
+        <description>Guldfynd Hälla, Västerås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.613312,59.611312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Västervik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.639063,57.758063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Sandviken</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.776438,60.620687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Valbo</name>
+        <description>Guldfynd Valbo, Gävle</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.994687,60.633688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Nyköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.005562,58.752063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Strängnäs</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.026313,59.377063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Enköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.078688,59.635687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Hudiksvall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.105812,61.727563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Flanör</name>
+        <description>Guldfynd Flanör, Gävle</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.141438,60.675438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd City</name>
+        <description>Guldfynd City, Sundsvall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.305937,62.391437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Birsta</name>
+        <description>Guldfynd Birsta, Sundsvall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.337313,62.446813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Kringlan</name>
+        <description>Guldfynd Kringlan, Södertälje</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.628062,59.196062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Forum Gallerian</name>
+        <description>Guldfynd Forum Gallerian, Uppsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.640813,59.857687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Gränby</name>
+        <description>Guldfynd Gränby, Uppsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.673063,59.877437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Hallunda</name>
+        <description>Guldfynd Hallunda, Norsborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.827813,59.244187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Jakobsberg C</name>
+        <description>Guldfynd Jakobsberg C, Järfälla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.837438,59.422812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Vällingby C</name>
+        <description>Guldfynd Vällingby C, Vällingby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.873312,59.363062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Skärholmen C</name>
+        <description>Guldfynd Skärholmen C, Skärholmen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.907688,59.275312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Väsby C</name>
+        <description>Guldfynd Väsby C, Väsby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.911812,59.519063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Kista Galleria</name>
+        <description>Guldfynd Kista Galleria, Kista</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.944437,59.403063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Sollentuna C</name>
+        <description>Guldfynd Sollentuna C, Sollentuna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.951563,59.428313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Huddinge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.980688,59.236312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Solna C</name>
+        <description>Guldfynd Solna C, Solna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.999063,59.360563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Mall of Scandinavia</name>
+        <description>Guldfynd Mall of Scandinavia, Solna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.002812,59.370188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Liljeholmen</name>
+        <description>Guldfynd Liljeholmen, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.023187,59.309812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd St. Eriksgatan</name>
+        <description>Guldfynd St. Eriksgatan, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.032438,59.333813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Mörby C</name>
+        <description>Guldfynd Mörby C, Danderyd</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.037062,59.397437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Drottninggatan</name>
+        <description>Guldfynd Drottninggatan, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.062438,59.333312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Sergel</name>
+        <description>Guldfynd Sergel, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.063063,59.333562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Gallerian</name>
+        <description>Guldfynd Gallerian, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.067188,59.331187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Täby C</name>
+        <description>Guldfynd Täby C, Täby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.072313,59.444312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Ringen</name>
+        <description>Guldfynd Ringen, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.075938,59.308312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Globen</name>
+        <description>Guldfynd Globen, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.080937,59.293188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Fältöversten</name>
+        <description>Guldfynd Fältöversten, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.091188,59.339687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Farsta C</name>
+        <description>Guldfynd Farsta C, Farsta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.091437,59.243063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Sickla</name>
+        <description>Guldfynd Sickla, Nacka</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.125437,59.305813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Haninge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.139688,59.169313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Forum</name>
+        <description>Guldfynd Forum, Nacka</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.164063,59.309812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Tyresö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.229438,59.244937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Åkersberga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.298313,59.480187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Visby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.300812,57.637687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Örnsköldsvik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.715438,63.290312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Avion Shopping</name>
+        <description>Guldfynd Avion Shopping, Umeå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.253937,63.806687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd Utopia</name>
+        <description>Guldfynd Utopia, Umeå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.264063,63.825812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Skellefteå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.952188,64.750812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Piteå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.481813,65.315938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guldfynd</name>
+        <description>Guldfynd, Luleå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.156438,65.584437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Forex Norge</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Forex Norge</name>
+      <Placemark>
+        <name>Forex Bergen</name>
+        <description>Forex Bergen, Bergen, Norge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            5.32441,60.39418,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Forex Stavanger</name>
+        <description>Forex Stavanger, Stavanger, Norge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            5.73224,58.96682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Forex Drammen</name>
+        <description>Forex Drammen, Drammen, Norge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.20624,59.74328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Forex Trondheim</name>
+        <description>Forex Trondheim, Trondheim, Norge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.39569,63.43093,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Forex Oslo</name>
+        <description>Forex Oslo, Oslo, Norge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.74902,59.91108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Forex Oslo</name>
+        <description>Forex Oslo, Oslo, Norge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.75206,59.91072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Forex Oslo</name>
+        <description>Forex Oslo, Oslo, Norge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.75996,59.91242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Forex Oslo</name>
+        <description>Forex Oslo, Oslo, Norge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.75997,59.91242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Forex Oslo</name>
+        <description>Forex Oslo, Oslo, Norge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.92505,59.96088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Forex Lillestrøm</name>
+        <description>Forex Lillestrøm, Lillestrøm, Norge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.04434,59.95354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

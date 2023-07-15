@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://github.com/cisene/se-poi -->
+<gpx creator="se-poi" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+  <metadata>
+    <name><![CDATA[Tele2]]></name>
+    <desc><![CDATA[Koordinater - Tele2]]></desc>
+    <link href="https://www.tele2.se/">
+      <text><![CDATA[Tele2]]></text>
+       <type>text/html</type>
+    </link>
+   <time>2023-07-15T16:21:25+02:00</time>
+  </metadata>
+  <bounds minlat="55.583391" minlon="11.912468" maxlat="59.877019" maxlon="18.323183" />
+  <wpt lat="57.652411" lon="11.912468"><name><![CDATA[Tele2 Frölunda Torg, Västra Frölunda]]></name></wpt>
+  <wpt lat="57.72316" lon="11.95372"><name><![CDATA[Tele2 Göteborg, Backaplan, Göteborg]]></name></wpt>
+  <wpt lat="57.707432" lon="11.969684"><name><![CDATA[Tele2 Göteborg, Nordstan, Göteborg]]></name></wpt>
+  <wpt lat="58.31437" lon="12.309967"><name><![CDATA[Tele2 Trollhättan, Etage, Trollhättan]]></name></wpt>
+  <wpt lat="56.092055" lon="12.756816"><name><![CDATA[Tele2 Helsingborg, Väla Centrum, Ödåkra-Väla]]></name></wpt>
+  <wpt lat="55.595101" lon="13.001783"><name><![CDATA[Tele2 Malmö, Triangeln, Malmö]]></name></wpt>
+  <wpt lat="55.583391" lon="13.004093"><name><![CDATA[Tele2 Malmö, Mobilia, Malmö]]></name></wpt>
+  <wpt lat="58.405388" lon="13.856793"><name><![CDATA[Tele2 Skövde, Elins Esplanad, Skövde]]></name></wpt>
+  <wpt lat="57.775356" lon="14.204443"><name><![CDATA[Tele2 Jönköping, Asecs (A6), Jönköping]]></name></wpt>
+  <wpt lat="56.884678" lon="14.766962"><name><![CDATA[Tele2 Växjö, Grand Samarkand, Växjö]]></name></wpt>
+  <wpt lat="59.27061" lon="15.210804"><name><![CDATA[Tele2 Örebro City, Örebro]]></name></wpt>
+  <wpt lat="58.58843" lon="16.18895"><name><![CDATA[Tele2 Norrköping, Galleria Domino, Norrköping]]></name></wpt>
+  <wpt lat="59.609976" lon="16.454807"><name><![CDATA[Tele2 Västerås, Erikslund Shopping Center, Västerås]]></name></wpt>
+  <wpt lat="59.371344" lon="16.470114"><name><![CDATA[Tele2 Eskilstuna, Tuna Park, Eskilstuna]]></name></wpt>
+  <wpt lat="59.611431" lon="16.544845"><name><![CDATA[Tele2 Västerås, Igor Köpcentrum, Västerås]]></name></wpt>
+  <wpt lat="59.877019" lon="17.672659"><name><![CDATA[Tele2 Uppsala, Gränbystaden, Uppsala]]></name></wpt>
+  <wpt lat="59.362426" lon="17.873799"><name><![CDATA[Tele2 Vällingby Centrum, Vällingby]]></name></wpt>
+  <wpt lat="59.27517" lon="17.907736"><name><![CDATA[Tele2 Skärholmen Centrum, Skärholmen]]></name></wpt>
+  <wpt lat="59.402272" lon="17.944615"><name><![CDATA[Tele2 Kista Galleria, Kista]]></name></wpt>
+  <wpt lat="59.355605" lon="17.955186"><name><![CDATA[Tele2 Bromma Blocks, Bromma]]></name></wpt>
+  <wpt lat="59.369329" lon="18.005496"><name><![CDATA[Tele2 Solna, Westfield Mall of Scandinavia, Solna]]></name></wpt>
+  <wpt lat="59.335691" lon="18.065107"><name><![CDATA[Tele2 Stockholm, Kungsgatan 35, Stockholm]]></name></wpt>
+  <wpt lat="59.332464" lon="18.06719"><name><![CDATA[Tele2 Stockholm, Gallerian, Stockholm]]></name></wpt>
+  <wpt lat="59.4419" lon="18.07033"><name><![CDATA[Tele2 Täby Centrum, Täby]]></name></wpt>
+  <wpt lat="59.311032" lon="18.074562"><name><![CDATA[Tele2 Stockholm, Götgatan 86, Stockholm]]></name></wpt>
+  <wpt lat="59.206376" lon="18.147807"><name><![CDATA[Tele2 Farsta Centrum, Farsta]]></name></wpt>
+  <wpt lat="59.179241" lon="18.149224"><name><![CDATA[Tele2 Haninge, Port 73, Haninge]]></name></wpt>
+  <wpt lat="59.309419" lon="18.16439"><name><![CDATA[Tele2 Nacka Forum, Nacka]]></name></wpt>
+  <wpt lat="57.624322" lon="18.323183"><name><![CDATA[Tele2 Visby, Ica Maxi, Visby]]></name></wpt>
+</gpx>

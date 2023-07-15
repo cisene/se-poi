@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://github.com/cisene/se-poi -->
+<gpx creator="se-poi" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+  <metadata>
+    <name><![CDATA[Green Petroleum]]></name>
+    <desc><![CDATA[Koordinater - Green Petroleum]]></desc>
+    <link href="http://www.greenpetroleum.se/">
+      <text><![CDATA[Green Petroleum]]></text>
+       <type>text/html</type>
+    </link>
+   <time>2023-07-15T16:21:17+02:00</time>
+  </metadata>
+  <bounds minlat="57.767216" minlon="12.424249" maxlat="59.733333" maxlon="14.68351" />
+  <wpt lat="58.807056" lon="12.424249"><name><![CDATA[Green Petroleum Åsensbruk, Åsensbruk]]></name></wpt>
+  <wpt lat="58.993982" lon="12.465522"><name><![CDATA[Green Petroleum Fengersfors, Fengersfors]]></name></wpt>
+  <wpt lat="58.25169" lon="13.08263"><name><![CDATA[Green Petroleum Tråvad, Tråvad]]></name></wpt>
+  <wpt lat="59.733333" lon="13.2"><name><![CDATA[Green Petroleum Prästbol, Prästbol]]></name></wpt>
+  <wpt lat="57.996203" lon="13.297867"><name><![CDATA[Green Petroleum Broddarp, Broddarp]]></name></wpt>
+  <wpt lat="58.486109" lon="13.432237"><name><![CDATA[Green Petroleum Lundsbrunn, Lundsbrunn]]></name></wpt>
+  <wpt lat="58.632246" lon="13.43784"><name><![CDATA[Green Petroleum Hällekis, Hällekis]]></name></wpt>
+  <wpt lat="58.528205" lon="13.492784"><name><![CDATA[Green Petroleum Götene, Götene]]></name></wpt>
+  <wpt lat="58.086722" lon="13.521777"><name><![CDATA[Green Petroleum Slutarp, Slutarp]]></name></wpt>
+  <wpt lat="58.16714" lon="13.535756"><name><![CDATA[Green Petroleum Falköping, Falköping]]></name></wpt>
+  <wpt lat="58.226737" lon="13.563733"><name><![CDATA[Green Petroleum Gudhem, Gudhem]]></name></wpt>
+  <wpt lat="58.305664" lon="13.605933"><name><![CDATA[Green Petroleum Broddetorp, Broddetorp]]></name></wpt>
+  <wpt lat="58.270881" lon="13.723674"><name><![CDATA[Green Petroleum Stenstorp, Stenstorp]]></name></wpt>
+  <wpt lat="57.989946" lon="13.765694"><name><![CDATA[Green Petroleum Sandhem, Sandhem]]></name></wpt>
+  <wpt lat="57.767216" lon="13.826712"><name><![CDATA[Green Petroleum Bottnaryd, Bottnaryd]]></name></wpt>
+  <wpt lat="58.347723" lon="13.832974"><name><![CDATA[Green Petroleum Skövde, Skövde]]></name></wpt>
+  <wpt lat="58.836571" lon="13.980467"><name><![CDATA[Green Petroleum Sjötorp, Sjötorp]]></name></wpt>
+  <wpt lat="58.607348" lon="14.036887"><name><![CDATA[Green Petroleum Moholm, Moholm]]></name></wpt>
+  <wpt lat="58.948826" lon="14.040429"><name><![CDATA[Green Petroleum Otterbäcken, Otterbäcken]]></name></wpt>
+  <wpt lat="58.806171" lon="14.059366"><name><![CDATA[Green Petroleum Lyrestad, Lyrestad]]></name></wpt>
+  <wpt lat="59.160347" lon="14.189822"><name><![CDATA[Green Petroleum Kristinehamn, Kristinehamn]]></name></wpt>
+  <wpt lat="59.150013" lon="14.68351"><name><![CDATA[Green Petroleum Mullhyttan, Mullhyttan]]></name></wpt>
+</gpx>

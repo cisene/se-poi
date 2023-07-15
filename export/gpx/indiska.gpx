@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://github.com/cisene/se-poi -->
+<gpx creator="se-poi" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+  <metadata>
+    <name><![CDATA[Indiska Magasinet]]></name>
+    <desc><![CDATA[Koordinater - Indiska Magasinet]]></desc>
+    <link href="https://www.indiska.com/">
+      <text><![CDATA[Indiska Magasinet]]></text>
+       <type>text/html</type>
+    </link>
+   <time>2023-07-15T16:21:18+02:00</time>
+  </metadata>
+  <bounds minlat="15.623224" minlon="11.208232" maxlat="65.584349" maxlon="59.336767" />
+  <wpt lat="59.064158" lon="11.208232"><name><![CDATA[Nordby, Strömstad]]></name></wpt>
+  <wpt lat="58.354714" lon="11.812218"><name><![CDATA[Torp, Uddevalla]]></name></wpt>
+  <wpt lat="57.704259" lon="11.96625"><name><![CDATA[Kungsgatan Göteborg, Göteborg]]></name></wpt>
+  <wpt lat="57.7085" lon="11.969754"><name><![CDATA[Femmanhuset, Göteborg]]></name></wpt>
+  <wpt lat="57.65403" lon="12.014714"><name><![CDATA[Mölndal Galleria, Mölndal]]></name></wpt>
+  <wpt lat="58.312606" lon="12.30813"><name><![CDATA[Överby Etage, Trollhättan]]></name></wpt>
+  <wpt lat="56.675273" lon="12.857322"><name><![CDATA[Halmstad, Halmstad]]></name></wpt>
+  <wpt lat="57.72009" lon="12.939553"><name><![CDATA[Borås, Borås]]></name></wpt>
+  <wpt lat="55.604082" lon="13.001387"><name><![CDATA[Malmö, Malmö]]></name></wpt>
+  <wpt lat="55.701695" lon="13.19231"><name><![CDATA[Lund, Lund]]></name></wpt>
+  <wpt lat="59.379376" lon="13.500737"><name><![CDATA[Mitt i City, Karlstad]]></name></wpt>
+  <wpt lat="56.029113" lon="14.157033"><name><![CDATA[Kristianstad, Kristianstad]]></name></wpt>
+  <wpt lat="57.782333" lon="14.171754"><name><![CDATA[Jönköping, Jönköping]]></name></wpt>
+  <wpt lat="63.178368" lon="14.636646"><name><![CDATA[Östersund, Östersund]]></name></wpt>
+  <wpt lat="56.878657" lon="14.805412"><name><![CDATA[Växjö, Växjö]]></name></wpt>
+  <wpt lat="59.270398" lon="15.209755"><name><![CDATA[Örebro, Örebro]]></name></wpt>
+  <wpt lat="60.48443" lon="15.418356"><name><![CDATA[Kupolen, Borlänge]]></name></wpt>
+  <wpt lat="56.161487" lon="15.583538"><name><![CDATA[Karlskrona, Karlskrona]]></name></wpt>
+  <wpt lat="60.60616" lon="15.632152"><name><![CDATA[Falun, Falun]]></name></wpt>
+  <wpt lat="56.6705" lon="16.337711"><name><![CDATA[Giraffen, Kalmar]]></name></wpt>
+  <wpt lat="59.609688" lon="16.455784"><name><![CDATA[Erikslund, Västerås]]></name></wpt>
+  <wpt lat="59.610788" lon="16.545381"><name><![CDATA[Västerås, Västerås]]></name></wpt>
+  <wpt lat="60.675112" lon="17.142165"><name><![CDATA[Gävle, Gävle]]></name></wpt>
+  <wpt lat="62.446999" lon="17.335938"><name><![CDATA[Birsta City, Sundsvall]]></name></wpt>
+  <wpt lat="59.8595" lon="17.636918"><name><![CDATA[Uppsala City, Uppsala]]></name></wpt>
+  <wpt lat="59.876764" lon="17.671213"><name><![CDATA[Gränby, Uppsala]]></name></wpt>
+  <wpt lat="59.309421" lon="18.022606"><name><![CDATA[Liljeholmstorget, Stockholm]]></name></wpt>
+  <wpt lat="59.342169" lon="18.048677"><name><![CDATA[Odenplan, Stockholm]]></name></wpt>
+  <wpt lat="59.335113" lon="18.060976"><name><![CDATA[Indiska Kungsgatan Stockholm, Stockholm]]></name></wpt>
+  <wpt lat="59.444121" lon="18.069789"><name><![CDATA[Täby Centrum, Täby]]></name></wpt>
+  <wpt lat="59.316429" lon="18.072104"><name><![CDATA[Götgatan, Stockholm]]></name></wpt>
+  <wpt lat="59.308984" lon="18.075535"><name><![CDATA[Ringen, Stockholm]]></name></wpt>
+  <wpt lat="59.310769" lon="18.163958"><name><![CDATA[Nacka Forum, Nacka]]></name></wpt>
+  <wpt lat="63.809779" lon="20.253921"><name><![CDATA[Avion, Umeå]]></name></wpt>
+  <wpt lat="63.826545" lon="20.259947"><name><![CDATA[Umeå, Umeå]]></name></wpt>
+  <wpt lat="64.75077" lon="20.954994"><name><![CDATA[Skellefteå, Skellefteå]]></name></wpt>
+  <wpt lat="65.316635" lon="21.478167"><name><![CDATA[Småstaden, Piteå]]></name></wpt>
+  <wpt lat="65.584349" lon="22.150381"><name><![CDATA[Luleå, Luleå]]></name></wpt>
+  <wpt lat="15.623224" lon="58.410332"><name><![CDATA[Linköping, Linköping]]></name></wpt>
+  <wpt lat="18.073313" lon="59.336767"><name><![CDATA[Sturegallerian, Stockholm]]></name></wpt>
+</gpx>

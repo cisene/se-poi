@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Normal</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Normal</name>
+      <Placemark>
+        <name>Normal - Torp Köpcentrum</name>
+        <description>Normal - Torp Köpcentrum, Uddevalla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.810418,58.3539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Töcksfors Shopping Center</name>
+        <description>Normal - Töcksfors Shopping Center, Töcksfors</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.845,59.5065,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Frölunda Torg</name>
+        <description>Normal - Frölunda Torg, Västra Frölunda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.9096,57.652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Kongahälla Shopping</name>
+        <description>Normal - Kongahälla Shopping, Kungälv</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.968544,57.873764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Nordstan</name>
+        <description>Normal - Nordstan, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.969153,57.708726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Mölndal Galleria</name>
+        <description>Normal - Mölndal Galleria, Mölndal</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.014702,57.655206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Kungsmässan</name>
+        <description>Normal - Kungsmässan, Kungsbacka</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.073941,57.491398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Allum</name>
+        <description>Normal - Allum, Partille</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.106112,57.739274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Charlottenberg Shoppingcenter</name>
+        <description>Normal - Charlottenberg Shoppingcenter, Charlottenberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.29063,59.881115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Etage Galleria</name>
+        <description>Normal - Etage Galleria, Trollhättan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.308698,58.312379,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Storken</name>
+        <description>Normal - Storken, Alingsås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.535695,57.929998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Stenbocken</name>
+        <description>Normal - Stenbocken, Helsingborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.69386,56.048015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Söder Galleria</name>
+        <description>Normal - Söder Galleria, Helsingborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.701388,56.04047,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Väla</name>
+        <description>Normal - Väla, Ödåkra-Väla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.757149,56.091244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Storgatan</name>
+        <description>Normal - Storgatan, Halmstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.859165,56.674744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Hallarna Köpcentrum</name>
+        <description>Normal - Hallarna Köpcentrum, Halmstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.908367,56.656271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Pallas Shopping</name>
+        <description>Normal - Pallas Shopping, Borås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.937962,57.720018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Emporia</name>
+        <description>Normal - Emporia, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.973394,55.564452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Södergatan</name>
+        <description>Normal - Södergatan, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.001362,55.604405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Triangeln</name>
+        <description>Normal - Triangeln, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.002807,55.595237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Mobilia</name>
+        <description>Normal - Mobilia, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.003988,55.580456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Jägersro Center</name>
+        <description>Normal - Jägersro Center, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.058652,55.570116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Burlöv Center</name>
+        <description>Normal - Burlöv Center, Arlöv</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.084284,55.639942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Valengallerian</name>
+        <description>Normal - Valengallerian, Trelleborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.157999,55.374282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Nova Lund</name>
+        <description>Normal - Nova Lund, Lund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.15998,55.713946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Bergvik Köpcenter</name>
+        <description>Normal - Bergvik Köpcenter, Karlstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.426,59.377,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Drottninggatan</name>
+        <description>Normal - Drottninggatan, Karlstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.502914,59.379105,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Stora Östergatan</name>
+        <description>Normal - Stora Östergatan, Ystad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.822546,55.430386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Storgatan</name>
+        <description>Normal - Storgatan, Skövde</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.844652,58.389567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Galleria Boulevard</name>
+        <description>Normal - Galleria Boulevard, Kristianstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.159667,56.029348,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Östra Storgatan</name>
+        <description>Normal - Östra Storgatan, Jönköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.173,57.782,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - C4 shopping</name>
+        <description>Normal - C4 shopping, Kristianstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.205517,56.02839,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Prästgatan</name>
+        <description>Normal - Prästgatan, Östersund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.636985,63.178461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Grand Samarkand</name>
+        <description>Normal - Grand Samarkand, Växjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.76642,56.884553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Storgatan</name>
+        <description>Normal - Storgatan, Växjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.806605,56.878684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Marieberg Galleria</name>
+        <description>Normal - Marieberg Galleria, Örebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.137682,59.217282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Krämaren</name>
+        <description>Normal - Krämaren, Örebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.2098,59.26948,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Kupolen</name>
+        <description>Normal - Kupolen, Borlänge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.418436,60.484466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Tanneforsgatan</name>
+        <description>Normal - Tanneforsgatan, Linköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.623467,58.410309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Falan Galleria</name>
+        <description>Normal - Falan Galleria, Falun</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.62964,60.606862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Mirum Galleria</name>
+        <description>Normal - Mirum Galleria, Norrköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.20959,58.573399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Kvarteret Giraffen</name>
+        <description>Normal - Kvarteret Giraffen, Kalmar</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.337721,56.670515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Baronen</name>
+        <description>Normal - Baronen, Kalmar</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.365096,56.661095,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Erikslund Shopping Center</name>
+        <description>Normal - Erikslund Shopping Center, Västerås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.45479,59.608845,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Cityhuset</name>
+        <description>Normal - Cityhuset, Eskilstuna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.510014,59.371826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Vasagatan</name>
+        <description>Normal - Vasagatan, Västerås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.545345,59.610506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Valbo Köpcentrum</name>
+        <description>Normal - Valbo Köpcentrum, Valbo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.008251,60.643031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Birsta City</name>
+        <description>Normal - Birsta City, Sundsvall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.33233,62.44706,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Södertälje Telgehuset</name>
+        <description>Normal - Södertälje Telgehuset, Södertälje</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.627283,59.195583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - S:t Per Gallerian</name>
+        <description>Normal - S:t Per Gallerian, Uppsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.637516,59.860139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Gränbystaden</name>
+        <description>Normal - Gränbystaden, Uppsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.674116,59.877256,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Jakobsberg Centrum</name>
+        <description>Normal - Jakobsberg Centrum, Järfälla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.836933,59.423662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Vällingby Centrum</name>
+        <description>Normal - Vällingby Centrum, Vällingby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.871634,59.365964,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Skärholmen Centrum</name>
+        <description>Normal - Skärholmen Centrum, Skärholmen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.90819,59.274339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Väsby Centrum</name>
+        <description>Normal - Väsby Centrum, Upplands Väsby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.913884,59.518524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Kungens Kurva</name>
+        <description>Normal - Kungens Kurva, Kungens Kurva</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.917192,59.269672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Kista Galleria</name>
+        <description>Normal - Kista Galleria, Kista</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.945734,59.40231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Sollentuna Centrum</name>
+        <description>Normal - Sollentuna Centrum, Sollentuna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.951204,59.428219,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Solna Centrum</name>
+        <description>Normal - Solna Centrum, Solna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.000211,59.36002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Liljeholmstorget Galleria</name>
+        <description>Normal - Liljeholmstorget Galleria, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.022328,59.309318,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Sveavägen</name>
+        <description>Normal - Sveavägen, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.059723,59.340057,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Klarabergsgatan</name>
+        <description>Normal - Klarabergsgatan, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.060097,59.3318,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Drottninggatan</name>
+        <description>Normal - Drottninggatan, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.063069,59.331866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Gallerian</name>
+        <description>Normal - Gallerian, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.067457,59.331324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Götgatan</name>
+        <description>Normal - Götgatan, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.071253,59.318233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Täby Centrum</name>
+        <description>Normal - Täby Centrum, Täby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.071898,59.445307,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Fältöversten</name>
+        <description>Normal - Fältöversten, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.091386,59.339648,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Farsta Centrum</name>
+        <description>Normal - Farsta Centrum, Farsta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.092491,59.243937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Sickla Galleria</name>
+        <description>Normal - Sickla Galleria, Nacka</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.123253,59.305256,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Haninge Centrum</name>
+        <description>Normal - Haninge Centrum, Handen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.140055,59.169186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Nacka Forum</name>
+        <description>Normal - Nacka Forum, Nacka</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.165112,59.310144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Tyresö Centrum</name>
+        <description>Normal - Tyresö Centrum, Tyresö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.30146,59.2367,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Avion Shopping</name>
+        <description>Normal - Avion Shopping, Umeå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.253885,63.806797,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Citykompaniet</name>
+        <description>Normal - Citykompaniet, Skellefteå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.954727,64.749749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Normal - Smedjan Galleria</name>
+        <description>Normal - Smedjan Galleria, Luleå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.15287,65.58398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

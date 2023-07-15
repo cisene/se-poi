@@ -1,0 +1,1194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Hemtex</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Hemtex</name>
+      <Placemark>
+        <name>Hemtex Göteborg, Amhult</name>
+        <description>Hemtex Göteborg, Amhult, Torslanda, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.7794,57.7118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Stenungsund</name>
+        <description>Hemtex Stenungsund, Stenungsund, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.8175,58.0667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Uddevalla Torp</name>
+        <description>Hemtex Uddevalla Torp, Uddevalla, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.8496,58.3486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Frölunda torg</name>
+        <description>Hemtex Frölunda torg, Västra Frölunda, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.9163,57.6541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Göteborg, Eriksberg</name>
+        <description>Hemtex Göteborg, Eriksberg, Göteborg, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.92,57.7085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Södra Högsbo, 421</name>
+        <description>Hemtex Södra Högsbo, 421, Västra Frölunda, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.9551,57.6462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Göteborg, Kungsgatan</name>
+        <description>Hemtex Göteborg, Kungsgatan, Göteborg, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.965721,57.704284,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Kungälv Kongahälla</name>
+        <description>Hemtex Kungälv Kongahälla, Kungälv, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.9685,57.8732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Göteborg Bäckebol</name>
+        <description>Hemtex Göteborg Bäckebol, Hisingsbacka, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.9942,57.7473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Kungsbacka Kungsmässan</name>
+        <description>Hemtex Kungsbacka Kungsmässan, Kungsbacka, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.0705,57.4935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Partille, Allum</name>
+        <description>Hemtex Partille, Allum, Partille, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.1137,57.7375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Varberg</name>
+        <description>Hemtex Varberg, Varberg, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.2522,57.1073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Trollhättan, Överby</name>
+        <description>Hemtex Trollhättan, Överby, Trollhättan, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.3005,58.3209,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Falkenberg</name>
+        <description>Hemtex Falkenberg, Falkenberg, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.4922,56.903,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Alingsås, Vimpeln</name>
+        <description>Hemtex Alingsås, Vimpeln, Alingsås, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.5447,57.9242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Arvika</name>
+        <description>Hemtex Arvika, Arvika, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.5931,59.6555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Helsingborg Väla</name>
+        <description>Hemtex Helsingborg Väla, Ödåkra, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.7535,56.0913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Halmstad</name>
+        <description>Hemtex Halmstad, Halmstad, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.8582,56.6756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Ängelholm</name>
+        <description>Hemtex Ängelholm, Ängelholm, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.8615,56.2436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Halmstad Hallarna</name>
+        <description>Hemtex Halmstad Hallarna, Halmstad, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.90789,56.65352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Borås Knallerian</name>
+        <description>Hemtex Borås Knallerian, Borås, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.9374,57.7325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Borås City</name>
+        <description>Hemtex Borås City, Borås, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.9379,57.7208,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Höllviken, Toppengallerian</name>
+        <description>Hemtex Höllviken, Toppengallerian, Höllviken, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.9681,55.424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Malmö Emporia</name>
+        <description>Hemtex Malmö Emporia, Malmö, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.9695,55.5657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Gustav Adolfs Torg</name>
+        <description>Hemtex Gustav Adolfs Torg, Malmö, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.970422,55.58028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Löddeköpinge, Center Syd</name>
+        <description>Hemtex Löddeköpinge, Center Syd, Löddeköpinge, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.9943,55.7702,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Malmö Triangeln</name>
+        <description>Hemtex Malmö Triangeln, Malmö, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.0019,55.5973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Malmö Mobilia</name>
+        <description>Hemtex Malmö Mobilia, Malmö, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.0047,55.5746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Lidköping</name>
+        <description>Hemtex Lidköping, Lidköping, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.1553,58.5037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Lund, Nova</name>
+        <description>Hemtex Lund, Nova, Lund, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.1553,55.7144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Lund</name>
+        <description>Hemtex Lund, Lund, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.1982,55.7026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Karlstad Bergvik</name>
+        <description>Hemtex Karlstad Bergvik, Karlstad, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.4131,59.3826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Karlstad, Duvan</name>
+        <description>Hemtex Karlstad, Duvan, Karlstad, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.4973,59.3797,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Falköping</name>
+        <description>Hemtex Falköping, Falköping, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.5548,58.1611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Ystad</name>
+        <description>Hemtex Ystad, Ystad, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.8212,55.4309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Skövde Commerce</name>
+        <description>Hemtex Skövde Commerce, Skövde, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.8464,58.3908,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Skövde, Elins Esplanad</name>
+        <description>Hemtex Skövde, Elins Esplanad, Skövde, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.8586,58.4005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Värnamo, Flanaden</name>
+        <description>Hemtex Värnamo, Flanaden, Värnamo, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.0407,57.1862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Jönköping</name>
+        <description>Hemtex Jönköping, Jönköping, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.1832,57.7848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Kristianstad C4</name>
+        <description>Hemtex Kristianstad C4, Kristianstad, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.197162,56.023064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Jönköping Asecs</name>
+        <description>Hemtex Jönköping Asecs, Jönköping, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.2009,57.7694,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Östersund</name>
+        <description>Hemtex Östersund, Östersund, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.635218,63.178418,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Växjö Samarkand</name>
+        <description>Hemtex Växjö Samarkand, Växjö, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.7764,56.8902,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Karlshamn</name>
+        <description>Hemtex Karlshamn, Karlshamn, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.8636,56.1714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Tranås</name>
+        <description>Hemtex Tranås, Tranås, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.9833,58.032,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Örebro Marieberg</name>
+        <description>Hemtex Örebro Marieberg, Örebro, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.1512,59.2197,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Örebro, Krämaren</name>
+        <description>Hemtex Örebro, Krämaren, Örebro, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.2067,59.2673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Borlänge, Kupolen</name>
+        <description>Hemtex Borlänge, Kupolen, Borlänge, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.4102,60.479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Linköping I-Huset</name>
+        <description>Hemtex Linköping I-Huset, Linköping, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.5853,58.4323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Linköping, Gränden</name>
+        <description>Hemtex Linköping, Gränden, Linköping, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.6227,58.4103,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Falun</name>
+        <description>Hemtex Falun, Falun, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.6315,60.6073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Karlskrona Amiralen Shopping</name>
+        <description>Hemtex Karlskrona Amiralen Shopping, Karlskrona, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.639513,56.196945,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Vimmerby</name>
+        <description>Hemtex Vimmerby, Vimmerby, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.8527,57.6659,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Norrköping, Ingelsta</name>
+        <description>Hemtex Norrköping, Ingelsta, Norrköping, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.1723,58.6079,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Norrköping Domino</name>
+        <description>Hemtex Norrköping Domino, Norrköping, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.1878,58.5874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Katrineholm</name>
+        <description>Hemtex Katrineholm, Katrineholm, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.203,58.9946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Kalmar Hansa City</name>
+        <description>Hemtex Kalmar Hansa City, Kalmar, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.3227,56.695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Kalmar Giraffen</name>
+        <description>Hemtex Kalmar Giraffen, Kalmar, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.3359,56.6717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Hemtex Folkesta Handel</name>
+        <description>Hemtex Hemtex Folkesta Handel, Eskilstuna, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.424221,59.402025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Oskarshamn</name>
+        <description>Hemtex Oskarshamn, Oskarshamn, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.446414,57.265817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Eskilstuna Tuna Park</name>
+        <description>Hemtex Eskilstuna Tuna Park, Eskilstuna, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.4494,59.3714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Västerås Erikslund</name>
+        <description>Hemtex Västerås Erikslund, Västerås, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.4627,59.614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Västerås City</name>
+        <description>Hemtex Västerås City, Västerås, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.543319,59.609984,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Västervik</name>
+        <description>Hemtex Västervik, Västervik, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.6358,57.759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Sandviken</name>
+        <description>Hemtex Sandviken, Sandviken, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.7793,60.6189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Valbo</name>
+        <description>Hemtex Valbo, Valbo, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.9934,60.6337,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Nyköping</name>
+        <description>Hemtex Nyköping, Nyköping, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.0081,58.748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Strängnäs</name>
+        <description>Hemtex Strängnäs, Strängnäs, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.0297,59.3736,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Gävle</name>
+        <description>Hemtex Gävle, Gävle, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.1396,60.6746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Sundsvall Birsta</name>
+        <description>Hemtex Sundsvall Birsta, Sundsvall, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.2819,62.4287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Sundsvall City</name>
+        <description>Hemtex Sundsvall City, Sundsvall, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.301,62.3952,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Södertälje, Kringlan</name>
+        <description>Hemtex Södertälje, Kringlan, Södertälje, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.626,59.1964,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Uppsala City</name>
+        <description>Hemtex Uppsala City, Uppsala, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.6398,59.8589,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Uppsala Gränbystaden</name>
+        <description>Hemtex Uppsala Gränbystaden, Uppsala, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.6631,59.8716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Uppsala Boländerna</name>
+        <description>Hemtex Uppsala Boländerna, Uppsala, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.6686,59.8516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Tumba Centrum</name>
+        <description>Hemtex Tumba Centrum, Tumba, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.8316,59.1984,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Jakobsberg Centrum</name>
+        <description>Hemtex Jakobsberg Centrum, Järfälla, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.8374,59.423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Barkarby</name>
+        <description>Hemtex Barkarby, Järfälla, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.8603,59.4217,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Vällingby</name>
+        <description>Hemtex Vällingby, Vällingby, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.8741,59.3633,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Upplands Väsby</name>
+        <description>Hemtex Upplands Väsby, Upplands Väsby, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.8907,59.5175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Kungens Kurva</name>
+        <description>Hemtex Kungens Kurva, Kungens Kurva, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.9167,59.2667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Nynäshamn</name>
+        <description>Hemtex Nynäshamn, Nynäshamn, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.942,58.9066,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Sollentuna Centrum</name>
+        <description>Hemtex Sollentuna Centrum, Sollentuna, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.9517,59.42907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Bromma</name>
+        <description>Hemtex Bromma, Bromma, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.961,59.3513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Huddinge</name>
+        <description>Hemtex Huddinge, Huddinge, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.9827,59.2354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Mall of Scandinavia</name>
+        <description>Hemtex Mall of Scandinavia, Solna, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.9982,59.3732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Solna Centrum</name>
+        <description>Hemtex Solna Centrum, Solna, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.0005,59.3599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Liljeholmen</name>
+        <description>Hemtex Liljeholmen, Stockholm, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.0195,59.3092,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Sthlm Västermalmsgallerian</name>
+        <description>Hemtex Sthlm Västermalmsgallerian, Stockholm, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.0335,59.3357,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Danderyd, Mörby Centrum</name>
+        <description>Hemtex Danderyd, Mörby Centrum, Danderyd, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.0366,59.3975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Drottninggatan</name>
+        <description>Hemtex Drottninggatan, Stockholm, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.0607,59.33447,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Regeringsgatan</name>
+        <description>Hemtex Regeringsgatan, Stockholm, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.0665,59.3352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Täby</name>
+        <description>Hemtex Täby, Täby, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.0677,59.4426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Stockholm, Götgatan</name>
+        <description>Hemtex Stockholm, Götgatan, Stockholm, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.0741,59.3129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Globen</name>
+        <description>Hemtex Globen, Johanneshov, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.0826,59.2934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Stockholm, Fältöversten</name>
+        <description>Hemtex Stockholm, Fältöversten, Stockholm, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.0917,59.3369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Farsta Centrum</name>
+        <description>Hemtex Farsta Centrum, Farsta, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.0918,59.2425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Sickla</name>
+        <description>Hemtex Sickla, Nacka, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.125,59.3036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Länna, Skogås</name>
+        <description>Hemtex Länna, Skogås, Länna, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.126,59.1981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Lidingö Centrum</name>
+        <description>Hemtex Lidingö Centrum, Lidingö, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.1367,59.3631,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Port 73, Haninge</name>
+        <description>Hemtex Port 73, Haninge, Haninge, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.147794,59.179427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Nacka Forum</name>
+        <description>Hemtex Nacka Forum, Nacka, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.1656,59.3107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Tyresö</name>
+        <description>Hemtex Tyresö, Tyresö, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.2265,59.2448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Åkersberga</name>
+        <description>Hemtex Åkersberga, Åkersberga, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.3001,59.475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Visby</name>
+        <description>Hemtex Visby, Visby, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.324893,57.623097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Värmdö</name>
+        <description>Hemtex Värmdö, Gustavsberg, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.4023,59.3071,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Örnsköldsvik</name>
+        <description>Hemtex Örnsköldsvik, Örnsköldsvik, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.7187,63.2893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Umeå City</name>
+        <description>Hemtex Umeå City, Umeå, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.2611,63.8257,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Umeå Avion Shopping</name>
+        <description>Hemtex Umeå Avion Shopping, Umeå, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.2841,63.7847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Kiruna</name>
+        <description>Hemtex Kiruna, Kiruna, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.305429,67.849272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Skellefteå</name>
+        <description>Hemtex Skellefteå, Skellefteå, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.951,64.7499,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Piteå</name>
+        <description>Hemtex Piteå, Piteå, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.47796,65.316801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Boden</name>
+        <description>Hemtex Boden, Boden, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.6851,65.8238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Luleå Storheden</name>
+        <description>Hemtex Luleå Storheden, Luleå, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.0446,65.6154,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemtex Luleå</name>
+        <description>Hemtex Luleå, Luleå, Sweden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.1565,65.5856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

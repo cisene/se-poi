@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>7-Eleven</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>7-Eleven</name>
+      <Placemark>
+        <name>7-Eleven Frölunda Torg</name>
+        <description>7-Eleven Frölunda Torg, Västra Frölunda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.910971,57.652347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Slottsskogsgatan</name>
+        <description>7-Eleven Slottsskogsgatan, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.921968,57.687371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Gbg Linnégatan 26</name>
+        <description>7-Eleven Gbg Linnégatan 26, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.951291,57.697014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Gbg Linnégatan 1</name>
+        <description>7-Eleven Gbg Linnégatan 1, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.952093,57.699425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Gbg Kungsgatan 20</name>
+        <description>7-Eleven Gbg Kungsgatan 20, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.96076,57.703438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Gbg Vasagatan 5</name>
+        <description>7-Eleven Gbg Vasagatan 5, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.962963,57.697365,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Gbg Västra Hamngatan</name>
+        <description>7-Eleven Gbg Västra Hamngatan, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.964281,57.70285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Östra Hamngatan 30-34  7-Eleven</name>
+        <description>7-Eleven Östra Hamngatan 30-34  7-Eleven, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.968223,57.707158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Korsetten</name>
+        <description>7-Eleven Korsetten, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.969163,57.705529,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Kungsportsplatsen</name>
+        <description>7-Eleven Kungsportsplatsen, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.96935,57.7039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Gbg Vasagatan 36</name>
+        <description>7-Eleven Gbg Vasagatan 36, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.969456,57.69876,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Femmahuset Göteborg</name>
+        <description>7-Eleven Femmahuset Göteborg, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.970198,57.708609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Drottningtorget</name>
+        <description>7-Eleven Drottningtorget, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.971633,57.707608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Gbg Nils Ericsonsplatsen</name>
+        <description>7-Eleven Gbg Nils Ericsonsplatsen, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.972013,57.709471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Express Gbg Cstn</name>
+        <description>7-Eleven Express Gbg Cstn, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.973145,57.709077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Gbg Kungsportsavenyn 14</name>
+        <description>7-Eleven Gbg Kungsportsavenyn 14, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.974466,57.70087,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Gbg Kungsportsavenyn 34</name>
+        <description>7-Eleven Gbg Kungsportsavenyn 34, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.977312,57.698814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Gbg Berzeliigatan</name>
+        <description>7-Eleven Gbg Berzeliigatan, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.983987,57.699264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Ullevi</name>
+        <description>7-Eleven Ullevi, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.984314,57.7064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven 7 Eleven Korsvägen</name>
+        <description>7-Eleven 7 Eleven Korsvägen, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.986741,57.696637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Incheckningshallen</name>
+        <description>7-Eleven Incheckningshallen, Landvetter</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.296201,57.668584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Citykajen</name>
+        <description>7-Eleven Citykajen, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.996244,55.609023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Rådmansgatan 13</name>
+        <description>7-Eleven Rådmansgatan 13, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.999864,55.594258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Malmö Kungalängan</name>
+        <description>7-Eleven Malmö Kungalängan, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.00047,55.60873,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Malmö Baltzarsgatan</name>
+        <description>7-Eleven Malmö Baltzarsgatan, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.003187,55.604555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Lund Knut den Stores T</name>
+        <description>7-Eleven Lund Knut den Stores T, Lund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.187603,55.705437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Express Malmö Airport</name>
+        <description>7-Eleven Express Malmö Airport, Malmö-Sturup</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.364866,55.540388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Jönköping Ryhov</name>
+        <description>7-Eleven Jönköping Ryhov, Jönköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.194518,57.766524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Linköping Lus</name>
+        <description>7-Eleven Linköping Lus, Linköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.620724,58.401532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Dragarbrunnsgatan 39</name>
+        <description>7-Eleven Dragarbrunnsgatan 39, Uppsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.64035,59.859135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Arlanda Inrikes</name>
+        <description>7-Eleven Arlanda Inrikes, Stockholm-Arlanda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.928566,59.647881,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Sundbyberg</name>
+        <description>7-Eleven Sundbyberg, Sundbyberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.970593,59.362622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Express Solna C</name>
+        <description>7-Eleven Express Solna C, Solna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.998882,59.358698,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Hantverkargatan</name>
+        <description>7-Eleven Hantverkargatan, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.030644,59.33117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Sankt Eriksgatan 44</name>
+        <description>7-Eleven Sankt Eriksgatan 44, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.033102,59.33488,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Rörstrandsgatan</name>
+        <description>7-Eleven Rörstrandsgatan, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.034054,59.34,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Hornsbruksgatan</name>
+        <description>7-Eleven Hornsbruksgatan, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.034327,59.315964,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Flemingatan 34</name>
+        <description>7-Eleven Flemingatan 34, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.035817,59.33416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven S:t  Eriksgatan 89</name>
+        <description>7-Eleven S:t  Eriksgatan 89, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.037877,59.342119,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Flemingatan 19</name>
+        <description>7-Eleven Flemingatan 19, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.04516,59.3328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Hantverkargatan 21</name>
+        <description>7-Eleven Hantverkargatan 21, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.046877,59.3285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Odengatan 77</name>
+        <description>7-Eleven Odengatan 77, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.048847,59.342434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Norrtullsgatan</name>
+        <description>7-Eleven Norrtullsgatan, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.04958,59.344345,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Sthlm Lilla Bantorget</name>
+        <description>7-Eleven Sthlm Lilla Bantorget, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.05142,59.335519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Universitetet T-bana</name>
+        <description>7-Eleven Universitetet T-bana, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.054474,59.365283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Klarabergsviadukten 82</name>
+        <description>7-Eleven Klarabergsviadukten 82, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.054594,59.330453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Vasagatan 44</name>
+        <description>7-Eleven Vasagatan 44, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.056538,59.333695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Drottninggatan 106</name>
+        <description>7-Eleven Drottninggatan 106, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.05671,59.338676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Sveavägen 55</name>
+        <description>7-Eleven Sveavägen 55, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.058509,59.340557,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Drottninggatan 90 B</name>
+        <description>7-Eleven Drottninggatan 90 B, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.058514,59.336792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Sthlm Universitetsvägen</name>
+        <description>7-Eleven Sthlm Universitetsvägen, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.058573,59.362633,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Sthlm Centralplan</name>
+        <description>7-Eleven Sthlm Centralplan, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.058659,59.331127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Odengatan 32</name>
+        <description>7-Eleven Odengatan 32, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.059565,59.345241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Sthlm Klarabergsgatan</name>
+        <description>7-Eleven Sthlm Klarabergsgatan, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.06055,59.331738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Tegnergatan</name>
+        <description>7-Eleven Tegnergatan, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.062502,59.3402,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Odengatan 22</name>
+        <description>7-Eleven Odengatan 22, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.06252,59.345745,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Mariatorget</name>
+        <description>7-Eleven Mariatorget, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.063217,59.318916,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Regeringsgatan 54</name>
+        <description>7-Eleven Regeringsgatan 54, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.067673,59.33523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Birger Jarlsgatan 39</name>
+        <description>7-Eleven Birger Jarlsgatan 39, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.068224,59.33893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Västerlånggatan 38</name>
+        <description>7-Eleven Västerlånggatan 38, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.069998,59.324474,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Sthlm Kungsgatan 9</name>
+        <description>7-Eleven Sthlm Kungsgatan 9, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.070154,59.336052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Norrlandsgatan</name>
+        <description>7-Eleven Norrlandsgatan, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.071164,59.333659,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Medborgarplatsen 13</name>
+        <description>7-Eleven Medborgarplatsen 13, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.07129,59.31522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Götgatan 25</name>
+        <description>7-Eleven Götgatan 25, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.071766,59.317284,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Drottning Kristinas Väg</name>
+        <description>7-Eleven Drottning Kristinas Väg, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.072111,59.346584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Götgatan 57</name>
+        <description>7-Eleven Götgatan 57, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.073666,59.3135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Folkungagatan 52</name>
+        <description>7-Eleven Folkungagatan 52, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.074266,59.314204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Grev Turegatan/Riddargatan</name>
+        <description>7-Eleven Grev Turegatan/Riddargatan, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.07492,59.33521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Sthlm Götgatan 90</name>
+        <description>7-Eleven Sthlm Götgatan 90, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.075161,59.310493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Birger Jarlsgatan 2</name>
+        <description>7-Eleven Birger Jarlsgatan 2, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.075617,59.33326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Humlegårdsgatan 11</name>
+        <description>7-Eleven Humlegårdsgatan 11, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.076347,59.336502,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Sthlm Sturegatan 9</name>
+        <description>7-Eleven Sthlm Sturegatan 9, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.076464,59.34064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Gullmarsplan</name>
+        <description>7-Eleven Gullmarsplan, Johanneshov</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.079245,59.29875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Linnegatan 27</name>
+        <description>7-Eleven Linnegatan 27, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.080732,59.337105,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Skånegatan 79</name>
+        <description>7-Eleven Skånegatan 79, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.082728,59.312811,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Sthlm Storgatan</name>
+        <description>7-Eleven Sthlm Storgatan, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.084248,59.334904,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Valhallavägen 133</name>
+        <description>7-Eleven Valhallavägen 133, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.087261,59.34183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Gyllenstiernsgatan</name>
+        <description>7-Eleven Gyllenstiernsgatan, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.101223,59.337986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven Hammarbyhöjden</name>
+        <description>7-Eleven Hammarbyhöjden, Johanneshov</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.102722,59.295509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

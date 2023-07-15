@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://github.com/cisene/se-poi -->
+<gpx creator="se-poi" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+  <metadata>
+    <name><![CDATA[3 Butiker]]></name>
+    <desc><![CDATA[Koordinater - 3 Butiker]]></desc>
+    <link href="https://www.tre.se/">
+      <text><![CDATA[3 Butiker]]></text>
+       <type>text/html</type>
+    </link>
+   <time>2023-07-15T16:21:13+02:00</time>
+  </metadata>
+  <bounds minlat="58.588188" minlon="15.211813" maxlat="59.877187" maxlon="18.165062" />
+  <wpt lat="59.269562" lon="15.211813"><name><![CDATA[3Butiken Örebro, Örebro]]></name></wpt>
+  <wpt lat="58.588188" lon="16.188812"><name><![CDATA[3Butiken Domino, Norrköping]]></name></wpt>
+  <wpt lat="59.609313" lon="16.453187"><name><![CDATA[3Butiken Erikslund, Västerås]]></name></wpt>
+  <wpt lat="59.371437" lon="16.470062"><name><![CDATA[3Butiken Tunapark, Eskilstuna]]></name></wpt>
+  <wpt lat="59.860062" lon="17.637188"><name><![CDATA[3Butiken City, Uppsala]]></name></wpt>
+  <wpt lat="59.859687" lon="17.637687"><name><![CDATA[3Butiken S:t Per Gallerian, Uppsala]]></name></wpt>
+  <wpt lat="59.877187" lon="17.673812"><name><![CDATA[3Butiken Gränby, Uppsala]]></name></wpt>
+  <wpt lat="59.275312" lon="17.906687"><name><![CDATA[3Butiken Skärholmen Centrum, Skärholmen]]></name></wpt>
+  <wpt lat="59.402313" lon="17.944437"><name><![CDATA[3Butiken Kista Galleri, Kista]]></name></wpt>
+  <wpt lat="59.335563" lon="18.064437"><name><![CDATA[3Butiken Kungsgatan, Stockholm]]></name></wpt>
+  <wpt lat="59.443938" lon="18.071562"><name><![CDATA[3Butiken Täby Centrum, Täby]]></name></wpt>
+  <wpt lat="59.307938" lon="18.075187"><name><![CDATA[3Butiken Ringen, Stockholm]]></name></wpt>
+  <wpt lat="59.243063" lon="18.091437"><name><![CDATA[3Butiken Farsta Centrum, Farsta]]></name></wpt>
+  <wpt lat="59.309062" lon="18.165062"><name><![CDATA[3Butiken Nacka Forum, Nacka]]></name></wpt>
+</gpx>

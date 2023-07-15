@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://github.com/cisene/se-poi -->
+<gpx creator="se-poi" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+  <metadata>
+    <name><![CDATA[ChopChop Asian Express]]></name>
+    <desc><![CDATA[Koordinater - ChopChop Asian Express]]></desc>
+    <link href="https://chopchop.se/">
+      <text><![CDATA[ChopChop Asian Express]]></text>
+       <type>text/html</type>
+    </link>
+   <time>2023-07-15T16:21:15+02:00</time>
+  </metadata>
+  <bounds minlat="55.550745" minlon="11.807521" maxlat="62.442687" maxlon="18.677689" />
+  <wpt lat="58.350891" lon="11.807521"><name><![CDATA[ChopChop Asian Express Uddevalla, Uddevalla]]></name></wpt>
+  <wpt lat="57.473431" lon="12.058449"><name><![CDATA[ChopChop Asian Express Kungsbacka, Kungsbacka]]></name></wpt>
+  <wpt lat="57.166937" lon="12.278187"><name><![CDATA[ChopChop Asian Express Varberg, Varberg]]></name></wpt>
+  <wpt lat="58.315152" lon="12.300325"><name><![CDATA[ChopChop Asian Express Trollhättan, Trollhättan]]></name></wpt>
+  <wpt lat="57.719468" lon="12.968775"><name><![CDATA[ChopChop Asian Express Borås, Borås]]></name></wpt>
+  <wpt lat="55.553544" lon="12.991364"><name><![CDATA[ChopChop Asian Express Svågertorp, Malmö]]></name></wpt>
+  <wpt lat="55.550745" lon="13.033073"><name><![CDATA[ChopChop Asian Express Lockarp, Malmö]]></name></wpt>
+  <wpt lat="55.720987" lon="13.19728"><name><![CDATA[ChopChop Asian Express Lund, Lund]]></name></wpt>
+  <wpt lat="59.383648" lon="13.475255"><name><![CDATA[ChopChop Asian Express Karlstad, Karlstad]]></name></wpt>
+  <wpt lat="57.164878" lon="14.072376"><name><![CDATA[ChopChop Asian Express Värnamo, Värnamo]]></name></wpt>
+  <wpt lat="57.772559" lon="14.194458"><name><![CDATA[ChopChop Asian Express Asecs, Jönköping]]></name></wpt>
+  <wpt lat="56.881892" lon="14.762091"><name><![CDATA[ChopChop Asian Express Växjö, Växjö]]></name></wpt>
+  <wpt lat="58.544757" lon="15.008721"><name><![CDATA[ChopChop Asian Express Motala, Motala]]></name></wpt>
+  <wpt lat="58.323438" lon="15.088564"><name><![CDATA[ChopChop Asian Express Mjölby, Mjölby]]></name></wpt>
+  <wpt lat="59.297283" lon="15.198749"><name><![CDATA[ChopChop Asian Express Eurostop, Örebro]]></name></wpt>
+  <wpt lat="59.269231" lon="15.208129"><name><![CDATA[ChopChop Asian Express Krämaren, Örebro]]></name></wpt>
+  <wpt lat="60.478331" lon="15.432501"><name><![CDATA[ChopChop Asian Express Borlänge, Borlänge]]></name></wpt>
+  <wpt lat="58.435313" lon="15.591938"><name><![CDATA[ChopChop Asian Express Linköping, Linköping]]></name></wpt>
+  <wpt lat="56.684188" lon="16.322812"><name><![CDATA[ChopChop Asian Express Kalmar, Kalmar]]></name></wpt>
+  <wpt lat="59.619458" lon="16.45923"><name><![CDATA[ChopChop Asian Express Erikslund, Västerås]]></name></wpt>
+  <wpt lat="59.390501" lon="16.463628"><name><![CDATA[ChopChop Asian Express Eskilstuna, Eskilstuna]]></name></wpt>
+  <wpt lat="59.635917" lon="16.542958"><name><![CDATA[ChopChop Asian Express Gränby, Uppsala]]></name></wpt>
+  <wpt lat="59.635937" lon="16.545187"><name><![CDATA[ChopChop Asian Express Gryta, Västerås]]></name></wpt>
+  <wpt lat="59.327644" lon="17.017097"><name><![CDATA[ChopChop Asian Express Strängnäs, Strängnäs]]></name></wpt>
+  <wpt lat="58.77207" lon="17.018894"><name><![CDATA[ChopChop Asian Express Nyköping, Nyköping]]></name></wpt>
+  <wpt lat="59.6529" lon="17.078183"><name><![CDATA[ChopChop Asian Express Enköping, Enköping]]></name></wpt>
+  <wpt lat="62.442687" lon="17.342562"><name><![CDATA[ChopChop Asian Express Sundsvall, Sundsvall]]></name></wpt>
+  <wpt lat="59.845312" lon="17.694187"><name><![CDATA[ChopChop Asian Express Boländerna, Uppsala]]></name></wpt>
+  <wpt lat="59.575441" lon="17.895565"><name><![CDATA[ChopChop Asian Express Rosersberg, Rosersberg]]></name></wpt>
+  <wpt lat="59.470583" lon="17.914841"><name><![CDATA[ChopChop Asian Express Rotebro, Sollentuna]]></name></wpt>
+  <wpt lat="59.437062" lon="17.929563"><name><![CDATA[ChopChop Asian Express Häggvik, Sollentuna]]></name></wpt>
+  <wpt lat="59.355282" lon="17.950444"><name><![CDATA[ChopChop Asian Express Bromma Blocks, Bromma]]></name></wpt>
+  <wpt lat="59.355556" lon="17.952167"><name><![CDATA[ChopChop Asian Express Arninge, Täby]]></name></wpt>
+  <wpt lat="59.242914" lon="18.089099"><name><![CDATA[ChopChop Asian Express Farsta, Farsta]]></name></wpt>
+  <wpt lat="59.305712" lon="18.127766"><name><![CDATA[ChopChop Asian Express Sickla, Stockholm]]></name></wpt>
+  <wpt lat="59.178339" lon="18.145256"><name><![CDATA[ChopChop Asian Express Port73, Handen]]></name></wpt>
+  <wpt lat="59.313562" lon="18.428187"><name><![CDATA[ChopChop Asian Express Värmdö, Gustavsberg]]></name></wpt>
+  <wpt lat="59.746741" lon="18.677689"><name><![CDATA[ChopChop Asian Express Norrtälje, Norrtälje]]></name></wpt>
+</gpx>

@@ -1,0 +1,3144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Lidl</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Lidl</name>
+      <Placemark>
+        <name>Lidl Göteborg - Sommarvädersgatan 5</name>
+        <description>Lidl Göteborg - Sommarvädersgatan 5, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.89685,57.71464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Västra Frölunda - Gitarrgatan 2</name>
+        <description>Lidl Västra Frölunda - Gitarrgatan 2, Västra Frölunda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.91564,57.66101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Uddevalla - Bastiongatan 12</name>
+        <description>Lidl Uddevalla - Bastiongatan 12, Uddevalla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.927,58.35073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Göteborg - Distansgatan 40</name>
+        <description>Lidl Göteborg - Distansgatan 40, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.93299,57.66024,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Göteborg - Stigbergstorget 10</name>
+        <description>Lidl Göteborg - Stigbergstorget 10, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.93321,57.69862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Göteborg - Ångpannegatan 18</name>
+        <description>Lidl Göteborg - Ångpannegatan 18, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.94674,57.72829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Göteborg - Linnégatan 41</name>
+        <description>Lidl Göteborg - Linnégatan 41, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.95192,57.69409,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Göteborg - Vasagatan 45</name>
+        <description>Lidl Göteborg - Vasagatan 45, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.97575,57.70101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Göteborg - Redbergsvägen 42</name>
+        <description>Lidl Göteborg - Redbergsvägen 42, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.00338,57.71551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Göteborg - Traktorgatan 3</name>
+        <description>Lidl Göteborg - Traktorgatan 3, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.04711,57.79601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Nödinge - Rödklövergatan 4</name>
+        <description>Lidl Nödinge - Rödklövergatan 4, Nödinge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.04797,57.89599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Göteborg - Gärdsås Torg 2</name>
+        <description>Lidl Göteborg - Gärdsås Torg 2, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.05038,57.76156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Lerum - Södra Långvägen 7</name>
+        <description>Lidl Lerum - Södra Långvägen 7, Lerum</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.2626,57.76388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Charlottenberg - Källgatan 1</name>
+        <description>Lidl Charlottenberg - Källgatan 1, Charlottenberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.28827,59.8725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Trollhättan - Gärdhemsvägen 50</name>
+        <description>Lidl Trollhättan - Gärdhemsvägen 50, Trollhättan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.31231,58.2753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Vänersborg - Regementsgatan 23</name>
+        <description>Lidl Vänersborg - Regementsgatan 23, Vänersborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.33326,58.37757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Falkenberg - Sömmerskevägen 1</name>
+        <description>Lidl Falkenberg - Sömmerskevägen 1, Falkenberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.50311,56.91566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Alingsås - Vänersborgsvägen 21</name>
+        <description>Lidl Alingsås - Vänersborgsvägen 21, Alingsås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.54579,57.9345,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Höganäs - Centralgatan 30</name>
+        <description>Lidl Höganäs - Centralgatan 30, Höganäs</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.55991,56.20064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Arvika - Fallängsvägen 89</name>
+        <description>Lidl Arvika - Fallängsvägen 89, Arvika</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.59425,59.66975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Skene - Klevagårdsgatan 2</name>
+        <description>Lidl Skene - Klevagårdsgatan 2, Skene</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.66688,57.49616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Helsingborg - Drottninghögsvägen 6</name>
+        <description>Lidl Helsingborg - Drottninghögsvägen 6, Helsingborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.72398,56.0667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Helsingborg - Brunnbäcksgatan 33</name>
+        <description>Lidl Helsingborg - Brunnbäcksgatan 33, Helsingborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.72886,56.01592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Halmstad - Torpaledsvägen 4</name>
+        <description>Lidl Halmstad - Torpaledsvägen 4, Halmstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.82068,56.66787,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Landskrona - Östervångsplan 5</name>
+        <description>Lidl Landskrona - Östervångsplan 5, Landskrona</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.85421,55.88105,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Ängelholm - Midgårdsgatan 15</name>
+        <description>Lidl Ängelholm - Midgårdsgatan 15, Ängelholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.89235,56.25226,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Halmstad - Gesällgatan 3</name>
+        <description>Lidl Halmstad - Gesällgatan 3, Halmstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.89484,56.66048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Säffle - Vintergatan 2</name>
+        <description>Lidl Säffle - Vintergatan 2, Säffle</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.91398,59.13496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Limhamn - Hyllie Kyrkoväg 45a</name>
+        <description>Lidl Limhamn - Hyllie Kyrkoväg 45a, Limhamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.92999,55.57888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Åstorp - Grytevadsvägen 2</name>
+        <description>Lidl Åstorp - Grytevadsvägen 2, Åstorp</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.94099,56.13886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Malmö - Delsjögatan 3</name>
+        <description>Lidl Malmö - Delsjögatan 3, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.97869,55.57913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Borås - Sjumilagatan 1</name>
+        <description>Lidl Borås - Sjumilagatan 1, Borås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.98808,57.72575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Löddeköpinge - Marknadsvägen 2</name>
+        <description>Lidl Löddeköpinge - Marknadsvägen 2, Löddeköpinge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.99284,55.76726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Malmö - Spångatan 11</name>
+        <description>Lidl Malmö - Spångatan 11, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.00553,55.59627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Malmö - Södra Förstadsgatan 124</name>
+        <description>Lidl Malmö - Södra Förstadsgatan 124, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.00633,55.58655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Malmö - Knivgatan 1b</name>
+        <description>Lidl Malmö - Knivgatan 1b, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.03821,55.60044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Lomma - Tenngatan 1</name>
+        <description>Lidl Lomma - Tenngatan 1, Lomma</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.08558,55.68237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Arlöv - Lundavägen 90</name>
+        <description>Lidl Arlöv - Lundavägen 90, Arlöv</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.09089,55.64155,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Trelleborg - Hedvägen 87</name>
+        <description>Lidl Trelleborg - Hedvägen 87, Trelleborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.14941,55.38166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Lund - Rausings väg 1</name>
+        <description>Lidl Lund - Rausings väg 1, Lund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.1778,55.69945,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Lidköping - Rörstrandsgatan 4</name>
+        <description>Lidl Lidköping - Rörstrandsgatan 4, Lidköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.18063,58.49841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Lund - Magistratsvägen 6</name>
+        <description>Lidl Lund - Magistratsvägen 6, Lund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.20541,55.72045,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Staffanstorp - Dalbyvägen 53</name>
+        <description>Lidl Staffanstorp - Dalbyvägen 53, Staffanstorp</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.2257,55.64156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Ulricehamn - Falköpingsvägen 4</name>
+        <description>Lidl Ulricehamn - Falköpingsvägen 4, Ulricehamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.41667,57.79775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Karlstad - Rattgatan 10</name>
+        <description>Lidl Karlstad - Rattgatan 10, Karlstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.4746,59.38651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Karlstad - Östra Infarten 19</name>
+        <description>Lidl Karlstad - Östra Infarten 19, Karlstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.53628,59.39821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Höör - Transportvägen 2</name>
+        <description>Lidl Höör - Transportvägen 2, Höör</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.54606,55.92528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Gislaved - Eneströmsgatan 3</name>
+        <description>Lidl Gislaved - Eneströmsgatan 3, Gislaved</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.55185,57.29887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Falköping - Midfalegatan 2</name>
+        <description>Lidl Falköping - Midfalegatan 2, Falköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.57091,58.16223,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Hagfors - Parkvägen 21</name>
+        <description>Lidl Hagfors - Parkvägen 21, Hagfors</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.69958,60.04245,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Malung - Lisagatan 45</name>
+        <description>Lidl Malung - Lisagatan 45, Malung</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.71557,60.68384,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Hässleholm - Norra Kringelvägen 19</name>
+        <description>Lidl Hässleholm - Norra Kringelvägen 19, Hässleholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.78399,56.1655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Ystad - Spaljégatan 2</name>
+        <description>Lidl Ystad - Spaljégatan 2, Ystad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.79875,55.43278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Mariestad - Industrigatan 11</name>
+        <description>Lidl Mariestad - Industrigatan 11, Mariestad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.81683,58.69383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Skövde - Gesällgatan 3</name>
+        <description>Lidl Skövde - Gesällgatan 3, Skövde</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.83742,58.38424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Tomelilla - Malmövägen 4-6</name>
+        <description>Lidl Tomelilla - Malmövägen 4-6, Tomelilla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.94693,55.54656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Värnamo - Lagastigen 25</name>
+        <description>Lidl Värnamo - Lagastigen 25, Värnamo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.05633,57.18484,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Kristinehamn - Hamnvägen 4</name>
+        <description>Lidl Kristinehamn - Hamnvägen 4, Kristinehamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.09726,59.3112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Litomerice - Kamýcká 2273</name>
+        <description>Lidl Litomerice - Kamýcká 2273, Litomerice</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.12168,50.53962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Kristianstad - Fäladsgatan 1</name>
+        <description>Lidl Kristianstad - Fäladsgatan 1, Kristianstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.14372,56.0239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Filipstad - Hertig Karls Gatan 1</name>
+        <description>Lidl Filipstad - Hertig Karls Gatan 1, Filipstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.15495,59.7139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Jönköping - Ekhagsringen 2</name>
+        <description>Lidl Jönköping - Ekhagsringen 2, Jönköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.2235,57.77797,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Bromölla - Tians Väg 1</name>
+        <description>Lidl Bromölla - Tians Väg 1, Bromölla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.47675,56.06622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Karlskoga - Baggängsvägen 2</name>
+        <description>Lidl Karlskoga - Baggängsvägen 2, Karlskoga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.50131,59.31624,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Olofström - Idrottsvägen 4</name>
+        <description>Lidl Olofström - Idrottsvägen 4, Olofström</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.53367,56.27584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Mora - Kyrkogatan 19</name>
+        <description>Lidl Mora - Kyrkogatan 19, Mora</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.53926,61.00421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Östersund - Rådhusgatan 118</name>
+        <description>Lidl Östersund - Rådhusgatan 118, Östersund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.65942,63.16222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Nässjö - Bandygatan 6</name>
+        <description>Lidl Nässjö - Bandygatan 6, Nässjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.70252,57.65035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Växjö - Storgatan 70</name>
+        <description>Lidl Växjö - Storgatan 70, Växjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.78284,56.87895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Karlshamn - Nyemöllevägen 1</name>
+        <description>Lidl Karlshamn - Nyemöllevägen 1, Karlshamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.84737,56.18675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Tranås - Dalagatan 13</name>
+        <description>Lidl Tranås - Dalagatan 13, Tranås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.97255,58.04436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Eksjö - Lokgatan 2</name>
+        <description>Lidl Eksjö - Lokgatan 2, Eksjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.97916,57.66471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Motala - Agneshögsgatan 30</name>
+        <description>Lidl Motala - Agneshögsgatan 30, Motala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.00672,58.53867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Vetlanda - Fabriksgatan 2</name>
+        <description>Lidl Vetlanda - Fabriksgatan 2, Vetlanda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.08527,57.42277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Hallsberg - Hardemovägen 1</name>
+        <description>Lidl Hallsberg - Hardemovägen 1, Hallsberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.09615,59.07456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Mjölby - Ramstadgatan 1</name>
+        <description>Lidl Mjölby - Ramstadgatan 1, Mjölby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.11715,58.33048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Kumla - Mastgatan 10</name>
+        <description>Lidl Kumla - Mastgatan 10, Kumla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.13583,59.1433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Ludvika - Bergslagsgatan 4</name>
+        <description>Lidl Ludvika - Bergslagsgatan 4, Ludvika</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.18582,60.15264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Örebro - Karlslundsgatan 61</name>
+        <description>Lidl Örebro - Karlslundsgatan 61, Örebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.1924,59.27434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Örebro - Dialoggatan 6</name>
+        <description>Lidl Örebro - Dialoggatan 6, Örebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.19745,59.29983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Lindesberg - Bergsmansgatan 4</name>
+        <description>Lidl Lindesberg - Bergsmansgatan 4, Lindesberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.22563,59.59738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Ronneby - Karlshamnsvägen 10</name>
+        <description>Lidl Ronneby - Karlshamnsvägen 10, Ronneby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.27113,56.21598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Borlänge - Dammgatan 1-3</name>
+        <description>Lidl Borlänge - Dammgatan 1-3, Borlänge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.41417,60.48236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Karlskrona - Borgmästarekajen 40</name>
+        <description>Lidl Karlskrona - Borgmästarekajen 40, Karlskrona</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.58494,56.16919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Falun - Norra Järnvägsgatan 31c</name>
+        <description>Lidl Falun - Norra Järnvägsgatan 31c, Falun</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.62009,60.62244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Linköping - Järdalavägen 1</name>
+        <description>Lidl Linköping - Järdalavägen 1, Linköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.67851,58.38588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Finspång - Bergslagsvägen 10</name>
+        <description>Lidl Finspång - Bergslagsvägen 10, Finspång</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.77062,58.707,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Fagersta - Stationsvägen 3</name>
+        <description>Lidl Fagersta - Stationsvägen 3, Fagersta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.79116,60.00353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Arboga - Hildelundsvägen 1</name>
+        <description>Lidl Arboga - Hildelundsvägen 1, Arboga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.83092,59.40258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Nybro - Bangatan 5</name>
+        <description>Lidl Nybro - Bangatan 5, Nybro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.90046,56.74358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Köping - Nibblesbackevägen 2</name>
+        <description>Lidl Köping - Nibblesbackevägen 2, Köping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.98002,59.51259,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Hedemora - Callerholmsgatan 10</name>
+        <description>Lidl Hedemora - Callerholmsgatan 10, Hedemora</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.98972,60.28423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Avesta - Axel Johnsons Väg 99</name>
+        <description>Lidl Avesta - Axel Johnsons Väg 99, Avesta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.16107,60.14138,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Norrköping - Ektorpsgatan 48-56</name>
+        <description>Lidl Norrköping - Ektorpsgatan 48-56, Norrköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.17067,58.58066,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Katrineholm - Vingåkersvägen 12</name>
+        <description>Lidl Katrineholm - Vingåkersvägen 12, Katrineholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.18868,58.99197,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Norrköping - Bangårdsgatan 6</name>
+        <description>Lidl Norrköping - Bangårdsgatan 6, Norrköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.20651,58.59091,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Hallstahammar - Hantverkaregatan 13</name>
+        <description>Lidl Hallstahammar - Hantverkaregatan 13, Hallstahammar</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.22995,59.61235,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Hofors - Faluvägen 1</name>
+        <description>Lidl Hofors - Faluvägen 1, Hofors</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.28972,60.54111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Kalmar - Polhemsgatan 1</name>
+        <description>Lidl Kalmar - Polhemsgatan 1, Kalmar</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.3397,56.67088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Bollnäs - Järnvägsgatan 27</name>
+        <description>Lidl Bollnäs - Järnvägsgatan 27, Bollnäs</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.39904,61.35417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Oskarshamn - Hantverksgatan 45</name>
+        <description>Lidl Oskarshamn - Hantverksgatan 45, Oskarshamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.45745,57.25968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Eskilstuna - Domaregatan 5</name>
+        <description>Lidl Eskilstuna - Domaregatan 5, Eskilstuna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.4872,59.35687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Västerås - Gjutformsgatan 2</name>
+        <description>Lidl Västerås - Gjutformsgatan 2, Västerås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.49369,59.59528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Eskilstuna - Sundbyvägen 4</name>
+        <description>Lidl Eskilstuna - Sundbyvägen 4, Eskilstuna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.52488,59.37646,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Västerås - Grytavägen 2</name>
+        <description>Lidl Västerås - Grytavägen 2, Västerås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.54698,59.63747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Västerås - Regattagatan 20-32</name>
+        <description>Lidl Västerås - Regattagatan 20-32, Västerås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.58967,59.60106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Västervik - Kolonivägen 16</name>
+        <description>Lidl Västervik - Kolonivägen 16, Västervik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.61092,57.76069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Sala - Gustafsborgsgatan 1</name>
+        <description>Lidl Sala - Gustafsborgsgatan 1, Sala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.61547,59.91554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Sandviken - Svarvargatan 26</name>
+        <description>Lidl Sandviken - Svarvargatan 26, Sandviken</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.75643,60.62226,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Nyköping - Spelhagsvägen 2</name>
+        <description>Lidl Nyköping - Spelhagsvägen 2, Nyköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.00769,58.74401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Strängnäs - Trädgårdgatan 6</name>
+        <description>Lidl Strängnäs - Trädgårdgatan 6, Strängnäs</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.0256,59.37728,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Söderhamn - Brädgårdsgatan 1</name>
+        <description>Lidl Söderhamn - Brädgårdsgatan 1, Söderhamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.03883,61.3015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Enköping - Mästergatan 2</name>
+        <description>Lidl Enköping - Mästergatan 2, Enköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.08576,59.64769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Hudiksvall - Hede-finnflovägen 1</name>
+        <description>Lidl Hudiksvall - Hede-finnflovägen 1, Hudiksvall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.08619,61.7375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Bratislava - Dunajská 2</name>
+        <description>Lidl Bratislava - Dunajská 2, Bratislava</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.11406,48.14431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Bratislava - Pekná Cesta</name>
+        <description>Lidl Bratislava - Pekná Cesta, Bratislava</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.14125,48.19626,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Gävle - Norra Kungsvägen 47</name>
+        <description>Lidl Gävle - Norra Kungsvägen 47, Gävle</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.14901,60.69348,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Gävle - Kryddstigen 6</name>
+        <description>Lidl Gävle - Kryddstigen 6, Gävle</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.16936,60.65631,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Sollefteå - Storgatan 74</name>
+        <description>Lidl Sollefteå - Storgatan 74, Sollefteå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.27487,63.16495,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Timrå - Frölandsvägen 2</name>
+        <description>Lidl Timrå - Frölandsvägen 2, Timrå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.31158,62.48072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Sundsvall - Kolvägen 14</name>
+        <description>Lidl Sundsvall - Kolvägen 14, Sundsvall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.32204,62.38725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Tierp - Badhusgatan 2</name>
+        <description>Lidl Tierp - Badhusgatan 2, Tierp</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.5079,60.34288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Bålsta - Stockholmsvägen 75</name>
+        <description>Lidl Bålsta - Stockholmsvägen 75, Bålsta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.52809,59.57001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Uppsala - Valthornsvägen 1a</name>
+        <description>Lidl Uppsala - Valthornsvägen 1a, Uppsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.6269,59.81088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Södertälje - Bergaholmsvägen 7</name>
+        <description>Lidl Södertälje - Bergaholmsvägen 7, Södertälje</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.64553,59.20549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Uppsala - Liljefors Torg 2</name>
+        <description>Lidl Uppsala - Liljefors Torg 2, Uppsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.65588,59.87045,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Kungsängen - Pettersbergsvägen 1</name>
+        <description>Lidl Kungsängen - Pettersbergsvägen 1, Kungsängen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.73713,59.49251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Ekerö - Älvnäsvägen 2</name>
+        <description>Lidl Ekerö - Älvnäsvägen 2, Ekerö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.78902,59.2801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Hässelby - Lövkojsgränd 12</name>
+        <description>Lidl Hässelby - Lövkojsgränd 12, Hässelby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.81512,59.38014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Norsborg - Hallunda Torg 1</name>
+        <description>Lidl Norsborg - Hallunda Torg 1, Norsborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.82354,59.24493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Tumba - Tumba Torg 1</name>
+        <description>Lidl Tumba - Tumba Torg 1, Tumba</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.83517,59.19917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Järfälla - Värmevägen 1a</name>
+        <description>Lidl Järfälla - Värmevägen 1a, Järfälla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.84696,59.42882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Märsta - Västra Bangatan 6</name>
+        <description>Lidl Märsta - Västra Bangatan 6, Märsta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.85655,59.61759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Norsborg - Fittjavägen 3</name>
+        <description>Lidl Norsborg - Fittjavägen 3, Norsborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.86064,59.24842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Vällingby - Vilhelminag 1-21</name>
+        <description>Lidl Vällingby - Vilhelminag 1-21, Vällingby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.87567,59.36076,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Spånga - Tenstagången 43</name>
+        <description>Lidl Spånga - Tenstagången 43, Spånga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.90324,59.39407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Spånga - Bromstensvägen 158</name>
+        <description>Lidl Spånga - Bromstensvägen 158, Spånga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.90813,59.37772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Skärholmen - Skärholmsgången 8</name>
+        <description>Lidl Skärholmen - Skärholmsgången 8, Skärholmen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.9089,59.27694,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Kista - Villmanstrandsgatan 6</name>
+        <description>Lidl Kista - Villmanstrandsgatan 6, Kista</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.91743,59.41384,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Upplands Väsby - Stockholmsvägen 30</name>
+        <description>Lidl Upplands Väsby - Stockholmsvägen 30, Upplands Väsby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.92377,59.50489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Härnösand - Strandgatan 2</name>
+        <description>Lidl Härnösand - Strandgatan 2, Härnösand</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.93376,62.63463,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Sollentuna - Tistelvägen 21</name>
+        <description>Lidl Sollentuna - Tistelvägen 21, Sollentuna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.93619,59.43001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Hägersten - Elisabeth Tamms Gata 2</name>
+        <description>Lidl Hägersten - Elisabeth Tamms Gata 2, Hägersten</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.95419,59.28523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Nynäshamn - Nynäsvägen 10</name>
+        <description>Lidl Nynäshamn - Nynäsvägen 10, Nynäshamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.95468,58.90949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Sundbyberg - Landsvägen 47</name>
+        <description>Lidl Sundbyberg - Landsvägen 47, Sundbyberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.96926,59.36106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Solna - Ankdammsgatan 35</name>
+        <description>Lidl Solna - Ankdammsgatan 35, Solna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.98739,59.35803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Bandhagen - Rågsvedsvägen 106</name>
+        <description>Lidl Bandhagen - Rågsvedsvägen 106, Bandhagen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.015,59.25715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Stockholm - Liljeholmstorget 44</name>
+        <description>Lidl Stockholm - Liljeholmstorget 44, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.02313,59.31007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Stockholm - Sankt Göransgatan 70</name>
+        <description>Lidl Stockholm - Sankt Göransgatan 70, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.0292,59.3337,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Täby - Enhagsvägen 24</name>
+        <description>Lidl Täby - Enhagsvägen 24, Täby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.03775,59.44011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Stockholm - Sankt Eriksgatan 113</name>
+        <description>Lidl Stockholm - Sankt Eriksgatan 113, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.03959,59.34601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Danderyd - Stockholmsvägen 1</name>
+        <description>Lidl Danderyd - Stockholmsvägen 1, Danderyd</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.04504,59.38532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Stockholm - Bussens Väg 5</name>
+        <description>Lidl Stockholm - Bussens Väg 5, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.04883,59.28537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Årsta - Årstavägen 53</name>
+        <description>Lidl Årsta - Årstavägen 53, Årsta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.05101,59.29687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Stockholm - Saltmätarg 18-20</name>
+        <description>Lidl Stockholm - Saltmätarg 18-20, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.05829,59.34082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Stockholm - Magnus Ladulåsgatan 3</name>
+        <description>Lidl Stockholm - Magnus Ladulåsgatan 3, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.05912,59.31167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Farsta - Havsörnsvägen 3</name>
+        <description>Lidl Farsta - Havsörnsvägen 3, Farsta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.06425,59.24752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Stockholm - Folkungagatan 51</name>
+        <description>Lidl Stockholm - Folkungagatan 51, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.07497,59.31446,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Vallentuna - Tellusvägen 1</name>
+        <description>Lidl Vallentuna - Tellusvägen 1, Vallentuna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.08461,59.53308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Farsta - Storforsplan 36</name>
+        <description>Lidl Farsta - Storforsplan 36, Farsta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.09338,59.24196,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Stockholm - Hammarby Allé 118</name>
+        <description>Lidl Stockholm - Hammarby Allé 118, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.10221,59.30206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Haninge - Torfastleden 1</name>
+        <description>Lidl Haninge - Torfastleden 1, Haninge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.17536,59.19117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Tyresö - Bollmoravägen 186</name>
+        <description>Lidl Tyresö - Bollmoravägen 186, Tyresö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.19797,59.2432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Saltsjö-boo - Värmdövägen 691</name>
+        <description>Lidl Saltsjö-boo - Värmdövägen 691, Saltsjö-boo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.25636,59.32294,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Åkersberga - Rallarvägen 3</name>
+        <description>Lidl Åkersberga - Rallarvägen 3, Åkersberga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.28487,59.48079,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Gustavsberg - Medeas Väg 2</name>
+        <description>Lidl Gustavsberg - Medeas Väg 2, Gustavsberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.42422,59.31244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Orlová - 17. Listopadu 1431</name>
+        <description>Lidl Orlová - 17. Listopadu 1431, Orlová</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.43723,49.87557,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Norrtälje - Baldersgatan 27b</name>
+        <description>Lidl Norrtälje - Baldersgatan 27b, Norrtälje</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.69507,59.76612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Örnsköldsvik - Ångermanlandsgatan 17</name>
+        <description>Lidl Örnsköldsvik - Ångermanlandsgatan 17, Örnsköldsvik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.71793,63.30291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Närpiö - Tegelbruksvägen 2</name>
+        <description>Lidl Närpiö - Tegelbruksvägen 2, Närpiö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.39446,62.47628,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Uusikaupunki - Levysepänkatu 2</name>
+        <description>Lidl Uusikaupunki - Levysepänkatu 2, Uusikaupunki</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.42822,60.80659,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Rauma - Papinhaankatu 7</name>
+        <description>Lidl Rauma - Papinhaankatu 7, Rauma</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.50215,61.13711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Vaasa - Sepänkyläntie 4</name>
+        <description>Lidl Vaasa - Sepänkyläntie 4, Vaasa</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.62904,63.09856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Vaasa - Kaarnatie 1</name>
+        <description>Lidl Vaasa - Kaarnatie 1, Vaasa</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.69875,63.08487,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Pori - Eteläväylä 9</name>
+        <description>Lidl Pori - Eteläväylä 9, Pori</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.75231,61.47493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Pori - Paanakedonkatu 10</name>
+        <description>Lidl Pori - Paanakedonkatu 10, Pori</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.80938,61.48453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Naantali - Rautakatu 1</name>
+        <description>Lidl Naantali - Rautakatu 1, Naantali</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.04838,60.47532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Harjavalta - Teollisuuskatu 4a</name>
+        <description>Lidl Harjavalta - Teollisuuskatu 4a, Harjavalta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.13881,61.30937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Raisio - Kyläpajankatu 2</name>
+        <description>Lidl Raisio - Kyläpajankatu 2, Raisio</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.16085,60.4802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Kauhajoki - Puistotie 60</name>
+        <description>Lidl Kauhajoki - Puistotie 60, Kauhajoki</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.17902,62.43252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Turku - Kollikatu 1</name>
+        <description>Lidl Turku - Kollikatu 1, Turku</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.24146,60.4548,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Turku - Eerikinkatu 4</name>
+        <description>Lidl Turku - Eerikinkatu 4, Turku</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.27211,60.45229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Turku - Kärsämäentie 2</name>
+        <description>Lidl Turku - Kärsämäentie 2, Turku</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.28274,60.473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Turku - Kalevantie 19-23</name>
+        <description>Lidl Turku - Kalevantie 19-23, Turku</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.30612,60.45029,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Kokemäki - Pyhänkorvantie 2</name>
+        <description>Lidl Kokemäki - Pyhänkorvantie 2, Kokemäki</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.33909,61.2566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Kaarina - Lautakunnankatu 7</name>
+        <description>Lidl Kaarina - Lautakunnankatu 7, Kaarina</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.36339,60.4086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Kankaanpää - Asemakatu 2</name>
+        <description>Lidl Kankaanpää - Asemakatu 2, Kankaanpää</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.37676,61.8124,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Lieto - Simpukkatie 4</name>
+        <description>Lidl Lieto - Simpukkatie 4, Lieto</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.46114,60.50282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Huittinen - Risto Rytin Katu 12</name>
+        <description>Lidl Huittinen - Risto Rytin Katu 12, Huittinen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.68916,61.17359,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Pietarsaari - Itäinen Rengastie 31</name>
+        <description>Lidl Pietarsaari - Itäinen Rengastie 31, Pietarsaari</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.72102,63.67819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Seinäjoki - Verkatehtaankatu 12</name>
+        <description>Lidl Seinäjoki - Verkatehtaankatu 12, Seinäjoki</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.83093,62.79481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Sastamala - Nuutilankatu 1</name>
+        <description>Lidl Sastamala - Nuutilankatu 1, Sastamala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.91776,61.32683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Hanko - Esplanaadi 134</name>
+        <description>Lidl Hanko - Esplanaadi 134, Hanko</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.98694,59.83019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Parkano - Humalankatu 2</name>
+        <description>Lidl Parkano - Humalankatu 2, Parkano</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.01097,62.00786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Lapua - Rakentajantie 4</name>
+        <description>Lidl Lapua - Rakentajantie 4, Lapua</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.0254,62.97456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Kauhava - Heimolankuja 2</name>
+        <description>Lidl Kauhava - Heimolankuja 2, Kauhava</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.05422,63.10038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Ikaalinen - Pirkantie 2</name>
+        <description>Lidl Ikaalinen - Pirkantie 2, Ikaalinen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.06861,61.76371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Kokkola - Tervahovintie 4</name>
+        <description>Lidl Kokkola - Tervahovintie 4, Kokkola</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.1161,63.83534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Salo - Savipajankatu 3</name>
+        <description>Lidl Salo - Savipajankatu 3, Salo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.12662,60.39476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Tammisaari - Oikotie 2</name>
+        <description>Lidl Tammisaari - Oikotie 2, Tammisaari</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.45729,59.98129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Nokia - Nuijamiestentie 2</name>
+        <description>Lidl Nokia - Nuijamiestentie 2, Nokia</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.50617,61.46582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Somero - Hämeentie 6</name>
+        <description>Lidl Somero - Hämeentie 6, Somero</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.51747,60.63143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Ylöjärvi - Mastontie 8</name>
+        <description>Lidl Ylöjärvi - Mastontie 8, Ylöjärvi</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.59301,61.54752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Forssa - Pihlajakatu 2</name>
+        <description>Lidl Forssa - Pihlajakatu 2, Forssa</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.62077,60.80745,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Karjaa - Ratakatu 50</name>
+        <description>Lidl Karjaa - Ratakatu 50, Karjaa</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.66512,60.07062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Tampere - Harjuntausta 11</name>
+        <description>Lidl Tampere - Harjuntausta 11, Tampere</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.66599,61.51657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Pirkkala - Kaartotie 1</name>
+        <description>Lidl Pirkkala - Kaartotie 1, Pirkkala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.71156,61.4692,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Tampere - Hallituskatu 14-16</name>
+        <description>Lidl Tampere - Hallituskatu 14-16, Tampere</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.75637,61.49635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Lempäälä - Liikekatu 3</name>
+        <description>Lidl Lempäälä - Liikekatu 3, Lempäälä</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.75974,61.31374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Tampere - Rautatienkatu 21</name>
+        <description>Lidl Tampere - Rautatienkatu 21, Tampere</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.77119,61.50001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Alajärvi - Yrittäjäntie 1</name>
+        <description>Lidl Alajärvi - Yrittäjäntie 1, Alajärvi</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.80257,63.00378,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Tampere - Sammon Valtatie 16</name>
+        <description>Lidl Tampere - Sammon Valtatie 16, Tampere</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.84332,61.4919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Tampere - Insinöörinkatu 23</name>
+        <description>Lidl Tampere - Insinöörinkatu 23, Tampere</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.851,61.45099,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Kangasala - Lentolankuja 8</name>
+        <description>Lidl Kangasala - Lentolankuja 8, Kangasala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.98935,61.47268,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Valkeakoski - Asemantie 1</name>
+        <description>Lidl Valkeakoski - Asemantie 1, Valkeakoski</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.01661,61.27528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Lohja - Reunakatu 1</name>
+        <description>Lidl Lohja - Reunakatu 1, Lohja</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.02734,60.22595,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Tornio - Teollisuuskatu 12</name>
+        <description>Lidl Tornio - Teollisuuskatu 12, Tornio</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.18592,65.84375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Karkkila - Yrittäjäntie 4</name>
+        <description>Lidl Karkkila - Yrittäjäntie 4, Karkkila</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.23605,60.53331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Nummela - Asemantie 4</name>
+        <description>Lidl Nummela - Asemantie 4, Nummela</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.31932,60.33274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Orivesi - Kääjäntie 5</name>
+        <description>Lidl Orivesi - Kääjäntie 5, Orivesi</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.35217,61.67571,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Hämeenlinna - Pitkätanhuankatu 4</name>
+        <description>Lidl Hämeenlinna - Pitkätanhuankatu 4, Hämeenlinna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.41415,61.00914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Kirkkonummi - Munkinmäentie 8</name>
+        <description>Lidl Kirkkonummi - Munkinmäentie 8, Kirkkonummi</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.43646,60.11894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Raahe - Fellmaninpuistokatu 15</name>
+        <description>Lidl Raahe - Fellmaninpuistokatu 15, Raahe</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.47991,64.68319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Hämeenlinna - Liikekatu 1</name>
+        <description>Lidl Hämeenlinna - Liikekatu 1, Hämeenlinna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.48696,61.00123,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Ylivieska - Ollilanojankatu 2</name>
+        <description>Lidl Ylivieska - Ollilanojankatu 2, Ylivieska</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.55976,64.06239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Kemi - Täikönkatu 4</name>
+        <description>Lidl Kemi - Täikönkatu 4, Kemi</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.56669,65.73938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Espoo - Kukkaromäki 2</name>
+        <description>Lidl Espoo - Kukkaromäki 2, Espoo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.63669,60.20803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Turenki - Harvialantie 11</name>
+        <description>Lidl Turenki - Harvialantie 11, Turenki</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.63972,60.9277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Espoo - Espoonlahdenkatu 4</name>
+        <description>Lidl Espoo - Espoonlahdenkatu 4, Espoo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.65475,60.14963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Espoo - Martinsillantie 10</name>
+        <description>Lidl Espoo - Martinsillantie 10, Espoo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.69254,60.1588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Keuruu - Tehtaantie 6</name>
+        <description>Lidl Keuruu - Tehtaantie 6, Keuruu</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.69726,62.26064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Klaukkala - Lahnuksentie 2</name>
+        <description>Lidl Klaukkala - Lahnuksentie 2, Klaukkala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.76072,60.37283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Espoo - Mankkaantie 2-4</name>
+        <description>Lidl Espoo - Mankkaantie 2-4, Espoo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.76726,60.1946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Espoo - Niittymaantie 2</name>
+        <description>Lidl Espoo - Niittymaantie 2, Espoo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.77499,60.17079,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Espoo - Rastaspuistontie 1</name>
+        <description>Lidl Espoo - Rastaspuistontie 1, Espoo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.77746,60.23038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Riihimäki - Karankatu 15</name>
+        <description>Lidl Riihimäki - Karankatu 15, Riihimäki</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.78047,60.74684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Espoo - Ratsukatu 3</name>
+        <description>Lidl Espoo - Ratsukatu 3, Espoo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.80795,60.21752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Helsinki - Ristipellontie 9</name>
+        <description>Lidl Helsinki - Ristipellontie 9, Helsinki</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.85207,60.23907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Hyvinkää - Kauppalankatu 20</name>
+        <description>Lidl Hyvinkää - Kauppalankatu 20, Hyvinkää</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.8531,60.63676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Vantaa - Kivivuorentie 4</name>
+        <description>Lidl Vantaa - Kivivuorentie 4, Vantaa</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.85392,60.27821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Vantaa - Vanha Kaarelantie 33b</name>
+        <description>Lidl Vantaa - Vanha Kaarelantie 33b, Vantaa</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.87422,60.26129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Helsinki - Heikkiläntie 4</name>
+        <description>Lidl Helsinki - Heikkiläntie 4, Helsinki</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.88033,60.15467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Helsinki - Pakilantie 46-48</name>
+        <description>Lidl Helsinki - Pakilantie 46-48, Helsinki</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.92792,60.23638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Helsinki - Kampinkuja 2</name>
+        <description>Lidl Helsinki - Kampinkuja 2, Helsinki</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.93015,60.16844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Helsinki - Ratapihantie 3</name>
+        <description>Lidl Helsinki - Ratapihantie 3, Helsinki</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.93586,60.19751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Helsinki - Hämeentie 33</name>
+        <description>Lidl Helsinki - Hämeentie 33, Helsinki</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.96348,60.18821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Nivala - Toritie 18</name>
+        <description>Lidl Nivala - Toritie 18, Nivala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.96549,63.92966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Vantaa - Säätökuja 2</name>
+        <description>Lidl Vantaa - Säätökuja 2, Vantaa</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            24.96985,60.27426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Helsinki - Malmin Kauppatie 18</name>
+        <description>Lidl Helsinki - Malmin Kauppatie 18, Helsinki</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.01145,60.25198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Tuusula - Majavantie 1</name>
+        <description>Lidl Tuusula - Majavantie 1, Tuusula</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.02298,60.37328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Helsinki - Aamuruskontie 1</name>
+        <description>Lidl Helsinki - Aamuruskontie 1, Helsinki</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.02888,60.28432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Helsinki - Linnanrakentajantie 4</name>
+        <description>Lidl Helsinki - Linnanrakentajantie 4, Helsinki</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.03547,60.19388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Vantaa - Viitakuja 1</name>
+        <description>Lidl Vantaa - Viitakuja 1, Vantaa</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.06176,60.32235,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Helsinki - Itäkatu 7</name>
+        <description>Lidl Helsinki - Itäkatu 7, Helsinki</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.08298,60.21117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Helsinki - Ostostie 4</name>
+        <description>Lidl Helsinki - Ostostie 4, Helsinki</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.08344,60.23772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Vantaa - Murmelikuja 11</name>
+        <description>Lidl Vantaa - Murmelikuja 11, Vantaa</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.10583,60.345,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Kerava - Santaniitynkatu 7</name>
+        <description>Lidl Kerava - Santaniitynkatu 7, Kerava</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.11108,60.39958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Järvenpää - Kinnarinkatu 6</name>
+        <description>Lidl Järvenpää - Kinnarinkatu 6, Järvenpää</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.112,60.47462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Helsinki - Rastilantie 1</name>
+        <description>Lidl Helsinki - Rastilantie 1, Helsinki</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.13375,60.21399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Jämsä - Esankatu 4</name>
+        <description>Lidl Jämsä - Esankatu 4, Jämsä</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.17775,61.86326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Saarijärvi - Jyväskyläntie 31a</name>
+        <description>Lidl Saarijärvi - Jyväskyläntie 31a, Saarijärvi</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.28924,62.69699,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Mäntsälä - Töyrynummentie 2</name>
+        <description>Lidl Mäntsälä - Töyrynummentie 2, Mäntsälä</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.29243,60.62356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Haukipudas - Revontie 38</name>
+        <description>Lidl Haukipudas - Revontie 38, Haukipudas</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.34528,65.16612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Oulu - Isokatu 51</name>
+        <description>Lidl Oulu - Isokatu 51, Oulu</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.46791,65.00847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Oulu - Tuirantie 14</name>
+        <description>Lidl Oulu - Tuirantie 14, Oulu</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.4694,65.02676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Oulu - Ruukinkuja 1</name>
+        <description>Lidl Oulu - Ruukinkuja 1, Oulu</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.51401,64.98598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Hollola - Terveystie 49</name>
+        <description>Lidl Hollola - Terveystie 49, Hollola</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.53418,60.98776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Kempele - Myllytie 3</name>
+        <description>Lidl Kempele - Myllytie 3, Kempele</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.54272,64.90504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Oulu - Karttatie 2</name>
+        <description>Lidl Oulu - Karttatie 2, Oulu</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.54727,65.02506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Porvoo - Maistraatinkatu 2</name>
+        <description>Lidl Porvoo - Maistraatinkatu 2, Porvoo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.65172,60.39043,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Lahti - Launeenkatu 86</name>
+        <description>Lidl Lahti - Launeenkatu 86, Lahti</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.65301,60.95988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Lahti - Vapaudenkatu 23</name>
+        <description>Lidl Lahti - Vapaudenkatu 23, Lahti</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.66564,60.98313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Lahti - Kivistönkatu 1</name>
+        <description>Lidl Lahti - Kivistönkatu 1, Lahti</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.66809,60.99657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Porvoo - Asentajantie 5</name>
+        <description>Lidl Porvoo - Asentajantie 5, Porvoo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.6878,60.40198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Rovaniemi - Oijustie 2</name>
+        <description>Lidl Rovaniemi - Oijustie 2, Rovaniemi</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.69249,66.49091,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Jyväskylä - Kylmälahdentie 13</name>
+        <description>Lidl Jyväskylä - Kylmälahdentie 13, Jyväskylä</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.71887,62.21714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Äänekoski - Kuhnamontie 5a</name>
+        <description>Lidl Äänekoski - Kuhnamontie 5a, Äänekoski</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.7251,62.59888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Orimattila - Niementie 1</name>
+        <description>Lidl Orimattila - Niementie 1, Orimattila</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.72795,60.80604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Saarenkylä - Pulkamontie 2</name>
+        <description>Lidl Saarenkylä - Pulkamontie 2, Saarenkylä</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.75818,66.51745,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Jyväskylä - Vasarakatu 4</name>
+        <description>Lidl Jyväskylä - Vasarakatu 4, Jyväskylä</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.77213,62.25419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Viitasaari - Haapaniementie 2-4</name>
+        <description>Lidl Viitasaari - Haapaniementie 2-4, Viitasaari</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.86326,63.07637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Laukaa - Vuojärventie 1</name>
+        <description>Lidl Laukaa - Vuojärventie 1, Laukaa</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.94851,62.41478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Nastola - Muurarintie 2</name>
+        <description>Lidl Nastola - Muurarintie 2, Nastola</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            25.96108,60.93669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Heinola - Siltakatu 21-23</name>
+        <description>Lidl Heinola - Siltakatu 21-23, Heinola</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            26.03776,61.20465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Loviisa - Porvoonkatu 7</name>
+        <description>Lidl Loviisa - Porvoonkatu 7, Loviisa</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            26.20045,60.45672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Sodankylä - Lapintie 1</name>
+        <description>Lidl Sodankylä - Lapintie 1, Sodankylä</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            26.58725,67.41475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Kuusankoski - Sepäntie 2</name>
+        <description>Lidl Kuusankoski - Sepäntie 2, Kuusankoski</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            26.60799,60.90442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Kouvola - Laturinkatu 1</name>
+        <description>Lidl Kouvola - Laturinkatu 1, Kouvola</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            26.67168,60.8683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Inkeroinen - Laaksotie 4</name>
+        <description>Lidl Inkeroinen - Laaksotie 4, Inkeroinen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            26.84493,60.69796,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Kotka - Vesitorninkatu 12</name>
+        <description>Lidl Kotka - Vesitorninkatu 12, Kotka</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            26.93491,60.51328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Pieksämäki - Keskuskatu 3</name>
+        <description>Lidl Pieksämäki - Keskuskatu 3, Pieksämäki</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            27.16073,62.3011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Iisalmi - Kilpivirrantie 1</name>
+        <description>Lidl Iisalmi - Kilpivirrantie 1, Iisalmi</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            27.18382,63.56971,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Hamina - Maariankatu 20</name>
+        <description>Lidl Hamina - Maariankatu 20, Hamina</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            27.19305,60.56543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Mikkeli - Setrikatu 3</name>
+        <description>Lidl Mikkeli - Setrikatu 3, Mikkeli</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            27.26976,61.67836,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Kemijärvi - Kirkkokatu 2-4</name>
+        <description>Lidl Kemijärvi - Kirkkokatu 2-4, Kemijärvi</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            27.42784,66.71632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Kuopio - Petosentie 4</name>
+        <description>Lidl Kuopio - Petosentie 4, Kuopio</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            27.64823,62.83936,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Siilinjärvi - Kuiluntie 6</name>
+        <description>Lidl Siilinjärvi - Kuiluntie 6, Siilinjärvi</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            27.65886,63.0726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Kuopio - Sisustajantie 8</name>
+        <description>Lidl Kuopio - Sisustajantie 8, Kuopio</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            27.68241,62.90579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Kajaani - Sotkamontie 7</name>
+        <description>Lidl Kajaani - Sotkamontie 7, Kajaani</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            27.72885,64.22083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Leppävirta - Tarhurintie 3</name>
+        <description>Lidl Leppävirta - Tarhurintie 3, Leppävirta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            27.76989,62.49021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Varkaus - Kauppakatu 73</name>
+        <description>Lidl Varkaus - Kauppakatu 73, Varkaus</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            27.86149,62.31831,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Lappeenranta - Puhakankatu 1</name>
+        <description>Lidl Lappeenranta - Puhakankatu 1, Lappeenranta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            28.17525,61.05008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Lappeenranta - Myllymäenkatu 36</name>
+        <description>Lidl Lappeenranta - Myllymäenkatu 36, Lappeenranta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            28.21782,61.04202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Sotkamo - Ratatie 17</name>
+        <description>Lidl Sotkamo - Ratatie 17, Sotkamo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            28.34758,64.13531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Imatra - Tietäjänkatu 1</name>
+        <description>Lidl Imatra - Tietäjänkatu 1, Imatra</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            28.76943,61.18786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Imatra - Valvatinkatu 8</name>
+        <description>Lidl Imatra - Valvatinkatu 8, Imatra</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            28.84053,61.2247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Savonlinna - Ilokallionkatu 4</name>
+        <description>Lidl Savonlinna - Ilokallionkatu 4, Savonlinna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            28.92255,61.86979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Kuusamo - Airotie 13</name>
+        <description>Lidl Kuusamo - Airotie 13, Kuusamo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            29.16284,65.95821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Joensuu - Kuurnankatu 3a</name>
+        <description>Lidl Joensuu - Kuurnankatu 3a, Joensuu</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            29.7712,62.61856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lidl Lieksa - Mönninkatu 2</name>
+        <description>Lidl Lieksa - Mönninkatu 2, Lieksa</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            30.02468,63.31756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

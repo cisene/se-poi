@@ -1,0 +1,5054 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Mekonomen</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Mekonomen</name>
+      <Placemark>
+        <name>Strömstad Husbilservice AB</name>
+        <description>Strömstad Husbilservice AB, Strömstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.18709,58.92985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Strömstad</name>
+        <description>Mekonomen Butik Strömstad, Strömstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.18719,58.92993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BBH Autoservice AB</name>
+        <description>BBH Autoservice AB, Kungshamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.26679,58.36304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Kungshamn</name>
+        <description>Mekonomen Butik Kungshamn, Kungshamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.26689,58.364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Blekets Bilservice AB</name>
+        <description>Blekets Bilservice AB, Tjörn / Bleket</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.56798,57.94915,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>M Malmgren Bil AB</name>
+        <description>M Malmgren Bil AB, Munkedal</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.64139,58.48221,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lagga Däck & Bilservice AB</name>
+        <description>Lagga Däck & Bilservice AB, Torslanda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.77656,57.7155,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Stenungsund</name>
+        <description>Mekonomen Butik Stenungsund, Stenungsund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.84622,58.07209,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen BilLivet Uddevalla AB</name>
+        <description>Mekonomen BilLivet Uddevalla AB, Uddevalla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.85314,58.35189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Autoverkstan i Munkeröd AB</name>
+        <description>Autoverkstan i Munkeröd AB, Stenungsund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.87274,58.06319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Långedrag Bilverkstad Göteborg AB</name>
+        <description>Långedrag Bilverkstad Göteborg AB, Västra Frölunda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.88137,57.67114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen BilLivet Grimmered AB</name>
+        <description>Mekonomen BilLivet Grimmered AB, Västra Frölunda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.89533,57.66254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R O Bil i Göteborg AB</name>
+        <description>R O Bil i Göteborg AB, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.90944,57.68718,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sam`s Bilservice i Kungälv AB</name>
+        <description>Sam`s Bilservice i Kungälv AB, Kungälv / Rollsbo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.9401,57.87526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Masthuggsgaragets Bilverkstad AB</name>
+        <description>Masthuggsgaragets Bilverkstad AB, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.94052,57.69866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Göteborg / Backaplan</name>
+        <description>Mekonomen Butik Göteborg / Backaplan, Göteborg / Backaplan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.94646,57.72914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen BilLivet Backaplan AB</name>
+        <description>Mekonomen BilLivet Backaplan AB, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.94735,57.72927,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bilverksta&#039;n i Kareby AB</name>
+        <description>Bilverksta&#039;n i Kareby AB, Kungälv</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.95249,57.8791,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Garmek i Årjäng AB</name>
+        <description>Garmek i Årjäng AB, Årjäng / Töcksfors</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.95642,59.47835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kullaviks Bilservice AB</name>
+        <description>Kullaviks Bilservice AB, Billdal</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.95925,57.56114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>City Car Service Ringön AB</name>
+        <description>City Car Service Ringön AB, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.9631,57.72052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen BilLivet Eklanda AB</name>
+        <description>Mekonomen BilLivet Eklanda AB, Eklanda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.96939,57.6483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Mölndal / Eklanda / Göteborg / Högsbo / Torslanda</name>
+        <description>Mekonomen Butik Mölndal / Eklanda / Göteborg / Högsbo / Torslanda, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.96939,57.6483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Kungälv</name>
+        <description>Mekonomen Butik Kungälv, Kungälv</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.98153,57.88113,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mattssons Bilservice i Kungälv AB</name>
+        <description>Mattssons Bilservice i Kungälv AB, Kungälv</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.98271,57.88076,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Säve Bil HB (Marieholm)</name>
+        <description>Säve Bil HB (Marieholm), Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.99062,57.72251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hans Moberg Bilverkstad AB</name>
+        <description>Hans Moberg Bilverkstad AB, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.01955,57.713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mölndals Bilverkstad AB</name>
+        <description>Mölndals Bilverkstad AB, Mölndal</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.02819,57.63938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Torpavallen Bilservice AB</name>
+        <description>Torpavallen Bilservice AB, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.03292,57.72383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kortedala Bilservice HB</name>
+        <description>Kortedala Bilservice HB, Göteborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.03445,57.7459,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Säve Bil AB</name>
+        <description>Säve Bil AB, Angered</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.04624,57.79116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Nödinge</name>
+        <description>Mekonomen Butik Nödinge, Nödinge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.05492,57.90042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen BilLivet Nödinge AB</name>
+        <description>Mekonomen BilLivet Nödinge AB, Nödinge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.05501,57.9003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Kungsbacka</name>
+        <description>Mekonomen Butik Kungsbacka, Kungsbacka</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.08255,57.48359,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kungsbacka Bilservice AB</name>
+        <description>Kungsbacka Bilservice AB, Kungsbacka</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.08548,57.47939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bennys Servicehall AB</name>
+        <description>Bennys Servicehall AB, Kungsbacka</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.08609,57.48048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FCB Bilcenter AB</name>
+        <description>FCB Bilcenter AB, Lindome</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.08731,57.57549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din Bilverkstad i Mölnlycke AB</name>
+        <description>Din Bilverkstad i Mölnlycke AB, Mölnlycke</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.09353,57.67935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jonas Enander Bil & Karosseri AB</name>
+        <description>Jonas Enander Bil & Karosseri AB, Partille</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.1284,57.74066,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Partille</name>
+        <description>Mekonomen Butik Partille, Partille</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.1284,57.74066,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Auto-Car i Lilla Edet AB</name>
+        <description>Auto-Car i Lilla Edet AB, Lilla Edet</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.13286,58.14415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fjärås Bil AB</name>
+        <description>Fjärås Bil AB, Fjärås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.15406,57.4365,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Väröbacka Bilverkstad AB</name>
+        <description>Väröbacka Bilverkstad AB, Väröbacka</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.17972,57.25477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Trafik & Teknik AB</name>
+        <description>Trafik & Teknik AB, Gråbo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.23138,57.82611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Varberg</name>
+        <description>Mekonomen Butik Varberg, Varberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.27825,57.12405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>J Johansson Bil AB (Charlottenberg)</name>
+        <description>J Johansson Bil AB (Charlottenberg), Charlottenberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.29619,59.88043,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Charlottenberg</name>
+        <description>Mekonomen Butik Charlottenberg, Charlottenberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.29619,59.88043,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Varbergs Bilcenter AB</name>
+        <description>Varbergs Bilcenter AB, Varberg / Träslövsläge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.29887,57.05573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bil och Fritid i Trollhättan verkstad AB</name>
+        <description>Bil och Fritid i Trollhättan verkstad AB, Trollhättan / Överby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.30924,58.31626,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Trollhättan</name>
+        <description>Mekonomen Butik Trollhättan, Trollhättan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.30924,58.31626,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ef Bil & Plåt AB</name>
+        <description>Ef Bil & Plåt AB, Veddige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.31705,57.23225,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jonassons Bilverkstad AB</name>
+        <description>Jonassons Bilverkstad AB, Vänersborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.33979,58.37672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Vänersborg</name>
+        <description>Mekonomen Butik Vänersborg, Vänersborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.33979,58.37672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HC Bil & Maskin i Varberg AB</name>
+        <description>HC Bil & Maskin i Varberg AB, Varberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.36142,57.17406,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rökila Bilservice AB</name>
+        <description>Rökila Bilservice AB, Brålanda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.37232,58.53888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Autoservice i Halland AB</name>
+        <description>Autoservice i Halland AB, Falkenberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.46216,56.90776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Falkenberg</name>
+        <description>Mekonomen Butik Falkenberg, Falkenberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.46371,56.90754,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bilmekano i Funäsdalen AB</name>
+        <description>Bilmekano i Funäsdalen AB, Funäsdalen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.51652,62.54993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SwedenMix AB</name>
+        <description>SwedenMix AB, Falkenberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.53628,56.89976,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lundins Bil & Maskin</name>
+        <description>Lundins Bil & Maskin, Sollebrunn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.5471,58.1041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jakobsson, Benno</name>
+        <description>Jakobsson, Benno, Svanskog</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.55392,59.1711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Alingsås</name>
+        <description>Mekonomen Butik Alingsås, Alingsås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.56367,57.93024,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Bilverkstad Alingsås</name>
+        <description>Mekonomen Bilverkstad Alingsås, Alingsås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.56466,57.93057,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Arvika</name>
+        <description>Mekonomen Butik Arvika, Arvika</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.59377,59.66892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>J Johansson Bil i Arvika AB</name>
+        <description>J Johansson Bil i Arvika AB, Arvika</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.61346,59.66046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Åmåls Fordonsservice AB</name>
+        <description>Åmåls Fordonsservice AB, Åmål</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.67954,59.04507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Åmål</name>
+        <description>Mekonomen Butik Åmål, Åmål</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.67954,59.04507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hultbergs Bilservice AB</name>
+        <description>Hultbergs Bilservice AB, Helsingborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.70783,56.06736,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kinntec AB</name>
+        <description>Kinntec AB, Kinna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.70801,57.51283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NA Bil Helsingborg AB</name>
+        <description>NA Bil Helsingborg AB, Helsingborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.71554,56.07183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Södra Bilverkstaden</name>
+        <description>Södra Bilverkstaden, Helsingborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.71965,56.02431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Billivet Helsingborg AB</name>
+        <description>Mekonomen Billivet Helsingborg AB, Helsingborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.74298,56.00215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Helsingborg Landskronavägen 33</name>
+        <description>Mekonomen Butik Helsingborg Landskronavägen 33, Helsingborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.7439,56.00173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Helsingborg Kanongatan 157</name>
+        <description>Mekonomen Butik Helsingborg Kanongatan 157, Helsingborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.74504,56.0908,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Folkes Bilservice</name>
+        <description>Folkes Bilservice, Helsingborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.76694,56.00707,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fritsla Tecniker AB</name>
+        <description>Fritsla Tecniker AB, Fritsla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.78877,57.55791,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Svaneholm Bil och Motor AB</name>
+        <description>Svaneholm Bil och Motor AB, Svaneholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.82405,57.62008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Halmstad</name>
+        <description>Mekonomen Butik Halmstad, Halmstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.84452,56.6697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Landskrona</name>
+        <description>Mekonomen Butik Landskrona, Landskrona</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.85035,55.88165,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bilhörnan i Landskrona AB</name>
+        <description>Bilhörnan i Landskrona AB, Landskrona</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.85146,55.86588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS Bilservice i Landskrona AB</name>
+        <description>BS Bilservice i Landskrona AB, Landskrona</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.86454,55.86868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Ängelholm</name>
+        <description>Mekonomen Butik Ängelholm, Ängelholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.8895,56.25158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Meko Service Susannes Bilverkstad i Härlöv AB (Ängelholm)</name>
+        <description>Meko Service Susannes Bilverkstad i Härlöv AB (Ängelholm), Ängelholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.88952,56.25156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bil & Kylarservice i Halmstad AB</name>
+        <description>Bil & Kylarservice i Halmstad AB, Halmstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.90271,56.67284,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Borås Nya Bilverkstad AB</name>
+        <description>Borås Nya Bilverkstad AB, Borås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.93217,57.70796,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Trönninge Bilverkstad Bröderna Karlsson HB</name>
+        <description>Trönninge Bilverkstad Bröderna Karlsson HB, Halmstad / Trönninge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.94462,56.62064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FC Bilservice AB</name>
+        <description>FC Bilservice AB, Borås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.95722,57.75053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen BilLivet Borås AB</name>
+        <description>Mekonomen BilLivet Borås AB, Borås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.9589,57.71655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Borås</name>
+        <description>Mekonomen Butik Borås, Borås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.9589,57.71655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekanera AB</name>
+        <description>Mekanera AB, Åstorp</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.96224,56.13649,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>STX Bil & Mc AB</name>
+        <description>STX Bil & Mc AB, Oskarström</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.97385,56.80456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Naimmabil AB</name>
+        <description>Naimmabil AB, Borås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.99514,57.72546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tygelsjö Däck o Bil AB</name>
+        <description>Tygelsjö Däck o Bil AB, Tygelsjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.99593,55.52478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Motorcenter Lödde AB</name>
+        <description>Motorcenter Lödde AB, Löddeköpinge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.9982,55.7714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Torsby</name>
+        <description>Mekonomen Butik Torsby, Torsby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.00465,60.13733,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Däckhuset i Laholm AB</name>
+        <description>Däckhuset i Laholm AB, Laholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.00798,56.50041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hjulhuset Malmö AB</name>
+        <description>Hjulhuset Malmö AB, Heleneholm / Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.01122,55.58188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hjulhuset i Lödde AB</name>
+        <description>Hjulhuset i Lödde AB, Löddeköpinge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.01364,55.76434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Malmö Borrgatan 1</name>
+        <description>Mekonomen Butik Malmö Borrgatan 1, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.01963,55.61554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bilverkstad Ystadvägen AB</name>
+        <description>Bilverkstad Ystadvägen AB, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.02476,55.57762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bilexperten Syd AB (Malmö)</name>
+        <description>Bilexperten Syd AB (Malmö), Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.0391,55.62055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Allbilverkstan i Malmö AB</name>
+        <description>Allbilverkstan i Malmö AB, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.04498,55.56466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Bilverkstad Moränen</name>
+        <description>Mekonomen Bilverkstad Moränen, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.04592,55.62572,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Billivet Fosie AB</name>
+        <description>Mekonomen Billivet Fosie AB, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.05292,55.56586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Malmö Hornyxegatan 12</name>
+        <description>Mekonomen Butik Malmö Hornyxegatan 12, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.05295,55.56596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fiddes Bilservice AB</name>
+        <description>Fiddes Bilservice AB, Östra Ljungby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.05889,56.18771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Bilverkstad Bulltofta</name>
+        <description>Mekonomen Bilverkstad Bulltofta, Malmö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.06009,55.6018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Torups Bilverkstad AB</name>
+        <description>Torups Bilverkstad AB, Torup</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.07287,56.95427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grums Motor AB</name>
+        <description>Grums Motor AB, Grums</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.11235,59.36179,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Autoteknik i Trelleborg AB</name>
+        <description>Autoteknik i Trelleborg AB, Trelleborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.12105,55.38577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Select Cars Syd AB</name>
+        <description>Select Cars Syd AB, Kävlinge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.12547,55.79751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Lund</name>
+        <description>Mekonomen Butik Lund, Lund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.15152,55.71521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Linero Bilservice AB</name>
+        <description>Linero Bilservice AB, Lund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.15156,55.71518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tage Svensson Bilservice AB</name>
+        <description>Tage Svensson Bilservice AB, Kvänum</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.17905,58.30369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Autocenter i Lund AB</name>
+        <description>Autocenter i Lund AB, Lund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.21831,55.68937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hjulhuset AB</name>
+        <description>Hjulhuset AB, Staffanstorp</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.23569,55.65258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Örkelljunga</name>
+        <description>Mekonomen Butik Örkelljunga, Örkelljunga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.26997,56.28815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Auto-Center i Örkelljunga AB</name>
+        <description>Auto-Center i Örkelljunga AB, Örkelljunga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.26998,56.28823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eslövs Bilproffs AB</name>
+        <description>Eslövs Bilproffs AB, Eslöv</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.3085,55.83674,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JH Fordonsservice</name>
+        <description>JH Fordonsservice, Örkelljunga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.32179,56.3745,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Bilverkstad Traktorvägen</name>
+        <description>Mekonomen Bilverkstad Traktorvägen, Eslöv</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.32933,55.83539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dennis S. bilservice AB</name>
+        <description>Dennis S. bilservice AB, Smålandsstenar</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.38337,57.15088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Smällarens Bil & Skadeverkstad</name>
+        <description>Smällarens Bil & Skadeverkstad, Perstorp</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.38981,56.13442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen BilLivet Karlstad</name>
+        <description>Mekonomen BilLivet Karlstad, Karlstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.43079,59.3814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Karlstad Blockgatan 19</name>
+        <description>Mekonomen Butik Karlstad Blockgatan 19, Karlstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.47323,59.388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBV Våxnäs AB</name>
+        <description>MBV Våxnäs AB, Karlstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.47353,59.38819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Anderssons Bil & AC service AB</name>
+        <description>Anderssons Bil & AC service AB, Götene</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.48949,58.5188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Slutarp Bil & Motor AB</name>
+        <description>Slutarp Bil & Motor AB, Falköping / Slutarp</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.52546,58.08645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HP Motor</name>
+        <description>HP Motor, Hede</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.53674,62.42146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cars I Höör AB</name>
+        <description>Cars I Höör AB, Höör</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.54581,55.92208,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Gislaved</name>
+        <description>Mekonomen Butik Gislaved, Gislaved</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.55365,57.29873,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Billivet Gislaved AB</name>
+        <description>Mekonomen Billivet Gislaved AB, Gislaved</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.55367,57.29865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen BilLivet Örsholmen</name>
+        <description>Mekonomen BilLivet Örsholmen, Karlstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.55747,59.38031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Karlstad Östanvindsgatan 3</name>
+        <description>Mekonomen Butik Karlstad Östanvindsgatan 3, Karlstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.55812,59.38013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Falköping</name>
+        <description>Mekonomen Butik Falköping, Falköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.56413,58.16156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sunnerbo Bil & Telecom AB</name>
+        <description>Sunnerbo Bil & Telecom AB, Markaryd</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.59533,56.45356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Däckshoppen Tyringe AB</name>
+        <description>Däckshoppen Tyringe AB, Tyringe</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.60337,56.16186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Häggenäs Automobile AB</name>
+        <description>Häggenäs Automobile AB, Hörby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.66551,55.86422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bosses Båt & Maskinservice AB</name>
+        <description>Bosses Båt & Maskinservice AB, Vittsjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.66992,56.33263,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stig Kristiansson Bil AB</name>
+        <description>Stig Kristiansson Bil AB, Hörby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.67397,55.85752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Hörby</name>
+        <description>Mekonomen Butik Hörby, Hörby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.67397,55.85746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bil & Däckverkstan i Strömsnäsbruk AB</name>
+        <description>Bil & Däckverkstan i Strömsnäsbruk AB, Strömsnäsbruk</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.72227,56.55991,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WK Bil & Däckservice AB</name>
+        <description>WK Bil & Däckservice AB, Gnosjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.74018,57.36027,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JN Autosport AB</name>
+        <description>JN Autosport AB, Hässleholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.74857,56.15786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JKs Bil & Motor AB</name>
+        <description>JKs Bil & Motor AB, Hässleholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.75147,56.15613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Hässleholm</name>
+        <description>Mekonomen Butik Hässleholm, Hässleholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.75147,56.15613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Mariestad</name>
+        <description>Mekonomen Butik Mariestad, Mariestad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.81664,58.6841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gärdets Servicecenter i Mariestad AB</name>
+        <description>Gärdets Servicecenter i Mariestad AB, Mariestad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.81672,58.68408,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Bilverkstad Skövde</name>
+        <description>Mekonomen Bilverkstad Skövde, Skövde</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.87728,58.39429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Skövde</name>
+        <description>Mekonomen Butik Skövde, Skövde</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.87728,58.39429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Billivet Ljungby AB</name>
+        <description>Mekonomen Billivet Ljungby AB, Ljungby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.9177,56.81519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BW Fordonsservice AB</name>
+        <description>BW Fordonsservice AB, Ljungby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.92586,56.82731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Ljungby</name>
+        <description>Mekonomen Butik Ljungby, Ljungby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.92586,56.82731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Elisköps Auto</name>
+        <description>Elisköps Auto, Älmhult</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.92843,56.52851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Öllstorps Bil & Däck AB</name>
+        <description>Öllstorps Bil & Däck AB, Vinslöv</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.93455,56.10215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HB Fredrikssons Bil & Motor</name>
+        <description>HB Fredrikssons Bil & Motor, Tidaholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.96084,58.17837,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LB Bil AB</name>
+        <description>LB Bil AB, Lagan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.97594,56.91399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bilverkstaden i Osby AB</name>
+        <description>Bilverkstaden i Osby AB, Osby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.00255,56.38602,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Osby</name>
+        <description>Mekonomen Butik Osby, Osby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.00349,56.38562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Billivet Värnamo AB</name>
+        <description>Mekonomen Billivet Värnamo AB, Värnamo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.02935,57.20578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>H. Lundqvist Bilservice AB</name>
+        <description>H. Lundqvist Bilservice AB, Värnamo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.03729,57.18973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Värnamo</name>
+        <description>Mekonomen Butik Värnamo, Värnamo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.03729,57.18973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Allbilservice i Värnamo AB</name>
+        <description>Allbilservice i Värnamo AB, Värnamo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.06104,57.18495,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bil & Maskin AB</name>
+        <description>Bil & Maskin AB, Kristianstad / Degeberga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.08279,55.82624,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kristinehamns AutoMekanik AB</name>
+        <description>Kristinehamns AutoMekanik AB, Kristinehamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.09851,59.32181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Kristinehamn</name>
+        <description>Mekonomen Butik Kristinehamn, Kristinehamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.09949,59.31581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Meko Service Susannes Bilverkstad i Härlöv AB</name>
+        <description>Meko Service Susannes Bilverkstad i Härlöv AB, Kristianstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.1169,56.02309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Kristianstad</name>
+        <description>Mekonomen Butik Kristianstad, Kristianstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.1169,56.02309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Elme Bilservice AB</name>
+        <description>Elme Bilservice AB, Älmhult</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.13188,56.53173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tibro Motor AB</name>
+        <description>Tibro Motor AB, Tibro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.13577,58.41851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Motorcentrum i Vaggeryd AB</name>
+        <description>Motorcentrum i Vaggeryd AB, Vaggeryd</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.16283,57.50833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seffel Bil AB</name>
+        <description>Seffel Bil AB, Filipstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.17153,59.71431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fordonsexperten Jönköping AB</name>
+        <description>Fordonsexperten Jönköping AB, Jönköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.17249,57.76929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tofta Bilservice AB</name>
+        <description>Tofta Bilservice AB, Kristianstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.20891,56.02674,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Jönköping</name>
+        <description>Mekonomen Butik Jönköping, Jönköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.22548,57.78038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Motortrim Bilservice AB</name>
+        <description>Motortrim Bilservice AB, Jönköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.22556,57.78094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Storfors Bil & Kaross AB</name>
+        <description>Storfors Bil & Kaross AB, Storfors</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.2758,59.54389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jönssons Servicestation i Simrishamn AB</name>
+        <description>Jönssons Servicestation i Simrishamn AB, Simrishamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.33825,55.55515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Svegs Bil & Plåt AB</name>
+        <description>Svegs Bil & Plåt AB, Sveg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.35724,62.03292,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Panheds Bil & Däckservice AB</name>
+        <description>Panheds Bil & Däckservice AB, Svenstavik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.42697,62.76824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bil & Mek i Vislanda AB</name>
+        <description>Bil & Mek i Vislanda AB, Vislanda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.43868,56.79068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RH Bilmek</name>
+        <description>RH Bilmek, Mora</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.45479,61.02346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CMF Bilservice AB</name>
+        <description>CMF Bilservice AB, Vrigstad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.471,57.34066,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tommys Bil i Bromölla AB</name>
+        <description>Tommys Bil i Bromölla AB, Bromölla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.47487,56.08262,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bergius Bilservice AB</name>
+        <description>Bergius Bilservice AB, Karlskoga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.48174,59.32846,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>V&T Bilservice AB</name>
+        <description>V&T Bilservice AB, Karlskoga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.49279,59.29921,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Karlskoga</name>
+        <description>Mekonomen Butik Karlskoga, Karlskoga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.49551,59.30067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mora Karosseri & Motorverkstad AB</name>
+        <description>Mora Karosseri & Motorverkstad AB, Mora</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.53517,61.02442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>K.W. Bilservice AB (Alvesta)</name>
+        <description>K.W. Bilservice AB (Alvesta), Alvesta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.55787,56.91017,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Mora</name>
+        <description>Mekonomen Butik Mora, Mora</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.56591,61.00927,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Karlskoga Bilteknik AB</name>
+        <description>Karlskoga Bilteknik AB, Karlskoga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.57946,59.32774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Sölvesborg</name>
+        <description>Mekonomen Butik Sölvesborg, Sölvesborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.59394,56.05912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JRS Motoreffektmätning AB</name>
+        <description>JRS Motoreffektmätning AB, Östersund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.64512,63.20793,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Firma Istaby Bilservice</name>
+        <description>Firma Istaby Bilservice, Sölvesborg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.64796,56.01622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Östersund Arenavägen 2</name>
+        <description>Mekonomen Butik Östersund Arenavägen 2, Östersund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.6512,63.18972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LTB Car AB</name>
+        <description>LTB Car AB, Östersund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.6532,63.18972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bromés Autoservice AB</name>
+        <description>Bromés Autoservice AB, Sävsjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.66362,57.38403,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Östersund Chaufförvägen 20</name>
+        <description>Mekonomen Butik Östersund Chaufförvägen 20, Östersund</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.69307,63.17307,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Nässjö</name>
+        <description>Mekonomen Butik Nässjö, Nässjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.70251,57.64741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Verkstadskompassen i Sverige AB</name>
+        <description>Verkstadskompassen i Sverige AB, Nässjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.70297,57.64933,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hunseberg Bilservice AB</name>
+        <description>Hunseberg Bilservice AB, Nässjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.73855,57.64754,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Johan Larsson Mek & Service</name>
+        <description>Johan Larsson Mek & Service, Tranås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.75797,57.95799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Billivet Växjö AB</name>
+        <description>Mekonomen Billivet Växjö AB, Växjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.76309,56.87949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Motorsport Bröderna Svensson AB</name>
+        <description>Motorsport Bröderna Svensson AB, Växjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.76325,56.88617,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Växjö</name>
+        <description>Mekonomen Butik Växjö, Växjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.76811,56.87823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Torulf Bilservice AB</name>
+        <description>Torulf Bilservice AB, Aneby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.80978,57.83681,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mobil Mec i Växjö AB</name>
+        <description>Mobil Mec i Växjö AB, Växjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.82854,56.87991,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Bilverkstad Karlshamn</name>
+        <description>Mekonomen Bilverkstad Karlshamn, Karlshamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.8742,56.18437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hederolba AB</name>
+        <description>Hederolba AB, Eksjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.95226,57.66328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tranås Bilteknik</name>
+        <description>Tranås Bilteknik, Tranås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.97606,58.03055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Tranås</name>
+        <description>Mekonomen Butik Tranås, Tranås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.9781,58.03574,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Folkavi Automobile</name>
+        <description>Folkavi Automobile, Fjugesta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.97883,59.15464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>S & S Bilservice AB</name>
+        <description>S & S Bilservice AB, Eksjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.98294,57.66639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Åkessons Bilcenter i Leksand AB</name>
+        <description>Åkessons Bilcenter i Leksand AB, Leksand</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.00509,60.73733,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Allbilservice i Motala AB</name>
+        <description>Allbilservice i Motala AB, Motala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.01319,58.53723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Motala</name>
+        <description>Mekonomen Butik Motala, Motala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.01648,58.53693,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ekenäs Bilverkstad AB</name>
+        <description>Ekenäs Bilverkstad AB, Ekenässjön</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.02322,57.49509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bergslagens Bilvård i Nora AB</name>
+        <description>Bergslagens Bilvård i Nora AB, Nora</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.03297,59.51919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Boxholms Bilverkstad AB</name>
+        <description>Boxholms Bilverkstad AB, Boxholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.05243,58.19842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Holmbergs Bilteknik AB</name>
+        <description>Holmbergs Bilteknik AB, Vetlanda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.08886,57.41391,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Vetlanda</name>
+        <description>Mekonomen Butik Vetlanda, Vetlanda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.08886,57.41391,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Johan Thorén AB</name>
+        <description>Johan Thorén AB, Hallsberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.09436,59.07585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AC & Däckcenter i Rättvik AB</name>
+        <description>AC & Däckcenter i Rättvik AB, Rättvik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.11263,60.88903,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bil & Husvagnsservice i Konga AB</name>
+        <description>Bil & Husvagnsservice i Konga AB, Tingsryd</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.12611,56.50761,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Andersson Bilcenter i Kumla AB</name>
+        <description>Andersson Bilcenter i Kumla AB, Kumla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.13269,59.12465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gustavssons L Motorverkstad AB</name>
+        <description>Gustavssons L Motorverkstad AB, Ramfall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.13683,57.94664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Mjölby</name>
+        <description>Mekonomen Butik Mjölby, Mjölby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.1371,58.32753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fordonsteknik i Mjölby AB</name>
+        <description>Fordonsteknik i Mjölby AB, Mjölby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.13938,58.3282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nettobilar Marieberg AB</name>
+        <description>Nettobilar Marieberg AB, Örebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.14744,59.23469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nettobilar Bista AB</name>
+        <description>Nettobilar Bista AB, Örebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.16617,59.26712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Bista / Örebro</name>
+        <description>Mekonomen Butik Bista / Örebro, Bista / Örebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.16617,59.26712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SMB i Örebro AB</name>
+        <description>SMB i Örebro AB, Örebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.18738,59.26636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mas Technologi i Ludvika AB</name>
+        <description>Mas Technologi i Ludvika AB, Ludvika</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.19258,60.1547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bilskadecenter i Örebro AB</name>
+        <description>Bilskadecenter i Örebro AB, Örebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.20351,59.29951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Ludvika</name>
+        <description>Mekonomen Butik Ludvika, Ludvika</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.20714,60.14977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NettoBilar Örebro AB</name>
+        <description>NettoBilar Örebro AB, Örebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.20718,59.26034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nettobilar Bettorp AB</name>
+        <description>Nettobilar Bettorp AB, Örebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.22762,59.30737,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P & D Bilreparationer AB</name>
+        <description>P & D Bilreparationer AB, Örebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.2319,59.29704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Bettorp / Örebro</name>
+        <description>Mekonomen Butik Bettorp / Örebro, Bettorp / Örebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.23228,59.29664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sörby Autocenter AB</name>
+        <description>Sörby Autocenter AB, Ronneby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.25873,56.23293,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Ronneby</name>
+        <description>Mekonomen Butik Ronneby, Ronneby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.25873,56.23293,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Peters Bil & Teknik AB</name>
+        <description>Peters Bil & Teknik AB, Lessebo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.26828,56.7447,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bil & Däckservice i Mantorp</name>
+        <description>Bil & Däckservice i Mantorp, Mantorp</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.28292,58.34737,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twins Trading AB</name>
+        <description>Twins Trading AB, Borlänge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.39798,60.47907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Borlänge</name>
+        <description>Mekonomen Butik Borlänge, Borlänge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.40689,60.47786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FT Lambohov AB</name>
+        <description>FT Lambohov AB, Linköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.54499,58.39061,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tung Service i Virserum AB</name>
+        <description>Tung Service i Virserum AB, Virserum</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.58183,57.32104,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Däckvagnen i Dalarna AB</name>
+        <description>Däckvagnen i Dalarna AB, Falun</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.5949,60.60948,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Motorbolaget i Fellingsbro AB</name>
+        <description>Motorbolaget i Fellingsbro AB, Fellingsbro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.59608,59.43094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FT Tornby AB</name>
+        <description>FT Tornby AB, Linköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.60007,58.43083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Linköping</name>
+        <description>Mekonomen Butik Linköping, Linköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.60116,58.43083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Falun</name>
+        <description>Mekonomen Butik Falun, Falun</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.60582,60.60382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Karlskrona Bilmekaniska AB</name>
+        <description>Karlskrona Bilmekaniska AB, Karlskrona</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.61009,56.19771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Karlskrona Bilcenter AB</name>
+        <description>Karlskrona Bilcenter AB, Karlskrona</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.6315,56.2021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Karlskrona</name>
+        <description>Mekonomen Butik Karlskrona, Karlskrona</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.63319,56.19892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Billivet Karlskrona AB</name>
+        <description>Mekonomen Billivet Karlskrona AB, Karlskrona</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.63329,56.2013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BilBolaget Karlskrona AB</name>
+        <description>BilBolaget Karlskrona AB, Karlskrona</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.63341,56.19873,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bilteknik Linköping</name>
+        <description>Bilteknik Linköping, Linköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.64177,58.42059,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Magnussons Bil</name>
+        <description>Magnussons Bil, Karlskrona</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.64213,56.22404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kisa Fordon AB</name>
+        <description>Kisa Fordon AB, Kisa</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.64402,58.00087,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Carz Karlskrona AB</name>
+        <description>Carz Karlskrona AB, Jämjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.66641,56.19771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mitt-Lack i Ånge AB</name>
+        <description>Mitt-Lack i Ånge AB, Ånge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.67139,62.5231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ullstämma Fordonsteknik AB</name>
+        <description>Ullstämma Fordonsteknik AB, Linköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.6912,58.3684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wikell Bil och Mek AB</name>
+        <description>Wikell Bil och Mek AB, Södra Vi</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.79849,57.73722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Broms Bilverkstad AB</name>
+        <description>Broms Bilverkstad AB, Målilla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.81495,57.38489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Finspång</name>
+        <description>Mekonomen Butik Finspång, Finspång</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.81503,58.70243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Finspångs Bilmarknad AB</name>
+        <description>Finspångs Bilmarknad AB, Finspång</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.8164,58.69996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nettobilar katrineholm AB (filial Finspång)</name>
+        <description>Nettobilar katrineholm AB (filial Finspång), Finspång</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.82031,58.70343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EPH Bil i H-fred AB</name>
+        <description>EPH Bil i H-fred AB, Hultsfred</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.83291,57.49602,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KL Motor i Vimmerby AB</name>
+        <description>KL Motor i Vimmerby AB, Vimmerby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.8431,57.66733,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Vimmerby</name>
+        <description>Mekonomen Butik Vimmerby, Vimmerby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.84364,57.66641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Åbergs Bil & Mek HB</name>
+        <description>Åbergs Bil & Mek HB, Storebro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.85065,57.582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nettobilar Vingåker AB</name>
+        <description>Nettobilar Vingåker AB, Vingåker</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.87954,59.06107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hycklinge Bensin & Service AB</name>
+        <description>Hycklinge Bensin & Service AB, Horn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.92022,57.92354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Skärblackaservice (Shell)</name>
+        <description>AB Skärblackaservice (Shell), Skärblacka</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.924,58.58221,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Billivet Nybro AB</name>
+        <description>Mekonomen Billivet Nybro AB, Nybro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.93149,56.73573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pelles Verkstad</name>
+        <description>Pelles Verkstad, Hultsfred</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.93219,57.48945,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Torsås Bilservice</name>
+        <description>Torsås Bilservice, Torsås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.98837,56.41673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Åtvidabergs Bilreparationer AB</name>
+        <description>Åtvidabergs Bilreparationer AB, Åtvidaberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.98895,58.20985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen BilLivet Hedemora AB</name>
+        <description>Mekonomen BilLivet Hedemora AB, Hedemora</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.99266,60.28548,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sundins Bilservice AB</name>
+        <description>Sundins Bilservice AB, Ljusdal</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.11478,61.82426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Ljusdal</name>
+        <description>Mekonomen Butik Ljusdal, Ljusdal</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.11695,61.82195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DJ´s Bil & Plåtreparationer AB</name>
+        <description>DJ´s Bil & Plåtreparationer AB, Norrköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.16087,58.60361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Norrköping Stockholmsvägen 50</name>
+        <description>Mekonomen Butik Norrköping Stockholmsvägen 50, Norrköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.1684,58.60005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Belins Service i Avesta AB</name>
+        <description>Belins Service i Avesta AB, Avesta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.19539,60.14082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Avesta</name>
+        <description>Mekonomen Butik Avesta, Avesta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.19539,60.14082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stego Bilservice</name>
+        <description>Stego Bilservice, Kristdala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.20912,57.39641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bilteknik i Söderköping AB (filial Nkpg)</name>
+        <description>Bilteknik i Söderköping AB (filial Nkpg), Norrköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.22239,58.5811,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Norrköping Smedbygatan 3</name>
+        <description>Mekonomen Butik Norrköping Smedbygatan 3, Norrköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.22449,58.5812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nettobilar Katrineholm AB</name>
+        <description>Nettobilar Katrineholm AB, Katrineholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.2302,59.0044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Katrineholm</name>
+        <description>Mekonomen Butik Katrineholm, Katrineholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.23034,59.00432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Holmax bilverkstad AB</name>
+        <description>Holmax bilverkstad AB, Hallstahammar</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.2529,59.60338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Autocenter i Kalmar AB (Södra)</name>
+        <description>Autocenter i Kalmar AB (Södra), Kalmar</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.30648,56.66979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AM Fordonsteknik AB</name>
+        <description>AM Fordonsteknik AB, Söderköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.3251,58.47766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Kalmar</name>
+        <description>Mekonomen Butik Kalmar, Kalmar</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.328,56.69409,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Autocenter i Kalmar AB</name>
+        <description>Autocenter i Kalmar AB, Kalmar</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.32834,56.69506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hammarstrands Bil & Däckservice AB</name>
+        <description>Hammarstrands Bil & Däckservice AB, Hammarstrand</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.35748,63.10466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bilverkstaden i Krokek AB</name>
+        <description>Bilverkstaden i Krokek AB, Kolmården</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.36287,58.67136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bilservice Norell AB (Centrum)</name>
+        <description>Bilservice Norell AB (Centrum), Bollnäs</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.39748,61.35514,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bilservice Norell AB (Renshammarvägen)</name>
+        <description>Bilservice Norell AB (Renshammarvägen), Bollnäs</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.42428,61.35613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Bollnäs</name>
+        <description>Mekonomen Butik Bollnäs, Bollnäs</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.42428,61.35613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Motorstyrkan Oskarshamn AB</name>
+        <description>Motorstyrkan Oskarshamn AB, Oskarshamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.43394,57.24932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Södra Infartens Bilservice AB</name>
+        <description>Södra Infartens Bilservice AB, Mönsterås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.43524,57.0353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bilkompani Sydost AB</name>
+        <description>Bilkompani Sydost AB, Oskarshamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.44144,57.25112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Oskarshamn</name>
+        <description>Mekonomen Butik Oskarshamn, Oskarshamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.44701,57.26228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Piston Motors Viskan AB</name>
+        <description>Piston Motors Viskan AB, Stöde</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.46374,62.4394,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nettobilar Eskilstuna AB</name>
+        <description>Nettobilar Eskilstuna AB, Eskilstuna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.4666,59.37283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ramsele Rep & Mek AB</name>
+        <description>Ramsele Rep & Mek AB, Ramsele</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.46755,63.54126,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Eskilstuna</name>
+        <description>Mekonomen Butik Eskilstuna, Eskilstuna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.4686,59.37283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Perssons Bilelektriska AB</name>
+        <description>Perssons Bilelektriska AB, Västerås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.49538,59.59875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Algutsrums Bil- och Däckservice AB</name>
+        <description>Algutsrums Bil- och Däckservice AB, Färjestaden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.52618,56.68342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Damms Bilservice AB</name>
+        <description>Damms Bilservice AB, Västerås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.55764,59.64167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Västerås Friledningsgatan 9</name>
+        <description>Mekonomen Butik Västerås Friledningsgatan 9, Västerås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.55854,59.64177,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bil & Motor Västerås AB</name>
+        <description>Bil & Motor Västerås AB, Västerås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.56232,59.63812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Valdemarsviks Verkstadsbolag AB</name>
+        <description>Valdemarsviks Verkstadsbolag AB, Valdemarsvik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.58503,58.21223,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Valdemarsvik</name>
+        <description>Mekonomen Butik Valdemarsvik, Valdemarsvik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.58503,58.21117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bilcenter Flen AB</name>
+        <description>Bilcenter Flen AB, Flen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.5977,59.05057,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Västerviks Bil</name>
+        <description>AB Västerviks Bil, Västervik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.6093,57.76158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Västervik</name>
+        <description>Mekonomen Butik Västervik, Västervik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.6093,57.76158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fordonsspecialisten i Västerås AB</name>
+        <description>Fordonsspecialisten i Västerås AB, Västerås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.61219,59.61369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Västerås Fältmätargatan 20</name>
+        <description>Mekonomen Butik Västerås Fältmätargatan 20, Västerås</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.61219,59.61369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Sala</name>
+        <description>Mekonomen Butik Sala, Sala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.61648,59.9181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sala Bilservice AB</name>
+        <description>Sala Bilservice AB, Sala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.62552,59.91872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>D Lindbergs Verkstad AB</name>
+        <description>D Lindbergs Verkstad AB, Vilhelmina</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.68091,64.61621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bil Ess I Ockelbo AB</name>
+        <description>Bil Ess I Ockelbo AB, Ockelbo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.7169,60.88933,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kenneth Larsson Bil AB</name>
+        <description>Kenneth Larsson Bil AB, Sandviken</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.74926,60.62273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Askö Allservice</name>
+        <description>Askö Allservice, Loftahammar</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.75899,57.98771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Sandviken</name>
+        <description>Mekonomen Butik Sandviken, Sandviken</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.78071,60.62325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gästrike Lack AB</name>
+        <description>Gästrike Lack AB, Sandviken</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.81967,60.62762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bil o Mek Janne Lundqvist KB</name>
+        <description>Bil o Mek Janne Lundqvist KB, Söderhamn / Söderala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.8437,61.2863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Svensk Autoteknik AB</name>
+        <description>Svensk Autoteknik AB, Nyköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.98757,58.75013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Nyköping</name>
+        <description>Mekonomen Butik Nyköping, Nyköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.99255,58.75206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bengts Däckservice AB</name>
+        <description>Bengts Däckservice AB, Hedesunda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.99784,60.39675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Högby Bil & Mekaniska Verkstad AB</name>
+        <description>Högby Bil & Mekaniska Verkstad AB, Löttorp</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.0179,57.1637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Strängnäs</name>
+        <description>Mekonomen Butik Strängnäs, Strängnäs</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.02965,59.3504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Strängnäs Mekocenter AB</name>
+        <description>Strängnäs Mekocenter AB, Strängnäs</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.03004,59.35083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Strängnäs Autoservice AB</name>
+        <description>Strängnäs Autoservice AB, Strängnäs</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.0318,59.3578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tappers Bilservice AB</name>
+        <description>Tappers Bilservice AB, Söderhamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.04104,61.30506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Söderhamn</name>
+        <description>Mekonomen Butik Söderhamn, Söderhamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.04184,61.30409,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mbv marin Enköping AB</name>
+        <description>Mbv marin Enköping AB, Enköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.08496,59.64984,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Enköping</name>
+        <description>Mekonomen Butik Enköping, Enköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.08733,59.64916,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Visvall Bilteknik AB</name>
+        <description>Visvall Bilteknik AB, Hudiksvall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.0897,61.71406,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Hudiksvall</name>
+        <description>Mekonomen Butik Hudiksvall, Hudiksvall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.09078,61.73502,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Diesel & El i Nyköping AB</name>
+        <description>Diesel & El i Nyköping AB, Nyköping</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.11546,58.83803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brännlunds Motor AB</name>
+        <description>Brännlunds Motor AB, Gävle</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.15318,60.68432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen BilLivet Gävle AB</name>
+        <description>Mekonomen BilLivet Gävle AB, Gävle</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.16664,60.65698,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Gävle</name>
+        <description>Mekonomen Butik Gävle, Gävle</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.16664,60.65698,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R. Dahlboms Bil AB</name>
+        <description>R. Dahlboms Bil AB, Gävle</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.19867,60.67217,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Femek Fordonstjänst AB</name>
+        <description>Femek Fordonstjänst AB, Sollefteå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.23026,63.17747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Sollefteå</name>
+        <description>Mekonomen Butik Sollefteå, Sollefteå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.2593,63.1613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Erikssons Tekniska Fordonsservice AB</name>
+        <description>Erikssons Tekniska Fordonsservice AB, Sollefteå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.26336,63.17596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bilteknik i Birsta AB</name>
+        <description>Bilteknik i Birsta AB, Sundsvall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.32877,62.4416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Sundsvall</name>
+        <description>Mekonomen Butik Sundsvall, Sundsvall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.32879,62.44176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gnesta Bilvård AB</name>
+        <description>Gnesta Bilvård AB, Gnesta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.32969,59.03974,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Haga Bilteknik AB</name>
+        <description>Haga Bilteknik AB, Sundsvall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.33414,62.40864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Speed & Mek i Bydalen AB</name>
+        <description>Speed & Mek i Bydalen AB, Sundsvall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.34209,62.41654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Motorproffs i Sundsvall AB</name>
+        <description>Motorproffs i Sundsvall AB, Sundsvall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.34951,62.41518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Njurundaservice AB</name>
+        <description>Njurundaservice AB, Njurunda</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.38857,62.26892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TTN Bil & Maskinverkstäder AB</name>
+        <description>TTN Bil & Maskinverkstäder AB, Nykvarn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.44177,59.17666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TJ Carservice Bålsta AB</name>
+        <description>TJ Carservice Bålsta AB, Bålsta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.51705,59.57436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Trosa Bilverkstad AB</name>
+        <description>Trosa Bilverkstad AB, Trosa</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.55186,58.90463,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Helins Bilcentrum AB</name>
+        <description>Helins Bilcentrum AB, Bålsta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.55319,59.56185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Järna Bilcentrum AB</name>
+        <description>Järna Bilcentrum AB, Järna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.55806,59.09412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen BilLivet Södertälje AB</name>
+        <description>Mekonomen BilLivet Södertälje AB, Södertälje</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.61121,59.20367,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Södertälje</name>
+        <description>Mekonomen Butik Södertälje, Södertälje</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.61121,59.20367,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TJ Carservice Bro AB</name>
+        <description>TJ Carservice Bro AB, Bro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.64031,59.51429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Servicegaraget i Södertälje AB</name>
+        <description>Servicegaraget i Södertälje AB, Södertälje</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.64179,59.20692,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aves Bilverkstad AB</name>
+        <description>Aves Bilverkstad AB, Uppsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.66623,59.8487,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Björklin Motor AB</name>
+        <description>Björklin Motor AB, Uppsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.66929,59.94376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Danmarksgatans Bilservice AB</name>
+        <description>Danmarksgatans Bilservice AB, Uppsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.67232,59.85042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Uppsala Rapsgatan 1E</name>
+        <description>Mekonomen Butik Uppsala Rapsgatan 1E, Uppsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.69342,59.84453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bilcentrum Fältman AB</name>
+        <description>Bilcentrum Fältman AB, Uppsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.69373,59.85238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KJ Motor AB</name>
+        <description>KJ Motor AB, Uppsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.72151,59.84704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Uppsala Kastgatan 3</name>
+        <description>Mekonomen Butik Uppsala Kastgatan 3, Uppsala</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.72151,59.84704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thanger & Karlsson Bilservice AB</name>
+        <description>Thanger & Karlsson Bilservice AB, Kungsängen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.7264,59.4783,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Brunna / Kungsängen</name>
+        <description>Mekonomen Butik Brunna / Kungsängen, Brunna / Kungsängen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.74207,59.50194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mek Bilteknik Upplands-Bro AB</name>
+        <description>Mek Bilteknik Upplands-Bro AB, Kungsängen / Brunna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.74548,59.50149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Salem Autocenter AB</name>
+        <description>Salem Autocenter AB, Rönninge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.75956,59.20109,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bolanders Bilservice AB</name>
+        <description>Bolanders Bilservice AB, Kramfors</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.77123,62.93443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bilyaa Sigtuna AB</name>
+        <description>Bilyaa Sigtuna AB, Märsta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.78075,59.62458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bröderna Häggkvist Bil AB</name>
+        <description>Bröderna Häggkvist Bil AB, Kramfors</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.783,62.92088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Kramfors</name>
+        <description>Mekonomen Butik Kramfors, Kramfors</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.78381,62.91976,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Glow Car i Stäket</name>
+        <description>Glow Car i Stäket, Järfälla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.81511,59.46513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>E.I Bilservice AB</name>
+        <description>E.I Bilservice AB, Järfälla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.81949,59.47692,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vård av bil Tumba AB</name>
+        <description>Vård av bil Tumba AB, Tumba / Bovallen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.82036,59.1697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Joakim Eriksson Bil AB</name>
+        <description>Joakim Eriksson Bil AB, Tumba</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.82851,59.19372,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ekerö Fordonsteknik AB</name>
+        <description>Ekerö Fordonsteknik AB, Ekerö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.82857,59.28602,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kallhäll Bilservice AB</name>
+        <description>Kallhäll Bilservice AB, Järfälla / Kallhäll</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.83094,59.4504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mek Bilteknik Järfälla AB</name>
+        <description>Mek Bilteknik Järfälla AB, Järfälla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.83881,59.41017,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Järfälla</name>
+        <description>Mekonomen Butik Järfälla, Järfälla</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.83995,59.40895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GT Sport & Parts AB</name>
+        <description>GT Sport & Parts AB, Slagsta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.85764,59.25401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vinsta Bilservice AB</name>
+        <description>Vinsta Bilservice AB, Vällingby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.85924,59.37529,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Promeister Verkstad (Vårby)</name>
+        <description>Promeister Verkstad (Vårby), Vårby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.87506,59.25316,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Vårby</name>
+        <description>Mekonomen Butik Vårby, Vårby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.87729,59.25339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ACG Bilservice AB</name>
+        <description>ACG Bilservice AB, Märsta / Arlandastad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.87735,59.61418,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Märsta</name>
+        <description>Mekonomen Butik Märsta, Märsta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.87735,59.61418,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Österbybruk Bil AB</name>
+        <description>Österbybruk Bil AB, Österbybruk</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.87845,60.19787,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bilyaa Märsta AB</name>
+        <description>Bilyaa Märsta AB, Märsta / Arlandastad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.87917,59.61427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bromma Bilanalys & Bilverkstad AB</name>
+        <description>Bromma Bilanalys & Bilverkstad AB, Bromma</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.89338,59.34615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skärholmens Bilvård AB</name>
+        <description>Skärholmens Bilvård AB, Skärholmen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.90769,59.27294,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Härnösand</name>
+        <description>Mekonomen Butik Härnösand, Härnösand</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.91261,62.64012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen BilLivet Härnösand AB</name>
+        <description>Mekonomen BilLivet Härnösand AB, Härnösand</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.91329,62.64054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen BilLivet Infra City AB</name>
+        <description>Mekonomen BilLivet Infra City AB, Upplands Väsby / Infra City</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.92317,59.49781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Upplands Väsby / Infra City</name>
+        <description>Mekonomen Butik Upplands Väsby / Infra City, Upplands Väsby / Infra City</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.92317,59.49781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sätra Bil & Motor AB</name>
+        <description>Sätra Bil & Motor AB, Skärholmen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.92926,59.28538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bilyaa Häggvik AB</name>
+        <description>Bilyaa Häggvik AB, Sollentuna / Häggvik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.93149,59.43604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Häggvik / Sollentuna</name>
+        <description>Mekonomen Butik Häggvik / Sollentuna, Häggvik / Sollentuna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.93349,59.43604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Nynäshamn</name>
+        <description>Mekonomen Butik Nynäshamn, Nynäshamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.93822,58.9187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stavboms Motor AB</name>
+        <description>Stavboms Motor AB, Nynäshamn</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.93825,58.91871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centrumverkstäder Kista AB</name>
+        <description>Centrumverkstäder Kista AB, Kista</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.94675,59.40338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sollentuna Bil och Motor SBM AB</name>
+        <description>Sollentuna Bil och Motor SBM AB, Sollentuna / Edsberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.95482,59.44654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bilyaa Kista AB</name>
+        <description>Bilyaa Kista AB, Kista</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.95893,59.40623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen BilLivet Bromma AB</name>
+        <description>Mekonomen BilLivet Bromma AB, Bromma</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.96009,59.35024,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Autoservice Huddinge AB</name>
+        <description>Autoservice Huddinge AB, Huddinge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.96236,59.22193,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sumpan Bilverkstad AB</name>
+        <description>Sumpan Bilverkstad AB, Sundbyberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.96544,59.36472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ulvsunda Motor AB</name>
+        <description>Ulvsunda Motor AB, Bromma</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.97672,59.34065,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Solna</name>
+        <description>Mekonomen Butik Solna, Solna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.9829,59.35041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBV Huddinge AB</name>
+        <description>MBV Huddinge AB, Huddinge Centrum</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.99504,59.22942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PD Fordonsteknik AB</name>
+        <description>PD Fordonsteknik AB, Solna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.00265,59.35245,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Älvsjö</name>
+        <description>Mekonomen Butik Älvsjö, Älvsjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.00623,59.2688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Västberga Plåt och Lack AB</name>
+        <description>Västberga Plåt och Lack AB, Hägersten</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.00891,59.29421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bilprecision i Stockholm AB</name>
+        <description>Bilprecision i Stockholm AB, Stockholm / Fridhemsplan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.02925,59.33185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Danderyds Motor AB</name>
+        <description>Danderyds Motor AB, Danderyd</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.03326,59.41162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>VR Motor Stockholm AB</name>
+        <description>VR Motor Stockholm AB, Bandhagen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.03414,59.26055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vasa Bilservice AB</name>
+        <description>Vasa Bilservice AB, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.03801,59.34061,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Stockholm</name>
+        <description>Mekonomen Butik Stockholm, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.04474,59.3445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GH motor Norrtull AB</name>
+        <description>GH motor Norrtull AB, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.04602,59.34989,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nestor Moraitis Bil AB</name>
+        <description>Nestor Moraitis Bil AB, Vallentuna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.04698,59.54594,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kyrkbyns Autocenter AB</name>
+        <description>Kyrkbyns Autocenter AB, Täby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.05633,59.48501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tule Buss & Bilverkstad Emf AB</name>
+        <description>Tule Buss & Bilverkstad Emf AB, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.05746,59.34694,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen BilLivet Täby AB</name>
+        <description>Mekonomen BilLivet Täby AB, Täby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.05805,59.43812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Täby</name>
+        <description>Mekonomen Butik Täby, Täby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.05805,59.43812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din Cityservice Östermalm AB</name>
+        <description>Din Cityservice Östermalm AB, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.06059,59.34724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronegård & Otterhem Bil AB</name>
+        <description>Kronegård & Otterhem Bil AB, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.06666,59.34749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBV Mitt på Söder AB</name>
+        <description>MBV Mitt på Söder AB, Stockholm / Södermalm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.06933,59.313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Täby Car Clinic AB</name>
+        <description>Täby Car Clinic AB, Täby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.07746,59.43502,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Johanneshov / Globen</name>
+        <description>Mekonomen Butik Johanneshov / Globen, Johanneshov / Globen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.08184,59.28797,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen BilLivet Johanneshov AB</name>
+        <description>Mekonomen BilLivet Johanneshov AB, Stockholm / Johanneshov</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.08393,59.28863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avgassystemet i Stockholm AB</name>
+        <description>Avgassystemet i Stockholm AB, Vallentuna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.09106,59.51556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JK Bilverkstad AB</name>
+        <description>JK Bilverkstad AB, Täby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.09195,59.43018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Autoservice BSB AB</name>
+        <description>Autoservice BSB AB, Stockholm</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.10092,59.33588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skarpnäck car center AB</name>
+        <description>Skarpnäck car center AB, Skarpnäck</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.12413,59.26585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mek Bilskadecenter Upplands-Bro AB</name>
+        <description>Mek Bilskadecenter Upplands-Bro AB, Kungsängen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.12539,68.430082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parant Bil & Motor AB</name>
+        <description>Parant Bil & Motor AB, Täby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.12742,59.46295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Berglunds Bil</name>
+        <description>Berglunds Bil, Haninge / Handen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.15544,59.16871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RSKF Bilservice AB</name>
+        <description>RSKF Bilservice AB, Haninge / Handen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.15544,59.16803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Handen Bilservice AB</name>
+        <description>Handen Bilservice AB, Handen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.15683,59.16858,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stavboms Service Albyberg Företagscenter</name>
+        <description>Stavboms Service Albyberg Företagscenter, Österhaninge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.15824,59.15053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stavboms Service AB</name>
+        <description>Stavboms Service AB, Haninge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.16047,59.17576,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Handen</name>
+        <description>Mekonomen Butik Handen, Handen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.16047,59.17576,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Springnose group AB</name>
+        <description>Springnose group AB, Lidingö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.17194,59.35735,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nacka Service Center AB</name>
+        <description>Nacka Service Center AB, Nacka</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.18147,59.30847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ankebo Transport AB</name>
+        <description>Ankebo Transport AB, Tyresö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.19246,59.2387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tyresö Bilteknik AB</name>
+        <description>Tyresö Bilteknik AB, Tyresö / Trollbäcken</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.21815,59.22726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Swea Autoservice AB</name>
+        <description>Swea Autoservice AB, Tyresö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.21909,59.2444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MT Ambulans AB</name>
+        <description>MT Ambulans AB, Saltsjö Boo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.24559,59.3386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wedins Bilservice i Ullånger AB</name>
+        <description>Wedins Bilservice i Ullånger AB, Ullånger</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.2712,63.0096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stenkumla Bil AB</name>
+        <description>Stenkumla Bil AB, Visby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.27759,57.53588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Svn Motorservice AB</name>
+        <description>Svn Motorservice AB, Åkersberga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.27886,59.47994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Åkersberga</name>
+        <description>Mekonomen Butik Åkersberga, Åkersberga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.28426,59.47892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen BilLivet Åkersberga AB</name>
+        <description>Mekonomen BilLivet Åkersberga AB, Åkersberga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.30366,59.47782,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Visby</name>
+        <description>Mekonomen Butik Visby, Visby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.30564,57.63596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Abradix AB</name>
+        <description>Abradix AB, Visby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.31548,57.62501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bilhuset På Gotland AB</name>
+        <description>Bilhuset På Gotland AB, Visby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.32541,57.63532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Österby Bil & Maskinverkstad AB</name>
+        <description>Österby Bil & Maskinverkstad AB, Visby</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.3516,57.6353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Anders Bilmek i Rimbo AB</name>
+        <description>Anders Bilmek i Rimbo AB, Rimbo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.37227,59.74277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bilmäklarna Sverige AB</name>
+        <description>Bilmäklarna Sverige AB, Hemse</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.37452,57.23794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Värmdö / Gustavsberg</name>
+        <description>Mekonomen Butik Värmdö / Gustavsberg, Värmdö / Gustavsberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.42163,59.31297,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Värmdö Bilteknik AB</name>
+        <description>Värmdö Bilteknik AB, Värmdö / Gustavsberg</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.42181,59.31305,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemmesta Motor & Bilteknik AB</name>
+        <description>Hemmesta Motor & Bilteknik AB, Värmdö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.48709,59.32354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Autoservice i Hallstavik AB</name>
+        <description>Autoservice i Hallstavik AB, Hallstavik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.55647,60.04102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sättra Bil & Plåt AB</name>
+        <description>Sättra Bil & Plåt AB, Hallstavik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.58821,60.04937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Perssons Autoservice AB</name>
+        <description>Perssons Autoservice AB, Norrtälje</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.68107,59.77002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dan Byströms Bilservice</name>
+        <description>Dan Byströms Bilservice, Örnsköldsvik / Domsjö</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.68663,63.26423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Norrtälje</name>
+        <description>Mekonomen Butik Norrtälje, Norrtälje</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.69062,59.76325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Lycksele</name>
+        <description>Mekonomen Butik Lycksele, Lycksele</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.69281,64.59138,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Autoblå AB</name>
+        <description>Autoblå AB, Lycksele</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.69517,64.58662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordin Bilverkstad AB</name>
+        <description>Nordin Bilverkstad AB, Örnsköldsvik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.72036,63.2882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Örnsköldsvik</name>
+        <description>Mekonomen Butik Örnsköldsvik, Örnsköldsvik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.72036,63.2882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HG:s Bilservice AB</name>
+        <description>HG:s Bilservice AB, Örnsköldsvik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.72352,63.29981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Motorhuset Gotland AB</name>
+        <description>Motorhuset Gotland AB, Slite</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.80211,57.70454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Roslagsbro Bil & Smide AB</name>
+        <description>Roslagsbro Bil & Smide AB, Norrtälje / Roslagsbro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.82613,59.86893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vännäs Skadecenter AB</name>
+        <description>Vännäs Skadecenter AB, Vännäs</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.75048,63.91278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bilverkstaden på Backen-Grubbe-Kronoparken- Umedalen AB</name>
+        <description>Bilverkstaden på Backen-Grubbe-Kronoparken- Umedalen AB, Umeå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.19748,63.83975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Bilverkstad Västerslätt</name>
+        <description>Mekonomen Bilverkstad Västerslätt, Umeå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.23126,63.83986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AB Supertegs Bilservice</name>
+        <description>AB Supertegs Bilservice, Umeå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.24749,63.81778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bilverkstaden På Teg AB (Östteg)</name>
+        <description>Bilverkstaden På Teg AB (Östteg), Umeå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.26315,63.8058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Kiruna</name>
+        <description>Mekonomen Butik Kiruna, Kiruna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.27866,67.84781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Umeå</name>
+        <description>Mekonomen Butik Umeå, Umeå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.30815,63.85093,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Umeå Bilverkstad AB</name>
+        <description>Umeå Bilverkstad AB, Umeå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.31049,63.85044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Billivet Kiruna AB</name>
+        <description>Mekonomen Billivet Kiruna AB, Kiruna</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.34362,67.83851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Skellefteå</name>
+        <description>Mekonomen Butik Skellefteå, Skellefteå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.97539,64.72964,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen BilLivet Skellefteå AB</name>
+        <description>Mekonomen BilLivet Skellefteå AB, Skellefteå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            20.97584,64.72962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bil- och Maskinreparatören i Piteå AB</name>
+        <description>Bil- och Maskinreparatören i Piteå AB, Piteå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.44628,65.32227,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bilkompaniet Sigoro AB Piteå</name>
+        <description>Bilkompaniet Sigoro AB Piteå, Piteå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.44698,65.32451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Piteå</name>
+        <description>Mekonomen Butik Piteå, Piteå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.44738,65.32289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bilkompaniet Sigoro Boden AB</name>
+        <description>Bilkompaniet Sigoro Boden AB, Boden</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            21.71624,65.80688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Automobilservice i Norr AB</name>
+        <description>Automobilservice i Norr AB, Luleå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.12308,65.6072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mekonomen Butik Luleå</name>
+        <description>Mekonomen Butik Luleå, Luleå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.12508,65.6072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rondellens Bil i Luleå AB</name>
+        <description>Rondellens Bil i Luleå AB, Luleå</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            22.1892,65.58017,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bilkompaniet Sigoro Kalix AB</name>
+        <description>Bilkompaniet Sigoro Kalix AB, Kalix</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            23.12118,65.85,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
