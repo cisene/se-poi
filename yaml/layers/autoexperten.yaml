@@ -1,0 +1,325 @@
+meta:
+  name: Autoexperten
+  web: https://www.autoexperten.se/
+  wikipedia: https://sv.wikipedia.org/wiki/Autoexperten
+  category: Biltillbehörskedjor
+  locations: 0
+
+locations:
+- location: Autoexperten Göteborg
+  city: Göteborg
+  urn: urn:autoexperten:location:id:472
+  latitude: 57.706532
+  longitude: 11.8827872
+
+- location: Autoexperten i  Malmö
+  city: Malmö
+  urn: urn:autoexperten:location:id:488
+  latitude: 55.624092
+  longitude: 13.0599795
+
+- location: Autoexperten i Boden
+  city: Boden
+  urn: urn:autoexperten:location:id:460
+  latitude: 65.8186028
+  longitude: 21.7077919
+
+- location: Autoexperten i Borås
+  city: Borås
+  urn: urn:autoexperten:location:id:462
+  latitude: 57.7147016
+  longitude: 12.9468068
+
+- location: Autoexperten i Borlänge
+  city:  Borlänge
+  urn: urn:autoexperten:location:id:461
+  latitude: 60.475866
+  longitude: 15.433844
+
+- location: Autoexperten i Bromma
+  city:  Bromma
+  urn: urn:autoexperten:location:id:463
+  latitude: 59.349478
+  longitude: 17.958787
+
+- location: Autoexperten i Edsbyn
+  city:  Edsbyn
+  urn: urn:autoexperten:location:id:464
+  latitude: 61.383995
+  longitude: 15.807086
+
+- location: Autoexperten i Enköping
+  city:  Enköping
+  urn: urn:autoexperten:location:id:465
+  latitude: 59.65089
+  longitude: 17.085767
+
+- location: Autoexperten i Eskilstuna
+  city: Eskilstuna
+  urn: urn:autoexperten:location:id:466
+  latitude: 59.3848259
+  longitude: 16.4897356
+
+- location: Autoexperten i Gällivare
+  city: Gällivare
+  urn: urn:autoexperten:location:id:468
+  latitude: 67.150895
+  longitude: 20.652215
+
+- location: Autoexperten i Gävle
+  city: Gävle
+  urn: urn:autoexperten:location:id:469
+  latitude: 60.653235
+  longitude: 17.176959
+
+- location: Autoexperten i Halmstad
+  city: Halmstad
+  urn: urn:autoexperten:location:id:470
+  latitude: 56.656864
+  longitude: 12.895672
+
+- location: Autoexperten i Helsingborg
+  city: Helsingborg
+  urn: urn:autoexperten:location:id:471
+  latitude: 56.07399
+  longitude: 12.716338
+
+- location: Autoexperten i Hudiksvall
+  city: Hudiksvall
+  urn: urn:autoexperten:location:id:474
+  latitude: 61.739413
+  longitude: 17.089041
+
+- location: Autoexperten i Jönköping
+  city: Jönköping
+  urn: urn:autoexperten:location:id:476
+  latitude: 57.763865
+  longitude: 14.166062
+
+- location: Autoexperten i Kalmar
+  city:  Kalmar
+  urn: urn:autoexperten:location:id:477
+  latitude: 56.692264
+  longitude: 16.323465
+
+- location: Autoexperten i Karlskoga
+  city: Karlskoga
+  urn: urn:autoexperten:location:id:478
+  latitude: 59.301437
+  longitude: 14.497562
+
+- location: Autoexperten i Karlskrona
+  city:  Karlskrona
+  urn: urn:autoexperten:location:id:479
+  latitude: 56.200846
+  longitude: 15.633396
+
+- location: Autoexperten i Karlstad
+  city: Karlstad
+  urn: urn:autoexperten:location:id:480
+  latitude: 59.3739494
+  longitude: 13.5602334
+
+- location: Autoexperten i Kiruna
+  city: Kiruna
+  urn: urn:autoexperten:location:id:481
+  latitude: 67.846382
+  longitude: 20.262561
+
+- location: Autoexperten i Kristianstad
+  city:  Kristianstad
+  urn: urn:autoexperten:location:id:482
+  latitude: 56.026945
+  longitude: 14.176119
+
+- location: Autoexperten i Lidköping
+  city:  Lidköping
+  urn: urn:autoexperten:location:id:484
+  latitude: 58.499164
+  longitude: 13.184508
+
+- location: Autoexperten i Linköping
+  city: Linköping
+  urn: urn:autoexperten:location:id:485
+  latitude: 58.421095
+  longitude: 15.609785
+
+- location: Autoexperten i Luleå
+  city:  Luleå
+  urn: urn:autoexperten:location:id:486
+  latitude: 65.598754
+  longitude: 22.142455
+
+- location: Autoexperten i Lund
+  city: Lund
+  urn: urn:autoexperten:location:id:487
+  latitude: 55.721302
+  longitude: 13.151453
+
+- location: Autoexperten i Märsta
+  city: Arlandastad
+  urn: urn:autoexperten:location:id:492
+  latitude: 59.620759
+  longitude: 17.874463
+
+- location: Autoexperten i Mora
+  city: Mora
+  urn: urn:autoexperten:location:id:489
+  latitude: 61.0212136
+  longitude: 14.5914667
+
+- location: Autoexperten i Motala
+  city: Motala
+  urn: urn:autoexperten:location:id:490
+  latitude: 58.5534024
+  longitude: 15.0405345
+
+- location: Autoexperten i Munkedal
+  city:  Munkedal
+  urn: urn:autoexperten:location:id:491
+  latitude: 58.47618
+  longitude: 11.659456
+
+- location: Autoexperten i Nyköping
+  city: Nyköping
+  urn: urn:autoexperten:location:id:496
+  latitude: 58.744175
+  longitude: 17.007047
+
+- location: Autoexperten i Örebro
+  city:  Örebro
+  urn: urn:autoexperten:location:id:519
+  latitude: 59.2901404
+  longitude: 15.2048861
+
+- location: Autoexperten i Örnsköldsvik
+  city:  Örnsköldsvik
+  urn: urn:autoexperten:location:id:520
+  latitude: 63.304786
+  longitude: 18.746906
+
+- location: Autoexperten i Östersund
+  city: Östersund
+  urn: urn:autoexperten:location:id:521
+  latitude: 63.172838
+  longitude: 14.694261
+
+- location: Autoexperten i Pajala
+  city: Pajala
+  urn: urn:autoexperten:location:id:497
+  latitude: 67.2028291
+  longitude: 23.3511077
+
+- location: Autoexperten I Perstorp
+  city: Perstorp
+  urn: urn:autoexperten:location:id:498
+  latitude: 56.1427198
+  longitude: 13.4001983
+
+- location: Autoexperten i Piteå
+  city: Piteå
+  urn: urn:autoexperten:location:id:499
+  latitude: 65.3217071
+  longitude: 21.444835
+
+- location: Autoexperten i Skellefteå
+  city:  Skellefteå
+  urn: urn:autoexperten:location:id:500
+  latitude: 64.732997
+  longitude: 20.96459
+
+- location: Autoexperten i Södertälje
+  city:  Södertälje
+  urn: urn:autoexperten:location:id:506
+  latitude: 59.2070863
+  longitude: 17.6631089
+
+- location: Autoexperten i Strängnäs
+  city:  Strängnäs
+  urn: urn:autoexperten:location:id:502
+  latitude: 59.352247
+  longitude: 17.030939
+
+- location: Autoexperten i Sundsvall
+  city: Sundsvall
+  urn: urn:autoexperten:location:id:504
+  latitude: 62.3922375
+  longitude: 17.2623807
+
+- location: Autoexperten i Täby
+  city: Täby
+  urn: urn:autoexperten:location:id:507
+  latitude: 59.4387766
+  longitude: 18.0488782
+
+- location: Autoexperten i Uddevalla
+  city: Uddevalla
+  urn: urn:autoexperten:location:id:508
+  latitude: 58.355158
+  longitude: 11.984977
+
+- location: Autoexperten i Umeå
+  city:  Umeå
+  urn: urn:autoexperten:location:id:509
+  latitude: 63.848007
+  longitude: 20.311441
+
+- location: Autoexperten i Upplands Väsby
+  city: Upplands Väsby
+  urn: urn:autoexperten:location:id:510
+  latitude: 59.49677
+  longitude: 17.926176
+
+- location: Autoexperten i Uppsala
+  city:  Uppsala
+  urn: urn:autoexperten:location:id:511
+  latitude: 59.8472058
+  longitude: 17.6742649
+
+- location: Autoexperten i Vara
+  city:   Vara
+  urn: urn:autoexperten:location:id:513
+  latitude: 58.258314
+  longitude: 12.959732
+
+- location: Autoexperten i Värnamo
+  city: Värnamo
+  urn: urn:autoexperten:location:id:515
+  latitude: 57.1818442
+  longitude: 14.0576862
+
+- location: Autoexperten i Västerås
+  city: Västerås
+  urn: urn:autoexperten:location:id:516
+  latitude: 59.646518
+  longitude: 16.57032
+
+- location: Autoexperten i Växjö
+  city: Växjö
+  urn: urn:autoexperten:location:id:517
+  latitude: 56.892689
+  longitude: 14.773098
+
+- location: Autoexperten i Vetlanda
+  city: Vetlanda
+  urn: urn:autoexperten:location:id:514
+  latitude: 57.4204681
+  longitude: 15.0777353
+
+- location: Autoexperten i Visby
+  city: VISBY
+  urn: urn:autoexperten:location:id:883
+  latitude: 57.6354336
+  longitude: 18.3235445
+
+- location: Autoexperten i Ystad
+  city:  Ystad
+  urn: urn:autoexperten:location:id:518
+  latitude: 55.447267
+  longitude: 13.849385
+
+- location: Autoexperten Stockholm Syd
+  city: Stockholm
+  urn: urn:autoexperten:location:id:911
+  latitude: 59.3020524
+  longitude: 18.0204767
