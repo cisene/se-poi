@@ -36,7 +36,6 @@
 
 ## Dagligvarukedjor
 
-- AGs
 - [City Gross](./citygross.yaml)
 - [Coop](./coop.yaml)
 - Direkten
