@@ -44,17 +44,13 @@
 - Eurocash
 - [Ica](./ica.yaml)
 - Maximat
-- Konsum
 - [Lidl](./lidl.yaml)
 - Lifvs
-- Netto
-- Pressbyrån
-- Servus
+- [Pressbyrån](./pressbyrån.yaml)
 - [7-Eleven](./seven-eleven.yaml)
 - [Tempo](./tempo.yaml)
 - Time
 - Vi-butikerna
-- Vivo
 - [Willys](./willys.yaml)
 
 
@@ -98,7 +94,7 @@
 
 - Cervera
 - Chilli
-- Em
+- [Em Home](./em-home.yaml)
 - Gallerix
 - [Hemtex](./hemtex.yaml)
 - Ikea
