@@ -97,12 +97,12 @@ def renderKML(data):
 
   elems.append(f"    <Folder>")
 
-  elems.append(f"      <name>{data['meta']['name']}</name>")
+  elems.append(f"      <name><![CDATA[{data['meta']['name']}]]></name>")
 
   for loc in data['locations']:
     elems.append('      <Placemark>')
     
-    elems.append(f"        <name>{loc['location']}</name>")
+    elems.append(f"        <name><![CDATA[{loc['location']}]]></name>")
 
     if "country" in loc:
       elems.append(f"        <description>{loc['location']}, {loc['city']}, {loc['country']}</description>")
@@ -111,16 +111,9 @@ def renderKML(data):
 
     elems.append(f"        <styleUrl>#icon-22</styleUrl>")
 
-    elems.append(f"        <Point>")
-
-    elems.append(f"          <coordinates>")
-    elems.append(f"            {loc['longitude']},{loc['latitude']},0")
-    elems.append(f"          </coordinates>")
-
-    elems.append(f"        </Point>")
+    elems.append(f"        <Point><coordinates>{loc['longitude']},{loc['latitude']},0</coordinates></Point>")
 
     elems.append('      </Placemark>')
-  
 
   elems.append(f"    </Folder>")
   elems.append(f"  </Document>")
