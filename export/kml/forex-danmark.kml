@@ -38,86 +38,54 @@
       </Pair>
     </StyleMap>
     <Folder>
-      <name>Forex Danmark</name>
+      <name><![CDATA[Forex Danmark]]></name>
       <Placemark>
-        <name>Forex Aarhus C</name>
+        <name><![CDATA[Forex Aarhus C]]></name>
         <description>Forex Aarhus C, Aarhus C, Danmark</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            10.20255,56.15023,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>10.20255,56.15023,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Forex Odense SØ</name>
+        <name><![CDATA[Forex Odense SØ]]></name>
         <description>Forex Odense SØ, Odense SØ, Danmark</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            10.42559,55.38345,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>10.42559,55.38345,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Forex Greve</name>
+        <name><![CDATA[Forex Greve]]></name>
         <description>Forex Greve, Greve, Danmark</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            12.32528,55.59861,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>12.32528,55.59861,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Forex Frederiksberg</name>
+        <name><![CDATA[Forex Frederiksberg]]></name>
         <description>Forex Frederiksberg, Frederiksberg, Danmark</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            12.53381,55.67943,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>12.53381,55.67943,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Forex København V</name>
+        <name><![CDATA[Forex København V]]></name>
         <description>Forex København V, København V, Danmark</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            12.56441,55.67301,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>12.56441,55.67301,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Forex København K</name>
+        <name><![CDATA[Forex København K]]></name>
         <description>Forex København K, København K, Danmark</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            12.57291,55.68363,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>12.57291,55.68363,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Forex Kastrup</name>
+        <name><![CDATA[Forex Kastrup]]></name>
         <description>Forex Kastrup, Kastrup, Danmark</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            12.64552,55.62882,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>12.64552,55.62882,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Forex Kastrup</name>
+        <name><![CDATA[Forex Kastrup]]></name>
         <description>Forex Kastrup, Kastrup, Danmark</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            12.64626,55.62911,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>12.64626,55.62911,0</coordinates></Point>
       </Placemark>
     </Folder>
   </Document>

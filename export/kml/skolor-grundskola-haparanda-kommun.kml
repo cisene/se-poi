@@ -38,96 +38,60 @@
       </Pair>
     </StyleMap>
     <Folder>
-      <name>Grundskolor Haparanda Kommun</name>
+      <name><![CDATA[Grundskolor Haparanda Kommun]]></name>
       <Placemark>
-        <name>Seskarö skola</name>
+        <name><![CDATA[Seskarö skola]]></name>
         <description>Seskarö skola, Haparanda, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            23.736312,65.739437,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>23.736312,65.739437,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Nikkala skola</name>
+        <name><![CDATA[Nikkala skola]]></name>
         <description>Nikkala skola, Haparanda, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            23.915062,65.805063,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>23.915062,65.805063,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Karungi skola</name>
+        <name><![CDATA[Karungi skola]]></name>
         <description>Karungi skola, Haparanda, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            23.949937,66.045187,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>23.949937,66.045187,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Språkskolan</name>
+        <name><![CDATA[Språkskolan]]></name>
         <description>Språkskolan, Haparanda, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            24.114688,65.851438,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>24.114688,65.851438,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Särskolan Eden grundsär</name>
+        <name><![CDATA[Särskolan Eden grundsär]]></name>
         <description>Särskolan Eden grundsär, Haparanda, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            24.114688,65.851438,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>24.114688,65.851438,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Montessoriskolan Droppen</name>
+        <name><![CDATA[Montessoriskolan Droppen]]></name>
         <description>Montessoriskolan Droppen, Haparanda, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            24.126062,65.838562,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>24.126062,65.838562,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Tornedalsskolan</name>
+        <name><![CDATA[Tornedalsskolan]]></name>
         <description>Tornedalsskolan, Haparanda, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            24.127812,65.834563,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>24.127812,65.834563,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Gränsskolan</name>
+        <name><![CDATA[Gränsskolan]]></name>
         <description>Gränsskolan, Haparanda, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            24.129688,65.833187,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>24.129688,65.833187,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Aspstrandens skola</name>
+        <name><![CDATA[Aspstrandens skola]]></name>
         <description>Aspstrandens skola, Haparanda, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            24.131188,65.835313,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>24.131188,65.835313,0</coordinates></Point>
       </Placemark>
     </Folder>
   </Document>

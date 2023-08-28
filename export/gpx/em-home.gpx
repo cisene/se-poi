@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://github.com/cisene/se-poi -->
+<gpx creator="se-poi" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+  <metadata>
+    <name><![CDATA[EM Home]]></name>
+    <desc><![CDATA[Koordinater - EM Home]]></desc>
+    <link href="https://www.emhome.se/">
+      <text><![CDATA[EM Home]]></text>
+       <type>text/html</type>
+    </link>
+   <time>2023-08-28T18:09:17+02:00</time>
+  </metadata>
+  <bounds minlat="55.543235" minlon="12.260033" maxlat="65.821198" maxlon="21.844179" />
+  <wpt lat="57.121344" lon="12.260033"><name><![CDATA[Em home Varberg, None]]></name></wpt>
+  <wpt lat="56.880249" lon="12.630439"><name><![CDATA[Em home Heberg, None]]></name></wpt>
+  <wpt lat="57.725228" lon="12.993399"><name><![CDATA[Em home Borås, None]]></name></wpt>
+  <wpt lat="58.508795" lon="13.144847"><name><![CDATA[Em home Lidköping, None]]></name></wpt>
+  <wpt lat="59.377358" lon="13.444117"><name><![CDATA[Em home Karlstad, None]]></name></wpt>
+  <wpt lat="56.172074" lon="13.755975"><name><![CDATA[Em home Hässleholm, None]]></name></wpt>
+  <wpt lat="55.543235" lon="13.955765"><name><![CDATA[Em home Tomelilla, None]]></name></wpt>
+  <wpt lat="57.701103" lon="14.32799"><name><![CDATA[Em home Tenhult, None]]></name></wpt>
+  <wpt lat="59.25542" lon="14.44163"><name><![CDATA[Em home Degerfors  Karlskoga, None]]></name></wpt>
+  <wpt lat="56.065873" lon="14.468429"><name><![CDATA[Em home Bromölla, None]]></name></wpt>
+  <wpt lat="63.301458" lon="14.474597"><name><![CDATA[Em home Dvärsätt, None]]></name></wpt>
+  <wpt lat="58.129859" lon="14.968464"><name><![CDATA[Em home Sommen, None]]></name></wpt>
+  <wpt lat="58.540242" lon="15.011292"><name><![CDATA[Em home Motala, None]]></name></wpt>
+  <wpt lat="57.428102" lon="15.055941"><name><![CDATA[Em home Vetlanda, None]]></name></wpt>
+  <wpt lat="59.211716" lon="15.136973"><name><![CDATA[Em home Örebro, None]]></name></wpt>
+  <wpt lat="58.787748" lon="15.492764"><name><![CDATA[Em home Ljusfallshammar, None]]></name></wpt>
+  <wpt lat="56.207909" lon="15.644319"><name><![CDATA[Em home Karlskrona, None]]></name></wpt>
+  <wpt lat="56.670927" lon="16.313774"><name><![CDATA[Em home Kalmar, None]]></name></wpt>
+  <wpt lat="59.61364" lon="16.459798"><name><![CDATA[Em home Västerås, None]]></name></wpt>
+  <wpt lat="59.857051" lon="17.688358"><name><![CDATA[Em home Uppsala, None]]></name></wpt>
+  <wpt lat="57.644848" lon="18.318429"><name><![CDATA[Em home Visby, None]]></name></wpt>
+  <wpt lat="60.13105" lon="19.938155"><name><![CDATA[Em home Åland, None]]></name></wpt>
+  <wpt lat="65.821198" lon="21.701089"><name><![CDATA[Em home Boden, None]]></name></wpt>
+  <wpt lat="65.549417" lon="21.844179"><name><![CDATA[Em home Antnäs, None]]></name></wpt>
+</gpx>

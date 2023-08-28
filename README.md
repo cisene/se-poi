@@ -59,7 +59,10 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
+| [Autoexperten](https://sv.wikipedia.org/wiki/Autoexperten)                               |         53 |
+| BDS                                                                                      |        124 |
 | [Biltema](https://sv.wikipedia.org/wiki/Biltema)                                         |         61 |
+| MECA Bilservice                                                                          |        339 |
 | [Mekonomen](https://sv.wikipedia.org/wiki/Mekonomen)                                     |        501 |
 | Ryds Bilglas                                                                             |        157 |
 
@@ -114,6 +117,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 | [7-Eleven](https://sv.wikipedia.org/wiki/7-Eleven)                                       |         79 |
 | [City Gross](https://sv.wikipedia.org/wiki/City_Gross)                                   |         42 |
 | [Coop](https://sv.wikipedia.org/wiki/Coop_Sverige)                                       |        811 |
+| [Direkten](https://sv.wikipedia.org/wiki/Direkten)                                       |        163 |
 | [Hemköp](https://sv.wikipedia.org/wiki/Hemk%C3%B6p)                                      |        183 |
 | [ICA](https://sv.wikipedia.org/wiki/Ica)                                                 |       1288 |
 | [Lidl](https://sv.wikipedia.org/wiki/Lidl)                                               |        310 |
@@ -196,6 +200,7 @@ YAML är enkelt och överskådligt och passar utmärkt för listor och enkla obj
 
 | Namn                                                                                     | Positioner |
 | :--------------------------------------------------------------------------------------- | ---------: |
+| [EM Home](https://sv.wikipedia.org/wiki/Em_(butikskedja))                                |         24 |
 | [Hemtex](https://sv.wikipedia.org/wiki/Hemtex)                                           |        115 |
 | [JYSK](https://sv.wikipedia.org/wiki/Jysk)                                               |        156 |
 | [Lagerhaus](https://sv.wikipedia.org/wiki/Lagerhaus)                                     |         54 |

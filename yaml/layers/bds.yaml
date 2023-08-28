@@ -3,99 +3,85 @@ meta:
   web: https://bds.se/
   wikipedia: null
   category: Biltillbehörskedjor
-  locations: 0
+  locations: 124
 
 locations:
-- location: Sundborgs Bil & båt verkstad
-  city: Norrtälje
-  urn: urn:bds:location:id:35327
+- location: S.K. Bilreparationer AB
+  city: Skee
+  urn: urn:bds:location:id:2346
   country: Sverige
-  latitude: 59.733368
-  longitude: 18.792156
+  latitude: 58.92638
+  longitude: 11.274907
 
-- location: GMA Bilverkstad AB
-  city: Oxie
-  urn: urn:bds:location:id:2663
+- location: Sotenäs Bil AB Hunnebo 9504
+  city: Kungshamn
+  urn: urn:bds:location:id:10272
   country: Sverige
-  latitude: 55.540638
-  longitude: 13.072609
+  latitude: 58.452171
+  longitude: 11.315633
 
-- location: Bilspecialisten
-  city: Kalix
-  urn: urn:bds:location:id:2288
+- location: Motorama AB
+  city: Tanumshede
+  urn: urn:bds:location:id:2553
   country: Sverige
-  latitude: 65.852898
-  longitude: 23.111616
+  latitude: 58.711926
+  longitude: 11.330121
 
-- location: Kalix Däck & Cykel AB
-  city: Kalix
-  urn: urn:bds:location:id:34185
+- location: TE-DA Bilservice AB
+  city: Hönö
+  urn: urn:bds:location:id:18650
   country: Sverige
-  latitude: 65.861275
-  longitude: 23.136194
+  latitude: 57.699192
+  longitude: 11.663178
 
-- location: Ystads Bilservice AB
-  city: Ystad
-  urn: urn:bds:location:id:35059
+- location: Eklidens Motorservice
+  city: Henån
+  urn: urn:bds:location:id:1869
   country: Sverige
-  latitude: 55.437260
-  longitude: 13.837103
+  latitude: 58.21014
+  longitude: 11.683795
 
-- location: Autoperformance sweden ab
-  city: Vellinge
-  urn: urn:bds:location:id:25341
+- location: Frölunda Bilteknik
+  city: Västra Frölunda
+  urn: urn:bds:location:id:13935
   country: Sverige
-  latitude: 55.458183
-  longitude: 13.018289
+  latitude: 57.656792
+  longitude: 11.900468
 
-- location: Autotech i Gällivare AB
-  city: Gällivare
-  urn: urn:bds:location:id:23805
+- location: Uddevalla Bilcenter
+  city: Uddevalla
+  urn: urn:bds:location:id:34115
   country: Sverige
-  latitude: 67.157738
-  longitude: 20.656746
+  latitude: 58.35231
+  longitude: 11.915364
 
-- location: Tornedalens Fordonsteknik Verkstaden
-  city: Övertorneå
-  urn: urn:bds:location:id:20831
+- location: Brab Autoservice AB
+  city: Göteborg
+  urn: urn:bds:location:id:5699
   country: Sverige
-  latitude: 66.384117
-  longitude: 23.649923
+  latitude: 57.731415
+  longitude: 11.947397
 
-- location: Grönborgs Bil & Plåt
-  city: Koskullskulle
-  urn: urn:bds:location:id:2245
+- location: Speedy Tyres Sweden AB
+  city: Göteborg
+  urn: urn:bds:location:id:31797
   country: Sverige
-  latitude: 67.188957
-  longitude: 20.752247
+  latitude: 57.732975
+  longitude: 11.956955
 
-- location: BDS Test Verkstad
-  city: Abisko
-  urn: urn:bds:location:id:5403
+- location: Kungälvs Bil & Motorservice AB
+  city: Kungälv
+  urn: urn:bds:location:id:22957
   country: Sverige
-  latitude: 71.215416
-  longitude: 21.041945
+  latitude: 57.885864
+  longitude: 11.988167
 
-- location: Backalycka Service AB
-  city: Kungsbacka
-  urn: urn:bds:location:id:3324
+- location: Bilverkstad Göteborg AB
+  city: Hisings Backa
+  urn: urn:bds:location:id:21596
   country: Sverige
-  latitude: 57.485146
-  longitude: 12.029708
-
-- location: Axma Bil AB
-  city: Oskarshamn
-  urn: urn:bds:location:id:3710
-  country: Sverige
-  latitude: 57.251247
-  longitude: 16.439211
-
-- location: Motorbolaget Lammhult AB
-  city: Lammhult
-  urn: urn:bds:location:id:2489
-  country: Sverige
-  latitude: 57.170567
-  longitude: 14.574983
+  latitude: 57.748554
+  longitude: 11.996799
 
 - location: Onsala Petroleum AB
   city: Onsala
@@ -104,33 +90,103 @@ locations:
   latitude: 57.413059
   longitude: 12.020488
 
-- location: Karlssons Bilservice
-  city: Sorsele
-  urn: urn:bds:location:id:2515
+- location: Backalycka Service AB
+  city: Kungsbacka
+  urn: urn:bds:location:id:3324
   country: Sverige
-  latitude: 65.529518
-  longitude: 17.535938
+  latitude: 57.485146
+  longitude: 12.029708
 
-- location: Kågevägens Bilservice
-  city: Skellefteå
-  urn: urn:bds:location:id:2614
+- location: Sanden & Larsson Bil AB
+  city: Sävedalen
+  urn: urn:bds:location:id:5967
   country: Sverige
-  latitude: 64.758240
-  longitude: 20.966825
+  latitude: 57.732693
+  longitude: 12.062481
 
-- location: Bildelar Kalmar AB
-  city: Kalmar
-  urn: urn:bds:location:id:19851
+- location: M.Carlén Bil AB
+  city: Kungsbacka
+  urn: urn:bds:location:id:34833
   country: Sverige
-  latitude: 56.700161
-  longitude: 16.316919
+  latitude: 57.507534
+  longitude: 12.076206
 
-- location: Runes Bensin
-  city: Emmaboda
-  urn: urn:bds:location:id:13351
+- location: Klingberg & Forsberg Bilservice AB
+  city: Partille
+  urn: urn:bds:location:id:5867
   country: Sverige
-  latitude: 56.626495
-  longitude: 15.553177
+  latitude: 57.740631
+  longitude: 12.085948
+
+- location: Bil-Lennart i Lindome AB
+  city: Lindome
+  urn: urn:bds:location:id:4626
+  country: Sverige
+  latitude: 57.574432
+  longitude: 12.093887
+
+- location: Lerums Gummiverkstad AB
+  city: Lerum
+  urn: urn:bds:location:id:2813
+  country: Sverige
+  latitude: 57.775383
+  longitude: 12.276817
+
+- location: Kims Bil o Däck AB
+  city: Gråbo
+  urn: urn:bds:location:id:18574
+  country: Sverige
+  latitude: 57.840527
+  longitude: 12.284778
+
+- location: Autoprime i Stenkullen AB
+  city: Stenkullen
+  urn: urn:bds:location:id:32751
+  country: Sverige
+  latitude: 57.785706
+  longitude: 12.308207
+
+- location: Ramek Bil AB
+  city: Vänersborg
+  urn: urn:bds:location:id:16307
+  country: Sverige
+  latitude: 58.365196
+  longitude: 12.3246
+
+- location: Auto Mekano Brålanda AB
+  city: Brålanda
+  urn: urn:bds:location:id:3001
+  country: Sverige
+  latitude: 58.570526
+  longitude: 12.340449
+
+- location: AutoMats AB
+  city: Mellerud
+  urn: urn:bds:location:id:5604
+  country: Sverige
+  latitude: 58.706123
+  longitude: 12.452022
+
+- location: Alingsås Servicecenter
+  city: Alingsås
+  urn: urn:bds:location:id:32363
+  country: Sverige
+  latitude: 57.93866
+  longitude: 12.555485
+
+- location: Dalslands Motor AB
+  city: Åmål
+  urn: urn:bds:location:id:15893
+  country: Sverige
+  latitude: 59.038357
+  longitude: 12.710945
+
+- location: Idre Fordonsservice
+  city: Idre
+  urn: urn:bds:location:id:27961
+  country: Sverige
+  latitude: 61.852364
+  longitude: 12.758346
 
 - location: Bohlins Motorverkstad AB
   city: Halmstad
@@ -146,13 +202,6 @@ locations:
   latitude: 56.655258
   longitude: 12.898464
 
-- location: Våxtorps Bilservice AB
-  city: Våxtorp
-  urn: urn:bds:location:id:18241
-  country: Sverige
-  latitude: 56.418797
-  longitude: 13.117427
-
 - location: Autoshopen
   city: Billesholm
   urn: urn:bds:location:id:25577
@@ -160,19 +209,33 @@ locations:
   latitude: 56.055588
   longitude: 12.995846
 
-- location: Hedqvist Dieselservice AB
-  city: Luleå
-  urn: urn:bds:location:id:18622
+- location: Autoperformance sweden ab
+  city: Vellinge
+  urn: urn:bds:location:id:25341
   country: Sverige
-  latitude: 65.614616
-  longitude: 22.044861
+  latitude: 55.458183
+  longitude: 13.018289
+
+- location: GMA Bilverkstad AB
+  city: Oxie
+  urn: urn:bds:location:id:2663
+  country: Sverige
+  latitude: 55.540638
+  longitude: 13.072609
 
 - location: Motorcenter i Svalöv AB
-  city: SVALÖV
+  city: Svalöv
   urn: urn:bds:location:id:22869
   country: Sverige
   latitude: 55.909233
   longitude: 13.106181
+
+- location: Våxtorps Bilservice AB
+  city: Våxtorp
+  urn: urn:bds:location:id:18241
+  country: Sverige
+  latitude: 56.418797
+  longitude: 13.117427
 
 - location: Vulko Eslöv AB
   city: Eslöv
@@ -181,6 +244,13 @@ locations:
   latitude: 55.831196
   longitude: 13.305175
 
+- location: Sälens Däck o Bilservice
+  city: Transtrand
+  urn: urn:bds:location:id:30857
+  country: Sverige
+  latitude: 61.099606
+  longitude: 13.309379
+
 - location: Eslövs Bilcenter
   city: Eslöv
   urn: urn:bds:location:id:29709
@@ -188,11 +258,46 @@ locations:
   latitude: 55.827667
   longitude: 13.329029
 
+- location: Folkbil Karlstad AB
+  city: Karlstad
+  urn: urn:bds:location:id:12933
+  country: Sverige
+  latitude: 59.430176
+  longitude: 13.415407
+
+- location: Bil och Däck i Skara
+  city: Skara
+  urn: urn:bds:location:id:2158
+  country: Sverige
+  latitude: 58.384518
+  longitude: 13.44434
+
+- location: Årebärgaren Plåt & Lack AB
+  city: Järpen
+  urn: urn:bds:location:id:8485
+  country: Sverige
+  latitude: 63.351944
+  longitude: 13.449194
+
+- location: Götene Bil & Vulk AB
+  city: Götene
+  urn: urn:bds:location:id:1509
+  country: Sverige
+  latitude: 58.528908
+  longitude: 13.49667
+
+- location: Blentarps Däck & Mek AB
+  city: Blentarp
+  urn: urn:bds:location:id:7592
+  country: Sverige
+  latitude: 55.592121
+  longitude: 13.599225
+
 - location: Dala Bil &Traktorverkstad AB
   city: Hörby
   urn: urn:bds:location:id:1349
   country: Sverige
-  latitude: 55.770630
+  latitude: 55.77063
   longitude: 13.616755
 
 - location: Sjöbo Autoplåt
@@ -202,223 +307,6 @@ locations:
   latitude: 55.638771
   longitude: 13.691717
 
-- location: Blentarps Däck & Mek AB
-  city: Blentarp
-  urn: urn:bds:location:id:7592
-  country: Sverige
-  latitude: 55.592121
-  longitude: 13.599225
-
-- location: Eklidens Motorservice
-  city: Henån
-  urn: urn:bds:location:id:1869
-  country: Sverige
-  latitude: 58.210140
-  longitude: 11.683795
-
-- location: Alingsås Servicecenter
-  city: Alingsås
-  urn: urn:bds:location:id:32363
-  country: Sverige
-  latitude: 57.938660
-  longitude: 12.555485
-
-- location: WP Bilverkstad
-  city: Umeå
-  urn: urn:bds:location:id:17223
-  country: Sverige
-  latitude: 63.805023
-  longitude: 20.276880
-
-- location: Laga Bilen i Umeå AB
-  city: Umeå
-  urn: urn:bds:location:id:16991
-  country: Sverige
-  latitude: 63.851849
-  longitude: 20.312475
-
-- location: Din Mekaniker
-  city: Umeå
-  urn: urn:bds:location:id:14599
-  country: Sverige
-  latitude: 63.862503
-  longitude: 20.303568
-
-- location: Bilteknik i Västervik AB
-  city: Västervik
-  urn: urn:bds:location:id:27009
-  country: Sverige
-  latitude: 57.793289
-  longitude: 16.598095
-
-- location: Tylles Västervik AB
-  city: Västervik
-  urn: urn:bds:location:id:33247
-  country: Sverige
-  latitude: 57.775486
-  longitude: 16.588385
-
-- location: Kims Bil o Däck AB
-  city: Gråbo
-  urn: urn:bds:location:id:18574
-  country: Sverige
-  latitude: 57.840527
-  longitude: 12.284778
-
-- location: Kungälvs Bil & Motorservice AB
-  city: Kungälv
-  urn: urn:bds:location:id:22957
-  country: Sverige
-  latitude: 57.885864
-  longitude: 11.988167
-
-- location: Autoprime i Stenkullen AB
-  city: Stenkullen
-  urn: urn:bds:location:id:32751
-  country: Sverige
-  latitude: 57.785706
-  longitude: 12.308207
-
-- location: Lerums Gummiverkstad AB
-  city: Lerum
-  urn: urn:bds:location:id:2813
-  country: Sverige
-  latitude: 57.775383
-  longitude: 12.276817
-
-- location: Klingberg & Forsberg Bilservice AB
-  city: Partille
-  urn: urn:bds:location:id:5867
-  country: Sverige
-  latitude: 57.740631
-  longitude: 12.085948
-
-- location: Bilverkstad Göteborg AB
-  city: Hisings Backa
-  urn: urn:bds:location:id:21596
-  country: Sverige
-  latitude: 57.748554
-  longitude: 11.996799
-
-- location: Sanden & Larsson Bil AB
-  city: Sävedalen
-  urn: urn:bds:location:id:5967
-  country: Sverige
-  latitude: 57.732693
-  longitude: 12.062481
-
-- location: Speedy Tyres Sweden AB
-  city: Göteborg
-  urn: urn:bds:location:id:31797
-  country: Sverige
-  latitude: 57.732975
-  longitude: 11.956955
-
-- location: Brab Autoservice AB
-  city: Göteborg
-  urn: urn:bds:location:id:5699
-  country: Sverige
-  latitude: 57.731415
-  longitude: 11.947397
-
-- location: Frölunda Bilteknik
-  city: Västra Frölunda
-  urn: urn:bds:location:id:13935
-  country: Sverige
-  latitude: 57.656792
-  longitude: 11.900468
-
-- location: TE-DA Bilservice AB
-  city: Hönö
-  urn: urn:bds:location:id:18650
-  country: Sverige
-  latitude: 57.699192
-  longitude: 11.663178
-
-- location: Bil-Lennart i Lindome AB
-  city: Lindome
-  urn: urn:bds:location:id:4626
-  country: Sverige
-  latitude: 57.574432
-  longitude: 12.093887
-
-- location: M.Carlén Bil AB
-  city: Kungsbacka
-  urn: urn:bds:location:id:34833
-  country: Sverige
-  latitude: 57.507534
-  longitude: 12.076206
-
-- location: Rostskyddscenter
-  city: Norrköping
-  urn: urn:bds:location:id:2692
-  country: Sverige
-  latitude: 58.606823
-  longitude: 16.177340
-
-- location: Bil & Dieselservice i Norrköping AB
-  city: Norrköping
-  urn: urn:bds:location:id:6809
-  country: Sverige
-  latitude: 58.578449
-  longitude: 16.123304
-
-- location: Nya Inter Bilverkstad AB
-  city: Norrköping
-  urn: urn:bds:location:id:2842
-  country: Sverige
-  latitude: 58.589634
-  longitude: 16.217634
-
-- location: RR Bil & Lackering
-  city: Norrköping
-  urn: urn:bds:location:id:11457
-  country: Sverige
-  latitude: 58.562904
-  longitude: 16.225210
-
-- location: Götene Bil & Vulk AB
-  city: Götene
-  urn: urn:bds:location:id:1509
-  country: Sverige
-  latitude: 58.528908
-  longitude: 13.496670
-
-- location: AutoMats AB
-  city: Mellerud
-  urn: urn:bds:location:id:5604
-  country: Sverige
-  latitude: 58.706123
-  longitude: 12.452022
-
-- location: GRT Bilservice AB
-  city: Söderköping
-  urn: urn:bds:location:id:3336
-  country: Sverige
-  latitude: 58.468323
-  longitude: 16.343046
-
-- location: S.K. Bilreparationer AB
-  city: Skee
-  urn: urn:bds:location:id:2346
-  country: Sverige
-  latitude: 58.926380
-  longitude: 11.274907
-
-- location: Bil och Däck i Skara
-  city: Skara
-  urn: urn:bds:location:id:2158
-  country: Sverige
-  latitude: 58.384518
-  longitude: 13.444340
-
-- location: Auto Mekano Brålanda AB
-  city: Brålanda
-  urn: urn:bds:location:id:3001
-  country: Sverige
-  latitude: 58.570526
-  longitude: 12.340449
-
 - location: JH Erikssons Husvagnar AB
   city: Stenstorp
   urn: urn:bds:location:id:32387
@@ -426,152 +314,12 @@ locations:
   latitude: 58.270683
   longitude: 13.723921
 
-- location: Motorama AB
-  city: Tanumshede
-  urn: urn:bds:location:id:2553
+- location: Malungs däck o bilservice
+  city: Malung
+  urn: urn:bds:location:id:30855
   country: Sverige
-  latitude: 58.711926
-  longitude: 11.330121
-
-- location: Nymans Bilservice
-  city: Nordmaling
-  urn: urn:bds:location:id:25703
-  country: Sverige
-  latitude: 63.576012
-  longitude: 19.462334
-
-- location: AB Däck bil & maskin i Rimforsa
-  city: Rimforsa
-  urn: urn:bds:location:id:27997
-  country: Sverige
-  latitude: 58.133362
-  longitude: 15.678906
-
-- location: Ramek Bil AB
-  city: Vänersborg
-  urn: urn:bds:location:id:16307
-  country: Sverige
-  latitude: 58.365196
-  longitude: 12.324600
-
-- location: Uddevalla Bilcenter
-  city: Uddevalla
-  urn: urn:bds:location:id:34115
-  country: Sverige
-  latitude: 58.352310
-  longitude: 11.915364
-
-- location: Sotenäs Bil AB Hunnebo 9504
-  city: Kungshamn
-  urn: urn:bds:location:id:10272
-  country: Sverige
-  latitude: 58.452171
-  longitude: 11.315633
-
-- location: Stenbergs Bil
-  city: Katrineholm
-  urn: urn:bds:location:id:3155
-  country: Sverige
-  latitude: 58.998947
-  longitude: 16.221914
-
-- location: SFA Bil AB
-  city: Kista
-  urn: urn:bds:location:id:27331
-  country: Sverige
-  latitude: 59.406231
-  longitude: 17.938021
-
-- location: Spånga Autoservice AB
-  city: Spånga
-  urn: urn:bds:location:id:30637
-  country: Sverige
-  latitude: 59.383781
-  longitude: 17.886902
-
-- location: Primos Bilvård & Service
-  city: Vällingby
-  urn: urn:bds:location:id:31245
-  country: Sverige
-  latitude: 59.371189
-  longitude: 17.860508
-
-- location: Mekian Bilverkstad AB
-  city: Täby
-  urn: urn:bds:location:id:11099
-  country: Sverige
-  latitude: 59.435059
-  longitude: 18.077574
-
-- location: Dalslands Motor AB
-  city: Åmål
-  urn: urn:bds:location:id:15893
-  country: Sverige
-  latitude: 59.038357
-  longitude: 12.710945
-
-- location: Antons car service AB
-  city: Södertälje
-  urn: urn:bds:location:id:28067
-  country: Sverige
-  latitude: 59.196468
-  longitude: 17.589615
-
-- location: A & A  Automobile
-  city: Stockholm
-  urn: urn:bds:location:id:34921
-  country: Sverige
-  latitude: 59.348438
-  longitude: 18.060257
-
-- location: Sergels Bilservice & Bilvård AB
-  city: Stockholm
-  urn: urn:bds:location:id:31623
-  country: Sverige
-  latitude: 59.333912
-  longitude: 18.063240
-
-- location: Lövdalens Bilverkstad AB
-  city: Segeltorp
-  urn: urn:bds:location:id:30493
-  country: Sverige
-  latitude: 59.265903
-  longitude: 17.963505
-
-- location: Stuvsta Däck AB
-  city: Huddinge
-  urn: urn:bds:location:id:29823
-  country: Sverige
-  latitude: 59.257641
-  longitude: 17.994324
-
-- location: Messes Bilservice AB
-  city: Tumba
-  urn: urn:bds:location:id:13943
-  country: Sverige
-  latitude: 59.189224
-  longitude: 17.820292
-
-- location: Björns Bilservice i Huddinge
-  city: Huddinge
-  urn: urn:bds:location:id:24417
-  country: Sverige
-  latitude: 59.233742
-  longitude: 17.989323
-
-- location: Tullinge Bilspa / LC Bilglascenter AB
-  city: Tullinge
-  urn: urn:bds:location:id:28407
-  country: Sverige
-  latitude: 59.207687
-  longitude: 17.923689
-
-- location: M Carlauto Service AB
-  city: Töreboda
-  urn: urn:bds:location:id:5515
-  country: Sverige
-  latitude: 58.702740
-  longitude: 14.125028
+  latitude: 60.683689
+  longitude: 13.727821
 
 - location: Bolin och Landin Autoservice AB
   city: Mariestad
@@ -580,145 +328,19 @@ locations:
   latitude: 58.705399
   longitude: 13.820728
 
-- location: Länna Bilservice AB
-  city: Skogås
-  urn: urn:bds:location:id:34803
+- location: Ystads Bilservice AB
+  city: Ystad
+  urn: urn:bds:location:id:35059
   country: Sverige
-  latitude: 59.201042
-  longitude: 18.125954
+  latitude: 55.43726
+  longitude: 13.837103
 
-- location: JR Motorperformance AB
-  city: Kolmården
-  urn: urn:bds:location:id:17474
+- location: Bilverkstan 195 AB
+  city: Älvdalen
+  urn: urn:bds:location:id:28915
   country: Sverige
-  latitude: 58.653397
-  longitude: 16.173590
-
-- location: Barfeld's Motor
-  city: Västerhaninge
-  urn: urn:bds:location:id:6926
-  country: Sverige
-  latitude: 59.105297
-  longitude: 18.128702
-
-- location: Peters Bil & Motor
-  city: Karlsborg
-  urn: urn:bds:location:id:12503
-  country: Sverige
-  latitude: 58.539310
-  longitude: 14.502705
-
-- location: Lindbloms Bilservice AB
-  city: Sala
-  urn: urn:bds:location:id:8057
-  country: Sverige
-  latitude: 59.911762
-  longitude: 16.630726
-
-- location: Kallernäs Bil & Maskin AB
-  city: Lindesberg
-  urn: urn:bds:location:id:5021
-  country: Sverige
-  latitude: 59.607311
-  longitude: 15.190961
-
-- location: Aros Tunby Bilservice AB
-  city: Västerås
-  urn: urn:bds:location:id:31847
-  country: Sverige
-  latitude: 59.642242
-  longitude: 16.559637
-
-- location: Verkstan Peter Karlsson
-  city: Östersund
-  urn: urn:bds:location:id:7512
-  country: Sverige
-  latitude: 63.174072
-  longitude: 14.688431
-
-- location: Verkstan i Gevåg
-  city: Hammarstrand
-  urn: urn:bds:location:id:29561
-  country: Sverige
-  latitude: 63.137665
-  longitude: 16.342978
-
-- location: Folkbil Karlstad AB
-  city: Karlstad
-  urn: urn:bds:location:id:12933
-  country: Sverige
-  latitude: 59.430176
-  longitude: 13.415407
-
-- location: KGA Fordonsservice
-  city: Degerfors
-  urn: urn:bds:location:id:14981
-  country: Sverige
-  latitude: 59.248947
-  longitude: 14.437169
-
-- location: FOS Bil AB
-  city: Eskilstuna
-  urn: urn:bds:location:id:28109
-  country: Sverige
-  latitude: 59.383301
-  longitude: 16.504599
-
-- location: EBH Eskilstuna Bil & Husbilsservice
-  city: Eskilstuna
-  urn: urn:bds:location:id:31839
-  country: Sverige
-  latitude: 59.379711
-  longitude: 16.504435
-
-- location: Allbilservice i Eskilstuna AB
-  city: Eskilstuna
-  urn: urn:bds:location:id:27911
-  country: Sverige
-  latitude: 59.363098
-  longitude: 16.525970
-
-- location: Årebärgaren Plåt & Lack AB
-  city: Järpen
-  urn: urn:bds:location:id:8485
-  country: Sverige
-  latitude: 63.351944
-  longitude: 13.449194
-
-- location: AJ:s Rep och Entrepenad AB
-  city: Sollefteå
-  urn: urn:bds:location:id:20060
-  country: Sverige
-  latitude: 63.157310
-  longitude: 17.300837
-
-- location: Svets & Mek Offerdal AB
-  city: Offerdal
-  urn: urn:bds:location:id:7535
-  country: Sverige
-  latitude: 63.456470
-  longitude: 14.071984
-
-- location: Hedins Bilservice AB
-  city: Strängnäs
-  urn: urn:bds:location:id:30923
-  country: Sverige
-  latitude: 59.376347
-  longitude: 17.013126
-
-- location: Bennys Bilcenter AB
-  city: Roserberg
-  urn: urn:bds:location:id:18073
-  country: Sverige
-  latitude: 59.586174
-  longitude: 17.879835
-
-- location: Universal Motors Sverige AB
-  city: Rimbo
-  urn: urn:bds:location:id:33333
-  country: Sverige
-  latitude: 59.746277
-  longitude: 18.377253
+  latitude: 61.249973
+  longitude: 14.032609
 
 - location: Gullspångs Bilservice AB
   city: Otterbäcken
@@ -727,19 +349,54 @@ locations:
   latitude: 58.960758
   longitude: 14.054566
 
-- location: A.H Jakobsbergs Bilservice AB
-  city: Järfälla
-  urn: urn:bds:location:id:28591
+- location: Svets & Mek Offerdal AB
+  city: Offerdal
+  urn: urn:bds:location:id:7535
   country: Sverige
-  latitude: 59.411610
-  longitude: 17.826689
+  latitude: 63.45647
+  longitude: 14.071984
 
-- location: KH Bilservice AB
-  city: Katrineholm
-  urn: urn:bds:location:id:2588
+- location: M Carlauto Service AB
+  city: Töreboda
+  urn: urn:bds:location:id:5515
   country: Sverige
-  latitude: 58.995735
-  longitude: 16.189579
+  latitude: 58.70274
+  longitude: 14.125028
+
+- location: KGA Fordonsservice
+  city: Degerfors
+  urn: urn:bds:location:id:14981
+  country: Sverige
+  latitude: 59.248947
+  longitude: 14.437169
+
+- location: Peters Bil & Motor
+  city: Karlsborg
+  urn: urn:bds:location:id:12503
+  country: Sverige
+  latitude: 58.53931
+  longitude: 14.502705
+
+- location: Motorbolaget Lammhult AB
+  city: Lammhult
+  urn: urn:bds:location:id:2489
+  country: Sverige
+  latitude: 57.170567
+  longitude: 14.574983
+
+- location: Dala SpeedMek
+  city: Orsa
+  urn: urn:bds:location:id:27945
+  country: Sverige
+  latitude: 61.126392
+  longitude: 14.636321
+
+- location: Verkstan Peter Karlsson
+  city: Östersund
+  urn: urn:bds:location:id:7512
+  country: Sverige
+  latitude: 63.174072
+  longitude: 14.688431
 
 - location: Cartech i Dalarna AB
   city: Djurås
@@ -748,19 +405,26 @@ locations:
   latitude: 60.542385
   longitude: 15.106116
 
-- location: Sälens Däck o Bilservice
-  city: Transtrand
-  urn: urn:bds:location:id:30857
+- location: Storå Bil o Maskin Service AB
+  city: Storå
+  urn: urn:bds:location:id:6492
   country: Sverige
-  latitude: 61.099606
-  longitude: 13.309379
+  latitude: 59.712349
+  longitude: 15.121352
 
-- location: Malungs däck o bilservice
-  city: Malung
-  urn: urn:bds:location:id:30855
+- location: Kallernäs Bil & Maskin AB
+  city: Lindesberg
+  urn: urn:bds:location:id:5021
   country: Sverige
-  latitude: 60.683689
-  longitude: 13.727821
+  latitude: 59.607311
+  longitude: 15.190961
+
+- location: JBA Motor AB
+  city: Smedjebacken
+  urn: urn:bds:location:id:33934
+  country: Sverige
+  latitude: 60.144123
+  longitude: 15.397556
 
 - location: Borlänge Bilservice AB
   city: Borlänge
@@ -776,27 +440,6 @@ locations:
   latitude: 60.464474
   longitude: 15.469522
 
-- location: Idre Fordonsservice
-  city: Idre
-  urn: urn:bds:location:id:27961
-  country: Sverige
-  latitude: 61.852364
-  longitude: 12.758346
-
-- location: Hedemora Bilforum AB
-  city: Hedemora
-  urn: urn:bds:location:id:5314
-  country: Sverige
-  latitude: 60.289909
-  longitude: 15.983763
-
-- location: JBA Motor AB
-  city: Smedjebacken
-  urn: urn:bds:location:id:33934
-  country: Sverige
-  latitude: 60.144123
-  longitude: 15.397556
-
 - location: Bilverkstan i Söderbärke AB
   city: Söderbärke
   urn: urn:bds:location:id:13869
@@ -804,26 +447,19 @@ locations:
   latitude: 60.077053
   longitude: 15.540275
 
-- location: Västanhede Bilverkstad AB
-  city: Avesta
-  urn: urn:bds:location:id:18317
+- location: Runes Bensin
+  city: Emmaboda
+  urn: urn:bds:location:id:13351
   country: Sverige
-  latitude: 60.142681
-  longitude: 16.195288
+  latitude: 56.626495
+  longitude: 15.553177
 
-- location: Norbergs Bil O Motor
-  city: Norberg
-  urn: urn:bds:location:id:14261
+- location: AB Däck bil & maskin i Rimforsa
+  city: Rimforsa
+  urn: urn:bds:location:id:27997
   country: Sverige
-  latitude: 60.066185
-  longitude: 15.933657
-
-- location: Krylbo Motorcenter AB
-  city: Krylbo
-  urn: urn:bds:location:id:1308
-  country: Sverige
-  latitude: 60.122784
-  longitude: 16.216314
+  latitude: 58.133362
+  longitude: 15.678906
 
 - location: Auto-Center i Bergslagen AB
   city: Fagersta
@@ -832,6 +468,167 @@ locations:
   latitude: 59.982281
   longitude: 15.798902
 
+- location: Norbergs Bil O Motor
+  city: Norberg
+  urn: urn:bds:location:id:14261
+  country: Sverige
+  latitude: 60.066185
+  longitude: 15.933657
+
+- location: Hedemora Bilforum AB
+  city: Hedemora
+  urn: urn:bds:location:id:5314
+  country: Sverige
+  latitude: 60.289909
+  longitude: 15.983763
+
+- location: Bil & Dieselservice i Norrköping AB
+  city: Norrköping
+  urn: urn:bds:location:id:6809
+  country: Sverige
+  latitude: 58.578449
+  longitude: 16.123304
+
+- location: JR Motorperformance AB
+  city: Kolmården
+  urn: urn:bds:location:id:17474
+  country: Sverige
+  latitude: 58.653397
+  longitude: 16.17359
+
+- location: Rostskyddscenter
+  city: Norrköping
+  urn: urn:bds:location:id:2692
+  country: Sverige
+  latitude: 58.606823
+  longitude: 16.17734
+
+- location: KH Bilservice AB
+  city: Katrineholm
+  urn: urn:bds:location:id:2588
+  country: Sverige
+  latitude: 58.995735
+  longitude: 16.189579
+
+- location: Västanhede Bilverkstad AB
+  city: Avesta
+  urn: urn:bds:location:id:18317
+  country: Sverige
+  latitude: 60.142681
+  longitude: 16.195288
+
+- location: Krylbo Motorcenter AB
+  city: Krylbo
+  urn: urn:bds:location:id:1308
+  country: Sverige
+  latitude: 60.122784
+  longitude: 16.216314
+
+- location: Nya Inter Bilverkstad AB
+  city: Norrköping
+  urn: urn:bds:location:id:2842
+  country: Sverige
+  latitude: 58.589634
+  longitude: 16.217634
+
+- location: Stenbergs Bil
+  city: Katrineholm
+  urn: urn:bds:location:id:3155
+  country: Sverige
+  latitude: 58.998947
+  longitude: 16.221914
+
+- location: RR Bil & Lackering
+  city: Norrköping
+  urn: urn:bds:location:id:11457
+  country: Sverige
+  latitude: 58.562904
+  longitude: 16.22521
+
+- location: Bildelar Kalmar AB
+  city: Kalmar
+  urn: urn:bds:location:id:19851
+  country: Sverige
+  latitude: 56.700161
+  longitude: 16.316919
+
+- location: Verkstan i Gevåg
+  city: Hammarstrand
+  urn: urn:bds:location:id:29561
+  country: Sverige
+  latitude: 63.137665
+  longitude: 16.342978
+
+- location: GRT Bilservice AB
+  city: Söderköping
+  urn: urn:bds:location:id:3336
+  country: Sverige
+  latitude: 58.468323
+  longitude: 16.343046
+
+- location: Bilakuten i Bollnäs AB
+  city: Bollnäs
+  urn: urn:bds:location:id:1340
+  country: Sverige
+  latitude: 61.343224
+  longitude: 16.387449
+
+- location: Axma Bil AB
+  city: Oskarshamn
+  urn: urn:bds:location:id:3710
+  country: Sverige
+  latitude: 57.251247
+  longitude: 16.439211
+
+- location: EBH Eskilstuna Bil & Husbilsservice
+  city: Eskilstuna
+  urn: urn:bds:location:id:31839
+  country: Sverige
+  latitude: 59.379711
+  longitude: 16.504435
+
+- location: FOS Bil AB
+  city: Eskilstuna
+  urn: urn:bds:location:id:28109
+  country: Sverige
+  latitude: 59.383301
+  longitude: 16.504599
+
+- location: Allbilservice i Eskilstuna AB
+  city: Eskilstuna
+  urn: urn:bds:location:id:27911
+  country: Sverige
+  latitude: 59.363098
+  longitude: 16.52597
+
+- location: Aros Tunby Bilservice AB
+  city: Västerås
+  urn: urn:bds:location:id:31847
+  country: Sverige
+  latitude: 59.642242
+  longitude: 16.559637
+
+- location: Tylles Västervik AB
+  city: Västervik
+  urn: urn:bds:location:id:33247
+  country: Sverige
+  latitude: 57.775486
+  longitude: 16.588385
+
+- location: Bilteknik i Västervik AB
+  city: Västervik
+  urn: urn:bds:location:id:27009
+  country: Sverige
+  latitude: 57.793289
+  longitude: 16.598095
+
+- location: Lindbloms Bilservice AB
+  city: Sala
+  urn: urn:bds:location:id:8057
+  country: Sverige
+  latitude: 59.911762
+  longitude: 16.630726
+
 - location: Lakbäck El & Fordonsteknik
   city: Tärnsjö
   urn: urn:bds:location:id:7185
@@ -839,12 +636,19 @@ locations:
   latitude: 60.172707
   longitude: 16.969532
 
-- location: Storå Bil o Maskin Service AB
-  city: Storå
-  urn: urn:bds:location:id:6492
+- location: Hedins Bilservice AB
+  city: Strängnäs
+  urn: urn:bds:location:id:30923
   country: Sverige
-  latitude: 59.712349
-  longitude: 15.121352
+  latitude: 59.376347
+  longitude: 17.013126
+
+- location: AJ:s Rep och Entrepenad AB
+  city: Sollefteå
+  urn: urn:bds:location:id:20060
+  country: Sverige
+  latitude: 63.15731
+  longitude: 17.300837
 
 - location: Dahlbergs Bilservice och Recond AB
   city: Sundsvall
@@ -853,23 +657,219 @@ locations:
   latitude: 62.346828
   longitude: 17.366297
 
-- location: Dala SpeedMek
-  city: Orsa
-  urn: urn:bds:location:id:27945
+- location: Karlssons Bilservice
+  city: Sorsele
+  urn: urn:bds:location:id:2515
   country: Sverige
-  latitude: 61.126392
-  longitude: 14.636321
+  latitude: 65.529518
+  longitude: 17.535938
 
-- location: Bilverkstan 195 AB
-  city: Älvdalen
-  urn: urn:bds:location:id:28915
+- location: Antons car service AB
+  city: Södertälje
+  urn: urn:bds:location:id:28067
   country: Sverige
-  latitude: 61.249973
-  longitude: 14.032609
+  latitude: 59.196468
+  longitude: 17.589615
 
-- location: Bilakuten i Bollnäs AB
-  city: Bollnäs
-  urn: urn:bds:location:id:1340
+- location: Messes Bilservice AB
+  city: Tumba
+  urn: urn:bds:location:id:13943
   country: Sverige
-  latitude: 61.343224
-  longitude: 16.387449
+  latitude: 59.189224
+  longitude: 17.820292
+
+- location: A.H Jakobsbergs Bilservice AB
+  city: Järfälla
+  urn: urn:bds:location:id:28591
+  country: Sverige
+  latitude: 59.41161
+  longitude: 17.826689
+
+- location: Primos Bilvård & Service
+  city: Vällingby
+  urn: urn:bds:location:id:31245
+  country: Sverige
+  latitude: 59.371189
+  longitude: 17.860508
+
+- location: Bennys Bilcenter AB
+  city: Roserberg
+  urn: urn:bds:location:id:18073
+  country: Sverige
+  latitude: 59.586174
+  longitude: 17.879835
+
+- location: Spånga Autoservice AB
+  city: Spånga
+  urn: urn:bds:location:id:30637
+  country: Sverige
+  latitude: 59.383781
+  longitude: 17.886902
+
+- location: Tullinge Bilspa / LC Bilglascenter AB
+  city: Tullinge
+  urn: urn:bds:location:id:28407
+  country: Sverige
+  latitude: 59.207687
+  longitude: 17.923689
+
+- location: SFA Bil AB
+  city: Kista
+  urn: urn:bds:location:id:27331
+  country: Sverige
+  latitude: 59.406231
+  longitude: 17.938021
+
+- location: Lövdalens Bilverkstad AB
+  city: Segeltorp
+  urn: urn:bds:location:id:30493
+  country: Sverige
+  latitude: 59.265903
+  longitude: 17.963505
+
+- location: Björns Bilservice i Huddinge
+  city: Huddinge
+  urn: urn:bds:location:id:24417
+  country: Sverige
+  latitude: 59.233742
+  longitude: 17.989323
+
+- location: Stuvsta Däck AB
+  city: Huddinge
+  urn: urn:bds:location:id:29823
+  country: Sverige
+  latitude: 59.257641
+  longitude: 17.994324
+
+- location: A & A  Automobile
+  city: Stockholm
+  urn: urn:bds:location:id:34921
+  country: Sverige
+  latitude: 59.348438
+  longitude: 18.060257
+
+- location: Sergels Bilservice & Bilvård AB
+  city: Stockholm
+  urn: urn:bds:location:id:31623
+  country: Sverige
+  latitude: 59.333912
+  longitude: 18.06324
+
+- location: Mekian Bilverkstad AB
+  city: Täby
+  urn: urn:bds:location:id:11099
+  country: Sverige
+  latitude: 59.435059
+  longitude: 18.077574
+
+- location: Länna Bilservice AB
+  city: Skogås
+  urn: urn:bds:location:id:34803
+  country: Sverige
+  latitude: 59.201042
+  longitude: 18.125954
+
+- location: Barfeld's Motor
+  city: Västerhaninge
+  urn: urn:bds:location:id:6926
+  country: Sverige
+  latitude: 59.105297
+  longitude: 18.128702
+
+- location: Universal Motors Sverige AB
+  city: Rimbo
+  urn: urn:bds:location:id:33333
+  country: Sverige
+  latitude: 59.746277
+  longitude: 18.377253
+
+- location: Sundborgs Bil & båt verkstad
+  city: Norrtälje
+  urn: urn:bds:location:id:35327
+  country: Sverige
+  latitude: 59.733368
+  longitude: 18.792156
+
+- location: Nymans Bilservice
+  city: Nordmaling
+  urn: urn:bds:location:id:25703
+  country: Sverige
+  latitude: 63.576012
+  longitude: 19.462334
+
+- location: WP Bilverkstad
+  city: Umeå
+  urn: urn:bds:location:id:17223
+  country: Sverige
+  latitude: 63.805023
+  longitude: 20.27688
+
+- location: Din Mekaniker
+  city: Umeå
+  urn: urn:bds:location:id:14599
+  country: Sverige
+  latitude: 63.862503
+  longitude: 20.303568
+
+- location: Laga Bilen i Umeå AB
+  city: Umeå
+  urn: urn:bds:location:id:16991
+  country: Sverige
+  latitude: 63.851849
+  longitude: 20.312475
+
+- location: Autotech i Gällivare AB
+  city: Gällivare
+  urn: urn:bds:location:id:23805
+  country: Sverige
+  latitude: 67.157738
+  longitude: 20.656746
+
+- location: Grönborgs Bil & Plåt
+  city: Koskullskulle
+  urn: urn:bds:location:id:2245
+  country: Sverige
+  latitude: 67.188957
+  longitude: 20.752247
+
+- location: Kågevägens Bilservice
+  city: Skellefteå
+  urn: urn:bds:location:id:2614
+  country: Sverige
+  latitude: 64.75824
+  longitude: 20.966825
+
+- location: BDS Test Verkstad
+  city: Abisko
+  urn: urn:bds:location:id:5403
+  country: Sverige
+  latitude: 71.215416
+  longitude: 21.041945
+
+- location: Hedqvist Dieselservice AB
+  city: Luleå
+  urn: urn:bds:location:id:18622
+  country: Sverige
+  latitude: 65.614616
+  longitude: 22.044861
+
+- location: Bilspecialisten
+  city: Kalix
+  urn: urn:bds:location:id:2288
+  country: Sverige
+  latitude: 65.852898
+  longitude: 23.111616
+
+- location: Kalix Däck & Cykel AB
+  city: Kalix
+  urn: urn:bds:location:id:34185
+  country: Sverige
+  latitude: 65.861275
+  longitude: 23.136194
+
+- location: Tornedalens Fordonsteknik Verkstaden
+  city: Övertorneå
+  urn: urn:bds:location:id:20831
+  country: Sverige
+  latitude: 66.384117
+  longitude: 23.649923

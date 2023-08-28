@@ -38,1346 +38,810 @@
       </Pair>
     </StyleMap>
     <Folder>
-      <name>Lekia / Babya</name>
+      <name><![CDATA[Lekia / Babya]]></name>
       <Placemark>
-        <name>Strömstad Lekia</name>
+        <name><![CDATA[Strömstad Lekia]]></name>
         <description>Strömstad Lekia, Strömstad, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            11.171202,58.93924,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>11.171202,58.93924,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Nordby Lekia</name>
+        <name><![CDATA[Nordby Lekia]]></name>
         <description>Nordby Lekia, Nordby, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            11.208232,59.064158,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>11.208232,59.064158,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Tanum Lekia och Babya</name>
+        <name><![CDATA[Tanum Lekia och Babya]]></name>
         <description>Tanum Lekia och Babya, Tanum, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            11.349102,58.72337,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>11.349102,58.72337,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Uddevalla Torp Lekia och Babya</name>
+        <name><![CDATA[Uddevalla Torp Lekia och Babya]]></name>
         <description>Uddevalla Torp Lekia och Babya, Uddevalla, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            11.804456,58.352458,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>11.804456,58.352458,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Stenungsund Lekia</name>
+        <name><![CDATA[Stenungsund Lekia]]></name>
         <description>Stenungsund Lekia, Stenungsund, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            11.820025,58.069588,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>11.820025,58.069588,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Frölunda Lekia</name>
+        <name><![CDATA[Frölunda Lekia]]></name>
         <description>Frölunda Lekia, Frölunda, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            11.9096,57.652,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>11.9096,57.652,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Göteborg Sisjön Lekia</name>
+        <name><![CDATA[Göteborg Sisjön Lekia]]></name>
         <description>Göteborg Sisjön Lekia, Göteborg, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            11.947444,57.640368,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>11.947444,57.640368,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Göteborg Backaplan Lekia</name>
+        <name><![CDATA[Göteborg Backaplan Lekia]]></name>
         <description>Göteborg Backaplan Lekia, Göteborg, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            11.952746,57.728619,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>11.952746,57.728619,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Göteborg Kungsgatan Lekia</name>
+        <name><![CDATA[Göteborg Kungsgatan Lekia]]></name>
         <description>Göteborg Kungsgatan Lekia, Göteborg, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            11.967603,57.704591,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>11.967603,57.704591,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Kungälv Kongahälla Lekia</name>
+        <name><![CDATA[Kungälv Kongahälla Lekia]]></name>
         <description>Kungälv Kongahälla Lekia, Kungälv, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            11.968425,57.873267,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>11.968425,57.873267,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Göteborg Nordstan</name>
+        <name><![CDATA[Göteborg Nordstan]]></name>
         <description>Göteborg Nordstan, Göteborg, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            11.970119,57.707885,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>11.970119,57.707885,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Mölndal Lekia</name>
+        <name><![CDATA[Mölndal Lekia]]></name>
         <description>Mölndal Lekia, Mölndal, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            12.013673,57.655013,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>12.013673,57.655013,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Kungsbacka Lekia</name>
+        <name><![CDATA[Kungsbacka Lekia]]></name>
         <description>Kungsbacka Lekia, Kungsbacka, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            12.07547,57.513523,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>12.07547,57.513523,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Allum Lekia</name>
+        <name><![CDATA[Allum Lekia]]></name>
         <description>Allum Lekia, Allum, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            12.103918,57.739277,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>12.103918,57.739277,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Bengtsfors Lekia</name>
+        <name><![CDATA[Bengtsfors Lekia]]></name>
         <description>Bengtsfors Lekia, Bengtsfors, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            12.223622,59.030283,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>12.223622,59.030283,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Varberg Fyndmagasinet Lekia</name>
+        <name><![CDATA[Varberg Fyndmagasinet Lekia]]></name>
         <description>Varberg Fyndmagasinet Lekia, Varberg, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            12.26045,57.118572,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>12.26045,57.118572,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Lerum Lekia</name>
+        <name><![CDATA[Lerum Lekia]]></name>
         <description>Lerum Lekia, Lerum, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            12.269692,57.769087,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>12.269692,57.769087,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Mellerud Lekia</name>
+        <name><![CDATA[Mellerud Lekia]]></name>
         <description>Mellerud Lekia, Mellerud, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            12.452734,58.700182,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>12.452734,58.700182,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Alingsås Lekia och Babya</name>
+        <name><![CDATA[Alingsås Lekia och Babya]]></name>
         <description>Alingsås Lekia och Babya, Alingsås, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            12.535527,57.930075,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>12.535527,57.930075,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Arvika Lekia</name>
+        <name><![CDATA[Arvika Lekia]]></name>
         <description>Arvika Lekia, Arvika, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            12.589081,59.656194,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>12.589081,59.656194,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Helsingborg Väla Centrum Lekia</name>
+        <name><![CDATA[Helsingborg Väla Centrum Lekia]]></name>
         <description>Helsingborg Väla Centrum Lekia, Helsingborg, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            12.756816,56.092056,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>12.756816,56.092056,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Halmstad Flygstaden Lekia</name>
+        <name><![CDATA[Halmstad Flygstaden Lekia]]></name>
         <description>Halmstad Flygstaden Lekia, Halmstad, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            12.807333,56.676829,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>12.807333,56.676829,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Ängelholm Lekia och Babya</name>
+        <name><![CDATA[Ängelholm Lekia och Babya]]></name>
         <description>Ängelholm Lekia och Babya, Ängelholm, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            12.888993,56.255211,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>12.888993,56.255211,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Halmstad Lekia och Babya</name>
+        <name><![CDATA[Halmstad Lekia och Babya]]></name>
         <description>Halmstad Lekia och Babya, Halmstad, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            12.909353,56.664353,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>12.909353,56.664353,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Säffle Lekia</name>
+        <name><![CDATA[Säffle Lekia]]></name>
         <description>Säffle Lekia, Säffle, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            12.924401,59.13214,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>12.924401,59.13214,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Borås Lekia</name>
+        <name><![CDATA[Borås Lekia]]></name>
         <description>Borås Lekia, Borås, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            12.939668,57.721204,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>12.939668,57.721204,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Höllviken Lekia</name>
+        <name><![CDATA[Höllviken Lekia]]></name>
         <description>Höllviken Lekia, Höllviken, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            12.965098,55.426394,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>12.965098,55.426394,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Malmö Emporia Lekia</name>
+        <name><![CDATA[Malmö Emporia Lekia]]></name>
         <description>Malmö Emporia Lekia, Malmö, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            12.971206,55.564452,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>12.971206,55.564452,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Lekia Löddeköpinge köpcenter</name>
+        <name><![CDATA[Lekia Löddeköpinge köpcenter]]></name>
         <description>Lekia Löddeköpinge köpcenter, Löddeköpinge, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            12.989965,55.769057,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>12.989965,55.769057,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Löddeköpinge Lekia</name>
+        <name><![CDATA[Löddeköpinge Lekia]]></name>
         <description>Löddeköpinge Lekia, Löddeköpinge, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            12.99414,55.769948,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>12.99414,55.769948,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Malmö Svågertorp Lekia</name>
+        <name><![CDATA[Malmö Svågertorp Lekia]]></name>
         <description>Malmö Svågertorp Lekia, Malmö, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            12.997127,55.54925,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>12.997127,55.54925,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Malmö Triangeln Lekia</name>
+        <name><![CDATA[Malmö Triangeln Lekia]]></name>
         <description>Malmö Triangeln Lekia, Malmö, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            13.00244,55.5958,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>13.00244,55.5958,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Malmö Mobilia Lekia</name>
+        <name><![CDATA[Malmö Mobilia Lekia]]></name>
         <description>Malmö Mobilia Lekia, Malmö, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            13.00344,55.58116,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>13.00344,55.58116,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Grums Lekia</name>
+        <name><![CDATA[Grums Lekia]]></name>
         <description>Grums Lekia, Grums, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            13.109566,59.348476,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>13.109566,59.348476,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Sunne Lekia</name>
+        <name><![CDATA[Sunne Lekia]]></name>
         <description>Sunne Lekia, Sunne, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            13.143463,59.836492,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>13.143463,59.836492,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Trelleborg Valengallerian Lekia</name>
+        <name><![CDATA[Trelleborg Valengallerian Lekia]]></name>
         <description>Trelleborg Valengallerian Lekia, Trelleborg, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            13.158554,55.374554,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>13.158554,55.374554,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Lund Nova Lekia</name>
+        <name><![CDATA[Lund Nova Lekia]]></name>
         <description>Lund Nova Lekia, Lund, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            13.158992,55.713863,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>13.158992,55.713863,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Lund City Lekia och Babya</name>
+        <name><![CDATA[Lund City Lekia och Babya]]></name>
         <description>Lund City Lekia och Babya, Lund, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            13.187882,55.706021,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>13.187882,55.706021,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Eslöv Lekia</name>
+        <name><![CDATA[Eslöv Lekia]]></name>
         <description>Eslöv Lekia, Eslöv, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            13.303312,55.838071,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>13.303312,55.838071,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Karlstad Bergvik Lekia</name>
+        <name><![CDATA[Karlstad Bergvik Lekia]]></name>
         <description>Karlstad Bergvik Lekia, Karlstad, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            13.424007,59.377425,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>13.424007,59.377425,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Karlstad Lekia och Babya</name>
+        <name><![CDATA[Karlstad Lekia och Babya]]></name>
         <description>Karlstad Lekia och Babya, Karlstad, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            13.482035,59.387691,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>13.482035,59.387691,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Gislaved Lekia</name>
+        <name><![CDATA[Gislaved Lekia]]></name>
         <description>Gislaved Lekia, Gislaved, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            13.536601,57.301491,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>13.536601,57.301491,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Gislaved Babya</name>
+        <name><![CDATA[Gislaved Babya]]></name>
         <description>Gislaved Babya, Gislaved, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            13.538069,57.302792,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>13.538069,57.302792,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Hässleholm Lekia</name>
+        <name><![CDATA[Hässleholm Lekia]]></name>
         <description>Hässleholm Lekia, Hässleholm, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            13.764861,56.158242,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>13.764861,56.158242,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Ystad Lekia</name>
+        <name><![CDATA[Ystad Lekia]]></name>
         <description>Ystad Lekia, Ystad, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            13.818933,55.42893,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>13.818933,55.42893,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Ystad Ohlssons Basar Lekia</name>
+        <name><![CDATA[Ystad Ohlssons Basar Lekia]]></name>
         <description>Ystad Ohlssons Basar Lekia, Ystad, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            13.838328,55.435919,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>13.838328,55.435919,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Skövde Lekia</name>
+        <name><![CDATA[Skövde Lekia]]></name>
         <description>Skövde Lekia, Skövde, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            13.854742,58.406133,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>13.854742,58.406133,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Ljungby Lekia och Babya</name>
+        <name><![CDATA[Ljungby Lekia och Babya]]></name>
         <description>Ljungby Lekia och Babya, Ljungby, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            13.942087,56.834199,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>13.942087,56.834199,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Jönköping Lekia och Babya</name>
+        <name><![CDATA[Jönköping Lekia och Babya]]></name>
         <description>Jönköping Lekia och Babya, Jönköping, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            14.183109,57.763192,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>14.183109,57.763192,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Kristianstad C4 Lekia</name>
+        <name><![CDATA[Kristianstad C4 Lekia]]></name>
         <description>Kristianstad C4 Lekia, Kristianstad, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            14.203757,56.02621,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>14.203757,56.02621,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Jönköping Asecs Lekia</name>
+        <name><![CDATA[Jönköping Asecs Lekia]]></name>
         <description>Jönköping Asecs Lekia, Jönköping, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            14.205765,57.775207,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>14.205765,57.775207,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Karlskoga Lekia och Babya</name>
+        <name><![CDATA[Karlskoga Lekia och Babya]]></name>
         <description>Karlskoga Lekia och Babya, Karlskoga, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            14.52629,59.32699,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>14.52629,59.32699,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Östersund Kärnan Lekia</name>
+        <name><![CDATA[Östersund Kärnan Lekia]]></name>
         <description>Östersund Kärnan Lekia, Östersund, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            14.638649,63.176398,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>14.638649,63.176398,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Östersund Lekia och Babya</name>
+        <name><![CDATA[Östersund Lekia och Babya]]></name>
         <description>Östersund Lekia och Babya, Östersund, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            14.687669,63.162516,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>14.687669,63.162516,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Växjö i11 Lekia och Babya</name>
+        <name><![CDATA[Växjö i11 Lekia och Babya]]></name>
         <description>Växjö i11 Lekia och Babya, Växjö, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            14.765994,56.876896,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>14.765994,56.876896,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Växjö Lekia</name>
+        <name><![CDATA[Växjö Lekia]]></name>
         <description>Växjö Lekia, Växjö, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            14.805465,56.877819,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>14.805465,56.877819,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Karlshamn Lekia</name>
+        <name><![CDATA[Karlshamn Lekia]]></name>
         <description>Karlshamn Lekia, Karlshamn, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            14.86284,56.169146,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>14.86284,56.169146,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Askersund Lekia</name>
+        <name><![CDATA[Askersund Lekia]]></name>
         <description>Askersund Lekia, Askersund, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            14.90366,58.879049,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>14.90366,58.879049,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Motala Bråstorp Lekia och Babya</name>
+        <name><![CDATA[Motala Bråstorp Lekia och Babya]]></name>
         <description>Motala Bråstorp Lekia och Babya, Motala, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            15.045566,58.557043,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>15.045566,58.557043,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Vetlanda Lekia och Babya</name>
+        <name><![CDATA[Vetlanda Lekia och Babya]]></name>
         <description>Vetlanda Lekia och Babya, Vetlanda, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            15.066726,57.44432,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>15.066726,57.44432,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Örebro Marieberg Galleria</name>
+        <name><![CDATA[Örebro Marieberg Galleria]]></name>
         <description>Örebro Marieberg Galleria, Örebro, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            15.135639,59.217262,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>15.135639,59.217262,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Örebro Marieberg Lekia och Babya</name>
+        <name><![CDATA[Örebro Marieberg Lekia och Babya]]></name>
         <description>Örebro Marieberg Lekia och Babya, Örebro, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            15.136706,59.211056,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>15.136706,59.211056,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Ludvika Lekia och Babya</name>
+        <name><![CDATA[Ludvika Lekia och Babya]]></name>
         <description>Ludvika Lekia och Babya, Ludvika, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            15.186207,60.14973,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>15.186207,60.14973,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Örebro Boglundsängen Lekia Babya</name>
+        <name><![CDATA[Örebro Boglundsängen Lekia Babya]]></name>
         <description>Örebro Boglundsängen Lekia Babya, Örebro, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            15.19799,59.295944,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>15.19799,59.295944,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Örebro City Lekia</name>
+        <name><![CDATA[Örebro City Lekia]]></name>
         <description>Örebro City Lekia, Örebro, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            15.210809,59.269168,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>15.210809,59.269168,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Borlänge Lekia</name>
+        <name><![CDATA[Borlänge Lekia]]></name>
         <description>Borlänge Lekia, Borlänge, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            15.416211,60.484447,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>15.416211,60.484447,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Linköping I-Huset Lekia</name>
+        <name><![CDATA[Linköping I-Huset Lekia]]></name>
         <description>Linköping I-Huset Lekia, Linköping, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            15.588504,58.432888,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>15.588504,58.432888,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Linköping Sagoland Lekia och Babya</name>
+        <name><![CDATA[Linköping Sagoland Lekia och Babya]]></name>
         <description>Linköping Sagoland Lekia och Babya, Linköping, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            15.590207,58.433045,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>15.590207,58.433045,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Linköping City Lekia</name>
+        <name><![CDATA[Linköping City Lekia]]></name>
         <description>Linköping City Lekia, Linköping, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            15.626623,58.410081,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>15.626623,58.410081,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Karlskrona Lekia och Babya</name>
+        <name><![CDATA[Karlskrona Lekia och Babya]]></name>
         <description>Karlskrona Lekia och Babya, Karlskrona, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            15.633508,56.195341,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>15.633508,56.195341,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Vimmerby Lekia</name>
+        <name><![CDATA[Vimmerby Lekia]]></name>
         <description>Vimmerby Lekia, Vimmerby Lekia, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            15.8476,57.667487,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>15.8476,57.667487,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Köping Lekia och Babya</name>
+        <name><![CDATA[Köping Lekia och Babya]]></name>
         <description>Köping Lekia och Babya, Köping, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            15.995408,59.513322,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>15.995408,59.513322,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Norrköping Ingelsta Shopping Lekia</name>
+        <name><![CDATA[Norrköping Ingelsta Shopping Lekia]]></name>
         <description>Norrköping Ingelsta Shopping Lekia, Norrköping, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            16.156909,58.618684,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>16.156909,58.618684,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Norrköping Ingelsta Lekia och Babya</name>
+        <name><![CDATA[Norrköping Ingelsta Lekia och Babya]]></name>
         <description>Norrköping Ingelsta Lekia och Babya, Norrköping, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            16.162125,58.610232,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>16.162125,58.610232,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Norrköping City Lekia</name>
+        <name><![CDATA[Norrköping City Lekia]]></name>
         <description>Norrköping City Lekia, Norrköping, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            16.18986,58.587601,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>16.18986,58.587601,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Norrköping Mirum Galleria Lekia</name>
+        <name><![CDATA[Norrköping Mirum Galleria Lekia]]></name>
         <description>Norrköping Mirum Galleria Lekia, Norrköping, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            16.211073,58.572774,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>16.211073,58.572774,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Kalmar Hansa Lekia</name>
+        <name><![CDATA[Kalmar Hansa Lekia]]></name>
         <description>Kalmar Hansa Lekia, Kalmar, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            16.31761,56.687189,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>16.31761,56.687189,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Kalmar Giraffen Lekia och Babya</name>
+        <name><![CDATA[Kalmar Giraffen Lekia och Babya]]></name>
         <description>Kalmar Giraffen Lekia och Babya, Kalmar, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            16.338713,56.670795,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>16.338713,56.670795,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Bollnäs Lekia och Babya</name>
+        <name><![CDATA[Bollnäs Lekia och Babya]]></name>
         <description>Bollnäs Lekia och Babya, Bollnäs, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            16.396448,61.335873,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>16.396448,61.335873,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Eskilstuna Folkesta Lekia och Babya</name>
+        <name><![CDATA[Eskilstuna Folkesta Lekia och Babya]]></name>
         <description>Eskilstuna Folkesta Lekia och Babya, Eskilstuna, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            16.426421,59.402036,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>16.426421,59.402036,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Oskarshamn Lekia och Babya</name>
+        <name><![CDATA[Oskarshamn Lekia och Babya]]></name>
         <description>Oskarshamn Lekia och Babya, Oskarshamn, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            16.446377,57.263921,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>16.446377,57.263921,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Västerås Erikslund Shopping Center</name>
+        <name><![CDATA[Västerås Erikslund Shopping Center]]></name>
         <description>Västerås Erikslund Shopping Center, Västerås, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            16.452596,59.608847,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>16.452596,59.608847,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Eskilstuna Tuna Park Lekia</name>
+        <name><![CDATA[Eskilstuna Tuna Park Lekia]]></name>
         <description>Eskilstuna Tuna Park Lekia, Eskilstuna, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            16.47011,59.37135,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>16.47011,59.37135,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Västerås Hälla Shopping Lekia</name>
+        <name><![CDATA[Västerås Hälla Shopping Lekia]]></name>
         <description>Västerås Hälla Shopping Lekia, Västerås, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            16.6216,59.610368,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>16.6216,59.610368,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Gävle Valbo Lekia</name>
+        <name><![CDATA[Gävle Valbo Lekia]]></name>
         <description>Gävle Valbo Lekia, Gävle, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            16.990784,60.633542,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>16.990784,60.633542,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Söderhamn Lekia och Babya</name>
+        <name><![CDATA[Söderhamn Lekia och Babya]]></name>
         <description>Söderhamn Lekia och Babya, Söderhamn, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            17.01661,61.295022,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>17.01661,61.295022,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Nyköping Lekia och Babya</name>
+        <name><![CDATA[Nyköping Lekia och Babya]]></name>
         <description>Nyköping Lekia och Babya, Nyköping, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            17.018152,58.772275,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>17.018152,58.772275,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Strängnäs Solberga Lekia och Babya</name>
+        <name><![CDATA[Strängnäs Solberga Lekia och Babya]]></name>
         <description>Strängnäs Solberga Lekia och Babya, Strängnäs, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            17.02028,59.3352,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>17.02028,59.3352,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Strängnäs Präntaren Lekia</name>
+        <name><![CDATA[Strängnäs Präntaren Lekia]]></name>
         <description>Strängnäs Präntaren Lekia, Strängnäs, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            17.027454,59.376086,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>17.027454,59.376086,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Enköping Lekia</name>
+        <name><![CDATA[Enköping Lekia]]></name>
         <description>Enköping Lekia, Enköping, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            17.079122,59.653288,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>17.079122,59.653288,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Hudiksvall Lekia och Babya</name>
+        <name><![CDATA[Hudiksvall Lekia och Babya]]></name>
         <description>Hudiksvall Lekia och Babya, Hudiksvall, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            17.094391,61.732961,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>17.094391,61.732961,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Gävle Lekia och Babya</name>
+        <name><![CDATA[Gävle Lekia och Babya]]></name>
         <description>Gävle Lekia och Babya, Gävle, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            17.145247,60.644978,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>17.145247,60.644978,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Sundsvall Lekia och Babya</name>
+        <name><![CDATA[Sundsvall Lekia och Babya]]></name>
         <description>Sundsvall Lekia och Babya, Sundsvall, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            17.32826,62.44756,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>17.32826,62.44756,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Sundsvall Birstacity Lekia</name>
+        <name><![CDATA[Sundsvall Birstacity Lekia]]></name>
         <description>Sundsvall Birstacity Lekia, Sundsvall, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            17.333744,62.447001,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>17.333744,62.447001,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Bålsta Lekia</name>
+        <name><![CDATA[Bålsta Lekia]]></name>
         <description>Bålsta Lekia, Bålsta, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            17.529275,59.567572,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>17.529275,59.567572,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Södertälje Centrum Lekia</name>
+        <name><![CDATA[Södertälje Centrum Lekia]]></name>
         <description>Södertälje Centrum Lekia, Södertälje, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            17.62768,59.196,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>17.62768,59.196,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Uppsala Gränbystaden Lekia</name>
+        <name><![CDATA[Uppsala Gränbystaden Lekia]]></name>
         <description>Uppsala Gränbystaden Lekia, Uppsala, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            17.673352,59.877711,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>17.673352,59.877711,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Uppsala Lekia</name>
+        <name><![CDATA[Uppsala Lekia]]></name>
         <description>Uppsala Lekia, Uppsala, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            17.689542,59.851398,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>17.689542,59.851398,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Stockholm Tumba Lekia</name>
+        <name><![CDATA[Stockholm Tumba Lekia]]></name>
         <description>Stockholm Tumba Lekia, Stockholm, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            17.832821,59.198675,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>17.832821,59.198675,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Stockholm Barkarby Lekia</name>
+        <name><![CDATA[Stockholm Barkarby Lekia]]></name>
         <description>Stockholm Barkarby Lekia, Stockholm, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            17.862974,59.412631,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>17.862974,59.412631,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Stockholm Vällingby Centrum Lekia</name>
+        <name><![CDATA[Stockholm Vällingby Centrum Lekia]]></name>
         <description>Stockholm Vällingby Centrum Lekia, Stockholm, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            17.872059,59.36329,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>17.872059,59.36329,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Stockholm Väsby Centrum Lekia</name>
+        <name><![CDATA[Stockholm Väsby Centrum Lekia]]></name>
         <description>Stockholm Väsby Centrum Lekia, Stockholm, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            17.911104,59.518566,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>17.911104,59.518566,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Stockholm Kungens Kurva Lekia</name>
+        <name><![CDATA[Stockholm Kungens Kurva Lekia]]></name>
         <description>Stockholm Kungens Kurva Lekia, Stockholm, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            17.916976,59.269795,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>17.916976,59.269795,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Stockholm Kista Galleria Lekia</name>
+        <name><![CDATA[Stockholm Kista Galleria Lekia]]></name>
         <description>Stockholm Kista Galleria Lekia, Stockholm, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            17.945512,59.402418,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>17.945512,59.402418,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Stockholm Sollentuna Lekia</name>
+        <name><![CDATA[Stockholm Sollentuna Lekia]]></name>
         <description>Stockholm Sollentuna Lekia, Stockholm, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            17.949026,59.428161,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>17.949026,59.428161,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Stockholm Bromma Lekia</name>
+        <name><![CDATA[Stockholm Bromma Lekia]]></name>
         <description>Stockholm Bromma Lekia, Stockholm, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            17.956535,59.355742,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>17.956535,59.355742,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Stockholm Solna Centrum Lekia och Babya</name>
+        <name><![CDATA[Stockholm Solna Centrum Lekia och Babya]]></name>
         <description>Stockholm Solna Centrum Lekia och Babya, Stockholm, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            18.000718,59.359861,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>18.000718,59.359861,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Stockholm Westfield Solna Mall of Scandinavia Lekia</name>
+        <name><![CDATA[Stockholm Westfield Solna Mall of Scandinavia Lekia]]></name>
         <description>Stockholm Westfield Solna Mall of Scandinavia Lekia, Stockholm, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            18.003151,59.370011,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>18.003151,59.370011,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Stockholm Liljeholmen Lekia</name>
+        <name><![CDATA[Stockholm Liljeholmen Lekia]]></name>
         <description>Stockholm Liljeholmen Lekia, Stockholm, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            18.020418,59.309421,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>18.020418,59.309421,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Stockholm Mörby Centrum Lekia</name>
+        <name><![CDATA[Stockholm Mörby Centrum Lekia]]></name>
         <description>Stockholm Mörby Centrum Lekia, Stockholm, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            18.036118,59.398257,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>18.036118,59.398257,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Stockholm Drottninggatan Lekia</name>
+        <name><![CDATA[Stockholm Drottninggatan Lekia]]></name>
         <description>Stockholm Drottninggatan Lekia, Stockholm, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            18.063865,59.331227,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>18.063865,59.331227,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Stockholm Westfield Täby Centrum Lekia</name>
+        <name><![CDATA[Stockholm Westfield Täby Centrum Lekia]]></name>
         <description>Stockholm Westfield Täby Centrum Lekia, Stockholm, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            18.067541,59.445102,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>18.067541,59.445102,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Stockholm Farsta Centrum Lekia</name>
+        <name><![CDATA[Stockholm Farsta Centrum Lekia]]></name>
         <description>Stockholm Farsta Centrum Lekia, Stockholm, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            18.089053,59.242993,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>18.089053,59.242993,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Stockholm Sickla Lekia</name>
+        <name><![CDATA[Stockholm Sickla Lekia]]></name>
         <description>Stockholm Sickla Lekia, Stockholm, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            18.126776,59.305495,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>18.126776,59.305495,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Stockholm Lidingö Lekia</name>
+        <name><![CDATA[Stockholm Lidingö Lekia]]></name>
         <description>Stockholm Lidingö Lekia, Stockholm, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            18.130632,59.365071,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>18.130632,59.365071,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Stockholm Arninge Station Lekia</name>
+        <name><![CDATA[Stockholm Arninge Station Lekia]]></name>
         <description>Stockholm Arninge Station Lekia, Stockholm, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            18.138431,59.459352,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>18.138431,59.459352,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Stockholm Nacka Lekia</name>
+        <name><![CDATA[Stockholm Nacka Lekia]]></name>
         <description>Stockholm Nacka Lekia, Stockholm, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            18.162694,59.308793,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>18.162694,59.308793,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Stockholm Tyresö Lekia</name>
+        <name><![CDATA[Stockholm Tyresö Lekia]]></name>
         <description>Stockholm Tyresö Lekia, Stockholm, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            18.229408,59.245092,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>18.229408,59.245092,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Åkersberga Lekia</name>
+        <name><![CDATA[Åkersberga Lekia]]></name>
         <description>Åkersberga Lekia, Åkersberga, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            18.298101,59.480729,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>18.298101,59.480729,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Visby Lekia</name>
+        <name><![CDATA[Visby Lekia]]></name>
         <description>Visby Lekia, Visby, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            18.300707,57.637745,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>18.300707,57.637745,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Stockholm Värmdö Lekia</name>
+        <name><![CDATA[Stockholm Värmdö Lekia]]></name>
         <description>Stockholm Värmdö Lekia, Stockholm, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            18.430476,59.313305,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>18.430476,59.313305,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Norrtälje Lekia</name>
+        <name><![CDATA[Norrtälje Lekia]]></name>
         <description>Norrtälje Lekia, Norrtälje, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            18.698755,59.75715,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>18.698755,59.75715,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Mariehamn Åland Lekia</name>
+        <name><![CDATA[Mariehamn Åland Lekia]]></name>
         <description>Mariehamn Åland Lekia, Mariehamn, Åland</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            19.933818,60.130081,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>19.933818,60.130081,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Mariehamn Åland Sittkoff Lekia</name>
+        <name><![CDATA[Mariehamn Åland Sittkoff Lekia]]></name>
         <description>Mariehamn Åland Sittkoff Lekia, Mariehamn, Åland</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            19.943022,60.098962,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>19.943022,60.098962,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Kiruna Lekia</name>
+        <name><![CDATA[Kiruna Lekia]]></name>
         <description>Kiruna Lekia, Kiruna, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            20.227892,67.855447,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>20.227892,67.855447,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Umeå Lekia</name>
+        <name><![CDATA[Umeå Lekia]]></name>
         <description>Umeå Lekia, Umeå, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            20.264284,63.824757,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>20.264284,63.824757,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Gällivare Lekia och Babya</name>
+        <name><![CDATA[Gällivare Lekia och Babya]]></name>
         <description>Gällivare Lekia och Babya, Gällivare, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            20.657289,67.149132,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>20.657289,67.149132,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Skellefteå Lekia</name>
+        <name><![CDATA[Skellefteå Lekia]]></name>
         <description>Skellefteå Lekia, Skellefteå, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            20.953367,64.750206,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>20.953367,64.750206,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Skellefteå Solbacken Lekia och Babya</name>
+        <name><![CDATA[Skellefteå Solbacken Lekia och Babya]]></name>
         <description>Skellefteå Solbacken Lekia och Babya, Skellefteå, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            21.023076,64.766281,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>21.023076,64.766281,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Piteå Lekia</name>
+        <name><![CDATA[Piteå Lekia]]></name>
         <description>Piteå Lekia, Piteå, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            21.481189,65.316797,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>21.481189,65.316797,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Boden Lekia</name>
+        <name><![CDATA[Boden Lekia]]></name>
         <description>Boden Lekia, Boden, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            21.685275,65.824664,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>21.685275,65.824664,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Luleå Storheden Lekia</name>
+        <name><![CDATA[Luleå Storheden Lekia]]></name>
         <description>Luleå Storheden Lekia, Luleå, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            22.05162,65.61618,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>22.05162,65.61618,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Luleå Lekia</name>
+        <name><![CDATA[Luleå Lekia]]></name>
         <description>Luleå Lekia, Luleå, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            22.153785,65.584653,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>22.153785,65.584653,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Haparanda Lekia och Babya</name>
+        <name><![CDATA[Haparanda Lekia och Babya]]></name>
         <description>Haparanda Lekia och Babya, Haparanda, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            24.125772,65.843964,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>24.125772,65.843964,0</coordinates></Point>
       </Placemark>
     </Folder>
   </Document>

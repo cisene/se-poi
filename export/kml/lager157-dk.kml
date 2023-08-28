@@ -38,26 +38,18 @@
       </Pair>
     </StyleMap>
     <Folder>
-      <name>Lager 157 Danmark</name>
+      <name><![CDATA[Lager 157 Danmark]]></name>
       <Placemark>
-        <name>Lager 157 Esbjerg</name>
+        <name><![CDATA[Lager 157 Esbjerg]]></name>
         <description>Lager 157 Esbjerg, Esbjerg, Danmark</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            8.456,55.504,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>8.456,55.504,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Lager 157 Kolding</name>
+        <name><![CDATA[Lager 157 Kolding]]></name>
         <description>Lager 157 Kolding, Kolding, Danmark</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            9.457,55.515,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>9.457,55.515,0</coordinates></Point>
       </Placemark>
     </Folder>
   </Document>

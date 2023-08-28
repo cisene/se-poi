@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>EM Home</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name><![CDATA[EM Home]]></name>
+      <Placemark>
+        <name><![CDATA[Em home Varberg]]></name>
+        <description>Em home Varberg, None, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>12.260033,57.121344,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Em home Heberg]]></name>
+        <description>Em home Heberg, None, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>12.630439,56.880249,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Em home Borås]]></name>
+        <description>Em home Borås, None, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>12.993399,57.725228,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Em home Lidköping]]></name>
+        <description>Em home Lidköping, None, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>13.144847,58.508795,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Em home Karlstad]]></name>
+        <description>Em home Karlstad, None, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>13.444117,59.377358,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Em home Hässleholm]]></name>
+        <description>Em home Hässleholm, None, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>13.755975,56.172074,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Em home Tomelilla]]></name>
+        <description>Em home Tomelilla, None, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>13.955765,55.543235,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Em home Tenhult]]></name>
+        <description>Em home Tenhult, None, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>14.32799,57.701103,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Em home Degerfors  Karlskoga]]></name>
+        <description>Em home Degerfors  Karlskoga, None, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>14.44163,59.25542,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Em home Bromölla]]></name>
+        <description>Em home Bromölla, None, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>14.468429,56.065873,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Em home Dvärsätt]]></name>
+        <description>Em home Dvärsätt, None, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>14.474597,63.301458,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Em home Sommen]]></name>
+        <description>Em home Sommen, None, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>14.968464,58.129859,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Em home Motala]]></name>
+        <description>Em home Motala, None, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>15.011292,58.540242,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Em home Vetlanda]]></name>
+        <description>Em home Vetlanda, None, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>15.055941,57.428102,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Em home Örebro]]></name>
+        <description>Em home Örebro, None, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>15.136973,59.211716,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Em home Ljusfallshammar]]></name>
+        <description>Em home Ljusfallshammar, None, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>15.492764,58.787748,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Em home Karlskrona]]></name>
+        <description>Em home Karlskrona, None, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>15.644319,56.207909,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Em home Kalmar]]></name>
+        <description>Em home Kalmar, None, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>16.313774,56.670927,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Em home Västerås]]></name>
+        <description>Em home Västerås, None, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>16.459798,59.61364,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Em home Uppsala]]></name>
+        <description>Em home Uppsala, None, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>17.688358,59.857051,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Em home Visby]]></name>
+        <description>Em home Visby, None, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>18.318429,57.644848,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Em home Åland]]></name>
+        <description>Em home Åland, None, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>19.938155,60.13105,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Em home Boden]]></name>
+        <description>Em home Boden, None, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>21.701089,65.821198,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Em home Antnäs]]></name>
+        <description>Em home Antnäs, None, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>21.844179,65.549417,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

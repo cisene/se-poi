@@ -38,66 +38,42 @@
       </Pair>
     </StyleMap>
     <Folder>
-      <name>Vapiano</name>
+      <name><![CDATA[Vapiano]]></name>
       <Placemark>
-        <name>Vapiano Kungsport</name>
+        <name><![CDATA[Vapiano Kungsport]]></name>
         <description>Vapiano Kungsport, Göteborg, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            11.968438,57.705188,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>11.968438,57.705188,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Vapiano Emporia</name>
+        <name><![CDATA[Vapiano Emporia]]></name>
         <description>Vapiano Emporia, Malmö, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            12.974813,55.563812,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>12.974813,55.563812,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Vapiano Mall Of Scandinavia</name>
+        <name><![CDATA[Vapiano Mall Of Scandinavia]]></name>
         <description>Vapiano Mall Of Scandinavia, Solna, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            18.000937,59.370937,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>18.000937,59.370937,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Vapiano Vasagatan</name>
+        <name><![CDATA[Vapiano Vasagatan]]></name>
         <description>Vapiano Vasagatan, Stockholm, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            18.059812,59.330437,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>18.059812,59.330437,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Vapiano Gamla Stan</name>
+        <name><![CDATA[Vapiano Gamla Stan]]></name>
         <description>Vapiano Gamla Stan, Stockholm, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            18.068062,59.323437,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>18.068062,59.323437,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Vapiano Stureplan</name>
+        <name><![CDATA[Vapiano Stureplan]]></name>
         <description>Vapiano Stureplan, Stockholm, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            18.074063,59.337438,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>18.074063,59.337438,0</coordinates></Point>
       </Placemark>
     </Folder>
   </Document>

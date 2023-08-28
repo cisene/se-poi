@@ -38,56 +38,36 @@
       </Pair>
     </StyleMap>
     <Folder>
-      <name>Jensens Bøfhus</name>
+      <name><![CDATA[Jensens Bøfhus]]></name>
       <Placemark>
-        <name>Jensens Bøfhus Emporia</name>
+        <name><![CDATA[Jensens Bøfhus Emporia]]></name>
         <description>Jensens Bøfhus Emporia, Malmö, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            12.974563,55.563437,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>12.974563,55.563437,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Jensens Bøfhus Malmø City</name>
+        <name><![CDATA[Jensens Bøfhus Malmø City]]></name>
         <description>Jensens Bøfhus Malmø City, Malmö, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            13.000813,55.600812,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>13.000813,55.600812,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Jensens Bøfhus Jönköping</name>
+        <name><![CDATA[Jensens Bøfhus Jönköping]]></name>
         <description>Jensens Bøfhus Jönköping, Jönköping, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            14.163312,57.783437,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>14.163312,57.783437,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Jensens Bøfhus Vasagatan</name>
+        <name><![CDATA[Jensens Bøfhus Vasagatan]]></name>
         <description>Jensens Bøfhus Vasagatan, Stockholm, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            18.058687,59.331812,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>18.058687,59.331812,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Jensens Bøfhus Sergelgatan</name>
+        <name><![CDATA[Jensens Bøfhus Sergelgatan]]></name>
         <description>Jensens Bøfhus Sergelgatan, Stockholm, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            18.063812,59.333062,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>18.063812,59.333062,0</coordinates></Point>
       </Placemark>
     </Folder>
   </Document>

@@ -38,26 +38,18 @@
       </Pair>
     </StyleMap>
     <Folder>
-      <name>Kreatima</name>
+      <name><![CDATA[Kreatima]]></name>
       <Placemark>
-        <name>Kreatima Göteborg</name>
+        <name><![CDATA[Kreatima Göteborg]]></name>
         <description>Kreatima Göteborg, Göteborg, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            11.96092,57.70409,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>11.96092,57.70409,0</coordinates></Point>
       </Placemark>
       <Placemark>
-        <name>Kreatima Stockholm</name>
+        <name><![CDATA[Kreatima Stockholm]]></name>
         <description>Kreatima Stockholm, Stockholm, Sverige</description>
         <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            18.056809,59.334505,0
-          </coordinates>
-        </Point>
+        <Point><coordinates>18.056809,59.334505,0</coordinates></Point>
       </Placemark>
     </Folder>
   </Document>

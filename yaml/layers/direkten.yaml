@@ -3,1147 +3,1146 @@ meta:
   web: https://direkten.se/
   wikipedia: https://sv.wikipedia.org/wiki/Direkten
   category: Dagligvarukedjor
-  locations: 0
+  locations: 163
 
 locations:
-- location: Alby 
-  city: Norsborg
-  urn: urn:direkten:location:id:464
-  country: Sverige
-  latitude: 59.238006
-  longitude: 17.844787
-
-- location: Annas 
-  city: Helsingborg
-  urn: urn:direkten:location:id:460
-  country: Sverige
-  latitude: 56.027265
-  longitude: 12.707813
-
-- location: Annedal 
-  city: Bromma
-  urn: urn:direkten:location:id:2094
-  country: Sverige
-  latitude: 59.363633
-  longitude: 17.946154
-
-- location: Avesta 
-  city: Avesta
-  urn: urn:direkten:location:id:3001
-  country: Sverige
-  latitude: 60.1463176
-  longitude: 16.1744262
-
-- location: Baronen 
-  city: Kalmar
-  urn: urn:direkten:location:id:2861
-  country: Sverige
-  latitude: 56.660847
-  longitude: 16.365178
-
-- location: Björkhagen 
-  city: Johanneshov
-  urn: urn:direkten:location:id:3025
-  country: Sverige
-  latitude: 59.28989
-  longitude: 18.116391
-
-- location: Blåkulla 
-  city: Helsingborg
-  urn: urn:direkten:location:id:2825
-  country: Sverige
-  latitude: 56.062194
-  longitude: 12.727946
-
-- location: Bromölla 
-  city: Bromölla
-  urn: urn:direkten:location:id:2405
-  country: Sverige
-  latitude: 56.074482
-  longitude: 14.467768
-
-- location: Bäckby 
-  city: Västerås
-  urn: urn:direkten:location:id:2975
-  country: Sverige
-  latitude: 59.59900193
-  longitude: 16.47426699
-
-- location: Bålsta 
-  city: Bålsta
-  urn: urn:direkten:location:id:480
-  country: Sverige
-  latitude: 59.566547
-  longitude: 17.527174
-
-- location: Campus 
-  city: Karlstad
-  urn: urn:direkten:location:id:2181
-  country: Sverige
-  latitude: 59.411864
-  longitude: 13.571793
-
-- location: Cigarr & Spel 
-  city: Kista
-  urn: urn:direkten:location:id:741
-  country: Sverige
-  latitude: 59.40271
-  longitude: 17.94482
-
-- location: Cigarr & Spel Sundbyberg 
-  city: Sundbyberg
-  urn: urn:direkten:location:id:2829
-  country: Sverige
-  latitude: 59.360294
-  longitude: 17.961328
-
-- location: Cigarrmagasinet 
-  city: Hässleholm
-  urn: urn:direkten:location:id:810
-  country: Sverige
-  latitude: 56.157546
-  longitude: 13.766699
-
-- location: City Tobak 
-  city: Nässjö
-  urn: urn:direkten:location:id:849
-  country: Sverige
-  latitude: 57.653376
-  longitude: 14.69545
-
-- location: City Torget 
-  city: Göteborg
-  urn: urn:direkten:location:id:484
-  country: Sverige
-  latitude: 57.757287
-  longitude: 12.03639
-
-- location: Danielas Spel & Tobaksbutik 
-  city: Landskrona
-  urn: urn:direkten:location:id:2388
-  country: Sverige
-  latitude: 55.874484
-  longitude: 12.831917
-
-- location: Danska vägen 
-  city: Göteborg
-  urn: urn:direkten:location:id:2912
-  country: Sverige
-  latitude: 57.712824
-  longitude: 12.007528
-
-- location: Degerfors 
-  city: Degerfors
-  urn: urn:direkten:location:id:3011
-  country: Sverige
-  latitude: 59.2369293711
-  longitude: 14.4315358718
-
-- location: Djurgårds Närlivs 
-  city: Stockholm
-  urn: urn:direkten:location:id:2279
-  country: Sverige
-  latitude: 59.355440
-  longitude: 18.087584
-
-- location: Eliassons 
-  city: Getinge
-  urn: urn:direkten:location:id:769
-  country: Sverige
-  latitude: 56.817682
-  longitude: 12.732038
-
-- location: Entré 
-  city: Trelleborg
-  urn: urn:direkten:location:id:489
-  country: Sverige
-  latitude: 55.38167
-  longitude: 13.14443
-
-- location: Entrébutiken 
-  city: Trollhättan
-  urn: urn:direkten:location:id:2104
-  country: Sverige
-  latitude: 58.285163
-  longitude: 12.290987
-
-- location: Eskils Tobak 
-  city: Helsingborg
-  urn: urn:direkten:location:id:3016
-  country: Sverige
-  latitude: 56.028430
-  longitude: 12.725666
-
-- location: Eslöv 
-  city: Eslöv
-  urn: urn:direkten:location:id:2902
-  country: Sverige
-  latitude: 55.837587
-  longitude: 13.303175
-
-- location: Ettans GK 
-  city: Malmö
-  urn: urn:direkten:location:id:491
-  country: Sverige
-  latitude: 55.60527
-  longitude: 13.02273
-
-- location: Evening Market 
-  city: Malmö
-  urn: urn:direkten:location:id:2295
-  country: Sverige
-  latitude: 55.595726
-  longitude: 13.008648
-
-- location: Falun 
-  city: Falun
-  urn: urn:direkten:location:id:2312
-  country: Sverige
-  latitude: 60.606782
-  longitude: 15.634444
-
-- location: Farsta Speltjänst 
-  city: Farsta
-  urn: urn:direkten:location:id:494
-  country: Sverige
-  latitude: 59.24201
-  longitude: 18.09351
-
-- location: Farsta Tobak 
-  city: Farsta
-  urn: urn:direkten:location:id:677
-  country: Sverige
-  latitude: 59.24337
-  longitude: 18.08968
-
-- location: Film & Fabel Borlänge 
-  city: Borlänge
-  urn: urn:direkten:location:id:2311
-  country: Sverige
-  latitude: 60.484012
-  longitude: 15.404406
-
-- location: Fritsla 
-  city: Fritsla
-  urn: urn:direkten:location:id:2931
-  country: Sverige
-  latitude: 57.55796992
-  longitude: 12.78927852
-
-- location: Fruängen 
-  city: Hägersten"09:00-18:30
-  urn: urn:direkten:location:id:3022
-  country: Sverige
-  latitude: 59.2855610
-  longitude: 17.96402275
-
-- location: Furulund 
-  city: Partille
-  urn: urn:direkten:location:id:2065
-  country: Sverige
-  latitude: 57.725021
-  longitude: 12.128532
-
-- location: Fyren 
-  city: Färjestaden
-  urn: urn:direkten:location:id:497
-  country: Sverige
-  latitude: 56.64995
-  longitude: 16.46740
-
-- location: Gnesta 
-  city: Gnesta
-  urn: urn:direkten:location:id:3006
-  country: Sverige
-  latitude: 59.048245
-  longitude: 17.3086761
-
-- location: Godisparadiset 
-  city: Landskrona
-  urn: urn:direkten:location:id:2821
-  country: Sverige
-  latitude: 55.870880
-  longitude: 12.834390
-
-- location: Godisriket 
-  city: Västra Frölunda
-  urn: urn:direkten:location:id:2391
-  country: Sverige
-  latitude: 57.639446
-  longitude: 11.9010313
-
-- location: Granngården 
-  city: Trollhättan
-  urn: urn:direkten:location:id:2132
-  country: Sverige
-  latitude: 58.263288
-  longitude: 12.297444
-
-- location: Grythyttan 
-  city: Grythyttan 
-  urn: urn:direkten:location:id:726
-  country: Sverige
-  latitude: 59.70570
-  longitude: 14.54390
-
-- location: Gubbängens Tobak & Spel 
-  city: Enskede
-  urn: urn:direkten:location:id:889
-  country: Sverige
-  latitude: 59.26208
-  longitude: 18.08322
-
-- location: Gullmarsplan 
-  city: Johanneshov
-  urn: urn:direkten:location:id:2823
-  country: Sverige
-  latitude: 59.296456
-  longitude: 18.075042
-
-- location: Gärdescentralen 
-  city: Stockholm
-  urn: urn:direkten:location:id:508
-  country: Sverige
-  latitude: 59.34678
-  longitude: 18.10066
-
-- location: Hagsätrakiosken 
-  city: Bandhagen
-  urn: urn:direkten:location:id:2970
-  country: Sverige
-  latitude: 59.2623628
-  longitude: 18.01444939
-
-- location: Hallunda 
-  city: Norsborg
-  urn: urn:direkten:location:id:513
-  country: Sverige
-  latitude: 59.24433
-  longitude: 17.82620
-
-- location: Hammarby 
-  city: Stockholm
-  urn: urn:direkten:location:id:2955
-  country: Sverige
-  latitude: 59.3046569
-  longitude: 18.1056868
-
-- location: Handen 
-  city: Handen
-  urn: urn:direkten:location:id:2799
-  country: Sverige
-  latitude: 59.159587
-  longitude: 18.137370
-
-- location: Haninge Spel 
-  city: Handen
-  urn: urn:direkten:location:id:685
-  country: Sverige
-  latitude: 59.16916
-  longitude: 18.14027
-
-- location: Hasselboden 
-  city: Stenungsund
-  urn: urn:direkten:location:id:514
-  country: Sverige
-  latitude: 58.06180
-  longitude: 11.84309
-
-- location: HJ Anderssons Tobak 
-  city: Karlshamn
-  urn: urn:direkten:location:id:520
-  country: Sverige
-  latitude: 56.17190
-  longitude: 14.86066
-
-- location: Hornsbergs Strand 
-  city: Stockholm
-  urn: urn:direkten:location:id:2204
-  country: Sverige
-  latitude: 59.34055
-  longitude: 18.00837
-
-- location: Huddinge 
-  city: Huddinge
-  urn: urn:direkten:location:id:2076
-  country: Sverige
-  latitude: 59.237214
-  longitude: 17.978332
-
-- location: Husby 
-  city: Kista
-  urn: urn:direkten:location:id:2827
-  country: Sverige
-  latitude: 59.409777
-  longitude: 17.925906
-
-- location: Huvudsta 
-  city: Solna
-  urn: urn:direkten:location:id:2993
-  country: Sverige
-  latitude: 59.349822
-  longitude: 17.985973
-
-- location: Höganäs 
-  city: Höganäs
-  urn: urn:direkten:location:id:462
-  country: Sverige
-  latitude: 56.199756
-  longitude: 12.561519
-
-- location: Hörby 
-  city: Hörby
-  urn: urn:direkten:location:id:2835
-  country: Sverige
-  latitude: 55.852346
-  longitude: 13.661651
-
-- location: Ingers Kiosk 
-  city: Skellefteå
-  urn: urn:direkten:location:id:2057
-  country: Sverige
-  latitude: 64.751141
-  longitude: 20.968737
-
-- location: Janssons Kiosk 
-  city: Nyköping
-  urn: urn:direkten:location:id:1334
-  country: Sverige
-  latitude: 58.750002
-  longitude: 17.013142
-
-- location: Johanneshovsvägen 
-  city: Årsta
-  urn: urn:direkten:location:id:2915
-  country: Sverige
-  latitude: 59.293626
-  longitude: 18.063457
-
-- location: Jordbro 
-  city: Jordbro
-  urn: urn:direkten:location:id:2256
-  country: Sverige
-  latitude: 59.141499
-  longitude: 18.1349527
-
-- location: Jungfrugatan 
-  city: Stockholm"09:30-19:00
-  urn: urn:direkten:location:id:2958
-  country: Sverige
-  latitude: 59.34310914
-  longitude: 18.08625893
-
-- location: Järnakiosken 
-  city: Järna
-  urn: urn:direkten:location:id:2863
-  country: Sverige
-  latitude: 59.089619
-  longitude: 17.564930
-
-- location: Kajutan 
-  city: Åkersberga
-  urn: urn:direkten:location:id:531
-  country: Sverige
-  latitude: 59.480162
-  longitude: 18.298497
-
-- location: Kalles Högaborg 
-  city: Helsingborg
-  urn: urn:direkten:location:id:532
-  country: Sverige
-  latitude: 56.04114
-  longitude: 12.71201
-
-- location: Kalles Kiosk 
-  city: Arjeplog
-  urn: urn:direkten:location:id:694
-  country: Sverige
-  latitude: 66.0512
-  longitude: 17.891434
-
-- location: Kallhälls Spel 
-  city: Järfälla
-  urn: urn:direkten:location:id:2352
-  country: Sverige
-  latitude: 59.45458
-  longitude: 17.805672
-
-- location: Kioskbutik Karamellen 
-  city: Burträsk
-  urn: urn:direkten:location:id:876
-  country: Sverige
-  latitude: 64.51902
-  longitude: 20.65800
-
-- location: Kiruna 
-  city: Kiruna
-  urn: urn:direkten:location:id:3019
-  country: Sverige
-  latitude: 67.8492931
-  longitude: 20.3076105
-
-- location: Kistakrysset 
-  city: Kista"
-  urn: urn:direkten:location:id:2242
-  country: Sverige
-  latitude: 59.406544
-  longitude: 17.956611
-
-- location: Knivsta 
-  city: Knivsta
-  urn: urn:direkten:location:id:795
-  country: Sverige
-  latitude: 59.727867
-  longitude: 17.785891
-
-- location: Kolbäck 
-  city: Kolbäck
-  urn: urn:direkten:location:id:2854
-  country: Sverige
-  latitude: 59.563913
-  longitude: 16.230305
-
-- location: Kringlan 
-  city: Södertälje
-  urn: urn:direkten:location:id:537
-  country: Sverige
-  latitude: 59.19602
-  longitude: 17.62804
-
-- location: Kungens Kurva 
-  city: Kungens Kurva
-  urn: urn:direkten:location:id:2143
-  country: Sverige
-  latitude: 59.268145
-  longitude: 17.916809
-
-- location: Kungsgatan 
-  city: Enköping
-  urn: urn:direkten:location:id:2874
-  country: Sverige
-  latitude: 59.635014
-  longitude: 17.079146
-
-- location: Kustens Tips & Tobak 
-  city: Göteborg
-  urn: urn:direkten:location:id:974
-  country: Sverige
-  latitude: 57.69439
-  longitude: 11.91905
-
-- location: Kvarnby Livs & Spel 
-  city: Mölndal
-  urn: urn:direkten:location:id:1983
-  country: Sverige
-  latitude: 57.65664
-  longitude: 12.024551
-
-- location: Lejonkulan 
-  city: Eksjö
-  urn: urn:direkten:location:id:543
-  country: Sverige
-  latitude: 57.665789
-  longitude: 14.972598
-
-- location: Limhamn 
-  city: Limhamn
-  urn: urn:direkten:location:id:2857
-  country: Sverige
-  latitude: 55.589459
-  longitude: 12.932581
-
-- location: Lindesberg 
-  city: Lindesberg
-  urn: urn:direkten:location:id:2056
-  country: Sverige
-  latitude: 59.594402
-  longitude: 15.226231
-
-- location: Linné 
-  city: Göteborg
-  urn: urn:direkten:location:id:780
-  country: Sverige
-  latitude: 57.69672
-  longitude: 11.95154
-
-- location: Ljusdal 
-  city: Ljusdal
-  urn: urn:direkten:location:id:751
-  country: Sverige
-  latitude: 61.828532
-  longitude: 16.096267
-
-- location: Läggestakiosken 
-  city: Mariefred
-  urn: urn:direkten:location:id:2920
-  country: Sverige
-  latitude: 59.24806
-  longitude: 17.16707
-
-- location: Lödöse 
-  city: Lödöse
-  urn: urn:direkten:location:id:2394
-  country: Sverige
-  latitude: 58.028860
-  longitude: 12.153292
-
-- location: Marias Godis 
-  city: Stockholm
-  urn: urn:direkten:location:id:2323
-  country: Sverige
-  latitude: 59.317664
-  longitude: 18.033035
-
-- location: Moheda 
-  city: Moheda
-  urn: urn:direkten:location:id:808
-  country: Sverige
-  latitude: 57.00180
-  longitude: 14.57351
-
-- location: Möllans Spel 
-  city: Malmö
-  urn: urn:direkten:location:id:1303
-  country: Sverige
-  latitude: 55.589995
-  longitude: 13.010642
-
-- location: Mölndalsvägen 
-  city: Göteborg
-  urn: urn:direkten:location:id:2243
-  country: Sverige
-  latitude: 57.69109
-  longitude: 11.992013
-
-- location: Mötesplatsen 
-  city: Göteborg
-  urn: urn:direkten:location:id:2917
-  country: Sverige
-  latitude: 57.720022
-  longitude: 11.926570
-
-- location: Nacka strand 
-  city: Nacka strand
-  urn: urn:direkten:location:id:3015
-  country: Sverige
-  latitude: 59.31615036
-  longitude: 18.1603790
-
-- location: Nora 
-  city: Nora
-  urn: urn:direkten:location:id:561
-  country: Sverige
-  latitude: 59.520196
-  longitude: 15.035912
-
-- location: Norje 
-  city: Norje
-  urn: urn:direkten:location:id:3023
-  country: Sverige
-  latitude: 56.11692226
-  longitude: 14.6774718
-
-- location: Nya Torget 
-  city: Norrköping
-  urn: urn:direkten:location:id:564
-  country: Sverige
-  latitude: 58.591389
-  longitude: 16.191942
-
-- location: Nydala 
-  city: Malmö
-  urn: urn:direkten:location:id:565
-  country: Sverige
-  latitude: 55.57392
-  longitude: 13.02107
-
-- location: Nöje Casablanca 
-  city: Karlstad
-  urn: urn:direkten:location:id:2064
-  country: Sverige
-  latitude: 59.393669
-  longitude: 13.517
-
-- location: Nöje Kupén 
-  city: Skurup
-  urn: urn:direkten:location:id:2131
-  country: Sverige
-  latitude: 55.480214
-  longitude: 13.50177
-
-- location: Nöje Olofström 
-  city: Olofström
-  urn: urn:direkten:location:id:576
-  country: Sverige
-  latitude: 56.27762
-  longitude: 14.52480
-
-- location: Nöje Sörens 
-  city: Tibro
-  urn: urn:direkten:location:id:967
-  country: Sverige
-  latitude: 58.42251
-  longitude: 14.164875
-
-- location: Nöje Örebro 
-  city: Örebro
-  urn: urn:direkten:location:id:1946
-  country: Sverige
-  latitude: 59.268712
-  longitude: 15.208448
-
-- location: Oceanen 
-  city: Helsingborg
-  urn: urn:direkten:location:id:2987
-  country: Sverige
-  latitude: 56.04175867
-  longitude: 12.69146677
-
-- location: Olympen 
-  city: Helsingborg
-  urn: urn:direkten:location:id:1286
-  country: Sverige
-  latitude: 56.047415
-  longitude: 12.718272
-
-- location: Oskarshamn 
-  city: Oskarshamn
-  urn: urn:direkten:location:id:580
-  country: Sverige
-  latitude: 57.26470
-  longitude: 16.44449
-
-- location: Pendelkiosken 
-  city: Sollentuna
-  urn: urn:direkten:location:id:2897
-  country: Sverige
-  latitude: 59.429420
-  longitude: 17.948851
-
-- location: Pipcenter 
-  city: Västra Frölunda
-  urn: urn:direkten:location:id:660
-  country: Sverige
-  latitude: 57.651783
-  longitude: 11.910449
-
-- location: Pite Spelbutik 
-  city: Piteå
-  urn: urn:direkten:location:id:583
-  country: Sverige
-  latitude: 65.317812
-  longitude: 21.4777504
-
-- location: Resecentrum Strängnäs 
-  city: Strängnäs
-  urn: urn:direkten:location:id:2951
-  country: Sverige
-  latitude: 59.370412
-  longitude: 17.028203
-
-- location: Riddarspelet 
-  city: Järfälla
-  urn: urn:direkten:location:id:2905
-  country: Sverige
-  latitude: 59.424228
-  longitude: 17.836333
-
-- location: Ringstorp 
-  city: Helsingborg
-  urn: urn:direkten:location:id:584
-  country: Sverige
-  latitude: 56.06541
-  longitude: 12.70065
-
-- location: Rocent 
-  city: Malmö
-  urn: urn:direkten:location:id:703
-  country: Sverige
-  latitude: 55.58608
-  longitude: 13.04507
-
-- location: Ronnebygatan 
-  city: Karlshamn
-  urn: urn:direkten:location:id:2378
-  country: Sverige
-  latitude: 56.168830
-  longitude: 14.863058
-
-- location: Rosalita 
-  city: Huddinge
-  urn: urn:direkten:location:id:2918
-  country: Sverige
-  latitude: 59.232822
-  longitude: 17.989110
-
-- location: Rosen 
-  city: Helsingborg
-  urn: urn:direkten:location:id:798
-  country: Sverige
-  latitude: 56.05037
-  longitude: 12.72686
-
-- location: Roslagen 
-  city: Täby
-  urn: urn:direkten:location:id:2817
-  country: Sverige
-  latitude: 59.435356
-  longitude: 18.058695
-
-- location: Ryd 
-  city: Linköping
-  urn: urn:direkten:location:id:585
-  country: Sverige
-  latitude: 58.40883
-  longitude: 15.56268
-
-- location: Råslätt 
-  city: Jönköping
-  urn: urn:direkten:location:id:586
-  country: Sverige
-  latitude: 57.73949
-  longitude: 14.15191
-
-- location: Sala Godiscenter 
-  city: Sala
-  urn: urn:direkten:location:id:2344
-  country: Sverige
-  latitude: 59.919918
-  longitude: 16.606648
-
-- location: Sekunden 
-  city: Skövde
-  urn: urn:direkten:location:id:901
-  country: Sverige
-  latitude: 58.38718
-  longitude: 13.85822
-
-- location: Sickla 
-  city: Nacka
-  urn: urn:direkten:location:id:854
-  country: Sverige
-  latitude: 59.30622568
-  longitude: 18.12241994
-
-- location: Simhallskiosken 
-  city: Kiruna
-  urn: urn:direkten:location:id:892
-  country: Sverige
-  latitude: 67.85444
-  longitude: 20.23619
-
-- location: Skanstull 
-  city: Stockholm
-  urn: urn:direkten:location:id:894
-  country: Sverige
-  latitude: 59.309401
-  longitude: 18.075404
-
-- location: Skene 
-  city: Skene
-  urn: urn:direkten:location:id:2328
-  country: Sverige
-  latitude: 57.489710
-  longitude: 12.641142
-
-- location: Skepparens Tobak 
-  city: Södertälje
-  urn: urn:direkten:location:id:1618
-  country: Sverige
-  latitude: 59.211368
-  longitude: 17.63157
-
-- location: Skogås 
-  city: Skogås
-  urn: urn:direkten:location:id:1636
-  country: Sverige
-  latitude: 59.217985
-  longitude: 18.152734
-
-- location: Skultuna 
-  city: Skultuna
-  urn: urn:direkten:location:id:2842
-  country: Sverige
-  latitude: 59.71787
-  longitude: 16.42849
-
-- location: Skvallertorget 
-  city: Norrköping
-  urn: urn:direkten:location:id:2867
-  country: Sverige
-  latitude: 58.590816
-  longitude: 16.178653
-
-- location: Smögen 
+- location: Smögen
   city: Smögen
   urn: urn:direkten:location:id:2392
   country: Sverige
   latitude: 58.354275
   longitude: 11.224919
 
-- location: Sofiavägen 
-  city: Lund
-  urn: urn:direkten:location:id:2929
-  country: Sverige
-  latitude: 55.718211
-  longitude: 13.198705
-
-- location: Spånga 
-  city: Spånga
-  urn: urn:direkten:location:id:2872
-  country: Sverige
-  latitude: 59.381353
-  longitude: 17.898537
-
-- location: Staffanstorp 
-  city: Staffanstorp
-  urn: urn:direkten:location:id:2374
-  country: Sverige
-  latitude: 55.642606
-  longitude: 13.204207
-
-- location: Stuvsta Torg 
-  city: Huddinge
-  urn: urn:direkten:location:id:2348
-  country: Sverige
-  latitude: 59.252931
-  longitude: 17.996771
-
-- location: Sundsvall 
-  city: Sundsvall
-  urn: urn:direkten:location:id:611
-  country: Sverige
-  latitude: 62.390915
-  longitude: 17.30985
-
-- location: Sunne 
-  city: Sunne
-  urn: urn:direkten:location:id:612
-  country: Sverige
-  latitude: 59.836645
-  longitude: 13.147929
-
-- location: Söderhallarna 
-  city: Stockholm
-  urn: urn:direkten:location:id:551
-  country: Sverige
-  latitude: 59.31443
-  longitude: 18.07092
-
-- location: SöderTull 
-  city: Norrköping
-  urn: urn:direkten:location:id:1640
-  country: Sverige
-  latitude: 58.585745
-  longitude: 16.189384
-
-- location: Södervärn 
-  city: Malmö
-  urn: urn:direkten:location:id:2113
-  country: Sverige
-  latitude: 55.590522
-  longitude: 13.005395
-
-- location: Tallkrogen 
-  city: Enskede
-  urn: urn:direkten:location:id:2973
-  country: Sverige
-  latitude: 59.27126802
-  longitude: 18.0852236
-
-- location: Tareqs Tobak 
-  city: Stockholm
-  urn: urn:direkten:location:id:2112
-  country: Sverige
-  latitude: 59.314758
-  longitude: 18.076834
-
-- location: Tidaholm 
-  city: Tidaholm
-  urn: urn:direkten:location:id:2198
-  country: Sverige
-  latitude: 58.182568
-  longitude: 13.958551
-
-- location: Tobaksboden Kalmar 
-  city: Kalmar
-  urn: urn:direkten:location:id:904
-  country: Sverige
-  latitude: 56.667571
-  longitude: 16.355004
-
-- location: Tobakshörnan Alingsås 
-  city: Alingsås
-  urn: urn:direkten:location:id:596
-  country: Sverige
-  latitude: 57.929893
-  longitude: 12.538332
-
-- location: Tobakshörnan Jönköping 
-  city: Jönköping
-  urn: urn:direkten:location:id:665
-  country: Sverige
-  latitude: 57.781373
-  longitude: 14.199382
-
-- location: Toppen 
-  city: Göteborg
-  urn: urn:direkten:location:id:2359
-  country: Sverige
-  latitude: 57.696949
-  longitude: 11.926924
-
-- location: Trial 
-  city: Helsingborg
-  urn: urn:direkten:location:id:626
-  country: Sverige
-  latitude: 56.03957
-  longitude: 12.702724
-
-- location: Trogens Place 
+- location: Trogens Place
   city: Hedekas
   urn: urn:direkten:location:id:2237
   country: Sverige
   latitude: 58.644521
   longitude: 11.779843
 
-- location: Trångsund 
-  city: Trångsund
-  urn: urn:direkten:location:id:2302
+- location: Hasselboden
+  city: Stenungsund
+  urn: urn:direkten:location:id:514
   country: Sverige
-  latitude: 59.228204
-  longitude: 18.132792
+  latitude: 58.0618
+  longitude: 11.84309
 
-- location: Tulegatan 
-  city: Sundbyberg
-  urn: urn:direkten:location:id:2232
+- location: Godisriket
+  city: Västra Frölunda
+  urn: urn:direkten:location:id:2391
   country: Sverige
-  latitude: 59.364936
-  longitude: 17.974973
+  latitude: 57.639446
+  longitude: 11.901031
 
-- location: Tumba 
-  city: Tumba"09:00-19:00
-  urn: urn:direkten:location:id:628
+- location: Pipcenter
+  city: Västra Frölunda
+  urn: urn:direkten:location:id:660
   country: Sverige
-  latitude: 59.19851
-  longitude: 17.83319
+  latitude: 57.651783
+  longitude: 11.910449
 
-- location: Tuve 
+- location: Kustens Tips & Tobak
+  city: Göteborg
+  urn: urn:direkten:location:id:974
+  country: Sverige
+  latitude: 57.69439
+  longitude: 11.91905
+
+- location: Mötesplatsen
+  city: Göteborg
+  urn: urn:direkten:location:id:2917
+  country: Sverige
+  latitude: 57.720022
+  longitude: 11.92657
+
+- location: Toppen
+  city: Göteborg
+  urn: urn:direkten:location:id:2359
+  country: Sverige
+  latitude: 57.696949
+  longitude: 11.926924
+
+- location: Tuve
   city: Tuve
   urn: urn:direkten:location:id:2953
   country: Sverige
-  latitude: 57.7490047
-  longitude: 11.9281940
+  latitude: 57.749005
+  longitude: 11.928194
 
-- location: Vallda 
+- location: Linné
+  city: Göteborg
+  urn: urn:direkten:location:id:780
+  country: Sverige
+  latitude: 57.69672
+  longitude: 11.95154
+
+- location: Mölndalsvägen
+  city: Göteborg
+  urn: urn:direkten:location:id:2243
+  country: Sverige
+  latitude: 57.69109
+  longitude: 11.992013
+
+- location: Vallda
   city: Vallda
   urn: urn:direkten:location:id:2868
   country: Sverige
   latitude: 57.465489
   longitude: 11.994111
 
-- location: Vi Vinnare 
-  city: Stockholm
-  urn: urn:direkten:location:id:635
-  country: Sverige
-  latitude: 59.328585
-  longitude: 18.01689
-
-- location: Väla 
-  city: Ödåkra
-  urn: urn:direkten:location:id:3002
-  country: Sverige
-  latitude: 56.09254
-  longitude: 12.75863
-
-- location: Vällingby Spel & Tobak 
-  city: Vällingby
-  urn: urn:direkten:location:id:3024
-  country: Sverige
-  latitude: 59.3618385
-  longitude: 17.87293056
-
-- location: Värmdö köpcenter 
-  city: Gustavsberg
-  urn: urn:direkten:location:id:2840
-  country: Sverige
-  latitude: 59.313139
-  longitude: 18.431187
-
-- location: Väsby Spel & Tobak 
-  city: Upplands Väsby
-  urn: urn:direkten:location:id:843
-  country: Sverige
-  latitude: 59.521109
-  longitude: 17.903614
-
-- location: Västerås City 
-  city: Västerås
-  urn: urn:direkten:location:id:2103
-  country: Sverige
-  latitude: 59.610788
-  longitude: 16.545381
-
-- location: Wasakiosken 
-  city: Rättvik
-  urn: urn:direkten:location:id:978
-  country: Sverige
-  latitude: 60.88511
-  longitude: 15.11559
-
-- location: Williamsson 
-  city: Stockholm
-  urn: urn:direkten:location:id:2900
-  country: Sverige
-  latitude: 59.346089
-  longitude: 18.053990
-
-- location: Zel Tobak 
-  city: Malmö
-  urn: urn:direkten:location:id:648
-  country: Sverige
-  latitude: 55.598329
-  longitude: 12.979688
-
-- location: Älvsjö 
-  city: Älvsjö
-  urn: urn:direkten:location:id:2869
-  country: Sverige
-  latitude: 59.280566
-  longitude: 18.005136
-
-- location: Åby 
+- location: Åby
   city: Mölndal
   urn: urn:direkten:location:id:2848
   country: Sverige
   latitude: 57.649715
   longitude: 12.002911
 
-- location: Årsta 
-  city: Årsta
-  urn: urn:direkten:location:id:2301
+- location: Danska vägen
+  city: Göteborg
+  urn: urn:direkten:location:id:2912
   country: Sverige
-  latitude: 59.298628
-  longitude: 18.047224
+  latitude: 57.712824
+  longitude: 12.007528
 
-- location: Östermälarstrand 
-  city: Västerås
-  urn: urn:direkten:location:id:2844
+- location: Kvarnby Livs & Spel
+  city: Mölndal
+  urn: urn:direkten:location:id:1983
   country: Sverige
-  latitude: 59.601166
-  longitude: 16.577562
+  latitude: 57.65664
+  longitude: 12.024551
 
-- location: Östra sjukhuset 
+- location: City Torget
+  city: Göteborg
+  urn: urn:direkten:location:id:484
+  country: Sverige
+  latitude: 57.757287
+  longitude: 12.03639
+
+- location: Östra sjukhuset
   city: Göteborg
   urn: urn:direkten:location:id:2845
   country: Sverige
   latitude: 57.721806
   longitude: 12.049855
 
-- location: Övik 
+- location: Furulund
+  city: Partille
+  urn: urn:direkten:location:id:2065
+  country: Sverige
+  latitude: 57.725021
+  longitude: 12.128532
+
+- location: Lödöse
+  city: Lödöse
+  urn: urn:direkten:location:id:2394
+  country: Sverige
+  latitude: 58.02886
+  longitude: 12.153292
+
+- location: Entrébutiken
+  city: Trollhättan
+  urn: urn:direkten:location:id:2104
+  country: Sverige
+  latitude: 58.285163
+  longitude: 12.290987
+
+- location: Granngården
+  city: Trollhättan
+  urn: urn:direkten:location:id:2132
+  country: Sverige
+  latitude: 58.263288
+  longitude: 12.297444
+
+- location: Tobakshörnan Alingsås
+  city: Alingsås
+  urn: urn:direkten:location:id:596
+  country: Sverige
+  latitude: 57.929893
+  longitude: 12.538332
+
+- location: Höganäs
+  city: Höganäs
+  urn: urn:direkten:location:id:462
+  country: Sverige
+  latitude: 56.199756
+  longitude: 12.561519
+
+- location: Skene
+  city: Skene
+  urn: urn:direkten:location:id:2328
+  country: Sverige
+  latitude: 57.48971
+  longitude: 12.641142
+
+- location: Oceanen
+  city: Helsingborg
+  urn: urn:direkten:location:id:2987
+  country: Sverige
+  latitude: 56.041759
+  longitude: 12.691467
+
+- location: Ringstorp
+  city: Helsingborg
+  urn: urn:direkten:location:id:584
+  country: Sverige
+  latitude: 56.06541
+  longitude: 12.70065
+
+- location: Trial
+  city: Helsingborg
+  urn: urn:direkten:location:id:626
+  country: Sverige
+  latitude: 56.03957
+  longitude: 12.702724
+
+- location: Annas
+  city: Helsingborg
+  urn: urn:direkten:location:id:460
+  country: Sverige
+  latitude: 56.027265
+  longitude: 12.707813
+
+- location: Kalles Högaborg
+  city: Helsingborg
+  urn: urn:direkten:location:id:532
+  country: Sverige
+  latitude: 56.04114
+  longitude: 12.71201
+
+- location: Olympen
+  city: Helsingborg
+  urn: urn:direkten:location:id:1286
+  country: Sverige
+  latitude: 56.047415
+  longitude: 12.718272
+
+- location: Eskils Tobak
+  city: Helsingborg
+  urn: urn:direkten:location:id:3016
+  country: Sverige
+  latitude: 56.02843
+  longitude: 12.725666
+
+- location: Rosen
+  city: Helsingborg
+  urn: urn:direkten:location:id:798
+  country: Sverige
+  latitude: 56.05037
+  longitude: 12.72686
+
+- location: Blåkulla
+  city: Helsingborg
+  urn: urn:direkten:location:id:2825
+  country: Sverige
+  latitude: 56.062194
+  longitude: 12.727946
+
+- location: Eliassons
+  city: Getinge
+  urn: urn:direkten:location:id:769
+  country: Sverige
+  latitude: 56.817682
+  longitude: 12.732038
+
+- location: Väla
+  city: Ödåkra
+  urn: urn:direkten:location:id:3002
+  country: Sverige
+  latitude: 56.09254
+  longitude: 12.75863
+
+- location: Fritsla
+  city: Fritsla
+  urn: urn:direkten:location:id:2931
+  country: Sverige
+  latitude: 57.55797
+  longitude: 12.789279
+
+- location: Danielas Spel & Tobaksbutik
+  city: Landskrona
+  urn: urn:direkten:location:id:2388
+  country: Sverige
+  latitude: 55.874484
+  longitude: 12.831917
+
+- location: Godisparadiset
+  city: Landskrona
+  urn: urn:direkten:location:id:2821
+  country: Sverige
+  latitude: 55.87088
+  longitude: 12.83439
+
+- location: Limhamn
+  city: Limhamn
+  urn: urn:direkten:location:id:2857
+  country: Sverige
+  latitude: 55.589459
+  longitude: 12.932581
+
+- location: Zel Tobak
+  city: Malmö
+  urn: urn:direkten:location:id:648
+  country: Sverige
+  latitude: 55.598329
+  longitude: 12.979688
+
+- location: Södervärn
+  city: Malmö
+  urn: urn:direkten:location:id:2113
+  country: Sverige
+  latitude: 55.590522
+  longitude: 13.005395
+
+- location: Evening Market
+  city: Malmö
+  urn: urn:direkten:location:id:2295
+  country: Sverige
+  latitude: 55.595726
+  longitude: 13.008648
+
+- location: Möllans Spel
+  city: Malmö
+  urn: urn:direkten:location:id:1303
+  country: Sverige
+  latitude: 55.589995
+  longitude: 13.010642
+
+- location: Nydala
+  city: Malmö
+  urn: urn:direkten:location:id:565
+  country: Sverige
+  latitude: 55.57392
+  longitude: 13.02107
+
+- location: Ettans GK
+  city: Malmö
+  urn: urn:direkten:location:id:491
+  country: Sverige
+  latitude: 55.60527
+  longitude: 13.02273
+
+- location: Rocent
+  city: Malmö
+  urn: urn:direkten:location:id:703
+  country: Sverige
+  latitude: 55.58608
+  longitude: 13.04507
+
+- location: Entré
+  city: Trelleborg
+  urn: urn:direkten:location:id:489
+  country: Sverige
+  latitude: 55.38167
+  longitude: 13.14443
+
+- location: Sunne
+  city: Sunne
+  urn: urn:direkten:location:id:612
+  country: Sverige
+  latitude: 59.836645
+  longitude: 13.147929
+
+- location: Sofiavägen
+  city: Lund
+  urn: urn:direkten:location:id:2929
+  country: Sverige
+  latitude: 55.718211
+  longitude: 13.198705
+
+- location: Staffanstorp
+  city: Staffanstorp
+  urn: urn:direkten:location:id:2374
+  country: Sverige
+  latitude: 55.642606
+  longitude: 13.204207
+
+- location: Eslöv
+  city: Eslöv
+  urn: urn:direkten:location:id:2902
+  country: Sverige
+  latitude: 55.837587
+  longitude: 13.303175
+
+- location: Nöje Kupén
+  city: Skurup
+  urn: urn:direkten:location:id:2131
+  country: Sverige
+  latitude: 55.480214
+  longitude: 13.50177
+
+- location: Nöje Casablanca
+  city: Karlstad
+  urn: urn:direkten:location:id:2064
+  country: Sverige
+  latitude: 59.393669
+  longitude: 13.517
+
+- location: Campus
+  city: Karlstad
+  urn: urn:direkten:location:id:2181
+  country: Sverige
+  latitude: 59.411864
+  longitude: 13.571793
+
+- location: Hörby
+  city: Hörby
+  urn: urn:direkten:location:id:2835
+  country: Sverige
+  latitude: 55.852346
+  longitude: 13.661651
+
+- location: Cigarrmagasinet
+  city: Hässleholm
+  urn: urn:direkten:location:id:810
+  country: Sverige
+  latitude: 56.157546
+  longitude: 13.766699
+
+- location: Sekunden
+  city: Skövde
+  urn: urn:direkten:location:id:901
+  country: Sverige
+  latitude: 58.38718
+  longitude: 13.85822
+
+- location: Tidaholm
+  city: Tidaholm
+  urn: urn:direkten:location:id:2198
+  country: Sverige
+  latitude: 58.182568
+  longitude: 13.958551
+
+- location: Råslätt
+  city: Jönköping
+  urn: urn:direkten:location:id:586
+  country: Sverige
+  latitude: 57.73949
+  longitude: 14.15191
+
+- location: Nöje Sörens
+  city: Tibro
+  urn: urn:direkten:location:id:967
+  country: Sverige
+  latitude: 58.42251
+  longitude: 14.164875
+
+- location: Tobakshörnan Jönköping
+  city: Jönköping
+  urn: urn:direkten:location:id:665
+  country: Sverige
+  latitude: 57.781373
+  longitude: 14.199382
+
+- location: Degerfors
+  city: Degerfors
+  urn: urn:direkten:location:id:3011
+  country: Sverige
+  latitude: 59.236929
+  longitude: 14.431536
+
+- location: Bromölla
+  city: Bromölla
+  urn: urn:direkten:location:id:2405
+  country: Sverige
+  latitude: 56.074482
+  longitude: 14.467768
+
+- location: Nöje Olofström
+  city: Olofström
+  urn: urn:direkten:location:id:576
+  country: Sverige
+  latitude: 56.27762
+  longitude: 14.5248
+
+- location: Grythyttan
+  city: Grythyttan
+  urn: urn:direkten:location:id:726
+  country: Sverige
+  latitude: 59.7057
+  longitude: 14.5439
+
+- location: Moheda
+  city: Moheda
+  urn: urn:direkten:location:id:808
+  country: Sverige
+  latitude: 57.0018
+  longitude: 14.57351
+
+- location: Norje
+  city: Norje
+  urn: urn:direkten:location:id:3023
+  country: Sverige
+  latitude: 56.116922
+  longitude: 14.677472
+
+- location: City Tobak
+  city: Nässjö
+  urn: urn:direkten:location:id:849
+  country: Sverige
+  latitude: 57.653376
+  longitude: 14.69545
+
+- location: HJ Anderssons Tobak
+  city: Karlshamn
+  urn: urn:direkten:location:id:520
+  country: Sverige
+  latitude: 56.1719
+  longitude: 14.86066
+
+- location: Ronnebygatan
+  city: Karlshamn
+  urn: urn:direkten:location:id:2378
+  country: Sverige
+  latitude: 56.16883
+  longitude: 14.863058
+
+- location: Lejonkulan
+  city: Eksjö
+  urn: urn:direkten:location:id:543
+  country: Sverige
+  latitude: 57.665789
+  longitude: 14.972598
+
+- location: Nora
+  city: Nora
+  urn: urn:direkten:location:id:561
+  country: Sverige
+  latitude: 59.520196
+  longitude: 15.035912
+
+- location: Wasakiosken
+  city: Rättvik
+  urn: urn:direkten:location:id:978
+  country: Sverige
+  latitude: 60.88511
+  longitude: 15.11559
+
+- location: Nöje Örebro
+  city: Örebro
+  urn: urn:direkten:location:id:1946
+  country: Sverige
+  latitude: 59.268712
+  longitude: 15.208448
+
+- location: Lindesberg
+  city: Lindesberg
+  urn: urn:direkten:location:id:2056
+  country: Sverige
+  latitude: 59.594402
+  longitude: 15.226231
+
+- location: Film & Fabel Borlänge
+  city: Borlänge
+  urn: urn:direkten:location:id:2311
+  country: Sverige
+  latitude: 60.484012
+  longitude: 15.404406
+
+- location: Ryd
+  city: Linköping
+  urn: urn:direkten:location:id:585
+  country: Sverige
+  latitude: 58.40883
+  longitude: 15.56268
+
+- location: Falun
+  city: Falun
+  urn: urn:direkten:location:id:2312
+  country: Sverige
+  latitude: 60.606782
+  longitude: 15.634444
+
+- location: Ljusdal
+  city: Ljusdal
+  urn: urn:direkten:location:id:751
+  country: Sverige
+  latitude: 61.828532
+  longitude: 16.096267
+
+- location: Avesta
+  city: Avesta
+  urn: urn:direkten:location:id:3001
+  country: Sverige
+  latitude: 60.146318
+  longitude: 16.174426
+
+- location: Skvallertorget
+  city: Norrköping
+  urn: urn:direkten:location:id:2867
+  country: Sverige
+  latitude: 58.590816
+  longitude: 16.178653
+
+- location: SöderTull
+  city: Norrköping
+  urn: urn:direkten:location:id:1640
+  country: Sverige
+  latitude: 58.585745
+  longitude: 16.189384
+
+- location: Nya Torget
+  city: Norrköping
+  urn: urn:direkten:location:id:564
+  country: Sverige
+  latitude: 58.591389
+  longitude: 16.191942
+
+- location: Kolbäck
+  city: Kolbäck
+  urn: urn:direkten:location:id:2854
+  country: Sverige
+  latitude: 59.563913
+  longitude: 16.230305
+
+- location: Tobaksboden Kalmar
+  city: Kalmar
+  urn: urn:direkten:location:id:904
+  country: Sverige
+  latitude: 56.667571
+  longitude: 16.355004
+
+- location: Baronen
+  city: Kalmar
+  urn: urn:direkten:location:id:2861
+  country: Sverige
+  latitude: 56.660847
+  longitude: 16.365178
+
+- location: Skultuna
+  city: Skultuna
+  urn: urn:direkten:location:id:2842
+  country: Sverige
+  latitude: 59.71787
+  longitude: 16.42849
+
+- location: Oskarshamn
+  city: Oskarshamn
+  urn: urn:direkten:location:id:580
+  country: Sverige
+  latitude: 57.2647
+  longitude: 16.44449
+
+- location: Fyren
+  city: Färjestaden
+  urn: urn:direkten:location:id:497
+  country: Sverige
+  latitude: 56.64995
+  longitude: 16.4674
+
+- location: Bäckby
+  city: Västerås
+  urn: urn:direkten:location:id:2975
+  country: Sverige
+  latitude: 59.599002
+  longitude: 16.474267
+
+- location: Västerås City
+  city: Västerås
+  urn: urn:direkten:location:id:2103
+  country: Sverige
+  latitude: 59.610788
+  longitude: 16.545381
+
+- location: Östermälarstrand
+  city: Västerås
+  urn: urn:direkten:location:id:2844
+  country: Sverige
+  latitude: 59.601166
+  longitude: 16.577562
+
+- location: Sala Godiscenter
+  city: Sala
+  urn: urn:direkten:location:id:2344
+  country: Sverige
+  latitude: 59.919918
+  longitude: 16.606648
+
+- location: Janssons Kiosk
+  city: Nyköping
+  urn: urn:direkten:location:id:1334
+  country: Sverige
+  latitude: 58.750002
+  longitude: 17.013142
+
+- location: Resecentrum Strängnäs
+  city: Strängnäs
+  urn: urn:direkten:location:id:2951
+  country: Sverige
+  latitude: 59.370412
+  longitude: 17.028203
+
+- location: Kungsgatan
+  city: Enköping
+  urn: urn:direkten:location:id:2874
+  country: Sverige
+  latitude: 59.635014
+  longitude: 17.079146
+
+- location: Läggestakiosken
+  city: Mariefred
+  urn: urn:direkten:location:id:2920
+  country: Sverige
+  latitude: 59.24806
+  longitude: 17.16707
+
+- location: Gnesta
+  city: Gnesta
+  urn: urn:direkten:location:id:3006
+  country: Sverige
+  latitude: 59.048245
+  longitude: 17.308676
+
+- location: Sundsvall
+  city: Sundsvall
+  urn: urn:direkten:location:id:611
+  country: Sverige
+  latitude: 62.390915
+  longitude: 17.30985
+
+- location: Bålsta
+  city: Bålsta
+  urn: urn:direkten:location:id:480
+  country: Sverige
+  latitude: 59.566547
+  longitude: 17.527174
+
+- location: Järnakiosken
+  city: Järna
+  urn: urn:direkten:location:id:2863
+  country: Sverige
+  latitude: 59.089619
+  longitude: 17.56493
+
+- location: Kringlan
+  city: Södertälje
+  urn: urn:direkten:location:id:537
+  country: Sverige
+  latitude: 59.19602
+  longitude: 17.62804
+
+- location: Skepparens Tobak
+  city: Södertälje
+  urn: urn:direkten:location:id:1618
+  country: Sverige
+  latitude: 59.211368
+  longitude: 17.63157
+
+- location: Knivsta
+  city: Knivsta
+  urn: urn:direkten:location:id:795
+  country: Sverige
+  latitude: 59.727867
+  longitude: 17.785891
+
+- location: Kallhälls Spel
+  city: Järfälla
+  urn: urn:direkten:location:id:2352
+  country: Sverige
+  latitude: 59.45458
+  longitude: 17.805672
+
+- location: Hallunda
+  city: Norsborg
+  urn: urn:direkten:location:id:513
+  country: Sverige
+  latitude: 59.24433
+  longitude: 17.8262
+
+- location: Tumba
+  city: Tumba"09:00-19:00
+  urn: urn:direkten:location:id:628
+  country: Sverige
+  latitude: 59.19851
+  longitude: 17.83319
+
+- location: Riddarspelet
+  city: Järfälla
+  urn: urn:direkten:location:id:2905
+  country: Sverige
+  latitude: 59.424228
+  longitude: 17.836333
+
+- location: Alby
+  city: Norsborg
+  urn: urn:direkten:location:id:464
+  country: Sverige
+  latitude: 59.238006
+  longitude: 17.844787
+
+- location: Vällingby Spel & Tobak
+  city: Vällingby
+  urn: urn:direkten:location:id:3024
+  country: Sverige
+  latitude: 59.361838
+  longitude: 17.872931
+
+- location: Kalles Kiosk
+  city: Arjeplog
+  urn: urn:direkten:location:id:694
+  country: Sverige
+  latitude: 66.0512
+  longitude: 17.891434
+
+- location: Spånga
+  city: Spånga
+  urn: urn:direkten:location:id:2872
+  country: Sverige
+  latitude: 59.381353
+  longitude: 17.898537
+
+- location: Väsby Spel & Tobak
+  city: Upplands Väsby
+  urn: urn:direkten:location:id:843
+  country: Sverige
+  latitude: 59.521109
+  longitude: 17.903614
+
+- location: Kungens Kurva
+  city: Kungens Kurva
+  urn: urn:direkten:location:id:2143
+  country: Sverige
+  latitude: 59.268145
+  longitude: 17.916809
+
+- location: Husby
+  city: Kista
+  urn: urn:direkten:location:id:2827
+  country: Sverige
+  latitude: 59.409777
+  longitude: 17.925906
+
+- location: Cigarr & Spel
+  city: Kista
+  urn: urn:direkten:location:id:741
+  country: Sverige
+  latitude: 59.40271
+  longitude: 17.94482
+
+- location: Annedal
+  city: Bromma
+  urn: urn:direkten:location:id:2094
+  country: Sverige
+  latitude: 59.363633
+  longitude: 17.946154
+
+- location: Pendelkiosken
+  city: Sollentuna
+  urn: urn:direkten:location:id:2897
+  country: Sverige
+  latitude: 59.42942
+  longitude: 17.948851
+
+- location: Kistakrysset
+  city: Kista"
+  urn: urn:direkten:location:id:2242
+  country: Sverige
+  latitude: 59.406544
+  longitude: 17.956611
+
+- location: Cigarr & Spel Sundbyberg
+  city: Sundbyberg
+  urn: urn:direkten:location:id:2829
+  country: Sverige
+  latitude: 59.360294
+  longitude: 17.961328
+
+- location: Fruängen
+  city: Hägersten"09:00-18:30
+  urn: urn:direkten:location:id:3022
+  country: Sverige
+  latitude: 59.285561
+  longitude: 17.964023
+
+- location: Tulegatan
+  city: Sundbyberg
+  urn: urn:direkten:location:id:2232
+  country: Sverige
+  latitude: 59.364936
+  longitude: 17.974973
+
+- location: Huddinge
+  city: Huddinge
+  urn: urn:direkten:location:id:2076
+  country: Sverige
+  latitude: 59.237214
+  longitude: 17.978332
+
+- location: Huvudsta
+  city: Solna
+  urn: urn:direkten:location:id:2993
+  country: Sverige
+  latitude: 59.349822
+  longitude: 17.985973
+
+- location: Rosalita
+  city: Huddinge
+  urn: urn:direkten:location:id:2918
+  country: Sverige
+  latitude: 59.232822
+  longitude: 17.98911
+
+- location: Stuvsta Torg
+  city: Huddinge
+  urn: urn:direkten:location:id:2348
+  country: Sverige
+  latitude: 59.252931
+  longitude: 17.996771
+
+- location: Älvsjö
+  city: Älvsjö
+  urn: urn:direkten:location:id:2869
+  country: Sverige
+  latitude: 59.280566
+  longitude: 18.005136
+
+- location: Hornsbergs Strand
+  city: Stockholm
+  urn: urn:direkten:location:id:2204
+  country: Sverige
+  latitude: 59.34055
+  longitude: 18.00837
+
+- location: Hagsätrakiosken
+  city: Bandhagen
+  urn: urn:direkten:location:id:2970
+  country: Sverige
+  latitude: 59.262363
+  longitude: 18.014449
+
+- location: Vi Vinnare
+  city: Stockholm
+  urn: urn:direkten:location:id:635
+  country: Sverige
+  latitude: 59.328585
+  longitude: 18.01689
+
+- location: Marias Godis
+  city: Stockholm
+  urn: urn:direkten:location:id:2323
+  country: Sverige
+  latitude: 59.317664
+  longitude: 18.033035
+
+- location: Årsta
+  city: Årsta
+  urn: urn:direkten:location:id:2301
+  country: Sverige
+  latitude: 59.298628
+  longitude: 18.047224
+
+- location: Williamsson
+  city: Stockholm
+  urn: urn:direkten:location:id:2900
+  country: Sverige
+  latitude: 59.346089
+  longitude: 18.05399
+
+- location: Roslagen
+  city: Täby
+  urn: urn:direkten:location:id:2817
+  country: Sverige
+  latitude: 59.435356
+  longitude: 18.058695
+
+- location: Johanneshovsvägen
+  city: Årsta
+  urn: urn:direkten:location:id:2915
+  country: Sverige
+  latitude: 59.293626
+  longitude: 18.063457
+
+- location: Söderhallarna
+  city: Stockholm
+  urn: urn:direkten:location:id:551
+  country: Sverige
+  latitude: 59.31443
+  longitude: 18.07092
+
+- location: Gullmarsplan
+  city: Johanneshov
+  urn: urn:direkten:location:id:2823
+  country: Sverige
+  latitude: 59.296456
+  longitude: 18.075042
+
+- location: Skanstull
+  city: Stockholm
+  urn: urn:direkten:location:id:894
+  country: Sverige
+  latitude: 59.309401
+  longitude: 18.075404
+
+- location: Tareqs Tobak
+  city: Stockholm
+  urn: urn:direkten:location:id:2112
+  country: Sverige
+  latitude: 59.314758
+  longitude: 18.076834
+
+- location: Gubbängens Tobak & Spel
+  city: Enskede
+  urn: urn:direkten:location:id:889
+  country: Sverige
+  latitude: 59.26208
+  longitude: 18.08322
+
+- location: Tallkrogen
+  city: Enskede
+  urn: urn:direkten:location:id:2973
+  country: Sverige
+  latitude: 59.271268
+  longitude: 18.085224
+
+- location: Jungfrugatan
+  city: Stockholm"09:30-19:00
+  urn: urn:direkten:location:id:2958
+  country: Sverige
+  latitude: 59.343109
+  longitude: 18.086259
+
+- location: Djurgårds Närlivs
+  city: Stockholm
+  urn: urn:direkten:location:id:2279
+  country: Sverige
+  latitude: 59.35544
+  longitude: 18.087584
+
+- location: Farsta Tobak
+  city: Farsta
+  urn: urn:direkten:location:id:677
+  country: Sverige
+  latitude: 59.24337
+  longitude: 18.08968
+
+- location: Farsta Speltjänst
+  city: Farsta
+  urn: urn:direkten:location:id:494
+  country: Sverige
+  latitude: 59.24201
+  longitude: 18.09351
+
+- location: Gärdescentralen
+  city: Stockholm
+  urn: urn:direkten:location:id:508
+  country: Sverige
+  latitude: 59.34678
+  longitude: 18.10066
+
+- location: Hammarby
+  city: Stockholm
+  urn: urn:direkten:location:id:2955
+  country: Sverige
+  latitude: 59.304657
+  longitude: 18.105687
+
+- location: Björkhagen
+  city: Johanneshov
+  urn: urn:direkten:location:id:3025
+  country: Sverige
+  latitude: 59.28989
+  longitude: 18.116391
+
+- location: Sickla
+  city: Nacka
+  urn: urn:direkten:location:id:854
+  country: Sverige
+  latitude: 59.306226
+  longitude: 18.12242
+
+- location: Trångsund
+  city: Trångsund
+  urn: urn:direkten:location:id:2302
+  country: Sverige
+  latitude: 59.228204
+  longitude: 18.132792
+
+- location: Jordbro
+  city: Jordbro
+  urn: urn:direkten:location:id:2256
+  country: Sverige
+  latitude: 59.141499
+  longitude: 18.134953
+
+- location: Handen
+  city: Handen
+  urn: urn:direkten:location:id:2799
+  country: Sverige
+  latitude: 59.159587
+  longitude: 18.13737
+
+- location: Haninge Spel
+  city: Handen
+  urn: urn:direkten:location:id:685
+  country: Sverige
+  latitude: 59.16916
+  longitude: 18.14027
+
+- location: Skogås
+  city: Skogås
+  urn: urn:direkten:location:id:1636
+  country: Sverige
+  latitude: 59.217985
+  longitude: 18.152734
+
+- location: Nacka strand
+  city: Nacka strand
+  urn: urn:direkten:location:id:3015
+  country: Sverige
+  latitude: 59.31615
+  longitude: 18.160379
+
+- location: Kajutan
+  city: Åkersberga
+  urn: urn:direkten:location:id:531
+  country: Sverige
+  latitude: 59.480162
+  longitude: 18.298497
+
+- location: Värmdö köpcenter
+  city: Gustavsberg
+  urn: urn:direkten:location:id:2840
+  country: Sverige
+  latitude: 59.313139
+  longitude: 18.431187
+
+- location: Övik
   city: Örnsköldsvik
   urn: urn:direkten:location:id:2336
   country: Sverige
   latitude: 63.296735
   longitude: 18.716667
 
+- location: Simhallskiosken
+  city: Kiruna
+  urn: urn:direkten:location:id:892
+  country: Sverige
+  latitude: 67.85444
+  longitude: 20.23619
+
+- location: Kiruna
+  city: Kiruna
+  urn: urn:direkten:location:id:3019
+  country: Sverige
+  latitude: 67.849293
+  longitude: 20.30761
+
+- location: Kioskbutik Karamellen
+  city: Burträsk
+  urn: urn:direkten:location:id:876
+  country: Sverige
+  latitude: 64.51902
+  longitude: 20.658
+
+- location: Ingers Kiosk
+  city: Skellefteå
+  urn: urn:direkten:location:id:2057
+  country: Sverige
+  latitude: 64.751141
+  longitude: 20.968737
+
+- location: Pite Spelbutik
+  city: Piteå
+  urn: urn:direkten:location:id:583
+  country: Sverige
+  latitude: 65.317812
+  longitude: 21.47775

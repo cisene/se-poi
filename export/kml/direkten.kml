@@ -1,0 +1,1022 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Direkten</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name><![CDATA[Direkten]]></name>
+      <Placemark>
+        <name><![CDATA[Smögen]]></name>
+        <description>Smögen, Smögen, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>11.224919,58.354275,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Trogens Place]]></name>
+        <description>Trogens Place, Hedekas, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>11.779843,58.644521,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Hasselboden]]></name>
+        <description>Hasselboden, Stenungsund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>11.84309,58.0618,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Godisriket]]></name>
+        <description>Godisriket, Västra Frölunda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>11.901031,57.639446,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Pipcenter]]></name>
+        <description>Pipcenter, Västra Frölunda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>11.910449,57.651783,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Kustens Tips & Tobak]]></name>
+        <description>Kustens Tips & Tobak, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>11.91905,57.69439,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Mötesplatsen]]></name>
+        <description>Mötesplatsen, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>11.92657,57.720022,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Toppen]]></name>
+        <description>Toppen, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>11.926924,57.696949,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tuve]]></name>
+        <description>Tuve, Tuve, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>11.928194,57.749005,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Linné]]></name>
+        <description>Linné, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>11.95154,57.69672,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Mölndalsvägen]]></name>
+        <description>Mölndalsvägen, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>11.992013,57.69109,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Vallda]]></name>
+        <description>Vallda, Vallda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>11.994111,57.465489,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Åby]]></name>
+        <description>Åby, Mölndal, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>12.002911,57.649715,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Danska vägen]]></name>
+        <description>Danska vägen, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>12.007528,57.712824,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Kvarnby Livs & Spel]]></name>
+        <description>Kvarnby Livs & Spel, Mölndal, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>12.024551,57.65664,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[City Torget]]></name>
+        <description>City Torget, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>12.03639,57.757287,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Östra sjukhuset]]></name>
+        <description>Östra sjukhuset, Göteborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>12.049855,57.721806,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Furulund]]></name>
+        <description>Furulund, Partille, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>12.128532,57.725021,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Lödöse]]></name>
+        <description>Lödöse, Lödöse, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>12.153292,58.02886,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Entrébutiken]]></name>
+        <description>Entrébutiken, Trollhättan, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>12.290987,58.285163,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Granngården]]></name>
+        <description>Granngården, Trollhättan, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>12.297444,58.263288,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tobakshörnan Alingsås]]></name>
+        <description>Tobakshörnan Alingsås, Alingsås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>12.538332,57.929893,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Höganäs]]></name>
+        <description>Höganäs, Höganäs, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>12.561519,56.199756,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Skene]]></name>
+        <description>Skene, Skene, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>12.641142,57.48971,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Oceanen]]></name>
+        <description>Oceanen, Helsingborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>12.691467,56.041759,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Ringstorp]]></name>
+        <description>Ringstorp, Helsingborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>12.70065,56.06541,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Trial]]></name>
+        <description>Trial, Helsingborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>12.702724,56.03957,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Annas]]></name>
+        <description>Annas, Helsingborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>12.707813,56.027265,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Kalles Högaborg]]></name>
+        <description>Kalles Högaborg, Helsingborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>12.71201,56.04114,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Olympen]]></name>
+        <description>Olympen, Helsingborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>12.718272,56.047415,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Eskils Tobak]]></name>
+        <description>Eskils Tobak, Helsingborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>12.725666,56.02843,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Rosen]]></name>
+        <description>Rosen, Helsingborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>12.72686,56.05037,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Blåkulla]]></name>
+        <description>Blåkulla, Helsingborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>12.727946,56.062194,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Eliassons]]></name>
+        <description>Eliassons, Getinge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>12.732038,56.817682,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Väla]]></name>
+        <description>Väla, Ödåkra, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>12.75863,56.09254,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Fritsla]]></name>
+        <description>Fritsla, Fritsla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>12.789279,57.55797,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Danielas Spel & Tobaksbutik]]></name>
+        <description>Danielas Spel & Tobaksbutik, Landskrona, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>12.831917,55.874484,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Godisparadiset]]></name>
+        <description>Godisparadiset, Landskrona, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>12.83439,55.87088,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Limhamn]]></name>
+        <description>Limhamn, Limhamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>12.932581,55.589459,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Zel Tobak]]></name>
+        <description>Zel Tobak, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>12.979688,55.598329,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Södervärn]]></name>
+        <description>Södervärn, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>13.005395,55.590522,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Evening Market]]></name>
+        <description>Evening Market, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>13.008648,55.595726,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Möllans Spel]]></name>
+        <description>Möllans Spel, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>13.010642,55.589995,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Nydala]]></name>
+        <description>Nydala, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>13.02107,55.57392,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Ettans GK]]></name>
+        <description>Ettans GK, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>13.02273,55.60527,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Rocent]]></name>
+        <description>Rocent, Malmö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>13.04507,55.58608,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Entré]]></name>
+        <description>Entré, Trelleborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>13.14443,55.38167,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Sunne]]></name>
+        <description>Sunne, Sunne, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>13.147929,59.836645,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Sofiavägen]]></name>
+        <description>Sofiavägen, Lund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>13.198705,55.718211,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Staffanstorp]]></name>
+        <description>Staffanstorp, Staffanstorp, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>13.204207,55.642606,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Eslöv]]></name>
+        <description>Eslöv, Eslöv, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>13.303175,55.837587,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Nöje Kupén]]></name>
+        <description>Nöje Kupén, Skurup, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>13.50177,55.480214,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Nöje Casablanca]]></name>
+        <description>Nöje Casablanca, Karlstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>13.517,59.393669,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Campus]]></name>
+        <description>Campus, Karlstad, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>13.571793,59.411864,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Hörby]]></name>
+        <description>Hörby, Hörby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>13.661651,55.852346,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Cigarrmagasinet]]></name>
+        <description>Cigarrmagasinet, Hässleholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>13.766699,56.157546,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Sekunden]]></name>
+        <description>Sekunden, Skövde, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>13.85822,58.38718,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tidaholm]]></name>
+        <description>Tidaholm, Tidaholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>13.958551,58.182568,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Råslätt]]></name>
+        <description>Råslätt, Jönköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>14.15191,57.73949,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Nöje Sörens]]></name>
+        <description>Nöje Sörens, Tibro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>14.164875,58.42251,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tobakshörnan Jönköping]]></name>
+        <description>Tobakshörnan Jönköping, Jönköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>14.199382,57.781373,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Degerfors]]></name>
+        <description>Degerfors, Degerfors, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>14.431536,59.236929,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Bromölla]]></name>
+        <description>Bromölla, Bromölla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>14.467768,56.074482,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Nöje Olofström]]></name>
+        <description>Nöje Olofström, Olofström, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>14.5248,56.27762,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Grythyttan]]></name>
+        <description>Grythyttan, Grythyttan, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>14.5439,59.7057,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Moheda]]></name>
+        <description>Moheda, Moheda, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>14.57351,57.0018,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Norje]]></name>
+        <description>Norje, Norje, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>14.677472,56.116922,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[City Tobak]]></name>
+        <description>City Tobak, Nässjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>14.69545,57.653376,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[HJ Anderssons Tobak]]></name>
+        <description>HJ Anderssons Tobak, Karlshamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>14.86066,56.1719,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Ronnebygatan]]></name>
+        <description>Ronnebygatan, Karlshamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>14.863058,56.16883,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Lejonkulan]]></name>
+        <description>Lejonkulan, Eksjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>14.972598,57.665789,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Nora]]></name>
+        <description>Nora, Nora, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>15.035912,59.520196,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Wasakiosken]]></name>
+        <description>Wasakiosken, Rättvik, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>15.11559,60.88511,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Nöje Örebro]]></name>
+        <description>Nöje Örebro, Örebro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>15.208448,59.268712,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Lindesberg]]></name>
+        <description>Lindesberg, Lindesberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>15.226231,59.594402,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Film & Fabel Borlänge]]></name>
+        <description>Film & Fabel Borlänge, Borlänge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>15.404406,60.484012,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Ryd]]></name>
+        <description>Ryd, Linköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>15.56268,58.40883,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Falun]]></name>
+        <description>Falun, Falun, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>15.634444,60.606782,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Ljusdal]]></name>
+        <description>Ljusdal, Ljusdal, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>16.096267,61.828532,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Avesta]]></name>
+        <description>Avesta, Avesta, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>16.174426,60.146318,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Skvallertorget]]></name>
+        <description>Skvallertorget, Norrköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>16.178653,58.590816,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[SöderTull]]></name>
+        <description>SöderTull, Norrköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>16.189384,58.585745,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Nya Torget]]></name>
+        <description>Nya Torget, Norrköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>16.191942,58.591389,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Kolbäck]]></name>
+        <description>Kolbäck, Kolbäck, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>16.230305,59.563913,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tobaksboden Kalmar]]></name>
+        <description>Tobaksboden Kalmar, Kalmar, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>16.355004,56.667571,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Baronen]]></name>
+        <description>Baronen, Kalmar, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>16.365178,56.660847,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Skultuna]]></name>
+        <description>Skultuna, Skultuna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>16.42849,59.71787,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Oskarshamn]]></name>
+        <description>Oskarshamn, Oskarshamn, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>16.44449,57.2647,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Fyren]]></name>
+        <description>Fyren, Färjestaden, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>16.4674,56.64995,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Bäckby]]></name>
+        <description>Bäckby, Västerås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>16.474267,59.599002,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Västerås City]]></name>
+        <description>Västerås City, Västerås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>16.545381,59.610788,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Östermälarstrand]]></name>
+        <description>Östermälarstrand, Västerås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>16.577562,59.601166,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Sala Godiscenter]]></name>
+        <description>Sala Godiscenter, Sala, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>16.606648,59.919918,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Janssons Kiosk]]></name>
+        <description>Janssons Kiosk, Nyköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>17.013142,58.750002,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Resecentrum Strängnäs]]></name>
+        <description>Resecentrum Strängnäs, Strängnäs, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>17.028203,59.370412,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Kungsgatan]]></name>
+        <description>Kungsgatan, Enköping, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>17.079146,59.635014,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Läggestakiosken]]></name>
+        <description>Läggestakiosken, Mariefred, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>17.16707,59.24806,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Gnesta]]></name>
+        <description>Gnesta, Gnesta, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>17.308676,59.048245,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Sundsvall]]></name>
+        <description>Sundsvall, Sundsvall, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>17.30985,62.390915,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Bålsta]]></name>
+        <description>Bålsta, Bålsta, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>17.527174,59.566547,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Järnakiosken]]></name>
+        <description>Järnakiosken, Järna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>17.56493,59.089619,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Kringlan]]></name>
+        <description>Kringlan, Södertälje, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>17.62804,59.19602,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Skepparens Tobak]]></name>
+        <description>Skepparens Tobak, Södertälje, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>17.63157,59.211368,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Knivsta]]></name>
+        <description>Knivsta, Knivsta, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>17.785891,59.727867,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Kallhälls Spel]]></name>
+        <description>Kallhälls Spel, Järfälla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>17.805672,59.45458,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Hallunda]]></name>
+        <description>Hallunda, Norsborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>17.8262,59.24433,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tumba]]></name>
+        <description>Tumba, Tumba"09:00-19:00, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>17.83319,59.19851,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Riddarspelet]]></name>
+        <description>Riddarspelet, Järfälla, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>17.836333,59.424228,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Alby]]></name>
+        <description>Alby, Norsborg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>17.844787,59.238006,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Vällingby Spel & Tobak]]></name>
+        <description>Vällingby Spel & Tobak, Vällingby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>17.872931,59.361838,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Kalles Kiosk]]></name>
+        <description>Kalles Kiosk, Arjeplog, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>17.891434,66.0512,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Spånga]]></name>
+        <description>Spånga, Spånga, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>17.898537,59.381353,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Väsby Spel & Tobak]]></name>
+        <description>Väsby Spel & Tobak, Upplands Väsby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>17.903614,59.521109,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Kungens Kurva]]></name>
+        <description>Kungens Kurva, Kungens Kurva, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>17.916809,59.268145,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Husby]]></name>
+        <description>Husby, Kista, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>17.925906,59.409777,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Cigarr & Spel]]></name>
+        <description>Cigarr & Spel, Kista, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>17.94482,59.40271,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Annedal]]></name>
+        <description>Annedal, Bromma, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>17.946154,59.363633,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Pendelkiosken]]></name>
+        <description>Pendelkiosken, Sollentuna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>17.948851,59.42942,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Kistakrysset]]></name>
+        <description>Kistakrysset, Kista", Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>17.956611,59.406544,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Cigarr & Spel Sundbyberg]]></name>
+        <description>Cigarr & Spel Sundbyberg, Sundbyberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>17.961328,59.360294,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Fruängen]]></name>
+        <description>Fruängen, Hägersten"09:00-18:30, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>17.964023,59.285561,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tulegatan]]></name>
+        <description>Tulegatan, Sundbyberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>17.974973,59.364936,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Huddinge]]></name>
+        <description>Huddinge, Huddinge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>17.978332,59.237214,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Huvudsta]]></name>
+        <description>Huvudsta, Solna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>17.985973,59.349822,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Rosalita]]></name>
+        <description>Rosalita, Huddinge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>17.98911,59.232822,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Stuvsta Torg]]></name>
+        <description>Stuvsta Torg, Huddinge, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>17.996771,59.252931,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Älvsjö]]></name>
+        <description>Älvsjö, Älvsjö, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>18.005136,59.280566,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Hornsbergs Strand]]></name>
+        <description>Hornsbergs Strand, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>18.00837,59.34055,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Hagsätrakiosken]]></name>
+        <description>Hagsätrakiosken, Bandhagen, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>18.014449,59.262363,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Vi Vinnare]]></name>
+        <description>Vi Vinnare, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>18.01689,59.328585,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Marias Godis]]></name>
+        <description>Marias Godis, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>18.033035,59.317664,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Årsta]]></name>
+        <description>Årsta, Årsta, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>18.047224,59.298628,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Williamsson]]></name>
+        <description>Williamsson, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>18.05399,59.346089,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Roslagen]]></name>
+        <description>Roslagen, Täby, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>18.058695,59.435356,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Johanneshovsvägen]]></name>
+        <description>Johanneshovsvägen, Årsta, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>18.063457,59.293626,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Söderhallarna]]></name>
+        <description>Söderhallarna, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>18.07092,59.31443,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Gullmarsplan]]></name>
+        <description>Gullmarsplan, Johanneshov, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>18.075042,59.296456,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Skanstull]]></name>
+        <description>Skanstull, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>18.075404,59.309401,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tareqs Tobak]]></name>
+        <description>Tareqs Tobak, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>18.076834,59.314758,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Gubbängens Tobak & Spel]]></name>
+        <description>Gubbängens Tobak & Spel, Enskede, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>18.08322,59.26208,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tallkrogen]]></name>
+        <description>Tallkrogen, Enskede, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>18.085224,59.271268,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Jungfrugatan]]></name>
+        <description>Jungfrugatan, Stockholm"09:30-19:00, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>18.086259,59.343109,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Djurgårds Närlivs]]></name>
+        <description>Djurgårds Närlivs, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>18.087584,59.35544,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Farsta Tobak]]></name>
+        <description>Farsta Tobak, Farsta, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>18.08968,59.24337,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Farsta Speltjänst]]></name>
+        <description>Farsta Speltjänst, Farsta, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>18.09351,59.24201,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Gärdescentralen]]></name>
+        <description>Gärdescentralen, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>18.10066,59.34678,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Hammarby]]></name>
+        <description>Hammarby, Stockholm, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>18.105687,59.304657,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Björkhagen]]></name>
+        <description>Björkhagen, Johanneshov, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>18.116391,59.28989,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Sickla]]></name>
+        <description>Sickla, Nacka, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>18.12242,59.306226,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Trångsund]]></name>
+        <description>Trångsund, Trångsund, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>18.132792,59.228204,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Jordbro]]></name>
+        <description>Jordbro, Jordbro, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>18.134953,59.141499,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Handen]]></name>
+        <description>Handen, Handen, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>18.13737,59.159587,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Haninge Spel]]></name>
+        <description>Haninge Spel, Handen, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>18.14027,59.16916,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Skogås]]></name>
+        <description>Skogås, Skogås, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>18.152734,59.217985,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Nacka strand]]></name>
+        <description>Nacka strand, Nacka strand, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>18.160379,59.31615,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Kajutan]]></name>
+        <description>Kajutan, Åkersberga, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>18.298497,59.480162,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Värmdö köpcenter]]></name>
+        <description>Värmdö köpcenter, Gustavsberg, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>18.431187,59.313139,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Övik]]></name>
+        <description>Övik, Örnsköldsvik, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>18.716667,63.296735,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Simhallskiosken]]></name>
+        <description>Simhallskiosken, Kiruna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>20.23619,67.85444,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Kiruna]]></name>
+        <description>Kiruna, Kiruna, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>20.30761,67.849293,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Kioskbutik Karamellen]]></name>
+        <description>Kioskbutik Karamellen, Burträsk, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>20.658,64.51902,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Ingers Kiosk]]></name>
+        <description>Ingers Kiosk, Skellefteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>20.968737,64.751141,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Pite Spelbutik]]></name>
+        <description>Pite Spelbutik, Piteå, Sverige</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point><coordinates>21.47775,65.317812,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

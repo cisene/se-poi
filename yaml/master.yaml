@@ -8,9 +8,11 @@ files:
 - layers/apoteket-hjärtat.yaml
 - layers/apoteksgruppen.yaml
 - layers/arkenzoo.yaml
+- layers/autoexperten.yaml
 - layers/bankomat.yaml
 - layers/bastard-burgers.yaml
 - layers/bauhaus.yaml
+- layers/bds.yaml
 - layers/best-western.yaml
 - layers/bikbok.yaml
 - layers/biltema.yaml
@@ -29,10 +31,12 @@ files:
 - layers/cubus.yaml
 - layers/deichmann.yaml
 - layers/din-x.yaml
+- layers/direkten.yaml
 - layers/dollarstore.yaml
 - layers/doz-apotek.yaml
 - layers/dressmann.yaml
 - layers/elgiganten.yaml
+- layers/em-home.yaml
 - layers/espressohouse.yaml
 - layers/europcar.yaml
 - layers/filmstaden.yaml
@@ -77,6 +81,7 @@ files:
 - layers/lindex.yaml
 - layers/max.yaml
 - layers/mcdonalds.yaml
+- layers/meca-bilservice.yaml
 - layers/mediamarkt.yaml
 - layers/mekonomen.yaml
 - layers/mio-möbler.yaml

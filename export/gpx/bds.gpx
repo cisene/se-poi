@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://github.com/cisene/se-poi -->
+<gpx creator="se-poi" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+  <metadata>
+    <name><![CDATA[BDS]]></name>
+    <desc><![CDATA[Koordinater - BDS]]></desc>
+    <link href="https://bds.se/">
+      <text><![CDATA[BDS]]></text>
+       <type>text/html</type>
+    </link>
+   <time>2023-08-28T18:09:15+02:00</time>
+  </metadata>
+  <bounds minlat="55.43726" minlon="11.274907" maxlat="71.215416" maxlon="23.649923" />
+  <wpt lat="58.92638" lon="11.274907"><name><![CDATA[S.K. Bilreparationer AB, Skee]]></name></wpt>
+  <wpt lat="58.452171" lon="11.315633"><name><![CDATA[Sotenäs Bil AB Hunnebo 9504, Kungshamn]]></name></wpt>
+  <wpt lat="58.711926" lon="11.330121"><name><![CDATA[Motorama AB, Tanumshede]]></name></wpt>
+  <wpt lat="57.699192" lon="11.663178"><name><![CDATA[TE-DA Bilservice AB, Hönö]]></name></wpt>
+  <wpt lat="58.21014" lon="11.683795"><name><![CDATA[Eklidens Motorservice, Henån]]></name></wpt>
+  <wpt lat="57.656792" lon="11.900468"><name><![CDATA[Frölunda Bilteknik, Västra Frölunda]]></name></wpt>
+  <wpt lat="58.35231" lon="11.915364"><name><![CDATA[Uddevalla Bilcenter, Uddevalla]]></name></wpt>
+  <wpt lat="57.731415" lon="11.947397"><name><![CDATA[Brab Autoservice AB, Göteborg]]></name></wpt>
+  <wpt lat="57.732975" lon="11.956955"><name><![CDATA[Speedy Tyres Sweden AB, Göteborg]]></name></wpt>
+  <wpt lat="57.885864" lon="11.988167"><name><![CDATA[Kungälvs Bil & Motorservice AB, Kungälv]]></name></wpt>
+  <wpt lat="57.748554" lon="11.996799"><name><![CDATA[Bilverkstad Göteborg AB, Hisings Backa]]></name></wpt>
+  <wpt lat="57.413059" lon="12.020488"><name><![CDATA[Onsala Petroleum AB, Onsala]]></name></wpt>
+  <wpt lat="57.485146" lon="12.029708"><name><![CDATA[Backalycka Service AB, Kungsbacka]]></name></wpt>
+  <wpt lat="57.732693" lon="12.062481"><name><![CDATA[Sanden & Larsson Bil AB, Sävedalen]]></name></wpt>
+  <wpt lat="57.507534" lon="12.076206"><name><![CDATA[M.Carlén Bil AB, Kungsbacka]]></name></wpt>
+  <wpt lat="57.740631" lon="12.085948"><name><![CDATA[Klingberg & Forsberg Bilservice AB, Partille]]></name></wpt>
+  <wpt lat="57.574432" lon="12.093887"><name><![CDATA[Bil-Lennart i Lindome AB, Lindome]]></name></wpt>
+  <wpt lat="57.775383" lon="12.276817"><name><![CDATA[Lerums Gummiverkstad AB, Lerum]]></name></wpt>
+  <wpt lat="57.840527" lon="12.284778"><name><![CDATA[Kims Bil o Däck AB, Gråbo]]></name></wpt>
+  <wpt lat="57.785706" lon="12.308207"><name><![CDATA[Autoprime i Stenkullen AB, Stenkullen]]></name></wpt>
+  <wpt lat="58.365196" lon="12.3246"><name><![CDATA[Ramek Bil AB, Vänersborg]]></name></wpt>
+  <wpt lat="58.570526" lon="12.340449"><name><![CDATA[Auto Mekano Brålanda AB, Brålanda]]></name></wpt>
+  <wpt lat="58.706123" lon="12.452022"><name><![CDATA[AutoMats AB, Mellerud]]></name></wpt>
+  <wpt lat="57.93866" lon="12.555485"><name><![CDATA[Alingsås Servicecenter, Alingsås]]></name></wpt>
+  <wpt lat="59.038357" lon="12.710945"><name><![CDATA[Dalslands Motor AB, Åmål]]></name></wpt>
+  <wpt lat="61.852364" lon="12.758346"><name><![CDATA[Idre Fordonsservice, Idre]]></name></wpt>
+  <wpt lat="56.678394" lon="12.883665"><name><![CDATA[Bohlins Motorverkstad AB, Halmstad]]></name></wpt>
+  <wpt lat="56.655258" lon="12.898464"><name><![CDATA[Bil & Alltjänst i Halmstad AB, Halmstad]]></name></wpt>
+  <wpt lat="56.055588" lon="12.995846"><name><![CDATA[Autoshopen, Billesholm]]></name></wpt>
+  <wpt lat="55.458183" lon="13.018289"><name><![CDATA[Autoperformance sweden ab, Vellinge]]></name></wpt>
+  <wpt lat="55.540638" lon="13.072609"><name><![CDATA[GMA Bilverkstad AB, Oxie]]></name></wpt>
+  <wpt lat="55.909233" lon="13.106181"><name><![CDATA[Motorcenter i Svalöv AB, Svalöv]]></name></wpt>
+  <wpt lat="56.418797" lon="13.117427"><name><![CDATA[Våxtorps Bilservice AB, Våxtorp]]></name></wpt>
+  <wpt lat="55.831196" lon="13.305175"><name><![CDATA[Vulko Eslöv AB, Eslöv]]></name></wpt>
+  <wpt lat="61.099606" lon="13.309379"><name><![CDATA[Sälens Däck o Bilservice, Transtrand]]></name></wpt>
+  <wpt lat="55.827667" lon="13.329029"><name><![CDATA[Eslövs Bilcenter, Eslöv]]></name></wpt>
+  <wpt lat="59.430176" lon="13.415407"><name><![CDATA[Folkbil Karlstad AB, Karlstad]]></name></wpt>
+  <wpt lat="58.384518" lon="13.44434"><name><![CDATA[Bil och Däck i Skara, Skara]]></name></wpt>
+  <wpt lat="63.351944" lon="13.449194"><name><![CDATA[Årebärgaren Plåt & Lack AB, Järpen]]></name></wpt>
+  <wpt lat="58.528908" lon="13.49667"><name><![CDATA[Götene Bil & Vulk AB, Götene]]></name></wpt>
+  <wpt lat="55.592121" lon="13.599225"><name><![CDATA[Blentarps Däck & Mek AB, Blentarp]]></name></wpt>
+  <wpt lat="55.77063" lon="13.616755"><name><![CDATA[Dala Bil &Traktorverkstad AB, Hörby]]></name></wpt>
+  <wpt lat="55.638771" lon="13.691717"><name><![CDATA[Sjöbo Autoplåt, Sjöbo]]></name></wpt>
+  <wpt lat="58.270683" lon="13.723921"><name><![CDATA[JH Erikssons Husvagnar AB, Stenstorp]]></name></wpt>
+  <wpt lat="60.683689" lon="13.727821"><name><![CDATA[Malungs däck o bilservice, Malung]]></name></wpt>
+  <wpt lat="58.705399" lon="13.820728"><name><![CDATA[Bolin och Landin Autoservice AB, Mariestad]]></name></wpt>
+  <wpt lat="55.43726" lon="13.837103"><name><![CDATA[Ystads Bilservice AB, Ystad]]></name></wpt>
+  <wpt lat="61.249973" lon="14.032609"><name><![CDATA[Bilverkstan 195 AB, Älvdalen]]></name></wpt>
+  <wpt lat="58.960758" lon="14.054566"><name><![CDATA[Gullspångs Bilservice AB, Otterbäcken]]></name></wpt>
+  <wpt lat="63.45647" lon="14.071984"><name><![CDATA[Svets & Mek Offerdal AB, Offerdal]]></name></wpt>
+  <wpt lat="58.70274" lon="14.125028"><name><![CDATA[M Carlauto Service AB, Töreboda]]></name></wpt>
+  <wpt lat="59.248947" lon="14.437169"><name><![CDATA[KGA Fordonsservice, Degerfors]]></name></wpt>
+  <wpt lat="58.53931" lon="14.502705"><name><![CDATA[Peters Bil & Motor, Karlsborg]]></name></wpt>
+  <wpt lat="57.170567" lon="14.574983"><name><![CDATA[Motorbolaget Lammhult AB, Lammhult]]></name></wpt>
+  <wpt lat="61.126392" lon="14.636321"><name><![CDATA[Dala SpeedMek, Orsa]]></name></wpt>
+  <wpt lat="63.174072" lon="14.688431"><name><![CDATA[Verkstan Peter Karlsson, Östersund]]></name></wpt>
+  <wpt lat="60.542385" lon="15.106116"><name><![CDATA[Cartech i Dalarna AB, Djurås]]></name></wpt>
+  <wpt lat="59.712349" lon="15.121352"><name><![CDATA[Storå Bil o Maskin Service AB, Storå]]></name></wpt>
+  <wpt lat="59.607311" lon="15.190961"><name><![CDATA[Kallernäs Bil & Maskin AB, Lindesberg]]></name></wpt>
+  <wpt lat="60.144123" lon="15.397556"><name><![CDATA[JBA Motor AB, Smedjebacken]]></name></wpt>
+  <wpt lat="60.473457" lon="15.429734"><name><![CDATA[Borlänge Bilservice AB, Borlänge]]></name></wpt>
+  <wpt lat="60.464474" lon="15.469522"><name><![CDATA[Borlänge Servicecenter AB, Borlänge]]></name></wpt>
+  <wpt lat="60.077053" lon="15.540275"><name><![CDATA[Bilverkstan i Söderbärke AB, Söderbärke]]></name></wpt>
+  <wpt lat="56.626495" lon="15.553177"><name><![CDATA[Runes Bensin, Emmaboda]]></name></wpt>
+  <wpt lat="58.133362" lon="15.678906"><name><![CDATA[AB Däck bil & maskin i Rimforsa, Rimforsa]]></name></wpt>
+  <wpt lat="59.982281" lon="15.798902"><name><![CDATA[Auto-Center i Bergslagen AB, Fagersta]]></name></wpt>
+  <wpt lat="60.066185" lon="15.933657"><name><![CDATA[Norbergs Bil O Motor, Norberg]]></name></wpt>
+  <wpt lat="60.289909" lon="15.983763"><name><![CDATA[Hedemora Bilforum AB, Hedemora]]></name></wpt>
+  <wpt lat="58.578449" lon="16.123304"><name><![CDATA[Bil & Dieselservice i Norrköping AB, Norrköping]]></name></wpt>
+  <wpt lat="58.653397" lon="16.17359"><name><![CDATA[JR Motorperformance AB, Kolmården]]></name></wpt>
+  <wpt lat="58.606823" lon="16.17734"><name><![CDATA[Rostskyddscenter, Norrköping]]></name></wpt>
+  <wpt lat="58.995735" lon="16.189579"><name><![CDATA[KH Bilservice AB, Katrineholm]]></name></wpt>
+  <wpt lat="60.142681" lon="16.195288"><name><![CDATA[Västanhede Bilverkstad AB, Avesta]]></name></wpt>
+  <wpt lat="60.122784" lon="16.216314"><name><![CDATA[Krylbo Motorcenter AB, Krylbo]]></name></wpt>
+  <wpt lat="58.589634" lon="16.217634"><name><![CDATA[Nya Inter Bilverkstad AB, Norrköping]]></name></wpt>
+  <wpt lat="58.998947" lon="16.221914"><name><![CDATA[Stenbergs Bil, Katrineholm]]></name></wpt>
+  <wpt lat="58.562904" lon="16.22521"><name><![CDATA[RR Bil & Lackering, Norrköping]]></name></wpt>
+  <wpt lat="56.700161" lon="16.316919"><name><![CDATA[Bildelar Kalmar AB, Kalmar]]></name></wpt>
+  <wpt lat="63.137665" lon="16.342978"><name><![CDATA[Verkstan i Gevåg, Hammarstrand]]></name></wpt>
+  <wpt lat="58.468323" lon="16.343046"><name><![CDATA[GRT Bilservice AB, Söderköping]]></name></wpt>
+  <wpt lat="61.343224" lon="16.387449"><name><![CDATA[Bilakuten i Bollnäs AB, Bollnäs]]></name></wpt>
+  <wpt lat="57.251247" lon="16.439211"><name><![CDATA[Axma Bil AB, Oskarshamn]]></name></wpt>
+  <wpt lat="59.379711" lon="16.504435"><name><![CDATA[EBH Eskilstuna Bil & Husbilsservice, Eskilstuna]]></name></wpt>
+  <wpt lat="59.383301" lon="16.504599"><name><![CDATA[FOS Bil AB, Eskilstuna]]></name></wpt>
+  <wpt lat="59.363098" lon="16.52597"><name><![CDATA[Allbilservice i Eskilstuna AB, Eskilstuna]]></name></wpt>
+  <wpt lat="59.642242" lon="16.559637"><name><![CDATA[Aros Tunby Bilservice AB, Västerås]]></name></wpt>
+  <wpt lat="57.775486" lon="16.588385"><name><![CDATA[Tylles Västervik AB, Västervik]]></name></wpt>
+  <wpt lat="57.793289" lon="16.598095"><name><![CDATA[Bilteknik i Västervik AB, Västervik]]></name></wpt>
+  <wpt lat="59.911762" lon="16.630726"><name><![CDATA[Lindbloms Bilservice AB, Sala]]></name></wpt>
+  <wpt lat="60.172707" lon="16.969532"><name><![CDATA[Lakbäck El & Fordonsteknik, Tärnsjö]]></name></wpt>
+  <wpt lat="59.376347" lon="17.013126"><name><![CDATA[Hedins Bilservice AB, Strängnäs]]></name></wpt>
+  <wpt lat="63.15731" lon="17.300837"><name><![CDATA[AJ:s Rep och Entrepenad AB, Sollefteå]]></name></wpt>
+  <wpt lat="62.346828" lon="17.366297"><name><![CDATA[Dahlbergs Bilservice och Recond AB, Sundsvall]]></name></wpt>
+  <wpt lat="65.529518" lon="17.535938"><name><![CDATA[Karlssons Bilservice, Sorsele]]></name></wpt>
+  <wpt lat="59.196468" lon="17.589615"><name><![CDATA[Antons car service AB, Södertälje]]></name></wpt>
+  <wpt lat="59.189224" lon="17.820292"><name><![CDATA[Messes Bilservice AB, Tumba]]></name></wpt>
+  <wpt lat="59.41161" lon="17.826689"><name><![CDATA[A.H Jakobsbergs Bilservice AB, Järfälla]]></name></wpt>
+  <wpt lat="59.371189" lon="17.860508"><name><![CDATA[Primos Bilvård & Service, Vällingby]]></name></wpt>
+  <wpt lat="59.586174" lon="17.879835"><name><![CDATA[Bennys Bilcenter AB, Roserberg]]></name></wpt>
+  <wpt lat="59.383781" lon="17.886902"><name><![CDATA[Spånga Autoservice AB, Spånga]]></name></wpt>
+  <wpt lat="59.207687" lon="17.923689"><name><![CDATA[Tullinge Bilspa / LC Bilglascenter AB, Tullinge]]></name></wpt>
+  <wpt lat="59.406231" lon="17.938021"><name><![CDATA[SFA Bil AB, Kista]]></name></wpt>
+  <wpt lat="59.265903" lon="17.963505"><name><![CDATA[Lövdalens Bilverkstad AB, Segeltorp]]></name></wpt>
+  <wpt lat="59.233742" lon="17.989323"><name><![CDATA[Björns Bilservice i Huddinge, Huddinge]]></name></wpt>
+  <wpt lat="59.257641" lon="17.994324"><name><![CDATA[Stuvsta Däck AB, Huddinge]]></name></wpt>
+  <wpt lat="59.348438" lon="18.060257"><name><![CDATA[A & A  Automobile, Stockholm]]></name></wpt>
+  <wpt lat="59.333912" lon="18.06324"><name><![CDATA[Sergels Bilservice & Bilvård AB, Stockholm]]></name></wpt>
+  <wpt lat="59.435059" lon="18.077574"><name><![CDATA[Mekian Bilverkstad AB, Täby]]></name></wpt>
+  <wpt lat="59.201042" lon="18.125954"><name><![CDATA[Länna Bilservice AB, Skogås]]></name></wpt>
+  <wpt lat="59.105297" lon="18.128702"><name><![CDATA[Barfeld's Motor, Västerhaninge]]></name></wpt>
+  <wpt lat="59.746277" lon="18.377253"><name><![CDATA[Universal Motors Sverige AB, Rimbo]]></name></wpt>
+  <wpt lat="59.733368" lon="18.792156"><name><![CDATA[Sundborgs Bil & båt verkstad, Norrtälje]]></name></wpt>
+  <wpt lat="63.576012" lon="19.462334"><name><![CDATA[Nymans Bilservice, Nordmaling]]></name></wpt>
+  <wpt lat="63.805023" lon="20.27688"><name><![CDATA[WP Bilverkstad, Umeå]]></name></wpt>
+  <wpt lat="63.862503" lon="20.303568"><name><![CDATA[Din Mekaniker, Umeå]]></name></wpt>
+  <wpt lat="63.851849" lon="20.312475"><name><![CDATA[Laga Bilen i Umeå AB, Umeå]]></name></wpt>
+  <wpt lat="67.157738" lon="20.656746"><name><![CDATA[Autotech i Gällivare AB, Gällivare]]></name></wpt>
+  <wpt lat="67.188957" lon="20.752247"><name><![CDATA[Grönborgs Bil & Plåt, Koskullskulle]]></name></wpt>
+  <wpt lat="64.75824" lon="20.966825"><name><![CDATA[Kågevägens Bilservice, Skellefteå]]></name></wpt>
+  <wpt lat="71.215416" lon="21.041945"><name><![CDATA[BDS Test Verkstad, Abisko]]></name></wpt>
+  <wpt lat="65.614616" lon="22.044861"><name><![CDATA[Hedqvist Dieselservice AB, Luleå]]></name></wpt>
+  <wpt lat="65.852898" lon="23.111616"><name><![CDATA[Bilspecialisten, Kalix]]></name></wpt>
+  <wpt lat="65.861275" lon="23.136194"><name><![CDATA[Kalix Däck & Cykel AB, Kalix]]></name></wpt>
+  <wpt lat="66.384117" lon="23.649923"><name><![CDATA[Tornedalens Fordonsteknik Verkstaden, Övertorneå]]></name></wpt>
+</gpx>
