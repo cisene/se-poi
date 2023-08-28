@@ -1,475 +1,444 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Waynes Coffee</name>
+    <name><![CDATA[Waynes Coffee]]></name>
     <description/>
-    <Style id="icon-22-normal">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-22-highlight">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-22">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-22-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-22-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
+    <Style id="icon-22-normal"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>
+    <Style id="icon-22-highlight"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>1.1</scale></LabelStyle></Style>
+    <StyleMap id="icon-22"><Pair><key>normal</key><styleUrl>#icon-22-normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#icon-22-highlight</styleUrl></Pair></StyleMap>
     <Folder>
       <name><![CDATA[Waynes Coffee]]></name>
       <Placemark>
         <name><![CDATA[Waynes Coffee Uddevalla]]></name>
-        <description>Waynes Coffee Uddevalla, Uddevalla</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Uddevalla, Uddevalla]]></description>
         <Point><coordinates>11.81156,58.353476,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Mölndal]]></name>
-        <description>Waynes Coffee Mölndal, Mölndal</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Mölndal, Mölndal]]></description>
         <Point><coordinates>12.014693,57.65524,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Kungsbacka]]></name>
-        <description>Waynes Coffee Kungsbacka, Kungsbacka</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Kungsbacka, Kungsbacka]]></description>
         <Point><coordinates>12.075425,57.513916,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Falkenberg]]></name>
-        <description>Waynes Coffee Falkenberg, Falkenberg</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Falkenberg, Falkenberg]]></description>
         <Point><coordinates>12.492212,56.903278,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Helsingborg]]></name>
-        <description>Waynes Coffee Helsingborg, Helsingborg</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Helsingborg, Helsingborg]]></description>
         <Point><coordinates>12.692491,56.047282,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Helsingborg]]></name>
-        <description>Waynes Coffee Helsingborg, Helsingborg</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Helsingborg, Helsingborg]]></description>
         <Point><coordinates>12.701338,56.040563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Helsingborg]]></name>
-        <description>Waynes Coffee Helsingborg, Helsingborg</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Helsingborg, Helsingborg]]></description>
         <Point><coordinates>12.758936,56.091786,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Halmstad]]></name>
-        <description>Waynes Coffee Halmstad, Halmstad</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Halmstad, Halmstad]]></description>
         <Point><coordinates>12.858052,56.675148,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Halmstad]]></name>
-        <description>Waynes Coffee Halmstad, Halmstad</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Halmstad, Halmstad]]></description>
         <Point><coordinates>12.911351,56.655329,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Limhamn]]></name>
-        <description>Waynes Coffee Limhamn, Limhamn</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Limhamn, Limhamn]]></description>
         <Point><coordinates>12.937063,55.588081,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Malmö]]></name>
-        <description>Waynes Coffee Malmö, Malmö</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Malmö, Malmö]]></description>
         <Point><coordinates>12.981916,55.61394,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Sälen]]></name>
-        <description>Waynes Coffee Sälen, Sälen</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Sälen, Sälen]]></description>
         <Point><coordinates>12.998875,61.175203,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Malmö]]></name>
-        <description>Waynes Coffee Malmö, Malmö</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Malmö, Malmö]]></description>
         <Point><coordinates>13.001158,55.600062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Malmö]]></name>
-        <description>Waynes Coffee Malmö, Malmö</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Malmö, Malmö]]></description>
         <Point><coordinates>13.002098,55.595681,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Lund]]></name>
-        <description>Waynes Coffee Lund, Lund</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Lund, Lund]]></description>
         <Point><coordinates>13.194458,55.702193,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Sälen]]></name>
-        <description>Waynes Coffee Sälen, Sälen</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Sälen, Sälen]]></description>
         <Point><coordinates>13.204331,61.156542,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Karlstad]]></name>
-        <description>Waynes Coffee Karlstad, Karlstad</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Karlstad, Karlstad]]></description>
         <Point><coordinates>13.426201,59.377425,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Karlstad]]></name>
-        <description>Waynes Coffee Karlstad, Karlstad</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Karlstad, Karlstad]]></description>
         <Point><coordinates>13.500699,59.379845,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Karlstad]]></name>
-        <description>Waynes Coffee Karlstad, Karlstad</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Karlstad, Karlstad]]></description>
         <Point><coordinates>13.501521,59.380603,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Skövde]]></name>
-        <description>Waynes Coffee Skövde, Skövde</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Skövde, Skövde]]></description>
         <Point><coordinates>13.855201,58.405507,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Jönköping]]></name>
-        <description>Waynes Coffee Jönköping, Jönköping</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Jönköping, Jönköping]]></description>
         <Point><coordinates>14.205194,57.773162,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Kristianstad]]></name>
-        <description>Waynes Coffee Kristianstad, Kristianstad</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Kristianstad, Kristianstad]]></description>
         <Point><coordinates>14.20581,56.025911,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Mora]]></name>
-        <description>Waynes Coffee Mora, Mora</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Mora, Mora]]></description>
         <Point><coordinates>14.53949,61.006295,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Östersund]]></name>
-        <description>Waynes Coffee Östersund, Östersund</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Östersund, Östersund]]></description>
         <Point><coordinates>14.60157,63.1681,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Östersund]]></name>
-        <description>Waynes Coffee Östersund, Östersund</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Östersund, Östersund]]></description>
         <Point><coordinates>14.63642,63.178849,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Vetlanda]]></name>
-        <description>Waynes Coffee Vetlanda, Vetlanda</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Vetlanda, Vetlanda]]></description>
         <Point><coordinates>15.088537,57.42643,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Borlänge]]></name>
-        <description>Waynes Coffee Borlänge, Borlänge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Borlänge, Borlänge]]></description>
         <Point><coordinates>15.417741,60.484757,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Karlskrona]]></name>
-        <description>Waynes Coffee Karlskrona, Karlskrona</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Karlskrona, Karlskrona]]></description>
         <Point><coordinates>15.583557,56.162047,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Linköping]]></name>
-        <description>Waynes Coffee Linköping, Linköping</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Linköping, Linköping]]></description>
         <Point><coordinates>15.622782,58.410348,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Falun]]></name>
-        <description>Waynes Coffee Falun, Falun</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Falun, Falun]]></description>
         <Point><coordinates>15.628277,60.606841,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Avesta]]></name>
-        <description>Waynes Coffee Avesta, Avesta</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Avesta, Avesta]]></description>
         <Point><coordinates>16.167921,60.14583,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Norrköping]]></name>
-        <description>Waynes Coffee Norrköping, Norrköping</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Norrköping, Norrköping]]></description>
         <Point><coordinates>16.189068,58.58701,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Kalmar]]></name>
-        <description>Waynes Coffee Kalmar, Kalmar</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Kalmar, Kalmar]]></description>
         <Point><coordinates>16.365099,56.661096,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Eskilstuna]]></name>
-        <description>Waynes Coffee Eskilstuna, Eskilstuna</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Eskilstuna, Eskilstuna]]></description>
         <Point><coordinates>16.511805,59.371639,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Sala]]></name>
-        <description>Waynes Coffee Sala, Sala</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Sala, Sala]]></description>
         <Point><coordinates>16.606845,59.920213,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Sandviken]]></name>
-        <description>Waynes Coffee Sandviken, Sandviken</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Sandviken, Sandviken]]></description>
         <Point><coordinates>16.778958,60.620398,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Valbo]]></name>
-        <description>Waynes Coffee Valbo, Valbo</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Valbo, Valbo]]></description>
         <Point><coordinates>16.99378,60.633702,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Nyköping]]></name>
-        <description>Waynes Coffee Nyköping, Nyköping</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Nyköping, Nyköping]]></description>
         <Point><coordinates>17.003002,58.75111,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Söderhamn]]></name>
-        <description>Waynes Coffee Söderhamn, Söderhamn</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Söderhamn, Söderhamn]]></description>
         <Point><coordinates>17.056255,61.3026,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Enköping]]></name>
-        <description>Waynes Coffee Enköping, Enköping</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Enköping, Enköping]]></description>
         <Point><coordinates>17.079132,59.635552,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Hudiksvall]]></name>
-        <description>Waynes Coffee Hudiksvall, Hudiksvall</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Hudiksvall, Hudiksvall]]></description>
         <Point><coordinates>17.104839,61.727649,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Gävle]]></name>
-        <description>Waynes Coffee Gävle, Gävle</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Gävle, Gävle]]></description>
         <Point><coordinates>17.139913,60.673322,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Gävle]]></name>
-        <description>Waynes Coffee Gävle, Gävle</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Gävle, Gävle]]></description>
         <Point><coordinates>17.143831,60.674524,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Sundsvall]]></name>
-        <description>Waynes Coffee Sundsvall, Sundsvall</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Sundsvall, Sundsvall]]></description>
         <Point><coordinates>17.304498,62.391354,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Sundsvall]]></name>
-        <description>Waynes Coffee Sundsvall, Sundsvall</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Sundsvall, Sundsvall]]></description>
         <Point><coordinates>17.335877,62.447125,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Södertälje]]></name>
-        <description>Waynes Coffee Södertälje, Södertälje</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Södertälje, Södertälje]]></description>
         <Point><coordinates>17.627217,59.197807,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Uppsala]]></name>
-        <description>Waynes Coffee Uppsala, Uppsala</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Uppsala, Uppsala]]></description>
         <Point><coordinates>17.639392,59.857921,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Järfälla]]></name>
-        <description>Waynes Coffee Järfälla, Järfälla</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Järfälla, Järfälla]]></description>
         <Point><coordinates>17.856341,59.416444,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Stockholm]]></name>
-        <description>Waynes Coffee Stockholm, Stockholm</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Stockholm, Stockholm]]></description>
         <Point><coordinates>17.872943,59.363352,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Upplands Väsby]]></name>
-        <description>Waynes Coffee Upplands Väsby, Upplands Väsby</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Upplands Väsby, Upplands Väsby]]></description>
         <Point><coordinates>17.911404,59.518562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Härnösand]]></name>
-        <description>Waynes Coffee Härnösand, Härnösand</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Härnösand, Härnösand]]></description>
         <Point><coordinates>17.940125,62.633178,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Sollentuna]]></name>
-        <description>Waynes Coffee Sollentuna, Sollentuna</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Sollentuna, Sollentuna]]></description>
         <Point><coordinates>17.952376,59.428387,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Sundbyberg]]></name>
-        <description>Waynes Coffee Sundbyberg, Sundbyberg</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Sundbyberg, Sundbyberg]]></description>
         <Point><coordinates>17.973885,59.365293,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Solna]]></name>
-        <description>Waynes Coffee Solna, Solna</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Solna, Solna]]></description>
         <Point><coordinates>18.001206,59.359226,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Solna]]></name>
-        <description>Waynes Coffee Solna, Solna</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Solna, Solna]]></description>
         <Point><coordinates>18.032146,59.348707,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Danderyd]]></name>
-        <description>Waynes Coffee Danderyd, Danderyd</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Danderyd, Danderyd]]></description>
         <Point><coordinates>18.036396,59.398584,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Stockholm]]></name>
-        <description>Waynes Coffee Stockholm, Stockholm</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Stockholm, Stockholm]]></description>
         <Point><coordinates>18.057293,59.333206,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Stockholm]]></name>
-        <description>Waynes Coffee Stockholm, Stockholm</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Stockholm, Stockholm]]></description>
         <Point><coordinates>18.062073,59.310934,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Stockholm]]></name>
-        <description>Waynes Coffee Stockholm, Stockholm</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Stockholm, Stockholm]]></description>
         <Point><coordinates>18.063537,59.331615,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Stockholm]]></name>
-        <description>Waynes Coffee Stockholm, Stockholm</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Stockholm, Stockholm]]></description>
         <Point><coordinates>18.067237,59.332347,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Stockholm]]></name>
-        <description>Waynes Coffee Stockholm, Stockholm</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Stockholm, Stockholm]]></description>
         <Point><coordinates>18.07017,59.33295,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Täby]]></name>
-        <description>Waynes Coffee Täby, Täby</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Täby, Täby]]></description>
         <Point><coordinates>18.071898,59.445307,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Stockholm]]></name>
-        <description>Waynes Coffee Stockholm, Stockholm</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Stockholm, Stockholm]]></description>
         <Point><coordinates>18.072185,59.316677,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Stockholm]]></name>
-        <description>Waynes Coffee Stockholm, Stockholm</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Stockholm, Stockholm]]></description>
         <Point><coordinates>18.084531,59.302134,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Farsta]]></name>
-        <description>Waynes Coffee Farsta, Farsta</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Farsta, Farsta]]></description>
         <Point><coordinates>18.093019,59.24259,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Nacka]]></name>
-        <description>Waynes Coffee Nacka, Nacka</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Nacka, Nacka]]></description>
         <Point><coordinates>18.124495,59.306035,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Nacka]]></name>
-        <description>Waynes Coffee Nacka, Nacka</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Nacka, Nacka]]></description>
         <Point><coordinates>18.164388,59.309845,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Åkersberga]]></name>
-        <description>Waynes Coffee Åkersberga, Åkersberga</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Åkersberga, Åkersberga]]></description>
         <Point><coordinates>18.296727,59.47993,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Örnsköldsvik]]></name>
-        <description>Waynes Coffee Örnsköldsvik, Örnsköldsvik</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Örnsköldsvik, Örnsköldsvik]]></description>
         <Point><coordinates>18.715564,63.289051,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Umeå]]></name>
-        <description>Waynes Coffee Umeå, Umeå</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Umeå, Umeå]]></description>
         <Point><coordinates>20.254656,63.807752,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Skellefteå]]></name>
-        <description>Waynes Coffee Skellefteå, Skellefteå</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Skellefteå, Skellefteå]]></description>
         <Point><coordinates>21.0211,64.765749,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Waynes Coffee Luleå]]></name>
-        <description>Waynes Coffee Luleå, Luleå</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Waynes Coffee Luleå, Luleå]]></description>
         <Point><coordinates>22.150951,65.584202,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
     </Folder>
   </Document>

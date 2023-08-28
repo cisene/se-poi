@@ -1,1519 +1,1488 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Järnvägsstationer Sverige</name>
+    <name><![CDATA[Järnvägsstationer Sverige]]></name>
     <description/>
-    <Style id="icon-22-normal">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-22-highlight">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-22">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-22-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-22-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
+    <Style id="icon-22-normal"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>
+    <Style id="icon-22-highlight"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>1.1</scale></LabelStyle></Style>
+    <StyleMap id="icon-22"><Pair><key>normal</key><styleUrl>#icon-22-normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#icon-22-highlight</styleUrl></Pair></StyleMap>
     <Folder>
       <name><![CDATA[Järnvägsstationer Sverige]]></name>
       <Placemark>
         <name><![CDATA[Skee Järnvägsstation]]></name>
-        <description>Skee Järnvägsstation, Skee, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Skee Järnvägsstation, Skee, Sverige]]></description>
         <Point><coordinates>11.264059,58.92306,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Hällevadsholm Järnvägsstation]]></name>
-        <description>Hällevadsholm Järnvägsstation, Hällevadsholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Hällevadsholm Järnvägsstation, Hällevadsholm, Sverige]]></description>
         <Point><coordinates>11.537807,58.580593,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Dingle Järnvägsstation]]></name>
-        <description>Dingle Järnvägsstation, Dingle, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Dingle Järnvägsstation, Dingle, Sverige]]></description>
         <Point><coordinates>11.579574,58.529742,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Munkedal Järnvägsstation]]></name>
-        <description>Munkedal Järnvägsstation, Munkedal, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Munkedal Järnvägsstation, Munkedal, Sverige]]></description>
         <Point><coordinates>11.676639,58.465367,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Uddevalla Järnvägsstation]]></name>
-        <description>Uddevalla Järnvägsstation, Uddevalla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Uddevalla Järnvägsstation, Uddevalla, Sverige]]></description>
         <Point><coordinates>11.921932,58.35405,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Ed Järnvägsstation]]></name>
-        <description>Ed Järnvägsstation, Ed, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Ed Järnvägsstation, Ed, Sverige]]></description>
         <Point><coordinates>11.935031,58.913497,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Göteborg Centralstation]]></name>
-        <description>Göteborg Centralstation, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Göteborg Centralstation, Göteborg, Sverige]]></description>
         <Point><coordinates>11.976095,57.708929,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Liseberg Järnvägsstation]]></name>
-        <description>Liseberg Järnvägsstation, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Liseberg Järnvägsstation, Göteborg, Sverige]]></description>
         <Point><coordinates>11.994081,57.698212,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Mölndal station]]></name>
-        <description>Mölndal station, Mölndal, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Mölndal station, Mölndal, Sverige]]></description>
         <Point><coordinates>12.020045,57.656464,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Älvängen station]]></name>
-        <description>Älvängen station, Älvängen, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Älvängen station, Älvängen, Sverige]]></description>
         <Point><coordinates>12.121146,57.960158,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bengtsfors Järnvägsstation]]></name>
-        <description>Bengtsfors Järnvägsstation, Bengtsfors, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bengtsfors Järnvägsstation, Bengtsfors, Sverige]]></description>
         <Point><coordinates>12.233826,59.030648,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Varberg Järnvägsstation]]></name>
-        <description>Varberg Järnvägsstation, Varberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Varberg Järnvägsstation, Varberg, Sverige]]></description>
         <Point><coordinates>12.250165,57.109534,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Öxnered Järnvägsstation]]></name>
-        <description>Öxnered Järnvägsstation, Öxnered, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Öxnered Järnvägsstation, Öxnered, Sverige]]></description>
         <Point><coordinates>12.273868,58.358173,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Trollhättan Järnvägsstation]]></name>
-        <description>Trollhättan Järnvägsstation, Trollhättan, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Trollhättan Järnvägsstation, Trollhättan, Sverige]]></description>
         <Point><coordinates>12.298598,58.286781,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Charlottenberg Järnvägsstation]]></name>
-        <description>Charlottenberg Järnvägsstation, Charlottenberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Charlottenberg Järnvägsstation, Charlottenberg, Sverige]]></description>
         <Point><coordinates>12.299353,59.884746,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Veddige Järnvägsstation]]></name>
-        <description>Veddige Järnvägsstation, Veddige, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Veddige Järnvägsstation, Veddige, Sverige]]></description>
         <Point><coordinates>12.333418,57.26622,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Strömstad, Smd]]></name>
-        <description>Strömstad, Smd, Strömstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Strömstad, Smd, Strömstad, Sverige]]></description>
         <Point><coordinates>12.33432,65.44205,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lerot Järnvägsstation]]></name>
-        <description>Lerot Järnvägsstation, Lerot, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lerot Järnvägsstation, Lerot, Sverige]]></description>
         <Point><coordinates>12.35785,59.832936,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Åmotfors station]]></name>
-        <description>Åmotfors station, Åmotfors, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Åmotfors station, Åmotfors, Sverige]]></description>
         <Point><coordinates>12.36687,59.768875,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Vargön Järnvägsstation]]></name>
-        <description>Vargön Järnvägsstation, Vargön, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Vargön Järnvägsstation, Vargön, Sverige]]></description>
         <Point><coordinates>12.390809,58.358663,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Håverud Järnvägsstation]]></name>
-        <description>Håverud Järnvägsstation, Håverud, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Håverud Järnvägsstation, Håverud, Sverige]]></description>
         <Point><coordinates>12.410489,58.822757,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Hindås Pendeltågstation]]></name>
-        <description>Hindås Pendeltågstation, Hindås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Hindås Pendeltågstation, Hindås, Sverige]]></description>
         <Point><coordinates>12.451177,57.704256,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Mellerud Järnvägsstation]]></name>
-        <description>Mellerud Järnvägsstation, Mellerud, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Mellerud Järnvägsstation, Mellerud, Sverige]]></description>
         <Point><coordinates>12.462984,58.701662,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Ottebol Järnvägsstation]]></name>
-        <description>Ottebol Järnvägsstation, Ottebol, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Ottebol Järnvägsstation, Ottebol, Sverige]]></description>
         <Point><coordinates>12.469925,59.696512,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rävlanda station]]></name>
-        <description>Rävlanda station, Rävlanda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rävlanda station, Rävlanda, Sverige]]></description>
         <Point><coordinates>12.50046,57.654346,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Falkenberg Järnvägsstation]]></name>
-        <description>Falkenberg Järnvägsstation, Falkenberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Falkenberg Järnvägsstation, Falkenberg, Sverige]]></description>
         <Point><coordinates>12.510611,56.921484,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Björketorp Järnvägsstation]]></name>
-        <description>Björketorp Järnvägsstation, Björketorp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Björketorp Järnvägsstation, Björketorp, Sverige]]></description>
         <Point><coordinates>12.525591,57.428383,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Alingsås Järnvägsstation]]></name>
-        <description>Alingsås Järnvägsstation, Alingsås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Alingsås Järnvägsstation, Alingsås, Sverige]]></description>
         <Point><coordinates>12.53229,57.927053,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Ånn Järnvägsstation]]></name>
-        <description>Ånn Järnvägsstation, Ånn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Ånn Järnvägsstation, Ånn, Sverige]]></description>
         <Point><coordinates>12.539955,63.321326,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bollebygd Järnvägsstation]]></name>
-        <description>Bollebygd Järnvägsstation, Bollebygd, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bollebygd Järnvägsstation, Bollebygd, Sverige]]></description>
         <Point><coordinates>12.568378,57.667884,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arvika Järnvägsstation]]></name>
-        <description>Arvika Järnvägsstation, Arvika, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arvika Järnvägsstation, Arvika, Sverige]]></description>
         <Point><coordinates>12.591264,59.653684,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Berghem Järnvägsstation]]></name>
-        <description>Berghem Järnvägsstation, Berghem, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Berghem Järnvägsstation, Berghem, Sverige]]></description>
         <Point><coordinates>12.59773,57.46744,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Skene Järnvägsstation]]></name>
-        <description>Skene Järnvägsstation, Skene, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Skene Järnvägsstation, Skene, Sverige]]></description>
         <Point><coordinates>12.648677,57.488251,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Helsingborg Järnvägsstation]]></name>
-        <description>Helsingborg Järnvägsstation, Helsingborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Helsingborg Järnvägsstation, Helsingborg, Sverige]]></description>
         <Point><coordinates>12.694704,56.0441,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Kinna Järnvägsstation]]></name>
-        <description>Kinna Järnvägsstation, Kinna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Kinna Järnvägsstation, Kinna, Sverige]]></description>
         <Point><coordinates>12.696595,57.50628,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Halmstad Järnvägsstation]]></name>
-        <description>Halmstad Järnvägsstation, Halmstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Halmstad Järnvägsstation, Halmstad, Sverige]]></description>
         <Point><coordinates>12.86427,56.669276,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Håkantorp Järnvägsstation]]></name>
-        <description>Håkantorp Järnvägsstation, Håkantorp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Håkantorp Järnvägsstation, Håkantorp, Sverige]]></description>
         <Point><coordinates>12.908725,58.30706,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Duved Järnvägsstation]]></name>
-        <description>Duved Järnvägsstation, Duved, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Duved Järnvägsstation, Duved, Sverige]]></description>
         <Point><coordinates>12.917592,63.389984,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Säffle Järnvägsstation]]></name>
-        <description>Säffle Järnvägsstation, Säffle, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Säffle Järnvägsstation, Säffle, Sverige]]></description>
         <Point><coordinates>12.918267,59.132296,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Borås Järnvägsstation]]></name>
-        <description>Borås Järnvägsstation, Borås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Borås Järnvägsstation, Borås, Sverige]]></description>
         <Point><coordinates>12.932284,57.720691,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Vara Järnvägsstation]]></name>
-        <description>Vara Järnvägsstation, Vara, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Vara Järnvägsstation, Vara, Sverige]]></description>
         <Point><coordinates>12.952756,58.260692,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Brunsberg Järnvägsstation]]></name>
-        <description>Brunsberg Järnvägsstation, Brunsberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Brunsberg Järnvägsstation, Brunsberg, Sverige]]></description>
         <Point><coordinates>12.960604,59.617657,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Järpås Järnvägsstation]]></name>
-        <description>Järpås Järnvägsstation, Järpås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Järpås Järnvägsstation, Järpås, Sverige]]></description>
         <Point><coordinates>12.972349,58.380412,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Malmö Syd Järnvägsstation]]></name>
-        <description>Malmö Syd Järnvägsstation, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Malmö Syd Järnvägsstation, Malmö, Sverige]]></description>
         <Point><coordinates>12.991462,55.548623,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Billeberga Järnvägsstation]]></name>
-        <description>Billeberga Järnvägsstation, Billeberga, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Billeberga Järnvägsstation, Billeberga, Sverige]]></description>
         <Point><coordinates>12.994975,55.88377,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Malmö Järnvägsstation]]></name>
-        <description>Malmö Järnvägsstation, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Malmö Järnvägsstation, Malmö, Sverige]]></description>
         <Point><coordinates>12.999735,55.608623,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Laholm Järnvägsstation]]></name>
-        <description>Laholm Järnvägsstation, Laholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Laholm Järnvägsstation, Laholm, Sverige]]></description>
         <Point><coordinates>13.00584,56.501502,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Fristad Järnvägsstation]]></name>
-        <description>Fristad Järnvägsstation, Fristad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Fristad Järnvägsstation, Fristad, Sverige]]></description>
         <Point><coordinates>13.009044,57.825675,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Borgstena Järnvägsstation]]></name>
-        <description>Borgstena Järnvägsstation, Borgstena, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Borgstena Järnvägsstation, Borgstena, Sverige]]></description>
         <Point><coordinates>13.016648,57.883245,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Herrljunga Järnvägsstation]]></name>
-        <description>Herrljunga Järnvägsstation, Herrljunga, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Herrljunga Järnvägsstation, Herrljunga, Sverige]]></description>
         <Point><coordinates>13.021169,58.078807,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Mollaryd Järnvägsstation]]></name>
-        <description>Mollaryd Järnvägsstation, Mollaryd, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Mollaryd Järnvägsstation, Mollaryd, Sverige]]></description>
         <Point><coordinates>13.028353,57.905097,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Torpåkra Järnvägsstation]]></name>
-        <description>Torpåkra Järnvägsstation, Torpåkra, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Torpåkra Järnvägsstation, Torpåkra, Sverige]]></description>
         <Point><coordinates>13.029184,57.940671,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Oleby Järnvägsstation]]></name>
-        <description>Oleby Järnvägsstation, Oleby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Oleby Järnvägsstation, Oleby, Sverige]]></description>
         <Point><coordinates>13.039381,60.130336,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lovene Järnvägsstation]]></name>
-        <description>Lovene Järnvägsstation, Lovene, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lovene Järnvägsstation, Lovene, Sverige]]></description>
         <Point><coordinates>13.045973,58.440335,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Ljung Järnvägsstation]]></name>
-        <description>Ljung Järnvägsstation, Ljung, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Ljung Järnvägsstation, Ljung, Sverige]]></description>
         <Point><coordinates>13.054561,57.987117,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Åre Järnvägsstation]]></name>
-        <description>Åre Järnvägsstation, Åre, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Åre Järnvägsstation, Åre, Sverige]]></description>
         <Point><coordinates>13.077382,63.399232,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Badabruk Järnvägsstation]]></name>
-        <description>Badabruk Järnvägsstation, Badabruk, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Badabruk Järnvägsstation, Badabruk, Sverige]]></description>
         <Point><coordinates>13.095372,60.062892,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Grums Järnvägsstation]]></name>
-        <description>Grums Järnvägsstation, Grums, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Grums Järnvägsstation, Grums, Sverige]]></description>
         <Point><coordinates>13.113269,59.35304,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Klippan Järnvägsstation]]></name>
-        <description>Klippan Järnvägsstation, Klippan, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Klippan Järnvägsstation, Klippan, Sverige]]></description>
         <Point><coordinates>13.128257,56.131377,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Framnäs Järnvägsstation]]></name>
-        <description>Framnäs Järnvägsstation, Framnäs, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Framnäs Järnvägsstation, Framnäs, Sverige]]></description>
         <Point><coordinates>13.142226,58.508535,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Kolsnäs Järnvägstation]]></name>
-        <description>Kolsnäs Järnvägstation, Kolsnäs, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Kolsnäs Järnvägstation, Kolsnäs, Sverige]]></description>
         <Point><coordinates>13.142563,59.825427,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sunne Järnvägstation]]></name>
-        <description>Sunne Järnvägstation, Sunne, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sunne Järnvägstation, Sunne, Sverige]]></description>
         <Point><coordinates>13.148619,59.835375,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bäckebron Järnvägsstation]]></name>
-        <description>Bäckebron Järnvägsstation, Bäckebron, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bäckebron Järnvägsstation, Bäckebron, Sverige]]></description>
         <Point><coordinates>13.163345,59.662102,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lund Järnvägsstation]]></name>
-        <description>Lund Järnvägsstation, Lund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lund Järnvägsstation, Lund, Sverige]]></description>
         <Point><coordinates>13.186996,55.706681,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Svedala Järnvägsstation]]></name>
-        <description>Svedala Järnvägsstation, Svedela, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Svedala Järnvägsstation, Svedela, Sverige]]></description>
         <Point><coordinates>13.232489,55.507121,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Filsbäck Järnvägsstation]]></name>
-        <description>Filsbäck Järnvägsstation, Filsbäck, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Filsbäck Järnvägsstation, Filsbäck, Sverige]]></description>
         <Point><coordinates>13.247296,58.492764,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Eslöv Järnvägsstation]]></name>
-        <description>Eslöv Järnvägsstation, Eslöv, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Eslöv Järnvägsstation, Eslöv, Sverige]]></description>
         <Point><coordinates>13.304922,55.838584,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Kil Järnvägsstation]]></name>
-        <description>Kil Järnvägsstation, Kil, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Kil Järnvägsstation, Kil, Sverige]]></description>
         <Point><coordinates>13.314937,59.504663,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Blomberg Järnvägsstation]]></name>
-        <description>Blomberg Järnvägsstation, Blomberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Blomberg Järnvägsstation, Blomberg, Sverige]]></description>
         <Point><coordinates>13.317458,58.537839,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Trolmen Järnvägsstation]]></name>
-        <description>Trolmen Järnvägsstation, Trolmen, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Trolmen Järnvägsstation, Trolmen, Sverige]]></description>
         <Point><coordinates>13.347714,58.594358,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Limmared Järnvägsstation]]></name>
-        <description>Limmared Järnvägsstation, Limmared, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Limmared Järnvägsstation, Limmared, Sverige]]></description>
         <Point><coordinates>13.3546,57.536049,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Råbäck Järnvägsstation]]></name>
-        <description>Råbäck Järnvägsstation, Råbäck, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Råbäck Järnvägsstation, Råbäck, Sverige]]></description>
         <Point><coordinates>13.376664,58.610294,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Skurup Pendeltågstation]]></name>
-        <description>Skurup Pendeltågstation, Skurup, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Skurup Pendeltågstation, Skurup, Sverige]]></description>
         <Point><coordinates>13.497595,55.479749,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Karlstad Järnvägsstation]]></name>
-        <description>Karlstad Järnvägsstation, Karlstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Karlstad Järnvägsstation, Karlstad, Sverige]]></description>
         <Point><coordinates>13.499013,59.378569,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Höör Järnvägsstation]]></name>
-        <description>Höör Järnvägsstation, Höör, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Höör Järnvägsstation, Höör, Sverige]]></description>
         <Point><coordinates>13.541653,55.936776,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Falköping Järnvägsstation]]></name>
-        <description>Falköping Järnvägsstation, Falköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Falköping Järnvägsstation, Falköping, Sverige]]></description>
         <Point><coordinates>13.552707,58.175543,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lugnås Järnvägsstation]]></name>
-        <description>Lugnås Järnvägsstation, Lugnås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lugnås Järnvägsstation, Lugnås, Sverige]]></description>
         <Point><coordinates>13.701411,58.643276,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Malung Järnvägsstation]]></name>
-        <description>Malung Järnvägsstation, Malung, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Malung Järnvägsstation, Malung, Sverige]]></description>
         <Point><coordinates>13.710993,60.684428,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Gnosjö Järnvägsstation]]></name>
-        <description>Gnosjö Järnvägsstation, Gnosjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Gnosjö Järnvägsstation, Gnosjö, Sverige]]></description>
         <Point><coordinates>13.73528,57.358746,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Hässleholm Järnvägsstation]]></name>
-        <description>Hässleholm Järnvägsstation, Hässleholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Hässleholm Järnvägsstation, Hässleholm, Sverige]]></description>
         <Point><coordinates>13.763435,56.157324,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sandhem Järnvägsstation]]></name>
-        <description>Sandhem Järnvägsstation, Sandhem, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sandhem Järnvägsstation, Sandhem, Sverige]]></description>
         <Point><coordinates>13.771656,57.987393,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Ystad Järnvägsstation]]></name>
-        <description>Ystad Järnvägsstation, Ystad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Ystad Järnvägsstation, Ystad, Sverige]]></description>
         <Point><coordinates>13.824292,55.426971,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Mariestad Järnvägsstation]]></name>
-        <description>Mariestad Järnvägsstation, Mariestad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Mariestad Järnvägsstation, Mariestad, Sverige]]></description>
         <Point><coordinates>13.824569,58.711145,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Skövde Järnvägsstation]]></name>
-        <description>Skövde Järnvägsstation, Skövde, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Skövde Järnvägsstation, Skövde, Sverige]]></description>
         <Point><coordinates>13.852106,58.389838,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Mullsjö Järnvägsstation]]></name>
-        <description>Mullsjö Järnvägsstation, Mullsjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Mullsjö Järnvägsstation, Mullsjö, Sverige]]></description>
         <Point><coordinates>13.883125,57.915423,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Hasslerör Järnvägsstation]]></name>
-        <description>Hasslerör Järnvägsstation, Hasslerör, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Hasslerör Järnvägsstation, Hasslerör, Sverige]]></description>
         <Point><coordinates>13.940218,58.750209,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Osby Järnvägsstation]]></name>
-        <description>Osby Järnvägsstation, Osby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Osby Järnvägsstation, Osby, Sverige]]></description>
         <Point><coordinates>13.994831,56.37975,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Värnamo Järnvägsstation]]></name>
-        <description>Värnamo Järnvägsstation, Värnamo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Värnamo Järnvägsstation, Värnamo, Sverige]]></description>
         <Point><coordinates>14.03651,57.186421,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lyrestad Järnvägsstation]]></name>
-        <description>Lyrestad Järnvägsstation, Lyrestad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lyrestad Järnvägsstation, Lyrestad, Sverige]]></description>
         <Point><coordinates>14.05825,58.804769,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Habo Järnvägsstation]]></name>
-        <description>Habo Järnvägsstation, Habo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Habo Järnvägsstation, Habo, Sverige]]></description>
         <Point><coordinates>14.077276,57.906548,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Torved Järnvägsstation]]></name>
-        <description>Torved Järnvägsstation, Torved, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Torved Järnvägsstation, Torved, Sverige]]></description>
         <Point><coordinates>14.100729,58.824921,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bratteborg Järnvägsstation]]></name>
-        <description>Bratteborg Järnvägsstation, Bratteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bratteborg Järnvägsstation, Bratteborg, Sverige]]></description>
         <Point><coordinates>14.104539,57.566942,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Kristinehamn Järnvägsstation]]></name>
-        <description>Kristinehamn Järnvägsstation, Kristinehamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Kristinehamn Järnvägsstation, Kristinehamn, Sverige]]></description>
         <Point><coordinates>14.108293,59.316473,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bankeryd Järnvägsstation]]></name>
-        <description>Bankeryd Järnvägsstation, Bankeryd, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bankeryd Järnvägsstation, Bankeryd, Sverige]]></description>
         <Point><coordinates>14.126808,57.861324,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Töreboda Järnvägsstation]]></name>
-        <description>Töreboda Järnvägsstation, Töreboda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Töreboda Järnvägsstation, Töreboda, Sverige]]></description>
         <Point><coordinates>14.128612,58.705038,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Älmhult Järnvägsstation]]></name>
-        <description>Älmhult Järnvägsstation, Älmhult, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Älmhult Järnvägsstation, Älmhult, Sverige]]></description>
         <Point><coordinates>14.137826,56.551168,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Kristianstad Järnvägsstation]]></name>
-        <description>Kristianstad Järnvägsstation, Kristianstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Kristianstad Järnvägsstation, Kristianstad, Sverige]]></description>
         <Point><coordinates>14.151714,56.032329,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Filipstad Järnvägsstation]]></name>
-        <description>Filipstad Järnvägsstation, Filipstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Filipstad Järnvägsstation, Filipstad, Sverige]]></description>
         <Point><coordinates>14.160402,59.708129,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jönköping Järnvägsstation]]></name>
-        <description>Jönköping Järnvägsstation, Jönköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jönköping Järnvägsstation, Jönköping, Sverige]]></description>
         <Point><coordinates>14.16271,57.783737,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Vansbro Järnvägsstation]]></name>
-        <description>Vansbro Järnvägsstation, Vansbro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Vansbro Järnvägsstation, Vansbro, Sverige]]></description>
         <Point><coordinates>14.225142,60.513289,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Storfors Järnvägsstation]]></name>
-        <description>Storfors Järnvägsstation, Storfors, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Storfors Järnvägsstation, Storfors, Sverige]]></description>
         <Point><coordinates>14.27167,59.532849,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Tenhult Järnvägsstation]]></name>
-        <description>Tenhult Järnvägsstation, Tenhult, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Tenhult Järnvägsstation, Tenhult, Sverige]]></description>
         <Point><coordinates>14.326165,57.70432,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Dala-Järna Järnvägsstation]]></name>
-        <description>Dala-Järna Järnvägsstation, Dala-Järna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Dala-Järna Järnvägsstation, Dala-Järna, Sverige]]></description>
         <Point><coordinates>14.362349,60.548497,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Degerfors Järnvägsstation]]></name>
-        <description>Degerfors Järnvägsstation, Degerfors, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Degerfors Järnvägsstation, Degerfors, Sverige]]></description>
         <Point><coordinates>14.441681,59.229536,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bromölla Järnvägsstation]]></name>
-        <description>Bromölla Järnvägsstation, Bromölla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bromölla Järnvägsstation, Bromölla, Sverige]]></description>
         <Point><coordinates>14.462926,56.064737,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Hällefors Järnvägsstation]]></name>
-        <description>Hällefors Järnvägsstation, Hällefors, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Hällefors Järnvägsstation, Hällefors, Sverige]]></description>
         <Point><coordinates>14.519155,59.777812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Grythyttan Järnvägsstation]]></name>
-        <description>Grythyttan Järnvägsstation, Grythyttan, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Grythyttan Järnvägsstation, Grythyttan, Sverige]]></description>
         <Point><coordinates>14.529906,59.706998,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Alvesta Järnvägsstation]]></name>
-        <description>Alvesta Järnvägsstation, Alvesta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Alvesta Järnvägsstation, Alvesta, Sverige]]></description>
         <Point><coordinates>14.557387,56.899717,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sölvesborg Järnvägsstation]]></name>
-        <description>Sölvesborg Järnvägsstation, Sölvesborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sölvesborg Järnvägsstation, Sölvesborg, Sverige]]></description>
         <Point><coordinates>14.584911,56.050735,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Laxå Järnvägsstation]]></name>
-        <description>Laxå Järnvägsstation, Laxå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Laxå Järnvägsstation, Laxå, Sverige]]></description>
         <Point><coordinates>14.617182,58.988823,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Östersund Järnvägsstation]]></name>
-        <description>Östersund Järnvägsstation, Östersund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Östersund Järnvägsstation, Östersund, Sverige]]></description>
         <Point><coordinates>14.637927,63.170535,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sävsjö Järnvägsstation]]></name>
-        <description>Sävsjö Järnvägsstation, Sävsjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sävsjö Järnvägsstation, Sävsjö, Sverige]]></description>
         <Point><coordinates>14.66597,57.402371,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Nässjö Järnvägsstation]]></name>
-        <description>Nässjö Järnvägsstation, Nässjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Nässjö Järnvägsstation, Nässjö, Sverige]]></description>
         <Point><coordinates>14.695207,57.65183,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Björbo Järnvägsstation]]></name>
-        <description>Björbo Järnvägsstation, Björbo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Björbo Järnvägsstation, Björbo, Sverige]]></description>
         <Point><coordinates>14.730307,60.453054,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Dala-Floda Järnvägsstation]]></name>
-        <description>Dala-Floda Järnvägsstation, Dala-Floda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Dala-Floda Järnvägsstation, Dala-Floda, Sverige]]></description>
         <Point><coordinates>14.788317,60.490023,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Aneby Järnvägsstation]]></name>
-        <description>Aneby Järnvägsstation, Aneby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Aneby Järnvägsstation, Aneby, Sverige]]></description>
         <Point><coordinates>14.810434,57.834936,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Brunflo Järnvägsstation]]></name>
-        <description>Brunflo Järnvägsstation, Brunflo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Brunflo Järnvägsstation, Brunflo, Sverige]]></description>
         <Point><coordinates>14.833117,63.076299,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Karlshamn Järnvägsstation]]></name>
-        <description>Karlshamn Järnvägsstation, Karlshamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Karlshamn Järnvägsstation, Karlshamn, Sverige]]></description>
         <Point><coordinates>14.866587,56.175791,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Mockfjärd Järnvägsstation]]></name>
-        <description>Mockfjärd Järnvägsstation, Mockfjärd, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Mockfjärd Järnvägsstation, Mockfjärd, Sverige]]></description>
         <Point><coordinates>14.958168,60.495878,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Tranås Järnvägsstation]]></name>
-        <description>Tranås Järnvägsstation, Tranås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Tranås Järnvägsstation, Tranås, Sverige]]></description>
         <Point><coordinates>14.976493,58.038157,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Eksjö Järnvägsstation]]></name>
-        <description>Eksjö Järnvägsstation, Eksjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Eksjö Järnvägsstation, Eksjö, Sverige]]></description>
         <Point><coordinates>14.979881,57.664561,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Kopparberg Järnvägsstation]]></name>
-        <description>Kopparberg Järnvägsstation, Kopparberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Kopparberg Järnvägsstation, Kopparberg, Sverige]]></description>
         <Point><coordinates>14.986776,59.872936,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Leksand Järnvägsstation]]></name>
-        <description>Leksand Järnvägsstation, Leksand, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Leksand Järnvägsstation, Leksand, Sverige]]></description>
         <Point><coordinates>15.002085,60.73385,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Grängesberg Järnvägsstation]]></name>
-        <description>Grängesberg Järnvägsstation, Grängesberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Grängesberg Järnvägsstation, Grängesberg, Sverige]]></description>
         <Point><coordinates>15.005752,60.074881,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Motala Järnvägsstation]]></name>
-        <description>Motala Järnvägsstation, Motala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Motala Järnvägsstation, Motala, Sverige]]></description>
         <Point><coordinates>15.048384,58.538008,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Boxholm Järnvägsstation]]></name>
-        <description>Boxholm Järnvägsstation, Boxholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Boxholm Järnvägsstation, Boxholm, Sverige]]></description>
         <Point><coordinates>15.054581,58.19328,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Vetlanda Järnvägsstation]]></name>
-        <description>Vetlanda Järnvägsstation, Vetlanda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Vetlanda Järnvägsstation, Vetlanda, Sverige]]></description>
         <Point><coordinates>15.082958,57.426117,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Hallsberg Järnvägsstation]]></name>
-        <description>Hallsberg Järnvägsstation, Hallsberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Hallsberg Järnvägsstation, Hallsberg, Sverige]]></description>
         <Point><coordinates>15.108482,59.066078,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rättvik Järnvägsstation]]></name>
-        <description>Rättvik Järnvägsstation, Rättvik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rättvik Järnvägsstation, Rättvik, Sverige]]></description>
         <Point><coordinates>15.115311,60.885304,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bräkne-Hoby Järnvägsstation]]></name>
-        <description>Bräkne-Hoby Järnvägsstation, Bräkne-Hoby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bräkne-Hoby Järnvägsstation, Bräkne-Hoby, Sverige]]></description>
         <Point><coordinates>15.116114,56.230137,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Mjölby Resecentrum]]></name>
-        <description>Mjölby Resecentrum, Mjölby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Mjölby Resecentrum, Mjölby, Sverige]]></description>
         <Point><coordinates>15.132487,58.322733,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Kumla Järnvägsstation]]></name>
-        <description>Kumla Järnvägsstation, Kumla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Kumla Järnvägsstation, Kumla, Sverige]]></description>
         <Point><coordinates>15.140102,59.126535,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Ludvika Järnvägsstation]]></name>
-        <description>Ludvika Järnvägsstation, Ludvika, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Ludvika Järnvägsstation, Ludvika, Sverige]]></description>
         <Point><coordinates>15.183483,60.150425,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Örebro Järnvägsstation]]></name>
-        <description>Örebro Järnvägsstation, Örebro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Örebro Järnvägsstation, Örebro, Sverige]]></description>
         <Point><coordinates>15.211973,59.278127,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lindesberg Järnvägsstation]]></name>
-        <description>Lindesberg Järnvägsstation, Lindesberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lindesberg Järnvägsstation, Lindesberg, Sverige]]></description>
         <Point><coordinates>15.228215,59.594348,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Ronneby Järnvägsstation]]></name>
-        <description>Ronneby Järnvägsstation, Ronneby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Ronneby Järnvägsstation, Ronneby, Sverige]]></description>
         <Point><coordinates>15.283257,56.207283,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Mantorp Järnvägsstation]]></name>
-        <description>Mantorp Järnvägsstation, Mantorp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Mantorp Järnvägsstation, Mantorp, Sverige]]></description>
         <Point><coordinates>15.291861,58.348396,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Frövi Järnvägsstation]]></name>
-        <description>Frövi Järnvägsstation, Frövi, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Frövi Järnvägsstation, Frövi, Sverige]]></description>
         <Point><coordinates>15.363258,59.467239,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Borlänge Järnvägsstation]]></name>
-        <description>Borlänge Järnvägsstation, Borlänge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Borlänge Järnvägsstation, Borlänge, Sverige]]></description>
         <Point><coordinates>15.426619,60.482255,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Holmsjö Järnvägsstation]]></name>
-        <description>Holmsjö Järnvägsstation, Holmsjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Holmsjö Järnvägsstation, Holmsjö, Sverige]]></description>
         <Point><coordinates>15.542443,56.421493,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Karlskrona Järnvägsstation]]></name>
-        <description>Karlskrona Järnvägsstation, Karlskrona, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Karlskrona Järnvägsstation, Karlskrona, Sverige]]></description>
         <Point><coordinates>15.583368,56.167449,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Mariannelunds järnvägsstation]]></name>
-        <description>Mariannelunds järnvägsstation, Mariannelund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Mariannelunds järnvägsstation, Mariannelund, Sverige]]></description>
         <Point><coordinates>15.584711,57.616101,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bergåsa Järnvägsstation]]></name>
-        <description>Bergåsa Järnvägsstation, Bergåsa, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bergåsa Järnvägsstation, Bergåsa, Sverige]]></description>
         <Point><coordinates>15.600399,56.182459,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Linköping Järnvägsstation]]></name>
-        <description>Linköping Järnvägsstation, Linköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Linköping Järnvägsstation, Linköping, Sverige]]></description>
         <Point><coordinates>15.626511,58.415013,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Kisa Järnvägsstation]]></name>
-        <description>Kisa Järnvägsstation, Kisa, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Kisa Järnvägsstation, Kisa, Sverige]]></description>
         <Point><coordinates>15.633452,57.98549,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Falun Järnvägsstation]]></name>
-        <description>Falun Järnvägsstation, Falun, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Falun Järnvägsstation, Falun, Sverige]]></description>
         <Point><coordinates>15.640851,60.604715,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Tannefors Station]]></name>
-        <description>Tannefors Station, Tannefors, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Tannefors Station, Tannefors, Sverige]]></description>
         <Point><coordinates>15.652659,58.402164,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Ånge Järnvägsstation]]></name>
-        <description>Ånge Järnvägsstation, Ånge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Ånge Järnvägsstation, Ånge, Sverige]]></description>
         <Point><coordinates>15.658637,62.52422,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rimforsa Järnvägsstation]]></name>
-        <description>Rimforsa Järnvägsstation, Rimforsa, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rimforsa Järnvägsstation, Rimforsa, Sverige]]></description>
         <Point><coordinates>15.683177,58.135297,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Säter Järnvägsstation]]></name>
-        <description>Säter Järnvägsstation, Säter, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Säter Järnvägsstation, Säter, Sverige]]></description>
         <Point><coordinates>15.752542,60.348275,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Linghem Järnvägsstation]]></name>
-        <description>Linghem Järnvägsstation, Linghem, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Linghem Järnvägsstation, Linghem, Sverige]]></description>
         <Point><coordinates>15.787859,58.436397,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arboga Järnvägsstation]]></name>
-        <description>Arboga Järnvägsstation, Arboga, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arboga Järnvägsstation, Arboga, Sverige]]></description>
         <Point><coordinates>15.840902,59.396631,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Hultsfreds Järnvägsstation]]></name>
-        <description>Hultsfreds Järnvägsstation, Hultsfred, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Hultsfreds Järnvägsstation, Hultsfred, Sverige]]></description>
         <Point><coordinates>15.846245,57.486524,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Vimmerby Järnvägsstation]]></name>
-        <description>Vimmerby Järnvägsstation, Vimmerby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Vimmerby Järnvägsstation, Vimmerby, Sverige]]></description>
         <Point><coordinates>15.858335,57.663334,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Vingåker Station]]></name>
-        <description>Vingåker Station, Vingåker, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Vingåker Station, Vingåker, Sverige]]></description>
         <Point><coordinates>15.874165,59.042092,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Nybro Järnvägsstation]]></name>
-        <description>Nybro Järnvägsstation, Nybro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Nybro Järnvägsstation, Nybro, Sverige]]></description>
         <Point><coordinates>15.908892,56.74262,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Hedemora Järnvägsstation]]></name>
-        <description>Hedemora Järnvägsstation, Hedemora, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Hedemora Järnvägsstation, Hedemora, Sverige]]></description>
         <Point><coordinates>15.980646,60.274359,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Åtvidaberg Järnvägsstation]]></name>
-        <description>Åtvidaberg Järnvägsstation, Åtvidaberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Åtvidaberg Järnvägsstation, Åtvidaberg, Sverige]]></description>
         <Point><coordinates>16.001916,58.203046,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Ängelsberg Järnvägsstation]]></name>
-        <description>Ängelsberg Järnvägsstation, Ängelsberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Ängelsberg Järnvägsstation, Ängelsberg, Sverige]]></description>
         <Point><coordinates>16.009763,59.957483,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Virsbo Järnvägsstation]]></name>
-        <description>Virsbo Järnvägsstation, Virsbo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Virsbo Järnvägsstation, Virsbo, Sverige]]></description>
         <Point><coordinates>16.086161,59.8714,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Ljusdal Järnvägsstation]]></name>
-        <description>Ljusdal Järnvägsstation, Ljusdal, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Ljusdal Järnvägsstation, Ljusdal, Sverige]]></description>
         <Point><coordinates>16.09625,61.827162,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Kungsör Järnvägsstation]]></name>
-        <description>Kungsör Järnvägsstation, Kungsör, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Kungsör Järnvägsstation, Kungsör, Sverige]]></description>
         <Point><coordinates>16.097759,59.427064,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Norrköping Järnvägsstation]]></name>
-        <description>Norrköping Järnvägsstation, Norrköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Norrköping Järnvägsstation, Norrköping, Sverige]]></description>
         <Point><coordinates>16.184306,58.596292,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Katrineholm Järnvägsstation]]></name>
-        <description>Katrineholm Järnvägsstation, Katrineholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Katrineholm Järnvägsstation, Katrineholm, Sverige]]></description>
         <Point><coordinates>16.20715,58.997296,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Avesta-Krylbo Järnvägsstation]]></name>
-        <description>Avesta-Krylbo Järnvägsstation, Krylbo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Avesta-Krylbo Järnvägsstation, Krylbo, Sverige]]></description>
         <Point><coordinates>16.216793,60.129631,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Surahammar Järnvägsstation]]></name>
-        <description>Surahammar Järnvägsstation, Surahammar, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Surahammar Järnvägsstation, Surahammar, Sverige]]></description>
         <Point><coordinates>16.218159,59.706765,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Hallstahammar Järnvägsstation]]></name>
-        <description>Hallstahammar Järnvägsstation, Hallstahammar, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Hallstahammar Järnvägsstation, Hallstahammar, Sverige]]></description>
         <Point><coordinates>16.218892,59.614649,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Kolbäck Järnvägsstation]]></name>
-        <description>Kolbäck Järnvägsstation, Kolbäck, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Kolbäck Järnvägsstation, Kolbäck, Sverige]]></description>
         <Point><coordinates>16.234739,59.565301,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Hofors Järnvägsstation]]></name>
-        <description>Hofors Järnvägsstation, Hofors, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Hofors Järnvägsstation, Hofors, Sverige]]></description>
         <Point><coordinates>16.265793,60.57065,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Fors Järnvägsstation]]></name>
-        <description>Fors Järnvägsstation, Fors, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Fors Järnvägsstation, Fors, Sverige]]></description>
         <Point><coordinates>16.310285,60.206543,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Kvicksund Järnvägsstation]]></name>
-        <description>Kvicksund Järnvägsstation, Kvicksund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Kvicksund Järnvägsstation, Kvicksund, Sverige]]></description>
         <Point><coordinates>16.321684,59.450645,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Överums Bruk Järnvägsstation]]></name>
-        <description>Överums Bruk Järnvägsstation, Överums Bruk, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Överums Bruk Järnvägsstation, Överums Bruk, Sverige]]></description>
         <Point><coordinates>16.324926,57.982458,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Kalmar Järnvägsstation]]></name>
-        <description>Kalmar Järnvägsstation, Kalmar, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Kalmar Järnvägsstation, Kalmar, Sverige]]></description>
         <Point><coordinates>16.360039,56.66157,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arbrå Järnvägsstation]]></name>
-        <description>Arbrå Järnvägsstation, Arbrå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arbrå Järnvägsstation, Arbrå, Sverige]]></description>
         <Point><coordinates>16.379343,61.468718,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bollnäs Järnvägsstation]]></name>
-        <description>Bollnäs Järnvägsstation, Bollnäs, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bollnäs Järnvägsstation, Bollnäs, Sverige]]></description>
         <Point><coordinates>16.392201,61.349175,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Gamleby Järnvägsstation]]></name>
-        <description>Gamleby Järnvägsstation, Gamleby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Gamleby Järnvägsstation, Gamleby, Sverige]]></description>
         <Point><coordinates>16.408927,57.896413,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Hornsdals Bruk Järnvägsstation]]></name>
-        <description>Hornsdals Bruk Järnvägsstation, Hornsdals Bruk, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Hornsdals Bruk Järnvägsstation, Hornsdals Bruk, Sverige]]></description>
         <Point><coordinates>16.414246,60.295898,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Oskarshamn Järnvägsstation]]></name>
-        <description>Oskarshamn Järnvägsstation, Oskarshamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Oskarshamn Järnvägsstation, Oskarshamn, Sverige]]></description>
         <Point><coordinates>16.457461,57.262974,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Eskilstuna Järnvägsstation]]></name>
-        <description>Eskilstuna Järnvägsstation, Eskilstuna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Eskilstuna Järnvägsstation, Eskilstuna, Sverige]]></description>
         <Point><coordinates>16.505502,59.36979,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Storvik Järnvägsstation]]></name>
-        <description>Storvik Järnvägsstation, Storvik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Storvik Järnvägsstation, Storvik, Sverige]]></description>
         <Point><coordinates>16.533921,60.582635,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Västerås Järnvägsstation]]></name>
-        <description>Västerås Järnvägsstation, Västerås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Västerås Järnvägsstation, Västerås, Sverige]]></description>
         <Point><coordinates>16.551708,59.607712,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Mellösa Järnvägsstation]]></name>
-        <description>Mellösa Järnvägsstation, Mellösa, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Mellösa Järnvägsstation, Mellösa, Sverige]]></description>
         <Point><coordinates>16.560003,59.101162,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Flen Järnvägsstation]]></name>
-        <description>Flen Järnvägsstation, Flen, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Flen Järnvägsstation, Flen, Sverige]]></description>
         <Point><coordinates>16.589405,59.057421,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sala Järnvägsstation]]></name>
-        <description>Sala Järnvägsstation, Sala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sala Järnvägsstation, Sala, Sverige]]></description>
         <Point><coordinates>16.607282,59.924708,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Tillberga Järnvägsstation]]></name>
-        <description>Tillberga Järnvägsstation, Tillberga, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Tillberga Järnvägsstation, Tillberga, Sverige]]></description>
         <Point><coordinates>16.622916,59.68814,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Tjustskolan Järnvägsstation]]></name>
-        <description>Tjustskolan Järnvägsstation, Västervik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Tjustskolan Järnvägsstation, Västervik, Sverige]]></description>
         <Point><coordinates>16.633122,57.753201,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Ransta Järnvägsstation]]></name>
-        <description>Ransta Järnvägsstation, Ransta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Ransta Järnvägsstation, Ransta, Sverige]]></description>
         <Point><coordinates>16.639685,59.809907,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Västervik Järnvägsstation]]></name>
-        <description>Västervik Järnvägsstation, Västervik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Västervik Järnvägsstation, Västervik, Sverige]]></description>
         <Point><coordinates>16.643644,57.7557,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Ockelbo Järnvägsstation]]></name>
-        <description>Ockelbo Järnvägsstation, Ockelbo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Ockelbo Järnvägsstation, Ockelbo, Sverige]]></description>
         <Point><coordinates>16.721226,60.893032,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sandviken Järnvägsstation]]></name>
-        <description>Sandviken Järnvägsstation, Sandviken, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sandviken Järnvägsstation, Sandviken, Sverige]]></description>
         <Point><coordinates>16.777775,60.614492,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Heby Järnvägsstation]]></name>
-        <description>Heby Järnvägsstation, Heby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Heby Järnvägsstation, Heby, Sverige]]></description>
         <Point><coordinates>16.852583,59.940081,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Nyköping Järnvägsstation]]></name>
-        <description>Nyköping Järnvägsstation, Nyköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Nyköping Järnvägsstation, Nyköping, Sverige]]></description>
         <Point><coordinates>16.996341,58.755761,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Strängnäs Järnvägsstation]]></name>
-        <description>Strängnäs Järnvägsstation, Strängnäs, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Strängnäs Järnvägsstation, Strängnäs, Sverige]]></description>
         <Point><coordinates>17.028116,59.370682,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Enköping Järnvägsstation]]></name>
-        <description>Enköping Järnvägsstation, Enköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Enköping Järnvägsstation, Enköping, Sverige]]></description>
         <Point><coordinates>17.089155,59.643807,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Hudiksvall Järnvägsstation]]></name>
-        <description>Hudiksvall Järnvägsstation, Hudiksvall, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Hudiksvall Järnvägsstation, Hudiksvall, Sverige]]></description>
         <Point><coordinates>17.108061,61.724656,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Ljusne Järnvägsstation]]></name>
-        <description>Ljusne Järnvägsstation, Ljusne, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Ljusne Järnvägsstation, Ljusne, Sverige]]></description>
         <Point><coordinates>17.116797,61.215947,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Gävle Järnvägsstation]]></name>
-        <description>Gävle Järnvägsstation, Gävle, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Gävle Järnvägsstation, Gävle, Sverige]]></description>
         <Point><coordinates>17.151149,60.675285,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Läggesta Järnvägsstation]]></name>
-        <description>Läggesta Järnvägsstation, Läggesta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Läggesta Järnvägsstation, Läggesta, Sverige]]></description>
         <Point><coordinates>17.172355,59.244567,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Gnarp Järnvägsstation]]></name>
-        <description>Gnarp Järnvägsstation, Gnarp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Gnarp Järnvägsstation, Gnarp, Sverige]]></description>
         <Point><coordinates>17.240799,62.054514,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Gnesta Järnvägsstation]]></name>
-        <description>Gnesta Järnvägsstation, Gnesta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Gnesta Järnvägsstation, Gnesta, Sverige]]></description>
         <Point><coordinates>17.311953,59.048144,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sundsvall Järnvägsstation]]></name>
-        <description>Sundsvall Järnvägsstation, Sundsvall, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sundsvall Järnvägsstation, Sundsvall, Sverige]]></description>
         <Point><coordinates>17.315612,62.386874,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Nykvarn Järnvägsstation]]></name>
-        <description>Nykvarn Järnvägsstation, Nykvarn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Nykvarn Järnvägsstation, Nykvarn, Sverige]]></description>
         <Point><coordinates>17.429999,59.178471,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Vagnhärad Järnvägsstation]]></name>
-        <description>Vagnhärad Järnvägsstation, Vagnhärad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Vagnhärad Järnvägsstation, Vagnhärad, Sverige]]></description>
         <Point><coordinates>17.494499,58.945207,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Tierp Järnvägsstation]]></name>
-        <description>Tierp Järnvägsstation, Tierp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Tierp Järnvägsstation, Tierp, Sverige]]></description>
         <Point><coordinates>17.512576,60.345241,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Södertälje Järnvägsstation]]></name>
-        <description>Södertälje Järnvägsstation, Södertälje, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Södertälje Järnvägsstation, Södertälje, Sverige]]></description>
         <Point><coordinates>17.627696,59.190782,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bro Pendeltågstation]]></name>
-        <description>Bro Pendeltågstation, Bro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bro Pendeltågstation, Bro, Sverige]]></description>
         <Point><coordinates>17.635793,59.510894,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Uppsala Järnvägsstation]]></name>
-        <description>Uppsala Järnvägsstation, Uppsala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Uppsala Järnvägsstation, Uppsala, Sverige]]></description>
         <Point><coordinates>17.643334,59.858141,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Södertälje Syd Järnvägsstation]]></name>
-        <description>Södertälje Syd Järnvägsstation, Södertälje, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Södertälje Syd Järnvägsstation, Södertälje, Sverige]]></description>
         <Point><coordinates>17.646057,59.162527,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Södertälje Hamn Pendeltågstation]]></name>
-        <description>Södertälje Hamn Pendeltågstation, Södertälje, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Södertälje Hamn Pendeltågstation, Södertälje, Sverige]]></description>
         <Point><coordinates>17.646799,59.17928,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Östertälje Pendeltågstation]]></name>
-        <description>Östertälje Pendeltågstation, Södertälje, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Östertälje Pendeltågstation, Södertälje, Sverige]]></description>
         <Point><coordinates>17.65922,59.184132,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Storvreta Järnvägsstation]]></name>
-        <description>Storvreta Järnvägsstation, Storvreta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Storvreta Järnvägsstation, Storvreta, Sverige]]></description>
         <Point><coordinates>17.707629,59.956941,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Skyttorp Järnvägsstation]]></name>
-        <description>Skyttorp Järnvägsstation, Skyttorp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Skyttorp Järnvägsstation, Skyttorp, Sverige]]></description>
         <Point><coordinates>17.732459,60.079895,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rönninge Pendeltågstation]]></name>
-        <description>Rönninge Pendeltågstation, Rönninge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rönninge Pendeltågstation, Rönninge, Sverige]]></description>
         <Point><coordinates>17.751029,59.193727,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Kungsängen Pendeltågstation]]></name>
-        <description>Kungsängen Pendeltågstation, Kungsängen, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Kungsängen Pendeltågstation, Kungsängen, Sverige]]></description>
         <Point><coordinates>17.752159,59.477797,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Knivsta Järnvägsstation]]></name>
-        <description>Knivsta Järnvägsstation, Knivsta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Knivsta Järnvägsstation, Knivsta, Sverige]]></description>
         <Point><coordinates>17.787101,59.724575,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Kallhäll Pendeltågstation]]></name>
-        <description>Kallhäll Pendeltågstation, Kallhäll, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Kallhäll Pendeltågstation, Kallhäll, Sverige]]></description>
         <Point><coordinates>17.805341,59.453416,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jakobsberg Pendeltågstation]]></name>
-        <description>Jakobsberg Pendeltågstation, Jakobsberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jakobsberg Pendeltågstation, Jakobsberg, Sverige]]></description>
         <Point><coordinates>17.832912,59.424033,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Märsta Järnvägsstation]]></name>
-        <description>Märsta Järnvägsstation, Märsta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Märsta Järnvägsstation, Märsta, Sverige]]></description>
         <Point><coordinates>17.859205,59.628974,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Barkarby Pendeltågstation]]></name>
-        <description>Barkarby Pendeltågstation, Barkarby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Barkarby Pendeltågstation, Barkarby, Sverige]]></description>
         <Point><coordinates>17.867678,59.402882,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Upplands Väsby Pendeltågstation]]></name>
-        <description>Upplands Väsby Pendeltågstation, Upplands Väsby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Upplands Väsby Pendeltågstation, Upplands Väsby, Sverige]]></description>
         <Point><coordinates>17.902078,59.521497,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Norrviken Pendeltågstation]]></name>
-        <description>Norrviken Pendeltågstation, Norrviken, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Norrviken Pendeltågstation, Norrviken, Sverige]]></description>
         <Point><coordinates>17.92577,59.458871,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arlanda Järnvägsstation]]></name>
-        <description>Arlanda Järnvägsstation, Arlanda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arlanda Järnvägsstation, Arlanda, Sverige]]></description>
         <Point><coordinates>17.927774,59.647717,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Härnösand Järnvägsstation]]></name>
-        <description>Härnösand Järnvägsstation, Härnösand, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Härnösand Järnvägsstation, Härnösand, Sverige]]></description>
         <Point><coordinates>17.928668,62.635058,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Gröndalsvikens Pendeltågsstation]]></name>
-        <description>Gröndalsvikens Pendeltågsstation, Nynäshamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Gröndalsvikens Pendeltågsstation, Nynäshamn, Sverige]]></description>
         <Point><coordinates>17.932545,58.900135,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Häggvik Pendeltågstation]]></name>
-        <description>Häggvik Pendeltågstation, Häggvik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Häggvik Pendeltågstation, Häggvik, Sverige]]></description>
         <Point><coordinates>17.93362,59.444852,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Flemingsberg Järnvägsstation]]></name>
-        <description>Flemingsberg Järnvägsstation, Flemingsberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Flemingsberg Järnvägsstation, Flemingsberg, Sverige]]></description>
         <Point><coordinates>17.946757,59.217222,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Nynäshamn Järnvägsstation]]></name>
-        <description>Nynäshamn Järnvägsstation, Nynäshamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Nynäshamn Järnvägsstation, Nynäshamn, Sverige]]></description>
         <Point><coordinates>17.950764,58.901764,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sollentuna Pendeltågstation]]></name>
-        <description>Sollentuna Pendeltågstation, Sollentuna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sollentuna Pendeltågstation, Sollentuna, Sverige]]></description>
         <Point><coordinates>17.950912,59.426656,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Helenelund Pendeltågstation]]></name>
-        <description>Helenelund Pendeltågstation, Helenelund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Helenelund Pendeltågstation, Helenelund, Sverige]]></description>
         <Point><coordinates>17.961939,59.409404,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sundbyberg Järnvägsstation]]></name>
-        <description>Sundbyberg Järnvägsstation, Sundbyberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sundbyberg Järnvägsstation, Sundbyberg, Sverige]]></description>
         <Point><coordinates>17.970965,59.360666,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Tungelsta Pendeltågsstation]]></name>
-        <description>Tungelsta Pendeltågsstation, Tungelsta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Tungelsta Pendeltågsstation, Tungelsta, Sverige]]></description>
         <Point><coordinates>18.044539,59.102606,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Stockholm Centralstation]]></name>
-        <description>Stockholm Centralstation, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Stockholm Centralstation, Stockholm, Sverige]]></description>
         <Point><coordinates>18.059053,59.33016,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Ensta Pendeltågstation]]></name>
-        <description>Ensta Pendeltågstation, Ensta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Ensta Pendeltågstation, Ensta, Sverige]]></description>
         <Point><coordinates>18.062843,59.453728,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Altorp station]]></name>
-        <description>Altorp station, Altorp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Altorp station, Altorp, Sverige]]></description>
         <Point><coordinates>18.072299,59.410264,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bällsta station]]></name>
-        <description>Bällsta station, Bällsta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bällsta station, Bällsta, Sverige]]></description>
         <Point><coordinates>18.072424,59.523586,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Kragstalund station]]></name>
-        <description>Kragstalund station, Kragstalund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Kragstalund station, Kragstalund, Sverige]]></description>
         <Point><coordinates>18.076225,59.510446,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Ormsta station]]></name>
-        <description>Ormsta station, Ormsta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Ormsta station, Ormsta, Sverige]]></description>
         <Point><coordinates>18.078003,59.546864,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Vallentuna station]]></name>
-        <description>Vallentuna station, Vallentuna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Vallentuna station, Vallentuna, Sverige]]></description>
         <Point><coordinates>18.081256,59.533472,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Molnby station]]></name>
-        <description>Molnby station, Molnby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Molnby station, Molnby, Sverige]]></description>
         <Point><coordinates>18.084374,59.556352,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Västerhaninge Pendeltågstation]]></name>
-        <description>Västerhaninge Pendeltågstation, Västerhaninge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Västerhaninge Pendeltågstation, Västerhaninge, Sverige]]></description>
         <Point><coordinates>18.103062,59.122795,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lindholmen Station]]></name>
-        <description>Lindholmen Station, Lindholmen, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lindholmen Station, Lindholmen, Sverige]]></description>
         <Point><coordinates>18.108881,59.58412,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Frösunda Station]]></name>
-        <description>Frösunda Station, Frösunda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Frösunda Station, Frösunda, Sverige]]></description>
         <Point><coordinates>18.168818,59.624252,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Ekskogen station]]></name>
-        <description>Ekskogen station, Ekskogen, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Ekskogen station, Ekskogen, Sverige]]></description>
         <Point><coordinates>18.227911,59.639337,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Fisksätra Pendeltågstation]]></name>
-        <description>Fisksätra Pendeltågstation, Fisksätra, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Fisksätra Pendeltågstation, Fisksätra, Sverige]]></description>
         <Point><coordinates>18.256772,59.293929,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bastuträsk Järnvägsstation]]></name>
-        <description>Bastuträsk Järnvägsstation, Bastuträsk, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bastuträsk Järnvägsstation, Bastuträsk, Sverige]]></description>
         <Point><coordinates>20.041703,64.789847,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Luleå Järnvägsstation]]></name>
-        <description>Luleå Järnvägsstation, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Luleå Järnvägsstation, Luleå, Sverige]]></description>
         <Point><coordinates>22.162845,65.583989,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
     </Folder>
   </Document>

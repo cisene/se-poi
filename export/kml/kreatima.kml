@@ -1,55 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Kreatima</name>
+    <name><![CDATA[Kreatima]]></name>
     <description/>
-    <Style id="icon-22-normal">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-22-highlight">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-22">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-22-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-22-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
+    <Style id="icon-22-normal"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>
+    <Style id="icon-22-highlight"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>1.1</scale></LabelStyle></Style>
+    <StyleMap id="icon-22"><Pair><key>normal</key><styleUrl>#icon-22-normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#icon-22-highlight</styleUrl></Pair></StyleMap>
     <Folder>
       <name><![CDATA[Kreatima]]></name>
       <Placemark>
         <name><![CDATA[Kreatima Göteborg]]></name>
-        <description>Kreatima Göteborg, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Kreatima Göteborg, Göteborg, Sverige]]></description>
         <Point><coordinates>11.96092,57.70409,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Kreatima Stockholm]]></name>
-        <description>Kreatima Stockholm, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Kreatima Stockholm, Stockholm, Sverige]]></description>
         <Point><coordinates>18.056809,59.334505,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
     </Folder>
   </Document>

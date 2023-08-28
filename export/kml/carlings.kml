@@ -1,997 +1,966 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Carlings</name>
+    <name><![CDATA[Carlings]]></name>
     <description/>
-    <Style id="icon-22-normal">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-22-highlight">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-22">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-22-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-22-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
+    <Style id="icon-22-normal"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>
+    <Style id="icon-22-highlight"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>1.1</scale></LabelStyle></Style>
+    <StyleMap id="icon-22"><Pair><key>normal</key><styleUrl>#icon-22-normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#icon-22-highlight</styleUrl></Pair></StyleMap>
     <Folder>
       <name><![CDATA[Carlings]]></name>
       <Placemark>
         <name><![CDATA[Carlings - Straume Sartor]]></name>
-        <description>Carlings - Straume Sartor, Straume</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Straume Sartor, Straume]]></description>
         <Point><coordinates>5.124457,60.359424,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Loddefjord Vestkanten]]></name>
-        <description>Carlings - Loddefjord Vestkanten, Loddefjord</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Loddefjord Vestkanten, Loddefjord]]></description>
         <Point><coordinates>5.23344,60.364148,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Haugesund Markedet]]></name>
-        <description>Carlings - Haugesund Markedet, Haugesund</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Haugesund Markedet, Haugesund]]></description>
         <Point><coordinates>5.2737,59.41094,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Karmsund Oasen]]></name>
-        <description>Carlings - Karmsund Oasen, Karmsund</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Karmsund Oasen, Karmsund]]></description>
         <Point><coordinates>5.307105,59.37736,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Ulset Åsane Senter]]></name>
-        <description>Carlings - Ulset Åsane Senter, Ulset</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Ulset Åsane Senter, Ulset]]></description>
         <Point><coordinates>5.322533,60.466337,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Bergen Strandgt. 10]]></name>
-        <description>Carlings - Bergen Strandgt. 10, Bergen</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Bergen Strandgt. 10, Bergen]]></description>
         <Point><coordinates>5.323133,60.394671,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Nyborg Horisont]]></name>
-        <description>Carlings - Nyborg Horisont, Nyborg</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Nyborg Horisont, Nyborg]]></description>
         <Point><coordinates>5.32321,60.469412,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Bergen Torgallmenningen 7]]></name>
-        <description>Carlings - Bergen Torgallmenningen 7, Bergen</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Bergen Torgallmenningen 7, Bergen]]></description>
         <Point><coordinates>5.323305,60.392932,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Bergen Storsenter]]></name>
-        <description>Carlings - Bergen Storsenter, Bergen</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Bergen Storsenter, Bergen]]></description>
         <Point><coordinates>5.331073,60.389688,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Bergen Lagunen Storsenter]]></name>
-        <description>Carlings - Bergen Lagunen Storsenter, Rådal</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Bergen Lagunen Storsenter, Rådal]]></description>
         <Point><coordinates>5.331143,60.29688,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Haugesund Amanda Storsenter]]></name>
-        <description>Carlings - Haugesund Amanda Storsenter, Haugesund</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Haugesund Amanda Storsenter, Haugesund]]></description>
         <Point><coordinates>5.331631,59.395297,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Bryne M44]]></name>
-        <description>Carlings - Bryne M44, Bryne</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Bryne M44, Bryne]]></description>
         <Point><coordinates>5.640127,58.735596,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Hafrsfjord Madla]]></name>
-        <description>Carlings - Hafrsfjord Madla, Hafrsfjord</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Hafrsfjord Madla, Hafrsfjord]]></description>
         <Point><coordinates>5.67692,58.951412,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Sandnes Kvadrat Kjøpesenter 2]]></name>
-        <description>Carlings - Sandnes Kvadrat Kjøpesenter 2, Sandnes</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Sandnes Kvadrat Kjøpesenter 2, Sandnes]]></description>
         <Point><coordinates>5.731674,58.853447,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Stavanger]]></name>
-        <description>Carlings - Stavanger, Stavanger</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Stavanger, Stavanger]]></description>
         <Point><coordinates>5.736171,58.971115,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Førde Elvetorget]]></name>
-        <description>Carlings - Førde Elvetorget, Førde</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Førde Elvetorget, Førde]]></description>
         <Point><coordinates>5.849073,61.45277,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Ålesund AMFI Moa]]></name>
-        <description>Carlings - Ålesund AMFI Moa, Ålesund</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Ålesund AMFI Moa, Ålesund]]></description>
         <Point><coordinates>6.35161,62.465187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Sogndal Sogningen Storsenter]]></name>
-        <description>Carlings - Sogndal Sogningen Storsenter, Sogndal</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Sogndal Sogningen Storsenter, Sogndal]]></description>
         <Point><coordinates>7.100493,61.229851,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Molde AMFI Roseby]]></name>
-        <description>Carlings - Molde AMFI Roseby, Molde</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Molde AMFI Roseby, Molde]]></description>
         <Point><coordinates>7.178321,62.739299,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Alti Mandal]]></name>
-        <description>Carlings - Alti Mandal, Mandal</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Alti Mandal, Mandal]]></description>
         <Point><coordinates>7.460845,58.028947,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Kristiansund Storkaia]]></name>
-        <description>Carlings - Kristiansund Storkaia, Kristiansund</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Kristiansund Storkaia, Kristiansund]]></description>
         <Point><coordinates>7.732487,63.109591,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Kristiansand]]></name>
-        <description>Carlings - Kristiansand, Kristiansand</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Kristiansand, Kristiansand]]></description>
         <Point><coordinates>7.99577,58.145201,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Kristiansand Sørlandssenteret]]></name>
-        <description>Carlings - Kristiansand Sørlandssenteret, Kristiansand</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Kristiansand Sørlandssenteret, Kristiansand]]></description>
         <Point><coordinates>8.129497,58.180026,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Arendal Amfi Arena]]></name>
-        <description>Carlings - Arendal Amfi Arena, Arendal</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Arendal Amfi Arena, Arendal]]></description>
         <Point><coordinates>8.763399,58.459655,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Skien Herkules]]></name>
-        <description>Carlings - Skien Herkules, Skien</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Skien Herkules, Skien]]></description>
         <Point><coordinates>9.601493,59.19567,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Porsgrunn Down Town]]></name>
-        <description>Carlings - Porsgrunn Down Town, Porsgrunn</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Porsgrunn Down Town, Porsgrunn]]></description>
         <Point><coordinates>9.642348,59.138371,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Kongsberg Stortorvet Senter]]></name>
-        <description>Carlings - Kongsberg Stortorvet Senter, Kongsberg</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Kongsberg Stortorvet Senter, Kongsberg]]></description>
         <Point><coordinates>9.651861,59.668851,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Larvik]]></name>
-        <description>Carlings - Larvik, Larvik</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Larvik, Larvik]]></description>
         <Point><coordinates>10.046782,59.068427,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Drammen Gulskogen Senter]]></name>
-        <description>Carlings - Drammen Gulskogen Senter, Drammen</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Drammen Gulskogen Senter, Drammen]]></description>
         <Point><coordinates>10.157933,59.742645,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Sandefjord Hvaltorvet Kjøpesenter]]></name>
-        <description>Carlings - Sandefjord Hvaltorvet Kjøpesenter, Sandefjord</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Sandefjord Hvaltorvet Kjøpesenter, Sandefjord]]></description>
         <Point><coordinates>10.226147,59.130205,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Hønefoss]]></name>
-        <description>Carlings - Hønefoss, Hønefoss</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Hønefoss, Hønefoss]]></description>
         <Point><coordinates>10.254579,60.164828,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Trondheim City Syd]]></name>
-        <description>Carlings - Trondheim City Syd, Tiller</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Trondheim City Syd, Tiller]]></description>
         <Point><coordinates>10.378904,63.361963,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Trondheim Torg]]></name>
-        <description>Carlings - Trondheim Torg, Trondheim</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Trondheim Torg, Trondheim]]></description>
         <Point><coordinates>10.392809,63.429382,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Trondheim Nordre gate]]></name>
-        <description>Carlings - Trondheim Nordre gate, Trondheim</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Trondheim Nordre gate, Trondheim]]></description>
         <Point><coordinates>10.397143,63.432261,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Tønsberg Farmandstredet]]></name>
-        <description>Carlings - Tønsberg Farmandstredet, Tønsberg</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Tønsberg Farmandstredet, Tønsberg]]></description>
         <Point><coordinates>10.411695,59.269435,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Trondheim City Lade]]></name>
-        <description>Carlings - Trondheim City Lade, Trondheim</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Trondheim City Lade, Trondheim]]></description>
         <Point><coordinates>10.44626,63.44487,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Lillehammer Strandtorget]]></name>
-        <description>Carlings - Lillehammer Strandtorget, Lillehammer</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Lillehammer Strandtorget, Lillehammer]]></description>
         <Point><coordinates>10.450493,61.11453,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Trondheim Sirkus Shopping]]></name>
-        <description>Carlings - Trondheim Sirkus Shopping, Trondheim</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Trondheim Sirkus Shopping, Trondheim]]></description>
         <Point><coordinates>10.455548,63.436799,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Sandvika Storsenter]]></name>
-        <description>Carlings - Sandvika Storsenter, Sandvika</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Sandvika Storsenter, Sandvika]]></description>
         <Point><coordinates>10.520525,59.890681,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Fornebu Senter]]></name>
-        <description>Carlings - Fornebu Senter, Fornebu</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Fornebu Senter, Fornebu]]></description>
         <Point><coordinates>10.621475,59.892406,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Oslo CC-Vest]]></name>
-        <description>Carlings - Oslo CC-Vest, Oslo</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Oslo CC-Vest, Oslo]]></description>
         <Point><coordinates>10.636356,59.917654,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Moss]]></name>
-        <description>Carlings - Moss, Moss</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Moss, Moss]]></description>
         <Point><coordinates>10.660284,59.435384,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Gjøvik]]></name>
-        <description>Carlings - Gjøvik, Gjøvik</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Gjøvik, Gjøvik]]></description>
         <Point><coordinates>10.693603,60.800096,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Moss Mosseporten]]></name>
-        <description>Carlings - Moss Mosseporten, Moss</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Moss Mosseporten, Moss]]></description>
         <Point><coordinates>10.703232,59.44625,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Oslo Bogstadveien 22]]></name>
-        <description>Carlings - Oslo Bogstadveien 22, Oslo</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Oslo Bogstadveien 22, Oslo]]></description>
         <Point><coordinates>10.722219,59.925543,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Oslo Arkaden]]></name>
-        <description>Carlings - Oslo Arkaden, Oslo</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Oslo Arkaden, Oslo]]></description>
         <Point><coordinates>10.747856,59.911679,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Oslo City]]></name>
-        <description>Carlings - Oslo City, Oslo</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Oslo City, Oslo]]></description>
         <Point><coordinates>10.752367,59.912571,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Oslo Grünerløkka]]></name>
-        <description>Carlings - Oslo Grünerløkka, Oslo</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Oslo Grünerløkka, Oslo]]></description>
         <Point><coordinates>10.759097,59.923813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Vinterbro]]></name>
-        <description>Carlings - Vinterbro, Vinterbro</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Vinterbro, Vinterbro]]></description>
         <Point><coordinates>10.770893,59.739509,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Storo Storsenter]]></name>
-        <description>Carlings - Storo Storsenter, Oslo</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Storo Storsenter, Oslo]]></description>
         <Point><coordinates>10.773768,59.947339,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Ski Storsenter]]></name>
-        <description>Carlings - Ski Storsenter, Ski</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Ski Storsenter, Ski]]></description>
         <Point><coordinates>10.837744,59.718492,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Fredrikstad Torvbyen]]></name>
-        <description>Carlings - Fredrikstad Torvbyen, Fredrikstad</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Fredrikstad Torvbyen, Fredrikstad]]></description>
         <Point><coordinates>10.939893,59.214663,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Lørenskog Triaden Storsenter]]></name>
-        <description>Carlings - Lørenskog Triaden Storsenter, Lørenskog</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Lørenskog Triaden Storsenter, Lørenskog]]></description>
         <Point><coordinates>10.953516,59.918618,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Lørenskog Metro]]></name>
-        <description>Carlings - Lørenskog Metro, Lørenskog</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Lørenskog Metro, Lørenskog]]></description>
         <Point><coordinates>10.957403,59.928098,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Strømmen Storsenter]]></name>
-        <description>Carlings - Strømmen Storsenter, Strømmen</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Strømmen Storsenter, Strømmen]]></description>
         <Point><coordinates>11.005425,59.947102,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - CC Hamar]]></name>
-        <description>Carlings - CC Hamar, Hamar</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - CC Hamar, Hamar]]></description>
         <Point><coordinates>11.078642,60.79494,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Sarpsborg Amfi Borg]]></name>
-        <description>Carlings - Sarpsborg Amfi Borg, Sarpsborg</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Sarpsborg Amfi Borg, Sarpsborg]]></description>
         <Point><coordinates>11.08233,59.274258,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Sarpsborg]]></name>
-        <description>Carlings - Sarpsborg, Sarpsborg</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Sarpsborg, Sarpsborg]]></description>
         <Point><coordinates>11.107564,59.2834,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Jessheim]]></name>
-        <description>Carlings - Jessheim, Jessheim</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Jessheim, Jessheim]]></description>
         <Point><coordinates>11.171765,60.142851,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Strömstad Nordby Köpcentrum]]></name>
-        <description>Carlings - Strömstad Nordby Köpcentrum, Strömstad</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Strömstad Nordby Köpcentrum, Strömstad]]></description>
         <Point><coordinates>11.213222,59.063286,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Levanger Magneten]]></name>
-        <description>Carlings - Levanger Magneten, Levanger</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Levanger Magneten, Levanger]]></description>
         <Point><coordinates>11.277637,63.742036,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Steinkjer]]></name>
-        <description>Carlings - Steinkjer, Steinkjer</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Steinkjer, Steinkjer]]></description>
         <Point><coordinates>11.49157,64.011299,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Namsos Storsenter]]></name>
-        <description>Carlings - Namsos Storsenter, Namsos</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Namsos Storsenter, Namsos]]></description>
         <Point><coordinates>11.491601,64.467704,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Elverum Kremmertorget]]></name>
-        <description>Carlings - Elverum Kremmertorget, Elverum</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Elverum Kremmertorget, Elverum]]></description>
         <Point><coordinates>11.566189,60.878588,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Uddevalla Torp Köpcentrum]]></name>
-        <description>Carlings - Uddevalla Torp Köpcentrum, Uddevalla</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Uddevalla Torp Köpcentrum, Uddevalla]]></description>
         <Point><coordinates>11.832533,58.350902,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Göteborg Frölunda Torg]]></name>
-        <description>Carlings - Göteborg Frölunda Torg, Västra Frölunda</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Göteborg Frölunda Torg, Västra Frölunda]]></description>
         <Point><coordinates>11.910768,57.651337,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Göteborg Femman]]></name>
-        <description>Carlings - Göteborg Femman, Göteborg</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Göteborg Femman, Göteborg]]></description>
         <Point><coordinates>11.96954,57.708721,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Göteborg Kompassen]]></name>
-        <description>Carlings - Göteborg Kompassen, Göteborg</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Göteborg Kompassen, Göteborg]]></description>
         <Point><coordinates>11.970634,57.705626,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Partille Allum Köpcentrum]]></name>
-        <description>Carlings - Partille Allum Köpcentrum, Partille</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Partille Allum Köpcentrum, Partille]]></description>
         <Point><coordinates>12.104058,57.739487,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Varberg Galleria]]></name>
-        <description>Carlings - Varberg Galleria, Varberg</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Varberg Galleria, Varberg]]></description>
         <Point><coordinates>12.247503,57.106268,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Charlottenberg]]></name>
-        <description>Carlings - Charlottenberg, Charlottenberg</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Charlottenberg, Charlottenberg]]></description>
         <Point><coordinates>12.29001,59.882736,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Trollhättan Överby Köpcentrum]]></name>
-        <description>Carlings - Trollhättan Överby Köpcentrum, Trollhättan</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Trollhättan Överby Köpcentrum, Trollhättan]]></description>
         <Point><coordinates>12.306576,58.312081,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Helsingborg Väla, Ödåkra]]></name>
-        <description>Carlings - Helsingborg Väla, Ödåkra, Ödåkra</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Helsingborg Väla, Ödåkra, Ödåkra]]></description>
         <Point><coordinates>12.756929,56.09251,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Halmstad Hallarna]]></name>
-        <description>Carlings - Halmstad Hallarna, Halmstad</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Halmstad Hallarna, Halmstad]]></description>
         <Point><coordinates>12.911351,56.655329,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Borås Knalleland]]></name>
-        <description>Carlings - Borås Knalleland, Borås</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Borås Knalleland, Borås]]></description>
         <Point><coordinates>12.939684,57.733084,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Malmö Emporia]]></name>
-        <description>Carlings - Malmö Emporia, Malmö</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Malmö Emporia, Malmö]]></description>
         <Point><coordinates>12.974096,55.564354,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Malmö Triangeln]]></name>
-        <description>Carlings - Malmö Triangeln, Malmö</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Malmö Triangeln, Malmö]]></description>
         <Point><coordinates>13.002427,55.596074,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Lund Nova]]></name>
-        <description>Carlings - Lund Nova, Lund</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Lund Nova, Lund]]></description>
         <Point><coordinates>13.160033,55.714275,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Karlstad Bergvik Köpcentrum]]></name>
-        <description>Carlings - Karlstad Bergvik Köpcentrum, Karlstad</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Karlstad Bergvik Köpcentrum, Karlstad]]></description>
         <Point><coordinates>13.42337,59.379649,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Karlstad Mitt i City]]></name>
-        <description>Carlings - Karlstad Mitt i City, Karlstad</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Karlstad Mitt i City, Karlstad]]></description>
         <Point><coordinates>13.500652,59.379649,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Skövde Galleria Commerce]]></name>
-        <description>Carlings - Skövde Galleria Commerce, Skövde</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Skövde Galleria Commerce, Skövde]]></description>
         <Point><coordinates>13.844962,58.390107,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Mo i Rana]]></name>
-        <description>Carlings - Mo i Rana, Mo i Rana</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Mo i Rana, Mo i Rana]]></description>
         <Point><coordinates>14.136809,66.30815,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Jönköping Östra Storgatan]]></name>
-        <description>Carlings - Jönköping Östra Storgatan, Jönköping</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Jönköping Östra Storgatan, Jönköping]]></description>
         <Point><coordinates>14.173436,57.782538,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Jönköping A6]]></name>
-        <description>Carlings - Jönköping A6, Jönköping</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Jönköping A6, Jönköping]]></description>
         <Point><coordinates>14.201911,57.773168,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Kristianstad C4 Shopping]]></name>
-        <description>Carlings - Kristianstad C4 Shopping, Kristianstad</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Kristianstad C4 Shopping, Kristianstad]]></description>
         <Point><coordinates>14.20293,56.025219,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Bodø Glasshuset]]></name>
-        <description>Carlings - Bodø Glasshuset, Bodø</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Bodø Glasshuset, Bodø]]></description>
         <Point><coordinates>14.379795,67.283845,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Bodø City Nord]]></name>
-        <description>Carlings - Bodø City Nord, Bodø</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Bodø City Nord, Bodø]]></description>
         <Point><coordinates>14.422569,67.277128,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Amfi Svolvær]]></name>
-        <description>Carlings - Amfi Svolvær, Svolvær</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Amfi Svolvær, Svolvær]]></description>
         <Point><coordinates>14.559217,68.233312,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Östersund]]></name>
-        <description>Carlings - Östersund, Östersund</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Östersund, Östersund]]></description>
         <Point><coordinates>14.637265,63.177166,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Växjö Samarkand]]></name>
-        <description>Carlings - Växjö Samarkand, Växjö</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Växjö Samarkand, Växjö]]></description>
         <Point><coordinates>14.765173,56.884828,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Örebro Mariebergs köpcentrum]]></name>
-        <description>Carlings - Örebro Mariebergs köpcentrum, Örebro</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Örebro Mariebergs köpcentrum, Örebro]]></description>
         <Point><coordinates>15.137851,59.215696,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Örebro City]]></name>
-        <description>Carlings - Örebro City, Örebro</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Örebro City, Örebro]]></description>
         <Point><coordinates>15.212266,59.27099,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Sortland Storsenter]]></name>
-        <description>Carlings - Sortland Storsenter, Sortland</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Sortland Storsenter, Sortland]]></description>
         <Point><coordinates>15.415899,68.694257,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Borlänge Kupolen]]></name>
-        <description>Carlings - Borlänge Kupolen, Borlänge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Borlänge Kupolen, Borlänge]]></description>
         <Point><coordinates>15.417981,60.484482,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Linköping I-Huset]]></name>
-        <description>Carlings - Linköping I-Huset, Linköping</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Linköping I-Huset, Linköping]]></description>
         <Point><coordinates>15.616894,58.417269,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Linköping Gränden]]></name>
-        <description>Carlings - Linköping Gränden, Linköping</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Linköping Gränden, Linköping]]></description>
         <Point><coordinates>15.626746,58.409532,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Falun Holmgatan]]></name>
-        <description>Carlings - Falun Holmgatan, Falun</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Falun Holmgatan, Falun]]></description>
         <Point><coordinates>15.630455,60.607131,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Norrköping Ingelstad Köpcentrum]]></name>
-        <description>Carlings - Norrköping Ingelstad Köpcentrum, Norrköping</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Norrköping Ingelstad Köpcentrum, Norrköping]]></description>
         <Point><coordinates>16.154494,58.61895,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Norrköping Spiralens Galleria]]></name>
-        <description>Carlings - Norrköping Spiralens Galleria, Norrköping</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Norrköping Spiralens Galleria, Norrköping]]></description>
         <Point><coordinates>16.190135,58.587083,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Kalmar Modehuset]]></name>
-        <description>Carlings - Kalmar Modehuset, Kalmar</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Kalmar Modehuset, Kalmar]]></description>
         <Point><coordinates>16.320126,56.68728,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Västerås Erikslunds Köpcentrum]]></name>
-        <description>Carlings - Västerås Erikslunds Köpcentrum, Västerås</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Västerås Erikslunds Köpcentrum, Västerås]]></description>
         <Point><coordinates>16.454807,59.609976,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Eskilstuna Tuna Park]]></name>
-        <description>Carlings - Eskilstuna Tuna Park, Eskilstuna</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Eskilstuna Tuna Park, Eskilstuna]]></description>
         <Point><coordinates>16.470115,59.371604,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Harstad]]></name>
-        <description>Carlings - Harstad, Harstad</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Harstad, Harstad]]></description>
         <Point><coordinates>16.545024,68.798039,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Gävle Valbo]]></name>
-        <description>Carlings - Gävle Valbo, Valbo</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Gävle Valbo, Valbo]]></description>
         <Point><coordinates>16.990185,60.634858,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Nyköping]]></name>
-        <description>Carlings - Nyköping, Nyköping</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Nyköping, Nyköping]]></description>
         <Point><coordinates>17.005721,58.752387,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Hudiksvall Guldsmeden]]></name>
-        <description>Carlings - Hudiksvall Guldsmeden, Hudiksvall</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Hudiksvall Guldsmeden, Hudiksvall]]></description>
         <Point><coordinates>17.104039,61.728578,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Gävle Nian]]></name>
-        <description>Carlings - Gävle Nian, Gävle</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Gävle Nian, Gävle]]></description>
         <Point><coordinates>17.140724,60.67414,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Sundsvall Birsta Köpcentrum]]></name>
-        <description>Carlings - Sundsvall Birsta Köpcentrum, Sundsvall</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Sundsvall Birsta Köpcentrum, Sundsvall]]></description>
         <Point><coordinates>17.335825,62.447178,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Narvik Storsenter]]></name>
-        <description>Carlings - Narvik Storsenter, Narvik</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Narvik Storsenter, Narvik]]></description>
         <Point><coordinates>17.435292,68.441262,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Stockholm Södertälje Kringlan]]></name>
-        <description>Carlings - Stockholm Södertälje Kringlan, Stockholm</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Stockholm Södertälje Kringlan, Stockholm]]></description>
         <Point><coordinates>17.628164,59.195604,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Uppsala Forum]]></name>
-        <description>Carlings - Uppsala Forum, Uppsala</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Uppsala Forum, Uppsala]]></description>
         <Point><coordinates>17.641994,59.858335,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Uppsala Gränby]]></name>
-        <description>Carlings - Uppsala Gränby, Uppsala</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Uppsala Gränby, Uppsala]]></description>
         <Point><coordinates>17.672659,59.877019,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Stockholm Vällingby]]></name>
-        <description>Carlings - Stockholm Vällingby, Stockholm</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Stockholm Vällingby, Stockholm]]></description>
         <Point><coordinates>17.873994,59.363271,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Stockholm Skärholmen Centrum]]></name>
-        <description>Carlings - Stockholm Skärholmen Centrum, Stockholm</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Stockholm Skärholmen Centrum, Stockholm]]></description>
         <Point><coordinates>17.906477,59.275888,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Stockholm Mall Of Scandinavia]]></name>
-        <description>Carlings - Stockholm Mall Of Scandinavia, Stockholm</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Stockholm Mall Of Scandinavia, Stockholm]]></description>
         <Point><coordinates>18.008433,59.368879,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Stockholm Drottninggatan]]></name>
-        <description>Carlings - Stockholm Drottninggatan, Stockholm</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Stockholm Drottninggatan, Stockholm]]></description>
         <Point><coordinates>18.064124,59.331293,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Stockholm Gallerian]]></name>
-        <description>Carlings - Stockholm Gallerian, Stockholm</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Stockholm Gallerian, Stockholm]]></description>
         <Point><coordinates>18.067468,59.33122,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Stockholm Götgatan]]></name>
-        <description>Carlings - Stockholm Götgatan, Stockholm</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Stockholm Götgatan, Stockholm]]></description>
         <Point><coordinates>18.071523,59.317645,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Stockholm Täby Cenrtum]]></name>
-        <description>Carlings - Stockholm Täby Cenrtum, Stockholm</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Stockholm Täby Cenrtum, Stockholm]]></description>
         <Point><coordinates>18.071685,59.443605,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Stockholm Farsta]]></name>
-        <description>Carlings - Stockholm Farsta, Farsta</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Stockholm Farsta, Farsta]]></description>
         <Point><coordinates>18.091442,59.242885,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Visby]]></name>
-        <description>Carlings - Visby, Visby</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Visby, Visby]]></description>
         <Point><coordinates>18.299532,57.638085,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Tromsø Jekta Storsenter]]></name>
-        <description>Carlings - Tromsø Jekta Storsenter, Tromsø</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Tromsø Jekta Storsenter, Tromsø]]></description>
         <Point><coordinates>18.921075,69.674594,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Umeå Avion]]></name>
-        <description>Carlings - Umeå Avion, Umeå</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Umeå Avion, Umeå]]></description>
         <Point><coordinates>20.253928,63.806702,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Umeå Utopia]]></name>
-        <description>Carlings - Umeå Utopia, Umeå</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Umeå Utopia, Umeå]]></description>
         <Point><coordinates>20.264278,63.824759,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Skellefteå Citykompaniet]]></name>
-        <description>Carlings - Skellefteå Citykompaniet, Skellefteå</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Skellefteå Citykompaniet, Skellefteå]]></description>
         <Point><coordinates>20.954361,64.750155,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Vaasa Espen]]></name>
-        <description>Carlings - Vaasa Espen, Vaasa</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Vaasa Espen, Vaasa]]></description>
         <Point><coordinates>21.613841,63.096584,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Pori Puuvilla]]></name>
-        <description>Carlings - Pori Puuvilla, Pori</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Pori Puuvilla, Pori]]></description>
         <Point><coordinates>21.798674,61.492495,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Luleå Storgatan]]></name>
-        <description>Carlings - Luleå Storgatan, Luleå</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Luleå Storgatan, Luleå]]></description>
         <Point><coordinates>22.154699,65.584593,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Raisio Mylly]]></name>
-        <description>Carlings - Raisio Mylly, Raisio</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Raisio Mylly, Raisio]]></description>
         <Point><coordinates>22.201016,60.491753,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Turku Hansakortteli]]></name>
-        <description>Carlings - Turku Hansakortteli, Turku</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Turku Hansakortteli, Turku]]></description>
         <Point><coordinates>22.26412,60.45103,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Turku Skanssi]]></name>
-        <description>Carlings - Turku Skanssi, Turku</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Turku Skanssi, Turku]]></description>
         <Point><coordinates>22.319354,60.429719,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Seinäjoki Ideapark]]></name>
-        <description>Carlings - Seinäjoki Ideapark, Seinäjoki</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Seinäjoki Ideapark, Seinäjoki]]></description>
         <Point><coordinates>22.801414,62.792293,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Amfi Alta]]></name>
-        <description>Carlings - Amfi Alta, Alta</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Amfi Alta, Alta]]></description>
         <Point><coordinates>23.272734,69.966585,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Tampere Koskikeskus]]></name>
-        <description>Carlings - Tampere Koskikeskus, Tampere</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Tampere Koskikeskus, Tampere]]></description>
         <Point><coordinates>23.767312,61.496799,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Lempäälä Ideapark]]></name>
-        <description>Carlings - Lempäälä Ideapark, Lempäälä</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Lempäälä Ideapark, Lempäälä]]></description>
         <Point><coordinates>23.7985,61.362614,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Tornio Rajalla]]></name>
-        <description>Carlings - Tornio Rajalla, Tornio</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Tornio Rajalla, Tornio]]></description>
         <Point><coordinates>24.14387,65.842977,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Hämeenlinna Goodman]]></name>
-        <description>Carlings - Hämeenlinna Goodman, Hämeenlinna</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Hämeenlinna Goodman, Hämeenlinna]]></description>
         <Point><coordinates>24.455864,60.996666,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Espoo Iso Omena]]></name>
-        <description>Carlings - Espoo Iso Omena, Espoo</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Espoo Iso Omena, Espoo]]></description>
         <Point><coordinates>24.737949,60.161697,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Espoo Sello]]></name>
-        <description>Carlings - Espoo Sello, Espoo</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Espoo Sello, Espoo]]></description>
         <Point><coordinates>24.811635,60.217426,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Hyvinkää Willa]]></name>
-        <description>Carlings - Hyvinkää Willa, Hyvinkää</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Hyvinkää Willa, Hyvinkää]]></description>
         <Point><coordinates>24.865502,60.632156,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Helsinki Kamppi]]></name>
-        <description>Carlings - Helsinki Kamppi, Helsinki</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Helsinki Kamppi, Helsinki]]></description>
         <Point><coordinates>24.931669,60.168596,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Helsinki Tripla]]></name>
-        <description>Carlings - Helsinki Tripla, Helsinki</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Helsinki Tripla, Helsinki]]></description>
         <Point><coordinates>24.93739,60.19919,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Helsinki Forum]]></name>
-        <description>Carlings - Helsinki Forum, Helsinki</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Helsinki Forum, Helsinki]]></description>
         <Point><coordinates>24.938514,60.169834,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Vantaa Jumbo]]></name>
-        <description>Carlings - Vantaa Jumbo, Vantaa</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Vantaa Jumbo, Vantaa]]></description>
         <Point><coordinates>24.960837,60.291829,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Helsinki Redi]]></name>
-        <description>Carlings - Helsinki Redi, Helsinki</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Helsinki Redi, Helsinki]]></description>
         <Point><coordinates>24.977225,60.188244,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Helsinki Itis]]></name>
-        <description>Carlings - Helsinki Itis, Helsinki</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Helsinki Itis, Helsinki]]></description>
         <Point><coordinates>25.082984,60.209914,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Oulu Ideapark]]></name>
-        <description>Carlings - Oulu Ideapark, Oulu</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Oulu Ideapark, Oulu]]></description>
         <Point><coordinates>25.447315,65.076172,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Oulu Valkea]]></name>
-        <description>Carlings - Oulu Valkea, Oulu</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Oulu Valkea, Oulu]]></description>
         <Point><coordinates>25.472096,65.011422,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Kempele Zeppelin]]></name>
-        <description>Carlings - Kempele Zeppelin, Kempele</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Kempele Zeppelin, Kempele]]></description>
         <Point><coordinates>25.537599,64.901302,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Lahti Trio]]></name>
-        <description>Carlings - Lahti Trio, Lahti</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Lahti Trio, Lahti]]></description>
         <Point><coordinates>25.662222,60.982652,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Rovaniemi Revontuli]]></name>
-        <description>Carlings - Rovaniemi Revontuli, Rovaniemi</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Rovaniemi Revontuli, Rovaniemi]]></description>
         <Point><coordinates>25.724181,66.503798,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Lahti Karisma]]></name>
-        <description>Carlings - Lahti Karisma, Lahti</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Lahti Karisma, Lahti]]></description>
         <Point><coordinates>25.736307,60.982529,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Jyväskylä Forum]]></name>
-        <description>Carlings - Jyväskylä Forum, Jyväskylä</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Jyväskylä Forum, Jyväskylä]]></description>
         <Point><coordinates>25.743134,62.241421,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Jyväskylä Seppä]]></name>
-        <description>Carlings - Jyväskylä Seppä, Jyväskylä</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Jyväskylä Seppä, Jyväskylä]]></description>
         <Point><coordinates>25.775558,62.256755,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Kouvola Veturi]]></name>
-        <description>Carlings - Kouvola Veturi, Kuusankoski</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Kouvola Veturi, Kuusankoski]]></description>
         <Point><coordinates>26.654208,60.875829,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Kotka Pasaati]]></name>
-        <description>Carlings - Kotka Pasaati, Kotka</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Kotka Pasaati, Kotka]]></description>
         <Point><coordinates>26.944604,60.46618,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Kuopio Matkus]]></name>
-        <description>Carlings - Kuopio Matkus, Kuopio</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Kuopio Matkus, Kuopio]]></description>
         <Point><coordinates>27.600896,62.839512,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Lappeenranta Galleria]]></name>
-        <description>Carlings - Lappeenranta Galleria, Lappeenranta</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Lappeenranta Galleria, Lappeenranta]]></description>
         <Point><coordinates>28.186276,61.057543,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Carlings - Joensuu Iso Myy]]></name>
-        <description>Carlings - Joensuu Iso Myy, Joensuu</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Carlings - Joensuu Iso Myy, Joensuu]]></description>
         <Point><coordinates>29.763915,62.601774,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
     </Folder>
   </Document>

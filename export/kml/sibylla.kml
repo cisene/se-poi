@@ -1,811 +1,780 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Sibylla</name>
+    <name><![CDATA[Sibylla]]></name>
     <description/>
-    <Style id="icon-22-normal">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-22-highlight">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-22">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-22-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-22-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
+    <Style id="icon-22-normal"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>
+    <Style id="icon-22-highlight"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>1.1</scale></LabelStyle></Style>
+    <StyleMap id="icon-22"><Pair><key>normal</key><styleUrl>#icon-22-normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#icon-22-highlight</styleUrl></Pair></StyleMap>
     <Folder>
       <name><![CDATA[Sibylla]]></name>
       <Placemark>
         <name><![CDATA[Sibylla Munkedal]]></name>
-        <description>Sibylla Munkedal, Munkedal, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Munkedal, Munkedal, Sverige]]></description>
         <Point><coordinates>11.656813,58.477812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Hisings Backa Aröd]]></name>
-        <description>Sibylla Hisings Backa Aröd, Hisings Backa, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Hisings Backa Aröd, Hisings Backa, Sverige]]></description>
         <Point><coordinates>11.991938,57.747937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Hisings Backa Stig Center]]></name>
-        <description>Sibylla Hisings Backa Stig Center, Hisings Backa, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Hisings Backa Stig Center, Hisings Backa, Sverige]]></description>
         <Point><coordinates>11.993688,57.747687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Mölnlycke]]></name>
-        <description>Sibylla Mölnlycke, Mölnlycke, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Mölnlycke, Mölnlycke, Sverige]]></description>
         <Point><coordinates>12.120313,57.658687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Bäckefors]]></name>
-        <description>Sibylla Bäckefors, Bäckefors, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Bäckefors, Bäckefors, Sverige]]></description>
         <Point><coordinates>12.153313,58.803812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Trollhättan Centrum]]></name>
-        <description>Sibylla Trollhättan Centrum, Trollhättan, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Trollhättan Centrum, Trollhättan, Sverige]]></description>
         <Point><coordinates>12.287313,58.282937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Trollhättan Garbéns]]></name>
-        <description>Sibylla Trollhättan Garbéns, Trollhättan, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Trollhättan Garbéns, Trollhättan, Sverige]]></description>
         <Point><coordinates>12.295562,58.273937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Mellerud]]></name>
-        <description>Sibylla Mellerud, Mellerud, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Mellerud, Mellerud, Sverige]]></description>
         <Point><coordinates>12.451562,58.703563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Allingsås]]></name>
-        <description>Sibylla Allingsås, Alingsås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Allingsås, Alingsås, Sverige]]></description>
         <Point><coordinates>12.517261,57.917869,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Åmål]]></name>
-        <description>Sibylla Åmål, Åmål, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Åmål, Åmål, Sverige]]></description>
         <Point><coordinates>12.675547,59.055437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Helsingborg Sydhamnsgatan]]></name>
-        <description>Sibylla Helsingborg Sydhamnsgatan, Helsingborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Helsingborg Sydhamnsgatan, Helsingborg, Sverige]]></description>
         <Point><coordinates>12.707812,56.029312,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Halmstad Brogatan]]></name>
-        <description>Sibylla Halmstad Brogatan, Halmstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Halmstad Brogatan, Halmstad, Sverige]]></description>
         <Point><coordinates>12.850188,56.673938,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Ängelholm]]></name>
-        <description>Sibylla Ängelholm, Ängelholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Ängelholm, Ängelholm, Sverige]]></description>
         <Point><coordinates>12.858062,56.236062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Säffle]]></name>
-        <description>Sibylla Säffle, Säffle, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Säffle, Säffle, Sverige]]></description>
         <Point><coordinates>12.925688,59.132813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Åstorp]]></name>
-        <description>Sibylla Åstorp, Åstorp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Åstorp, Åstorp, Sverige]]></description>
         <Point><coordinates>12.950563,56.139063,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Munka Ljungby]]></name>
-        <description>Sibylla Munka Ljungby, Munka-Ljungby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Munka Ljungby, Munka-Ljungby, Sverige]]></description>
         <Point><coordinates>12.973063,56.254812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Torsby]]></name>
-        <description>Sibylla Torsby, Torsby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Torsby, Torsby, Sverige]]></description>
         <Point><coordinates>13.005313,60.135438,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Malmö Möllevången]]></name>
-        <description>Sibylla Malmö Möllevången, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Malmö Möllevången, Malmö, Sverige]]></description>
         <Point><coordinates>13.007938,55.591812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Vallberga]]></name>
-        <description>Sibylla Vallberga, Vallberga, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Vallberga, Vallberga, Sverige]]></description>
         <Point><coordinates>13.021562,56.467687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Åre]]></name>
-        <description>Sibylla Åre, Åre, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Åre, Åre, Sverige]]></description>
         <Point><coordinates>13.073937,63.403063,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Trelleborg Maglarp]]></name>
-        <description>Sibylla Trelleborg Maglarp, Trelleborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Trelleborg Maglarp, Trelleborg, Sverige]]></description>
         <Point><coordinates>13.086813,55.384687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Kävlinge]]></name>
-        <description>Sibylla Kävlinge, Kävlinge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Kävlinge, Kävlinge, Sverige]]></description>
         <Point><coordinates>13.110563,55.793437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Grums]]></name>
-        <description>Sibylla Grums, Grums, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Grums, Grums, Sverige]]></description>
         <Point><coordinates>13.113563,59.364937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Klippan]]></name>
-        <description>Sibylla Klippan, Klippan, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Klippan, Klippan, Sverige]]></description>
         <Point><coordinates>13.116062,56.138813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Sunne]]></name>
-        <description>Sibylla Sunne, Sunne, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Sunne, Sunne, Sverige]]></description>
         <Point><coordinates>13.143562,59.837812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Trelleborg Algatan]]></name>
-        <description>Sibylla Trelleborg Algatan, Trelleborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Trelleborg Algatan, Trelleborg, Sverige]]></description>
         <Point><coordinates>13.151687,55.374437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Lidköping]]></name>
-        <description>Sibylla Lidköping, Lidköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Lidköping, Lidköping, Sverige]]></description>
         <Point><coordinates>13.163813,58.504312,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Lund Getingevägen]]></name>
-        <description>Sibylla Lund Getingevägen, Lund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Lund Getingevägen, Lund, Sverige]]></description>
         <Point><coordinates>13.206437,55.717188,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Svedala Centrumgrillen]]></name>
-        <description>Sibylla Svedala Centrumgrillen, Svedala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Svedala Centrumgrillen, Svedala, Sverige]]></description>
         <Point><coordinates>13.234063,55.508187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Skåre]]></name>
-        <description>Sibylla Skåre, Karlstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Skåre, Karlstad, Sverige]]></description>
         <Point><coordinates>13.413063,59.428438,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Skurup]]></name>
-        <description>Sibylla Skurup, Skurup, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Skurup, Skurup, Sverige]]></description>
         <Point><coordinates>13.482938,55.490938,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Karlstad City]]></name>
-        <description>Sibylla Karlstad City, Karlstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Karlstad City, Karlstad, Sverige]]></description>
         <Point><coordinates>13.504062,59.379562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Karlstad Kenneths]]></name>
-        <description>Sibylla Karlstad Kenneths, Karlstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Karlstad Kenneths, Karlstad, Sverige]]></description>
         <Point><coordinates>13.515187,59.388937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Falköping Odengrillen]]></name>
-        <description>Sibylla Falköping Odengrillen, Falköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Falköping Odengrillen, Falköping, Sverige]]></description>
         <Point><coordinates>13.562563,58.164063,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Sjöbo]]></name>
-        <description>Sibylla Sjöbo, Sjöbo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Sjöbo, Sjöbo, Sverige]]></description>
         <Point><coordinates>13.679937,55.635312,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Malung]]></name>
-        <description>Sibylla Malung, Malung, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Malung, Malung, Sverige]]></description>
         <Point><coordinates>13.714813,60.683312,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Ystad Norreport]]></name>
-        <description>Sibylla Ystad Norreport, Ystad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Ystad Norreport, Ystad, Sverige]]></description>
         <Point><coordinates>13.816437,55.431687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Ystad Dragongatan]]></name>
-        <description>Sibylla Ystad Dragongatan, Ystad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Ystad Dragongatan, Ystad, Sverige]]></description>
         <Point><coordinates>13.839437,55.434062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Skövde Vallegrillen]]></name>
-        <description>Sibylla Skövde Vallegrillen, Skövde, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Skövde Vallegrillen, Skövde, Sverige]]></description>
         <Point><coordinates>13.840937,58.393937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Ljungby]]></name>
-        <description>Sibylla Ljungby, Ljungby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Ljungby, Ljungby, Sverige]]></description>
         <Point><coordinates>13.906187,56.813812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Vemdalen]]></name>
-        <description>Sibylla Vemdalen, Vemdalen, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Vemdalen, Vemdalen, Sverige]]></description>
         <Point><coordinates>13.973187,62.481562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Tibro]]></name>
-        <description>Sibylla Tibro, Tibro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Tibro, Tibro, Sverige]]></description>
         <Point><coordinates>14.144813,58.429187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Älmhult]]></name>
-        <description>Sibylla Älmhult, Älmhult, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Älmhult, Älmhult, Sverige]]></description>
         <Point><coordinates>14.158687,56.549312,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Jönköping Solås]]></name>
-        <description>Sibylla Jönköping Solås, Jönköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Jönköping Solås, Jönköping, Sverige]]></description>
         <Point><coordinates>14.184437,57.762563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Jönköping Rosenlund]]></name>
-        <description>Sibylla Jönköping Rosenlund, Jönköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Jönköping Rosenlund, Jönköping, Sverige]]></description>
         <Point><coordinates>14.231312,57.785438,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Sveg]]></name>
-        <description>Sibylla Sveg, Sveg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Sveg, Sveg, Sverige]]></description>
         <Point><coordinates>14.367188,62.033437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Karlskoga]]></name>
-        <description>Sibylla Karlskoga, Karlskoga, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Karlskoga, Karlskoga, Sverige]]></description>
         <Point><coordinates>14.500813,59.330437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Karlsborg]]></name>
-        <description>Sibylla Karlsborg, Karlsborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Karlsborg, Karlsborg, Sverige]]></description>
         <Point><coordinates>14.505922,58.541412,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Mora]]></name>
-        <description>Sibylla Mora, Mora, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Mora, Mora, Sverige]]></description>
         <Point><coordinates>14.565563,61.008938,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Frösön Östersund]]></name>
-        <description>Sibylla Frösön Östersund, Frösön, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Frösön Östersund, Frösön, Sverige]]></description>
         <Point><coordinates>14.603562,63.171937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Östersund 11:ans]]></name>
-        <description>Sibylla Östersund 11:ans, Östersund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Östersund 11:ans, Östersund, Sverige]]></description>
         <Point><coordinates>14.638687,63.179437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Östersund Busstorget]]></name>
-        <description>Sibylla Östersund Busstorget, Östersund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Östersund Busstorget, Östersund, Sverige]]></description>
         <Point><coordinates>14.639188,63.175562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Östersund Stadsdel Norr]]></name>
-        <description>Sibylla Östersund Stadsdel Norr, Östersund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Östersund Stadsdel Norr, Östersund, Sverige]]></description>
         <Point><coordinates>14.649812,63.190687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Nässjö]]></name>
-        <description>Sibylla Nässjö, Nässjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Nässjö, Nässjö, Sverige]]></description>
         <Point><coordinates>14.735563,57.646687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Östersund Brunflo]]></name>
-        <description>Sibylla Östersund Brunflo, Brunflo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Östersund Brunflo, Brunflo, Sverige]]></description>
         <Point><coordinates>14.829438,63.077938,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Askersund]]></name>
-        <description>Sibylla Askersund, Askersund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Askersund, Askersund, Sverige]]></description>
         <Point><coordinates>14.894188,58.877688,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Tranås]]></name>
-        <description>Sibylla Tranås, Tranås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Tranås, Tranås, Sverige]]></description>
         <Point><coordinates>14.974312,58.045313,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Leksand]]></name>
-        <description>Sibylla Leksand, Leksand, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Leksand, Leksand, Sverige]]></description>
         <Point><coordinates>15.005187,60.736562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Hallsberg]]></name>
-        <description>Sibylla Hallsberg, Hallsberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Hallsberg, Hallsberg, Sverige]]></description>
         <Point><coordinates>15.097812,59.076062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Rättvik Rättviksrasten]]></name>
-        <description>Sibylla Rättvik Rättviksrasten, Rättvik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Rättvik Rättviksrasten, Rättvik, Sverige]]></description>
         <Point><coordinates>15.113437,60.888438,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Kumla]]></name>
-        <description>Sibylla Kumla, Kumla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Kumla, Kumla, Sverige]]></description>
         <Point><coordinates>15.139437,59.126812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Ludvika Hillängen]]></name>
-        <description>Sibylla Ludvika Hillängen, Ludvika, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Ludvika Hillängen, Ludvika, Sverige]]></description>
         <Point><coordinates>15.180187,60.143438,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Ludvika Mossplan]]></name>
-        <description>Sibylla Ludvika Mossplan, Ludvika, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Ludvika Mossplan, Ludvika, Sverige]]></description>
         <Point><coordinates>15.181188,60.143438,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Örebro Järnvägsgatan]]></name>
-        <description>Sibylla Örebro Järnvägsgatan, Örebro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Örebro Järnvägsgatan, Örebro, Sverige]]></description>
         <Point><coordinates>15.214688,59.277938,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Örebro Bettorp]]></name>
-        <description>Sibylla Örebro Bettorp, Örebro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Örebro Bettorp, Örebro, Sverige]]></description>
         <Point><coordinates>15.228312,59.305563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Örebro Österplan]]></name>
-        <description>Sibylla Örebro Österplan, Örebro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Örebro Österplan, Örebro, Sverige]]></description>
         <Point><coordinates>15.231562,59.265313,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Smedjebacken Brandts]]></name>
-        <description>Sibylla Smedjebacken Brandts, Smedjebacken, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Smedjebacken Brandts, Smedjebacken, Sverige]]></description>
         <Point><coordinates>15.411313,60.139813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Borlänge Norra Backa]]></name>
-        <description>Sibylla Borlänge Norra Backa, Borlänge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Borlänge Norra Backa, Borlänge, Sverige]]></description>
         <Point><coordinates>15.413187,60.479188,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Linköping]]></name>
-        <description>Sibylla Linköping, Linköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Linköping, Linköping, Sverige]]></description>
         <Point><coordinates>15.606813,58.398063,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Falun 47:ans]]></name>
-        <description>Sibylla Falun 47:ans, Falun, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Falun 47:ans, Falun, Sverige]]></description>
         <Point><coordinates>15.626687,60.604062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Fagersta]]></name>
-        <description>Sibylla Fagersta, Fagersta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Fagersta, Fagersta, Sverige]]></description>
         <Point><coordinates>15.812812,59.991813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Hultsfred]]></name>
-        <description>Sibylla Hultsfred, Hultsfred, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Hultsfred, Hultsfred, Sverige]]></description>
         <Point><coordinates>15.839813,57.493813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Vimmerby]]></name>
-        <description>Sibylla Vimmerby, Vimmerby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Vimmerby, Vimmerby, Sverige]]></description>
         <Point><coordinates>15.854812,57.667687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Nybro Parkgrillen]]></name>
-        <description>Sibylla Nybro Parkgrillen, Nybro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Nybro Parkgrillen, Nybro, Sverige]]></description>
         <Point><coordinates>15.910438,56.743813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Köping]]></name>
-        <description>Sibylla Köping, Köping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Köping, Köping, Sverige]]></description>
         <Point><coordinates>15.981687,59.511938,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Ljusdal]]></name>
-        <description>Sibylla Ljusdal, Ljusdal, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Ljusdal, Ljusdal, Sverige]]></description>
         <Point><coordinates>16.082563,61.828688,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Avesta]]></name>
-        <description>Sibylla Avesta, Avesta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Avesta, Avesta, Sverige]]></description>
         <Point><coordinates>16.167437,60.144188,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Norrköping Wallmans]]></name>
-        <description>Sibylla Norrköping Wallmans, Norrköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Norrköping Wallmans, Norrköping, Sverige]]></description>
         <Point><coordinates>16.168359,58.589838,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Järvsö]]></name>
-        <description>Sibylla Järvsö, Järvsö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Järvsö, Järvsö, Sverige]]></description>
         <Point><coordinates>16.169187,61.715563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Norrköping Ledungsplan]]></name>
-        <description>Sibylla Norrköping Ledungsplan, Norrköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Norrköping Ledungsplan, Norrköping, Sverige]]></description>
         <Point><coordinates>16.216188,58.590312,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Hofors]]></name>
-        <description>Sibylla Hofors, Hofors, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Hofors, Hofors, Sverige]]></description>
         <Point><coordinates>16.292938,60.541187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Bollnäs Häggesta]]></name>
-        <description>Sibylla Bollnäs Häggesta, Bollnäs, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Bollnäs Häggesta, Bollnäs, Sverige]]></description>
         <Point><coordinates>16.396813,61.336813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Bollnäs Combigrillen]]></name>
-        <description>Sibylla Bollnäs Combigrillen, Bollnäs, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Bollnäs Combigrillen, Bollnäs, Sverige]]></description>
         <Point><coordinates>16.423187,61.356687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Eskilstuna Folkesta]]></name>
-        <description>Sibylla Eskilstuna Folkesta, Eskilstuna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Eskilstuna Folkesta, Eskilstuna, Sverige]]></description>
         <Point><coordinates>16.423313,59.403188,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Oskarshamn]]></name>
-        <description>Sibylla Oskarshamn, Oskarshamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Oskarshamn, Oskarshamn, Sverige]]></description>
         <Point><coordinates>16.436188,57.264437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Fårbo]]></name>
-        <description>Sibylla Fårbo, Fårbo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Fårbo, Fårbo, Sverige]]></description>
         <Point><coordinates>16.490812,57.373937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Västerås Hagagrillen]]></name>
-        <description>Sibylla Västerås Hagagrillen, Västerås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Västerås Hagagrillen, Västerås, Sverige]]></description>
         <Point><coordinates>16.572187,59.621813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Sala]]></name>
-        <description>Sibylla Sala, Sala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Sala, Sala, Sverige]]></description>
         <Point><coordinates>16.605063,59.919438,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Borgholm]]></name>
-        <description>Sibylla Borgholm, Borgholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Borgholm, Borgholm, Sverige]]></description>
         <Point><coordinates>16.679688,56.878563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Sandviken Daisys]]></name>
-        <description>Sibylla Sandviken Daisys, Sandviken, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Sandviken Daisys, Sandviken, Sverige]]></description>
         <Point><coordinates>16.776688,60.614438,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Valbo]]></name>
-        <description>Sibylla Valbo, Valbo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Valbo, Valbo, Sverige]]></description>
         <Point><coordinates>16.994062,60.633813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Söderhamn]]></name>
-        <description>Sibylla Söderhamn, Söderhamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Söderhamn, Söderhamn, Sverige]]></description>
         <Point><coordinates>17.060063,61.302937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Enköping]]></name>
-        <description>Sibylla Enköping, Enköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Enköping, Enköping, Sverige]]></description>
         <Point><coordinates>17.066437,59.637687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Gävle SOS]]></name>
-        <description>Sibylla Gävle SOS, Gävle, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Gävle SOS, Gävle, Sverige]]></description>
         <Point><coordinates>17.121563,60.675812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Gävle Maggies]]></name>
-        <description>Sibylla Gävle Maggies, Gävle, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Gävle Maggies, Gävle, Sverige]]></description>
         <Point><coordinates>17.153062,60.664687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Sundsvall Brofästet]]></name>
-        <description>Sibylla Sundsvall Brofästet, Sundsvall, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Sundsvall Brofästet, Sundsvall, Sverige]]></description>
         <Point><coordinates>17.252812,62.395812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Sundsvall Södermalm]]></name>
-        <description>Sibylla Sundsvall Södermalm, Sundsvall, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Sundsvall Södermalm, Sundsvall, Sverige]]></description>
         <Point><coordinates>17.301938,62.386312,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Timrå]]></name>
-        <description>Sibylla Timrå, Timrå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Timrå, Timrå, Sverige]]></description>
         <Point><coordinates>17.328063,62.488813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Sundsvall Nacksta]]></name>
-        <description>Sibylla Sundsvall Nacksta, Sundsvall, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Sundsvall Nacksta, Sundsvall, Sverige]]></description>
         <Point><coordinates>17.339062,62.396062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Tierp]]></name>
-        <description>Sibylla Tierp, Tierp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Tierp, Tierp, Sverige]]></description>
         <Point><coordinates>17.488062,60.339938,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Bålsta Mickes]]></name>
-        <description>Sibylla Bålsta Mickes, Bålsta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Bålsta Mickes, Bålsta, Sverige]]></description>
         <Point><coordinates>17.512563,59.577687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Uppsala Bärbyleden]]></name>
-        <description>Sibylla Uppsala Bärbyleden, Uppsala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Uppsala Bärbyleden, Uppsala, Sverige]]></description>
         <Point><coordinates>17.601937,59.871688,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Sigtuna]]></name>
-        <description>Sibylla Sigtuna, Sigtuna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Sigtuna, Sigtuna, Sverige]]></description>
         <Point><coordinates>17.724562,59.616813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Järfälla Viksjö]]></name>
-        <description>Sibylla Järfälla Viksjö, Järfälla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Järfälla Viksjö, Järfälla, Sverige]]></description>
         <Point><coordinates>17.825812,59.414562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Tumba]]></name>
-        <description>Sibylla Tumba, Tumba, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Tumba, Tumba, Sverige]]></description>
         <Point><coordinates>17.829062,59.215312,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Alby]]></name>
-        <description>Sibylla Alby, Norsborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Alby, Norsborg, Sverige]]></description>
         <Point><coordinates>17.835504,59.236184,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Älandsbro]]></name>
-        <description>Sibylla Älandsbro, Älandsbro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Älandsbro, Älandsbro, Sverige]]></description>
         <Point><coordinates>17.839813,62.674563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Järfälla Maxigrillen]]></name>
-        <description>Sibylla Järfälla Maxigrillen, Järfälla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Järfälla Maxigrillen, Järfälla, Sverige]]></description>
         <Point><coordinates>17.845937,59.421063,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Upplands Väsby Mammas]]></name>
-        <description>Sibylla Upplands Väsby Mammas, Upplands Väsby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Upplands Väsby Mammas, Upplands Väsby, Sverige]]></description>
         <Point><coordinates>17.929688,59.513813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Stockholm St Eriksplan]]></name>
-        <description>Sibylla Stockholm St Eriksplan, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Stockholm St Eriksplan, Stockholm, Sverige]]></description>
         <Point><coordinates>18.037687,59.339437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Djursholm]]></name>
-        <description>Sibylla Djursholm, Djursholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Djursholm, Djursholm, Sverige]]></description>
         <Point><coordinates>18.090187,59.397562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Handen]]></name>
-        <description>Sibylla Handen, Handen, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Handen, Handen, Sverige]]></description>
         <Point><coordinates>18.139187,59.163562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Haninge Dallasburgare]]></name>
-        <description>Sibylla Haninge Dallasburgare, Haninge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Haninge Dallasburgare, Haninge, Sverige]]></description>
         <Point><coordinates>18.143422,59.177913,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Visby Wisborg]]></name>
-        <description>Sibylla Visby Wisborg, Visby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Visby Wisborg, Visby, Sverige]]></description>
         <Point><coordinates>18.285063,57.616437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Visby Skarphäll]]></name>
-        <description>Sibylla Visby Skarphäll, Visby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Visby Skarphäll, Visby, Sverige]]></description>
         <Point><coordinates>18.324312,57.633437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Vallentuna Roslagsstoppet]]></name>
-        <description>Sibylla Vallentuna Roslagsstoppet, Vallentuna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Vallentuna Roslagsstoppet, Vallentuna, Sverige]]></description>
         <Point><coordinates>18.330188,59.634563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Östhammar]]></name>
-        <description>Sibylla Östhammar, Östhammar, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Östhammar, Östhammar, Sverige]]></description>
         <Point><coordinates>18.369687,60.258562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Gustavsberg]]></name>
-        <description>Sibylla Gustavsberg, Gustavberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Gustavsberg, Gustavberg, Sverige]]></description>
         <Point><coordinates>18.392187,59.327813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Bjästa]]></name>
-        <description>Sibylla Bjästa, Bjästa, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Bjästa, Bjästa, Sverige]]></description>
         <Point><coordinates>18.502437,63.201563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Lycksele]]></name>
-        <description>Sibylla Lycksele, Lycksele, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Lycksele, Lycksele, Sverige]]></description>
         <Point><coordinates>18.670063,64.594813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Örnsköldsvik]]></name>
-        <description>Sibylla Örnsköldsvik, Örnsköldsvik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Örnsköldsvik, Örnsköldsvik, Sverige]]></description>
         <Point><coordinates>18.720312,63.296188,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Arvidsjaur]]></name>
-        <description>Sibylla Arvidsjaur, Arvidsjaur, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Arvidsjaur, Arvidsjaur, Sverige]]></description>
         <Point><coordinates>19.176227,65.592121,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Umeå Bussgrillen]]></name>
-        <description>Sibylla Umeå Bussgrillen, Umeå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Umeå Bussgrillen, Umeå, Sverige]]></description>
         <Point><coordinates>20.264812,63.830062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Gällivare]]></name>
-        <description>Sibylla Gällivare, Gällivare, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Gällivare, Gällivare, Sverige]]></description>
         <Point><coordinates>20.654438,67.133188,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Älvsbyn]]></name>
-        <description>Sibylla Älvsbyn, Älvsbyn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Älvsbyn, Älvsbyn, Sverige]]></description>
         <Point><coordinates>21.012062,65.672187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Skelleftehamn]]></name>
-        <description>Sibylla Skelleftehamn, Skelleftehamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Skelleftehamn, Skelleftehamn, Sverige]]></description>
         <Point><coordinates>21.236937,64.686312,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Luleå]]></name>
-        <description>Sibylla Luleå, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Luleå, Luleå, Sverige]]></description>
         <Point><coordinates>22.046438,65.617188,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sibylla Kalix]]></name>
-        <description>Sibylla Kalix, Kalix, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sibylla Kalix, Kalix, Sverige]]></description>
         <Point><coordinates>23.140813,65.855437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
     </Folder>
   </Document>

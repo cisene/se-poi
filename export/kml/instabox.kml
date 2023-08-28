@@ -1,331 +1,300 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Instabox</name>
+    <name><![CDATA[Instabox]]></name>
     <description/>
-    <Style id="icon-22-normal">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-22-highlight">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-22">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-22-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-22-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
+    <Style id="icon-22-normal"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>
+    <Style id="icon-22-highlight"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>1.1</scale></LabelStyle></Style>
+    <StyleMap id="icon-22"><Pair><key>normal</key><styleUrl>#icon-22-normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#icon-22-highlight</styleUrl></Pair></StyleMap>
     <Folder>
       <name><![CDATA[Instabox]]></name>
       <Placemark>
         <name><![CDATA[Instabox, Leksand Hemköp]]></name>
-        <description>Instabox, Leksand Hemköp, Leksand, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Leksand Hemköp, Leksand, Sverige]]></description>
         <Point><coordinates>14.997587,60.733367,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Leksand Coop]]></name>
-        <description>Instabox, Leksand Coop, Leksand, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Leksand Coop, Leksand, Sverige]]></description>
         <Point><coordinates>14.998039,60.731305,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Grängesberg Coop]]></name>
-        <description>Instabox, Grängesberg Coop, Grängesberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Grängesberg Coop, Grängesberg, Sverige]]></description>
         <Point><coordinates>15.007309,60.075725,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Rättvik Coop Konsum]]></name>
-        <description>Instabox, Rättvik Coop Konsum, Rättvik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Rättvik Coop Konsum, Rättvik, Sverige]]></description>
         <Point><coordinates>15.119341,60.882922,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Rättvik Hemköp]]></name>
-        <description>Instabox, Rättvik Hemköp, Rättvik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Rättvik Hemköp, Rättvik, Sverige]]></description>
         <Point><coordinates>15.120307,60.882711,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Djurås Coop]]></name>
-        <description>Instabox, Djurås Coop, Gagnef, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Djurås Coop, Gagnef, Sverige]]></description>
         <Point><coordinates>15.130529,60.560653,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Ludvika Stora Coop]]></name>
-        <description>Instabox, Ludvika Stora Coop, Ludvika, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Ludvika Stora Coop, Ludvika, Sverige]]></description>
         <Point><coordinates>15.156254,60.135627,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Ludvika Gård Coop]]></name>
-        <description>Instabox, Ludvika Gård Coop, Ludvika, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Ludvika Gård Coop, Ludvika, Sverige]]></description>
         <Point><coordinates>15.181524,60.13161,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Ludvika C Hemköp]]></name>
-        <description>Instabox, Ludvika C Hemköp, Ludvika, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Ludvika C Hemköp, Ludvika, Sverige]]></description>
         <Point><coordinates>15.186038,60.150739,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Smedjebacken Coop]]></name>
-        <description>Instabox, Smedjebacken Coop, Smedjebacken, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Smedjebacken Coop, Smedjebacken, Sverige]]></description>
         <Point><coordinates>15.412442,60.142336,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Kupolen ICA Supermarket]]></name>
-        <description>Instabox, Kupolen ICA Supermarket, Borlänge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Kupolen ICA Supermarket, Borlänge, Sverige]]></description>
         <Point><coordinates>15.417225,60.484176,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Borlänge Kupolen LYKO]]></name>
-        <description>Instabox, Borlänge Kupolen LYKO, Borlänge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Borlänge Kupolen LYKO, Borlänge, Sverige]]></description>
         <Point><coordinates>15.417889,60.484324,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Borlänge Kupolen Köpcentrum]]></name>
-        <description>Instabox, Borlänge Kupolen Köpcentrum, Borlänge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Borlänge Kupolen Köpcentrum, Borlänge, Sverige]]></description>
         <Point><coordinates>15.418435,60.484058,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Borlänge Stora Coop Norra Backa]]></name>
-        <description>Instabox, Borlänge Stora Coop Norra Backa, Borlänge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Borlänge Stora Coop Norra Backa, Borlänge, Sverige]]></description>
         <Point><coordinates>15.418446,60.478013,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Borlänge Coop Forssa]]></name>
-        <description>Instabox, Borlänge Coop Forssa, Borlänge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Borlänge Coop Forssa, Borlänge, Sverige]]></description>
         <Point><coordinates>15.430772,60.496551,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Borlänge Södra Backa Hemköp]]></name>
-        <description>Instabox, Borlänge Södra Backa Hemköp, Borlänge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Borlänge Södra Backa Hemköp, Borlänge, Sverige]]></description>
         <Point><coordinates>15.441115,60.470966,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Borlänge Maxi Ica Stormarknad]]></name>
-        <description>Instabox, Borlänge Maxi Ica Stormarknad, Borlänge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Borlänge Maxi Ica Stormarknad, Borlänge, Sverige]]></description>
         <Point><coordinates>15.447729,60.482797,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Borlänge MinMatbutik]]></name>
-        <description>Instabox, Borlänge MinMatbutik, Borlänge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Borlänge MinMatbutik, Borlänge, Sverige]]></description>
         <Point><coordinates>15.475797,60.462239,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Falun Stora Coop]]></name>
-        <description>Instabox, Falun Stora Coop, Falun, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Falun Stora Coop, Falun, Sverige]]></description>
         <Point><coordinates>15.618747,60.603114,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Falun Bergströms Galleria]]></name>
-        <description>Instabox, Falun Bergströms Galleria, Falun, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Falun Bergströms Galleria, Falun, Sverige]]></description>
         <Point><coordinates>15.63247,60.605509,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Falun Holmgatan Hemköp]]></name>
-        <description>Instabox, Falun Holmgatan Hemköp, Falun, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Falun Holmgatan Hemköp, Falun, Sverige]]></description>
         <Point><coordinates>15.634023,60.604938,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Falun Coop Kvarnberget]]></name>
-        <description>Instabox, Falun Coop Kvarnberget, Falun, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Falun Coop Kvarnberget, Falun, Sverige]]></description>
         <Point><coordinates>15.645167,60.59438,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Falun Ica Maxi]]></name>
-        <description>Instabox, Falun Ica Maxi, Falun, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Falun Ica Maxi, Falun, Sverige]]></description>
         <Point><coordinates>15.658493,60.606924,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Säter Coop]]></name>
-        <description>Instabox, Säter Coop, Säter, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Säter Coop, Säter, Sverige]]></description>
         <Point><coordinates>15.752529,60.346264,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Fagersta Coop]]></name>
-        <description>Instabox, Fagersta Coop, Fagersta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Fagersta Coop, Fagersta, Sverige]]></description>
         <Point><coordinates>15.796407,60.004312,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Norberg Coop]]></name>
-        <description>Instabox, Norberg Coop, Norberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Norberg Coop, Norberg, Sverige]]></description>
         <Point><coordinates>15.923838,60.066063,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Hedemora Tempo]]></name>
-        <description>Instabox, Hedemora Tempo, Hedemora, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Hedemora Tempo, Hedemora, Sverige]]></description>
         <Point><coordinates>15.984954,60.277776,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Hedemora Hemköp]]></name>
-        <description>Instabox, Hedemora Hemköp, Hedemora, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Hedemora Hemköp, Hedemora, Sverige]]></description>
         <Point><coordinates>15.989949,60.283191,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Hofors Coop]]></name>
-        <description>Instabox, Hofors Coop, Hofors, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Hofors Coop, Hofors, Sverige]]></description>
         <Point><coordinates>16.285068,60.545901,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Enen Coop]]></name>
-        <description>Instabox, Enen Coop, Sandviken, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Enen Coop, Sandviken, Sverige]]></description>
         <Point><coordinates>16.767251,60.618149,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Sandviken Maxi ICA]]></name>
-        <description>Instabox, Sandviken Maxi ICA, Sandviken, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Sandviken Maxi ICA, Sandviken, Sverige]]></description>
         <Point><coordinates>16.772467,60.623778,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Sandviken Tempo]]></name>
-        <description>Instabox, Sandviken Tempo, Sandviken, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Sandviken Tempo, Sandviken, Sverige]]></description>
         <Point><coordinates>16.773996,60.620066,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Valbo Stora Coop]]></name>
-        <description>Instabox, Valbo Stora Coop, Valbo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Valbo Stora Coop, Valbo, Sverige]]></description>
         <Point><coordinates>16.992848,60.634005,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Gävle Valbo LYKO]]></name>
-        <description>Instabox, Gävle Valbo LYKO, Valbo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Gävle Valbo LYKO, Valbo, Sverige]]></description>
         <Point><coordinates>16.994464,60.633893,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Gävle Coop Eken]]></name>
-        <description>Instabox, Gävle Coop Eken, Gävle, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Gävle Coop Eken, Gävle, Sverige]]></description>
         <Point><coordinates>17.124894,60.678357,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Gävle Coop Krysset]]></name>
-        <description>Instabox, Gävle Coop Krysset, Gävle, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Gävle Coop Krysset, Gävle, Sverige]]></description>
         <Point><coordinates>17.134116,60.657749,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Gävle Colabitoil]]></name>
-        <description>Instabox, Gävle Colabitoil, Gävle, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Gävle Colabitoil, Gävle, Sverige]]></description>
         <Point><coordinates>17.138737,60.680837,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Gävle Gallerian Nian]]></name>
-        <description>Instabox, Gävle Gallerian Nian, Gävle, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Gävle Gallerian Nian, Gävle, Sverige]]></description>
         <Point><coordinates>17.138944,60.673841,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Gävle ICA Maxi]]></name>
-        <description>Instabox, Gävle ICA Maxi, Gävle, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Gävle ICA Maxi, Gävle, Sverige]]></description>
         <Point><coordinates>17.146484,60.646796,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Gävle Coop Hallen]]></name>
-        <description>Instabox, Gävle Coop Hallen, Gävle, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Gävle Coop Hallen, Gävle, Sverige]]></description>
         <Point><coordinates>17.148102,60.6705,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Gävle ICA Nära Söder]]></name>
-        <description>Instabox, Gävle ICA Nära Söder, Gävle, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Gävle ICA Nära Söder, Gävle, Sverige]]></description>
         <Point><coordinates>17.148673,60.669323,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Gävle Coop Triangeln]]></name>
-        <description>Instabox, Gävle Coop Triangeln, Gävle, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Gävle Coop Triangeln, Gävle, Sverige]]></description>
         <Point><coordinates>17.153516,60.701187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Gävle Tvärgatan Tempo]]></name>
-        <description>Instabox, Gävle Tvärgatan Tempo, Gävle, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Gävle Tvärgatan Tempo, Gävle, Sverige]]></description>
         <Point><coordinates>17.167675,60.67197,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Gävle ICA Kvantum Fjällbacken]]></name>
-        <description>Instabox, Gävle ICA Kvantum Fjällbacken, Gävle, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Gävle ICA Kvantum Fjällbacken, Gävle, Sverige]]></description>
         <Point><coordinates>17.180771,60.669706,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Gävle Coop Fjällbacken]]></name>
-        <description>Instabox, Gävle Coop Fjällbacken, Gävle, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Gävle Coop Fjällbacken, Gävle, Sverige]]></description>
         <Point><coordinates>17.182856,60.668872,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Gävle Bomhus Tempo]]></name>
-        <description>Instabox, Gävle Bomhus Tempo, Gävle, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Gävle Bomhus Tempo, Gävle, Sverige]]></description>
         <Point><coordinates>17.252836,60.673111,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Skutskär Coop Extra]]></name>
-        <description>Instabox, Skutskär Coop Extra, Skutskär, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Skutskär Coop Extra, Skutskär, Sverige]]></description>
         <Point><coordinates>17.41439,60.624749,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Instabox, Tierp Coop]]></name>
-        <description>Instabox, Tierp Coop, Tierp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Instabox, Tierp Coop, Tierp, Sverige]]></description>
         <Point><coordinates>17.516384,60.344706,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
     </Folder>
   </Document>

@@ -1,553 +1,522 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>ArkenZoo</name>
+    <name><![CDATA[ArkenZoo]]></name>
     <description/>
-    <Style id="icon-22-normal">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-22-highlight">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-22">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-22-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-22-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
+    <Style id="icon-22-normal"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>
+    <Style id="icon-22-highlight"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>1.1</scale></LabelStyle></Style>
+    <StyleMap id="icon-22"><Pair><key>normal</key><styleUrl>#icon-22-normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#icon-22-highlight</styleUrl></Pair></StyleMap>
     <Folder>
       <name><![CDATA[ArkenZoo]]></name>
       <Placemark>
         <name><![CDATA[Arken Zoo Uddevalla Torp Köpcentrum]]></name>
-        <description>Arken Zoo Uddevalla Torp Köpcentrum, Uddevalla</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Uddevalla Torp Köpcentrum, Uddevalla]]></description>
         <Point><coordinates>11.808435,58.353661,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Töcksfors]]></name>
-        <description>Arken Zoo Töcksfors, Töckfors</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Töcksfors, Töckfors]]></description>
         <Point><coordinates>11.819967,59.510826,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Uddevalla Östra Torp]]></name>
-        <description>Arken Zoo Uddevalla Östra Torp, Uddevalla</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Uddevalla Östra Torp, Uddevalla]]></description>
         <Point><coordinates>11.820734,58.35453,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Göteborg Eriksberg]]></name>
-        <description>Arken Zoo Göteborg Eriksberg, Göteborg</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Göteborg Eriksberg, Göteborg]]></description>
         <Point><coordinates>11.921422,57.709373,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Göteborg Sisjön 2]]></name>
-        <description>Arken Zoo Göteborg Sisjön 2, Göteborg</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Göteborg Sisjön 2, Göteborg]]></description>
         <Point><coordinates>11.94768,57.642227,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Göteborg Sisjön 1]]></name>
-        <description>Arken Zoo Göteborg Sisjön 1, Göteborg</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Göteborg Sisjön 1, Göteborg]]></description>
         <Point><coordinates>11.94838,57.64061,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Göteborg Femman]]></name>
-        <description>Arken Zoo Göteborg Femman, Göteborg</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Göteborg Femman, Göteborg]]></description>
         <Point><coordinates>11.969497,57.708462,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Göteborg Torpavallen]]></name>
-        <description>Arken Zoo Göteborg Torpavallen, Göteborg</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Göteborg Torpavallen, Göteborg]]></description>
         <Point><coordinates>12.027133,57.723671,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Kungsbacka Borgås]]></name>
-        <description>Arken Zoo Kungsbacka Borgås, Kungsbacka</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Kungsbacka Borgås, Kungsbacka]]></description>
         <Point><coordinates>12.075003,57.516209,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Varberg]]></name>
-        <description>Arken Zoo Varberg, Varberg</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Varberg, Varberg]]></description>
         <Point><coordinates>12.261157,57.123978,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Trollhättan Etage]]></name>
-        <description>Arken Zoo Trollhättan Etage, Trollhättan</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Trollhättan Etage, Trollhättan]]></description>
         <Point><coordinates>12.308698,58.312378,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Falkenberg]]></name>
-        <description>Arken Zoo Falkenberg, Falkenberg</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Falkenberg, Falkenberg]]></description>
         <Point><coordinates>12.481631,56.903976,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Bollebygd]]></name>
-        <description>Arken Zoo Bollebygd, Bollebygd</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Bollebygd, Bollebygd]]></description>
         <Point><coordinates>12.571873,57.66877,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Helsingborg Regementsvägen]]></name>
-        <description>Arken Zoo Helsingborg Regementsvägen, Helsingborg</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Helsingborg Regementsvägen, Helsingborg]]></description>
         <Point><coordinates>12.718438,56.064812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Helsingborg Väla]]></name>
-        <description>Arken Zoo Helsingborg Väla, Helsingborg</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Helsingborg Väla, Helsingborg]]></description>
         <Point><coordinates>12.7581,56.09351,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Halmstad Flygstaden]]></name>
-        <description>Arken Zoo Halmstad Flygstaden, Halmstad</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Halmstad Flygstaden, Halmstad]]></description>
         <Point><coordinates>12.806277,56.677597,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Borås Lundaskog]]></name>
-        <description>Arken Zoo Borås Lundaskog, Borås</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Borås Lundaskog, Borås]]></description>
         <Point><coordinates>12.860431,57.713352,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Ängelholm]]></name>
-        <description>Arken Zoo Ängelholm, Ängelholm</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Ängelholm, Ängelholm]]></description>
         <Point><coordinates>12.891922,56.253746,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Halmstad Stenalyckan]]></name>
-        <description>Arken Zoo Halmstad Stenalyckan, Halmstad</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Halmstad Stenalyckan, Halmstad]]></description>
         <Point><coordinates>12.90818,56.665359,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Borås Knalleland]]></name>
-        <description>Arken Zoo Borås Knalleland, Borås</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Borås Knalleland, Borås]]></description>
         <Point><coordinates>12.93305,57.732311,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Borås Trandögatan]]></name>
-        <description>Arken Zoo Borås Trandögatan, Borås</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Borås Trandögatan, Borås]]></description>
         <Point><coordinates>12.945998,57.71088,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Malmö Svågertorp]]></name>
-        <description>Arken Zoo Malmö Svågertorp, Malmö</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Malmö Svågertorp, Malmö]]></description>
         <Point><coordinates>12.993464,55.551132,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Malmö Burlöv]]></name>
-        <description>Arken Zoo Malmö Burlöv, Malmö</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Malmö Burlöv, Malmö]]></description>
         <Point><coordinates>13.08385,55.63953,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Malmö Toftanäs]]></name>
-        <description>Arken Zoo Malmö Toftanäs, Malmö</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Malmö Toftanäs, Malmö]]></description>
         <Point><coordinates>13.094892,55.597168,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Trelleborg]]></name>
-        <description>Arken Zoo Trelleborg, Trelleborg</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Trelleborg, Trelleborg]]></description>
         <Point><coordinates>13.120787,55.384045,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Lund Nova]]></name>
-        <description>Arken Zoo Lund Nova, Lund</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Lund Nova, Lund]]></description>
         <Point><coordinates>13.15357,55.714703,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Lidköping]]></name>
-        <description>Arken Zoo Lidköping, Lidköping</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Lidköping, Lidköping]]></description>
         <Point><coordinates>13.182623,58.495369,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Eslöv]]></name>
-        <description>Arken Zoo Eslöv, Eslöv</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Eslöv, Eslöv]]></description>
         <Point><coordinates>13.323761,55.841846,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Karlstad]]></name>
-        <description>Arken Zoo Karlstad, Karlstad</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Karlstad, Karlstad]]></description>
         <Point><coordinates>13.439754,59.374977,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Falköping]]></name>
-        <description>Arken Zoo Falköping, Falköping</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Falköping, Falköping]]></description>
         <Point><coordinates>13.564233,58.16193,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Hörby]]></name>
-        <description>Arken Zoo Hörby, Hörby</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Hörby, Hörby]]></description>
         <Point><coordinates>13.679068,55.790699,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Ystad]]></name>
-        <description>Arken Zoo Ystad, Ystad</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Ystad, Ystad]]></description>
         <Point><coordinates>13.834235,55.43877,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Skövde]]></name>
-        <description>Arken Zoo Skövde, Skövde</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Skövde, Skövde]]></description>
         <Point><coordinates>13.866814,58.403797,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Kristianstad Härlöv]]></name>
-        <description>Arken Zoo Kristianstad Härlöv, Kristianstad</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Kristianstad Härlöv, Kristianstad]]></description>
         <Point><coordinates>14.118,56.022881,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Jönköping Solåsen]]></name>
-        <description>Arken Zoo Jönköping Solåsen, Jönköping</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Jönköping Solåsen, Jönköping]]></description>
         <Point><coordinates>14.172878,57.767193,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Jönköping A6]]></name>
-        <description>Arken Zoo Jönköping A6, Jönköping</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Jönköping A6, Jönköping]]></description>
         <Point><coordinates>14.197411,57.772472,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Karlskoga]]></name>
-        <description>Arken Zoo Karlskoga, Karlskoga</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Karlskoga, Karlskoga]]></description>
         <Point><coordinates>14.526704,59.326538,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Mora]]></name>
-        <description>Arken Zoo Mora, Mora</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Mora, Mora]]></description>
         <Point><coordinates>14.590383,61.008362,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Växjö Samarkand]]></name>
-        <description>Arken Zoo Växjö Samarkand, Växjö</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Växjö Samarkand, Växjö]]></description>
         <Point><coordinates>14.76549,56.881351,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Motala]]></name>
-        <description>Arken Zoo Motala, Motala</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Motala, Motala]]></description>
         <Point><coordinates>15.032276,58.557644,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Vetlanda]]></name>
-        <description>Arken Zoo Vetlanda, Vetlanda</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Vetlanda, Vetlanda]]></description>
         <Point><coordinates>15.069081,57.442627,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Örebro Marieberg Galleria]]></name>
-        <description>Arken Zoo Örebro Marieberg Galleria, Örebro</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Örebro Marieberg Galleria, Örebro]]></description>
         <Point><coordinates>15.138066,59.21727,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Örebro Eurostop]]></name>
-        <description>Arken Zoo Örebro Eurostop, Örebro</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Örebro Eurostop, Örebro]]></description>
         <Point><coordinates>15.197855,59.296085,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Borlänge]]></name>
-        <description>Arken Zoo Borlänge, Borlänge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Borlänge, Borlänge]]></description>
         <Point><coordinates>15.418871,60.478725,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Karlskrona Amiralen]]></name>
-        <description>Arken Zoo Karlskrona Amiralen, Karlskrona</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Karlskrona Amiralen, Karlskrona]]></description>
         <Point><coordinates>15.6477,56.196751,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Falun]]></name>
-        <description>Arken Zoo Falun, Falun</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Falun, Falun]]></description>
         <Point><coordinates>15.66654,60.604557,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Finspång]]></name>
-        <description>Arken Zoo Finspång, Finspång</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Finspång, Finspång]]></description>
         <Point><coordinates>15.773438,58.706581,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Norrköping Ingelsta Shopping]]></name>
-        <description>Arken Zoo Norrköping Ingelsta Shopping, Norrköping</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Norrköping Ingelsta Shopping, Norrköping]]></description>
         <Point><coordinates>16.154413,58.61845,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Norrköping Ingelsta Handelsområde]]></name>
-        <description>Arken Zoo Norrköping Ingelsta Handelsområde, Norrköping</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Norrköping Ingelsta Handelsområde, Norrköping]]></description>
         <Point><coordinates>16.16596,58.61269,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Norrköping Mirum Galleria]]></name>
-        <description>Arken Zoo Norrköping Mirum Galleria, Norrköping</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Norrköping Mirum Galleria, Norrköping]]></description>
         <Point><coordinates>16.192421,58.587746,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Västerås Erikslund 2]]></name>
-        <description>Arken Zoo Västerås Erikslund 2, Västerås</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Västerås Erikslund 2, Västerås]]></description>
         <Point><coordinates>16.45929,59.611252,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Västerås Erikslund 1]]></name>
-        <description>Arken Zoo Västerås Erikslund 1, Västerås</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Västerås Erikslund 1, Västerås]]></description>
         <Point><coordinates>16.465195,59.612907,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Eskilstuna Tuna Park]]></name>
-        <description>Arken Zoo Eskilstuna Tuna Park, Eskilstuna</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Eskilstuna Tuna Park, Eskilstuna]]></description>
         <Point><coordinates>16.469013,59.375317,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Västerås City]]></name>
-        <description>Västerås City, Västerås</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Västerås City, Västerås]]></description>
         <Point><coordinates>16.543837,59.611759,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Västerås Hälla]]></name>
-        <description>Arken Zoo Västerås Hälla, Västerås</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Västerås Hälla, Västerås]]></description>
         <Point><coordinates>16.611221,59.61187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Gävle Valbo]]></name>
-        <description>Arken Zoo Gävle Valbo, Gävle</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Gävle Valbo, Gävle]]></description>
         <Point><coordinates>16.988785,60.627422,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Nyköping]]></name>
-        <description>Arken Zoo Nyköping, Nyköping</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Nyköping, Nyköping]]></description>
         <Point><coordinates>17.018978,58.771378,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Enköping]]></name>
-        <description>Arken Zoo Enköping, Enköping</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Enköping, Enköping]]></description>
         <Point><coordinates>17.081545,59.652454,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Hudiksvall]]></name>
-        <description>Arken Zoo Hudiksvall, Hudiksvall</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Hudiksvall, Hudiksvall]]></description>
         <Point><coordinates>17.094391,61.73296,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Gävle Hemlingby]]></name>
-        <description>Arken Zoo Gävle Hemlingby, Gävle</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Gävle Hemlingby, Gävle]]></description>
         <Point><coordinates>17.14525,60.644981,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Sundsvall City]]></name>
-        <description>Arken Zoo Sundsvall City, Sundsvall</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Sundsvall City, Sundsvall]]></description>
         <Point><coordinates>17.304029,62.391918,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Sundsvall Birsta]]></name>
-        <description>Arken Zoo Sundsvall Birsta, Sundsvall</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Sundsvall Birsta, Sundsvall]]></description>
         <Point><coordinates>17.3326,62.440525,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Bålsta]]></name>
-        <description>Arken Zoo Bålsta, Bålsta</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Bålsta, Bålsta]]></description>
         <Point><coordinates>17.529018,59.567745,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Uppsala Stenhagen]]></name>
-        <description>Arken Zoo Uppsala Stenhagen, Uppsala</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Uppsala Stenhagen, Uppsala]]></description>
         <Point><coordinates>17.561914,59.849659,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Uppsala Gränby]]></name>
-        <description>Arken Zoo Uppsala Gränby, Uppsala</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Uppsala Gränby, Uppsala]]></description>
         <Point><coordinates>17.668789,59.886162,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Uppsala Boländerna]]></name>
-        <description>Arken Zoo Uppsala Boländerna, Uppsala</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Uppsala Boländerna, Uppsala]]></description>
         <Point><coordinates>17.68697,59.846561,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Järfälla Viksjö Centrum]]></name>
-        <description>Arken Zoo Järfälla Viksjö Centrum, Järfälla</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Järfälla Viksjö Centrum, Järfälla]]></description>
         <Point><coordinates>17.802414,59.411572,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Järfälla Barkarby]]></name>
-        <description>Arken Zoo Järfälla Barkarby, Järfälla</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Järfälla Barkarby, Järfälla]]></description>
         <Point><coordinates>17.836803,59.410065,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Stockholm Kungens Kurva]]></name>
-        <description>Arken Zoo Stockholm Kungens Kurva, Stockholm</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Stockholm Kungens Kurva, Stockholm]]></description>
         <Point><coordinates>17.922728,59.272549,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Stockholm Upplands Väsby]]></name>
-        <description>Arken Zoo Stockholm Upplands Väsby, Upplands Väsby</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Stockholm Upplands Väsby, Upplands Väsby]]></description>
         <Point><coordinates>17.92761,59.497475,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Sollentuna Häggvik]]></name>
-        <description>Arken Zoo Sollentuna Häggvik, Sollentuna</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Sollentuna Häggvik, Sollentuna]]></description>
         <Point><coordinates>17.931829,59.440601,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Stockholm Liljeholmen]]></name>
-        <description>Arken Zoo Stockholm Liljeholmen, Stockholm</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Stockholm Liljeholmen, Stockholm]]></description>
         <Point><coordinates>18.02277,59.309277,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Stockholm Kungsholmen]]></name>
-        <description>Arken Zoo Stockholm Kungsholmen, Stockholm</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Stockholm Kungsholmen, Stockholm]]></description>
         <Point><coordinates>18.035345,59.333912,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Stockholm Odenplan]]></name>
-        <description>Arken Zoo Stockholm Odenplan, Stockholm</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Stockholm Odenplan, Stockholm]]></description>
         <Point><coordinates>18.050159,59.34354,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Täby]]></name>
-        <description>Arken Zoo Täby, Täby</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Täby, Täby]]></description>
         <Point><coordinates>18.073658,59.446568,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Stockholm Arninge]]></name>
-        <description>Arken Zoo Stockholm Arninge, Stockholm</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Stockholm Arninge, Stockholm]]></description>
         <Point><coordinates>18.132885,59.461452,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Haninge Handen]]></name>
-        <description>Arken Zoo Haninge Handen, Haninge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Haninge Handen, Haninge]]></description>
         <Point><coordinates>18.143049,59.175701,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Haninge Port 73]]></name>
-        <description>Arken Zoo Haninge Port 73, Haninge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Haninge Port 73, Haninge]]></description>
         <Point><coordinates>18.149223,59.179241,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Nacka Forum]]></name>
-        <description>Arken Zoo Nacka Forum, Nacka</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Nacka Forum, Nacka]]></description>
         <Point><coordinates>18.16527,59.309982,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Värmdö Mölnvik]]></name>
-        <description>Arken Zoo Värmdö Mölnvik, Värmdö</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Värmdö Mölnvik, Värmdö]]></description>
         <Point><coordinates>18.420679,59.312832,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Norrtälje]]></name>
-        <description>Arken Zoo Norrtälje, Norrtälje</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Norrtälje, Norrtälje]]></description>
         <Point><coordinates>18.69206,59.750286,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Umeå Strömpilen]]></name>
-        <description>Arken Zoo Umeå Strömpilen, Umeå</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Umeå Strömpilen, Umeå]]></description>
         <Point><coordinates>20.303835,63.797752,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Skellefteå]]></name>
-        <description>Arken Zoo Skellefteå, Skellefteå</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Skellefteå, Skellefteå]]></description>
         <Point><coordinates>21.020943,64.764771,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Piteå BackCity]]></name>
-        <description>Arken Zoo Piteå BackCity, Piteå</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Piteå BackCity, Piteå]]></description>
         <Point><coordinates>21.445461,65.323196,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Arken Zoo Luleå Storheden]]></name>
-        <description>Arken Zoo Luleå Storheden, Luleå</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Arken Zoo Luleå Storheden, Luleå]]></description>
         <Point><coordinates>22.051954,65.616875,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
     </Folder>
   </Document>

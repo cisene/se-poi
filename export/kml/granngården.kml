@@ -1,685 +1,654 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Granngården</name>
+    <name><![CDATA[Granngården]]></name>
     <description/>
-    <Style id="icon-22-normal">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-22-highlight">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-22">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-22-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-22-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
+    <Style id="icon-22-normal"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>
+    <Style id="icon-22-highlight"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>1.1</scale></LabelStyle></Style>
+    <StyleMap id="icon-22"><Pair><key>normal</key><styleUrl>#icon-22-normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#icon-22-highlight</styleUrl></Pair></StyleMap>
     <Folder>
       <name><![CDATA[Granngården]]></name>
       <Placemark>
         <name><![CDATA[Granngården Tanumshede]]></name>
-        <description>Granngården Tanumshede, Tanumshede</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Tanumshede, Tanumshede]]></description>
         <Point><coordinates>11.328563,58.724438,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Uddevalla]]></name>
-        <description>Granngården Uddevalla, Uddevalla</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Uddevalla, Uddevalla]]></description>
         <Point><coordinates>11.826062,58.348937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Kungälv]]></name>
-        <description>Granngården Kungälv, Kungälv</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Kungälv, Kungälv]]></description>
         <Point><coordinates>11.983812,57.882562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Kungsbacka]]></name>
-        <description>Granngården Kungsbacka, Kungsbacka</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Kungsbacka, Kungsbacka]]></description>
         <Point><coordinates>12.080562,57.484313,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Varberg]]></name>
-        <description>Granngården Varberg, Varberg</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Varberg, Varberg]]></description>
         <Point><coordinates>12.283812,57.121688,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Trollhättan]]></name>
-        <description>Granngården Trollhättan, Trollhättan</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Trollhättan, Trollhättan]]></description>
         <Point><coordinates>12.311687,58.315812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Falkenberg]]></name>
-        <description>Granngården Falkenberg, Falkenberg</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Falkenberg, Falkenberg]]></description>
         <Point><coordinates>12.515812,56.933813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Alingsås]]></name>
-        <description>Granngården Alingsås, Alingsås</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Alingsås, Alingsås]]></description>
         <Point><coordinates>12.557562,57.940687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Arvika]]></name>
-        <description>Granngården Arvika, Arvika</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Arvika, Arvika]]></description>
         <Point><coordinates>12.592813,59.674187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Kinna]]></name>
-        <description>Granngården Kinna, Kinna</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Kinna, Kinna]]></description>
         <Point><coordinates>12.679688,57.497813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Åmål]]></name>
-        <description>Granngården Åmål, Åmål</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Åmål, Åmål]]></description>
         <Point><coordinates>12.681188,59.045313,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Helsingborg]]></name>
-        <description>Granngården Helsingborg, Helsingborg</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Helsingborg, Helsingborg]]></description>
         <Point><coordinates>12.765313,56.093187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Borås]]></name>
-        <description>Granngården Borås, Borås</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Borås, Borås]]></description>
         <Point><coordinates>12.885063,57.715688,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Ängelholm]]></name>
-        <description>Granngården Ängelholm, Ängelholm</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Ängelholm, Ängelholm]]></description>
         <Point><coordinates>12.894938,56.250062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Halmstad]]></name>
-        <description>Granngården Halmstad, Halmstad</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Halmstad, Halmstad]]></description>
         <Point><coordinates>12.895563,56.651187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Säffle]]></name>
-        <description>Granngården Säffle, Säffle</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Säffle, Säffle]]></description>
         <Point><coordinates>12.924563,59.135937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Vara]]></name>
-        <description>Granngården Vara, Vara</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Vara, Vara]]></description>
         <Point><coordinates>12.961313,58.269188,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Löddeköpinge]]></name>
-        <description>Granngården Löddeköpinge, Löddeköpinge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Löddeköpinge, Löddeköpinge]]></description>
         <Point><coordinates>12.995062,55.767937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Malmö]]></name>
-        <description>Granngården Malmö, Malmö</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Malmö, Malmö]]></description>
         <Point><coordinates>12.998437,55.550062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Torsby]]></name>
-        <description>Granngården Torsby, Torsby</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Torsby, Torsby]]></description>
         <Point><coordinates>13.009187,60.150688,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Sunne]]></name>
-        <description>Granngården Sunne, Sunne</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Sunne, Sunne]]></description>
         <Point><coordinates>13.160312,59.851687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Lidköping]]></name>
-        <description>Granngården Lidköping, Lidköping</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Lidköping, Lidköping]]></description>
         <Point><coordinates>13.164312,58.505562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Eslöv]]></name>
-        <description>Granngården Eslöv, Eslöv</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Eslöv, Eslöv]]></description>
         <Point><coordinates>13.310688,55.842687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Dalby]]></name>
-        <description>Granngården Dalby, Dalby</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Dalby, Dalby]]></description>
         <Point><coordinates>13.344687,55.660438,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Ulricehamn]]></name>
-        <description>Granngården Ulricehamn, Ulricehamn</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Ulricehamn, Ulricehamn]]></description>
         <Point><coordinates>13.410937,57.806438,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Karlstad]]></name>
-        <description>Granngården Karlstad, Karlstad</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Karlstad, Karlstad]]></description>
         <Point><coordinates>13.444688,59.373812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Ekshärad]]></name>
-        <description>Granngården Ekshärad, Ekshärad</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Ekshärad, Ekshärad]]></description>
         <Point><coordinates>13.499688,60.166187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Gislaved]]></name>
-        <description>Granngården Gislaved, Gislaved</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Gislaved, Gislaved]]></description>
         <Point><coordinates>13.545438,57.304812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Falköping]]></name>
-        <description>Granngården Falköping, Falköping</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Falköping, Falköping]]></description>
         <Point><coordinates>13.562188,58.150937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Sjöbo]]></name>
-        <description>Granngården Sjöbo, Sjöbo</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Sjöbo, Sjöbo]]></description>
         <Point><coordinates>13.684687,55.639063,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Mariestad]]></name>
-        <description>Granngården Mariestad, Mariestad</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Mariestad, Mariestad]]></description>
         <Point><coordinates>13.817687,58.694812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Ystad]]></name>
-        <description>Granngården Ystad, Ystad</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Ystad, Ystad]]></description>
         <Point><coordinates>13.836813,55.435938,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Skövde]]></name>
-        <description>Granngården Skövde, Skövde</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Skövde, Skövde]]></description>
         <Point><coordinates>13.866688,58.406188,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Ljungby]]></name>
-        <description>Granngården Ljungby, Ljungby</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Ljungby, Ljungby]]></description>
         <Point><coordinates>13.936687,56.828688,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Värnamo]]></name>
-        <description>Granngården Värnamo, Värnamo</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Värnamo, Värnamo]]></description>
         <Point><coordinates>14.062188,57.173687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Kristinehamn]]></name>
-        <description>Granngården Kristinehamn, Kristinehamn</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Kristinehamn, Kristinehamn]]></description>
         <Point><coordinates>14.099813,59.311688,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Kristianstad]]></name>
-        <description>Granngården Kristianstad, Kristianstad</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Kristianstad, Kristianstad]]></description>
         <Point><coordinates>14.115813,56.023812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Jönköping]]></name>
-        <description>Granngården Jönköping, Jönköping</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Jönköping, Jönköping]]></description>
         <Point><coordinates>14.169688,57.760312,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Hjo]]></name>
-        <description>Granngården Hjo, Hjo</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Hjo, Hjo]]></description>
         <Point><coordinates>14.288187,58.311437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården DalaJärna]]></name>
-        <description>Granngården DalaJärna, DalaJärna</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården DalaJärna, DalaJärna]]></description>
         <Point><coordinates>14.306062,60.543937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Myrviken]]></name>
-        <description>Granngården Myrviken, Myrviken</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Myrviken, Myrviken]]></description>
         <Point><coordinates>14.340687,62.998312,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Karlskoga]]></name>
-        <description>Granngården Karlskoga, Karlskoga</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Karlskoga, Karlskoga]]></description>
         <Point><coordinates>14.464437,59.320187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Mora]]></name>
-        <description>Granngården Mora, Mora</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Mora, Mora]]></description>
         <Point><coordinates>14.597437,61.007687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Östersund]]></name>
-        <description>Granngården Östersund, Östersund</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Östersund, Östersund]]></description>
         <Point><coordinates>14.653937,63.162063,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Sävsjö]]></name>
-        <description>Granngården Sävsjö, Sävsjö</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Sävsjö, Sävsjö]]></description>
         <Point><coordinates>14.663063,57.398562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Nässjö]]></name>
-        <description>Granngården Nässjö, Nässjö</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Nässjö, Nässjö]]></description>
         <Point><coordinates>14.693812,57.646812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Växjö]]></name>
-        <description>Granngården Växjö, Växjö</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Växjö, Växjö]]></description>
         <Point><coordinates>14.766938,56.877938,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Karlshamn]]></name>
-        <description>Granngården Karlshamn, Karlshamn</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Karlshamn, Karlshamn]]></description>
         <Point><coordinates>14.848937,56.178062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Fjugesta]]></name>
-        <description>Granngården Fjugesta, Fjugesta</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Fjugesta, Fjugesta]]></description>
         <Point><coordinates>14.881187,59.170187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Askersund]]></name>
-        <description>Granngården Askersund, Askersund</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Askersund, Askersund]]></description>
         <Point><coordinates>14.896688,58.898562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Tranås]]></name>
-        <description>Granngården Tranås, Tranås</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Tranås, Tranås]]></description>
         <Point><coordinates>14.967937,58.038187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Eksjö]]></name>
-        <description>Granngården Eksjö, Eksjö</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Eksjö, Eksjö]]></description>
         <Point><coordinates>14.995563,57.661812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Leksand]]></name>
-        <description>Granngården Leksand, Leksand</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Leksand, Leksand]]></description>
         <Point><coordinates>15.003312,60.745438,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Motala]]></name>
-        <description>Granngården Motala, Motala</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Motala, Motala]]></description>
         <Point><coordinates>15.061187,58.556313,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Vetlanda]]></name>
-        <description>Granngården Vetlanda, Vetlanda</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Vetlanda, Vetlanda]]></description>
         <Point><coordinates>15.065938,57.443687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Örebro]]></name>
-        <description>Granngården Örebro, Örebro</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Örebro, Örebro]]></description>
         <Point><coordinates>15.138438,59.212688,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Lindesberg]]></name>
-        <description>Granngården Lindesberg, Lindesberg</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Lindesberg, Lindesberg]]></description>
         <Point><coordinates>15.197188,59.598687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Smedjebacken]]></name>
-        <description>Granngården Smedjebacken, Smedjebacken</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Smedjebacken, Smedjebacken]]></description>
         <Point><coordinates>15.398687,60.136312,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Borlänge]]></name>
-        <description>Granngården Borlänge, Borlänge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Borlänge, Borlänge]]></description>
         <Point><coordinates>15.407063,60.477812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Karlskrona]]></name>
-        <description>Granngården Karlskrona, Karlskrona</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Karlskrona, Karlskrona]]></description>
         <Point><coordinates>15.637438,56.215812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Falun]]></name>
-        <description>Granngården Falun, Falun</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Falun, Falun]]></description>
         <Point><coordinates>15.663438,60.605812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Edsbyn]]></name>
-        <description>Granngården Edsbyn, Edsbyn</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Edsbyn, Edsbyn]]></description>
         <Point><coordinates>15.823812,61.373062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Vimmerby]]></name>
-        <description>Granngården Vimmerby, Vimmerby</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Vimmerby, Vimmerby]]></description>
         <Point><coordinates>15.844812,57.669313,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Arboga]]></name>
-        <description>Granngården Arboga, Arboga</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Arboga, Arboga]]></description>
         <Point><coordinates>15.850563,59.394937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Hedemora]]></name>
-        <description>Granngården Hedemora, Hedemora</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Hedemora, Hedemora]]></description>
         <Point><coordinates>15.990312,60.286938,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Ljusdal]]></name>
-        <description>Granngården Ljusdal, Ljusdal</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Ljusdal, Ljusdal]]></description>
         <Point><coordinates>16.091062,61.825938,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Norrköping]]></name>
-        <description>Granngården Norrköping, Norrköping</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Norrköping, Norrköping]]></description>
         <Point><coordinates>16.174813,58.616062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Krylbo]]></name>
-        <description>Granngården Krylbo, Krylbo</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Krylbo, Krylbo]]></description>
         <Point><coordinates>16.217562,60.124063,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Kalmar]]></name>
-        <description>Granngården Kalmar, Kalmar</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Kalmar, Kalmar]]></description>
         <Point><coordinates>16.319688,56.690938,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Hammarstrand]]></name>
-        <description>Granngården Hammarstrand, Hammarstrand</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Hammarstrand, Hammarstrand]]></description>
         <Point><coordinates>16.356437,63.098062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Bollnäs]]></name>
-        <description>Granngården Bollnäs, Bollnäs</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Bollnäs, Bollnäs]]></description>
         <Point><coordinates>16.398812,61.337063,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Oskarshamn]]></name>
-        <description>Granngården Oskarshamn, Oskarshamn</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Oskarshamn, Oskarshamn]]></description>
         <Point><coordinates>16.460813,57.254937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Eskilstuna]]></name>
-        <description>Granngården Eskilstuna, Eskilstuna</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Eskilstuna, Eskilstuna]]></description>
         <Point><coordinates>16.470937,59.396812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Kungsgården]]></name>
-        <description>Granngården Kungsgården, Kungsgården</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Kungsgården, Kungsgården]]></description>
         <Point><coordinates>16.586937,60.604563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Västervik]]></name>
-        <description>Granngården Västervik, Västervik</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Västervik, Västervik]]></description>
         <Point><coordinates>16.610687,57.759687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Sala]]></name>
-        <description>Granngården Sala, Sala</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Sala, Sala]]></description>
         <Point><coordinates>16.620188,59.934188,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Västerås]]></name>
-        <description>Granngården Västerås, Västerås</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Västerås, Västerås]]></description>
         <Point><coordinates>16.623562,59.608187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Vilhelmina]]></name>
-        <description>Granngården Vilhelmina, Vilhelmina</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Vilhelmina, Vilhelmina]]></description>
         <Point><coordinates>16.655062,64.622687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Nyköping]]></name>
-        <description>Granngården Nyköping, Nyköping</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Nyköping, Nyköping]]></description>
         <Point><coordinates>16.973813,58.747687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Söderhamn]]></name>
-        <description>Granngården Söderhamn, Söderhamn</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Söderhamn, Söderhamn]]></description>
         <Point><coordinates>17.034438,61.302688,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Enköping]]></name>
-        <description>Granngården Enköping, Enköping</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Enköping, Enköping]]></description>
         <Point><coordinates>17.091062,59.650437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Hudiksvall]]></name>
-        <description>Granngården Hudiksvall, Hudiksvall</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Hudiksvall, Hudiksvall]]></description>
         <Point><coordinates>17.112687,61.745937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Gävle]]></name>
-        <description>Granngården Gävle, Gävle</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Gävle, Gävle]]></description>
         <Point><coordinates>17.177188,60.662312,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Gnesta]]></name>
-        <description>Granngården Gnesta, Gnesta</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Gnesta, Gnesta]]></description>
         <Point><coordinates>17.303187,59.049563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Sollefteå]]></name>
-        <description>Granngården Sollefteå, Sollefteå</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Sollefteå, Sollefteå]]></description>
         <Point><coordinates>17.320188,63.157937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Sundsvall]]></name>
-        <description>Granngården Sundsvall, Sundsvall</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Sundsvall, Sundsvall]]></description>
         <Point><coordinates>17.327937,62.441562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Tierp]]></name>
-        <description>Granngården Tierp, Tierp</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Tierp, Tierp]]></description>
         <Point><coordinates>17.524563,60.342062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Södertälje]]></name>
-        <description>Granngården Södertälje, Södertälje</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Södertälje, Södertälje]]></description>
         <Point><coordinates>17.642562,59.164313,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Uppsala]]></name>
-        <description>Granngården Uppsala, Uppsala</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Uppsala, Uppsala]]></description>
         <Point><coordinates>17.682812,59.847062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Sorunda]]></name>
-        <description>Granngården Sorunda, Sorunda</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Sorunda, Sorunda]]></description>
         <Point><coordinates>17.797812,58.994187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Alunda]]></name>
-        <description>Granngården Alunda, Alunda</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Alunda, Alunda]]></description>
         <Point><coordinates>18.090313,60.076313,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Arninge]]></name>
-        <description>Granngården Arninge, Arninge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Arninge, Arninge]]></description>
         <Point><coordinates>18.130938,59.462937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Haninge]]></name>
-        <description>Granngården Haninge, Haninge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Haninge, Haninge]]></description>
         <Point><coordinates>18.144188,59.175937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Visby]]></name>
-        <description>Granngården Visby, Visby</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Visby, Visby]]></description>
         <Point><coordinates>18.277563,57.627562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Östhammar]]></name>
-        <description>Granngården Östhammar, Östhammar</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Östhammar, Östhammar]]></description>
         <Point><coordinates>18.361688,60.260813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Rimbo]]></name>
-        <description>Granngården Rimbo, Rimbo</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Rimbo, Rimbo]]></description>
         <Point><coordinates>18.373688,59.742062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Hemse]]></name>
-        <description>Granngården Hemse, Hemse</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Hemse, Hemse]]></description>
         <Point><coordinates>18.382062,57.236937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Värmdö]]></name>
-        <description>Granngården Värmdö, Värmdö</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Värmdö, Värmdö]]></description>
         <Point><coordinates>18.422187,59.312438,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Norrtälje]]></name>
-        <description>Granngården Norrtälje, Norrtälje</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Norrtälje, Norrtälje]]></description>
         <Point><coordinates>18.689437,59.767562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Lycksele]]></name>
-        <description>Granngården Lycksele, Lycksele</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Lycksele, Lycksele]]></description>
         <Point><coordinates>18.698437,64.585062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Örnsköldsvik]]></name>
-        <description>Granngården Örnsköldsvik, Örnsköldsvik</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Örnsköldsvik, Örnsköldsvik]]></description>
         <Point><coordinates>18.750563,63.308312,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Umeå]]></name>
-        <description>Granngården Umeå, Umeå</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Umeå, Umeå]]></description>
         <Point><coordinates>20.244813,63.836188,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Skellefteå]]></name>
-        <description>Granngården Skellefteå, Skellefteå</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Skellefteå, Skellefteå]]></description>
         <Point><coordinates>20.921687,64.757813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Piteå]]></name>
-        <description>Granngården Piteå, Piteå</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Piteå, Piteå]]></description>
         <Point><coordinates>21.445313,65.318313,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Boden]]></name>
-        <description>Granngården Boden, Boden</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Boden, Boden]]></description>
         <Point><coordinates>21.707937,65.819688,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Luleå]]></name>
-        <description>Granngården Luleå, Luleå</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Luleå, Luleå]]></description>
         <Point><coordinates>22.051313,65.618188,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Granngården Kalix]]></name>
-        <description>Granngården Kalix, Kalix</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Granngården Kalix, Kalix]]></description>
         <Point><coordinates>23.140437,65.863062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
     </Folder>
   </Document>

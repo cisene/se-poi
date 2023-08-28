@@ -50,51 +50,60 @@ def renderKML(data):
   elems.append('  <Document>')
 
   # Declare name
-  elems.append(f"    <name>{data['meta']['name']}</name>")
+  elems.append(f"    <name><![CDATA[{data['meta']['name']}]]></name>")
   
   # Declare empty description
   elems.append(f"    <description/>")
 
   # Declare static style icon-22-normal
-  elems.append(f"    <Style id=\"icon-22-normal\">")
-  elems.append(f"      <IconStyle>")
-  elems.append(f"        <scale>1.1</scale>")
-  elems.append(f"        <Icon>")
-  elems.append(f"          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>")
-  elems.append(f"        </Icon>")
-  elems.append(f"        <hotSpot x=\"16\" xunits=\"pixels\" y=\"32\" yunits=\"insetPixels\"/>")
-  elems.append(f"      </IconStyle>")
-  elems.append(f"      <LabelStyle>")
-  elems.append(f"        <scale>0</scale>")
-  elems.append(f"      </LabelStyle>")
-  elems.append(f"    </Style>")
+  #elems.append(f"    <Style id=\"icon-22-normal\">")
+  #elems.append(f"      <IconStyle>")
+  #elems.append(f"        <scale>1.1</scale>")
+  #elems.append(f"        <Icon>")
+  #elems.append(f"          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>")
+  #elems.append(f"        </Icon>")
+  #elems.append(f"        <hotSpot x=\"16\" xunits=\"pixels\" y=\"32\" yunits=\"insetPixels\"/>")
+  #elems.append(f"      </IconStyle>")
+  #elems.append(f"      <LabelStyle>")
+  #elems.append(f"        <scale>0</scale>")
+  #elems.append(f"      </LabelStyle>")
+  #elems.append(f"    </Style>")
+
+  elems.append(f"    <Style id=\"icon-22-normal\"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x=\"16\" xunits=\"pixels\" y=\"32\" yunits=\"insetPixels\"/></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>")
 
   # Declare static style icon-22-highlight
-  elems.append(f"    <Style id=\"icon-22-highlight\">")
-  elems.append(f"      <IconStyle>")
-  elems.append(f"        <scale>1.1</scale>")
-  elems.append(f"        <Icon>")
-  elems.append(f"          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>")
-  elems.append(f"        </Icon>")
-  elems.append(f"        <hotSpot x=\"16\" xunits=\"pixels\" y=\"32\" yunits=\"insetPixels\"/>")
-  elems.append(f"      </IconStyle>")
-  elems.append(f"      <LabelStyle>")
-  elems.append(f"        <scale>1.1</scale>")
-  elems.append(f"      </LabelStyle>")
-  elems.append(f"    </Style>")
+  #elems.append(f"    <Style id=\"icon-22-highlight\">")
+  #elems.append(f"      <IconStyle>")
+  #elems.append(f"        <scale>1.1</scale>")
+  #elems.append(f"        <Icon>")
+  #elems.append(f"          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>")
+  #elems.append(f"        </Icon>")
+  #elems.append(f"        <hotSpot x=\"16\" xunits=\"pixels\" y=\"32\" yunits=\"insetPixels\"/>")
+  #elems.append(f"      </IconStyle>")
+  #elems.append(f"      <LabelStyle>")
+  #elems.append(f"        <scale>1.1</scale>")
+  #elems.append(f"      </LabelStyle>")
+  #elems.append(f"    </Style>")
+
+  elems.append(f"    <Style id=\"icon-22-highlight\"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x=\"16\" xunits=\"pixels\" y=\"32\" yunits=\"insetPixels\"/></IconStyle><LabelStyle><scale>1.1</scale></LabelStyle></Style>")
+
 
   # Declare static stylemap icon-22
-  elems.append(f"    <StyleMap id=\"icon-22\">")
-  elems.append(f"      <Pair>")
-  elems.append(f"        <key>normal</key>")
-  elems.append(f"        <styleUrl>#icon-22-normal</styleUrl>")
-  elems.append(f"      </Pair>")
-  elems.append(f"      <Pair>")
-  elems.append(f"        <key>highlight</key>")
-  elems.append(f"        <styleUrl>#icon-22-highlight</styleUrl>")
-  elems.append(f"      </Pair>")
-  elems.append(f"    </StyleMap>")
+  #elems.append(f"    <StyleMap id=\"icon-22\">")
+  #elems.append(f"      <Pair>")
+  #elems.append(f"        <key>normal</key>")
+  #elems.append(f"        <styleUrl>#icon-22-normal</styleUrl>")
+  #elems.append(f"      </Pair>")
+  #elems.append(f"      <Pair>")
+  #elems.append(f"        <key>highlight</key>")
+  #elems.append(f"        <styleUrl>#icon-22-highlight</styleUrl>")
+  #elems.append(f"      </Pair>")
+  #elems.append(f"    </StyleMap>")
 
+  elems.append(f"    <StyleMap id=\"icon-22\"><Pair><key>normal</key><styleUrl>#icon-22-normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#icon-22-highlight</styleUrl></Pair></StyleMap>")
+
+
+  # Delcare Folder
   elems.append(f"    <Folder>")
 
   elems.append(f"      <name><![CDATA[{data['meta']['name']}]]></name>")
@@ -105,13 +114,12 @@ def renderKML(data):
     elems.append(f"        <name><![CDATA[{loc['location']}]]></name>")
 
     if "country" in loc:
-      elems.append(f"        <description>{loc['location']}, {loc['city']}, {loc['country']}</description>")
+      elems.append(f"        <description><![CDATA[{loc['location']}, {loc['city']}, {loc['country']}]]></description>")
     else:
-      elems.append(f"        <description>{loc['location']}, {loc['city']}</description>")
-
-    elems.append(f"        <styleUrl>#icon-22</styleUrl>")
+      elems.append(f"        <description><![CDATA[{loc['location']}, {loc['city']}]]></description>")
 
     elems.append(f"        <Point><coordinates>{loc['longitude']},{loc['latitude']},0</coordinates></Point>")
+    elems.append(f"        <styleUrl>#icon-22</styleUrl>")
 
     elems.append('      </Placemark>')
 

@@ -1,253 +1,222 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Teknikmagasinet</name>
+    <name><![CDATA[Teknikmagasinet]]></name>
     <description/>
-    <Style id="icon-22-normal">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-22-highlight">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-22">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-22-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-22-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
+    <Style id="icon-22-normal"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>
+    <Style id="icon-22-highlight"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>1.1</scale></LabelStyle></Style>
+    <StyleMap id="icon-22"><Pair><key>normal</key><styleUrl>#icon-22-normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#icon-22-highlight</styleUrl></Pair></StyleMap>
     <Folder>
       <name><![CDATA[Teknikmagasinet]]></name>
       <Placemark>
         <name><![CDATA[Teknikmagasinet Uddevalla - Torp Köpcentrum]]></name>
-        <description>Teknikmagasinet Uddevalla - Torp Köpcentrum, Uddevalla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Teknikmagasinet Uddevalla - Torp Köpcentrum, Uddevalla, Sverige]]></description>
         <Point><coordinates>11.80927,58.35383,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Teknikmagasinet Göteborg - Frölunda Torg]]></name>
-        <description>Teknikmagasinet Göteborg - Frölunda Torg, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Teknikmagasinet Göteborg - Frölunda Torg, Göteborg, Sverige]]></description>
         <Point><coordinates>11.911392,57.652006,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Teknikmagasinet Göteborg - Nordstan]]></name>
-        <description>Teknikmagasinet Göteborg - Nordstan, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Teknikmagasinet Göteborg - Nordstan, Göteborg, Sverige]]></description>
         <Point><coordinates>11.968861,57.709636,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Teknikmagasinet Göteborg - Arkaden]]></name>
-        <description>Teknikmagasinet Göteborg - Arkaden, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Teknikmagasinet Göteborg - Arkaden, Göteborg, Sverige]]></description>
         <Point><coordinates>11.96889,57.70664,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Teknikmagasinet Göteborg - Centralstation]]></name>
-        <description>Teknikmagasinet Göteborg - Centralstation, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Teknikmagasinet Göteborg - Centralstation, Göteborg, Sverige]]></description>
         <Point><coordinates>11.972892,57.708768,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Teknikmagasinet Kungsbacka - Kungsmässan]]></name>
-        <description>Teknikmagasinet Kungsbacka - Kungsmässan, Kungsbacka, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Teknikmagasinet Kungsbacka - Kungsmässan, Kungsbacka, Sverige]]></description>
         <Point><coordinates>12.074193,57.492691,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Teknikmagasinet Helsingborg - Väla Köpcentrum]]></name>
-        <description>Teknikmagasinet Helsingborg - Väla Köpcentrum, Helsingborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Teknikmagasinet Helsingborg - Väla Köpcentrum, Helsingborg, Sverige]]></description>
         <Point><coordinates>12.755816,56.090974,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Teknikmagasinet Halmstad - Hallarna]]></name>
-        <description>Teknikmagasinet Halmstad - Hallarna, Halmstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Teknikmagasinet Halmstad - Hallarna, Halmstad, Sverige]]></description>
         <Point><coordinates>12.909397,56.65582,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Teknikmagasinet Malmö - Emporia]]></name>
-        <description>Teknikmagasinet Malmö - Emporia, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Teknikmagasinet Malmö - Emporia, Malmö, Sverige]]></description>
         <Point><coordinates>12.973311,55.565376,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Teknikmagasinet Lund - City, Lilla Fiskaregatan 12]]></name>
-        <description>Teknikmagasinet Lund - City, Lilla Fiskaregatan 12, Lund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Teknikmagasinet Lund - City, Lilla Fiskaregatan 12, Lund, Sverige]]></description>
         <Point><coordinates>13.18981,55.703443,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Teknikmagasinet Karlstad - Bergvik]]></name>
-        <description>Teknikmagasinet Karlstad - Bergvik, Karlstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Teknikmagasinet Karlstad - Bergvik, Karlstad, Sverige]]></description>
         <Point><coordinates>13.427401,59.376165,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Teknikmagasinet Jönköping - Asecs]]></name>
-        <description>Teknikmagasinet Jönköping - Asecs, Jönköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Teknikmagasinet Jönköping - Asecs, Jönköping, Sverige]]></description>
         <Point><coordinates>14.203973,57.774093,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Teknikmagasinet Växjö - Grand Samarkand]]></name>
-        <description>Teknikmagasinet Växjö - Grand Samarkand, Växjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Teknikmagasinet Växjö - Grand Samarkand, Växjö, Sverige]]></description>
         <Point><coordinates>14.765172,56.884827,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Teknikmagasinet Örebro - Marieberg]]></name>
-        <description>Teknikmagasinet Örebro - Marieberg, Örebro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Teknikmagasinet Örebro - Marieberg, Örebro, Sverige]]></description>
         <Point><coordinates>15.138056,59.2175,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Teknikmagasinet Linköping - i-Huset]]></name>
-        <description>Teknikmagasinet Linköping - i-Huset, Linköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Teknikmagasinet Linköping - i-Huset, Linköping, Sverige]]></description>
         <Point><coordinates>15.586209,58.433043,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Teknikmagasinet Norrköping - Ingelsta Shopping]]></name>
-        <description>Teknikmagasinet Norrköping - Ingelsta Shopping, Norrköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Teknikmagasinet Norrköping - Ingelsta Shopping, Norrköping, Sverige]]></description>
         <Point><coordinates>16.15647,58.618554,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Teknikmagasinet Kalmar - Giraffen]]></name>
-        <description>Teknikmagasinet Kalmar - Giraffen, Kalmar, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Teknikmagasinet Kalmar - Giraffen, Kalmar, Sverige]]></description>
         <Point><coordinates>16.336251,56.670787,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Teknikmagasinet Eskilstuna - Tuna Park]]></name>
-        <description>Teknikmagasinet Eskilstuna - Tuna Park, Eskilstuna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Teknikmagasinet Eskilstuna - Tuna Park, Eskilstuna, Sverige]]></description>
         <Point><coordinates>16.46925,59.37157,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Teknikmagasinet Gävle - Nian]]></name>
-        <description>Teknikmagasinet Gävle - Nian, Gävle, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Teknikmagasinet Gävle - Nian, Gävle, Sverige]]></description>
         <Point><coordinates>17.140936,60.674185,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Teknikmagasinet Sundsvall - Birsta City]]></name>
-        <description>Teknikmagasinet Sundsvall - Birsta City, Sundsvall, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Teknikmagasinet Sundsvall - Birsta City, Sundsvall, Sverige]]></description>
         <Point><coordinates>17.335063,62.447344,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Teknikmagasinet Uppsala - City]]></name>
-        <description>Teknikmagasinet Uppsala - City, Uppsala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Teknikmagasinet Uppsala - City, Uppsala, Sverige]]></description>
         <Point><coordinates>17.639405,59.858237,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Teknikmagasinet Uppsala - Gränbystaden]]></name>
-        <description>Teknikmagasinet Uppsala - Gränbystaden, Uppsala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Teknikmagasinet Uppsala - Gränbystaden, Uppsala, Sverige]]></description>
         <Point><coordinates>17.673264,59.876902,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Teknikmagasinet Stockholm - Sollentuna Centrum]]></name>
-        <description>Teknikmagasinet Stockholm - Sollentuna Centrum, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Teknikmagasinet Stockholm - Sollentuna Centrum, Stockholm, Sverige]]></description>
         <Point><coordinates>17.949823,59.428204,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Teknikmagasinet Stockholm - Huddinge Centrum]]></name>
-        <description>Teknikmagasinet Stockholm - Huddinge Centrum, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Teknikmagasinet Stockholm - Huddinge Centrum, Stockholm, Sverige]]></description>
         <Point><coordinates>17.981334,59.235632,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Teknikmagasinet Stockholm - Westfield Mall of Scandinavia]]></name>
-        <description>Teknikmagasinet Stockholm - Westfield Mall of Scandinavia, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Teknikmagasinet Stockholm - Westfield Mall of Scandinavia, Stockholm, Sverige]]></description>
         <Point><coordinates>18.004368,59.370146,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Teknikmagasinet Stockholm - Liljeholmstorget, Liljeholmen]]></name>
-        <description>Teknikmagasinet Stockholm - Liljeholmstorget, Liljeholmen, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Teknikmagasinet Stockholm - Liljeholmstorget, Liljeholmen, Stockholm, Sverige]]></description>
         <Point><coordinates>18.022788,59.309475,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Teknikmagasinet Stockholm - Västermalmsgallerian]]></name>
-        <description>Teknikmagasinet Stockholm - Västermalmsgallerian, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Teknikmagasinet Stockholm - Västermalmsgallerian, Stockholm, Sverige]]></description>
         <Point><coordinates>18.03193,59.335059,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Teknikmagasinet Stockholm - Mörby Centrum]]></name>
-        <description>Teknikmagasinet Stockholm - Mörby Centrum, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Teknikmagasinet Stockholm - Mörby Centrum, Stockholm, Sverige]]></description>
         <Point><coordinates>18.03711,59.397619,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Teknikmagasinet Stockholm - City, Centralstationen]]></name>
-        <description>Teknikmagasinet Stockholm - City, Centralstationen, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Teknikmagasinet Stockholm - City, Centralstationen, Stockholm, Sverige]]></description>
         <Point><coordinates>18.057493,59.330532,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Teknikmagasinet Stockholm - Täby Centrum]]></name>
-        <description>Teknikmagasinet Stockholm - Täby Centrum, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Teknikmagasinet Stockholm - Täby Centrum, Stockholm, Sverige]]></description>
         <Point><coordinates>18.072091,59.44399,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Teknikmagasinet Stockholm - Ringen]]></name>
-        <description>Teknikmagasinet Stockholm - Ringen, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Teknikmagasinet Stockholm - Ringen, Stockholm, Sverige]]></description>
         <Point><coordinates>18.075932,59.308194,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Teknikmagasinet Stockholm - Globen City]]></name>
-        <description>Teknikmagasinet Stockholm - Globen City, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Teknikmagasinet Stockholm - Globen City, Stockholm, Sverige]]></description>
         <Point><coordinates>18.081536,59.29287,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Teknikmagasinet Stockholm - Fältöversten]]></name>
-        <description>Teknikmagasinet Stockholm - Fältöversten, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Teknikmagasinet Stockholm - Fältöversten, Stockholm, Sverige]]></description>
         <Point><coordinates>18.091358,59.339183,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Teknikmagasinet Stockholm - Farsta Centrum]]></name>
-        <description>Teknikmagasinet Stockholm - Farsta Centrum, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Teknikmagasinet Stockholm - Farsta Centrum, Stockholm, Sverige]]></description>
         <Point><coordinates>18.091404,59.242985,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Teknikmagasinet Visby]]></name>
-        <description>Teknikmagasinet Visby, Visby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Teknikmagasinet Visby, Visby, Sverige]]></description>
         <Point><coordinates>18.300795,57.637647,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
     </Folder>
   </Document>

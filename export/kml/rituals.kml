@@ -1,505 +1,474 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Rituals</name>
+    <name><![CDATA[Rituals]]></name>
     <description/>
-    <Style id="icon-22-normal">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-22-highlight">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-22">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-22-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-22-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
+    <Style id="icon-22-normal"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>
+    <Style id="icon-22-highlight"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>1.1</scale></LabelStyle></Style>
+    <StyleMap id="icon-22"><Pair><key>normal</key><styleUrl>#icon-22-normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#icon-22-highlight</styleUrl></Pair></StyleMap>
     <Folder>
       <name><![CDATA[Rituals]]></name>
       <Placemark>
         <name><![CDATA[Rituals Strömstad Nordby]]></name>
-        <description>Rituals Strömstad Nordby, Strömstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Strömstad Nordby, Strömstad, Sverige]]></description>
         <Point><coordinates>11.207734,59.064087,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Uddevalla Torp Köpcentrum]]></name>
-        <description>Rituals Uddevalla Torp Köpcentrum, Uddevalla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Uddevalla Torp Köpcentrum, Uddevalla, Sverige]]></description>
         <Point><coordinates>11.810437,58.354312,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Göteborg Frölunda Torg]]></name>
-        <description>Rituals Göteborg Frölunda Torg, Västra Frölunda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Göteborg Frölunda Torg, Västra Frölunda, Sverige]]></description>
         <Point><coordinates>11.911437,57.651562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Göteborg Kungsgatan]]></name>
-        <description>Rituals Göteborg Kungsgatan, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Göteborg Kungsgatan, Göteborg, Sverige]]></description>
         <Point><coordinates>11.967562,57.704563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Kungälv Kongahälla Center]]></name>
-        <description>Rituals Kungälv Kongahälla Center, Kungälv, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Kungälv Kongahälla Center, Kungälv, Sverige]]></description>
         <Point><coordinates>11.968359,57.872563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Göteborg Nordstan]]></name>
-        <description>Rituals Göteborg Nordstan, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Göteborg Nordstan, Göteborg, Sverige]]></description>
         <Point><coordinates>11.969563,57.708562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Mölndal Galleria]]></name>
-        <description>Rituals Mölndal Galleria, Möndal, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Mölndal Galleria, Möndal, Sverige]]></description>
         <Point><coordinates>12.013938,57.655187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Kungsbacka Kungsmässan]]></name>
-        <description>Rituals Kungsbacka Kungsmässan, Kungsbacka, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Kungsbacka Kungsmässan, Kungsbacka, Sverige]]></description>
         <Point><coordinates>12.074484,57.492688,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Göteborg Allum]]></name>
-        <description>Rituals Göteborg Allum, Partille, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Göteborg Allum, Partille, Sverige]]></description>
         <Point><coordinates>12.105734,57.738088,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Varberg Galleria Trädgården]]></name>
-        <description>Rituals Varberg Galleria Trädgården, Varberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Varberg Galleria Trädgården, Varberg, Sverige]]></description>
         <Point><coordinates>12.248437,57.106188,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Trollhättan SIBA-Huset]]></name>
-        <description>Rituals Trollhättan SIBA-Huset, Trollhättan, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Trollhättan SIBA-Huset, Trollhättan, Sverige]]></description>
         <Point><coordinates>12.306188,58.312438,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Helsingborg Kullagatan]]></name>
-        <description>Rituals Helsingborg Kullagatan, Helsingborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Helsingborg Kullagatan, Helsingborg, Sverige]]></description>
         <Point><coordinates>12.694187,56.047687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Ödåkra Väla Centrum]]></name>
-        <description>Rituals Ödåkra Väla Centrum, Ödåkra, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Ödåkra Väla Centrum, Ödåkra, Sverige]]></description>
         <Point><coordinates>12.756937,56.091313,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Halmstad Brogatan]]></name>
-        <description>Rituals Halmstad Brogatan, Halmstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Halmstad Brogatan, Halmstad, Sverige]]></description>
         <Point><coordinates>12.856438,56.674563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Halmstad Hallarna]]></name>
-        <description>Rituals Halmstad Hallarna, Halmstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Halmstad Hallarna, Halmstad, Sverige]]></description>
         <Point><coordinates>12.908687,56.656188,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Borås Pallas Shopping]]></name>
-        <description>Rituals Borås Pallas Shopping, Borås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Borås Pallas Shopping, Borås, Sverige]]></description>
         <Point><coordinates>12.939063,57.719938,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Malmö Emporia]]></name>
-        <description>Rituals Malmö Emporia, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Malmö Emporia, Malmö, Sverige]]></description>
         <Point><coordinates>12.973063,55.564812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Löddeköpinge Center Syd]]></name>
-        <description>Rituals Löddeköpinge Center Syd, Löddeköpinge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Löddeköpinge Center Syd, Löddeköpinge, Sverige]]></description>
         <Point><coordinates>12.989062,55.769437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Malmö Triangeln]]></name>
-        <description>Rituals Malmö Triangeln, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Malmö Triangeln, Malmö, Sverige]]></description>
         <Point><coordinates>13.002063,55.595687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Malmö Mobilia Galleria]]></name>
-        <description>Rituals Malmö Mobilia Galleria, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Malmö Mobilia Galleria, Malmö, Sverige]]></description>
         <Point><coordinates>13.004359,55.582138,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Nova Lund]]></name>
-        <description>Rituals Nova Lund, Lund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Nova Lund, Lund, Sverige]]></description>
         <Point><coordinates>13.159922,55.713962,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Lund City]]></name>
-        <description>Rituals Lund City, Lund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Lund City, Lund, Sverige]]></description>
         <Point><coordinates>13.190516,55.703137,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Karlstad Bergvik Galleria]]></name>
-        <description>Rituals Karlstad Bergvik Galleria, Karlstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Karlstad Bergvik Galleria, Karlstad, Sverige]]></description>
         <Point><coordinates>13.426922,59.376013,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Karlstad Mitt i City]]></name>
-        <description>Rituals Karlstad Mitt i City, Karlstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Karlstad Mitt i City, Karlstad, Sverige]]></description>
         <Point><coordinates>13.500547,59.379837,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Skövde Commerce]]></name>
-        <description>Rituals Skövde Commerce, Skövde, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Skövde Commerce, Skövde, Sverige]]></description>
         <Point><coordinates>13.844812,58.390563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Kristianstad Boulevard]]></name>
-        <description>Rituals Kristianstad Boulevard, Kristianstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Kristianstad Boulevard, Kristianstad, Sverige]]></description>
         <Point><coordinates>14.158687,56.030687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Jönköping Östra Storgatan]]></name>
-        <description>Rituals Jönköping Östra Storgatan, Jönköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Jönköping Östra Storgatan, Jönköping, Sverige]]></description>
         <Point><coordinates>14.172313,57.782562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Jönköping Asecs]]></name>
-        <description>Rituals Jönköping Asecs, Jönköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Jönköping Asecs, Jönköping, Sverige]]></description>
         <Point><coordinates>14.203672,57.773688,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Kristianstad C4]]></name>
-        <description>Rituals Kristianstad C4, Kristianstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Kristianstad C4, Kristianstad, Sverige]]></description>
         <Point><coordinates>14.206188,56.025937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Östersund Kärnan]]></name>
-        <description>Rituals Östersund Kärnan, Östersund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Östersund Kärnan, Östersund, Sverige]]></description>
         <Point><coordinates>14.638312,63.176313,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Växjö Grand Samarkand]]></name>
-        <description>Rituals Växjö Grand Samarkand, Växjö Grand Samarkand, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Växjö Grand Samarkand, Växjö Grand Samarkand, Sverige]]></description>
         <Point><coordinates>14.766312,56.884812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Växjö Tegnér]]></name>
-        <description>Rituals Växjö Tegnér, Växjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Växjö Tegnér, Växjö, Sverige]]></description>
         <Point><coordinates>14.800562,56.879312,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Örebro Marieberg]]></name>
-        <description>Rituals Örebro Marieberg, Örebro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Örebro Marieberg, Örebro, Sverige]]></description>
         <Point><coordinates>15.137438,59.217312,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Örebro Vågen]]></name>
-        <description>Rituals Örebro Vågen, Örebro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Örebro Vågen, Örebro, Sverige]]></description>
         <Point><coordinates>15.210672,59.269913,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Borlänge Kupolen]]></name>
-        <description>Rituals Borlänge Kupolen, Borlänge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Borlänge Kupolen, Borlänge, Sverige]]></description>
         <Point><coordinates>15.418188,60.484313,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Linköping I-Huset]]></name>
-        <description>Rituals Linköping I-Huset, Linköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Linköping I-Huset, Linköping, Sverige]]></description>
         <Point><coordinates>15.585453,58.433537,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Karlskrona Ronnebygatan]]></name>
-        <description>Rituals Karlskrona Ronnebygatan, Karlskrona, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Karlskrona Ronnebygatan, Karlskrona, Sverige]]></description>
         <Point><coordinates>15.589562,56.162063,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Linköping Tanneforsgatan]]></name>
-        <description>Rituals Linköping Tanneforsgatan, Linköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Linköping Tanneforsgatan, Linköping, Sverige]]></description>
         <Point><coordinates>15.623563,58.410187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Falun Bergströms Galleria]]></name>
-        <description>Rituals Falun Bergströms Galleria, Falun, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Falun Bergströms Galleria, Falun, Sverige]]></description>
         <Point><coordinates>15.632062,60.605563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Norrköping Ingelsta]]></name>
-        <description>Rituals Norrköping Ingelsta, Norrköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Norrköping Ingelsta, Norrköping, Sverige]]></description>
         <Point><coordinates>16.156562,58.618688,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Norrköping Linden]]></name>
-        <description>Rituals Norrköping Linden, Norrköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Norrköping Linden, Norrköping, Sverige]]></description>
         <Point><coordinates>16.190062,58.587937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Kalmar Baronen]]></name>
-        <description>Rituals Kalmar Baronen, Kalmar, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Kalmar Baronen, Kalmar, Sverige]]></description>
         <Point><coordinates>16.365172,56.660663,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Västerås Erikslund]]></name>
-        <description>Rituals Västerås Erikslund, Västerås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Västerås Erikslund, Västerås, Sverige]]></description>
         <Point><coordinates>16.454062,59.609562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Eskilstuna Tunapark]]></name>
-        <description>Rituals Eskilstuna Tunapark, Eskilstuna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Eskilstuna Tunapark, Eskilstuna, Sverige]]></description>
         <Point><coordinates>16.468812,59.371562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Västerås Igor Gallerian]]></name>
-        <description>Rituals Västerås Igor Gallerian, Västerås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Västerås Igor Gallerian, Västerås, Sverige]]></description>
         <Point><coordinates>16.543984,59.611537,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Gävle Valbo Köpcentrum]]></name>
-        <description>Rituals Gävle Valbo Köpcentrum, Valbo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Gävle Valbo Köpcentrum, Valbo, Sverige]]></description>
         <Point><coordinates>16.993172,60.633687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Nyköping Västerport]]></name>
-        <description>Rituals Nyköping Västerport, Nyköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Nyköping Västerport, Nyköping, Sverige]]></description>
         <Point><coordinates>17.003813,58.751687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Gävle Gallerian Nian]]></name>
-        <description>Rituals Gävle Gallerian Nian, Gävle, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Gävle Gallerian Nian, Gävle, Sverige]]></description>
         <Point><coordinates>17.139812,60.673938,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Sundsvall Birsta]]></name>
-        <description>Rituals Sundsvall Birsta, Sundsvall, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Sundsvall Birsta, Sundsvall, Sverige]]></description>
         <Point><coordinates>17.335938,62.446938,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Södertälje Kringlan]]></name>
-        <description>Rituals Södertälje Kringlan, Södertälje, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Södertälje Kringlan, Södertälje, Sverige]]></description>
         <Point><coordinates>17.628188,59.195937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Uppsala St Per Gallerian]]></name>
-        <description>Rituals Uppsala St Per Gallerian, Uppsala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Uppsala St Per Gallerian, Uppsala, Sverige]]></description>
         <Point><coordinates>17.636437,59.860062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Uppsala Forumgallerian]]></name>
-        <description>Rituals Uppsala Forumgallerian, Uppsala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Uppsala Forumgallerian, Uppsala, Sverige]]></description>
         <Point><coordinates>17.641484,59.858087,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Uppsala Gränbystaden]]></name>
-        <description>Rituals Uppsala Gränbystaden, Uppsala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Uppsala Gränbystaden, Uppsala, Sverige]]></description>
         <Point><coordinates>17.673938,59.877063,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Stockholm Skärholmen]]></name>
-        <description>Rituals Stockholm Skärholmen, Skärholmen, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Stockholm Skärholmen, Skärholmen, Sverige]]></description>
         <Point><coordinates>17.907812,59.275813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Stockholm Kungens Kurva]]></name>
-        <description>Rituals Stockholm Kungens Kurva, Kungens Kurva, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Stockholm Kungens Kurva, Kungens Kurva, Sverige]]></description>
         <Point><coordinates>17.916812,59.269437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Stockholm Kista Galleria]]></name>
-        <description>Rituals Stockholm Kista Galleria, Kista, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Stockholm Kista Galleria, Kista, Sverige]]></description>
         <Point><coordinates>17.944938,59.402812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Stockholm Sollentuna Centrum]]></name>
-        <description>Rituals Stockholm Sollentuna Centrum, Sollentuna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Stockholm Sollentuna Centrum, Sollentuna, Sverige]]></description>
         <Point><coordinates>17.951188,59.428562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Stockholm Mall of Scandinavia]]></name>
-        <description>Rituals Stockholm Mall of Scandinavia, Solna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Stockholm Mall of Scandinavia, Solna, Sverige]]></description>
         <Point><coordinates>18.005313,59.369187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Stockholm Liljeholmstorget]]></name>
-        <description>Rituals Stockholm Liljeholmstorget, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Stockholm Liljeholmstorget, Stockholm, Sverige]]></description>
         <Point><coordinates>18.021578,59.309613,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Stockholm Västermalmsgallerian]]></name>
-        <description>Rituals Stockholm Västermalmsgallerian, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Stockholm Västermalmsgallerian, Stockholm, Sverige]]></description>
         <Point><coordinates>18.032312,59.334688,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Stockholm Centralstation]]></name>
-        <description>Rituals Stockholm Centralstation, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Stockholm Centralstation, Stockholm, Sverige]]></description>
         <Point><coordinates>18.058172,59.330488,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Stockholm Gallerian]]></name>
-        <description>Rituals Stockholm Gallerian, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Stockholm Gallerian, Stockholm, Sverige]]></description>
         <Point><coordinates>18.067563,59.331437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Stockholm Mood]]></name>
-        <description>Rituals Stockholm Mood, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Stockholm Mood, Stockholm, Sverige]]></description>
         <Point><coordinates>18.068141,59.334388,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Stockholm Täby Centrum]]></name>
-        <description>Rituals Stockholm Täby Centrum, Täby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Stockholm Täby Centrum, Täby, Sverige]]></description>
         <Point><coordinates>18.071688,59.445062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Stockholm Skrapan]]></name>
-        <description>Rituals Stockholm Skrapan, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Stockholm Skrapan, Stockholm, Sverige]]></description>
         <Point><coordinates>18.073937,59.312062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Stockholm Sturegallerian]]></name>
-        <description>Rituals Stockholm Sturegallerian, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Stockholm Sturegallerian, Stockholm, Sverige]]></description>
         <Point><coordinates>18.074141,59.336213,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Stockholm Fältöversten]]></name>
-        <description>Rituals Stockholm Fältöversten, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Stockholm Fältöversten, Stockholm, Sverige]]></description>
         <Point><coordinates>18.090938,59.338812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Stockholm Farsta Centrum]]></name>
-        <description>Rituals Stockholm Farsta Centrum, Farsta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Stockholm Farsta Centrum, Farsta, Sverige]]></description>
         <Point><coordinates>18.091313,59.243063,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Nacka Sickla Köpkvarter]]></name>
-        <description>Rituals Nacka Sickla Köpkvarter, Nacka, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Nacka Sickla Köpkvarter, Nacka, Sverige]]></description>
         <Point><coordinates>18.124641,59.305913,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Stockholm Nacka Forum]]></name>
-        <description>Rituals Stockholm Nacka Forum, Nacka, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Stockholm Nacka Forum, Nacka, Sverige]]></description>
         <Point><coordinates>18.164813,59.310063,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Tyresö Centrum]]></name>
-        <description>Rituals Tyresö Centrum, Tyresö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Tyresö Centrum, Tyresö, Sverige]]></description>
         <Point><coordinates>18.229078,59.244888,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Visby Galleria]]></name>
-        <description>Rituals Visby Galleria, Visby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Visby Galleria, Visby, Sverige]]></description>
         <Point><coordinates>18.301437,57.637687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Örnsköldsvik Oskargallerian]]></name>
-        <description>Rituals Örnsköldsvik Oskargallerian, Örnsköldsvik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Örnsköldsvik Oskargallerian, Örnsköldsvik, Sverige]]></description>
         <Point><coordinates>18.714813,63.291187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Umeå Avion Shopping]]></name>
-        <description>Rituals Umeå Avion Shopping, Umeå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Umeå Avion Shopping, Umeå, Sverige]]></description>
         <Point><coordinates>20.255313,63.806812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Umeå Utopia]]></name>
-        <description>Rituals Umeå Utopia, Umeå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Umeå Utopia, Umeå, Sverige]]></description>
         <Point><coordinates>20.264688,63.825688,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Skellefteå Citykompaniet]]></name>
-        <description>Rituals Skellefteå Citykompaniet, Skellefteå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Skellefteå Citykompaniet, Skellefteå, Sverige]]></description>
         <Point><coordinates>20.954437,64.750062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rituals Luleå Strandgallerian]]></name>
-        <description>Rituals Luleå Strandgallerian, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rituals Luleå Strandgallerian, Luleå, Sverige]]></description>
         <Point><coordinates>22.150188,65.584563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
     </Folder>
   </Document>

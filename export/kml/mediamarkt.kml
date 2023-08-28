@@ -1,217 +1,186 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>MediaMarkt</name>
+    <name><![CDATA[MediaMarkt]]></name>
     <description/>
-    <Style id="icon-22-normal">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-22-highlight">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-22">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-22-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-22-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
+    <Style id="icon-22-normal"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>
+    <Style id="icon-22-highlight"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>1.1</scale></LabelStyle></Style>
+    <StyleMap id="icon-22"><Pair><key>normal</key><styleUrl>#icon-22-normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#icon-22-highlight</styleUrl></Pair></StyleMap>
     <Folder>
       <name><![CDATA[MediaMarkt]]></name>
       <Placemark>
         <name><![CDATA[MediaMarkt Göteborg Högsbo]]></name>
-        <description>MediaMarkt Göteborg Högsbo, Göteborg</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[MediaMarkt Göteborg Högsbo, Göteborg]]></description>
         <Point><coordinates>11.946813,57.650813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[MediaMarkt Göteborg Bäckebol]]></name>
-        <description>MediaMarkt Göteborg Bäckebol, Göteborg</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[MediaMarkt Göteborg Bäckebol, Göteborg]]></description>
         <Point><coordinates>12.000438,57.770063,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[MediaMarkt Göteborg Torpavallen]]></name>
-        <description>MediaMarkt Göteborg Torpavallen, Göteborg</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[MediaMarkt Göteborg Torpavallen, Göteborg]]></description>
         <Point><coordinates>12.030687,57.724438,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[MediaMarkt Helsingborg]]></name>
-        <description>MediaMarkt Helsingborg, Helsingborg</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[MediaMarkt Helsingborg, Helsingborg]]></description>
         <Point><coordinates>12.762187,56.094062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[MediaMarkt Borås]]></name>
-        <description>MediaMarkt Borås, Borås</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[MediaMarkt Borås, Borås]]></description>
         <Point><coordinates>12.931938,57.731562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[MediaMarkt Malmö Svågertorp]]></name>
-        <description>MediaMarkt Malmö Svågertorp, Malmö</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[MediaMarkt Malmö Svågertorp, Malmö]]></description>
         <Point><coordinates>12.985062,55.550562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[MediaMarkt Lund]]></name>
-        <description>MediaMarkt Lund, Lund</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[MediaMarkt Lund, Lund]]></description>
         <Point><coordinates>13.152938,55.714312,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[MediaMarkt Skövde]]></name>
-        <description>MediaMarkt Skövde, Skövde</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[MediaMarkt Skövde, Skövde]]></description>
         <Point><coordinates>13.878563,58.410812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[MediaMarkt Kristianstad]]></name>
-        <description>MediaMarkt Kristianstad, Kristianstad</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[MediaMarkt Kristianstad, Kristianstad]]></description>
         <Point><coordinates>14.114562,56.021062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[MediaMarkt Jönköping]]></name>
-        <description>MediaMarkt Jönköping, Jönköping</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[MediaMarkt Jönköping, Jönköping]]></description>
         <Point><coordinates>14.172937,57.760438,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[MediaMarkt Växjö]]></name>
-        <description>MediaMarkt Växjö, Växjö</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[MediaMarkt Växjö, Växjö]]></description>
         <Point><coordinates>14.770437,56.878062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[MediaMarkt Örebro]]></name>
-        <description>MediaMarkt Örebro, Örebro</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[MediaMarkt Örebro, Örebro]]></description>
         <Point><coordinates>15.142437,59.219437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[MediaMarkt Linköping]]></name>
-        <description>MediaMarkt Linköping, Linköping</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[MediaMarkt Linköping, Linköping]]></description>
         <Point><coordinates>15.596937,58.431687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[MediaMarkt Norrköping]]></name>
-        <description>MediaMarkt Norrköping, Norrköping</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[MediaMarkt Norrköping, Norrköping]]></description>
         <Point><coordinates>16.157063,58.622062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[MediaMarkt Kalmar]]></name>
-        <description>MediaMarkt Kalmar, Kalmar</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[MediaMarkt Kalmar, Kalmar]]></description>
         <Point><coordinates>16.317312,56.682313,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[MediaMarkt Västerås]]></name>
-        <description>MediaMarkt Västerås, Västerås</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[MediaMarkt Västerås, Västerås]]></description>
         <Point><coordinates>16.458438,59.613062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[MediaMarkt Eskilstuna]]></name>
-        <description>MediaMarkt Eskilstuna, Eskilstuna</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[MediaMarkt Eskilstuna, Eskilstuna]]></description>
         <Point><coordinates>16.467562,59.374063,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[MediaMarkt Gävle]]></name>
-        <description>MediaMarkt Gävle, Gävle</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[MediaMarkt Gävle, Gävle]]></description>
         <Point><coordinates>16.989937,60.627187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[MediaMarkt Sundsvall]]></name>
-        <description>MediaMarkt Sundsvall, Sundsvall</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[MediaMarkt Sundsvall, Sundsvall]]></description>
         <Point><coordinates>17.334562,62.440188,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[MediaMarkt Uppsala]]></name>
-        <description>MediaMarkt Uppsala, Uppsala</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[MediaMarkt Uppsala, Uppsala]]></description>
         <Point><coordinates>17.683188,59.854563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[MediaMarkt Stockholm Barkarby]]></name>
-        <description>MediaMarkt Stockholm Barkarby, Stockholm</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[MediaMarkt Stockholm Barkarby, Stockholm]]></description>
         <Point><coordinates>17.857813,59.413062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[MediaMarkt Stockholm Heron City]]></name>
-        <description>MediaMarkt Stockholm Heron City, Stockholm</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[MediaMarkt Stockholm Heron City, Stockholm]]></description>
         <Point><coordinates>17.909188,59.267187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[MediaMarkt Stockholm Westfield Mall of Scandinavia]]></name>
-        <description>MediaMarkt Stockholm Westfield Mall of Scandinavia, Solna</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[MediaMarkt Stockholm Westfield Mall of Scandinavia, Solna]]></description>
         <Point><coordinates>18.001312,59.370812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[MediaMarkt Stockholm Drottninggatan]]></name>
-        <description>MediaMarkt Stockholm Drottninggatan, Stockholm</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[MediaMarkt Stockholm Drottninggatan, Stockholm]]></description>
         <Point><coordinates>18.061563,59.333188,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[MediaMarkt Stockholm Täby]]></name>
-        <description>MediaMarkt Stockholm Täby, Täby</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[MediaMarkt Stockholm Täby, Täby]]></description>
         <Point><coordinates>18.069812,59.444812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[MediaMarkt Stockholm Länna]]></name>
-        <description>MediaMarkt Stockholm Länna, Huddinge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[MediaMarkt Stockholm Länna, Huddinge]]></description>
         <Point><coordinates>18.126312,59.197312,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[MediaMarkt Stockholm Nacka Forum]]></name>
-        <description>MediaMarkt Stockholm Nacka Forum, Nacka</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[MediaMarkt Stockholm Nacka Forum, Nacka]]></description>
         <Point><coordinates>18.163812,59.309812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[MediaMarkt Umeå]]></name>
-        <description>MediaMarkt Umeå, Umeå</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[MediaMarkt Umeå, Umeå]]></description>
         <Point><coordinates>20.156062,63.847437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[MediaMarkt Luleå]]></name>
-        <description>MediaMarkt Luleå, Luleå</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[MediaMarkt Luleå, Luleå]]></description>
         <Point><coordinates>22.054688,65.616812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
     </Folder>
   </Document>

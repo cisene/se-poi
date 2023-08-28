@@ -1,157 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Smarteyes</name>
+    <name><![CDATA[Smarteyes]]></name>
     <description/>
-    <Style id="icon-22-normal">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-22-highlight">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-22">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-22-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-22-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
+    <Style id="icon-22-normal"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>
+    <Style id="icon-22-highlight"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>1.1</scale></LabelStyle></Style>
+    <StyleMap id="icon-22"><Pair><key>normal</key><styleUrl>#icon-22-normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#icon-22-highlight</styleUrl></Pair></StyleMap>
     <Folder>
       <name><![CDATA[Smarteyes]]></name>
       <Placemark>
         <name><![CDATA[Smarteyes Göteborg Frölunda]]></name>
-        <description>Smarteyes Göteborg Frölunda, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Smarteyes Göteborg Frölunda, Göteborg, Sverige]]></description>
         <Point><coordinates>11.911824,57.652563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Smarteyes Göteborg Kyrkogatan]]></name>
-        <description>Smarteyes Göteborg Kyrkogatan, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Smarteyes Göteborg Kyrkogatan, Göteborg, Sverige]]></description>
         <Point><coordinates>11.963842,57.70476,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Smarteyes Göteborg Kungsgatan]]></name>
-        <description>Smarteyes Göteborg Kungsgatan, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Smarteyes Göteborg Kungsgatan, Göteborg, Sverige]]></description>
         <Point><coordinates>11.969861,57.705015,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Smarteyes Malmö Emporia]]></name>
-        <description>Smarteyes Malmö Emporia, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Smarteyes Malmö Emporia, Malmö, Sverige]]></description>
         <Point><coordinates>12.974169,55.564743,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Smarteyes Malmö City]]></name>
-        <description>Smarteyes Malmö City, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Smarteyes Malmö City, Malmö, Sverige]]></description>
         <Point><coordinates>13.002887,55.596108,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Smarteyes Lund]]></name>
-        <description>Smarteyes Lund, Lund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Smarteyes Lund, Lund, Sverige]]></description>
         <Point><coordinates>13.192696,55.701497,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Smarteyes Södertälje]]></name>
-        <description>Smarteyes Södertälje, Södertälje, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Smarteyes Södertälje, Södertälje, Sverige]]></description>
         <Point><coordinates>17.626394,59.19717,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Smarteyes Stockholm Vällingby]]></name>
-        <description>Smarteyes Stockholm Vällingby, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Smarteyes Stockholm Vällingby, Stockholm, Sverige]]></description>
         <Point><coordinates>17.874499,59.363577,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Smarteyes Stockholm Skärholmen]]></name>
-        <description>Smarteyes Stockholm Skärholmen, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Smarteyes Stockholm Skärholmen, Stockholm, Sverige]]></description>
         <Point><coordinates>17.908556,59.276605,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Smarteyes Stockholm Huddinge]]></name>
-        <description>Smarteyes Stockholm Huddinge, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Smarteyes Stockholm Huddinge, Stockholm, Sverige]]></description>
         <Point><coordinates>17.982057,59.235754,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Smarteyes Stockholm Solna]]></name>
-        <description>Smarteyes Stockholm Solna, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Smarteyes Stockholm Solna, Stockholm, Sverige]]></description>
         <Point><coordinates>17.999694,59.360263,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Smarteyes Stockholm Liljeholmen]]></name>
-        <description>Smarteyes Stockholm Liljeholmen, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Smarteyes Stockholm Liljeholmen, Stockholm, Sverige]]></description>
         <Point><coordinates>18.022416,59.309368,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Smarteyes Stockholm Fridhemsplan (Åhléns)]]></name>
-        <description>Smarteyes Stockholm Fridhemsplan (Åhléns), Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Smarteyes Stockholm Fridhemsplan (Åhléns), Stockholm, Sverige]]></description>
         <Point><coordinates>18.030144,59.332345,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Smarteyes Stockholm Kungsgatan]]></name>
-        <description>Smarteyes Stockholm Kungsgatan, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Smarteyes Stockholm Kungsgatan, Stockholm, Sverige]]></description>
         <Point><coordinates>18.064749,59.335931,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Smarteyes Stockholm Täby]]></name>
-        <description>Smarteyes Stockholm Täby, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Smarteyes Stockholm Täby, Stockholm, Sverige]]></description>
         <Point><coordinates>18.07289,59.444989,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Smarteyes Stockholm Götgatan]]></name>
-        <description>Smarteyes Stockholm Götgatan, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Smarteyes Stockholm Götgatan, Stockholm, Sverige]]></description>
         <Point><coordinates>18.073393,59.313693,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Smarteyes Stockholm Haninge]]></name>
-        <description>Smarteyes Stockholm Haninge, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Smarteyes Stockholm Haninge, Stockholm, Sverige]]></description>
         <Point><coordinates>18.149222,59.17924,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Smarteyes Stockholm Nacka]]></name>
-        <description>Smarteyes Stockholm Nacka, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Smarteyes Stockholm Nacka, Stockholm, Sverige]]></description>
         <Point><coordinates>18.163807,59.310285,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Smarteyes Norrtälje]]></name>
-        <description>Smarteyes Norrtälje, Norrtälje, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Smarteyes Norrtälje, Norrtälje, Sverige]]></description>
         <Point><coordinates>18.699635,59.75703,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
     </Folder>
   </Document>

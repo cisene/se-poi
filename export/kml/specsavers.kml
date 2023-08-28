@@ -1,751 +1,720 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Specsavers</name>
+    <name><![CDATA[Specsavers]]></name>
     <description/>
-    <Style id="icon-22-normal">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-22-highlight">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-22">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-22-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-22-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
+    <Style id="icon-22-normal"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>
+    <Style id="icon-22-highlight"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>1.1</scale></LabelStyle></Style>
+    <StyleMap id="icon-22"><Pair><key>normal</key><styleUrl>#icon-22-normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#icon-22-highlight</styleUrl></Pair></StyleMap>
     <Folder>
       <name><![CDATA[Specsavers]]></name>
       <Placemark>
         <name><![CDATA[Specsavers Uddevalla Torp]]></name>
-        <description>Specsavers Uddevalla Torp, Uddevalla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Uddevalla Torp, Uddevalla, Sverige]]></description>
         <Point><coordinates>11.809687,58.353938,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Stenungsund]]></name>
-        <description>Specsavers Stenungsund, Stenungsund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Stenungsund, Stenungsund, Sverige]]></description>
         <Point><coordinates>11.817063,58.068062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Göteborg Frölunda Torg]]></name>
-        <description>Specsavers Göteborg Frölunda Torg, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Göteborg Frölunda Torg, Göteborg, Sverige]]></description>
         <Point><coordinates>11.911938,57.652563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Göteborg Backaplan]]></name>
-        <description>Specsavers Göteborg Backaplan, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Göteborg Backaplan, Göteborg, Sverige]]></description>
         <Point><coordinates>11.951438,57.722188,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Göteborg Kungsgatan]]></name>
-        <description>Specsavers Göteborg Kungsgatan, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Göteborg Kungsgatan, Göteborg, Sverige]]></description>
         <Point><coordinates>11.964937,57.704187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Kungälv]]></name>
-        <description>Specsavers Kungälv, Kungälv, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Kungälv, Kungälv, Sverige]]></description>
         <Point><coordinates>11.967313,57.873937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Mölndal]]></name>
-        <description>Specsavers Mölndal, Mölndal, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Mölndal, Mölndal, Sverige]]></description>
         <Point><coordinates>12.015438,57.655438,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Kungsbacka]]></name>
-        <description>Specsavers Kungsbacka, Kungsbacka, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Kungsbacka, Kungsbacka, Sverige]]></description>
         <Point><coordinates>12.074312,57.492812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Partille - Allum]]></name>
-        <description>Specsavers Partille - Allum, Partille, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Partille - Allum, Partille, Sverige]]></description>
         <Point><coordinates>12.105688,57.739187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Varberg]]></name>
-        <description>Specsavers Varberg, Varberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Varberg, Varberg, Sverige]]></description>
         <Point><coordinates>12.249313,57.105812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Trollhättan Överby]]></name>
-        <description>Specsavers Trollhättan Överby, Trollhättan, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Trollhättan Överby, Trollhättan, Sverige]]></description>
         <Point><coordinates>12.307562,58.312438,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Falkenberg]]></name>
-        <description>Specsavers Falkenberg, Falkenberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Falkenberg, Falkenberg, Sverige]]></description>
         <Point><coordinates>12.491688,56.905687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Alingsås]]></name>
-        <description>Specsavers Alingsås, Alingsås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Alingsås, Alingsås, Sverige]]></description>
         <Point><coordinates>12.536437,57.929938,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Arvika]]></name>
-        <description>Specsavers Arvika, Arvika, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Arvika, Arvika, Sverige]]></description>
         <Point><coordinates>12.593063,59.654438,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Helsingborg City]]></name>
-        <description>Specsavers Helsingborg City, Helsingborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Helsingborg City, Helsingborg, Sverige]]></description>
         <Point><coordinates>12.694187,56.046813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Helsingborg Väla]]></name>
-        <description>Specsavers Helsingborg Väla, Helsingborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Helsingborg Väla, Helsingborg, Sverige]]></description>
         <Point><coordinates>12.757062,56.091938,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Landskrona]]></name>
-        <description>Specsavers Landskrona, Landskrona, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Landskrona, Landskrona, Sverige]]></description>
         <Point><coordinates>12.833063,55.871188,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Halmstad]]></name>
-        <description>Specsavers Halmstad, Halmstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Halmstad, Halmstad, Sverige]]></description>
         <Point><coordinates>12.857062,56.674563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Ängelholm]]></name>
-        <description>Specsavers Ängelholm, Ängelholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Ängelholm, Ängelholm, Sverige]]></description>
         <Point><coordinates>12.862687,56.244937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Borås]]></name>
-        <description>Specsavers Borås, Borås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Borås, Borås, Sverige]]></description>
         <Point><coordinates>12.941813,57.720312,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Malmö Emporia]]></name>
-        <description>Specsavers Malmö Emporia, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Malmö Emporia, Malmö, Sverige]]></description>
         <Point><coordinates>12.973562,55.564437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Malmö S. Förstadsgatan]]></name>
-        <description>Specsavers Malmö S. Förstadsgatan, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Malmö S. Förstadsgatan, Malmö, Sverige]]></description>
         <Point><coordinates>13.000937,55.598562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Malmö Baltzarsgatan]]></name>
-        <description>Specsavers Malmö Baltzarsgatan, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Malmö Baltzarsgatan, Malmö, Sverige]]></description>
         <Point><coordinates>13.002688,55.604813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Malmö Mobilia]]></name>
-        <description>Specsavers Malmö Mobilia, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Malmö Mobilia, Malmö, Sverige]]></description>
         <Point><coordinates>13.004563,55.581187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Malmö Jägersro]]></name>
-        <description>Specsavers Malmö Jägersro, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Malmö Jägersro, Malmö, Sverige]]></description>
         <Point><coordinates>13.058687,55.570062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Malmö Burlöv]]></name>
-        <description>Specsavers Malmö Burlöv, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Malmö Burlöv, Malmö, Sverige]]></description>
         <Point><coordinates>13.084312,55.639813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Trelleborg]]></name>
-        <description>Specsavers Trelleborg, Trelleborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Trelleborg, Trelleborg, Sverige]]></description>
         <Point><coordinates>13.157187,55.373687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Lidköping]]></name>
-        <description>Specsavers Lidköping, Lidköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Lidköping, Lidköping, Sverige]]></description>
         <Point><coordinates>13.158188,58.504562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Lund]]></name>
-        <description>Specsavers Lund, Lund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Lund, Lund, Sverige]]></description>
         <Point><coordinates>13.192937,55.701437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Eslöv]]></name>
-        <description>Specsavers Eslöv, Eslöv, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Eslöv, Eslöv, Sverige]]></description>
         <Point><coordinates>13.303438,55.840312,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Bergvik]]></name>
-        <description>Specsavers Bergvik, Karlstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Bergvik, Karlstad, Sverige]]></description>
         <Point><coordinates>13.426188,59.376937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Karlstad]]></name>
-        <description>Specsavers Karlstad, Karlstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Karlstad, Karlstad, Sverige]]></description>
         <Point><coordinates>13.504563,59.379062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Falköping]]></name>
-        <description>Specsavers Falköping, Falköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Falköping, Falköping, Sverige]]></description>
         <Point><coordinates>13.555063,58.160937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Hässleholm]]></name>
-        <description>Specsavers Hässleholm, Hässleholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Hässleholm, Hässleholm, Sverige]]></description>
         <Point><coordinates>13.765812,56.158437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Ystad]]></name>
-        <description>Specsavers Ystad, Ystad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Ystad, Ystad, Sverige]]></description>
         <Point><coordinates>13.821438,55.428187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Skövde]]></name>
-        <description>Specsavers Skövde, Skövde, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Skövde, Skövde, Sverige]]></description>
         <Point><coordinates>13.848437,58.391312,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Värnamo]]></name>
-        <description>Specsavers Värnamo, Värnamo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Värnamo, Värnamo, Sverige]]></description>
         <Point><coordinates>14.045312,57.184062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Kristianstad]]></name>
-        <description>Specsavers Kristianstad, Kristianstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Kristianstad, Kristianstad, Sverige]]></description>
         <Point><coordinates>14.157312,56.029688,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Jönköping City]]></name>
-        <description>Specsavers Jönköping City, Jönköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Jönköping City, Jönköping, Sverige]]></description>
         <Point><coordinates>14.172812,57.782062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Jönköping Asecs]]></name>
-        <description>Specsavers Jönköping Asecs, Jönköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Jönköping Asecs, Jönköping, Sverige]]></description>
         <Point><coordinates>14.203563,57.773812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Kristianstad C4]]></name>
-        <description>Specsavers Kristianstad C4, Kristianstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Kristianstad C4, Kristianstad, Sverige]]></description>
         <Point><coordinates>14.206188,56.025562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Karlskoga]]></name>
-        <description>Specsavers Karlskoga, Karlskoga, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Karlskoga, Karlskoga, Sverige]]></description>
         <Point><coordinates>14.524437,59.326563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Mora]]></name>
-        <description>Specsavers Mora, Mora, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Mora, Mora, Sverige]]></description>
         <Point><coordinates>14.536938,61.003312,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Östersund]]></name>
-        <description>Specsavers Östersund, Östersund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Östersund, Östersund, Sverige]]></description>
         <Point><coordinates>14.637562,63.175812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Nässjö]]></name>
-        <description>Specsavers Nässjö, Nässjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Nässjö, Nässjö, Sverige]]></description>
         <Point><coordinates>14.694688,57.653562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Växjö Samarkand]]></name>
-        <description>Specsavers Växjö Samarkand, Växjö Samarkand, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Växjö Samarkand, Växjö Samarkand, Sverige]]></description>
         <Point><coordinates>14.766063,56.884812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Växjö]]></name>
-        <description>Specsavers Växjö, Växjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Växjö, Växjö, Sverige]]></description>
         <Point><coordinates>14.803562,56.879312,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Karlshamn]]></name>
-        <description>Specsavers Karlshamn, Karlshamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Karlshamn, Karlshamn, Sverige]]></description>
         <Point><coordinates>14.860688,56.171813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Motala]]></name>
-        <description>Specsavers Motala, Motala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Motala, Motala, Sverige]]></description>
         <Point><coordinates>15.036938,58.537188,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Vetlanda]]></name>
-        <description>Specsavers Vetlanda, Vetlanda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Vetlanda, Vetlanda, Sverige]]></description>
         <Point><coordinates>15.085938,57.426562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Mjölby]]></name>
-        <description>Specsavers Mjölby, Mjölby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Mjölby, Mjölby, Sverige]]></description>
         <Point><coordinates>15.125312,58.325688,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Örebro Marieberg]]></name>
-        <description>Specsavers Örebro Marieberg, Örebro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Örebro Marieberg, Örebro, Sverige]]></description>
         <Point><coordinates>15.137688,59.217188,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Örebro City]]></name>
-        <description>Specsavers Örebro City, Örebro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Örebro City, Örebro, Sverige]]></description>
         <Point><coordinates>15.211437,59.271313,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Lindesberg]]></name>
-        <description>Specsavers Lindesberg, Lindesberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Lindesberg, Lindesberg, Sverige]]></description>
         <Point><coordinates>15.227937,59.593563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Borlänge]]></name>
-        <description>Specsavers Borlänge, Borlänge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Borlänge, Borlänge, Sverige]]></description>
         <Point><coordinates>15.418062,60.484188,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Karlskrona]]></name>
-        <description>Specsavers Karlskrona, Karlskrona, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Karlskrona, Karlskrona, Sverige]]></description>
         <Point><coordinates>15.583312,56.161687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Linköping Tornby]]></name>
-        <description>Specsavers Linköping Tornby, Linköping Tornby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Linköping Tornby, Linköping Tornby, Sverige]]></description>
         <Point><coordinates>15.585938,58.432688,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Linköping City]]></name>
-        <description>Specsavers Linköping City, Linköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Linköping City, Linköping, Sverige]]></description>
         <Point><coordinates>15.624437,58.410312,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Falun]]></name>
-        <description>Specsavers Falun, Falun, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Falun, Falun, Sverige]]></description>
         <Point><coordinates>15.631813,60.606063,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Köping]]></name>
-        <description>Specsavers Köping, Köping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Köping, Köping, Sverige]]></description>
         <Point><coordinates>15.998062,59.513562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Norrköping Ingelsta]]></name>
-        <description>Specsavers Norrköping Ingelsta, Norrköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Norrköping Ingelsta, Norrköping, Sverige]]></description>
         <Point><coordinates>16.156562,58.618437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Avesta]]></name>
-        <description>Specsavers Avesta, Avesta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Avesta, Avesta, Sverige]]></description>
         <Point><coordinates>16.167938,60.145937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Norrköping City]]></name>
-        <description>Specsavers Norrköping City, Norrköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Norrköping City, Norrköping, Sverige]]></description>
         <Point><coordinates>16.190688,58.587812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Katrineholm]]></name>
-        <description>Specsavers Katrineholm, Katrineholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Katrineholm, Katrineholm, Sverige]]></description>
         <Point><coordinates>16.204937,58.996188,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Kalmar]]></name>
-        <description>Specsavers Kalmar, Kalmar, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Kalmar, Kalmar, Sverige]]></description>
         <Point><coordinates>16.339062,56.670313,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Oskarshamn]]></name>
-        <description>Specsavers Oskarshamn, Oskarshamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Oskarshamn, Oskarshamn, Sverige]]></description>
         <Point><coordinates>16.445937,57.265438,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Västerås - Erikslund]]></name>
-        <description>Specsavers Västerås - Erikslund, Västerås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Västerås - Erikslund, Västerås, Sverige]]></description>
         <Point><coordinates>16.454563,59.609063,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Öland]]></name>
-        <description>Specsavers Öland, Öland, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Öland, Öland, Sverige]]></description>
         <Point><coordinates>16.469812,56.651937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Eskilstuna]]></name>
-        <description>Specsavers Eskilstuna, Eskilstuna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Eskilstuna, Eskilstuna, Sverige]]></description>
         <Point><coordinates>16.509188,59.372187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Västerås]]></name>
-        <description>Specsavers Västerås, Västerås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Västerås, Västerås, Sverige]]></description>
         <Point><coordinates>16.548187,59.610312,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Västervik]]></name>
-        <description>Specsavers Västervik, Västervik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Västervik, Västervik, Sverige]]></description>
         <Point><coordinates>16.635937,57.758187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Sandviken]]></name>
-        <description>Specsavers Sandviken, Sandviken, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Sandviken, Sandviken, Sverige]]></description>
         <Point><coordinates>16.775813,60.620062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Nyköping]]></name>
-        <description>Specsavers Nyköping, Nyköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Nyköping, Nyköping, Sverige]]></description>
         <Point><coordinates>17.005437,58.752312,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Strängnäs]]></name>
-        <description>Specsavers Strängnäs, Strängnäs, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Strängnäs, Strängnäs, Sverige]]></description>
         <Point><coordinates>17.027437,59.376062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Enköping]]></name>
-        <description>Specsavers Enköping, Enköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Enköping, Enköping, Sverige]]></description>
         <Point><coordinates>17.078812,59.635813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Hudiksvall]]></name>
-        <description>Specsavers Hudiksvall, Hudiksvall, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Hudiksvall, Hudiksvall, Sverige]]></description>
         <Point><coordinates>17.104188,61.728313,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Gävle]]></name>
-        <description>Specsavers Gävle, Gävle, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Gävle, Gävle, Sverige]]></description>
         <Point><coordinates>17.143437,60.674688,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Sundsvall City]]></name>
-        <description>Specsavers Sundsvall City, Sundsvall, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Sundsvall City, Sundsvall, Sverige]]></description>
         <Point><coordinates>17.304313,62.391437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Sundsvall Birsta]]></name>
-        <description>Specsavers Sundsvall Birsta, Sundsvall, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Sundsvall Birsta, Sundsvall, Sverige]]></description>
         <Point><coordinates>17.336062,62.447187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Södertälje]]></name>
-        <description>Specsavers Södertälje, Södertälje, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Södertälje, Södertälje, Sverige]]></description>
         <Point><coordinates>17.627313,59.195563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Uppsala - Dragarbrunnsgatan]]></name>
-        <description>Specsavers Uppsala - Dragarbrunnsgatan, Uppsala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Uppsala - Dragarbrunnsgatan, Uppsala, Sverige]]></description>
         <Point><coordinates>17.639812,59.859313,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Uppsala Gränby Centrum]]></name>
-        <description>Specsavers Uppsala Gränby Centrum, Uppsala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Uppsala Gränby Centrum, Uppsala, Sverige]]></description>
         <Point><coordinates>17.674062,59.877312,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Tumba Centrum]]></name>
-        <description>Specsavers Tumba Centrum, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Tumba Centrum, Stockholm, Sverige]]></description>
         <Point><coordinates>17.833312,59.198687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Jakobsbergs Centrum]]></name>
-        <description>Specsavers Jakobsbergs Centrum, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Jakobsbergs Centrum, Stockholm, Sverige]]></description>
         <Point><coordinates>17.836937,59.423562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Vällingby Centrum]]></name>
-        <description>Specsavers Vällingby Centrum, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Vällingby Centrum, Stockholm, Sverige]]></description>
         <Point><coordinates>17.874812,59.363437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Skärholmen]]></name>
-        <description>Specsavers Skärholmen, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Skärholmen, Stockholm, Sverige]]></description>
         <Point><coordinates>17.907938,59.274687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Upplands Väsby]]></name>
-        <description>Specsavers Upplands Väsby, Upplands Väsby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Upplands Väsby, Upplands Väsby, Sverige]]></description>
         <Point><coordinates>17.912062,59.518438,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Härnösand]]></name>
-        <description>Specsavers Härnösand, Härnösand, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Härnösand, Härnösand, Sverige]]></description>
         <Point><coordinates>17.938187,62.633187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Kista]]></name>
-        <description>Specsavers Kista, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Kista, Stockholm, Sverige]]></description>
         <Point><coordinates>17.945188,59.402313,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Nynäshamn]]></name>
-        <description>Specsavers Nynäshamn, Nynäshamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Nynäshamn, Nynäshamn, Sverige]]></description>
         <Point><coordinates>17.947688,58.903688,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Sollentuna]]></name>
-        <description>Specsavers Sollentuna, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Sollentuna, Stockholm, Sverige]]></description>
         <Point><coordinates>17.951188,59.428812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Huddinge]]></name>
-        <description>Specsavers Huddinge, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Huddinge, Stockholm, Sverige]]></description>
         <Point><coordinates>17.980812,59.236562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Solna Centrum]]></name>
-        <description>Specsavers Solna Centrum, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Solna Centrum, Stockholm, Sverige]]></description>
         <Point><coordinates>18.000312,59.358812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Mall of Scandinavia]]></name>
-        <description>Specsavers Mall of Scandinavia, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Mall of Scandinavia, Stockholm, Sverige]]></description>
         <Point><coordinates>18.003312,59.370687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Liljeholmen]]></name>
-        <description>Specsavers Liljeholmen, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Liljeholmen, Stockholm, Sverige]]></description>
         <Point><coordinates>18.021937,59.309687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Kungsholmen]]></name>
-        <description>Specsavers Kungsholmen, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Kungsholmen, Stockholm, Sverige]]></description>
         <Point><coordinates>18.033687,59.334563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Hornsgatan]]></name>
-        <description>Specsavers Hornsgatan, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Hornsgatan, Stockholm, Sverige]]></description>
         <Point><coordinates>18.053562,59.317937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Kungsgatan]]></name>
-        <description>Specsavers Kungsgatan, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Kungsgatan, Stockholm, Sverige]]></description>
         <Point><coordinates>18.057688,59.334187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Sveavägen]]></name>
-        <description>Specsavers Sveavägen, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Sveavägen, Stockholm, Sverige]]></description>
         <Point><coordinates>18.059188,59.339813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Täby]]></name>
-        <description>Specsavers Täby, Täby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Täby, Täby, Sverige]]></description>
         <Point><coordinates>18.071438,59.445062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Götgatan]]></name>
-        <description>Specsavers Götgatan, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Götgatan, Stockholm, Sverige]]></description>
         <Point><coordinates>18.074937,59.311813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Vallentuna]]></name>
-        <description>Specsavers Vallentuna, Vallentuna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Vallentuna, Vallentuna, Sverige]]></description>
         <Point><coordinates>18.078812,59.533812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Globen]]></name>
-        <description>Specsavers Globen, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Globen, Stockholm, Sverige]]></description>
         <Point><coordinates>18.080937,59.293188,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Karlaplan]]></name>
-        <description>Specsavers Karlaplan, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Karlaplan, Stockholm, Sverige]]></description>
         <Point><coordinates>18.089062,59.338313,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Farsta]]></name>
-        <description>Specsavers Farsta, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Farsta, Stockholm, Sverige]]></description>
         <Point><coordinates>18.091437,59.242937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Sickla]]></name>
-        <description>Specsavers Sickla, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Sickla, Stockholm, Sverige]]></description>
         <Point><coordinates>18.126812,59.306188,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Haninge]]></name>
-        <description>Specsavers Haninge, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Haninge, Stockholm, Sverige]]></description>
         <Point><coordinates>18.140062,59.169438,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Tyresö Centrum]]></name>
-        <description>Specsavers Tyresö Centrum, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Tyresö Centrum, Stockholm, Sverige]]></description>
         <Point><coordinates>18.229188,59.244937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Åkersberga]]></name>
-        <description>Specsavers Åkersberga, Åkersberga, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Åkersberga, Åkersberga, Sverige]]></description>
         <Point><coordinates>18.298437,59.479687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Visby]]></name>
-        <description>Specsavers Visby, Visby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Visby, Visby, Sverige]]></description>
         <Point><coordinates>18.300438,57.637313,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Norrtälje]]></name>
-        <description>Specsavers Norrtälje, Norrtälje, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Norrtälje, Norrtälje, Sverige]]></description>
         <Point><coordinates>18.699813,59.756937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Örnsköldsvik]]></name>
-        <description>Specsavers Örnsköldsvik, Örnsköldsvik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Örnsköldsvik, Örnsköldsvik, Sverige]]></description>
         <Point><coordinates>18.715438,63.291187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Umeå Avion Shopping]]></name>
-        <description>Specsavers Umeå Avion Shopping, Umeå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Umeå Avion Shopping, Umeå, Sverige]]></description>
         <Point><coordinates>20.255313,63.807437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Umeå City]]></name>
-        <description>Specsavers Umeå City, Umeå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Umeå City, Umeå, Sverige]]></description>
         <Point><coordinates>20.255812,63.826687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Skellefteå]]></name>
-        <description>Specsavers Skellefteå, Skellefteå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Skellefteå, Skellefteå, Sverige]]></description>
         <Point><coordinates>20.949813,64.750937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Piteå]]></name>
-        <description>Specsavers Piteå, Piteå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Piteå, Piteå, Sverige]]></description>
         <Point><coordinates>21.475437,65.317562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Boden]]></name>
-        <description>Specsavers Boden, Boden, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Boden, Boden, Sverige]]></description>
         <Point><coordinates>21.685187,65.823813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Specsavers Luleå]]></name>
-        <description>Specsavers Luleå, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Specsavers Luleå, Luleå, Sverige]]></description>
         <Point><coordinates>22.151063,65.583938,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
     </Folder>
   </Document>

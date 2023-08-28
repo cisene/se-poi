@@ -1,367 +1,336 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Lagerhaus</name>
+    <name><![CDATA[Lagerhaus]]></name>
     <description/>
-    <Style id="icon-22-normal">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-22-highlight">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-22">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-22-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-22-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
+    <Style id="icon-22-normal"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>
+    <Style id="icon-22-highlight"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>1.1</scale></LabelStyle></Style>
+    <StyleMap id="icon-22"><Pair><key>normal</key><styleUrl>#icon-22-normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#icon-22-highlight</styleUrl></Pair></StyleMap>
     <Folder>
       <name><![CDATA[Lagerhaus]]></name>
       <Placemark>
         <name><![CDATA[Lagerhaus Jessheim]]></name>
-        <description>Lagerhaus Jessheim, Jessheim, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Jessheim, Jessheim, Sverige]]></description>
         <Point><coordinates>11.172043,60.142998,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Uddevalla - Torp köpcentrum]]></name>
-        <description>Lagerhaus Uddevalla - Torp köpcentrum, Uddevalla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Uddevalla - Torp köpcentrum, Uddevalla, Sverige]]></description>
         <Point><coordinates>11.810351,58.353662,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Töcksfors]]></name>
-        <description>Lagerhaus Töcksfors, Töcksfors, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Töcksfors, Töcksfors, Sverige]]></description>
         <Point><coordinates>11.845,59.5066,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Göteborg - Frölunda Torg]]></name>
-        <description>Lagerhaus Göteborg - Frölunda Torg, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Göteborg - Frölunda Torg, Göteborg, Sverige]]></description>
         <Point><coordinates>11.912611,57.651359,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Göteborg - Vallgatan]]></name>
-        <description>Lagerhaus Göteborg - Vallgatan, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Göteborg - Vallgatan, Göteborg, Sverige]]></description>
         <Point><coordinates>11.965173,57.703815,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Göteborg - Nordstan]]></name>
-        <description>Lagerhaus Göteborg - Nordstan, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Göteborg - Nordstan, Göteborg, Sverige]]></description>
         <Point><coordinates>11.96789,57.708377,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Göteborg - Östra Hamngatan]]></name>
-        <description>Lagerhaus Göteborg - Östra Hamngatan, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Göteborg - Östra Hamngatan, Göteborg, Sverige]]></description>
         <Point><coordinates>11.969179,57.705281,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Kungsbacka - Kungsmässan]]></name>
-        <description>Lagerhaus Kungsbacka - Kungsmässan, Kungsbacka, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Kungsbacka - Kungsmässan, Kungsbacka, Sverige]]></description>
         <Point><coordinates>12.073912,57.492865,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Helsingborg - Väla]]></name>
-        <description>Lagerhaus Helsingborg - Väla, Helsingborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Helsingborg - Väla, Helsingborg, Sverige]]></description>
         <Point><coordinates>12.755991,56.091343,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Halmstad - Klammerdammsgatan]]></name>
-        <description>Lagerhaus Halmstad - Klammerdammsgatan, Halmstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Halmstad - Klammerdammsgatan, Halmstad, Sverige]]></description>
         <Point><coordinates>12.857436,56.675099,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Halmstad Hallarna]]></name>
-        <description>Lagerhaus Halmstad Hallarna, Halmstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Halmstad Hallarna, Halmstad, Sverige]]></description>
         <Point><coordinates>12.908513,56.656224,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Borås - Knalleland]]></name>
-        <description>Lagerhaus Borås - Knalleland, Borås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Borås - Knalleland, Borås, Sverige]]></description>
         <Point><coordinates>12.93985,57.732426,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Malmö - Emporia]]></name>
-        <description>Lagerhaus Malmö - Emporia, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Malmö - Emporia, Malmö, Sverige]]></description>
         <Point><coordinates>12.973536,55.564501,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Malmö - Triangeln]]></name>
-        <description>Lagerhaus Malmö - Triangeln, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Malmö - Triangeln, Malmö, Sverige]]></description>
         <Point><coordinates>13.001338,55.598295,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Malmö - Södra Förstadsgatan]]></name>
-        <description>Lagerhaus Malmö - Södra Förstadsgatan, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Malmö - Södra Förstadsgatan, Malmö, Sverige]]></description>
         <Point><coordinates>13.001338,55.598283,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Malmö - Mobilia]]></name>
-        <description>Lagerhaus Malmö - Mobilia, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Malmö - Mobilia, Malmö, Sverige]]></description>
         <Point><coordinates>13.003841,55.58079,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Lund - Nova Lund]]></name>
-        <description>Lagerhaus Lund - Nova Lund, Lund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Lund - Nova Lund, Lund, Sverige]]></description>
         <Point><coordinates>13.1596,55.714683,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Lund - Bytaregränd]]></name>
-        <description>Lagerhaus Lund - Bytaregränd, Lund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Lund - Bytaregränd, Lund, Sverige]]></description>
         <Point><coordinates>13.189588,55.705069,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Karlstad - Drottninggatan]]></name>
-        <description>Lagerhaus Karlstad - Drottninggatan, Karlstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Karlstad - Drottninggatan, Karlstad, Sverige]]></description>
         <Point><coordinates>13.499523,59.378655,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Jönköping - Östra Storgatan]]></name>
-        <description>Lagerhaus Jönköping - Östra Storgatan, Jönköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Jönköping - Östra Storgatan, Jönköping, Sverige]]></description>
         <Point><coordinates>14.172083,57.782409,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Jönköping - Asces]]></name>
-        <description>Lagerhaus Jönköping - Asces, Jönköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Jönköping - Asces, Jönköping, Sverige]]></description>
         <Point><coordinates>14.203354,57.773364,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Kristianstad - C4 köpcentrum]]></name>
-        <description>Lagerhaus Kristianstad - C4 köpcentrum, Kristianstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Kristianstad - C4 köpcentrum, Kristianstad, Sverige]]></description>
         <Point><coordinates>14.205389,56.026941,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Östersund - Kärnan galleria]]></name>
-        <description>Lagerhaus Östersund - Kärnan galleria, Östersund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Östersund - Kärnan galleria, Östersund, Sverige]]></description>
         <Point><coordinates>14.637669,63.17628,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Växjö - Grand Samarkand]]></name>
-        <description>Lagerhaus Växjö - Grand Samarkand, Växjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Växjö - Grand Samarkand, Växjö, Sverige]]></description>
         <Point><coordinates>14.766774,56.885989,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Örebro - Marieberg]]></name>
-        <description>Lagerhaus Örebro - Marieberg, Örebro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Örebro - Marieberg, Örebro, Sverige]]></description>
         <Point><coordinates>15.13832,59.216916,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Örebro - Drottninggatan]]></name>
-        <description>Lagerhaus Örebro - Drottninggatan, Örebro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Örebro - Drottninggatan, Örebro, Sverige]]></description>
         <Point><coordinates>15.211346,59.271261,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Linköping Repslagaregatan]]></name>
-        <description>Lagerhaus Linköping Repslagaregatan, Linköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Linköping Repslagaregatan, Linköping, Sverige]]></description>
         <Point><coordinates>15.626761,58.410915,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Norrköping - Domino]]></name>
-        <description>Lagerhaus Norrköping - Domino, Norrköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Norrköping - Domino, Norrköping, Sverige]]></description>
         <Point><coordinates>16.188832,58.588222,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Västerås - Erikslund]]></name>
-        <description>Lagerhaus Västerås - Erikslund, Västerås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Västerås - Erikslund, Västerås, Sverige]]></description>
         <Point><coordinates>16.453334,59.609654,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Gävle - Valbo köpcentrum]]></name>
-        <description>Lagerhaus Gävle - Valbo köpcentrum, Gävle, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Gävle - Valbo köpcentrum, Gävle, Sverige]]></description>
         <Point><coordinates>16.995478,60.633722,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Sundsvall - Birsta city]]></name>
-        <description>Lagerhaus Sundsvall - Birsta city, Sundsvall, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Sundsvall - Birsta city, Sundsvall, Sverige]]></description>
         <Point><coordinates>17.335926,62.447553,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Uppsala City]]></name>
-        <description>Lagerhaus Uppsala City, Uppsala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Uppsala City, Uppsala, Sverige]]></description>
         <Point><coordinates>17.637336,59.859296,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Uppsala - Gränby centrum]]></name>
-        <description>Lagerhaus Uppsala - Gränby centrum, Uppsala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Uppsala - Gränby centrum, Uppsala, Sverige]]></description>
         <Point><coordinates>17.673739,59.878055,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Stockholm - Vällingby Centrum]]></name>
-        <description>Lagerhaus Stockholm - Vällingby Centrum, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Stockholm - Vällingby Centrum, Stockholm, Sverige]]></description>
         <Point><coordinates>17.875112,59.362692,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Stockholm - Sollentuna Centrum]]></name>
-        <description>Lagerhaus Stockholm - Sollentuna Centrum, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Stockholm - Sollentuna Centrum, Stockholm, Sverige]]></description>
         <Point><coordinates>17.950247,59.428736,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Stockholm - Bromma Blocks]]></name>
-        <description>Lagerhaus Stockholm - Bromma Blocks, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Stockholm - Bromma Blocks, Stockholm, Sverige]]></description>
         <Point><coordinates>17.95537,59.355677,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Stockholm - Solna Centrum]]></name>
-        <description>Lagerhaus Stockholm - Solna Centrum, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Stockholm - Solna Centrum, Stockholm, Sverige]]></description>
         <Point><coordinates>18.0009,59.3601,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Stockholm - Mall of Scandinavia]]></name>
-        <description>Lagerhaus Stockholm - Mall of Scandinavia, Solna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Stockholm - Mall of Scandinavia, Solna, Sverige]]></description>
         <Point><coordinates>18.003251,59.370187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Stockholm - Liljeholmen]]></name>
-        <description>Lagerhaus Stockholm - Liljeholmen, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Stockholm - Liljeholmen, Stockholm, Sverige]]></description>
         <Point><coordinates>18.022307,59.309694,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Stockholm - Västermalmsgallerian]]></name>
-        <description>Lagerhaus Stockholm - Västermalmsgallerian, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Stockholm - Västermalmsgallerian, Stockholm, Sverige]]></description>
         <Point><coordinates>18.032341,59.334724,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Stockholm - Sergelgatan]]></name>
-        <description>Lagerhaus Stockholm - Sergelgatan, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Stockholm - Sergelgatan, Stockholm, Sverige]]></description>
         <Point><coordinates>18.063518,59.333395,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Stockholm - Sergelgången]]></name>
-        <description>Lagerhaus Stockholm - Sergelgången, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Stockholm - Sergelgången, Stockholm, Sverige]]></description>
         <Point><coordinates>18.063551,59.333384,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Stockholm - Drottninggatan]]></name>
-        <description>Lagerhaus Stockholm - Drottninggatan, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Stockholm - Drottninggatan, Stockholm, Sverige]]></description>
         <Point><coordinates>18.063773,59.331367,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Stockholm - Täby Centrum]]></name>
-        <description>Lagerhaus Stockholm - Täby Centrum, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Stockholm - Täby Centrum, Stockholm, Sverige]]></description>
         <Point><coordinates>18.072617,59.444926,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Skrapan Stockholm]]></name>
-        <description>Lagerhaus Skrapan Stockholm, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Skrapan Stockholm, Stockholm, Sverige]]></description>
         <Point><coordinates>18.074,59.312,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Stockholm - Ringen]]></name>
-        <description>Lagerhaus Stockholm - Ringen, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Stockholm - Ringen, Stockholm, Sverige]]></description>
         <Point><coordinates>18.075589,59.309099,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Stockholm - Fältöversten]]></name>
-        <description>Lagerhaus Stockholm - Fältöversten, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Stockholm - Fältöversten, Stockholm, Sverige]]></description>
         <Point><coordinates>18.090082,59.340642,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Stockholm - Farsta Centrum]]></name>
-        <description>Lagerhaus Stockholm - Farsta Centrum, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Stockholm - Farsta Centrum, Stockholm, Sverige]]></description>
         <Point><coordinates>18.092474,59.242742,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Stockholm - Sickla Galleria]]></name>
-        <description>Lagerhaus Stockholm - Sickla Galleria, Nacka, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Stockholm - Sickla Galleria, Nacka, Sverige]]></description>
         <Point><coordinates>18.126694,59.305445,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Stockholm - Nacka Forum]]></name>
-        <description>Lagerhaus Stockholm - Nacka Forum, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Stockholm - Nacka Forum, Stockholm, Sverige]]></description>
         <Point><coordinates>18.164795,59.310027,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Stockholm - Tyresö Centrum]]></name>
-        <description>Lagerhaus Stockholm - Tyresö Centrum, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Stockholm - Tyresö Centrum, Stockholm, Sverige]]></description>
         <Point><coordinates>18.9635,59.593,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Umeå - Avion]]></name>
-        <description>Lagerhaus Umeå - Avion, Umeå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Umeå - Avion, Umeå, Sverige]]></description>
         <Point><coordinates>20.2538,63.807,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Umeå - Rådhusesplanaden]]></name>
-        <description>Lagerhaus Umeå - Rådhusesplanaden, Umeå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Umeå - Rådhusesplanaden, Umeå, Sverige]]></description>
         <Point><coordinates>20.263142,63.826576,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lagerhaus Luleå - Strand galleria]]></name>
-        <description>Lagerhaus Luleå - Strand galleria, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lagerhaus Luleå - Strand galleria, Luleå, Sverige]]></description>
         <Point><coordinates>22.151626,65.584391,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
     </Folder>
   </Document>

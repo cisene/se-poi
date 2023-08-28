@@ -1,241 +1,210 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Deichmann</name>
+    <name><![CDATA[Deichmann]]></name>
     <description/>
-    <Style id="icon-22-normal">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-22-highlight">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-22">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-22-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-22-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
+    <Style id="icon-22-normal"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>
+    <Style id="icon-22-highlight"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>1.1</scale></LabelStyle></Style>
+    <StyleMap id="icon-22"><Pair><key>normal</key><styleUrl>#icon-22-normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#icon-22-highlight</styleUrl></Pair></StyleMap>
     <Folder>
       <name><![CDATA[Deichmann]]></name>
       <Placemark>
         <name><![CDATA[Deichmann Torp Köpcentrum]]></name>
-        <description>Deichmann Torp Köpcentrum, Uddevalla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Deichmann Torp Köpcentrum, Uddevalla, Sverige]]></description>
         <Point><coordinates>11.810047,58.354263,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Deichmann Töcksfors]]></name>
-        <description>Deichmann Töcksfors, Töcksfors, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Deichmann Töcksfors, Töcksfors, Sverige]]></description>
         <Point><coordinates>11.842562,59.507813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Deichmann Frölunda Torg]]></name>
-        <description>Deichmann Frölunda Torg, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Deichmann Frölunda Torg, Göteborg, Sverige]]></description>
         <Point><coordinates>11.912937,57.651063,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Deichmann Kongahälla Shopping]]></name>
-        <description>Deichmann Kongahälla Shopping, Kungälv, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Deichmann Kongahälla Shopping, Kungälv, Sverige]]></description>
         <Point><coordinates>11.966938,57.874437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Deichmann Angered Centrum]]></name>
-        <description>Deichmann Angered Centrum, Angered, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Deichmann Angered Centrum, Angered, Sverige]]></description>
         <Point><coordinates>12.050562,57.796188,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Deichmann Charlottenbergs Shoppingcenter]]></name>
-        <description>Deichmann Charlottenbergs Shoppingcenter, Charlottenberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Deichmann Charlottenbergs Shoppingcenter, Charlottenberg, Sverige]]></description>
         <Point><coordinates>12.290688,59.881187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Deichmann Etage Shopping]]></name>
-        <description>Deichmann Etage Shopping, Trollhättan, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Deichmann Etage Shopping, Trollhättan, Sverige]]></description>
         <Point><coordinates>12.307187,58.312062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Deichmann Väla Centrum]]></name>
-        <description>Deichmann Väla Centrum, Ödåkra, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Deichmann Väla Centrum, Ödåkra, Sverige]]></description>
         <Point><coordinates>12.756937,56.091563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Deichmann Knalleland]]></name>
-        <description>Deichmann Knalleland, Borås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Deichmann Knalleland, Borås, Sverige]]></description>
         <Point><coordinates>12.938437,57.733812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Deichmann Emporia]]></name>
-        <description>Deichmann Emporia, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Deichmann Emporia, Malmö, Sverige]]></description>
         <Point><coordinates>12.972437,55.564563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Deichmann Löddeköpinge]]></name>
-        <description>Deichmann Löddeköpinge, Löddeköpinge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Deichmann Löddeköpinge, Löddeköpinge, Sverige]]></description>
         <Point><coordinates>12.989937,55.770063,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Deichmann Mobilia]]></name>
-        <description>Deichmann Mobilia, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Deichmann Mobilia, Malmö, Sverige]]></description>
         <Point><coordinates>13.003937,55.581437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Deichmann Valen Köpcentrum]]></name>
-        <description>Deichmann Valen Köpcentrum, Trelleborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Deichmann Valen Köpcentrum, Trelleborg, Sverige]]></description>
         <Point><coordinates>13.158188,55.374688,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Deichmann Mitt I City]]></name>
-        <description>Deichmann Mitt I City, Karlstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Deichmann Mitt I City, Karlstad, Sverige]]></description>
         <Point><coordinates>13.499937,59.380063,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Deichmann C4 Shopping]]></name>
-        <description>Deichmann C4 Shopping, Kristianstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Deichmann C4 Shopping, Kristianstad, Sverige]]></description>
         <Point><coordinates>14.205312,56.025312,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Deichmann Växjö]]></name>
-        <description>Deichmann Växjö, Växjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Deichmann Växjö, Växjö, Sverige]]></description>
         <Point><coordinates>14.766312,56.884563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Deichmann Marieberg Galleria]]></name>
-        <description>Deichmann Marieberg Galleria, Örebro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Deichmann Marieberg Galleria, Örebro, Sverige]]></description>
         <Point><coordinates>15.137562,59.217437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Deichmann Vågen Galleria]]></name>
-        <description>Deichmann Vågen Galleria, Örebro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Deichmann Vågen Galleria, Örebro, Sverige]]></description>
         <Point><coordinates>15.212484,59.269463,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Deichmann Galleria Falun]]></name>
-        <description>Deichmann Galleria Falun, Falun, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Deichmann Galleria Falun, Falun, Sverige]]></description>
         <Point><coordinates>15.628438,60.606813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Deichmann Mirum Galleria]]></name>
-        <description>Deichmann Mirum Galleria, Norrköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Deichmann Mirum Galleria, Norrköping, Sverige]]></description>
         <Point><coordinates>16.209187,58.572938,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Deichmann Hansa City]]></name>
-        <description>Deichmann Hansa City, Kalmar, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Deichmann Hansa City, Kalmar, Sverige]]></description>
         <Point><coordinates>16.319688,56.687188,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Deichmann Erikslund]]></name>
-        <description>Deichmann Erikslund, Västerås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Deichmann Erikslund, Västerås, Sverige]]></description>
         <Point><coordinates>16.455062,59.609063,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Deichmann Eskilstuna City]]></name>
-        <description>Deichmann Eskilstuna City, Eskilstuna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Deichmann Eskilstuna City, Eskilstuna, Sverige]]></description>
         <Point><coordinates>16.510438,59.371688,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Deichmann Valbo Köpcentrum]]></name>
-        <description>Deichmann Valbo Köpcentrum, Gävle, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Deichmann Valbo Köpcentrum, Gävle, Sverige]]></description>
         <Point><coordinates>16.993234,60.633612,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Deichmann Gottsunda Centrum]]></name>
-        <description>Deichmann Gottsunda Centrum, Uppsala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Deichmann Gottsunda Centrum, Uppsala, Sverige]]></description>
         <Point><coordinates>17.629688,59.810437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Deichmann Skärholmen Centrum]]></name>
-        <description>Deichmann Skärholmen Centrum, Skärholmen, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Deichmann Skärholmen Centrum, Skärholmen, Sverige]]></description>
         <Point><coordinates>17.906188,59.275562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Deichmann Upplands Väsby]]></name>
-        <description>Deichmann Upplands Väsby, Upplands Väsby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Deichmann Upplands Väsby, Upplands Väsby, Sverige]]></description>
         <Point><coordinates>17.912188,59.518563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Deichmann Kista Galleria]]></name>
-        <description>Deichmann Kista Galleria, Kista, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Deichmann Kista Galleria, Kista, Sverige]]></description>
         <Point><coordinates>17.944812,59.403063,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Deichmann Liljeholmstorget]]></name>
-        <description>Deichmann Liljeholmstorget, Liljeholmen, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Deichmann Liljeholmstorget, Liljeholmen, Sverige]]></description>
         <Point><coordinates>18.022188,59.309687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Deichmann Stockholm City]]></name>
-        <description>Deichmann Stockholm City, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Deichmann Stockholm City, Stockholm, Sverige]]></description>
         <Point><coordinates>18.068484,59.332463,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Deichmann Port 73]]></name>
-        <description>Deichmann Port 73, Haninge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Deichmann Port 73, Haninge, Sverige]]></description>
         <Point><coordinates>18.151063,59.180062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Deichmann Nacka Forum]]></name>
-        <description>Deichmann Nacka Forum, Nacka, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Deichmann Nacka Forum, Nacka, Sverige]]></description>
         <Point><coordinates>18.164266,59.309287,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Deichmann Avion Shopping]]></name>
-        <description>Deichmann Avion Shopping, Umeå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Deichmann Avion Shopping, Umeå, Sverige]]></description>
         <Point><coordinates>20.253937,63.806687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
     </Folder>
   </Document>

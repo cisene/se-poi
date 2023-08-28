@@ -1,223 +1,192 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>XXL</name>
+    <name><![CDATA[XXL]]></name>
     <description/>
-    <Style id="icon-22-normal">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-22-highlight">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-22">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-22-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-22-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
+    <Style id="icon-22-normal"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>
+    <Style id="icon-22-highlight"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>1.1</scale></LabelStyle></Style>
+    <StyleMap id="icon-22"><Pair><key>normal</key><styleUrl>#icon-22-normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#icon-22-highlight</styleUrl></Pair></StyleMap>
     <Folder>
       <name><![CDATA[XXL]]></name>
       <Placemark>
         <name><![CDATA[XXL Sisjön]]></name>
-        <description>XXL Sisjön, Askim, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[XXL Sisjön, Askim, Sverige]]></description>
         <Point><coordinates>11.952838,57.640161,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[XXL Bäckebol]]></name>
-        <description>XXL Bäckebol, Hisings Backa, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[XXL Bäckebol, Hisings Backa, Sverige]]></description>
         <Point><coordinates>11.98107,57.74413,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[XXL Charlottenberg]]></name>
-        <description>XXL Charlottenberg, Charlottenberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[XXL Charlottenberg, Charlottenberg, Sverige]]></description>
         <Point><coordinates>12.291487,59.880284,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[XXL Väla Centrum]]></name>
-        <description>XXL Väla Centrum, Ödåkra, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[XXL Väla Centrum, Ödåkra, Sverige]]></description>
         <Point><coordinates>12.764667,56.09405,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[XXL Halmstad]]></name>
-        <description>XXL Halmstad, Halmstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[XXL Halmstad, Halmstad, Sverige]]></description>
         <Point><coordinates>12.909442,56.656706,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[XXL Emporia (Plan 3)]]></name>
-        <description>XXL Emporia (Plan 3), Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[XXL Emporia (Plan 3), Malmö, Sverige]]></description>
         <Point><coordinates>12.973276,55.564576,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[XXL Triangeln (Plan 2)]]></name>
-        <description>XXL Triangeln (Plan 2), Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[XXL Triangeln (Plan 2), Malmö, Sverige]]></description>
         <Point><coordinates>13.001138,55.595191,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[XXL Välsviken]]></name>
-        <description>XXL Välsviken, Karlstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[XXL Välsviken, Karlstad, Sverige]]></description>
         <Point><coordinates>13.58037,59.396243,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[XXL Jönköping]]></name>
-        <description>XXL Jönköping, Jönköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[XXL Jönköping, Jönköping, Sverige]]></description>
         <Point><coordinates>14.171183,57.760466,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[XXL Östersund]]></name>
-        <description>XXL Östersund, Östersund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[XXL Östersund, Östersund, Sverige]]></description>
         <Point><coordinates>14.689101,63.173002,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[XXL Växjö]]></name>
-        <description>XXL Växjö, Växjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[XXL Växjö, Växjö, Sverige]]></description>
         <Point><coordinates>14.764793,56.880777,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[XXL Marieberg]]></name>
-        <description>XXL Marieberg, Örebro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[XXL Marieberg, Örebro, Sverige]]></description>
         <Point><coordinates>15.14237,59.219284,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[XXL Kupolen]]></name>
-        <description>XXL Kupolen, Borlänge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[XXL Kupolen, Borlänge, Sverige]]></description>
         <Point><coordinates>15.418079,60.484317,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[XXL Linköping]]></name>
-        <description>XXL Linköping, Linköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[XXL Linköping, Linköping, Sverige]]></description>
         <Point><coordinates>15.601994,58.434,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[XXL Ingelsta]]></name>
-        <description>XXL Ingelsta, Norrköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[XXL Ingelsta, Norrköping, Sverige]]></description>
         <Point><coordinates>16.1541,58.622247,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[XXL Kalmar]]></name>
-        <description>XXL Kalmar, Kalmar, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[XXL Kalmar, Kalmar, Sverige]]></description>
         <Point><coordinates>16.31676,56.69072,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[XXL Erikslund]]></name>
-        <description>XXL Erikslund, Västerås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[XXL Erikslund, Västerås, Sverige]]></description>
         <Point><coordinates>16.4578,59.611843,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[XXL Valbo Köpstad]]></name>
-        <description>XXL Valbo Köpstad, Gävle, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[XXL Valbo Köpstad, Gävle, Sverige]]></description>
         <Point><coordinates>16.988882,60.63403,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[XXL Sundsvall]]></name>
-        <description>XXL Sundsvall, Sundsvall, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[XXL Sundsvall, Sundsvall, Sverige]]></description>
         <Point><coordinates>17.341749,62.440835,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[XXL Uppsala]]></name>
-        <description>XXL Uppsala, Uppsala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[XXL Uppsala, Uppsala, Sverige]]></description>
         <Point><coordinates>17.693974,59.845467,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[XXL Barkarby]]></name>
-        <description>XXL Barkarby, Järfälla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[XXL Barkarby, Järfälla, Sverige]]></description>
         <Point><coordinates>17.86129,59.412361,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[XXL Heron City - Kungens Kurva]]></name>
-        <description>XXL Heron City - Kungens Kurva, Kungens Kurva, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[XXL Heron City - Kungens Kurva, Kungens Kurva, Sverige]]></description>
         <Point><coordinates>17.908879,59.267155,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[XXL Bromma Blocks]]></name>
-        <description>XXL Bromma Blocks, Bromma, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[XXL Bromma Blocks, Bromma, Sverige]]></description>
         <Point><coordinates>17.952213,59.356547,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[XXL City]]></name>
-        <description>XXL City, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[XXL City, Stockholm, Sverige]]></description>
         <Point><coordinates>18.069337,59.33258,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[XXL Sickla köpkvarter]]></name>
-        <description>XXL Sickla köpkvarter, Nacka, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[XXL Sickla köpkvarter, Nacka, Sverige]]></description>
         <Point><coordinates>18.124473,59.306166,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[XXL Länna Handelsplats]]></name>
-        <description>XXL Länna Handelsplats, Skogås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[XXL Länna Handelsplats, Skogås, Sverige]]></description>
         <Point><coordinates>18.125025,59.196988,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[XXL Arninge]]></name>
-        <description>XXL Arninge, Täby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[XXL Arninge, Täby, Sverige]]></description>
         <Point><coordinates>18.138008,59.460866,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[XXL Umeå]]></name>
-        <description>XXL Umeå, Umeå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[XXL Umeå, Umeå, Sverige]]></description>
         <Point><coordinates>20.301267,63.854282,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[XXL Skellefteå]]></name>
-        <description>XXL Skellefteå, Skellefteå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[XXL Skellefteå, Skellefteå, Sverige]]></description>
         <Point><coordinates>21.017361,64.765734,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[XXL Storheden]]></name>
-        <description>XXL Storheden, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[XXL Storheden, Luleå, Sverige]]></description>
         <Point><coordinates>22.043771,65.61659,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
     </Folder>
   </Document>

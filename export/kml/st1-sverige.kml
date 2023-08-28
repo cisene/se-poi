@@ -1,1639 +1,1608 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>St1 Sverige</name>
+    <name><![CDATA[St1 Sverige]]></name>
     <description/>
-    <Style id="icon-22-normal">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-22-highlight">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-22">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-22-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-22-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
+    <Style id="icon-22-normal"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>
+    <Style id="icon-22-highlight"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>1.1</scale></LabelStyle></Style>
+    <StyleMap id="icon-22"><Pair><key>normal</key><styleUrl>#icon-22-normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#icon-22-highlight</styleUrl></Pair></StyleMap>
     <Folder>
       <name><![CDATA[St1 Sverige]]></name>
       <Placemark>
         <name><![CDATA[St1 Strömstad]]></name>
-        <description>St1 Strömstad, Strömstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Strömstad, Strömstad, Sverige]]></description>
         <Point><coordinates>11.183964,58.944386,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Lysekil]]></name>
-        <description>St1 Lysekil, Lysekil, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Lysekil, Lysekil, Sverige]]></description>
         <Point><coordinates>11.465467,58.291911,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Fagerfjäll]]></name>
-        <description>St1 Fagerfjäll, Fagerfjäll, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Fagerfjäll, Fagerfjäll, Sverige]]></description>
         <Point><coordinates>11.653336,57.984653,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Munkedal E6]]></name>
-        <description>St1 Munkedal E6, Munkedal, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Munkedal E6, Munkedal, Sverige]]></description>
         <Point><coordinates>11.655748,58.477642,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Uddevalla Rotviksbro]]></name>
-        <description>St1 Uddevalla Rotviksbro, Uddevalla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Uddevalla Rotviksbro, Uddevalla, Sverige]]></description>
         <Point><coordinates>11.691632,58.3425,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Myggenäs Almö]]></name>
-        <description>St1 Myggenäs Almö, Myggenäs, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Myggenäs Almö, Myggenäs, Sverige]]></description>
         <Point><coordinates>11.7505,58.0626,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Torslanda Nordhagsv 18]]></name>
-        <description>St1 Torslanda Nordhagsv 18, Torslanda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Torslanda Nordhagsv 18, Torslanda, Sverige]]></description>
         <Point><coordinates>11.779634,57.716566,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Torslanda Nordhagsv 26]]></name>
-        <description>St1 Torslanda Nordhagsv 26, Torslanda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Torslanda Nordhagsv 26, Torslanda, Sverige]]></description>
         <Point><coordinates>11.781226,57.715813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Stenungsund]]></name>
-        <description>St1 Stenungsund, Stenungsund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Stenungsund, Stenungsund, Sverige]]></description>
         <Point><coordinates>11.80205,58.063799,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Svanesund]]></name>
-        <description>St1 Svanesund, Svanesund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Svanesund, Svanesund, Sverige]]></description>
         <Point><coordinates>11.808064,58.14507,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Uddevalla Herrestad]]></name>
-        <description>St1 Uddevalla Herrestad, Uddevalla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Uddevalla Herrestad, Uddevalla, Sverige]]></description>
         <Point><coordinates>11.830221,58.349512,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Säve]]></name>
-        <description>St1 Säve, Säve, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Säve, Säve, Sverige]]></description>
         <Point><coordinates>11.9122,57.7934,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Uddevalla Bastiongatan]]></name>
-        <description>St1 Uddevalla Bastiongatan, Uddevalla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Uddevalla Bastiongatan, Uddevalla, Sverige]]></description>
         <Point><coordinates>11.929725,58.350846,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Västra Frölunda Antenng]]></name>
-        <description>St1 Västra Frölunda Antenng, Västra frölunda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Västra Frölunda Antenng, Västra frölunda, Sverige]]></description>
         <Point><coordinates>11.9328,57.6593,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Västra Frölunda A Odhners Gata]]></name>
-        <description>St1 Västra Frölunda A Odhners Gata, Västra frölunda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Västra Frölunda A Odhners Gata, Västra frölunda, Sverige]]></description>
         <Point><coordinates>11.937264,57.659063,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Ed]]></name>
-        <description>St1 Ed, Ed, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Ed, Ed, Sverige]]></description>
         <Point><coordinates>11.945339,58.901111,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Göteborg Kvillebäcken]]></name>
-        <description>St1 Göteborg Kvillebäcken, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Göteborg Kvillebäcken, Göteborg, Sverige]]></description>
         <Point><coordinates>11.946011,57.726496,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Kungälv Rollsbovägen]]></name>
-        <description>St1 Kungälv Rollsbovägen, Kungälv, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Kungälv Rollsbovägen, Kungälv, Sverige]]></description>
         <Point><coordinates>11.947857,57.886608,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Askim Hantverksvägen]]></name>
-        <description>St1 Askim Hantverksvägen, Askim, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Askim Hantverksvägen, Askim, Sverige]]></description>
         <Point><coordinates>11.948757,57.641192,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Kungälv Christian lVs väg]]></name>
-        <description>St1 Kungälv Christian lVs väg, Kungälv, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Kungälv Christian lVs väg, Kungälv, Sverige]]></description>
         <Point><coordinates>11.949541,57.871395,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Uddevalla Västgötavägen]]></name>
-        <description>St1 Uddevalla Västgötavägen, Uddevalla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Uddevalla Västgötavägen, Uddevalla, Sverige]]></description>
         <Point><coordinates>11.951434,58.349136,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Kungälv Gymnasiegatan]]></name>
-        <description>St1 Kungälv Gymnasiegatan, Kungälv, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Kungälv Gymnasiegatan, Kungälv, Sverige]]></description>
         <Point><coordinates>11.971076,57.875641,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Göteborg Stureplatsen]]></name>
-        <description>St1 Göteborg Stureplatsen, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Göteborg Stureplatsen, Göteborg, Sverige]]></description>
         <Point><coordinates>11.978912,57.704513,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Hisings Backa Stigs Center]]></name>
-        <description>St1 Hisings Backa Stigs Center, Hisings backa, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Hisings Backa Stigs Center, Hisings backa, Sverige]]></description>
         <Point><coordinates>11.992378,57.747773,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Kungälv Lilla Kongahällavägen]]></name>
-        <description>St1 Kungälv Lilla Kongahällavägen, Kungälv, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Kungälv Lilla Kongahällavägen, Kungälv, Sverige]]></description>
         <Point><coordinates>11.998594,57.858541,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Mölndal]]></name>
-        <description>St1 Mölndal, Mölndal, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Mölndal, Mölndal, Sverige]]></description>
         <Point><coordinates>11.998953,57.660873,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Kärramotet]]></name>
-        <description>St1 Kärramotet, Hisings backa, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Kärramotet, Hisings backa, Sverige]]></description>
         <Point><coordinates>12.0014,57.7852,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Göteborg Kallebäck]]></name>
-        <description>St1 Göteborg Kallebäck, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Göteborg Kallebäck, Göteborg, Sverige]]></description>
         <Point><coordinates>12.004562,57.689736,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Göteborg Kortedala]]></name>
-        <description>St1 Göteborg Kortedala, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Göteborg Kortedala, Göteborg, Sverige]]></description>
         <Point><coordinates>12.027671,57.75572,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Angered]]></name>
-        <description>St1 Angered, Angered, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Angered, Angered, Sverige]]></description>
         <Point><coordinates>12.049965,57.793685,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Kungsbacka]]></name>
-        <description>St1 Kungsbacka, Kungsbacka, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Kungsbacka, Kungsbacka, Sverige]]></description>
         <Point><coordinates>12.0898,57.4798,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Lindome]]></name>
-        <description>St1 Lindome, Lindome, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Lindome, Lindome, Sverige]]></description>
         <Point><coordinates>12.0912,57.5768,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Åsa Varbergsvägen]]></name>
-        <description>St1 Åsa Varbergsvägen, Åsa, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Åsa Varbergsvägen, Åsa, Sverige]]></description>
         <Point><coordinates>12.122083,57.350486,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Lilla Edet]]></name>
-        <description>St1 Lilla Edet, Lilla edet, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Lilla Edet, Lilla edet, Sverige]]></description>
         <Point><coordinates>12.1283,58.14,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Årjäng]]></name>
-        <description>St1 Årjäng, Årjäng, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Årjäng, Årjäng, Sverige]]></description>
         <Point><coordinates>12.13476,59.394986,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Olofstorp]]></name>
-        <description>St1 Olofstorp, Olofstorp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Olofstorp, Olofstorp, Sverige]]></description>
         <Point><coordinates>12.1459,57.798,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Bengtsfors]]></name>
-        <description>St1 Bengtsfors, Bengtsfors, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Bengtsfors, Bengtsfors, Sverige]]></description>
         <Point><coordinates>12.233976,59.025458,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Lerum]]></name>
-        <description>St1 Lerum, Lerum, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Lerum, Lerum, Sverige]]></description>
         <Point><coordinates>12.25916,57.763857,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Varberg Jonstaka]]></name>
-        <description>St1 Varberg Jonstaka, Varberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Varberg Jonstaka, Varberg, Sverige]]></description>
         <Point><coordinates>12.279972,57.080787,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Trollhättan Vårviksvägen]]></name>
-        <description>St1 Trollhättan Vårviksvägen, Trollhättan, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Trollhättan Vårviksvägen, Trollhättan, Sverige]]></description>
         <Point><coordinates>12.2867,58.2975,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Trollhättan Lextorp]]></name>
-        <description>St1 Trollhättan Lextorp, Trollhättan, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Trollhättan Lextorp, Trollhättan, Sverige]]></description>
         <Point><coordinates>12.288595,58.259873,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Trollhättan Gärdhemsvägen]]></name>
-        <description>St1 Trollhättan Gärdhemsvägen, Trollhättan, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Trollhättan Gärdhemsvägen, Trollhättan, Sverige]]></description>
         <Point><coordinates>12.312495,58.275547,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Trollhättan Kardanvägen]]></name>
-        <description>St1 Trollhättan Kardanvägen, Trollhättan, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Trollhättan Kardanvägen, Trollhättan, Sverige]]></description>
         <Point><coordinates>12.322043,58.294488,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Veddige]]></name>
-        <description>St1 Veddige, Veddige, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Veddige, Veddige, Sverige]]></description>
         <Point><coordinates>12.327068,57.260507,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Mellerud]]></name>
-        <description>St1 Mellerud, Mellerud, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Mellerud, Mellerud, Sverige]]></description>
         <Point><coordinates>12.4494,58.7023,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Falkenberg Industrivägen]]></name>
-        <description>St1 Falkenberg Industrivägen, Falkenberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Falkenberg Industrivägen, Falkenberg, Sverige]]></description>
         <Point><coordinates>12.465726,56.907728,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Falkenberg Smidesvägen]]></name>
-        <description>St1 Falkenberg Smidesvägen, Falkenberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Falkenberg Smidesvägen, Falkenberg, Sverige]]></description>
         <Point><coordinates>12.499474,56.914427,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Hyssna]]></name>
-        <description>St1 Hyssna, Hyssna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Hyssna, Hyssna, Sverige]]></description>
         <Point><coordinates>12.526478,57.55272,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Alingsås Götaplan Järngatan]]></name>
-        <description>St1 Alingsås Götaplan Järngatan, Alingsås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Alingsås Götaplan Järngatan, Alingsås, Sverige]]></description>
         <Point><coordinates>12.546205,57.927613,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Alingsås Borgens Gata E20]]></name>
-        <description>St1 Alingsås Borgens Gata E20, Alingsås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Alingsås Borgens Gata E20, Alingsås, Sverige]]></description>
         <Point><coordinates>12.560199,57.930853,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Höganäs]]></name>
-        <description>St1 Höganäs, Höganäs, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Höganäs, Höganäs, Sverige]]></description>
         <Point><coordinates>12.564227,56.196159,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Arvika]]></name>
-        <description>St1 Arvika, Arvika, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Arvika, Arvika, Sverige]]></description>
         <Point><coordinates>12.6174,59.6477,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Helsingborg Rännarbanan]]></name>
-        <description>St1 Helsingborg Rännarbanan, Helsingborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Helsingborg Rännarbanan, Helsingborg, Sverige]]></description>
         <Point><coordinates>12.711416,56.029006,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Åmål]]></name>
-        <description>St1 Åmål, Åmål, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Åmål, Åmål, Sverige]]></description>
         <Point><coordinates>12.712103,59.043574,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Helsingborg Furutorpsg]]></name>
-        <description>St1 Helsingborg Furutorpsg, Helsingborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Helsingborg Furutorpsg, Helsingborg, Sverige]]></description>
         <Point><coordinates>12.713672,56.039323,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Vårgårda]]></name>
-        <description>St1 Vårgårda, Vårgårda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Vårgårda, Vårgårda, Sverige]]></description>
         <Point><coordinates>12.802123,58.040173,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Halmstad Gamla Tylösandsvägen]]></name>
-        <description>St1 Halmstad Gamla Tylösandsvägen, Halmstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Halmstad Gamla Tylösandsvägen, Halmstad, Sverige]]></description>
         <Point><coordinates>12.819136,56.667,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Landskrona Ringv]]></name>
-        <description>St1 Landskrona Ringv, Landskrona, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Landskrona Ringv, Landskrona, Sverige]]></description>
         <Point><coordinates>12.854727,55.880848,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Landskrona Malmövägen]]></name>
-        <description>St1 Landskrona Malmövägen, Landskrona, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Landskrona Malmövägen, Landskrona, Sverige]]></description>
         <Point><coordinates>12.855433,55.871666,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Ängelholm Helsingborgsv]]></name>
-        <description>St1 Ängelholm Helsingborgsv, Ängelholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Ängelholm Helsingborgsv, Ängelholm, Sverige]]></description>
         <Point><coordinates>12.86053,56.233138,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Halmstad Laholmsv]]></name>
-        <description>St1 Halmstad Laholmsv, Halmstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Halmstad Laholmsv, Halmstad, Sverige]]></description>
         <Point><coordinates>12.885881,56.663159,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Ängelholm Verkstadsg]]></name>
-        <description>St1 Ängelholm Verkstadsg, Ängelholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Ängelholm Verkstadsg, Ängelholm, Sverige]]></description>
         <Point><coordinates>12.89203,56.2492,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Säffle Kungsgatan]]></name>
-        <description>St1 Säffle Kungsgatan, Säffle, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Säffle Kungsgatan, Säffle, Sverige]]></description>
         <Point><coordinates>12.91646,59.129584,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Borås Knalleland]]></name>
-        <description>St1 Borås Knalleland, Borås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Borås Knalleland, Borås, Sverige]]></description>
         <Point><coordinates>12.9331,57.7337,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Borås Skaraborgsvägen]]></name>
-        <description>St1 Borås Skaraborgsvägen, Borås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Borås Skaraborgsvägen, Borås, Sverige]]></description>
         <Point><coordinates>12.939531,57.730885,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Malmö Linnégatan]]></name>
-        <description>St1 Malmö Linnégatan, Limhamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Malmö Linnégatan, Limhamn, Sverige]]></description>
         <Point><coordinates>12.942697,55.580873,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Borås Katrinedalsgatan]]></name>
-        <description>St1 Borås Katrinedalsgatan, Borås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Borås Katrinedalsgatan, Borås, Sverige]]></description>
         <Point><coordinates>12.947764,57.712784,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Mellbystrand Söderleden]]></name>
-        <description>St1 Mellbystrand Söderleden, Mellbystrand, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Mellbystrand Söderleden, Mellbystrand, Sverige]]></description>
         <Point><coordinates>12.956353,56.502331,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Oskarström]]></name>
-        <description>St1 Oskarström, Oskarström, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Oskarström, Oskarström, Sverige]]></description>
         <Point><coordinates>12.960735,56.804449,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Vara]]></name>
-        <description>St1 Vara, Vara, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Vara, Vara, Sverige]]></description>
         <Point><coordinates>12.964978,58.256457,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Malmö Bellevuevägen]]></name>
-        <description>St1 Malmö Bellevuevägen, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Malmö Bellevuevägen, Malmö, Sverige]]></description>
         <Point><coordinates>12.965127,55.580465,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Löddeköpinge]]></name>
-        <description>St1 Löddeköpinge, Löddeköpinge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Löddeköpinge, Löddeköpinge, Sverige]]></description>
         <Point><coordinates>12.989747,55.767738,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Malmö Svågertorp]]></name>
-        <description>St1 Malmö Svågertorp, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Malmö Svågertorp, Malmö, Sverige]]></description>
         <Point><coordinates>12.9956,55.5529,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Malmö Munkhättegatan]]></name>
-        <description>St1 Malmö Munkhättegatan, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Malmö Munkhättegatan, Malmö, Sverige]]></description>
         <Point><coordinates>13.011719,55.568823,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Malmö Lantmannagatan]]></name>
-        <description>St1 Malmö Lantmannagatan, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Malmö Lantmannagatan, Malmö, Sverige]]></description>
         <Point><coordinates>13.01854,55.58392,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Malmö Eriksfältsgatan]]></name>
-        <description>St1 Malmö Eriksfältsgatan, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Malmö Eriksfältsgatan, Malmö, Sverige]]></description>
         <Point><coordinates>13.024496,55.573102,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Malmö Cypressvägen]]></name>
-        <description>St1 Malmö Cypressvägen, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Malmö Cypressvägen, Malmö, Sverige]]></description>
         <Point><coordinates>13.038748,55.571988,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Malmö Lundavägen]]></name>
-        <description>St1 Malmö Lundavägen, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Malmö Lundavägen, Malmö, Sverige]]></description>
         <Point><coordinates>13.043401,55.615347,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Malmö Ramelsv]]></name>
-        <description>St1 Malmö Ramelsv, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Malmö Ramelsv, Malmö, Sverige]]></description>
         <Point><coordinates>13.053983,55.582213,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Malmö Bulltofta]]></name>
-        <description>St1 Malmö Bulltofta, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Malmö Bulltofta, Malmö, Sverige]]></description>
         <Point><coordinates>13.061338,55.596356,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Gånghester Aplared]]></name>
-        <description>St1 Gånghester Aplared, Gånghester, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Gånghester Aplared, Gånghester, Sverige]]></description>
         <Point><coordinates>13.06357,57.64947,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Kävlinge]]></name>
-        <description>St1 Kävlinge, Kävlinge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Kävlinge, Kävlinge, Sverige]]></description>
         <Point><coordinates>13.097691,55.79858,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Svalöv]]></name>
-        <description>St1 Svalöv, Svalöv, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Svalöv, Svalöv, Sverige]]></description>
         <Point><coordinates>13.106,55.9093,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Klippan]]></name>
-        <description>St1 Klippan, Klippan, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Klippan, Klippan, Sverige]]></description>
         <Point><coordinates>13.106473,56.206441,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Grums]]></name>
-        <description>St1 Grums, Grums, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Grums, Grums, Sverige]]></description>
         <Point><coordinates>13.112091,59.361137,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Trelleborg]]></name>
-        <description>St1 Trelleborg, Trelleborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Trelleborg, Trelleborg, Sverige]]></description>
         <Point><coordinates>13.123112,55.376439,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Lidköping Strandgatan]]></name>
-        <description>St1 Lidköping Strandgatan, Lidköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Lidköping Strandgatan, Lidköping, Sverige]]></description>
         <Point><coordinates>13.151189,58.508548,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Lidköping Hamngatan]]></name>
-        <description>St1 Lidköping Hamngatan, Lidköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Lidköping Hamngatan, Lidköping, Sverige]]></description>
         <Point><coordinates>13.153514,58.494804,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Lund Bondevägen]]></name>
-        <description>St1 Lund Bondevägen, Lund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Lund Bondevägen, Lund, Sverige]]></description>
         <Point><coordinates>13.1702,55.7122,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Lund Trollebergsv]]></name>
-        <description>St1 Lund Trollebergsv, Lund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Lund Trollebergsv, Lund, Sverige]]></description>
         <Point><coordinates>13.176436,55.702998,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Lidköping Rörstrandsgatan]]></name>
-        <description>St1 Lidköping Rörstrandsgatan, Lidköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Lidköping Rörstrandsgatan, Lidköping, Sverige]]></description>
         <Point><coordinates>13.180503,58.498113,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Eslöv Ystadsvägen]]></name>
-        <description>St1 Eslöv Ystadsvägen, Eslöv, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Eslöv Ystadsvägen, Eslöv, Sverige]]></description>
         <Point><coordinates>13.304625,55.831924,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Eslöv Trehäradsvägen]]></name>
-        <description>St1 Eslöv Trehäradsvägen, Eslöv, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Eslöv Trehäradsvägen, Eslöv, Sverige]]></description>
         <Point><coordinates>13.315709,55.834197,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Flyinge]]></name>
-        <description>St1 Flyinge, Flyinge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Flyinge, Flyinge, Sverige]]></description>
         <Point><coordinates>13.318837,55.772101,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Dalby]]></name>
-        <description>St1 Dalby, Dalby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Dalby, Dalby, Sverige]]></description>
         <Point><coordinates>13.350287,55.670543,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Ulricehamn]]></name>
-        <description>St1 Ulricehamn, Ulricehamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Ulricehamn, Ulricehamn, Sverige]]></description>
         <Point><coordinates>13.409256,57.804171,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Karlstad Våxnäs]]></name>
-        <description>St1 Karlstad Våxnäs, Karlstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Karlstad Våxnäs, Karlstad, Sverige]]></description>
         <Point><coordinates>13.463023,59.382323,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Karlstad Våxnäs Hagalundsvägen]]></name>
-        <description>St1 Karlstad Våxnäs Hagalundsvägen, Karlstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Karlstad Våxnäs Hagalundsvägen, Karlstad, Sverige]]></description>
         <Point><coordinates>13.474951,59.383517,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Forshaga Framgårdsvägen]]></name>
-        <description>St1 Forshaga Framgårdsvägen, Forshaga, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Forshaga Framgårdsvägen, Forshaga, Sverige]]></description>
         <Point><coordinates>13.482814,59.537929,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Veberöd]]></name>
-        <description>St1 Veberöd, Veberöd, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Veberöd, Veberöd, Sverige]]></description>
         <Point><coordinates>13.49128,55.635142,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Götene]]></name>
-        <description>St1 Götene, Götene, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Götene, Götene, Sverige]]></description>
         <Point><coordinates>13.5088,58.5384,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Gislaved]]></name>
-        <description>St1 Gislaved, Gislaved, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Gislaved, Gislaved, Sverige]]></description>
         <Point><coordinates>13.542644,57.303344,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Falköping Ulricehamnsrondellen]]></name>
-        <description>St1 Falköping Ulricehamnsrondellen, Falköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Falköping Ulricehamnsrondellen, Falköping, Sverige]]></description>
         <Point><coordinates>13.558371,58.150844,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Falköping Nordmannagatan]]></name>
-        <description>St1 Falköping Nordmannagatan, Falköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Falköping Nordmannagatan, Falköping, Sverige]]></description>
         <Point><coordinates>13.56879,58.182844,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Falköping Fredsgatan]]></name>
-        <description>St1 Falköping Fredsgatan, Falköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Falköping Fredsgatan, Falköping, Sverige]]></description>
         <Point><coordinates>13.569126,58.160737,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Tyringe Helsingborgsvängen]]></name>
-        <description>St1 Tyringe Helsingborgsvängen, Tyringe, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Tyringe Helsingborgsvängen, Tyringe, Sverige]]></description>
         <Point><coordinates>13.589252,56.163638,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Markaryd]]></name>
-        <description>St1 Markaryd, Markaryd, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Markaryd, Markaryd, Sverige]]></description>
         <Point><coordinates>13.599908,56.466615,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Hörby]]></name>
-        <description>St1 Hörby, Hörby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Hörby, Hörby, Sverige]]></description>
         <Point><coordinates>13.649883,55.849641,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Hagfors]]></name>
-        <description>St1 Hagfors, Hagfors, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Hagfors, Hagfors, Sverige]]></description>
         <Point><coordinates>13.70442,60.042968,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Bjärnum Södra Vägen]]></name>
-        <description>St1 Bjärnum Södra Vägen, Bjärnum, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Bjärnum Södra Vägen, Bjärnum, Sverige]]></description>
         <Point><coordinates>13.712428,56.287687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Hässleholm Svedjemarksgatan]]></name>
-        <description>St1 Hässleholm Svedjemarksgatan, Hässleholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Hässleholm Svedjemarksgatan, Hässleholm, Sverige]]></description>
         <Point><coordinates>13.779344,56.1511,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Ystad Spaljégatan]]></name>
-        <description>St1 Ystad Spaljégatan, Ystad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Ystad Spaljégatan, Ystad, Sverige]]></description>
         <Point><coordinates>13.79868,55.43298,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Hässleholm Mackgatan]]></name>
-        <description>St1 Hässleholm Mackgatan, Hässleholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Hässleholm Mackgatan, Hässleholm, Sverige]]></description>
         <Point><coordinates>13.81913,56.170135,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Skövde Gustav Afolfs Gata]]></name>
-        <description>St1 Skövde Gustav Afolfs Gata, Skövde, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Skövde Gustav Afolfs Gata, Skövde, Sverige]]></description>
         <Point><coordinates>13.852393,58.404443,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Mariestad]]></name>
-        <description>St1 Mariestad, Mariestad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Mariestad, Mariestad, Sverige]]></description>
         <Point><coordinates>13.859759,58.711023,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Mullsjö]]></name>
-        <description>St1 Mullsjö, Mullsjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Mullsjö, Mullsjö, Sverige]]></description>
         <Point><coordinates>13.86212,57.90332,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Skövde Mariestadsvägen]]></name>
-        <description>St1 Skövde Mariestadsvägen, Skövde, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Skövde Mariestadsvägen, Skövde, Sverige]]></description>
         <Point><coordinates>13.866296,58.403238,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Ljungby]]></name>
-        <description>St1 Ljungby, Ljungby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Ljungby, Ljungby, Sverige]]></description>
         <Point><coordinates>13.944221,56.841261,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Tomelilla]]></name>
-        <description>St1 Tomelilla, Tomelilla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Tomelilla, Tomelilla, Sverige]]></description>
         <Point><coordinates>13.9565,55.5435,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Värnamo Halmstadsvägen]]></name>
-        <description>St1 Värnamo Halmstadsvägen, Värnamo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Värnamo Halmstadsvägen, Värnamo, Sverige]]></description>
         <Point><coordinates>14.023514,57.18246,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Värnamo Malmövägen]]></name>
-        <description>St1 Värnamo Malmövägen, Värnamo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Värnamo Malmövägen, Värnamo, Sverige]]></description>
         <Point><coordinates>14.063056,57.170529,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Värnamo Tr pl Värnamo]]></name>
-        <description>St1 Värnamo Tr pl Värnamo, Värnamo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Värnamo Tr pl Värnamo, Värnamo, Sverige]]></description>
         <Point><coordinates>14.074947,57.163877,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Habo]]></name>
-        <description>St1 Habo, Habo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Habo, Habo, Sverige]]></description>
         <Point><coordinates>14.096789,57.899987,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Kristinehamn Karlstadsvägen]]></name>
-        <description>St1 Kristinehamn Karlstadsvägen, Kristinehamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Kristinehamn Karlstadsvägen, Kristinehamn, Sverige]]></description>
         <Point><coordinates>14.10216,59.31576,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Tibro]]></name>
-        <description>St1 Tibro, Tibro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Tibro, Tibro, Sverige]]></description>
         <Point><coordinates>14.132783,58.419042,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Kristianstad Långebrog 76]]></name>
-        <description>St1 Kristianstad Långebrog 76, Kristianstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Kristianstad Långebrog 76, Kristianstad, Sverige]]></description>
         <Point><coordinates>14.137144,56.020717,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Kristianstad Långebrog 58]]></name>
-        <description>St1 Kristianstad Långebrog 58, Kristianstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Kristianstad Långebrog 58, Kristianstad, Sverige]]></description>
         <Point><coordinates>14.141423,56.021613,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Älmhult Danska Vägen]]></name>
-        <description>St1 Älmhult Danska Vägen, Älmhult, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Älmhult Danska Vägen, Älmhult, Sverige]]></description>
         <Point><coordinates>14.148435,56.556856,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Jönköping Jordbrov]]></name>
-        <description>St1 Jönköping Jordbrov, Jönköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Jönköping Jordbrov, Jönköping, Sverige]]></description>
         <Point><coordinates>14.152978,57.765641,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Jönköping Råslätt]]></name>
-        <description>St1 Jönköping Råslätt, Jönköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Jönköping Råslätt, Jönköping, Sverige]]></description>
         <Point><coordinates>14.1565,57.7458,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Kristianstad Blekingevägen]]></name>
-        <description>St1 Kristianstad Blekingevägen, Kristianstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Kristianstad Blekingevägen, Kristianstad, Sverige]]></description>
         <Point><coordinates>14.171893,56.026406,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Jönköping Herkulesvägen]]></name>
-        <description>St1 Jönköping Herkulesvägen, Jönköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Jönköping Herkulesvägen, Jönköping, Sverige]]></description>
         <Point><coordinates>14.175802,57.772441,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Hova]]></name>
-        <description>St1 Hova, Hova, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Hova, Hova, Sverige]]></description>
         <Point><coordinates>14.205619,58.854323,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Jönköping Ekhagen]]></name>
-        <description>St1 Jönköping Ekhagen, Jönköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Jönköping Ekhagen, Jönköping, Sverige]]></description>
         <Point><coordinates>14.221664,57.777051,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Vansbro Älvgatan]]></name>
-        <description>St1 Vansbro Älvgatan, Vansbro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Vansbro Älvgatan, Vansbro, Sverige]]></description>
         <Point><coordinates>14.230376,60.50867,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Hjo Falköpingsvägen]]></name>
-        <description>St1 Hjo Falköpingsvägen, Hjo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Hjo Falköpingsvägen, Hjo, Sverige]]></description>
         <Point><coordinates>14.2579,58.3028,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Fjälkinge]]></name>
-        <description>St1 Fjälkinge, Fjälkinge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Fjälkinge, Fjälkinge, Sverige]]></description>
         <Point><coordinates>14.269313,56.035131,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Åhus]]></name>
-        <description>St1 Åhus, Åhus, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Åhus, Åhus, Sverige]]></description>
         <Point><coordinates>14.287788,55.933775,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Simrishamn]]></name>
-        <description>St1 Simrishamn, Simrishamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Simrishamn, Simrishamn, Sverige]]></description>
         <Point><coordinates>14.336502,55.545995,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Karlskoga]]></name>
-        <description>St1 Karlskoga, Karlskoga, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Karlskoga, Karlskoga, Sverige]]></description>
         <Point><coordinates>14.497788,59.323503,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Hällefors]]></name>
-        <description>St1 Hällefors, Hällefors, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Hällefors, Hällefors, Sverige]]></description>
         <Point><coordinates>14.524475,59.776982,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Olofström]]></name>
-        <description>St1 Olofström, Olofström, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Olofström, Olofström, Sverige]]></description>
         <Point><coordinates>14.552315,56.260067,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Välkommen in Mora]]></name>
-        <description>Välkommen in Mora, Mora, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Välkommen in Mora, Mora, Sverige]]></description>
         <Point><coordinates>14.555506,61.009531,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Mora]]></name>
-        <description>St1 Mora, Mora, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Mora, Mora, Sverige]]></description>
         <Point><coordinates>14.555506,61.009531,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Sölvesborg Skånevägen]]></name>
-        <description>St1 Sölvesborg Skånevägen, Sölvesborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Sölvesborg Skånevägen, Sölvesborg, Sverige]]></description>
         <Point><coordinates>14.569066,56.053069,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Sölvesborg Snapphanegatan]]></name>
-        <description>St1 Sölvesborg Snapphanegatan, Sölvesborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Sölvesborg Snapphanegatan, Sölvesborg, Sverige]]></description>
         <Point><coordinates>14.592094,56.058709,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Pukavik]]></name>
-        <description>St1 Pukavik, Mörrum, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Pukavik, Mörrum, Sverige]]></description>
         <Point><coordinates>14.6814,56.1668,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Nässjö Sörängsvägen]]></name>
-        <description>St1 Nässjö Sörängsvägen, Nässjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Nässjö Sörängsvägen, Nässjö, Sverige]]></description>
         <Point><coordinates>14.706011,57.650867,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Dalbo Växjö]]></name>
-        <description>St1 Dalbo Växjö, Växjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Dalbo Växjö, Växjö, Sverige]]></description>
         <Point><coordinates>14.798191,56.89014,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Växjö Hovshaga]]></name>
-        <description>St1 Växjö Hovshaga, Växjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Växjö Hovshaga, Växjö, Sverige]]></description>
         <Point><coordinates>14.7984,56.9026,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Växjö Mörners Väg]]></name>
-        <description>St1 Växjö Mörners Väg, Växjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Växjö Mörners Väg, Växjö, Sverige]]></description>
         <Point><coordinates>14.816364,56.891174,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Karlshamn Jannebergsv]]></name>
-        <description>St1 Karlshamn Jannebergsv, Karlshamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Karlshamn Jannebergsv, Karlshamn, Sverige]]></description>
         <Point><coordinates>14.84452,56.192112,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Karlshamn Hinseleden]]></name>
-        <description>St1 Karlshamn Hinseleden, Karlshamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Karlshamn Hinseleden, Karlshamn, Sverige]]></description>
         <Point><coordinates>14.8505,56.1682,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Tranås Hagadalsgatan]]></name>
-        <description>St1 Tranås Hagadalsgatan, Tranås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Tranås Hagadalsgatan, Tranås, Sverige]]></description>
         <Point><coordinates>14.958018,58.02711,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Eksjö]]></name>
-        <description>St1 Eksjö, Eksjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Eksjö, Eksjö, Sverige]]></description>
         <Point><coordinates>14.9616,57.6585,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Tranås]]></name>
-        <description>St1 Tranås, Tranås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Tranås, Tranås, Sverige]]></description>
         <Point><coordinates>14.976346,58.03815,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Motala]]></name>
-        <description>St1 Motala, Motala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Motala, Motala, Sverige]]></description>
         <Point><coordinates>15.0162,58.539279,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Nora Storgatan]]></name>
-        <description>St1 Nora Storgatan, Nora, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Nora Storgatan, Nora, Sverige]]></description>
         <Point><coordinates>15.032793,59.519285,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Vetlanda]]></name>
-        <description>St1 Vetlanda, Vetlanda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Vetlanda, Vetlanda, Sverige]]></description>
         <Point><coordinates>15.09079,57.414923,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Rättvik Nyåkersvägen]]></name>
-        <description>St1 Rättvik Nyåkersvägen, Rättvik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Rättvik Nyåkersvägen, Rättvik, Sverige]]></description>
         <Point><coordinates>15.110406,60.890752,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Bräkne Hoby]]></name>
-        <description>St1 Bräkne Hoby, Bräkne-hoby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Bräkne Hoby, Bräkne-hoby, Sverige]]></description>
         <Point><coordinates>15.111381,56.222553,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Mjölby Kungsvägen]]></name>
-        <description>St1 Mjölby Kungsvägen, Mjölby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Mjölby Kungsvägen, Mjölby, Sverige]]></description>
         <Point><coordinates>15.114469,58.331339,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Kumla]]></name>
-        <description>St1 Kumla, Kumla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Kumla, Kumla, Sverige]]></description>
         <Point><coordinates>15.132809,59.124432,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Örebro Nejlikegatan]]></name>
-        <description>St1 Örebro Nejlikegatan, Örebro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Örebro Nejlikegatan, Örebro, Sverige]]></description>
         <Point><coordinates>15.166911,59.294739,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Örebro Karlsundsg]]></name>
-        <description>St1 Örebro Karlsundsg, Örebro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Örebro Karlsundsg, Örebro, Sverige]]></description>
         <Point><coordinates>15.196,59.274,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Lindesberg]]></name>
-        <description>St1 Lindesberg, Lindesberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Lindesberg, Lindesberg, Sverige]]></description>
         <Point><coordinates>15.224,59.5982,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Ronneby Kallinge]]></name>
-        <description>St1 Ronneby Kallinge, Kallinge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Ronneby Kallinge, Kallinge, Sverige]]></description>
         <Point><coordinates>15.263,56.2335,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Ronneby]]></name>
-        <description>St1 Ronneby, Ronneby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Ronneby, Ronneby, Sverige]]></description>
         <Point><coordinates>15.26908,56.218826,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Mantorp]]></name>
-        <description>St1 Mantorp, Mantorp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Mantorp, Mantorp, Sverige]]></description>
         <Point><coordinates>15.29618,58.365378,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Borlänge Kupolen]]></name>
-        <description>St1 Borlänge Kupolen, Borlänge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Borlänge Kupolen, Borlänge, Sverige]]></description>
         <Point><coordinates>15.415052,60.482125,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Falun Gruvgatan]]></name>
-        <description>St1 Falun Gruvgatan, Falun, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Falun Gruvgatan, Falun, Sverige]]></description>
         <Point><coordinates>15.619792,60.602516,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Falun Timmervägen]]></name>
-        <description>St1 Falun Timmervägen, Falun, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Falun Timmervägen, Falun, Sverige]]></description>
         <Point><coordinates>15.623602,60.598092,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Kisa]]></name>
-        <description>St1 Kisa, Kisa, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Kisa, Kisa, Sverige]]></description>
         <Point><coordinates>15.63183,57.98617,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Linköping Torvingeg]]></name>
-        <description>St1 Linköping Torvingeg, Linköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Linköping Torvingeg, Linköping, Sverige]]></description>
         <Point><coordinates>15.657461,58.418162,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Linköping Ekholmen]]></name>
-        <description>St1 Linköping Ekholmen, Linköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Linköping Ekholmen, Linköping, Sverige]]></description>
         <Point><coordinates>15.682796,58.3783,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Linköping Tallboda]]></name>
-        <description>St1 Linköping Tallboda, Linköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Linköping Tallboda, Linköping, Sverige]]></description>
         <Point><coordinates>15.686065,58.426294,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Linköping Låskolvsgatan]]></name>
-        <description>St1 Linköping Låskolvsgatan, Linköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Linköping Låskolvsgatan, Linköping, Sverige]]></description>
         <Point><coordinates>15.690953,58.399335,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Falun Korsnäs]]></name>
-        <description>St1 Falun Korsnäs, Falun, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Falun Korsnäs, Falun, Sverige]]></description>
         <Point><coordinates>15.748225,60.592645,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Finspång Östermalmsvägen]]></name>
-        <description>St1 Finspång Östermalmsvägen, Finspång, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Finspång Östermalmsvägen, Finspång, Sverige]]></description>
         <Point><coordinates>15.785869,58.710609,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Fagersta Blomstervägen]]></name>
-        <description>St1 Fagersta Blomstervägen, Fagersta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Fagersta Blomstervägen, Fagersta, Sverige]]></description>
         <Point><coordinates>15.7964,60.0007,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Fagersta Floravägen]]></name>
-        <description>St1 Fagersta Floravägen, Fagersta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Fagersta Floravägen, Fagersta, Sverige]]></description>
         <Point><coordinates>15.8101,59.9956,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Hultsfred]]></name>
-        <description>St1 Hultsfred, Hultsfred, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Hultsfred, Hultsfred, Sverige]]></description>
         <Point><coordinates>15.832799,57.495988,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Vimmerby S Industrig]]></name>
-        <description>St1 Vimmerby S Industrig, Vimmerby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Vimmerby S Industrig, Vimmerby, Sverige]]></description>
         <Point><coordinates>15.8504,57.663,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Vimmerby Norrgårdsg]]></name>
-        <description>St1 Vimmerby Norrgårdsg, Vimmerby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Vimmerby Norrgårdsg, Vimmerby, Sverige]]></description>
         <Point><coordinates>15.8527,57.6778,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Skärblacka]]></name>
-        <description>St1 Skärblacka, Skärblacka, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Skärblacka, Skärblacka, Sverige]]></description>
         <Point><coordinates>15.9245,58.5814,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Fågelmara]]></name>
-        <description>St1 Fågelmara, Fågelmara, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Fågelmara, Fågelmara, Sverige]]></description>
         <Point><coordinates>15.949691,56.260593,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Hedemora Tviksta]]></name>
-        <description>St1 Hedemora Tviksta, Hedemora, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Hedemora Tviksta, Hedemora, Sverige]]></description>
         <Point><coordinates>15.977604,60.296616,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Köping]]></name>
-        <description>St1 Köping, Köping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Köping, Köping, Sverige]]></description>
         <Point><coordinates>15.980782,59.512601,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Hedemora]]></name>
-        <description>St1 Hedemora, Hedemora, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Hedemora, Hedemora, Sverige]]></description>
         <Point><coordinates>15.99385,60.284662,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Ljusdal]]></name>
-        <description>St1 Ljusdal, Ljusdal, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Ljusdal, Ljusdal, Sverige]]></description>
         <Point><coordinates>16.116432,61.824672,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Norrköping Kopparg]]></name>
-        <description>St1 Norrköping Kopparg, Norrköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Norrköping Kopparg, Norrköping, Sverige]]></description>
         <Point><coordinates>16.155187,58.616262,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Norrköping Stockholmsv]]></name>
-        <description>St1 Norrköping Stockholmsv, Norrköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Norrköping Stockholmsv, Norrköping, Sverige]]></description>
         <Point><coordinates>16.170005,58.598427,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Katrineholm]]></name>
-        <description>St1 Katrineholm, Katrineholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Katrineholm, Katrineholm, Sverige]]></description>
         <Point><coordinates>16.221,58.9978,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Hofors Faluvägen]]></name>
-        <description>St1 Hofors Faluvägen, Hofors, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Hofors Faluvägen, Hofors, Sverige]]></description>
         <Point><coordinates>16.289117,60.541133,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Kalmar Husmorsvägen]]></name>
-        <description>St1 Kalmar Husmorsvägen, Kalmar, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Kalmar Husmorsvägen, Kalmar, Sverige]]></description>
         <Point><coordinates>16.301916,56.723943,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Kalmar Engelska Vägen]]></name>
-        <description>St1 Kalmar Engelska Vägen, Kalmar, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Kalmar Engelska Vägen, Kalmar, Sverige]]></description>
         <Point><coordinates>16.330303,56.695115,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Kalmar Funkabovägen]]></name>
-        <description>St1 Kalmar Funkabovägen, Kalmar, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Kalmar Funkabovägen, Kalmar, Sverige]]></description>
         <Point><coordinates>16.339985,56.688466,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Bollnäs Postgränd]]></name>
-        <description>St1 Bollnäs Postgränd, Bollnäs, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Bollnäs Postgränd, Bollnäs, Sverige]]></description>
         <Point><coordinates>16.390247,61.350127,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Bollnäs Våggatan]]></name>
-        <description>St1 Bollnäs Våggatan, Bollnäs, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Bollnäs Våggatan, Bollnäs, Sverige]]></description>
         <Point><coordinates>16.394482,61.346278,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Eskilstuna Tuna Park]]></name>
-        <description>St1 Eskilstuna Tuna Park, Eskilstuna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Eskilstuna Tuna Park, Eskilstuna, Sverige]]></description>
         <Point><coordinates>16.469925,59.375442,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Västerås Råby Fredriksbergsgatan]]></name>
-        <description>St1 Västerås Råby Fredriksbergsgatan, Västerås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Västerås Råby Fredriksbergsgatan, Västerås, Sverige]]></description>
         <Point><coordinates>16.485486,59.606568,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Eskilstuna Gillbergaplan]]></name>
-        <description>St1 Eskilstuna Gillbergaplan, Eskilstuna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Eskilstuna Gillbergaplan, Eskilstuna, Sverige]]></description>
         <Point><coordinates>16.506661,59.361618,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Eskilstuna Årbygatan]]></name>
-        <description>St1 Eskilstuna Årbygatan, Eskilstuna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Eskilstuna Årbygatan, Eskilstuna, Sverige]]></description>
         <Point><coordinates>16.512847,59.383211,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Västerås Fältmätarg]]></name>
-        <description>St1 Västerås Fältmätarg, Västerås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Västerås Fältmätarg, Västerås, Sverige]]></description>
         <Point><coordinates>16.613921,59.61326,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Sala]]></name>
-        <description>St1 Sala, Sala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Sala, Sala, Sverige]]></description>
         <Point><coordinates>16.61525,59.91537,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Sandviken]]></name>
-        <description>St1 Sandviken, Sandviken, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Sandviken, Sandviken, Sverige]]></description>
         <Point><coordinates>16.757961,60.623634,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Nyköping Skavsta]]></name>
-        <description>St1 Nyköping Skavsta, Nyköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Nyköping Skavsta, Nyköping, Sverige]]></description>
         <Point><coordinates>16.925967,58.782499,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Nyköping Norrköpingsv 3]]></name>
-        <description>St1 Nyköping Norrköpingsv 3, Nyköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Nyköping Norrköpingsv 3, Nyköping, Sverige]]></description>
         <Point><coordinates>16.992249,58.75115,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Strängnäs Eskilstunavägen]]></name>
-        <description>St1 Strängnäs Eskilstunavägen, Strängnäs, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Strängnäs Eskilstunavägen, Strängnäs, Sverige]]></description>
         <Point><coordinates>17.012651,59.37657,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Söderhamn]]></name>
-        <description>St1 Söderhamn, Söderhamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Söderhamn, Söderhamn, Sverige]]></description>
         <Point><coordinates>17.041441,61.301163,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Enköping Mästerg]]></name>
-        <description>St1 Enköping Mästerg, Enköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Enköping Mästerg, Enköping, Sverige]]></description>
         <Point><coordinates>17.0866,59.6478,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Hudiksvall]]></name>
-        <description>St1 Hudiksvall, Hudiksvall, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Hudiksvall, Hudiksvall, Sverige]]></description>
         <Point><coordinates>17.099646,61.734063,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Gävle Sätra Höjden]]></name>
-        <description>St1 Gävle Sätra Höjden, Gävle, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Gävle Sätra Höjden, Gävle, Sverige]]></description>
         <Point><coordinates>17.122333,60.694065,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Gävle Industrigatan]]></name>
-        <description>St1 Gävle Industrigatan, Gävle, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Gävle Industrigatan, Gävle, Sverige]]></description>
         <Point><coordinates>17.168712,60.667342,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Gävle Bomhus]]></name>
-        <description>St1 Gävle Bomhus, Gävle, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Gävle Bomhus, Gävle, Sverige]]></description>
         <Point><coordinates>17.218395,60.675437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Sollefteå Norra Ådalsvägen]]></name>
-        <description>St1 Sollefteå Norra Ådalsvägen, Sollefteå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Sollefteå Norra Ådalsvägen, Sollefteå, Sverige]]></description>
         <Point><coordinates>17.275673,63.177981,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Sundsbruk Birsta]]></name>
-        <description>St1 Sundsbruk Birsta, Sundsvall, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Sundsbruk Birsta, Sundsvall, Sverige]]></description>
         <Point><coordinates>17.3308,62.4416,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Älvkarleby]]></name>
-        <description>St1 Älvkarleby, Älvkarleby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Älvkarleby, Älvkarleby, Sverige]]></description>
         <Point><coordinates>17.463195,60.560875,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Bålsta]]></name>
-        <description>St1 Bålsta, Bålsta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Bålsta, Bålsta, Sverige]]></description>
         <Point><coordinates>17.554837,59.561665,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Högsta]]></name>
-        <description>St1 Högsta, Uppsala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Högsta, Uppsala, Sverige]]></description>
         <Point><coordinates>17.5756,59.9783,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Södertälje]]></name>
-        <description>St1 Södertälje, Södertälje, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Södertälje, Södertälje, Sverige]]></description>
         <Point><coordinates>17.614696,59.186747,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Kungsängen Brunna]]></name>
-        <description>St1 Kungsängen Brunna, Kungsängen, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Kungsängen Brunna, Kungsängen, Sverige]]></description>
         <Point><coordinates>17.741482,59.505131,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Rönninge Salem]]></name>
-        <description>St1 Rönninge Salem, Rönninge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Rönninge Salem, Rönninge, Sverige]]></description>
         <Point><coordinates>17.759672,59.201568,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Botkyrka]]></name>
-        <description>St1 Botkyrka, Tumba, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Botkyrka, Tumba, Sverige]]></description>
         <Point><coordinates>17.831291,59.214365,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Tumba Dalvägen]]></name>
-        <description>St1 Tumba Dalvägen, Tumba, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Tumba Dalvägen, Tumba, Sverige]]></description>
         <Point><coordinates>17.831372,59.195559,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Norsborg Alby]]></name>
-        <description>St1 Norsborg Alby, Norsborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Norsborg Alby, Norsborg, Sverige]]></description>
         <Point><coordinates>17.843459,59.239039,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Järfälla Skälbyvägen]]></name>
-        <description>St1 Järfälla Skälbyvägen, Järfälla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Järfälla Skälbyvägen, Järfälla, Sverige]]></description>
         <Point><coordinates>17.856115,59.394912,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Vällingby Kirunagatan]]></name>
-        <description>St1 Vällingby Kirunagatan, Vällingby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Vällingby Kirunagatan, Vällingby, Sverige]]></description>
         <Point><coordinates>17.861155,59.365656,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Märsta]]></name>
-        <description>St1 Märsta, Arlandastad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Märsta, Arlandastad, Sverige]]></description>
         <Point><coordinates>17.87803,59.613826,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Tullinge]]></name>
-        <description>St1 Tullinge, Tullinge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Tullinge, Tullinge, Sverige]]></description>
         <Point><coordinates>17.906655,59.206428,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Skärholmen Eldholmsb]]></name>
-        <description>St1 Skärholmen Eldholmsb, Skärholmen, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Skärholmen Eldholmsb, Skärholmen, Sverige]]></description>
         <Point><coordinates>17.911709,59.275596,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Spånga Krällingegränd]]></name>
-        <description>St1 Spånga Krällingegränd, Spånga, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Spånga Krällingegränd, Spånga, Sverige]]></description>
         <Point><coordinates>17.916156,59.394672,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Skärholmen Kungens Kurva]]></name>
-        <description>St1 Skärholmen Kungens Kurva, Segeltorp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Skärholmen Kungens Kurva, Segeltorp, Sverige]]></description>
         <Point><coordinates>17.9196,59.2738,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Härnösand]]></name>
-        <description>St1 Härnösand, Härnösand, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Härnösand, Härnösand, Sverige]]></description>
         <Point><coordinates>17.926743,62.633268,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Upplands Väsby Stockholmsvägen]]></name>
-        <description>St1 Upplands Väsby Stockholmsvägen, Upplands väsby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Upplands Väsby Stockholmsvägen, Upplands väsby, Sverige]]></description>
         <Point><coordinates>17.926766,59.51067,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Bredäng]]></name>
-        <description>St1 Bredäng, Skärholmen, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Bredäng, Skärholmen, Sverige]]></description>
         <Point><coordinates>17.9361,59.2955,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Hägersten Vasaloppsvägen]]></name>
-        <description>St1 Hägersten Vasaloppsvägen, Hägersten, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Hägersten Vasaloppsvägen, Hägersten, Sverige]]></description>
         <Point><coordinates>17.973796,59.296718,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Västberga]]></name>
-        <description>St1 Västberga, Hägersten, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Västberga, Hägersten, Sverige]]></description>
         <Point><coordinates>18.009911,59.294596,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Huddinge Huddingev]]></name>
-        <description>St1 Huddinge Huddingev, Huddinge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Huddinge Huddingev, Huddinge, Sverige]]></description>
         <Point><coordinates>18.0145,59.25539,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Bandhagen Rågsved]]></name>
-        <description>St1 Bandhagen Rågsved, Bandhagen, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Bandhagen Rågsved, Bandhagen, Sverige]]></description>
         <Point><coordinates>18.0155,59.2572,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Årsta Sockengränd]]></name>
-        <description>St1 Årsta Sockengränd, Årsta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Årsta Sockengränd, Årsta, Sverige]]></description>
         <Point><coordinates>18.04924,59.28619,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Täby Enhagsv]]></name>
-        <description>St1 Täby Enhagsv, Täby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Täby Enhagsv, Täby, Sverige]]></description>
         <Point><coordinates>18.05348,59.438543,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Vallentuna Bällsta]]></name>
-        <description>St1 Vallentuna Bällsta, Vallentuna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Vallentuna Bällsta, Vallentuna, Sverige]]></description>
         <Point><coordinates>18.09218,59.51408,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Täby Bergtorpsvägen]]></name>
-        <description>St1 Täby Bergtorpsvägen, Täby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Täby Bergtorpsvägen, Täby, Sverige]]></description>
         <Point><coordinates>18.097389,59.442336,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Vallentuna]]></name>
-        <description>St1 Vallentuna, Vallentuna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Vallentuna, Vallentuna, Sverige]]></description>
         <Point><coordinates>18.098298,59.531252,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Frihamnen Stockholm]]></name>
-        <description>St1 Frihamnen Stockholm, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Frihamnen Stockholm, Stockholm, Sverige]]></description>
         <Point><coordinates>18.115835,59.340436,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Bagarmossen]]></name>
-        <description>St1 Bagarmossen, Bagarmossen, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Bagarmossen, Bagarmossen, Sverige]]></description>
         <Point><coordinates>18.1277,59.2783,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Täby Arninge]]></name>
-        <description>St1 Täby Arninge, Täby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Täby Arninge, Täby, Sverige]]></description>
         <Point><coordinates>18.134319,59.461766,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Handen Nynäsvägen]]></name>
-        <description>St1 Handen Nynäsvägen, Haninge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Handen Nynäsvägen, Haninge, Sverige]]></description>
         <Point><coordinates>18.143453,59.17813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Lidingö Skärsätra Torg]]></name>
-        <description>St1 Lidingö Skärsätra Torg, Lidingö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Lidingö Skärsätra Torg, Lidingö, Sverige]]></description>
         <Point><coordinates>18.168357,59.344094,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Tyresö]]></name>
-        <description>St1 Tyresö, Tyresö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Tyresö, Tyresö, Sverige]]></description>
         <Point><coordinates>18.218144,59.246809,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Saltsjöbaden]]></name>
-        <description>St1 Saltsjöbaden, Saltsjöbaden, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Saltsjöbaden, Saltsjöbaden, Sverige]]></description>
         <Point><coordinates>18.247656,59.290038,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Åkersberga]]></name>
-        <description>St1 Åkersberga, Åkersberga, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Åkersberga, Åkersberga, Sverige]]></description>
         <Point><coordinates>18.282231,59.480596,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Visby Söderväg]]></name>
-        <description>St1 Visby Söderväg, Visby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Visby Söderväg, Visby, Sverige]]></description>
         <Point><coordinates>18.286363,57.629341,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Visby Slitev]]></name>
-        <description>St1 Visby Slitev, Visby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Visby Slitev, Visby, Sverige]]></description>
         <Point><coordinates>18.32984,57.631336,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Rimbo Norrtäljevägen]]></name>
-        <description>St1 Rimbo Norrtäljevägen, Rimbo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Rimbo Norrtäljevägen, Rimbo, Sverige]]></description>
         <Point><coordinates>18.377459,59.745504,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Gustavsberg Mölnvik]]></name>
-        <description>St1 Gustavsberg Mölnvik, Gustavsberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Gustavsberg Mölnvik, Gustavsberg, Sverige]]></description>
         <Point><coordinates>18.424826,59.31238,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Norrtälje]]></name>
-        <description>St1 Norrtälje, Norrtälje, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Norrtälje, Norrtälje, Sverige]]></description>
         <Point><coordinates>18.691241,59.750962,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Örnsköldsvik Domsjö]]></name>
-        <description>St1 Örnsköldsvik Domsjö, Domsjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Örnsköldsvik Domsjö, Domsjö, Sverige]]></description>
         <Point><coordinates>18.6931,63.2725,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Örnsköldsvik]]></name>
-        <description>St1 Örnsköldsvik, Örnsköldsvik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Örnsköldsvik, Örnsköldsvik, Sverige]]></description>
         <Point><coordinates>18.704883,63.290026,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Umeå Vännäsvägen]]></name>
-        <description>St1 Umeå Vännäsvägen, Umeå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Umeå Vännäsvägen, Umeå, Sverige]]></description>
         <Point><coordinates>20.2022,63.8406,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Umeå Formvägen]]></name>
-        <description>St1 Umeå Formvägen, Umeå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Umeå Formvägen, Umeå, Sverige]]></description>
         <Point><coordinates>20.30343,63.851038,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Skellefteå]]></name>
-        <description>St1 Skellefteå, Skellefteå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Skellefteå, Skellefteå, Sverige]]></description>
         <Point><coordinates>20.963238,64.73608,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Piteå Hammarvägen]]></name>
-        <description>St1 Piteå Hammarvägen, Öjebyn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Piteå Hammarvägen, Öjebyn, Sverige]]></description>
         <Point><coordinates>21.408785,65.340446,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Luleå]]></name>
-        <description>St1 Luleå, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Luleå, Luleå, Sverige]]></description>
         <Point><coordinates>22.139016,65.600934,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[St1 Pajala]]></name>
-        <description>St1 Pajala, Pajala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[St1 Pajala, Pajala, Sverige]]></description>
         <Point><coordinates>23.368807,67.209277,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
     </Folder>
   </Document>

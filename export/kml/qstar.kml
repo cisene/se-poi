@@ -1,2047 +1,2016 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>QStar</name>
+    <name><![CDATA[QStar]]></name>
     <description/>
-    <Style id="icon-22-normal">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-22-highlight">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-22">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-22-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-22-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
+    <Style id="icon-22-normal"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>
+    <Style id="icon-22-highlight"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>1.1</scale></LabelStyle></Style>
+    <StyleMap id="icon-22"><Pair><key>normal</key><styleUrl>#icon-22-normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#icon-22-highlight</styleUrl></Pair></StyleMap>
     <Folder>
       <name><![CDATA[QStar]]></name>
       <Placemark>
         <name><![CDATA[Qstar Strömstad]]></name>
-        <description>Qstar Strömstad, Strömstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Strömstad, Strömstad, Sverige]]></description>
         <Point><coordinates>11.254833,58.859655,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Kungshamn]]></name>
-        <description>Qstar Kungshamn, Kungshamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Kungshamn, Kungshamn, Sverige]]></description>
         <Point><coordinates>11.270653,58.364878,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Hamburgsund]]></name>
-        <description>Qstar Hamburgsund, Hamburgsund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Hamburgsund, Hamburgsund, Sverige]]></description>
         <Point><coordinates>11.279868,58.557873,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Tanumshede]]></name>
-        <description>Qstar Tanumshede, Tanumshede, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Tanumshede, Tanumshede, Sverige]]></description>
         <Point><coordinates>11.334498,58.716017,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Bullaren]]></name>
-        <description>Qstar Bullaren, Bullaren, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Bullaren, Bullaren, Sverige]]></description>
         <Point><coordinates>11.560279,58.775921,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Göteborg Gårda Johan]]></name>
-        <description>Qstar Göteborg Gårda Johan, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Göteborg Gårda Johan, Göteborg, Sverige]]></description>
         <Point><coordinates>11.942396,57.74022,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Surte]]></name>
-        <description>Qstar Surte, Surte, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Surte, Surte, Sverige]]></description>
         <Point><coordinates>12.01458,57.835248,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Lilla Edet]]></name>
-        <description>Qstar Lilla Edet, Lilla Edet, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Lilla Edet, Lilla Edet, Sverige]]></description>
         <Point><coordinates>12.135857,58.125997,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Tångaberg]]></name>
-        <description>Qstar Tångaberg, Varberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Tångaberg, Varberg, Sverige]]></description>
         <Point><coordinates>12.225812,57.173497,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Dals Långed]]></name>
-        <description>Qstar Dals Långed, Dals Långed, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Dals Långed, Dals Långed, Sverige]]></description>
         <Point><coordinates>12.229853,58.955483,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Brålanda]]></name>
-        <description>Qstar Brålanda, Brålanda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Brålanda, Brålanda, Sverige]]></description>
         <Point><coordinates>12.356924,58.557268,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Brunnered]]></name>
-        <description>Qstar Brunnered, Trollhättan, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Brunnered, Trollhättan, Sverige]]></description>
         <Point><coordinates>12.401812,58.262918,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Bruksvallarna]]></name>
-        <description>Qstar Bruksvallarna, Bruksvallarna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Bruksvallarna, Bruksvallarna, Sverige]]></description>
         <Point><coordinates>12.440428,62.640024,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Mellerud]]></name>
-        <description>Qstar Mellerud, Mellerud, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Mellerud, Mellerud, Sverige]]></description>
         <Point><coordinates>12.453051,58.707201,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Hindås]]></name>
-        <description>Qstar Hindås, Hindås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Hindås, Hindås, Sverige]]></description>
         <Point><coordinates>12.462105,57.706355,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Falkenberg]]></name>
-        <description>Qstar Falkenberg, Falkenberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Falkenberg, Falkenberg, Sverige]]></description>
         <Point><coordinates>12.511822,56.886365,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Källsjö]]></name>
-        <description>Qstar Källsjö, Ullared, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Källsjö, Ullared, Sverige]]></description>
         <Point><coordinates>12.657463,57.215407,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Grästorp]]></name>
-        <description>Qstar Grästorp, Grästorp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Grästorp, Grästorp, Sverige]]></description>
         <Point><coordinates>12.671083,58.333704,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Torestorp]]></name>
-        <description>Qstar Torestorp, Torestorp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Torestorp, Torestorp, Sverige]]></description>
         <Point><coordinates>12.677193,57.388929,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Nossebro]]></name>
-        <description>Qstar Nossebro, Nossebro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Nossebro, Nossebro, Sverige]]></description>
         <Point><coordinates>12.715162,58.187566,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Gullbrandstorp]]></name>
-        <description>Qstar Gullbrandstorp, Vilshärad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Gullbrandstorp, Vilshärad, Sverige]]></description>
         <Point><coordinates>12.727091,56.705049,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Värmlands Nysäter]]></name>
-        <description>Qstar Värmlands Nysäter, Värmlands Nysäter, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Värmlands Nysäter, Värmlands Nysäter, Sverige]]></description>
         <Point><coordinates>12.771553,59.273271,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Helsingborg]]></name>
-        <description>Qstar Helsingborg, Helsingborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Helsingborg, Helsingborg, Sverige]]></description>
         <Point><coordinates>12.78618,56.070483,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Fritsla]]></name>
-        <description>Qstar Fritsla, Fritsla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Fritsla, Fritsla, Sverige]]></description>
         <Point><coordinates>12.788763,57.557739,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Öxabäck]]></name>
-        <description>Qstar Öxabäck, Öxabäck, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Öxabäck, Öxabäck, Sverige]]></description>
         <Point><coordinates>12.812747,57.397154,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Sandhult]]></name>
-        <description>Qstar Sandhult, Sandhult, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Sandhult, Sandhult, Sverige]]></description>
         <Point><coordinates>12.820008,57.769428,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Kvibille]]></name>
-        <description>Qstar Kvibille, Kvibille, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Kvibille, Kvibille, Sverige]]></description>
         <Point><coordinates>12.832399,56.782799,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Skanör-Falsterbo]]></name>
-        <description>Qstar Skanör-Falsterbo, Falsterbo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Skanör-Falsterbo, Falsterbo, Sverige]]></description>
         <Point><coordinates>12.843018,55.407189,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Sysslebäck]]></name>
-        <description>Qstar Sysslebäck, Sysslebäck, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Sysslebäck, Sysslebäck, Sverige]]></description>
         <Point><coordinates>12.88056,60.718084,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Ängelholm]]></name>
-        <description>Qstar Ängelholm, Ängelholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Ängelholm, Ängelholm, Sverige]]></description>
         <Point><coordinates>12.909005,56.253175,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Halmstad]]></name>
-        <description>Qstar Halmstad, Halmstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Halmstad, Halmstad, Sverige]]></description>
         <Point><coordinates>12.915349,56.650703,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Åstorp]]></name>
-        <description>Qstar Åstorp, Åstorp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Åstorp, Åstorp, Sverige]]></description>
         <Point><coordinates>12.933859,56.139632,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Ätran]]></name>
-        <description>Qstar Ätran, Ätran, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Ätran, Ätran, Sverige]]></description>
         <Point><coordinates>12.943041,57.1201,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Järpås]]></name>
-        <description>Qstar Järpås, Järpås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Järpås, Järpås, Sverige]]></description>
         <Point><coordinates>12.977839,58.379811,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Torsby]]></name>
-        <description>Qstar Torsby, Torsby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Torsby, Torsby, Sverige]]></description>
         <Point><coordinates>13.005909,60.133071,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Borgstena]]></name>
-        <description>Qstar Borgstena, Borgstena, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Borgstena, Borgstena, Sverige]]></description>
         <Point><coordinates>13.019215,57.883412,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Vara]]></name>
-        <description>Qstar Vara, Vara, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Vara, Vara, Sverige]]></description>
         <Point><coordinates>13.021426,58.279012,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Kvidinge]]></name>
-        <description>Qstar Kvidinge, Kvidinge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Kvidinge, Kvidinge, Sverige]]></description>
         <Point><coordinates>13.030211,56.134009,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Borgeby]]></name>
-        <description>Qstar Borgeby, Bjärred, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Borgeby, Bjärred, Sverige]]></description>
         <Point><coordinates>13.032765,55.74054,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Arrie]]></name>
-        <description>Qstar Arrie, Arrie, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Arrie, Arrie, Sverige]]></description>
         <Point><coordinates>13.088381,55.516482,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Dalsjöfors]]></name>
-        <description>Qstar Dalsjöfors, Dalsjöfors, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Dalsjöfors, Dalsjöfors, Sverige]]></description>
         <Point><coordinates>13.09238,57.715584,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Edenberga]]></name>
-        <description>Qstar Edenberga, Laholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Edenberga, Laholm, Sverige]]></description>
         <Point><coordinates>13.098795,56.462708,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Svalöv]]></name>
-        <description>Qstar Svalöv, Svalöv, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Svalöv, Svalöv, Sverige]]></description>
         <Point><coordinates>13.106753,55.905115,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Simlångsdalen]]></name>
-        <description>Qstar Simlångsdalen, Simlångsdalen, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Simlångsdalen, Simlångsdalen, Sverige]]></description>
         <Point><coordinates>13.120718,56.718965,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Lysvik]]></name>
-        <description>Qstar Lysvik, Lysvik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Lysvik, Lysvik, Sverige]]></description>
         <Point><coordinates>13.133722,60.014557,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Klippan]]></name>
-        <description>Qstar Klippan, Klippan, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Klippan, Klippan, Sverige]]></description>
         <Point><coordinates>13.135623,56.128058,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Grums]]></name>
-        <description>Qstar Grums, Grums, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Grums, Grums, Sverige]]></description>
         <Point><coordinates>13.143425,59.366094,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Länghem]]></name>
-        <description>Qstar Länghem, Länghem, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Länghem, Länghem, Sverige]]></description>
         <Point><coordinates>13.219611,57.582374,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bilisten Kall/Järpen]]></name>
-        <description>Bilisten Kall/Järpen, Järpen, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bilisten Kall/Järpen, Järpen, Sverige]]></description>
         <Point><coordinates>13.229845,63.473432,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Ljungbyhed]]></name>
-        <description>Qstar Ljungbyhed, Ljungbyhed, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Ljungbyhed, Ljungbyhed, Sverige]]></description>
         <Point><coordinates>13.231786,56.073063,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Hyltebruk]]></name>
-        <description>Qstar Hyltebruk, Hyltebruk, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Hyltebruk, Hyltebruk, Sverige]]></description>
         <Point><coordinates>13.237377,56.987542,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Broaryd]]></name>
-        <description>Qstar Broaryd, Broaryd, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Broaryd, Broaryd, Sverige]]></description>
         <Point><coordinates>13.256356,57.120387,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Sälen]]></name>
-        <description>Qstar Sälen, Sälen, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Sälen, Sälen, Sverige]]></description>
         <Point><coordinates>13.262984,61.161653,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Vinninga]]></name>
-        <description>Qstar Vinninga, Vinninga, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Vinninga, Vinninga, Sverige]]></description>
         <Point><coordinates>13.266023,58.452809,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Hökerum]]></name>
-        <description>Qstar Hökerum, Hökerum, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Hökerum, Hökerum, Sverige]]></description>
         <Point><coordinates>13.283144,57.841158,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Burseryd]]></name>
-        <description>Qstar Burseryd, Burseryd, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Burseryd, Burseryd, Sverige]]></description>
         <Point><coordinates>13.284879,57.201813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Röstånga]]></name>
-        <description>Qstar Röstånga, Röstånga, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Röstånga, Röstånga, Sverige]]></description>
         <Point><coordinates>13.28982,56.003412,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Hishult]]></name>
-        <description>Qstar Hishult, Hishult, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Hishult, Hishult, Sverige]]></description>
         <Point><coordinates>13.307484,56.428808,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Floby]]></name>
-        <description>Qstar Floby, Floby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Floby, Floby, Sverige]]></description>
         <Point><coordinates>13.336953,58.132509,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Tranemo]]></name>
-        <description>Qstar Tranemo, Tranemo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Tranemo, Tranemo, Sverige]]></description>
         <Point><coordinates>13.341072,57.501032,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Lima]]></name>
-        <description>Qstar Lima, Lima, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Lima, Lima, Sverige]]></description>
         <Point><coordinates>13.359852,60.93617,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Perstorp]]></name>
-        <description>Qstar Perstorp, Perstorp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Perstorp, Perstorp, Sverige]]></description>
         <Point><coordinates>13.384064,56.134089,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Smålandsstenar]]></name>
-        <description>Qstar Smålandsstenar, Smålandsstenar, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Smålandsstenar, Smålandsstenar, Sverige]]></description>
         <Point><coordinates>13.408987,57.15861,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Skara]]></name>
-        <description>Qstar Skara, Skara, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Skara, Skara, Sverige]]></description>
         <Point><coordinates>13.41032,58.376046,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Beddingestrand]]></name>
-        <description>Qstar Beddingestrand, Beddingestrand, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Beddingestrand, Beddingestrand, Sverige]]></description>
         <Point><coordinates>13.431816,55.364674,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Lidhult]]></name>
-        <description>Qstar Lidhult, Lidhult, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Lidhult, Lidhult, Sverige]]></description>
         <Point><coordinates>13.439075,56.827355,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Dalum]]></name>
-        <description>Qstar Dalum, Dalum, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Dalum, Dalum, Sverige]]></description>
         <Point><coordinates>13.461152,57.897947,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Skoghall]]></name>
-        <description>Qstar Skoghall, Skoghall, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Skoghall, Skoghall, Sverige]]></description>
         <Point><coordinates>13.475431,59.324312,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Götene]]></name>
-        <description>Qstar Götene, Götene, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Götene, Götene, Sverige]]></description>
         <Point><coordinates>13.488035,58.529161,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Nittorp]]></name>
-        <description>Qstar Nittorp, Nittorp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Nittorp, Nittorp, Sverige]]></description>
         <Point><coordinates>13.49023,57.546183,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Dalstorp]]></name>
-        <description>Qstar Dalstorp, Dalstorp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Dalstorp, Dalstorp, Sverige]]></description>
         <Point><coordinates>13.525636,57.60246,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Harlösa]]></name>
-        <description>Qstar Harlösa, Harlösa, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Harlösa, Harlösa, Sverige]]></description>
         <Point><coordinates>13.528875,55.716272,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Gislaved]]></name>
-        <description>Qstar Gislaved, Gislaved, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Gislaved, Gislaved, Sverige]]></description>
         <Point><coordinates>13.547065,57.319817,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Höör]]></name>
-        <description>Qstar Höör, Höör, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Höör, Höör, Sverige]]></description>
         <Point><coordinates>13.548613,55.939072,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Grimsås]]></name>
-        <description>Qstar Grimsås, Grimsås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Grimsås, Grimsås, Sverige]]></description>
         <Point><coordinates>13.552666,57.484371,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Karlstad]]></name>
-        <description>Qstar Karlstad, Karlstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Karlstad, Karlstad, Sverige]]></description>
         <Point><coordinates>13.560703,59.380397,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Axvall]]></name>
-        <description>Qstar Axvall, Axvall, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Axvall, Axvall, Sverige]]></description>
         <Point><coordinates>13.576375,58.388455,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Tyringe]]></name>
-        <description>Qstar Tyringe, Tyringe, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Tyringe, Tyringe, Sverige]]></description>
         <Point><coordinates>13.603854,56.161884,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Anderstorp]]></name>
-        <description>Qstar Anderstorp, Anderstorp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Anderstorp, Anderstorp, Sverige]]></description>
         <Point><coordinates>13.604811,57.283801,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Tjörnarp]]></name>
-        <description>Qstar Tjörnarp, Tjörnarp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Tjörnarp, Tjörnarp, Sverige]]></description>
         <Point><coordinates>13.656285,56.009023,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Vittsjö]]></name>
-        <description>Qstar Vittsjö, Vittsjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Vittsjö, Vittsjö, Sverige]]></description>
         <Point><coordinates>13.664122,56.337552,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Öreryd]]></name>
-        <description>Qstar Öreryd, Hestra, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Öreryd, Hestra, Sverige]]></description>
         <Point><coordinates>13.673348,57.484255,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Skattkärr]]></name>
-        <description>Qstar Skattkärr, Skattkärr, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Skattkärr, Skattkärr, Sverige]]></description>
         <Point><coordinates>13.677126,59.414433,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Varnhem]]></name>
-        <description>Qstar Varnhem, Varnhem, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Varnhem, Varnhem, Sverige]]></description>
         <Point><coordinates>13.699856,58.37924,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Rönås/Sjöbo]]></name>
-        <description>Qstar Rönås/Sjöbo, Sjöbo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Rönås/Sjöbo, Sjöbo, Sverige]]></description>
         <Point><coordinates>13.704008,55.736492,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Kättilstorp]]></name>
-        <description>Qstar Kättilstorp, Kättilstorp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Kättilstorp, Kättilstorp, Sverige]]></description>
         <Point><coordinates>13.712373,58.046622,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Molkom]]></name>
-        <description>Qstar Molkom, Molkom, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Molkom, Molkom, Sverige]]></description>
         <Point><coordinates>13.739993,59.604053,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Tannåker]]></name>
-        <description>Qstar Tannåker, Ljungby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Tannåker, Ljungby, Sverige]]></description>
         <Point><coordinates>13.772725,56.957466,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Vollsjö]]></name>
-        <description>Qstar Vollsjö, Vollsjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Vollsjö, Vollsjö, Sverige]]></description>
         <Point><coordinates>13.791731,55.708878,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Kulltorp]]></name>
-        <description>Qstar Kulltorp, Kulltorp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Kulltorp, Kulltorp, Sverige]]></description>
         <Point><coordinates>13.793099,57.264421,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Mariestad]]></name>
-        <description>Qstar Mariestad, Mariestad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Mariestad, Mariestad, Sverige]]></description>
         <Point><coordinates>13.81829,58.678304,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Forsheda]]></name>
-        <description>Qstar Forsheda, Forsheda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Forsheda, Forsheda, Sverige]]></description>
         <Point><coordinates>13.843617,57.16338,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Hillerstorp]]></name>
-        <description>Qstar Hillerstorp, Hillerstorp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Hillerstorp, Hillerstorp, Sverige]]></description>
         <Point><coordinates>13.876299,57.321235,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Vinslöv]]></name>
-        <description>Qstar Vinslöv, Vinslöv, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Vinslöv, Vinslöv, Sverige]]></description>
         <Point><coordinates>13.904926,56.103527,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Berghem/Ljungby]]></name>
-        <description>Qstar Berghem/Ljungby, Ljungby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Berghem/Ljungby, Ljungby, Sverige]]></description>
         <Point><coordinates>13.906795,56.799449,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bilisten Venjan]]></name>
-        <description>Bilisten Venjan, Venjan, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bilisten Venjan, Venjan, Sverige]]></description>
         <Point><coordinates>13.912901,60.953927,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Ljungby]]></name>
-        <description>Qstar Ljungby, Ljungby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Ljungby, Ljungby, Sverige]]></description>
         <Point><coordinates>13.934691,56.826832,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Vittaryd]]></name>
-        <description>Qstar Vittaryd, Vittaryd, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Vittaryd, Vittaryd, Sverige]]></description>
         <Point><coordinates>13.944461,56.971144,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Tidaholm]]></name>
-        <description>Qstar Tidaholm, Tidaholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Tidaholm, Tidaholm, Sverige]]></description>
         <Point><coordinates>13.948008,58.189357,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Väring]]></name>
-        <description>Qstar Väring, Väring, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Väring, Väring, Sverige]]></description>
         <Point><coordinates>13.969651,58.5021,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Tollarp]]></name>
-        <description>Qstar Tollarp, Tollarp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Tollarp, Tollarp, Sverige]]></description>
         <Point><coordinates>13.986925,55.931512,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Lagan]]></name>
-        <description>Qstar Lagan, Lagan, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Lagan, Lagan, Sverige]]></description>
         <Point><coordinates>13.988786,56.912159,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Tranås]]></name>
-        <description>Qstar Tranås, Tranås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Tranås, Tranås, Sverige]]></description>
         <Point><coordinates>13.996713,55.613759,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Broby]]></name>
-        <description>Qstar Broby, Broby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Broby, Broby, Sverige]]></description>
         <Point><coordinates>14.059008,56.244563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Everöd]]></name>
-        <description>Qstar Everöd, Everöd, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Everöd, Everöd, Sverige]]></description>
         <Point><coordinates>14.08213,55.899734,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Skillingaryd]]></name>
-        <description>Qstar Skillingaryd, Skillingaryd, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Skillingaryd, Skillingaryd, Sverige]]></description>
         <Point><coordinates>14.092497,57.452459,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Hallen]]></name>
-        <description>Qstar Hallen, Hallen, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Hallen, Hallen, Sverige]]></description>
         <Point><coordinates>14.093612,63.17593,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Kristinehamn Fastingsgatan]]></name>
-        <description>Qstar Kristinehamn Fastingsgatan, Kristinehamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Kristinehamn Fastingsgatan, Kristinehamn, Sverige]]></description>
         <Point><coordinates>14.100563,59.323878,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Norrahammar]]></name>
-        <description>Qstar Norrahammar, Norrhammar, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Norrahammar, Norrhammar, Sverige]]></description>
         <Point><coordinates>14.11374,57.721794,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Töreboda]]></name>
-        <description>Qstar Töreboda, Töreboda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Töreboda, Töreboda, Sverige]]></description>
         <Point><coordinates>14.117279,58.696222,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Sankt Olof]]></name>
-        <description>Qstar Sankt Olof, Sankt Olof, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Sankt Olof, Sankt Olof, Sverige]]></description>
         <Point><coordinates>14.131789,55.636344,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Glimåkra]]></name>
-        <description>Qstar Glimåkra, Glimåkra, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Glimåkra, Glimåkra, Sverige]]></description>
         <Point><coordinates>14.134448,56.3033,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Älmhult]]></name>
-        <description>Qstar Älmhult, Älmhult, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Älmhult, Älmhult, Sverige]]></description>
         <Point><coordinates>14.140211,56.549913,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Kristinehamn Bodalsvägen]]></name>
-        <description>Qstar Kristinehamn Bodalsvägen, Kristinehamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Kristinehamn Bodalsvägen, Kristinehamn, Sverige]]></description>
         <Point><coordinates>14.149936,59.313634,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Tibro]]></name>
-        <description>Qstar Tibro, Tibro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Tibro, Tibro, Sverige]]></description>
         <Point><coordinates>14.159307,58.429148,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Ryssby]]></name>
-        <description>Qstar Ryssby, Ryssby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Ryssby, Ryssby, Sverige]]></description>
         <Point><coordinates>14.168736,56.865442,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Oxberg]]></name>
-        <description>Qstar Oxberg, Mora, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Oxberg, Mora, Sverige]]></description>
         <Point><coordinates>14.17253,61.116562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Kristianstad]]></name>
-        <description>Qstar Kristianstad, Kristianstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Kristianstad, Kristianstad, Sverige]]></description>
         <Point><coordinates>14.18186,56.02959,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Sibbhult]]></name>
-        <description>Qstar Sibbhult, Sibbhult, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Sibbhult, Sibbhult, Sverige]]></description>
         <Point><coordinates>14.201681,56.26713,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Brandstorp]]></name>
-        <description>Qstar Brandstorp, Brandstorp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Brandstorp, Brandstorp, Sverige]]></description>
         <Point><coordinates>14.205101,58.097145,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Hova]]></name>
-        <description>Qstar Hova, Hova, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Hova, Hova, Sverige]]></description>
         <Point><coordinates>14.217446,58.860925,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Hok]]></name>
-        <description>Qstar Hok, Hok, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Hok, Hok, Sverige]]></description>
         <Point><coordinates>14.278706,57.512675,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Åsarna]]></name>
-        <description>Qstar Åsarna, Åsarna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Åsarna, Åsarna, Sverige]]></description>
         <Point><coordinates>14.37149,62.642606,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Svenstavik]]></name>
-        <description>Qstar Svenstavik, Svenstavik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Svenstavik, Svenstavik, Sverige]]></description>
         <Point><coordinates>14.38413,62.838789,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Undenäs]]></name>
-        <description>Qstar Undenäs, Undenäs, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Undenäs, Undenäs, Sverige]]></description>
         <Point><coordinates>14.403197,58.660778,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Mölltorp]]></name>
-        <description>Qstar Mölltorp, Mölltorp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Mölltorp, Mölltorp, Sverige]]></description>
         <Point><coordinates>14.416883,58.494004,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Lekeryd]]></name>
-        <description>Qstar Lekeryd, Lekeryd, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Lekeryd, Lekeryd, Sverige]]></description>
         <Point><coordinates>14.41805,57.77367,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Finnerödja]]></name>
-        <description>Qstar Finnerödja, Finnerödja, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Finnerödja, Finnerödja, Sverige]]></description>
         <Point><coordinates>14.432484,58.93491,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Häradsbäck]]></name>
-        <description>Qstar Häradsbäck, Häradsbäck, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Häradsbäck, Häradsbäck, Sverige]]></description>
         <Point><coordinates>14.446377,56.529884,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Malmbäck]]></name>
-        <description>Qstar Malmbäck, Malmbäck, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Malmbäck, Malmbäck, Sverige]]></description>
         <Point><coordinates>14.470024,57.582372,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Vrigstad]]></name>
-        <description>Qstar Vrigstad, Vrigstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Vrigstad, Vrigstad, Sverige]]></description>
         <Point><coordinates>14.473995,57.348908,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Näsum]]></name>
-        <description>Qstar Näsum, Näsum, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Näsum, Näsum, Sverige]]></description>
         <Point><coordinates>14.508708,56.182325,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Svartå]]></name>
-        <description>Qstar Svartå, Svartå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Svartå, Svartå, Sverige]]></description>
         <Point><coordinates>14.518154,59.127371,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Karlskoga]]></name>
-        <description>Qstar Karlskoga, Karlskoga, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Karlskoga, Karlskoga, Sverige]]></description>
         <Point><coordinates>14.546573,59.330636,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Laxå]]></name>
-        <description>Qstar Laxå, Laxå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Laxå, Laxå, Sverige]]></description>
         <Point><coordinates>14.606969,58.97976,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Hästholmen]]></name>
-        <description>Qstar Hästholmen, Ödeshög, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Hästholmen, Ödeshög, Sverige]]></description>
         <Point><coordinates>14.648506,58.278442,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Fridafors]]></name>
-        <description>Qstar Fridafors, Ryd, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Fridafors, Ryd, Sverige]]></description>
         <Point><coordinates>14.654056,56.40779,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Ödeshög]]></name>
-        <description>Qstar Ödeshög, Ödeshög, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Ödeshög, Ödeshög, Sverige]]></description>
         <Point><coordinates>14.666233,58.226608,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Ryd]]></name>
-        <description>Qstar Ryd, Ryd, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Ryd, Ryd, Sverige]]></description>
         <Point><coordinates>14.696234,56.460762,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Bodafors]]></name>
-        <description>Qstar Bodafors, Bodafors, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Bodafors, Bodafors, Sverige]]></description>
         <Point><coordinates>14.707577,57.503747,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Olshammar]]></name>
-        <description>Qstar Olshammar, Aspabruk, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Olshammar, Aspabruk, Sverige]]></description>
         <Point><coordinates>14.797638,58.756163,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Aneby]]></name>
-        <description>Qstar Aneby, Aneby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Aneby, Aneby, Sverige]]></description>
         <Point><coordinates>14.817468,57.829135,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Lekhyttan]]></name>
-        <description>Qstar Lekhyttan, Lekhyttan, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Lekhyttan, Lekhyttan, Sverige]]></description>
         <Point><coordinates>14.824206,59.252524,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Fjugesta]]></name>
-        <description>Qstar Fjugesta, Fjugesta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Fjugesta, Fjugesta, Sverige]]></description>
         <Point><coordinates>14.827376,59.162276,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Asarum]]></name>
-        <description>Qstar Asarum, Asarum, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Asarum, Asarum, Sverige]]></description>
         <Point><coordinates>14.834924,56.212355,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Växjö]]></name>
-        <description>Qstar Växjö, Växjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Växjö, Växjö, Sverige]]></description>
         <Point><coordinates>14.840066,56.909319,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Vretstorp]]></name>
-        <description>Qstar Vretstorp, Vretstorp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Vretstorp, Vretstorp, Sverige]]></description>
         <Point><coordinates>14.898007,59.037389,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Väderstad]]></name>
-        <description>Qstar Väderstad, Väderstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Väderstad, Väderstad, Sverige]]></description>
         <Point><coordinates>14.904628,58.311321,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Sunhultsbrunn/Tranås]]></name>
-        <description>Qstar Sunhultsbrunn/Tranås, Sunhultsbrunn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Sunhultsbrunn/Tranås, Sunhultsbrunn, Sverige]]></description>
         <Point><coordinates>14.910528,57.926993,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pump Ramkvilla]]></name>
-        <description>Pump Ramkvilla, Ramkvilla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pump Ramkvilla, Ramkvilla, Sverige]]></description>
         <Point><coordinates>14.947482,57.206051,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Eksjö]]></name>
-        <description>Qstar Eksjö, Eksjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Eksjö, Eksjö, Sverige]]></description>
         <Point><coordinates>14.950945,57.64933,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Vintrosa]]></name>
-        <description>Qstar Vintrosa, Vintrosa, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Vintrosa, Vintrosa, Sverige]]></description>
         <Point><coordinates>14.95888,59.252068,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Harge]]></name>
-        <description>Qstar Harge, Hammar, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Harge, Hammar, Sverige]]></description>
         <Point><coordinates>14.971232,58.794981,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Åmmeberg]]></name>
-        <description>Qstar Åmmeberg, Åmmeberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Åmmeberg, Åmmeberg, Sverige]]></description>
         <Point><coordinates>14.999534,58.865917,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Boxholm Tranåsvägen]]></name>
-        <description>Qstar Boxholm Tranåsvägen, Boxholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Boxholm Tranåsvägen, Boxholm, Sverige]]></description>
         <Point><coordinates>15.03354,58.18986,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Vetlanda]]></name>
-        <description>Qstar Vetlanda, Vetlanda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Vetlanda, Vetlanda, Sverige]]></description>
         <Point><coordinates>15.044414,57.456255,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Boxholm Älvkullevägen]]></name>
-        <description>Qstar Boxholm Älvkullevägen, Boxholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Boxholm Älvkullevägen, Boxholm, Sverige]]></description>
         <Point><coordinates>15.048184,58.195579,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Braås]]></name>
-        <description>Qstar Braås, Braås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Braås, Braås, Sverige]]></description>
         <Point><coordinates>15.048931,57.061611,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Åsbro Maskinvägen]]></name>
-        <description>Qstar Åsbro Maskinvägen, Åsbro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Åsbro Maskinvägen, Åsbro, Sverige]]></description>
         <Point><coordinates>15.050738,58.99576,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Åsbro Estabovägen]]></name>
-        <description>Qstar Åsbro Estabovägen, Åsbro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Åsbro Estabovägen, Åsbro, Sverige]]></description>
         <Point><coordinates>15.052587,58.987481,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Skänninge]]></name>
-        <description>Qstar Skänninge, Skänninge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Skänninge, Skänninge, Sverige]]></description>
         <Point><coordinates>15.087629,58.389437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Mjölby]]></name>
-        <description>Qstar Mjölby, Mjölby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Mjölby, Mjölby, Sverige]]></description>
         <Point><coordinates>15.092213,58.323357,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Tingsryd]]></name>
-        <description>Qstar Tingsryd, Tingsryd, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Tingsryd, Tingsryd, Sverige]]></description>
         <Point><coordinates>15.128356,56.50506,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Backaryd]]></name>
-        <description>Qstar Backaryd, Backaryd, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Backaryd, Backaryd, Sverige]]></description>
         <Point><coordinates>15.152027,56.348392,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Rydsnäs]]></name>
-        <description>Qstar Rydsnäs, Ydre, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Rydsnäs, Ydre, Sverige]]></description>
         <Point><coordinates>15.153419,57.798203,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Ludvika]]></name>
-        <description>Qstar Ludvika, Ludvika, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Ludvika, Ludvika, Sverige]]></description>
         <Point><coordinates>15.153682,60.134503,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Godegård]]></name>
-        <description>Qstar Godegård, Motala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Godegård, Motala, Sverige]]></description>
         <Point><coordinates>15.1645,58.74872,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Norrhult]]></name>
-        <description>Qstar Norrhult, Norrhult, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Norrhult, Norrhult, Sverige]]></description>
         <Point><coordinates>15.168963,57.123812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Österstad]]></name>
-        <description>Qstar Österstad, Motala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Österstad, Motala, Sverige]]></description>
         <Point><coordinates>15.172688,58.520421,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Fornåsa]]></name>
-        <description>Qstar Fornåsa, Fornåsa, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Fornåsa, Fornåsa, Sverige]]></description>
         <Point><coordinates>15.225827,58.478208,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Borensberg]]></name>
-        <description>Qstar Borensberg, Borensberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Borensberg, Borensberg, Sverige]]></description>
         <Point><coordinates>15.273139,58.566033,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Österbymo]]></name>
-        <description>Qstar Österbymo, Ydre, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Österbymo, Ydre, Sverige]]></description>
         <Point><coordinates>15.278993,57.822531,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Bruzaholm]]></name>
-        <description>Qstar Bruzaholm, Bruzaholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Bruzaholm, Bruzaholm, Sverige]]></description>
         <Point><coordinates>15.284133,57.641061,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Vedevåg]]></name>
-        <description>Qstar Vedevåg, Vedevåg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Vedevåg, Vedevåg, Sverige]]></description>
         <Point><coordinates>15.284762,59.527305,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Mantorp]]></name>
-        <description>Qstar Mantorp, Mantorp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Mantorp, Mantorp, Sverige]]></description>
         <Point><coordinates>15.290137,58.353592,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Tjällmo]]></name>
-        <description>Qstar Tjällmo, Tjällmo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Tjällmo, Tjällmo, Sverige]]></description>
         <Point><coordinates>15.364708,58.721951,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Bräcke]]></name>
-        <description>Qstar Bräcke, Bräcke, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Bräcke, Bräcke, Sverige]]></description>
         <Point><coordinates>15.421527,62.74691,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Hjortkvarn]]></name>
-        <description>Qstar Hjortkvarn, Hjortkvarn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Hjortkvarn, Hjortkvarn, Sverige]]></description>
         <Point><coordinates>15.432899,58.894635,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bilisten Ulrika]]></name>
-        <description>Bilisten Ulrika, Ulrika, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bilisten Ulrika, Ulrika, Sverige]]></description>
         <Point><coordinates>15.433448,58.126002,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Bjursås]]></name>
-        <description>Qstar Bjursås, Bjursås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Bjursås, Bjursås, Sverige]]></description>
         <Point><coordinates>15.43937,60.733839,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Kvillsfors]]></name>
-        <description>Qstar Kvillsfors, Kvillsfors, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Kvillsfors, Kvillsfors, Sverige]]></description>
         <Point><coordinates>15.503068,57.403277,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Odensbacken]]></name>
-        <description>Qstar Odensbacken, Odensbacken, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Odensbacken, Odensbacken, Sverige]]></description>
         <Point><coordinates>15.526173,59.1575,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Riddarhyttan]]></name>
-        <description>Qstar Riddarhyttan, Riddarhyttan, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Riddarhyttan, Riddarhyttan, Sverige]]></description>
         <Point><coordinates>15.539521,59.808594,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Söderbärke]]></name>
-        <description>Qstar Söderbärke, Söderbärke, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Söderbärke, Söderbärke, Sverige]]></description>
         <Point><coordinates>15.547637,60.07067,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Emmaboda]]></name>
-        <description>Qstar Emmaboda, Emmaboda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Emmaboda, Emmaboda, Sverige]]></description>
         <Point><coordinates>15.551471,56.626889,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Bingsjö]]></name>
-        <description>Qstar Bingsjö, Enviken, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Bingsjö, Enviken, Sverige]]></description>
         <Point><coordinates>15.647706,61.024619,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Götlunda]]></name>
-        <description>Qstar Götlunda, Arboga, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Götlunda, Arboga, Sverige]]></description>
         <Point><coordinates>15.665281,59.35162,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Skinnskatteberg]]></name>
-        <description>Qstar Skinnskatteberg, Skinnskatteberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Skinnskatteberg, Skinnskatteberg, Sverige]]></description>
         <Point><coordinates>15.676438,59.831049,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Igelfors]]></name>
-        <description>Qstar Igelfors, Finspång, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Igelfors, Finspång, Sverige]]></description>
         <Point><coordinates>15.699173,58.84668,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Ryckelösa]]></name>
-        <description>Qstar Ryckelösa, Ryckelösa, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Ryckelösa, Ryckelösa, Sverige]]></description>
         <Point><coordinates>15.751219,58.437626,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Korskrogen]]></name>
-        <description>Qstar Korskrogen, Korskrogen, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Korskrogen, Korskrogen, Sverige]]></description>
         <Point><coordinates>15.754916,61.812532,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Finspång]]></name>
-        <description>Qstar Finspång, Finspång, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Finspång, Finspång, Sverige]]></description>
         <Point><coordinates>15.817663,58.700184,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Edsbyn]]></name>
-        <description>Qstar Edsbyn, Edsbyn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Edsbyn, Edsbyn, Sverige]]></description>
         <Point><coordinates>15.832562,61.376304,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Arboga Stenängsvägen]]></name>
-        <description>Qstar Arboga Stenängsvägen, Arboga, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Arboga Stenängsvägen, Arboga, Sverige]]></description>
         <Point><coordinates>15.838197,59.405627,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Horn]]></name>
-        <description>Qstar Horn, Horn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Horn, Horn, Sverige]]></description>
         <Point><coordinates>15.839667,57.894387,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Arboga Kapellgatan]]></name>
-        <description>Qstar Arboga Kapellgatan, Arboga, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Arboga Kapellgatan, Arboga, Sverige]]></description>
         <Point><coordinates>15.841313,59.389635,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Storebro]]></name>
-        <description>Qstar Storebro, Storebro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Storebro, Storebro, Sverige]]></description>
         <Point><coordinates>15.84749,57.593067,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Hultsfred]]></name>
-        <description>Qstar Hultsfred, Hultsfred, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Hultsfred, Hultsfred, Sverige]]></description>
         <Point><coordinates>15.853278,57.496055,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Grebo]]></name>
-        <description>Qstar Grebo, Linköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Grebo, Linköping, Sverige]]></description>
         <Point><coordinates>15.877081,58.311838,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Vingåker Henalavägen]]></name>
-        <description>Qstar Vingåker Henalavägen, Vingåker, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Vingåker Henalavägen, Vingåker, Sverige]]></description>
         <Point><coordinates>15.880318,59.059694,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Vingåker Ringvägen]]></name>
-        <description>Qstar Vingåker Ringvägen, Vingåker, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Vingåker Ringvägen, Vingåker, Sverige]]></description>
         <Point><coordinates>15.881722,59.044273,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Rejmyre]]></name>
-        <description>Qstar Rejmyre, Rejmyre, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Rejmyre, Rejmyre, Sverige]]></description>
         <Point><coordinates>15.929538,58.830177,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Vena]]></name>
-        <description>Qstar Vena, Vena, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Vena, Vena, Sverige]]></description>
         <Point><coordinates>15.967983,57.521946,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Frödinge]]></name>
-        <description>Qstar Frödinge, Vimmerby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Frödinge, Vimmerby, Sverige]]></description>
         <Point><coordinates>16.006566,57.702294,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Högsby]]></name>
-        <description>Qstar Högsby, Högsby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Högsby, Högsby, Sverige]]></description>
         <Point><coordinates>16.02105,57.17322,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Virsbo]]></name>
-        <description>Qstar Virsbo, Virsbo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Virsbo, Virsbo, Sverige]]></description>
         <Point><coordinates>16.037935,59.864841,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Ljusdal]]></name>
-        <description>Qstar Ljusdal, Ljusdal, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Ljusdal, Ljusdal, Sverige]]></description>
         <Point><coordinates>16.064175,61.82087,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Julita]]></name>
-        <description>Qstar Julita, Julita, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Julita, Julita, Sverige]]></description>
         <Point><coordinates>16.068309,59.149348,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Kungsör]]></name>
-        <description>Qstar Kungsör, Kungsör, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Kungsör, Kungsör, Sverige]]></description>
         <Point><coordinates>16.105684,59.42702,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Stora Sundby]]></name>
-        <description>Qstar Stora Sundby, Stora Sundby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Stora Sundby, Stora Sundby, Sverige]]></description>
         <Point><coordinates>16.119053,59.277889,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Trekanten]]></name>
-        <description>Qstar Trekanten, Trekanten, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Trekanten, Trekanten, Sverige]]></description>
         <Point><coordinates>16.124901,56.693979,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Simonstorp]]></name>
-        <description>Qstar Simonstorp, Solgården 2, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Simonstorp, Solgården 2, Sverige]]></description>
         <Point><coordinates>16.1575,58.788382,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Östra Ryd]]></name>
-        <description>Qstar Östra Ryd, Östra Ryd, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Östra Ryd, Östra Ryd, Sverige]]></description>
         <Point><coordinates>16.158657,58.406141,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Odensvi]]></name>
-        <description>Qstar Odensvi, Odensvi, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Odensvi, Odensvi, Sverige]]></description>
         <Point><coordinates>16.16621,57.891064,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Åby]]></name>
-        <description>Qstar Åby, Åby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Åby, Åby, Sverige]]></description>
         <Point><coordinates>16.174692,58.660521,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Norrköping Spårgatan]]></name>
-        <description>Qstar Norrköping Spårgatan, Norrköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Norrköping Spårgatan, Norrköping, Sverige]]></description>
         <Point><coordinates>16.186774,58.602923,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Blackstad]]></name>
-        <description>Qstar Blackstad, Blackstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Blackstad, Blackstad, Sverige]]></description>
         <Point><coordinates>16.18691,57.789553,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Totebo]]></name>
-        <description>Qstar Totebo, Totebo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Totebo, Totebo, Sverige]]></description>
         <Point><coordinates>16.188816,57.628465,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Katrineholm]]></name>
-        <description>Qstar Katrineholm, Katrineholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Katrineholm, Katrineholm, Sverige]]></description>
         <Point><coordinates>16.193157,58.995499,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Avesta]]></name>
-        <description>Qstar Avesta, Avesta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Avesta, Avesta, Sverige]]></description>
         <Point><coordinates>16.19442,60.141075,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Kristdala]]></name>
-        <description>Qstar Kristdala, Kristdala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Kristdala, Kristdala, Sverige]]></description>
         <Point><coordinates>16.208985,57.396345,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Norrköping Smedbygatan]]></name>
-        <description>Qstar Norrköping Smedbygatan, Norrköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Norrköping Smedbygatan, Norrköping, Sverige]]></description>
         <Point><coordinates>16.222722,58.581479,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Slussfors]]></name>
-        <description>Qstar Slussfors, Slussfors, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Slussfors, Slussfors, Sverige]]></description>
         <Point><coordinates>16.248718,65.430729,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Kalmar/Smedby]]></name>
-        <description>Qstar Kalmar/Smedby, Kalmar, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Kalmar/Smedby, Kalmar, Sverige]]></description>
         <Point><coordinates>16.274118,56.669855,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Hjorted]]></name>
-        <description>Qstar Hjorted, Hjorted, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Hjorted, Hjorted, Sverige]]></description>
         <Point><coordinates>16.307967,57.621565,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Överum]]></name>
-        <description>Qstar Överum, Överum, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Överum, Överum, Sverige]]></description>
         <Point><coordinates>16.308646,57.990198,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Torpshammar]]></name>
-        <description>Qstar Torpshammar, Torpshammar, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Torpshammar, Torpshammar, Sverige]]></description>
         <Point><coordinates>16.331113,62.472798,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Valla]]></name>
-        <description>Qstar Valla, Katrineholmsvägen, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Valla, Katrineholmsvägen, Sverige]]></description>
         <Point><coordinates>16.340928,59.020492,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bilisten Ukna]]></name>
-        <description>Bilisten Ukna, Edsbruk, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bilisten Ukna, Edsbruk, Sverige]]></description>
         <Point><coordinates>16.352841,58.080893,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bilisten Kolmården/Krokek]]></name>
-        <description>Bilisten Kolmården/Krokek, Kolmården, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bilisten Kolmården/Krokek, Kolmården, Sverige]]></description>
         <Point><coordinates>16.358734,58.678575,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Vallsta]]></name>
-        <description>Qstar Vallsta, Vallsta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Vallsta, Vallsta, Sverige]]></description>
         <Point><coordinates>16.363995,61.517885,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Kolmården/Krokek]]></name>
-        <description>Qstar Kolmården/Krokek, Kolmården, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Kolmården/Krokek, Kolmården, Sverige]]></description>
         <Point><coordinates>16.364136,58.671274,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Arbrå]]></name>
-        <description>Qstar Arbrå, Arbrå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Arbrå, Arbrå, Sverige]]></description>
         <Point><coordinates>16.370275,61.463131,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Kvarnvik]]></name>
-        <description>Qstar Kvarnvik, Åtvidaberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Kvarnvik, Åtvidaberg, Sverige]]></description>
         <Point><coordinates>16.37086,58.19578,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Oskarshamn]]></name>
-        <description>Qstar Oskarshamn, Oskarshamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Oskarshamn, Oskarshamn, Sverige]]></description>
         <Point><coordinates>16.381049,57.260704,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Gamleby]]></name>
-        <description>Qstar Gamleby, Gamleby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Gamleby, Gamleby, Sverige]]></description>
         <Point><coordinates>16.401056,57.897421,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Timmernabben]]></name>
-        <description>Qstar Timmernabben, Timmernabben, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Timmernabben, Timmernabben, Sverige]]></description>
         <Point><coordinates>16.434289,56.977254,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Mönsterås]]></name>
-        <description>Qstar Mönsterås, Mönsterås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Mönsterås, Mönsterås, Sverige]]></description>
         <Point><coordinates>16.440183,57.051026,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Hållsta]]></name>
-        <description>Qstar Hållsta, Hållsta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Hållsta, Hållsta, Sverige]]></description>
         <Point><coordinates>16.45831,59.291528,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bilisten By Kyrkby]]></name>
-        <description>Bilisten By Kyrkby, By Kyrkby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bilisten By Kyrkby, By Kyrkby, Sverige]]></description>
         <Point><coordinates>16.462575,60.196853,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Broddbo]]></name>
-        <description>Qstar Broddbo, Sala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Broddbo, Sala, Sverige]]></description>
         <Point><coordinates>16.467856,59.984466,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Tindered]]></name>
-        <description>Qstar Tindered, Edsbruk, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Tindered, Edsbruk, Sverige]]></description>
         <Point><coordinates>16.483159,57.979637,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Västerås]]></name>
-        <description>Qstar Västerås, Västerås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Västerås, Västerås, Sverige]]></description>
         <Point><coordinates>16.487474,59.602273,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Färjestaden]]></name>
-        <description>Qstar Färjestaden, Färjestaden, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Färjestaden, Färjestaden, Sverige]]></description>
         <Point><coordinates>16.489002,56.665263,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Fårbo]]></name>
-        <description>Qstar Fårbo, Fårbo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Fårbo, Fårbo, Sverige]]></description>
         <Point><coordinates>16.489474,57.374099,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Mått Johanssons väg]]></name>
-        <description>Qstar Mått Johanssons väg, Eskilstuna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Mått Johanssons väg, Eskilstuna, Sverige]]></description>
         <Point><coordinates>16.493418,59.384283,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Gusum]]></name>
-        <description>Qstar Gusum, Gusum, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Gusum, Gusum, Sverige]]></description>
         <Point><coordinates>16.497494,58.263958,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Björkvik]]></name>
-        <description>Qstar Björkvik, Björkvik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Björkvik, Björkvik, Sverige]]></description>
         <Point><coordinates>16.514567,58.839354,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Delsbo]]></name>
-        <description>Qstar Delsbo, Delsbo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Delsbo, Delsbo, Sverige]]></description>
         <Point><coordinates>16.554436,61.799952,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Östra Husby Arkösundsvägen]]></name>
-        <description>Qstar Östra Husby Arkösundsvägen, Östra Husby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Östra Husby Arkösundsvägen, Östra Husby, Sverige]]></description>
         <Point><coordinates>16.557137,58.581521,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Eskilstuna Strängnäsvägen]]></name>
-        <description>Qstar Eskilstuna Strängnäsvägen, Eskilstuna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Eskilstuna Strängnäsvägen, Eskilstuna, Sverige]]></description>
         <Point><coordinates>16.561805,59.374795,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Kilafors]]></name>
-        <description>Qstar Kilafors, Kilafors, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Kilafors, Kilafors, Sverige]]></description>
         <Point><coordinates>16.565549,61.228139,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Valdemarsvik]]></name>
-        <description>Qstar Valdemarsvik, Valdemarsvik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Valdemarsvik, Valdemarsvik, Sverige]]></description>
         <Point><coordinates>16.588462,58.21007,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Västervik]]></name>
-        <description>Qstar Västervik, Västervik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Västervik, Västervik, Sverige]]></description>
         <Point><coordinates>16.5931,57.772588,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Rengsjö]]></name>
-        <description>Qstar Rengsjö, Rengsjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Rengsjö, Rengsjö, Sverige]]></description>
         <Point><coordinates>16.616817,61.363326,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Tillberga/Västerås]]></name>
-        <description>Qstar Tillberga/Västerås, Västerås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Tillberga/Västerås, Västerås, Sverige]]></description>
         <Point><coordinates>16.620687,59.683083,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Bispgården]]></name>
-        <description>Qstar Bispgården, Bispgården, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Bispgården, Bispgården, Sverige]]></description>
         <Point><coordinates>16.634565,63.023283,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Ransta]]></name>
-        <description>Qstar Ransta, Ransta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Ransta, Ransta, Sverige]]></description>
         <Point><coordinates>16.637183,59.81196,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Bottna]]></name>
-        <description>Qstar Bottna, Söderköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Bottna, Söderköping, Sverige]]></description>
         <Point><coordinates>16.671068,58.39551,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Hassela]]></name>
-        <description>Qstar Hassela, Hassela, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Hassela, Hassela, Sverige]]></description>
         <Point><coordinates>16.711799,62.108897,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Jönåker]]></name>
-        <description>Qstar Jönåker, Jönåker, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Jönåker, Jönåker, Sverige]]></description>
         <Point><coordinates>16.72056,58.74457,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Nävekvarn]]></name>
-        <description>Qstar Nävekvarn, Nävekvarn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Nävekvarn, Nävekvarn, Sverige]]></description>
         <Point><coordinates>16.798954,58.626212,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Liden]]></name>
-        <description>Qstar Liden, Liden, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Liden, Liden, Sverige]]></description>
         <Point><coordinates>16.80074,62.698644,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Gryt]]></name>
-        <description>Qstar Gryt, Gryt, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Gryt, Gryt, Sverige]]></description>
         <Point><coordinates>16.810155,58.159477,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Björnö Marin]]></name>
-        <description>Qstar Björnö Marin, Vikbolandet, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Björnö Marin, Vikbolandet, Sverige]]></description>
         <Point><coordinates>16.835267,58.543428,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Näsåker]]></name>
-        <description>Qstar Näsåker, Näsåker, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Näsåker, Näsåker, Sverige]]></description>
         <Point><coordinates>16.909675,63.440771,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Hedesunda]]></name>
-        <description>Qstar Hedesunda, Hedesunda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Hedesunda, Hedesunda, Sverige]]></description>
         <Point><coordinates>16.978113,60.392701,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Stjärnhov]]></name>
-        <description>Qstar Stjärnhov, Stjärnhov, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Stjärnhov, Stjärnhov, Sverige]]></description>
         <Point><coordinates>17.009783,59.080157,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Strängnäs]]></name>
-        <description>Qstar Strängnäs, Strängnäs, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Strängnäs, Strängnäs, Sverige]]></description>
         <Point><coordinates>17.03384,59.347193,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Lucksta]]></name>
-        <description>Qstar Lucksta, Matfors, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Lucksta, Matfors, Sverige]]></description>
         <Point><coordinates>17.049912,62.299857,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Ilsbo]]></name>
-        <description>Qstar Ilsbo, Ilsbo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Ilsbo, Ilsbo, Sverige]]></description>
         <Point><coordinates>17.050376,61.861598,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Vågbro/Norrala]]></name>
-        <description>Qstar Vågbro/Norrala, Vågbro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Vågbro/Norrala, Vågbro, Sverige]]></description>
         <Point><coordinates>17.059255,61.326004,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Långsele]]></name>
-        <description>Qstar Långsele, Långsele, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Långsele, Långsele, Sverige]]></description>
         <Point><coordinates>17.059265,63.174604,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Hamrånge]]></name>
-        <description>Qstar Hamrånge, Hamrångefjärden, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Hamrånge, Hamrångefjärden, Sverige]]></description>
         <Point><coordinates>17.059574,60.899438,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Söderhamn]]></name>
-        <description>Qstar Söderhamn, Söderhamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Söderhamn, Söderhamn, Sverige]]></description>
         <Point><coordinates>17.065987,61.294548,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Hudiksvall]]></name>
-        <description>Qstar Hudiksvall, Hudiksvall, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Hudiksvall, Hudiksvall, Sverige]]></description>
         <Point><coordinates>17.086967,61.742091,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Storuman]]></name>
-        <description>Qstar Storuman, Storuman, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Storuman, Storuman, Sverige]]></description>
         <Point><coordinates>17.108038,65.092508,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Oxelösund]]></name>
-        <description>Qstar Oxelösund, Oxelösund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Oxelösund, Oxelösund, Sverige]]></description>
         <Point><coordinates>17.11496,58.676055,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Enköping]]></name>
-        <description>Qstar Enköping, Enköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Enköping, Enköping, Sverige]]></description>
         <Point><coordinates>17.116574,59.645816,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Hudiksvall]]></name>
-        <description>Qstar Hudiksvall, Hudiksvall, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Hudiksvall, Hudiksvall, Sverige]]></description>
         <Point><coordinates>17.145337,61.723988,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Sandarne]]></name>
-        <description>Qstar Sandarne, Sandarne, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Sandarne, Sandarne, Sverige]]></description>
         <Point><coordinates>17.148505,61.26059,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Grillby]]></name>
-        <description>Qstar Grillby, Grillby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Grillby, Grillby, Sverige]]></description>
         <Point><coordinates>17.261768,59.622208,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Örsundsbro]]></name>
-        <description>Qstar Örsundsbro, Örsundsbro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Örsundsbro, Örsundsbro, Sverige]]></description>
         <Point><coordinates>17.291488,59.725467,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Ljustorp]]></name>
-        <description>Qstar Ljustorp, Ljustorp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Ljustorp, Ljustorp, Sverige]]></description>
         <Point><coordinates>17.341057,62.618044,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Skutskär]]></name>
-        <description>Qstar Skutskär, Skutskär, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Skutskär, Skutskär, Sverige]]></description>
         <Point><coordinates>17.405004,60.635276,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Midlanda]]></name>
-        <description>Qstar Midlanda, Sörberge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Midlanda, Sörberge, Sverige]]></description>
         <Point><coordinates>17.438037,62.519265,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Sorsele]]></name>
-        <description>Qstar Sorsele, Sorsele, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Sorsele, Sorsele, Sverige]]></description>
         <Point><coordinates>17.541036,65.5351,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Vendel]]></name>
-        <description>Qstar Vendel, Örbyhus, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Vendel, Örbyhus, Sverige]]></description>
         <Point><coordinates>17.575659,60.144005,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Blattnicksele]]></name>
-        <description>Qstar Blattnicksele, Blattnicksele, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Blattnicksele, Blattnicksele, Sverige]]></description>
         <Point><coordinates>17.600437,65.332599,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Karlholmsbruk]]></name>
-        <description>Qstar Karlholmsbruk, Karlholmsbruk, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Karlholmsbruk, Karlholmsbruk, Sverige]]></description>
         <Point><coordinates>17.602191,60.524366,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bilisten Karlholmsbruk]]></name>
-        <description>Bilisten Karlholmsbruk, Karlholmsbruk, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bilisten Karlholmsbruk, Karlholmsbruk, Sverige]]></description>
         <Point><coordinates>17.610478,60.520872,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Södertälje/Pershagen]]></name>
-        <description>Qstar Södertälje/Pershagen, Södertälje, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Södertälje/Pershagen, Södertälje, Sverige]]></description>
         <Point><coordinates>17.647188,59.154964,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Uppsala]]></name>
-        <description>Qstar Uppsala, Uppsala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Uppsala, Uppsala, Sverige]]></description>
         <Point><coordinates>17.677318,59.847985,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Gunnarn]]></name>
-        <description>Qstar Gunnarn, Gunnarn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Gunnarn, Gunnarn, Sverige]]></description>
         <Point><coordinates>17.677926,65.006411,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pump Ekerö]]></name>
-        <description>Pump Ekerö, Ekerö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pump Ekerö, Ekerö, Sverige]]></description>
         <Point><coordinates>17.715246,59.287424,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Vassunda/Knivsta]]></name>
-        <description>Qstar Vassunda/Knivsta, Knivsta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Vassunda/Knivsta, Knivsta, Sverige]]></description>
         <Point><coordinates>17.736858,59.694857,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Skyttorp]]></name>
-        <description>Qstar Skyttorp, Skyttorp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Skyttorp, Skyttorp, Sverige]]></description>
         <Point><coordinates>17.758026,60.073577,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Kramfors]]></name>
-        <description>Qstar Kramfors, Kramfors, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Kramfors, Kramfors, Sverige]]></description>
         <Point><coordinates>17.770403,62.934723,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Knivsta]]></name>
-        <description>Qstar Knivsta, Knivsta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Knivsta, Knivsta, Sverige]]></description>
         <Point><coordinates>17.783555,59.722584,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Järfälla]]></name>
-        <description>Qstar Järfälla, Järfälla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Järfälla, Järfälla, Sverige]]></description>
         <Point><coordinates>17.823208,59.461809,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Rasbo]]></name>
-        <description>Qstar Rasbo, Rasbo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Rasbo, Rasbo, Sverige]]></description>
         <Point><coordinates>17.830277,59.949729,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Lunde]]></name>
-        <description>Qstar Lunde, Lunde, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Lunde, Lunde, Sverige]]></description>
         <Point><coordinates>17.858944,62.875447,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Länna]]></name>
-        <description>Qstar Länna, Länna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Länna, Länna, Sverige]]></description>
         <Point><coordinates>17.96474,59.877217,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Lycksele Kattisavan]]></name>
-        <description>Qstar Lycksele Kattisavan, Lycksele, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Lycksele Kattisavan, Lycksele, Sverige]]></description>
         <Point><coordinates>18.165765,64.758234,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Brottby]]></name>
-        <description>Qstar Brottby, Brottby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Brottby, Brottby, Sverige]]></description>
         <Point><coordinates>18.238731,59.561499,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bilisten Brottby]]></name>
-        <description>Bilisten Brottby, Brottby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bilisten Brottby, Brottby, Sverige]]></description>
         <Point><coordinates>18.240744,59.562651,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Knutby]]></name>
-        <description>Qstar Knutby, Knutby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Knutby, Knutby, Sverige]]></description>
         <Point><coordinates>18.265156,59.90958,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Själevad]]></name>
-        <description>Qstar Själevad, Själevad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Själevad, Själevad, Sverige]]></description>
         <Point><coordinates>18.623364,63.295514,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Grisslehamn]]></name>
-        <description>Qstar Grisslehamn, Grisslehamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Grisslehamn, Grisslehamn, Sverige]]></description>
         <Point><coordinates>18.805324,60.095854,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bilisten Abisko]]></name>
-        <description>Bilisten Abisko, Abisko, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bilisten Abisko, Abisko, Sverige]]></description>
         <Point><coordinates>18.832006,68.350387,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Gräddö]]></name>
-        <description>Qstar Gräddö, Gräddö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Gräddö, Gräddö, Sverige]]></description>
         <Point><coordinates>19.036943,59.761963,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bilisten Balsjö/Bjurholm]]></name>
-        <description>Bilisten Balsjö/Bjurholm, Bjurholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bilisten Balsjö/Bjurholm, Bjurholm, Sverige]]></description>
         <Point><coordinates>19.056839,63.925507,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Husum]]></name>
-        <description>Qstar Husum, Husum, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Husum, Husum, Sverige]]></description>
         <Point><coordinates>19.14884,63.34902,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Arvidsjaur]]></name>
-        <description>Qstar Arvidsjaur, Arvidsjaur, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Arvidsjaur, Arvidsjaur, Sverige]]></description>
         <Point><coordinates>19.203772,65.579039,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Åmsele]]></name>
-        <description>Qstar Åmsele, Åmsele, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Åmsele, Åmsele, Sverige]]></description>
         <Point><coordinates>19.346272,64.533485,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Granö]]></name>
-        <description>Qstar Granö, Granö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Granö, Granö, Sverige]]></description>
         <Point><coordinates>19.388499,64.216495,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Vindeln]]></name>
-        <description>Qstar Vindeln, Vindeln, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Vindeln, Vindeln, Sverige]]></description>
         <Point><coordinates>19.714442,64.200606,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Rödåsel/Tavelsjö]]></name>
-        <description>Qstar Rödåsel/Tavelsjö, Tavelsjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Rödåsel/Tavelsjö, Tavelsjö, Sverige]]></description>
         <Point><coordinates>19.953794,64.088351,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Kåbdalis]]></name>
-        <description>Qstar Kåbdalis, Kåbdalis, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Kåbdalis, Kåbdalis, Sverige]]></description>
         <Point><coordinates>19.989492,66.146229,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Kiruna]]></name>
-        <description>Qstar Kiruna, Kiruna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Kiruna, Kiruna, Sverige]]></description>
         <Point><coordinates>20.236816,67.852773,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Bygdeå]]></name>
-        <description>Qstar Bygdeå, Bygdeå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Bygdeå, Bygdeå, Sverige]]></description>
         <Point><coordinates>20.848584,64.060514,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bilisten Nattavaaraby]]></name>
-        <description>Bilisten Nattavaaraby, Nattavaara, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bilisten Nattavaaraby, Nattavaara, Sverige]]></description>
         <Point><coordinates>20.951851,66.756162,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Skellefteå]]></name>
-        <description>Qstar Skellefteå, Skellefteå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Skellefteå, Skellefteå, Sverige]]></description>
         <Point><coordinates>21.031874,64.745641,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Svappavaara]]></name>
-        <description>Qstar Svappavaara, Svappavaara, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Svappavaara, Svappavaara, Sverige]]></description>
         <Point><coordinates>21.057153,67.645333,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bilisten Lillpite]]></name>
-        <description>Bilisten Lillpite, Lillpite, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bilisten Lillpite, Lillpite, Sverige]]></description>
         <Point><coordinates>21.156128,65.373618,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Skelleftehamn]]></name>
-        <description>Qstar Skelleftehamn, Skelleftehamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Skelleftehamn, Skelleftehamn, Sverige]]></description>
         <Point><coordinates>21.236957,64.686225,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Piteå]]></name>
-        <description>Qstar Piteå, Piteå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Piteå, Piteå, Sverige]]></description>
         <Point><coordinates>21.448358,65.324636,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Boden]]></name>
-        <description>Qstar Boden, Boden, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Boden, Boden, Sverige]]></description>
         <Point><coordinates>21.717801,65.80658,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Unbyn]]></name>
-        <description>Qstar Unbyn, Boden, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Unbyn, Boden, Sverige]]></description>
         <Point><coordinates>21.760396,65.713292,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Gunnarsbyn]]></name>
-        <description>Qstar Gunnarsbyn, Gunnarsbyn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Gunnarsbyn, Gunnarsbyn, Sverige]]></description>
         <Point><coordinates>21.804289,66.084572,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Lansjärv]]></name>
-        <description>Qstar Lansjärv, Lansjärv, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Lansjärv, Lansjärv, Sverige]]></description>
         <Point><coordinates>22.182641,66.651498,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Överkalix]]></name>
-        <description>Qstar Överkalix, Överkalix, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Överkalix, Överkalix, Sverige]]></description>
         <Point><coordinates>22.841378,66.328866,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Korpilombolo]]></name>
-        <description>Qstar Korpilombolo, Korpilombolo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Korpilombolo, Korpilombolo, Sverige]]></description>
         <Point><coordinates>23.062471,66.848481,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Qstar Pello]]></name>
-        <description>Qstar Pello, Pello, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Qstar Pello, Pello, Sverige]]></description>
         <Point><coordinates>23.976452,66.802215,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
     </Folder>
   </Document>

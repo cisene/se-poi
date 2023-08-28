@@ -1,271 +1,240 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>ChopChop Asian Express</name>
+    <name><![CDATA[ChopChop Asian Express]]></name>
     <description/>
-    <Style id="icon-22-normal">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-22-highlight">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-22">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-22-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-22-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
+    <Style id="icon-22-normal"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>
+    <Style id="icon-22-highlight"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>1.1</scale></LabelStyle></Style>
+    <StyleMap id="icon-22"><Pair><key>normal</key><styleUrl>#icon-22-normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#icon-22-highlight</styleUrl></Pair></StyleMap>
     <Folder>
       <name><![CDATA[ChopChop Asian Express]]></name>
       <Placemark>
         <name><![CDATA[ChopChop Asian Express Uddevalla]]></name>
-        <description>ChopChop Asian Express Uddevalla, Uddevalla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[ChopChop Asian Express Uddevalla, Uddevalla, Sverige]]></description>
         <Point><coordinates>11.807521,58.350891,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[ChopChop Asian Express Kungsbacka]]></name>
-        <description>ChopChop Asian Express Kungsbacka, Kungsbacka, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[ChopChop Asian Express Kungsbacka, Kungsbacka, Sverige]]></description>
         <Point><coordinates>12.058449,57.473431,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[ChopChop Asian Express Varberg]]></name>
-        <description>ChopChop Asian Express Varberg, Varberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[ChopChop Asian Express Varberg, Varberg, Sverige]]></description>
         <Point><coordinates>12.278187,57.166937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[ChopChop Asian Express Trollhättan]]></name>
-        <description>ChopChop Asian Express Trollhättan, Trollhättan, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[ChopChop Asian Express Trollhättan, Trollhättan, Sverige]]></description>
         <Point><coordinates>12.300325,58.315152,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[ChopChop Asian Express Borås]]></name>
-        <description>ChopChop Asian Express Borås, Borås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[ChopChop Asian Express Borås, Borås, Sverige]]></description>
         <Point><coordinates>12.968775,57.719468,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[ChopChop Asian Express Svågertorp]]></name>
-        <description>ChopChop Asian Express Svågertorp, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[ChopChop Asian Express Svågertorp, Malmö, Sverige]]></description>
         <Point><coordinates>12.991364,55.553544,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[ChopChop Asian Express Lockarp]]></name>
-        <description>ChopChop Asian Express Lockarp, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[ChopChop Asian Express Lockarp, Malmö, Sverige]]></description>
         <Point><coordinates>13.033073,55.550745,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[ChopChop Asian Express Lund]]></name>
-        <description>ChopChop Asian Express Lund, Lund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[ChopChop Asian Express Lund, Lund, Sverige]]></description>
         <Point><coordinates>13.19728,55.720987,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[ChopChop Asian Express Karlstad]]></name>
-        <description>ChopChop Asian Express Karlstad, Karlstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[ChopChop Asian Express Karlstad, Karlstad, Sverige]]></description>
         <Point><coordinates>13.475255,59.383648,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[ChopChop Asian Express Värnamo]]></name>
-        <description>ChopChop Asian Express Värnamo, Värnamo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[ChopChop Asian Express Värnamo, Värnamo, Sverige]]></description>
         <Point><coordinates>14.072376,57.164878,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[ChopChop Asian Express Asecs]]></name>
-        <description>ChopChop Asian Express Asecs, Jönköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[ChopChop Asian Express Asecs, Jönköping, Sverige]]></description>
         <Point><coordinates>14.194458,57.772559,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[ChopChop Asian Express Växjö]]></name>
-        <description>ChopChop Asian Express Växjö, Växjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[ChopChop Asian Express Växjö, Växjö, Sverige]]></description>
         <Point><coordinates>14.762091,56.881892,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[ChopChop Asian Express Motala]]></name>
-        <description>ChopChop Asian Express Motala, Motala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[ChopChop Asian Express Motala, Motala, Sverige]]></description>
         <Point><coordinates>15.008721,58.544757,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[ChopChop Asian Express Mjölby]]></name>
-        <description>ChopChop Asian Express Mjölby, Mjölby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[ChopChop Asian Express Mjölby, Mjölby, Sverige]]></description>
         <Point><coordinates>15.088564,58.323438,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[ChopChop Asian Express Eurostop]]></name>
-        <description>ChopChop Asian Express Eurostop, Örebro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[ChopChop Asian Express Eurostop, Örebro, Sverige]]></description>
         <Point><coordinates>15.198749,59.297283,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[ChopChop Asian Express Krämaren]]></name>
-        <description>ChopChop Asian Express Krämaren, Örebro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[ChopChop Asian Express Krämaren, Örebro, Sverige]]></description>
         <Point><coordinates>15.208129,59.269231,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[ChopChop Asian Express Borlänge]]></name>
-        <description>ChopChop Asian Express Borlänge, Borlänge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[ChopChop Asian Express Borlänge, Borlänge, Sverige]]></description>
         <Point><coordinates>15.432501,60.478331,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[ChopChop Asian Express Linköping]]></name>
-        <description>ChopChop Asian Express Linköping, Linköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[ChopChop Asian Express Linköping, Linköping, Sverige]]></description>
         <Point><coordinates>15.591938,58.435313,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[ChopChop Asian Express Kalmar]]></name>
-        <description>ChopChop Asian Express Kalmar, Kalmar, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[ChopChop Asian Express Kalmar, Kalmar, Sverige]]></description>
         <Point><coordinates>16.322812,56.684188,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[ChopChop Asian Express Erikslund]]></name>
-        <description>ChopChop Asian Express Erikslund, Västerås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[ChopChop Asian Express Erikslund, Västerås, Sverige]]></description>
         <Point><coordinates>16.45923,59.619458,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[ChopChop Asian Express Eskilstuna]]></name>
-        <description>ChopChop Asian Express Eskilstuna, Eskilstuna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[ChopChop Asian Express Eskilstuna, Eskilstuna, Sverige]]></description>
         <Point><coordinates>16.463628,59.390501,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[ChopChop Asian Express Gränby]]></name>
-        <description>ChopChop Asian Express Gränby, Uppsala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[ChopChop Asian Express Gränby, Uppsala, Sverige]]></description>
         <Point><coordinates>16.542958,59.635917,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[ChopChop Asian Express Gryta]]></name>
-        <description>ChopChop Asian Express Gryta, Västerås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[ChopChop Asian Express Gryta, Västerås, Sverige]]></description>
         <Point><coordinates>16.545187,59.635937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[ChopChop Asian Express Strängnäs]]></name>
-        <description>ChopChop Asian Express Strängnäs, Strängnäs, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[ChopChop Asian Express Strängnäs, Strängnäs, Sverige]]></description>
         <Point><coordinates>17.017097,59.327644,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[ChopChop Asian Express Nyköping]]></name>
-        <description>ChopChop Asian Express Nyköping, Nyköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[ChopChop Asian Express Nyköping, Nyköping, Sverige]]></description>
         <Point><coordinates>17.018894,58.77207,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[ChopChop Asian Express Enköping]]></name>
-        <description>ChopChop Asian Express Enköping, Enköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[ChopChop Asian Express Enköping, Enköping, Sverige]]></description>
         <Point><coordinates>17.078183,59.6529,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[ChopChop Asian Express Sundsvall]]></name>
-        <description>ChopChop Asian Express Sundsvall, Sundsvall, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[ChopChop Asian Express Sundsvall, Sundsvall, Sverige]]></description>
         <Point><coordinates>17.342562,62.442687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[ChopChop Asian Express Boländerna]]></name>
-        <description>ChopChop Asian Express Boländerna, Uppsala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[ChopChop Asian Express Boländerna, Uppsala, Sverige]]></description>
         <Point><coordinates>17.694187,59.845312,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[ChopChop Asian Express Rosersberg]]></name>
-        <description>ChopChop Asian Express Rosersberg, Rosersberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[ChopChop Asian Express Rosersberg, Rosersberg, Sverige]]></description>
         <Point><coordinates>17.895565,59.575441,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[ChopChop Asian Express Rotebro]]></name>
-        <description>ChopChop Asian Express Rotebro, Sollentuna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[ChopChop Asian Express Rotebro, Sollentuna, Sverige]]></description>
         <Point><coordinates>17.914841,59.470583,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[ChopChop Asian Express Häggvik]]></name>
-        <description>ChopChop Asian Express Häggvik, Sollentuna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[ChopChop Asian Express Häggvik, Sollentuna, Sverige]]></description>
         <Point><coordinates>17.929563,59.437062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[ChopChop Asian Express Bromma Blocks]]></name>
-        <description>ChopChop Asian Express Bromma Blocks, Bromma, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[ChopChop Asian Express Bromma Blocks, Bromma, Sverige]]></description>
         <Point><coordinates>17.950444,59.355282,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[ChopChop Asian Express Arninge]]></name>
-        <description>ChopChop Asian Express Arninge, Täby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[ChopChop Asian Express Arninge, Täby, Sverige]]></description>
         <Point><coordinates>17.952167,59.355556,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[ChopChop Asian Express Farsta]]></name>
-        <description>ChopChop Asian Express Farsta, Farsta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[ChopChop Asian Express Farsta, Farsta, Sverige]]></description>
         <Point><coordinates>18.089099,59.242914,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[ChopChop Asian Express Sickla]]></name>
-        <description>ChopChop Asian Express Sickla, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[ChopChop Asian Express Sickla, Stockholm, Sverige]]></description>
         <Point><coordinates>18.127766,59.305712,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[ChopChop Asian Express Port73]]></name>
-        <description>ChopChop Asian Express Port73, Handen, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[ChopChop Asian Express Port73, Handen, Sverige]]></description>
         <Point><coordinates>18.145256,59.178339,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[ChopChop Asian Express Värmdö]]></name>
-        <description>ChopChop Asian Express Värmdö, Gustavsberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[ChopChop Asian Express Värmdö, Gustavsberg, Sverige]]></description>
         <Point><coordinates>18.428187,59.313562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[ChopChop Asian Express Norrtälje]]></name>
-        <description>ChopChop Asian Express Norrtälje, Norrtälje, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[ChopChop Asian Express Norrtälje, Norrtälje, Sverige]]></description>
         <Point><coordinates>18.677689,59.746741,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
     </Folder>
   </Document>

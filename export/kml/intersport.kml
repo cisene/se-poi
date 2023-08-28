@@ -1,607 +1,576 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Intersport</name>
+    <name><![CDATA[Intersport]]></name>
     <description/>
-    <Style id="icon-22-normal">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-22-highlight">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-22">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-22-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-22-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
+    <Style id="icon-22-normal"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>
+    <Style id="icon-22-highlight"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>1.1</scale></LabelStyle></Style>
+    <StyleMap id="icon-22"><Pair><key>normal</key><styleUrl>#icon-22-normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#icon-22-highlight</styleUrl></Pair></StyleMap>
     <Folder>
       <name><![CDATA[Intersport]]></name>
       <Placemark>
         <name><![CDATA[Intersport Strömstad City]]></name>
-        <description>Intersport Strömstad City, Strömstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Strömstad City, Strömstad, Sverige]]></description>
         <Point><coordinates>11.186914,58.946334,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Uddevalla Torp]]></name>
-        <description>Intersport Uddevalla Torp, Uddevalla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Uddevalla Torp, Uddevalla, Sverige]]></description>
         <Point><coordinates>11.810349,58.353317,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Göteborg Högsbo 421]]></name>
-        <description>Intersport Göteborg Högsbo 421, Västra frölunda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Göteborg Högsbo 421, Västra frölunda, Sverige]]></description>
         <Point><coordinates>11.947863,57.650826,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Göteborg Backaplan]]></name>
-        <description>Intersport Göteborg Backaplan, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Göteborg Backaplan, Göteborg, Sverige]]></description>
         <Point><coordinates>11.95145,57.72157,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Göteborg Nordstan]]></name>
-        <description>Intersport Göteborg Nordstan, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Göteborg Nordstan, Göteborg, Sverige]]></description>
         <Point><coordinates>11.97024,57.70742,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Kungsbacka Kungsmässan]]></name>
-        <description>Intersport Kungsbacka Kungsmässan, Kungsbacka, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Kungsbacka Kungsmässan, Kungsbacka, Sverige]]></description>
         <Point><coordinates>12.07256,57.493369,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Partille Allum]]></name>
-        <description>Intersport Partille Allum, Partille, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Partille Allum, Partille, Sverige]]></description>
         <Point><coordinates>12.105,57.73751,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Varberg Lassabacka]]></name>
-        <description>Intersport Varberg Lassabacka, Varberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Varberg Lassabacka, Varberg, Sverige]]></description>
         <Point><coordinates>12.25811,57.12217,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Trollhättan Överby]]></name>
-        <description>Intersport Trollhättan Överby, Trollhättan, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Trollhättan Överby, Trollhättan, Sverige]]></description>
         <Point><coordinates>12.308958,58.312668,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Falkenberg]]></name>
-        <description>Intersport Falkenberg, Falkenberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Falkenberg, Falkenberg, Sverige]]></description>
         <Point><coordinates>12.49065,56.90429,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Alingsås]]></name>
-        <description>Intersport Alingsås, Alingsås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Alingsås, Alingsås, Sverige]]></description>
         <Point><coordinates>12.53629,57.93,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Arvika]]></name>
-        <description>Intersport Arvika, Arvika, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Arvika, Arvika, Sverige]]></description>
         <Point><coordinates>12.59117,59.65535,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Helsingborg Väla]]></name>
-        <description>Intersport Helsingborg Väla, Ödåkra, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Helsingborg Väla, Ödåkra, Sverige]]></description>
         <Point><coordinates>12.757631,56.091591,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Ängelholm Brännborn]]></name>
-        <description>Intersport Ängelholm Brännborn, Ängelholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Ängelholm Brännborn, Ängelholm, Sverige]]></description>
         <Point><coordinates>12.88979,56.25356,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Halmstad Stenalyckan]]></name>
-        <description>Intersport Halmstad Stenalyckan, Halmstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Halmstad Stenalyckan, Halmstad, Sverige]]></description>
         <Point><coordinates>12.90802,56.66105,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Borås Knallerian]]></name>
-        <description>Intersport Borås Knallerian, Borås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Borås Knallerian, Borås, Sverige]]></description>
         <Point><coordinates>12.938204,57.735226,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Malmö Emporia]]></name>
-        <description>Intersport Malmö Emporia, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Malmö Emporia, Malmö, Sverige]]></description>
         <Point><coordinates>12.9712,55.5636,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Malmö Mobilia]]></name>
-        <description>Intersport Malmö Mobilia, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Malmö Mobilia, Malmö, Sverige]]></description>
         <Point><coordinates>13.00331,55.58117,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Åre]]></name>
-        <description>Intersport Åre, Åre, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Åre, Åre, Sverige]]></description>
         <Point><coordinates>13.07458,63.39995,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Malmö St Bernstorp]]></name>
-        <description>Intersport Malmö St Bernstorp, Arlöv, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Malmö St Bernstorp, Arlöv, Sverige]]></description>
         <Point><coordinates>13.101754,55.612887,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Sunne]]></name>
-        <description>Intersport Sunne, Sunne, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Sunne, Sunne, Sverige]]></description>
         <Point><coordinates>13.14631,59.83694,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Lidköping City]]></name>
-        <description>Intersport Lidköping City, Lidköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Lidköping City, Lidköping, Sverige]]></description>
         <Point><coordinates>13.15529,58.50267,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Trelleborg]]></name>
-        <description>Intersport Trelleborg, Trelleborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Trelleborg, Trelleborg, Sverige]]></description>
         <Point><coordinates>13.15788,55.37432,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Sälen]]></name>
-        <description>Intersport Sälen, Transtrand, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Sälen, Transtrand, Sverige]]></description>
         <Point><coordinates>13.280926,61.135747,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Eslöv]]></name>
-        <description>Intersport Eslöv, Eslöv, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Eslöv, Eslöv, Sverige]]></description>
         <Point><coordinates>13.30448,55.83974,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Karlstad Bergvik]]></name>
-        <description>Intersport Karlstad Bergvik, Karlstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Karlstad Bergvik, Karlstad, Sverige]]></description>
         <Point><coordinates>13.430099,59.377436,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Falköping]]></name>
-        <description>Intersport Falköping, Falköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Falköping, Falköping, Sverige]]></description>
         <Point><coordinates>13.55225,58.16171,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Hässleholm City]]></name>
-        <description>Intersport Hässleholm City, Hässleholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Hässleholm City, Hässleholm, Sverige]]></description>
         <Point><coordinates>13.76589,56.15743,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Mariestad]]></name>
-        <description>Intersport Mariestad, Mariestad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Mariestad, Mariestad, Sverige]]></description>
         <Point><coordinates>13.824122,58.710559,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Skövde Stallsiken]]></name>
-        <description>Intersport Skövde Stallsiken, Skövde, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Skövde Stallsiken, Skövde, Sverige]]></description>
         <Point><coordinates>13.87255,58.40622,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Ljungby]]></name>
-        <description>Intersport Ljungby, Ljungby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Ljungby, Ljungby, Sverige]]></description>
         <Point><coordinates>13.90848,56.81416,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Kristinehamn]]></name>
-        <description>Intersport Kristinehamn, Kristinehamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Kristinehamn, Kristinehamn, Sverige]]></description>
         <Point><coordinates>14.10716,59.30922,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Kristianstad Härlöv]]></name>
-        <description>Intersport Kristianstad Härlöv, Kristianstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Kristianstad Härlöv, Kristianstad, Sverige]]></description>
         <Point><coordinates>14.1176,56.024,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Jönköping A6]]></name>
-        <description>Intersport Jönköping A6, Jönköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Jönköping A6, Jönköping, Sverige]]></description>
         <Point><coordinates>14.201331,57.769019,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Karlskoga]]></name>
-        <description>Intersport Karlskoga, Karlskoga, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Karlskoga, Karlskoga, Sverige]]></description>
         <Point><coordinates>14.535047,59.326891,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Mora]]></name>
-        <description>Intersport Mora, Mora, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Mora, Mora, Sverige]]></description>
         <Point><coordinates>14.602032,61.006033,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Östersund]]></name>
-        <description>Intersport Östersund, Östersund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Östersund, Östersund, Sverige]]></description>
         <Point><coordinates>14.69134,63.17133,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Växjö Grand Samarkand]]></name>
-        <description>Intersport Växjö Grand Samarkand, Växjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Växjö Grand Samarkand, Växjö, Sverige]]></description>
         <Point><coordinates>14.7627,56.88513,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Karlshamn]]></name>
-        <description>Intersport Karlshamn, Karlshamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Karlshamn, Karlshamn, Sverige]]></description>
         <Point><coordinates>14.86068,56.1705,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Tranås]]></name>
-        <description>Intersport Tranås, Tranås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Tranås, Tranås, Sverige]]></description>
         <Point><coordinates>14.97592,58.03479,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Eksjö]]></name>
-        <description>Intersport Eksjö, Eksjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Eksjö, Eksjö, Sverige]]></description>
         <Point><coordinates>14.97905,57.66582,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Vetlanda]]></name>
-        <description>Intersport Vetlanda, Vetlanda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Vetlanda, Vetlanda, Sverige]]></description>
         <Point><coordinates>15.06677,57.44288,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Mjölby]]></name>
-        <description>Intersport Mjölby, Mjölby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Mjölby, Mjölby, Sverige]]></description>
         <Point><coordinates>15.1253,58.32604,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Örebro Marieberg]]></name>
-        <description>Intersport Örebro Marieberg, Örebro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Örebro Marieberg, Örebro, Sverige]]></description>
         <Point><coordinates>15.142529,59.218178,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Örebro City]]></name>
-        <description>Intersport Örebro City, Örebro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Örebro City, Örebro, Sverige]]></description>
         <Point><coordinates>15.21265,59.26969,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Borlänge Norra backa]]></name>
-        <description>Intersport Borlänge Norra backa, Borlänge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Borlänge Norra backa, Borlänge, Sverige]]></description>
         <Point><coordinates>15.41966,60.47941,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Linköping Ikano]]></name>
-        <description>Intersport Linköping Ikano, Linköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Linköping Ikano, Linköping, Sverige]]></description>
         <Point><coordinates>15.58631,58.43331,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Linköping Gränden]]></name>
-        <description>Intersport Linköping Gränden, Linköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Linköping Gränden, Linköping, Sverige]]></description>
         <Point><coordinates>15.6269,58.40972,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Karlskrona Amiralen]]></name>
-        <description>Intersport Karlskrona Amiralen, Lyckeby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Karlskrona Amiralen, Lyckeby, Sverige]]></description>
         <Point><coordinates>15.64169,56.19698,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Falun I13]]></name>
-        <description>Intersport Falun I13, Falun, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Falun I13, Falun, Sverige]]></description>
         <Point><coordinates>15.6567,60.60732,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Vimmerby]]></name>
-        <description>Intersport Vimmerby, Vimmerby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Vimmerby, Vimmerby, Sverige]]></description>
         <Point><coordinates>15.85263,57.66578,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Köping Big Inn]]></name>
-        <description>Intersport Köping Big Inn, Köping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Köping Big Inn, Köping, Sverige]]></description>
         <Point><coordinates>15.97416,59.52282,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Avesta]]></name>
-        <description>Intersport Avesta, Avesta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Avesta, Avesta, Sverige]]></description>
         <Point><coordinates>16.1682,60.1459,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Katrineholm]]></name>
-        <description>Intersport Katrineholm, Katrineholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Katrineholm, Katrineholm, Sverige]]></description>
         <Point><coordinates>16.22905,59.00493,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Kalmar Giraffen]]></name>
-        <description>Intersport Kalmar Giraffen, Kalmar, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Kalmar Giraffen, Kalmar, Sverige]]></description>
         <Point><coordinates>16.255261,56.670053,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Bollnäs]]></name>
-        <description>Intersport Bollnäs, Bollnäs, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Bollnäs, Bollnäs, Sverige]]></description>
         <Point><coordinates>16.39288,61.34875,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Oskarshamn]]></name>
-        <description>Intersport Oskarshamn, Oskarshamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Oskarshamn, Oskarshamn, Sverige]]></description>
         <Point><coordinates>16.44709,57.26512,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Västerås Erikslund]]></name>
-        <description>Intersport Västerås Erikslund, Västerås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Västerås Erikslund, Västerås, Sverige]]></description>
         <Point><coordinates>16.4537,59.609564,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Sala]]></name>
-        <description>Intersport Sala, Sala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Sala, Sala, Sverige]]></description>
         <Point><coordinates>16.60505,59.91953,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Västervik]]></name>
-        <description>Intersport Västervik, Västervik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Västervik, Västervik, Sverige]]></description>
         <Point><coordinates>16.63692,57.75981,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Sandviken]]></name>
-        <description>Intersport Sandviken, Sandviken, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Sandviken, Sandviken, Sverige]]></description>
         <Point><coordinates>16.774535,60.623071,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Nyköping Påljungshage]]></name>
-        <description>Intersport Nyköping Påljungshage, Nyköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Nyköping Påljungshage, Nyköping, Sverige]]></description>
         <Point><coordinates>17.017179,58.772083,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Strängnäs Solberga]]></name>
-        <description>Intersport Strängnäs Solberga, Strängnäs, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Strängnäs Solberga, Strängnäs, Sverige]]></description>
         <Point><coordinates>17.0199,59.3365,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Gävle Valbo]]></name>
-        <description>Intersport Gävle Valbo, Valbo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Gävle Valbo, Valbo, Sverige]]></description>
         <Point><coordinates>17.02106,60.64787,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Enköping Romberga]]></name>
-        <description>Intersport Enköping Romberga, Enköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Enköping Romberga, Enköping, Sverige]]></description>
         <Point><coordinates>17.082646,59.652198,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Hudiksvall]]></name>
-        <description>Intersport Hudiksvall, Hudiksvall, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Hudiksvall, Hudiksvall, Sverige]]></description>
         <Point><coordinates>17.10491,61.72715,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Gävle City]]></name>
-        <description>Intersport Gävle City, Gävle, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Gävle City, Gävle, Sverige]]></description>
         <Point><coordinates>17.14139,60.67517,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Sundsvall Birsta]]></name>
-        <description>Intersport Sundsvall Birsta, Sundsvall, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Sundsvall Birsta, Sundsvall, Sverige]]></description>
         <Point><coordinates>17.32677,62.44416,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Södertälje Moraberg]]></name>
-        <description>Intersport Södertälje Moraberg, Södertälje, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Södertälje Moraberg, Södertälje, Sverige]]></description>
         <Point><coordinates>17.66533,59.20272,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Uppsala Boländerna]]></name>
-        <description>Intersport Uppsala Boländerna, Uppsala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Uppsala Boländerna, Uppsala, Sverige]]></description>
         <Point><coordinates>17.69184,59.84457,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Kramfors]]></name>
-        <description>Intersport Kramfors, Kramfors, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Kramfors, Kramfors, Sverige]]></description>
         <Point><coordinates>17.7782,62.93171,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Stockholm Barkarby]]></name>
-        <description>Intersport Stockholm Barkarby, Järfälla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Stockholm Barkarby, Järfälla, Sverige]]></description>
         <Point><coordinates>17.862997,59.411701,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Härnösand]]></name>
-        <description>Intersport Härnösand, Härnösand, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Härnösand, Härnösand, Sverige]]></description>
         <Point><coordinates>17.92664,62.63576,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Stockholm Huddinge]]></name>
-        <description>Intersport Stockholm Huddinge, Huddinge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Stockholm Huddinge, Huddinge, Sverige]]></description>
         <Point><coordinates>17.98142,59.23716,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Stockholm Liljeholmstorget]]></name>
-        <description>Intersport Stockholm Liljeholmstorget, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Stockholm Liljeholmstorget, Stockholm, Sverige]]></description>
         <Point><coordinates>18.02239,59.30951,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Stockholm Sergelstorg]]></name>
-        <description>Intersport Stockholm Sergelstorg, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Stockholm Sergelstorg, Stockholm, Sverige]]></description>
         <Point><coordinates>18.063074,59.332116,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Stockholm Skrapan]]></name>
-        <description>Intersport Stockholm Skrapan, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Stockholm Skrapan, Stockholm, Sverige]]></description>
         <Point><coordinates>18.0742,59.311811,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Stockholm Farsta]]></name>
-        <description>Intersport Stockholm Farsta, Farsta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Stockholm Farsta, Farsta, Sverige]]></description>
         <Point><coordinates>18.09185,59.24234,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Stockholm Lidingö]]></name>
-        <description>Intersport Stockholm Lidingö, Lidingö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Stockholm Lidingö, Lidingö, Sverige]]></description>
         <Point><coordinates>18.133653,59.366794,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Stockholm Haninge Port 73]]></name>
-        <description>Intersport Stockholm Haninge Port 73, Handen, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Stockholm Haninge Port 73, Handen, Sverige]]></description>
         <Point><coordinates>18.151517,59.179776,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Visby Kvarnen]]></name>
-        <description>Intersport Visby Kvarnen, Visby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Visby Kvarnen, Visby, Sverige]]></description>
         <Point><coordinates>18.317964,57.645636,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Värmdö]]></name>
-        <description>Intersport Värmdö, Gustavsberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Värmdö, Gustavsberg, Sverige]]></description>
         <Point><coordinates>18.422002,59.310719,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Norrtälje]]></name>
-        <description>Intersport Norrtälje, Norrtälje, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Norrtälje, Norrtälje, Sverige]]></description>
         <Point><coordinates>18.69466,59.76694,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Örnsköldsvik]]></name>
-        <description>Intersport Örnsköldsvik, Örnsköldsvik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Örnsköldsvik, Örnsköldsvik, Sverige]]></description>
         <Point><coordinates>18.71778,63.28882,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Kiruna City]]></name>
-        <description>Intersport Kiruna City, Kiruna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Kiruna City, Kiruna, Sverige]]></description>
         <Point><coordinates>20.22799,67.85389,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Kiruna]]></name>
-        <description>Intersport Kiruna, Kiruna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Kiruna, Kiruna, Sverige]]></description>
         <Point><coordinates>20.255055,67.846948,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Umeå Mariedal]]></name>
-        <description>Intersport Umeå Mariedal, Umeå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Umeå Mariedal, Umeå, Sverige]]></description>
         <Point><coordinates>20.29905,63.84817,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Gällivare]]></name>
-        <description>Intersport Gällivare, Gällivare, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Gällivare, Gällivare, Sverige]]></description>
         <Point><coordinates>20.66326,67.13553,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Skellefteå City]]></name>
-        <description>Intersport Skellefteå City, Skellefteå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Skellefteå City, Skellefteå, Sverige]]></description>
         <Point><coordinates>20.95324,64.75021,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Skellefteå Solbacken]]></name>
-        <description>Intersport Skellefteå Solbacken, Skellefteå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Skellefteå Solbacken, Skellefteå, Sverige]]></description>
         <Point><coordinates>21.0212,64.766,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Piteå Backcity]]></name>
-        <description>Intersport Piteå Backcity, Piteå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Piteå Backcity, Piteå, Sverige]]></description>
         <Point><coordinates>21.442695,65.324006,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Boden]]></name>
-        <description>Intersport Boden, Boden, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Boden, Boden, Sverige]]></description>
         <Point><coordinates>21.68674,65.82505,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Luleå Storheden]]></name>
-        <description>Intersport Luleå Storheden, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Luleå Storheden, Luleå, Sverige]]></description>
         <Point><coordinates>22.04144,65.61855,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Intersport Kalix]]></name>
-        <description>Intersport Kalix, Kalix, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Intersport Kalix, Kalix, Sverige]]></description>
         <Point><coordinates>23.13441,65.85544,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
     </Folder>
   </Document>

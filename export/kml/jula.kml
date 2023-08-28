@@ -1,433 +1,402 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Jula</name>
+    <name><![CDATA[Jula]]></name>
     <description/>
-    <Style id="icon-22-normal">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-22-highlight">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-22">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-22-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-22-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
+    <Style id="icon-22-normal"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>
+    <Style id="icon-22-highlight"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>1.1</scale></LabelStyle></Style>
+    <StyleMap id="icon-22"><Pair><key>normal</key><styleUrl>#icon-22-normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#icon-22-highlight</styleUrl></Pair></StyleMap>
     <Folder>
       <name><![CDATA[Jula]]></name>
       <Placemark>
         <name><![CDATA[Jula Tanum Shoppingcenter]]></name>
-        <description>Jula Tanum Shoppingcenter, Tanumshede, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Tanum Shoppingcenter, Tanumshede, Sverige]]></description>
         <Point><coordinates>11.346302,58.721841,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Östra Torp]]></name>
-        <description>Jula Östra Torp, Uddevalla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Östra Torp, Uddevalla, Sverige]]></description>
         <Point><coordinates>11.821056,58.355563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Töcksfors Shoppingcenter]]></name>
-        <description>Jula Töcksfors Shoppingcenter, Töcksfors, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Töcksfors Shoppingcenter, Töcksfors, Sverige]]></description>
         <Point><coordinates>11.845191,59.506417,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Rollsbo]]></name>
-        <description>Jula Rollsbo, Kungälv, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Rollsbo, Kungälv, Sverige]]></description>
         <Point><coordinates>11.944635,57.880119,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Sisjön]]></name>
-        <description>Jula Sisjön, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Sisjön, Göteborg, Sverige]]></description>
         <Point><coordinates>11.949674,57.641889,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Backaplan]]></name>
-        <description>Jula Backaplan, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Backaplan, Göteborg, Sverige]]></description>
         <Point><coordinates>11.953769,57.726071,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Kållered]]></name>
-        <description>Jula Kållered, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Kållered, Göteborg, Sverige]]></description>
         <Point><coordinates>12.049212,57.601099,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula iHede Handelscentrum]]></name>
-        <description>Jula iHede Handelscentrum, Kungsbacka, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula iHede Handelscentrum, Kungsbacka, Sverige]]></description>
         <Point><coordinates>12.079328,57.511896,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Partille]]></name>
-        <description>Jula Partille, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Partille, Göteborg, Sverige]]></description>
         <Point><coordinates>12.131471,57.739371,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Jula i Lugnetrondellen]]></name>
-        <description>Jula Jula i Lugnetrondellen, Varberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Jula i Lugnetrondellen, Varberg, Sverige]]></description>
         <Point><coordinates>12.269182,57.122178,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Charlottenbergs Shoppingcenter Nord]]></name>
-        <description>Jula Charlottenbergs Shoppingcenter Nord, Charlottenberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Charlottenbergs Shoppingcenter Nord, Charlottenberg, Sverige]]></description>
         <Point><coordinates>12.286672,59.885037,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Överby Köpcenter]]></name>
-        <description>Jula Överby Köpcenter, Trollhättan, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Överby Köpcenter, Trollhättan, Sverige]]></description>
         <Point><coordinates>12.3057,58.314124,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Väla]]></name>
-        <description>Jula Väla, Helsingborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Väla, Helsingborg, Sverige]]></description>
         <Point><coordinates>12.749806,56.092098,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Familia Hyllinge Storcentrum]]></name>
-        <description>Jula Familia Hyllinge Storcentrum, Hyllinge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Familia Hyllinge Storcentrum, Hyllinge, Sverige]]></description>
         <Point><coordinates>12.860861,56.098761,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Lundaskog]]></name>
-        <description>Jula Lundaskog, Borås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Lundaskog, Borås, Sverige]]></description>
         <Point><coordinates>12.866077,57.713807,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Stenalyckan]]></name>
-        <description>Jula Stenalyckan, Halmstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Stenalyckan, Halmstad, Sverige]]></description>
         <Point><coordinates>12.908698,56.660387,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Galleria Center Syd]]></name>
-        <description>Jula Galleria Center Syd, Löddeköpinge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Galleria Center Syd, Löddeköpinge, Sverige]]></description>
         <Point><coordinates>12.988824,55.769413,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Svågertorp Handelsområde]]></name>
-        <description>Jula Svågertorp Handelsområde, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Svågertorp Handelsområde, Malmö, Sverige]]></description>
         <Point><coordinates>12.998439,55.550563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Stora Bernstorp]]></name>
-        <description>Jula Stora Bernstorp, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Stora Bernstorp, Malmö, Sverige]]></description>
         <Point><coordinates>13.101861,55.613535,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Handelsplatsen Nova]]></name>
-        <description>Jula Handelsplatsen Nova, Lund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Handelsplatsen Nova, Lund, Sverige]]></description>
         <Point><coordinates>13.153718,55.714918,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Flygstaden]]></name>
-        <description>Jula Flygstaden, Eslöv, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Flygstaden, Eslöv, Sverige]]></description>
         <Point><coordinates>13.327082,55.844042,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Julahuset]]></name>
-        <description>Jula Julahuset, Skara, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Julahuset, Skara, Sverige]]></description>
         <Point><coordinates>13.459664,58.391722,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula &#197;lleberg Center]]></name>
-        <description>Jula &#197;lleberg Center, Falköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula &#197;lleberg Center, Falköping, Sverige]]></description>
         <Point><coordinates>13.561155,58.146614,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Välsviken]]></name>
-        <description>Jula Välsviken, Karlstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Välsviken, Karlstad, Sverige]]></description>
         <Point><coordinates>13.579447,59.395474,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Österås Centrum]]></name>
-        <description>Jula Österås Centrum, Hässleholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Österås Centrum, Hässleholm, Sverige]]></description>
         <Point><coordinates>13.781667,56.149383,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Stallsiken]]></name>
-        <description>Jula Stallsiken, Skövde, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Stallsiken, Skövde, Sverige]]></description>
         <Point><coordinates>13.879898,58.408923,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Härlöv]]></name>
-        <description>Jula Härlöv, Kristianstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Härlöv, Kristianstad, Sverige]]></description>
         <Point><coordinates>14.114104,56.021095,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula A6-center]]></name>
-        <description>Jula A6-center, Jönköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula A6-center, Jönköping, Sverige]]></description>
         <Point><coordinates>14.202625,57.769625,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Norets handelsområde]]></name>
-        <description>Jula Norets handelsområde, Mora, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Norets handelsområde, Mora, Sverige]]></description>
         <Point><coordinates>14.602716,61.005357,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Lillänge Handelsområde]]></name>
-        <description>Jula Lillänge Handelsområde, Östersund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Lillänge Handelsområde, Östersund, Sverige]]></description>
         <Point><coordinates>14.691318,63.17318,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Handelsplats I11]]></name>
-        <description>Jula Handelsplats I11, Växjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Handelsplats I11, Växjö, Sverige]]></description>
         <Point><coordinates>14.771427,56.876481,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Motala]]></name>
-        <description>Jula Motala, Motala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Motala, Motala, Sverige]]></description>
         <Point><coordinates>15.036474,58.556654,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Marieberg Centrum]]></name>
-        <description>Jula Marieberg Centrum, Örebro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Marieberg Centrum, Örebro, Sverige]]></description>
         <Point><coordinates>15.139284,59.216828,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Norra Backa]]></name>
-        <description>Jula Norra Backa, Borlänge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Norra Backa, Borlänge, Sverige]]></description>
         <Point><coordinates>15.419987,60.479998,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Tornby]]></name>
-        <description>Jula Tornby, Linköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Tornby, Linköping, Sverige]]></description>
         <Point><coordinates>15.593811,58.435036,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Stadsträdgården i Vedeby]]></name>
-        <description>Jula Stadsträdgården i Vedeby, Karlskrona, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Stadsträdgården i Vedeby, Karlskrona, Sverige]]></description>
         <Point><coordinates>15.639253,56.204562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Ingelsta]]></name>
-        <description>Jula Ingelsta, Norrköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Ingelsta, Norrköping, Sverige]]></description>
         <Point><coordinates>16.162585,58.610094,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Dalahästens handelsområde]]></name>
-        <description>Jula Dalahästens handelsområde, Avesta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Dalahästens handelsområde, Avesta, Sverige]]></description>
         <Point><coordinates>16.204073,60.150041,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Hansa City]]></name>
-        <description>Jula Hansa City, Kalmar, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Hansa City, Kalmar, Sverige]]></description>
         <Point><coordinates>16.315825,56.683188,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Folkesta]]></name>
-        <description>Jula Folkesta, Eskilstuna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Folkesta, Eskilstuna, Sverige]]></description>
         <Point><coordinates>16.421986,59.403833,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Erikslund]]></name>
-        <description>Jula Erikslund, Västerås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Erikslund, Västerås, Sverige]]></description>
         <Point><coordinates>16.461928,59.610014,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Ljunghedens handelsplats]]></name>
-        <description>Jula Ljunghedens handelsplats, Västervik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Ljunghedens handelsplats, Västervik, Sverige]]></description>
         <Point><coordinates>16.593213,57.768573,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Hälla]]></name>
-        <description>Jula Hälla, Västerås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Hälla, Västerås, Sverige]]></description>
         <Point><coordinates>16.609416,59.608117,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Gustavsbergs handelsplats]]></name>
-        <description>Jula Gustavsbergs handelsplats, Nyköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Gustavsbergs handelsplats, Nyköping, Sverige]]></description>
         <Point><coordinates>17.024596,58.770992,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Medskog]]></name>
-        <description>Jula Medskog, Hudiksvall, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Medskog, Hudiksvall, Sverige]]></description>
         <Point><coordinates>17.043137,61.716196,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Hemlingby]]></name>
-        <description>Jula Hemlingby, Gävle, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Hemlingby, Gävle, Sverige]]></description>
         <Point><coordinates>17.143574,60.642214,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Östra Birsta]]></name>
-        <description>Jula Östra Birsta, Sundsvall, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Östra Birsta, Sundsvall, Sverige]]></description>
         <Point><coordinates>17.349144,62.442085,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Moraberg köpcentrum]]></name>
-        <description>Jula Moraberg köpcentrum, Södertälje, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Moraberg köpcentrum, Södertälje, Sverige]]></description>
         <Point><coordinates>17.665715,59.201941,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Gränbystaden]]></name>
-        <description>Jula Gränbystaden, Uppsala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Gränbystaden, Uppsala, Sverige]]></description>
         <Point><coordinates>17.674485,59.88473,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Boländerna]]></name>
-        <description>Jula Boländerna, Uppsala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Boländerna, Uppsala, Sverige]]></description>
         <Point><coordinates>17.686846,59.852986,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Barkarby Handelsplats]]></name>
-        <description>Jula Barkarby Handelsplats, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Barkarby Handelsplats, Stockholm, Sverige]]></description>
         <Point><coordinates>17.855563,59.413976,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Botkyrka Handel]]></name>
-        <description>Jula Botkyrka Handel, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Botkyrka Handel, Stockholm, Sverige]]></description>
         <Point><coordinates>17.867234,59.25158,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Kungens Kurva]]></name>
-        <description>Jula Kungens Kurva, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Kungens Kurva, Stockholm, Sverige]]></description>
         <Point><coordinates>17.919442,59.268209,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Häggvik]]></name>
-        <description>Jula Häggvik, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Häggvik, Stockholm, Sverige]]></description>
         <Point><coordinates>17.92751,59.437362,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Bromma Blocks]]></name>
-        <description>Jula Bromma Blocks, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Bromma Blocks, Stockholm, Sverige]]></description>
         <Point><coordinates>17.949167,59.357265,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Arninge Centrum]]></name>
-        <description>Jula Arninge Centrum, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Arninge Centrum, Stockholm, Sverige]]></description>
         <Point><coordinates>18.132885,59.461452,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Port 73]]></name>
-        <description>Jula Port 73, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Port 73, Stockholm, Sverige]]></description>
         <Point><coordinates>18.152137,59.179868,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Forum]]></name>
-        <description>Jula Forum, Stockholm - Nacka Forum, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Forum, Stockholm - Nacka Forum, Sverige]]></description>
         <Point><coordinates>18.16407,59.31024,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Stenhuggaren]]></name>
-        <description>Jula Stenhuggaren, Visby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Stenhuggaren, Visby, Sverige]]></description>
         <Point><coordinates>18.32131,57.622457,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Värmdö]]></name>
-        <description>Jula Värmdö, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Värmdö, Stockholm, Sverige]]></description>
         <Point><coordinates>18.422688,59.310758,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Norrteljeporten]]></name>
-        <description>Jula Norrteljeporten, Norrtälje, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Norrteljeporten, Norrtälje, Sverige]]></description>
         <Point><coordinates>18.678114,59.746926,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Norra Handelsområdet]]></name>
-        <description>Jula Norra Handelsområdet, Örnsköldsvik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Norra Handelsområdet, Örnsköldsvik, Sverige]]></description>
         <Point><coordinates>18.749721,63.304944,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Stora Birk]]></name>
-        <description>Jula Stora Birk, Umeå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Stora Birk, Umeå, Sverige]]></description>
         <Point><coordinates>20.301286,63.853716,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Gymnasievägen]]></name>
-        <description>Jula Gymnasievägen, Skellefteå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Gymnasievägen, Skellefteå, Sverige]]></description>
         <Point><coordinates>20.963705,64.741862,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Jula Storheden]]></name>
-        <description>Jula Storheden, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Jula Storheden, Luleå, Sverige]]></description>
         <Point><coordinates>22.054135,65.615618,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
     </Folder>
   </Document>

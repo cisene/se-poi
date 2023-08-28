@@ -1,331 +1,300 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Grundskolor Luleå Kommun</name>
+    <name><![CDATA[Grundskolor Luleå Kommun]]></name>
     <description/>
-    <Style id="icon-22-normal">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-22-highlight">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-22">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-22-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-22-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
+    <Style id="icon-22-normal"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>
+    <Style id="icon-22-highlight"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>1.1</scale></LabelStyle></Style>
+    <StyleMap id="icon-22"><Pair><key>normal</key><styleUrl>#icon-22-normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#icon-22-highlight</styleUrl></Pair></StyleMap>
     <Folder>
       <name><![CDATA[Grundskolor Luleå Kommun]]></name>
       <Placemark>
         <name><![CDATA[Klöverträskskolan]]></name>
-        <description>Klöverträskskolan, Klöverträsk, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Klöverträskskolan, Klöverträsk, Sverige]]></description>
         <Point><coordinates>21.411812,65.635188,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Alviksskolan]]></name>
-        <description>Alviksskolan, Alvik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Alviksskolan, Alvik, Sverige]]></description>
         <Point><coordinates>21.776313,65.567937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Ersnässkolan]]></name>
-        <description>Ersnässkolan, Ersnäs, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Ersnässkolan, Ersnäs, Sverige]]></description>
         <Point><coordinates>21.799937,65.529313,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Avanskolan]]></name>
-        <description>Avanskolan, Avan, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Avanskolan, Avan, Sverige]]></description>
         <Point><coordinates>21.804563,65.682063,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Antnässkolan]]></name>
-        <description>Antnässkolan, Antnäs, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Antnässkolan, Antnäs, Sverige]]></description>
         <Point><coordinates>21.830312,65.557563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Måttsundsskolan]]></name>
-        <description>Måttsundsskolan, Måttsund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Måttsundsskolan, Måttsund, Sverige]]></description>
         <Point><coordinates>21.916438,65.533812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Kråkbergsskolan]]></name>
-        <description>Kråkbergsskolan, Södra Sunderby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Kråkbergsskolan, Södra Sunderby, Sverige]]></description>
         <Point><coordinates>21.944313,65.659937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sunderbyskolan 0-3]]></name>
-        <description>Sunderbyskolan 0-3, Södra Sunderby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sunderbyskolan 0-3, Södra Sunderby, Sverige]]></description>
         <Point><coordinates>21.955813,65.655438,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sunderbyskolan 4-6]]></name>
-        <description>Sunderbyskolan 4-6, Södra Sunderby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sunderbyskolan 4-6, Södra Sunderby, Sverige]]></description>
         <Point><coordinates>21.955813,65.655438,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Mariebergsskolan]]></name>
-        <description>Mariebergsskolan, Gammelstaden, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Mariebergsskolan, Gammelstaden, Sverige]]></description>
         <Point><coordinates>21.996563,65.647312,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Stadsöskolan 4-6]]></name>
-        <description>Stadsöskolan 4-6, Gammelstaden, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Stadsöskolan 4-6, Gammelstaden, Sverige]]></description>
         <Point><coordinates>22.012813,65.640438,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Stadsöskolan 7-9]]></name>
-        <description>Stadsöskolan 7-9, Gammelstaden, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Stadsöskolan 7-9, Gammelstaden, Sverige]]></description>
         <Point><coordinates>22.012813,65.640438,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Öhemsskolan]]></name>
-        <description>Öhemsskolan, Gammelstaden, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Öhemsskolan, Gammelstaden, Sverige]]></description>
         <Point><coordinates>22.024563,65.635188,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Nya Läroverket]]></name>
-        <description>Nya Läroverket, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Nya Läroverket, Luleå, Sverige]]></description>
         <Point><coordinates>22.080438,65.576937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Nya Läroverket Bergnäset]]></name>
-        <description>Nya Läroverket Bergnäset, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Nya Läroverket Bergnäset, Luleå, Sverige]]></description>
         <Point><coordinates>22.080438,65.576937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Hedskolan]]></name>
-        <description>Hedskolan, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Hedskolan, Luleå, Sverige]]></description>
         <Point><coordinates>22.086438,65.576813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rutviksskolan 0-6]]></name>
-        <description>Rutviksskolan 0-6, Rutvik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rutviksskolan 0-6, Rutvik, Sverige]]></description>
         <Point><coordinates>22.092813,65.673687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Borgmästarskolan]]></name>
-        <description>Borgmästarskolan, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Borgmästarskolan, Luleå, Sverige]]></description>
         <Point><coordinates>22.097687,65.608937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bergskolan]]></name>
-        <description>Bergskolan, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bergskolan, Luleå, Sverige]]></description>
         <Point><coordinates>22.097687,65.572563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Mandaskolan]]></name>
-        <description>Mandaskolan, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Mandaskolan, Luleå, Sverige]]></description>
         <Point><coordinates>22.100812,65.572063,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Notvikens grundsärskola 1-9]]></name>
-        <description>Notvikens grundsärskola 1-9, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Notvikens grundsärskola 1-9, Luleå, Sverige]]></description>
         <Point><coordinates>22.101438,65.609437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Mjölkuddens grundsärskola 1-9]]></name>
-        <description>Mjölkuddens grundsärskola 1-9, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Mjölkuddens grundsärskola 1-9, Luleå, Sverige]]></description>
         <Point><coordinates>22.111187,65.604938,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Tunaskolan 4-6]]></name>
-        <description>Tunaskolan 4-6, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Tunaskolan 4-6, Luleå, Sverige]]></description>
         <Point><coordinates>22.112187,65.605437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Tunaskolan 7-9]]></name>
-        <description>Tunaskolan 7-9, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Tunaskolan 7-9, Luleå, Sverige]]></description>
         <Point><coordinates>22.112187,65.605437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Tunaskolan 0-3]]></name>
-        <description>Tunaskolan 0-3, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Tunaskolan 0-3, Luleå, Sverige]]></description>
         <Point><coordinates>22.112187,65.605437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Residensskolan 7-9]]></name>
-        <description>Residensskolan 7-9, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Residensskolan 7-9, Luleå, Sverige]]></description>
         <Point><coordinates>22.136437,65.583687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Porsöskolan]]></name>
-        <description>Porsöskolan, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Porsöskolan, Luleå, Sverige]]></description>
         <Point><coordinates>22.146062,65.619687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Östra Skolan 0-3]]></name>
-        <description>Östra Skolan 0-3, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Östra Skolan 0-3, Luleå, Sverige]]></description>
         <Point><coordinates>22.155687,65.588062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Östra skolan 4-6]]></name>
-        <description>Östra skolan 4-6, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Östra skolan 4-6, Luleå, Sverige]]></description>
         <Point><coordinates>22.155687,65.588062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Nya Läroverket Svartöstaden]]></name>
-        <description>Nya Läroverket Svartöstaden, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Nya Läroverket Svartöstaden, Luleå, Sverige]]></description>
         <Point><coordinates>22.160688,65.595187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Montessoriskolan]]></name>
-        <description>Montessoriskolan, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Montessoriskolan, Luleå, Sverige]]></description>
         <Point><coordinates>22.161812,65.594687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Persöskolan]]></name>
-        <description>Persöskolan, Persön, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Persöskolan, Persön, Sverige]]></description>
         <Point><coordinates>22.163812,65.744187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Innovitaskolan Luleå]]></name>
-        <description>Innovitaskolan Luleå, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Innovitaskolan Luleå, Luleå, Sverige]]></description>
         <Point><coordinates>22.171563,65.614688,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Björkskataskolan]]></name>
-        <description>Björkskataskolan, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Björkskataskolan, Luleå, Sverige]]></description>
         <Point><coordinates>22.176063,65.615062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Boskataskolan]]></name>
-        <description>Boskataskolan, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Boskataskolan, Luleå, Sverige]]></description>
         <Point><coordinates>22.176313,65.618562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Ormbergsskolan]]></name>
-        <description>Ormbergsskolan, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Ormbergsskolan, Luleå, Sverige]]></description>
         <Point><coordinates>22.181562,65.610187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Tallkronanskolan 0-6]]></name>
-        <description>Tallkronanskolan 0-6, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Tallkronanskolan 0-6, Luleå, Sverige]]></description>
         <Point><coordinates>22.195062,65.594188,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Furuparksskolan 0-3]]></name>
-        <description>Furuparksskolan 0-3, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Furuparksskolan 0-3, Luleå, Sverige]]></description>
         <Point><coordinates>22.201563,65.584312,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Örnässkolan 0-6]]></name>
-        <description>Örnässkolan 0-6, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Örnässkolan 0-6, Luleå, Sverige]]></description>
         <Point><coordinates>22.203938,65.581688,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Örnässkolan 7-9]]></name>
-        <description>Örnässkolan 7-9, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Örnässkolan 7-9, Luleå, Sverige]]></description>
         <Point><coordinates>22.203938,65.581688,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Benzeliusskolan]]></name>
-        <description>Benzeliusskolan, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Benzeliusskolan, Luleå, Sverige]]></description>
         <Point><coordinates>22.240063,65.641188,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Hertsöskolan 4-6]]></name>
-        <description>Hertsöskolan 4-6, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Hertsöskolan 4-6, Luleå, Sverige]]></description>
         <Point><coordinates>22.240187,65.589313,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Hertsöskolan 7-9]]></name>
-        <description>Hertsöskolan 7-9, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Hertsöskolan 7-9, Luleå, Sverige]]></description>
         <Point><coordinates>22.240187,65.589313,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Svedjeskolan]]></name>
-        <description>Svedjeskolan, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Svedjeskolan, Luleå, Sverige]]></description>
         <Point><coordinates>22.244813,65.588437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Ängskolan]]></name>
-        <description>Ängskolan, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Ängskolan, Luleå, Sverige]]></description>
         <Point><coordinates>22.258938,65.580187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Råneskolan 0-6]]></name>
-        <description>Råneskolan 0-6, Rånbyn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Råneskolan 0-6, Rånbyn, Sverige]]></description>
         <Point><coordinates>22.290438,65.853562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Råneskolan 7-9]]></name>
-        <description>Råneskolan 7-9, Rånbyn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Råneskolan 7-9, Rånbyn, Sverige]]></description>
         <Point><coordinates>22.290438,65.853562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Vitådalens skola]]></name>
-        <description>Vitådalens skola, Vitå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Vitådalens skola, Vitå, Sverige]]></description>
         <Point><coordinates>22.383563,65.960062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
     </Folder>
   </Document>

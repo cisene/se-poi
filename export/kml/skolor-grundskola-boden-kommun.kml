@@ -1,151 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Grundskolor Bodens Kommun</name>
+    <name><![CDATA[Grundskolor Bodens Kommun]]></name>
     <description/>
-    <Style id="icon-22-normal">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-22-highlight">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-22">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-22-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-22-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
+    <Style id="icon-22-normal"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>
+    <Style id="icon-22-highlight"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>1.1</scale></LabelStyle></Style>
+    <StyleMap id="icon-22"><Pair><key>normal</key><styleUrl>#icon-22-normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#icon-22-highlight</styleUrl></Pair></StyleMap>
     <Folder>
       <name><![CDATA[Grundskolor Bodens Kommun]]></name>
       <Placemark>
         <name><![CDATA[Harads skola]]></name>
-        <description>Harads skola, Harads, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Harads skola, Harads, Sverige]]></description>
         <Point><coordinates>20.950437,66.084937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Tankeborgen Svartlå Fria]]></name>
-        <description>Tankeborgen Svartlå Fria, Övre Svartlå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Tankeborgen Svartlå Fria, Övre Svartlå, Sverige]]></description>
         <Point><coordinates>21.174813,66.013562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Hedensskolan]]></name>
-        <description>Hedensskolan, Boden, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Hedensskolan, Boden, Sverige]]></description>
         <Point><coordinates>21.572063,65.816937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Fria Emilia]]></name>
-        <description>Fria Emilia, Boden, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Fria Emilia, Boden, Sverige]]></description>
         <Point><coordinates>21.663312,65.823688,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sär Stureskolan]]></name>
-        <description>Sär Stureskolan, Boden, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sär Stureskolan, Boden, Sverige]]></description>
         <Point><coordinates>21.698437,65.819688,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Stureskolan]]></name>
-        <description>Stureskolan, Boden, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Stureskolan, Boden, Sverige]]></description>
         <Point><coordinates>21.698437,65.819688,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Svartbjörnsbyns skola]]></name>
-        <description>Svartbjörnsbyns skola, Boden, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Svartbjörnsbyns skola, Boden, Sverige]]></description>
         <Point><coordinates>21.70002,65.84839,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Prästholmsskolan]]></name>
-        <description>Prästholmsskolan, Boden, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Prästholmsskolan, Boden, Sverige]]></description>
         <Point><coordinates>21.700313,65.831187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sär Prästholmsskolan]]></name>
-        <description>Sär Prästholmsskolan, Boden, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sär Prästholmsskolan, Boden, Sverige]]></description>
         <Point><coordinates>21.700313,65.831187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Noblaskolan]]></name>
-        <description>Noblaskolan, Boden, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Noblaskolan, Boden, Sverige]]></description>
         <Point><coordinates>21.700938,65.823688,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pusslet, grundsärskola]]></name>
-        <description>Pusslet, grundsärskola, Boden, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pusslet, grundsärskola, Boden, Sverige]]></description>
         <Point><coordinates>21.723438,65.827938,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Fagernäs skola]]></name>
-        <description>Fagernäs skola, Boden, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Fagernäs skola, Boden, Sverige]]></description>
         <Point><coordinates>21.728313,65.822563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Brönjaskolan]]></name>
-        <description>Brönjaskolan, Boden, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Brönjaskolan, Boden, Sverige]]></description>
         <Point><coordinates>21.737063,65.771812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Torpgärdsskolan]]></name>
-        <description>Torpgärdsskolan, Boden, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Torpgärdsskolan, Boden, Sverige]]></description>
         <Point><coordinates>21.738062,65.804437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Mårängskolan]]></name>
-        <description>Mårängskolan, Sävast, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Mårängskolan, Sävast, Sverige]]></description>
         <Point><coordinates>21.746563,65.759812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Mimers Brunn Vittjärv]]></name>
-        <description>Mimers Brunn Vittjärv, Boden, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Mimers Brunn Vittjärv, Boden, Sverige]]></description>
         <Point><coordinates>21.758313,65.810063,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Unbyns skola]]></name>
-        <description>Unbyns skola, Unsbyn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Unbyns skola, Unsbyn, Sverige]]></description>
         <Point><coordinates>21.763063,65.710437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Älvskolan]]></name>
-        <description>Älvskolan, Gunnarsbyn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Älvskolan, Gunnarsbyn, Sverige]]></description>
         <Point><coordinates>21.807563,66.086313,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
     </Folder>
   </Document>

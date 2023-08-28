@@ -1,1813 +1,1782 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Shell Norge</name>
+    <name><![CDATA[Shell Norge]]></name>
     <description/>
-    <Style id="icon-22-normal">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-22-highlight">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-22">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-22-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-22-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
+    <Style id="icon-22-normal"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>
+    <Style id="icon-22-highlight"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>1.1</scale></LabelStyle></Style>
+    <StyleMap id="icon-22"><Pair><key>normal</key><styleUrl>#icon-22-normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#icon-22-highlight</styleUrl></Pair></StyleMap>
     <Folder>
       <name><![CDATA[Shell Norge]]></name>
       <Placemark>
         <name><![CDATA[SHELL STRAUME]]></name>
-        <description>SHELL STRAUME, Straume, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL STRAUME, Straume, Norge]]></description>
         <Point><coordinates>5.122847,60.358753,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL BLOMSTERDALEN]]></name>
-        <description>SHELL BLOMSTERDALEN, Blomsterdalen, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL BLOMSTERDALEN, Blomsterdalen, Norge]]></description>
         <Point><coordinates>5.254837,60.284509,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS KOKSTAD]]></name>
-        <description>SHELL EXPRESS KOKSTAD, Kokstad, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS KOKSTAD, Kokstad, Norge]]></description>
         <Point><coordinates>5.261192,60.291839,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS MARIKOLLEN]]></name>
-        <description>SHELL EXPRESS MARIKOLLEN, Mjølkeråen, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS MARIKOLLEN, Mjølkeråen, Norge]]></description>
         <Point><coordinates>5.268816,60.486695,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS ISDALSTØ]]></name>
-        <description>SHELL EXPRESS ISDALSTØ, Isdalstø, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS ISDALSTØ, Isdalstø, Norge]]></description>
         <Point><coordinates>5.270515,60.55541,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL NYGÅRD]]></name>
-        <description>SHELL NYGÅRD, Laksevåg, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL NYGÅRD, Laksevåg, Norge]]></description>
         <Point><coordinates>5.271285,60.384742,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL VARDEN]]></name>
-        <description>SHELL VARDEN, Fyllingsdalen, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL VARDEN, Fyllingsdalen, Norge]]></description>
         <Point><coordinates>5.273246,60.342315,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL AVALDSNES]]></name>
-        <description>SHELL AVALDSNES, Avaldsnes, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL AVALDSNES, Avaldsnes, Norge]]></description>
         <Point><coordinates>5.275923,59.357908,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL KARMSUNDGATA]]></name>
-        <description>SHELL KARMSUNDGATA, Haugesund, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL KARMSUNDGATA, Haugesund, Norge]]></description>
         <Point><coordinates>5.290478,59.402171,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL KARMØY]]></name>
-        <description>SHELL KARMØY, Kopervik, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL KARMØY, Kopervik, Norge]]></description>
         <Point><coordinates>5.291726,59.293639,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL BØNES]]></name>
-        <description>SHELL BØNES, Bønes, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL BØNES, Bønes, Norge]]></description>
         <Point><coordinates>5.293671,60.325355,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL KOPERVIK]]></name>
-        <description>SHELL KOPERVIK, Kopervik, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL KOPERVIK, Kopervik, Norge]]></description>
         <Point><coordinates>5.303016,59.291092,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL NORHEIM]]></name>
-        <description>SHELL NORHEIM, Karmsund, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL NORHEIM, Karmsund, Norge]]></description>
         <Point><coordinates>5.315187,59.385131,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS SANDVIKEN]]></name>
-        <description>SHELL EXPRESS SANDVIKEN, Bergen, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS SANDVIKEN, Bergen, Norge]]></description>
         <Point><coordinates>5.322887,60.40904,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL LAGUNEPARKEN]]></name>
-        <description>SHELL LAGUNEPARKEN, Rådal, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL LAGUNEPARKEN, Rådal, Norge]]></description>
         <Point><coordinates>5.327192,60.296244,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS FJØSANGER]]></name>
-        <description>SHELL EXPRESS FJØSANGER, Bønes, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS FJØSANGER, Bønes, Norge]]></description>
         <Point><coordinates>5.330184,60.341798,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL SELJE]]></name>
-        <description>SHELL SELJE, Selje, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL SELJE, Selje, Norge]]></description>
         <Point><coordinates>5.344017,62.044228,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL CRT BERGEN STORBILSENTER ÅSANE]]></name>
-        <description>SHELL CRT BERGEN STORBILSENTER ÅSANE, Flaktveit, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL CRT BERGEN STORBILSENTER ÅSANE, Flaktveit, Norge]]></description>
         <Point><coordinates>5.348295,60.46287,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL STORETVEIT]]></name>
-        <description>SHELL STORETVEIT, Bergen, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL STORETVEIT, Bergen, Norge]]></description>
         <Point><coordinates>5.350861,60.356525,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL AUTOMAT NESTTUN]]></name>
-        <description>SHELL AUTOMAT NESTTUN, Nesttun, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL AUTOMAT NESTTUN, Nesttun, Norge]]></description>
         <Point><coordinates>5.350894,60.320951,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL HAUKÅS NYBORG]]></name>
-        <description>SHELL HAUKÅS NYBORG, Breistein, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL HAUKÅS NYBORG, Breistein, Norge]]></description>
         <Point><coordinates>5.377407,60.488523,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL AUTOMAT EIKANGER]]></name>
-        <description>SHELL AUTOMAT EIKANGER, Eikangervåg, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL AUTOMAT EIKANGER, Eikangervåg, Norge]]></description>
         <Point><coordinates>5.403752,60.614474,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL HAUKÅS SVEIO]]></name>
-        <description>SHELL HAUKÅS SVEIO, Sveio, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL HAUKÅS SVEIO, Sveio, Norge]]></description>
         <Point><coordinates>5.419306,59.568203,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL AKSDAL]]></name>
-        <description>SHELL AKSDAL, Aksdal, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL AKSDAL, Aksdal, Norge]]></description>
         <Point><coordinates>5.44599,59.42058,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL HEIANE]]></name>
-        <description>SHELL HEIANE, Stord, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL HEIANE, Stord, Norge]]></description>
         <Point><coordinates>5.449642,59.76229,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL LONE]]></name>
-        <description>SHELL LONE, Haukeland, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL LONE, Haukeland, Norge]]></description>
         <Point><coordinates>5.457399,60.374056,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EIKESKOG AUTOMAT]]></name>
-        <description>SHELL EIKESKOG AUTOMAT, Aksdal, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EIKESKOG AUTOMAT, Aksdal, Norge]]></description>
         <Point><coordinates>5.458369,59.405768,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL OSTEREIDET]]></name>
-        <description>SHELL OSTEREIDET, Ostereidet, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL OSTEREIDET, Ostereidet, Norge]]></description>
         <Point><coordinates>5.472795,60.625916,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS LEIRVIK]]></name>
-        <description>SHELL EXPRESS LEIRVIK, Stord, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS LEIRVIK, Stord, Norge]]></description>
         <Point><coordinates>5.483714,59.779939,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS RISAVIKA]]></name>
-        <description>SHELL EXPRESS RISAVIKA, Tananger, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS RISAVIKA, Tananger, Norge]]></description>
         <Point><coordinates>5.603639,58.916314,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL HAGAKROSSEN]]></name>
-        <description>SHELL HAGAKROSSEN, Tananger, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL HAGAKROSSEN, Tananger, Norge]]></description>
         <Point><coordinates>5.603849,58.936236,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL BRYNE]]></name>
-        <description>SHELL BRYNE, Bryne, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL BRYNE, Bryne, Norge]]></description>
         <Point><coordinates>5.641304,58.737704,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL SOLAKROSSEN]]></name>
-        <description>SHELL SOLAKROSSEN, Sola, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL SOLAKROSSEN, Sola, Norge]]></description>
         <Point><coordinates>5.650496,58.883064,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS VARDENESET]]></name>
-        <description>SHELL EXPRESS VARDENESET, Stavanger, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS VARDENESET, Stavanger, Norge]]></description>
         <Point><coordinates>5.675584,58.992731,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL MADLAKROSSEN]]></name>
-        <description>SHELL MADLAKROSSEN, Hafrsfjord, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL MADLAKROSSEN, Hafrsfjord, Norge]]></description>
         <Point><coordinates>5.676535,58.952565,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS RENNESØY]]></name>
-        <description>SHELL EXPRESS RENNESØY, Mosterøy, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS RENNESØY, Mosterøy, Norge]]></description>
         <Point><coordinates>5.677064,59.064234,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL KNAPPHUS]]></name>
-        <description>SHELL KNAPPHUS, Øvre vats, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL KNAPPHUS, Øvre vats, Norge]]></description>
         <Point><coordinates>5.686346,59.529416,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL RANDABERGVEIEN]]></name>
-        <description>SHELL RANDABERGVEIEN, Stavanger, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL RANDABERGVEIEN, Stavanger, Norge]]></description>
         <Point><coordinates>5.70134,58.978239,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL JÆRVEIEN]]></name>
-        <description>SHELL JÆRVEIEN, Sandnes, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL JÆRVEIEN, Sandnes, Norge]]></description>
         <Point><coordinates>5.720731,58.83445,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL HAUGÅSVEIEN]]></name>
-        <description>SHELL HAUGÅSVEIEN, Stavanger, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL HAUGÅSVEIEN, Stavanger, Norge]]></description>
         <Point><coordinates>5.730733,58.945722,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL AUTOMAT FORUS]]></name>
-        <description>SHELL AUTOMAT FORUS, Stavanger, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL AUTOMAT FORUS, Stavanger, Norge]]></description>
         <Point><coordinates>5.732234,58.891827,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL LURA]]></name>
-        <description>SHELL LURA, Sandnes, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL LURA, Sandnes, Norge]]></description>
         <Point><coordinates>5.737419,58.871895,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS BOGAFJELL]]></name>
-        <description>SHELL EXPRESS BOGAFJELL, Sandnes, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS BOGAFJELL, Sandnes, Norge]]></description>
         <Point><coordinates>5.754169,58.821067,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL CRT GAULAR]]></name>
-        <description>SHELL CRT GAULAR, Sande i sunnfjord, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL CRT GAULAR, Sande i sunnfjord, Norge]]></description>
         <Point><coordinates>5.790906,61.372502,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL DALE]]></name>
-        <description>SHELL DALE, Dalekvam, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL DALE, Dalekvam, Norge]]></description>
         <Point><coordinates>5.795745,60.583207,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL AUTOMAT ØLEN]]></name>
-        <description>SHELL AUTOMAT ØLEN, Ølen, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL AUTOMAT ØLEN, Ølen, Norge]]></description>
         <Point><coordinates>5.806319,59.604283,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL ULSTEINVIK]]></name>
-        <description>SHELL ULSTEINVIK, Ulsteinvik, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL ULSTEINVIK, Ulsteinvik, Norge]]></description>
         <Point><coordinates>5.839401,62.344813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL CRT FIRDA BILLAG]]></name>
-        <description>SHELL CRT FIRDA BILLAG, Førde, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL CRT FIRDA BILLAG, Førde, Norge]]></description>
         <Point><coordinates>5.854404,61.45245,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS ÅLGÅRD]]></name>
-        <description>SHELL EXPRESS ÅLGÅRD, Ålgård, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS ÅLGÅRD, Ålgård, Norge]]></description>
         <Point><coordinates>5.860292,58.768008,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL AUTOMAT HOMMERSÅK]]></name>
-        <description>SHELL AUTOMAT HOMMERSÅK, Hommersåk, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL AUTOMAT HOMMERSÅK, Hommersåk, Norge]]></description>
         <Point><coordinates>5.861434,58.907151,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL SANDEID]]></name>
-        <description>SHELL SANDEID, Sandeid, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL SANDEID, Sandeid, Norge]]></description>
         <Point><coordinates>5.869131,59.541625,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL ETNE]]></name>
-        <description>SHELL ETNE, Etne, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL ETNE, Etne, Norge]]></description>
         <Point><coordinates>5.93321,59.663819,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL CRT NORDFJORDEID]]></name>
-        <description>SHELL CRT NORDFJORDEID, Nordfjordeid, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL CRT NORDFJORDEID, Nordfjordeid, Norge]]></description>
         <Point><coordinates>5.999013,61.903786,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EIEKRYSSET]]></name>
-        <description>SHELL EIEKRYSSET, Egersund, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EIEKRYSSET, Egersund, Norge]]></description>
         <Point><coordinates>6.001234,58.460584,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS VOLDA]]></name>
-        <description>SHELL EXPRESS VOLDA, Volda, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS VOLDA, Volda, Norge]]></description>
         <Point><coordinates>6.08175,62.144369,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS HOVDEBYGDA]]></name>
-        <description>SHELL EXPRESS HOVDEBYGDA, Hovdebygda, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS HOVDEBYGDA, Hovdebygda, Norge]]></description>
         <Point><coordinates>6.083123,62.182474,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL ØRSTA]]></name>
-        <description>SHELL ØRSTA, Ørsta, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL ØRSTA, Ørsta, Norge]]></description>
         <Point><coordinates>6.127863,62.196348,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL NORHEIMSUND]]></name>
-        <description>SHELL NORHEIMSUND, Norheimsund, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL NORHEIMSUND, Norheimsund, Norge]]></description>
         <Point><coordinates>6.130029,60.367987,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL SAND]]></name>
-        <description>SHELL SAND, Sand, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL SAND, Sand, Norge]]></description>
         <Point><coordinates>6.271007,59.480677,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL LERSTAD]]></name>
-        <description>SHELL LERSTAD, Ålesund, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL LERSTAD, Ålesund, Norge]]></description>
         <Point><coordinates>6.293799,62.468002,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL VEGSUND]]></name>
-        <description>SHELL VEGSUND, Ålesund, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL VEGSUND, Ålesund, Norge]]></description>
         <Point><coordinates>6.366851,62.44362,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS VOSS]]></name>
-        <description>SHELL EXPRESS VOSS, Voss, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS VOSS, Voss, Norge]]></description>
         <Point><coordinates>6.427484,60.630369,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL ODDA]]></name>
-        <description>SHELL ODDA, Odda, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL ODDA, Odda, Norge]]></description>
         <Point><coordinates>6.551076,60.068885,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL FLEKKEFJORD]]></name>
-        <description>SHELL FLEKKEFJORD, Flekkefjord, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL FLEKKEFJORD, Flekkefjord, Norge]]></description>
         <Point><coordinates>6.666666,58.29555,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL CRT STRYN]]></name>
-        <description>SHELL CRT STRYN, Stryn, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL CRT STRYN, Stryn, Norge]]></description>
         <Point><coordinates>6.709224,61.902631,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL ØRSKOG]]></name>
-        <description>SHELL ØRSKOG, Ørskog, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL ØRSKOG, Ørskog, Norge]]></description>
         <Point><coordinates>6.812801,62.482389,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL RØLDAL]]></name>
-        <description>SHELL RØLDAL, Røldal, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL RØLDAL, Røldal, Norge]]></description>
         <Point><coordinates>6.813609,59.832902,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL GUDVANGEN]]></name>
-        <description>SHELL GUDVANGEN, Gudvangen, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL GUDVANGEN, Gudvangen, Norge]]></description>
         <Point><coordinates>6.843626,60.87916,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL PIT-STOP LYNGDAL]]></name>
-        <description>SHELL PIT-STOP LYNGDAL, Lyngdal, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL PIT-STOP LYNGDAL, Lyngdal, Norge]]></description>
         <Point><coordinates>7.013401,58.220836,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL VESTNES]]></name>
-        <description>SHELL VESTNES, Vestnes, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL VESTNES, Vestnes, Norge]]></description>
         <Point><coordinates>7.089606,62.623143,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL SOGNDAL]]></name>
-        <description>SHELL SOGNDAL, Sogndal, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL SOGNDAL, Sogndal, Norge]]></description>
         <Point><coordinates>7.101342,61.225986,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL BOLSØNES]]></name>
-        <description>SHELL BOLSØNES, Molde, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL BOLSØNES, Molde, Norge]]></description>
         <Point><coordinates>7.192935,62.739285,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL KAUPANGER]]></name>
-        <description>SHELL KAUPANGER, Kaupanger, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL KAUPANGER, Kaupanger, Norge]]></description>
         <Point><coordinates>7.219092,61.195545,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL VALLDAL]]></name>
-        <description>SHELL VALLDAL, Valldal, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL VALLDAL, Valldal, Norge]]></description>
         <Point><coordinates>7.264414,62.298491,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS MANDAL]]></name>
-        <description>SHELL EXPRESS MANDAL, Mandal, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS MANDAL, Mandal, Norge]]></description>
         <Point><coordinates>7.461103,58.026396,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL FORTUN]]></name>
-        <description>SHELL FORTUN, Fortun, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL FORTUN, Fortun, Norge]]></description>
         <Point><coordinates>7.680404,61.489144,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL ÅNDALSNES]]></name>
-        <description>SHELL ÅNDALSNES, Åndalsnes, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL ÅNDALSNES, Åndalsnes, Norge]]></description>
         <Point><coordinates>7.682051,62.558474,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL LONELIER]]></name>
-        <description>SHELL LONELIER, Søgne, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL LONELIER, Søgne, Norge]]></description>
         <Point><coordinates>7.705827,58.098353,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL CRT LONELIER]]></name>
-        <description>SHELL CRT LONELIER, Søgne, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL CRT LONELIER, Søgne, Norge]]></description>
         <Point><coordinates>7.70634,58.099916,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL BYGLAND]]></name>
-        <description>SHELL BYGLAND, Bygland, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL BYGLAND, Bygland, Norge]]></description>
         <Point><coordinates>7.795601,58.831017,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL AUTOKRYSSET]]></name>
-        <description>SHELL AUTOKRYSSET, Frei, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL AUTOKRYSSET, Frei, Norge]]></description>
         <Point><coordinates>7.821092,63.098034,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL NODELAND]]></name>
-        <description>SHELL NODELAND, Nodeland, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL NODELAND, Nodeland, Norge]]></description>
         <Point><coordinates>7.835056,58.155414,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL FIDJANE VEST]]></name>
-        <description>SHELL FIDJANE VEST, Kristiansand s, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL FIDJANE VEST, Kristiansand s, Norge]]></description>
         <Point><coordinates>7.912524,58.145249,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL FIDJANE ØST]]></name>
-        <description>SHELL FIDJANE ØST, Kristiansand s, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL FIDJANE ØST, Kristiansand s, Norge]]></description>
         <Point><coordinates>7.915079,58.14461,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL MOSBY]]></name>
-        <description>SHELL MOSBY, Mosby, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL MOSBY, Mosby, Norge]]></description>
         <Point><coordinates>7.922309,58.216062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL CRT KRISTIANSAND]]></name>
-        <description>SHELL CRT KRISTIANSAND, Kristiansand s, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL CRT KRISTIANSAND, Kristiansand s, Norge]]></description>
         <Point><coordinates>7.931441,58.181812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL WALHALLA]]></name>
-        <description>SHELL WALHALLA, Kristiansand s, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL WALHALLA, Kristiansand s, Norge]]></description>
         <Point><coordinates>8.012945,58.151694,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL VIGE]]></name>
-        <description>SHELL VIGE, Kristiansand s, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL VIGE, Kristiansand s, Norge]]></description>
         <Point><coordinates>8.042421,58.163806,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS SØRLANDSPARKEN]]></name>
-        <description>SHELL EXPRESS SØRLANDSPARKEN, Kristiansand s, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS SØRLANDSPARKEN, Kristiansand s, Norge]]></description>
         <Point><coordinates>8.127331,58.174079,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL HEMSEDAL]]></name>
-        <description>SHELL HEMSEDAL, Hemsedal, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL HEMSEDAL, Hemsedal, Norge]]></description>
         <Point><coordinates>8.550064,60.863434,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL TVEITO]]></name>
-        <description>SHELL TVEITO, Rjukan, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL TVEITO, Rjukan, Norge]]></description>
         <Point><coordinates>8.624014,59.880255,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL SJØORMEN]]></name>
-        <description>SHELL SJØORMEN, Seljord, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL SJØORMEN, Seljord, Norge]]></description>
         <Point><coordinates>8.634777,59.480713,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL CRT STOA]]></name>
-        <description>SHELL CRT STOA, Arendal, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL CRT STOA, Arendal, Norge]]></description>
         <Point><coordinates>8.727612,58.46101,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS ARENDAL]]></name>
-        <description>SHELL EXPRESS ARENDAL, Arendal, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS ARENDAL, Arendal, Norge]]></description>
         <Point><coordinates>8.747305,58.453607,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL MYRENE]]></name>
-        <description>SHELL MYRENE, Arendal, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL MYRENE, Arendal, Norge]]></description>
         <Point><coordinates>8.752284,58.462281,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL TROMØY]]></name>
-        <description>SHELL TROMØY, Færvik, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL TROMØY, Færvik, Norge]]></description>
         <Point><coordinates>8.81861,58.456357,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL TVEDESTRAND]]></name>
-        <description>SHELL TVEDESTRAND, Tvedestrand, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL TVEDESTRAND, Tvedestrand, Norge]]></description>
         <Point><coordinates>8.901288,58.615182,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS AMTMANNSVINGEN]]></name>
-        <description>SHELL EXPRESS AMTMANNSVINGEN, Tvedestrand, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS AMTMANNSVINGEN, Tvedestrand, Norge]]></description>
         <Point><coordinates>8.913175,58.631391,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL RØDBERG]]></name>
-        <description>SHELL RØDBERG, Rødberg, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL RØDBERG, Rødberg, Norge]]></description>
         <Point><coordinates>8.943341,60.267204,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL SAULAND]]></name>
-        <description>SHELL SAULAND, Sauland, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL SAULAND, Sauland, Norge]]></description>
         <Point><coordinates>8.945856,59.613997,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS HITRA]]></name>
-        <description>SHELL EXPRESS HITRA, Hitra, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS HITRA, Hitra, Norge]]></description>
         <Point><coordinates>8.975399,63.599577,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL GOL]]></name>
-        <description>SHELL GOL, Gol, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL GOL, Gol, Norge]]></description>
         <Point><coordinates>8.98459,60.702324,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL KYRKSÆTERØRA]]></name>
-        <description>SHELL KYRKSÆTERØRA, Kyrksæterøra, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL KYRKSÆTERØRA, Kyrksæterøra, Norge]]></description>
         <Point><coordinates>9.07977,63.293805,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS DOMBÅS]]></name>
-        <description>SHELL EXPRESS DOMBÅS, Dombås, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS DOMBÅS, Dombås, Norge]]></description>
         <Point><coordinates>9.124158,62.072486,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL NOTODDEN]]></name>
-        <description>SHELL NOTODDEN, Notodden, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL NOTODDEN, Notodden, Norge]]></description>
         <Point><coordinates>9.213603,59.567702,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL FAGERNES]]></name>
-        <description>SHELL FAGERNES, Fagernes, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL FAGERNES, Fagernes, Norge]]></description>
         <Point><coordinates>9.244414,60.984695,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL KRAGERØ KIRKEBUKTA]]></name>
-        <description>SHELL KRAGERØ KIRKEBUKTA, Kragerø, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL KRAGERØ KIRKEBUKTA, Kragerø, Norge]]></description>
         <Point><coordinates>9.415428,58.872459,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL FLÅ]]></name>
-        <description>SHELL FLÅ, Flå, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL FLÅ, Flå, Norge]]></description>
         <Point><coordinates>9.457994,60.431389,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS BØLEVEGEN]]></name>
-        <description>SHELL EXPRESS BØLEVEGEN, Skien, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS BØLEVEGEN, Skien, Norge]]></description>
         <Point><coordinates>9.62168,59.19403,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL NORESUND]]></name>
-        <description>SHELL NORESUND, Noresund, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL NORESUND, Noresund, Norge]]></description>
         <Point><coordinates>9.631157,60.176571,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL PORS]]></name>
-        <description>SHELL PORS, Skien, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL PORS, Skien, Norge]]></description>
         <Point><coordinates>9.637475,59.15252,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL FRIEDLAND]]></name>
-        <description>SHELL FRIEDLAND, Kongsberg, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL FRIEDLAND, Kongsberg, Norge]]></description>
         <Point><coordinates>9.640523,59.669483,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS KONGSBERG]]></name>
-        <description>SHELL EXPRESS KONGSBERG, Kongsberg, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS KONGSBERG, Kongsberg, Norge]]></description>
         <Point><coordinates>9.654672,59.671098,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL JERNBANEGATA]]></name>
-        <description>SHELL JERNBANEGATA, Porsgrunn, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL JERNBANEGATA, Porsgrunn, Norge]]></description>
         <Point><coordinates>9.657355,59.139185,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL MYRLAND AUTO]]></name>
-        <description>SHELL MYRLAND AUTO, Stathelle, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL MYRLAND AUTO, Stathelle, Norge]]></description>
         <Point><coordinates>9.665812,59.012028,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL LASSES]]></name>
-        <description>SHELL LASSES, Stathelle, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL LASSES, Stathelle, Norge]]></description>
         <Point><coordinates>9.675144,59.037048,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL SKOLLENBORG]]></name>
-        <description>SHELL SKOLLENBORG, Skollenborg, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL SKOLLENBORG, Skollenborg, Norge]]></description>
         <Point><coordinates>9.683472,59.622162,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL AUTOMAT OPPDAL]]></name>
-        <description>SHELL AUTOMAT OPPDAL, Oppdal, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL AUTOMAT OPPDAL, Oppdal, Norge]]></description>
         <Point><coordinates>9.688694,62.592039,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL CRT EIDANGER]]></name>
-        <description>SHELL CRT EIDANGER, Porsgrunn, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL CRT EIDANGER, Porsgrunn, Norge]]></description>
         <Point><coordinates>9.689181,59.126171,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL AUTOMAT HOSTVEDT]]></name>
-        <description>SHELL AUTOMAT HOSTVEDT, Skollenborg, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL AUTOMAT HOSTVEDT, Skollenborg, Norge]]></description>
         <Point><coordinates>9.763554,59.592536,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL SOLUMSMOEN]]></name>
-        <description>SHELL SOLUMSMOEN, Solumsmoen, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL SOLUMSMOEN, Solumsmoen, Norge]]></description>
         <Point><coordinates>9.784056,59.962045,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL BÅRDSHAUG]]></name>
-        <description>SHELL BÅRDSHAUG, Orkanger, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL BÅRDSHAUG, Orkanger, Norge]]></description>
         <Point><coordinates>9.852493,63.296094,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL BERKÅK]]></name>
-        <description>SHELL BERKÅK, Rennebu, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL BERKÅK, Rennebu, Norge]]></description>
         <Point><coordinates>10.011147,62.832048,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL MJØNDALEN]]></name>
-        <description>SHELL MJØNDALEN, Mjøndalen, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL MJØNDALEN, Mjøndalen, Norge]]></description>
         <Point><coordinates>10.024124,59.751658,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL STORGATA LARVIK]]></name>
-        <description>SHELL STORGATA LARVIK, Larvik, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL STORGATA LARVIK, Larvik, Norge]]></description>
         <Point><coordinates>10.035619,59.049563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL DOKKA]]></name>
-        <description>SHELL DOKKA, Dokka, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL DOKKA, Dokka, Norge]]></description>
         <Point><coordinates>10.067975,60.837455,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS GLOPPE]]></name>
-        <description>SHELL EXPRESS GLOPPE, Larvik, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS GLOPPE, Larvik, Norge]]></description>
         <Point><coordinates>10.068679,59.040456,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL VEME]]></name>
-        <description>SHELL VEME, Sokna, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL VEME, Sokna, Norge]]></description>
         <Point><coordinates>10.090072,60.204146,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS KODAL]]></name>
-        <description>SHELL EXPRESS KODAL, Kodal, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS KODAL, Kodal, Norge]]></description>
         <Point><coordinates>10.136835,59.215149,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS SVINGEN]]></name>
-        <description>SHELL EXPRESS SVINGEN, Drammen, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS SVINGEN, Drammen, Norge]]></description>
         <Point><coordinates>10.161616,59.751344,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL AUTOMAT FÅVANG]]></name>
-        <description>SHELL AUTOMAT FÅVANG, Fåvang, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL AUTOMAT FÅVANG, Fåvang, Norge]]></description>
         <Point><coordinates>10.185381,61.461463,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL CRT HOLMESTRAND]]></name>
-        <description>SHELL CRT HOLMESTRAND, Holmestrand, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL CRT HOLMESTRAND, Holmestrand, Norge]]></description>
         <Point><coordinates>10.201397,59.514357,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL GRELLAND]]></name>
-        <description>SHELL GRELLAND, Holmestrand, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL GRELLAND, Holmestrand, Norge]]></description>
         <Point><coordinates>10.201902,59.514078,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL FOKSERØD]]></name>
-        <description>SHELL FOKSERØD, Sandefjord, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL FOKSERØD, Sandefjord, Norge]]></description>
         <Point><coordinates>10.208208,59.17744,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL SANDE]]></name>
-        <description>SHELL SANDE, Sande i vestfold, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL SANDE, Sande i vestfold, Norge]]></description>
         <Point><coordinates>10.208465,59.595901,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL BRAKERØYA]]></name>
-        <description>SHELL BRAKERØYA, Drammen, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL BRAKERØYA, Drammen, Norge]]></description>
         <Point><coordinates>10.219991,59.741313,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL CRT HØNEFOSS]]></name>
-        <description>SHELL CRT HØNEFOSS, Hønefoss, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL CRT HØNEFOSS, Hønefoss, Norge]]></description>
         <Point><coordinates>10.236946,60.226067,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL VÅLE]]></name>
-        <description>SHELL VÅLE, Våle, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL VÅLE, Våle, Norge]]></description>
         <Point><coordinates>10.238877,59.4153,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL KAMFJORD]]></name>
-        <description>SHELL KAMFJORD, Sandefjord, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL KAMFJORD, Sandefjord, Norge]]></description>
         <Point><coordinates>10.243279,59.127781,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS LIERBY]]></name>
-        <description>SHELL EXPRESS LIERBY, Lier, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS LIERBY, Lier, Norge]]></description>
         <Point><coordinates>10.243896,59.779111,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL KJELLSTAD]]></name>
-        <description>SHELL KJELLSTAD, Lierstranda, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL KJELLSTAD, Lierstranda, Norge]]></description>
         <Point><coordinates>10.257159,59.766279,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL CRT KJELLSTAD]]></name>
-        <description>SHELL CRT KJELLSTAD, Lierstranda, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL CRT KJELLSTAD, Lierstranda, Norge]]></description>
         <Point><coordinates>10.257693,59.76736,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL CRT STOKKE]]></name>
-        <description>SHELL CRT STOKKE, Stokke, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL CRT STOKKE, Stokke, Norge]]></description>
         <Point><coordinates>10.261411,59.24605,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL SLETTA]]></name>
-        <description>SHELL SLETTA, Hønefoss, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL SLETTA, Hønefoss, Norge]]></description>
         <Point><coordinates>10.269645,60.178596,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL VIK]]></name>
-        <description>SHELL VIK, Røyse, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL VIK, Røyse, Norge]]></description>
         <Point><coordinates>10.282772,60.080398,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL GREAKER]]></name>
-        <description>SHELL GREAKER, Holmestrand, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL GREAKER, Holmestrand, Norge]]></description>
         <Point><coordinates>10.283263,59.496551,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL KLETT]]></name>
-        <description>SHELL KLETT, Leinstrand, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL KLETT, Leinstrand, Norge]]></description>
         <Point><coordinates>10.304036,63.321335,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL AUTOMAT LER]]></name>
-        <description>SHELL AUTOMAT LER, Ler, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL AUTOMAT LER, Ler, Norge]]></description>
         <Point><coordinates>10.313474,63.185789,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS HOLMESTRAND]]></name>
-        <description>SHELL EXPRESS HOLMESTRAND, Holmestrand, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS HOLMESTRAND, Holmestrand, Norge]]></description>
         <Point><coordinates>10.315406,59.488733,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS MELSOMVIK]]></name>
-        <description>SHELL EXPRESS MELSOMVIK, Melsomvik, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS MELSOMVIK, Melsomvik, Norge]]></description>
         <Point><coordinates>10.336426,59.224262,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS SPIKKESTAD]]></name>
-        <description>SHELL EXPRESS SPIKKESTAD, Drammen, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS SPIKKESTAD, Drammen, Norge]]></description>
         <Point><coordinates>10.341702,59.743327,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL TILLER]]></name>
-        <description>SHELL TILLER, Tiller, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL TILLER, Tiller, Norge]]></description>
         <Point><coordinates>10.380438,63.364904,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL KJELLEVEIEN]]></name>
-        <description>SHELL KJELLEVEIEN, Tønsberg, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL KJELLEVEIEN, Tønsberg, Norge]]></description>
         <Point><coordinates>10.400667,59.278774,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL BILBYN]]></name>
-        <description>SHELL BILBYN, Trondheim, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL BILBYN, Trondheim, Norge]]></description>
         <Point><coordinates>10.402922,63.399625,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL SVELVIK]]></name>
-        <description>SHELL SVELVIK, Svelvik, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL SVELVIK, Svelvik, Norge]]></description>
         <Point><coordinates>10.404038,59.61688,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL GRØSTAD]]></name>
-        <description>SHELL GRØSTAD, Barkåker, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL GRØSTAD, Barkåker, Norge]]></description>
         <Point><coordinates>10.406472,59.321496,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL AUTOMAT HAVNA]]></name>
-        <description>SHELL AUTOMAT HAVNA, Trondheim, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL AUTOMAT HAVNA, Trondheim, Norge]]></description>
         <Point><coordinates>10.408326,63.44008,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL TEIEHØYDEN]]></name>
-        <description>SHELL TEIEHØYDEN, Nøtterøy, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL TEIEHØYDEN, Nøtterøy, Norge]]></description>
         <Point><coordinates>10.415016,59.251881,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL ASKER]]></name>
-        <description>SHELL ASKER, Asker, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL ASKER, Asker, Norge]]></description>
         <Point><coordinates>10.420488,59.833229,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL NØTTERØY]]></name>
-        <description>SHELL NØTTERØY, Duken, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL NØTTERØY, Duken, Norge]]></description>
         <Point><coordinates>10.442452,59.221355,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL MOHOLT]]></name>
-        <description>SHELL MOHOLT, Trondheim, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL MOHOLT, Trondheim, Norge]]></description>
         <Point><coordinates>10.446158,63.408795,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS LILLEHAMMER]]></name>
-        <description>SHELL EXPRESS LILLEHAMMER, Lillehammer, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS LILLEHAMMER, Lillehammer, Norge]]></description>
         <Point><coordinates>10.453123,61.128287,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS APENES]]></name>
-        <description>SHELL EXPRESS APENES, Horten, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS APENES, Horten, Norge]]></description>
         <Point><coordinates>10.455039,59.426662,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL VETTRE]]></name>
-        <description>SHELL VETTRE, Vettre, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL VETTRE, Vettre, Norge]]></description>
         <Point><coordinates>10.468679,59.82967,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL TVEITEN]]></name>
-        <description>SHELL TVEITEN, Horten, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL TVEITEN, Horten, Norge]]></description>
         <Point><coordinates>10.470176,59.40476,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL AUTOMAT NESBRU]]></name>
-        <description>SHELL AUTOMAT NESBRU, Nesbru, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL AUTOMAT NESBRU, Nesbru, Norge]]></description>
         <Point><coordinates>10.489097,59.865272,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS RØYSLIMOEN]]></name>
-        <description>SHELL EXPRESS RØYSLIMOEN, Lillehammer, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS RØYSLIMOEN, Lillehammer, Norge]]></description>
         <Point><coordinates>10.507666,61.099554,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL BÆRUMS VERK]]></name>
-        <description>SHELL BÆRUMS VERK, Bærums verk, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL BÆRUMS VERK, Bærums verk, Norge]]></description>
         <Point><coordinates>10.508042,59.943628,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS SANDVIKA]]></name>
-        <description>SHELL EXPRESS SANDVIKA, Sandvika, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS SANDVIKA, Sandvika, Norge]]></description>
         <Point><coordinates>10.515611,59.890419,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL AUTOMAT BRANDBU]]></name>
-        <description>SHELL AUTOMAT BRANDBU, Brandbu, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL AUTOMAT BRANDBU, Brandbu, Norge]]></description>
         <Point><coordinates>10.516312,60.416593,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS HASLUM]]></name>
-        <description>SHELL EXPRESS HASLUM, Haslum, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS HASLUM, Haslum, Norge]]></description>
         <Point><coordinates>10.561491,59.910578,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL GRAN]]></name>
-        <description>SHELL GRAN, Gran, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL GRAN, Gran, Norge]]></description>
         <Point><coordinates>10.573336,60.355747,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL ALVDAL]]></name>
-        <description>SHELL ALVDAL, Alvdal, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL ALVDAL, Alvdal, Norge]]></description>
         <Point><coordinates>10.626907,62.110996,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL ROA]]></name>
-        <description>SHELL ROA, Roa, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL ROA, Roa, Norge]]></description>
         <Point><coordinates>10.628713,60.287098,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL ULLERN]]></name>
-        <description>SHELL ULLERN, Oslo, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL ULLERN, Oslo, Norge]]></description>
         <Point><coordinates>10.635836,59.926589,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL LYGNASÆTER]]></name>
-        <description>SHELL LYGNASÆTER, Jaren, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL LYGNASÆTER, Jaren, Norge]]></description>
         <Point><coordinates>10.644363,60.455345,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL ØRE]]></name>
-        <description>SHELL ØRE, Moss, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL ØRE, Moss, Norge]]></description>
         <Point><coordinates>10.675205,59.422905,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS GJØVIK]]></name>
-        <description>SHELL EXPRESS GJØVIK, Gjøvik, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS GJØVIK, Gjøvik, Norge]]></description>
         <Point><coordinates>10.696211,60.779185,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL MOELV]]></name>
-        <description>SHELL MOELV, Moelv, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL MOELV, Moelv, Norge]]></description>
         <Point><coordinates>10.70517,60.918301,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL VINDEREN]]></name>
-        <description>SHELL VINDEREN, Oslo, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL VINDEREN, Oslo, Norge]]></description>
         <Point><coordinates>10.705285,59.942443,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL RYGGE]]></name>
-        <description>SHELL RYGGE, Moss, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL RYGGE, Moss, Norge]]></description>
         <Point><coordinates>10.707936,59.42529,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL FROGNER]]></name>
-        <description>SHELL FROGNER, Oslo, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL FROGNER, Oslo, Norge]]></description>
         <Point><coordinates>10.709207,59.917976,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL HARESTUA]]></name>
-        <description>SHELL HARESTUA, Harestua, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL HARESTUA, Harestua, Norge]]></description>
         <Point><coordinates>10.713507,60.20397,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL MARIENLYST]]></name>
-        <description>SHELL MARIENLYST, Oslo, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL MARIENLYST, Oslo, Norge]]></description>
         <Point><coordinates>10.72204,59.932431,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL STAV NORD]]></name>
-        <description>SHELL STAV NORD, Malvik, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL STAV NORD, Malvik, Norge]]></description>
         <Point><coordinates>10.7287,63.423194,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL STAV SYD]]></name>
-        <description>SHELL STAV SYD, Malvik, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL STAV SYD, Malvik, Norge]]></description>
         <Point><coordinates>10.73046,63.424033,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL AUTOMAT TEGNEBYHOLTET]]></name>
-        <description>SHELL AUTOMAT TEGNEBYHOLTET, Hølen, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL AUTOMAT TEGNEBYHOLTET, Hølen, Norge]]></description>
         <Point><coordinates>10.731955,59.515823,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL ÅS]]></name>
-        <description>SHELL ÅS, Ås, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL ÅS, Ås, Norge]]></description>
         <Point><coordinates>10.746584,59.663056,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL CRT KONGSHAVN]]></name>
-        <description>SHELL CRT KONGSHAVN, Oslo, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL CRT KONGSHAVN, Oslo, Norge]]></description>
         <Point><coordinates>10.753936,59.896431,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL BJØLSEN]]></name>
-        <description>SHELL BJØLSEN, Oslo, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL BJØLSEN, Oslo, Norge]]></description>
         <Point><coordinates>10.759795,59.946953,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL SINSEN]]></name>
-        <description>SHELL SINSEN, Oslo, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL SINSEN, Oslo, Norge]]></description>
         <Point><coordinates>10.778091,59.932445,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL MASTEMYR]]></name>
-        <description>SHELL MASTEMYR, Trollåsen, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL MASTEMYR, Trollåsen, Norge]]></description>
         <Point><coordinates>10.788508,59.817619,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL BILVASK KASTELLET]]></name>
-        <description>SHELL BILVASK KASTELLET, Oslo, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL BILVASK KASTELLET, Oslo, Norge]]></description>
         <Point><coordinates>10.789994,59.871813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL AUTOMAT KVÆRNER]]></name>
-        <description>SHELL AUTOMAT KVÆRNER, Oslo, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL AUTOMAT KVÆRNER, Oslo, Norge]]></description>
         <Point><coordinates>10.790023,59.901541,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL KASTELLET]]></name>
-        <description>SHELL KASTELLET, Oslo, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL KASTELLET, Oslo, Norge]]></description>
         <Point><coordinates>10.790797,59.872034,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL ETTERSTAD]]></name>
-        <description>SHELL ETTERSTAD, Oslo, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL ETTERSTAD, Oslo, Norge]]></description>
         <Point><coordinates>10.791427,59.910823,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS ONSØY]]></name>
-        <description>SHELL EXPRESS ONSØY, Manstad, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS ONSØY, Manstad, Norge]]></description>
         <Point><coordinates>10.791856,59.265898,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL KOLBOTN]]></name>
-        <description>SHELL KOLBOTN, Kolbotn, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL KOLBOTN, Kolbotn, Norge]]></description>
         <Point><coordinates>10.80459,59.794788,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS PRINSDALEN]]></name>
-        <description>SHELL EXPRESS PRINSDALEN, Oslo, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS PRINSDALEN, Oslo, Norge]]></description>
         <Point><coordinates>10.807683,59.83425,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL MANGLERUD]]></name>
-        <description>SHELL MANGLERUD, Oslo, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL MANGLERUD, Oslo, Norge]]></description>
         <Point><coordinates>10.814428,59.897847,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL CRT RUDSHØGDA]]></name>
-        <description>SHELL CRT RUDSHØGDA, Rudshøgda, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL CRT RUDSHØGDA, Rudshøgda, Norge]]></description>
         <Point><coordinates>10.814569,60.915181,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL MORTENSRUD]]></name>
-        <description>SHELL MORTENSRUD, Oslo, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL MORTENSRUD, Oslo, Norge]]></description>
         <Point><coordinates>10.83462,59.850174,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS STAVSJØ]]></name>
-        <description>SHELL EXPRESS STAVSJØ, Stavsjø, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS STAVSJØ, Stavsjø, Norge]]></description>
         <Point><coordinates>10.838684,60.806079,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS RÅDE]]></name>
-        <description>SHELL EXPRESS RÅDE, Råde, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS RÅDE, Råde, Norge]]></description>
         <Point><coordinates>10.840786,59.35699,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS FURUSET]]></name>
-        <description>SHELL EXPRESS FURUSET, Oslo, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS FURUSET, Oslo, Norge]]></description>
         <Point><coordinates>10.883864,59.941806,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL GRORUD]]></name>
-        <description>SHELL GRORUD, Oslo, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL GRORUD, Oslo, Norge]]></description>
         <Point><coordinates>10.88411,59.960273,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL ROMMEN]]></name>
-        <description>SHELL ROMMEN, Oslo, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL ROMMEN, Oslo, Norge]]></description>
         <Point><coordinates>10.907481,59.962888,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL VÆRNES]]></name>
-        <description>SHELL VÆRNES, Stjørdal, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL VÆRNES, Stjørdal, Norge]]></description>
         <Point><coordinates>10.9161,63.452002,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL STJØRDAL]]></name>
-        <description>SHELL STJØRDAL, Stjørdal, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL STJØRDAL, Stjørdal, Norge]]></description>
         <Point><coordinates>10.920817,63.4676,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL BRUMUNDDAL]]></name>
-        <description>SHELL BRUMUNDDAL, Brumunddal, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL BRUMUNDDAL, Brumunddal, Norge]]></description>
         <Point><coordinates>10.926974,60.880576,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL KRÅKERØY]]></name>
-        <description>SHELL KRÅKERØY, Kråkerøy, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL KRÅKERØY, Kråkerøy, Norge]]></description>
         <Point><coordinates>10.937041,59.206583,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS BRUMUNDDAL]]></name>
-        <description>SHELL EXPRESS BRUMUNDDAL, Brumunddal, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS BRUMUNDDAL, Brumunddal, Norge]]></description>
         <Point><coordinates>10.952526,60.880363,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL HOBØL]]></name>
-        <description>SHELL HOBØL, Hobøl, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL HOBØL, Hobøl, Norge]]></description>
         <Point><coordinates>10.954404,59.622735,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL SOLLIBRUA]]></name>
-        <description>SHELL SOLLIBRUA, Greåker, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL SOLLIBRUA, Greåker, Norge]]></description>
         <Point><coordinates>10.954899,59.32482,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL CRT ØRA]]></name>
-        <description>SHELL CRT ØRA, Gamle fredrikstad, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL CRT ØRA, Gamle fredrikstad, Norge]]></description>
         <Point><coordinates>10.960239,59.189958,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL SKÅRER]]></name>
-        <description>SHELL SKÅRER, Lørenskog, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL SKÅRER, Lørenskog, Norge]]></description>
         <Point><coordinates>10.96741,59.928822,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL RÅBEKKEN]]></name>
-        <description>SHELL RÅBEKKEN, Fredrikstad, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL RÅBEKKEN, Fredrikstad, Norge]]></description>
         <Point><coordinates>10.976012,59.241123,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[BURGERSPESIALISTEN RÅBEKKEN]]></name>
-        <description>BURGERSPESIALISTEN RÅBEKKEN, Fredrikstad, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[BURGERSPESIALISTEN RÅBEKKEN, Fredrikstad, Norge]]></description>
         <Point><coordinates>10.976396,59.241368,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL KOPPANG]]></name>
-        <description>SHELL KOPPANG, Koppang, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL KOPPANG, Koppang, Norge]]></description>
         <Point><coordinates>10.995653,61.588541,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL STRØMMEN]]></name>
-        <description>SHELL STRØMMEN, Strømmen, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL STRØMMEN, Strømmen, Norge]]></description>
         <Point><coordinates>11.002737,59.948399,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL AUTOMAT ROLVSØY]]></name>
-        <description>SHELL AUTOMAT ROLVSØY, Rolvsøy, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL AUTOMAT ROLVSØY, Rolvsøy, Norge]]></description>
         <Point><coordinates>11.010508,59.2647,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL AUTOMAT NANNESTAD SENTRUM]]></name>
-        <description>SHELL AUTOMAT NANNESTAD SENTRUM, Nannestad, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL AUTOMAT NANNESTAD SENTRUM, Nannestad, Norge]]></description>
         <Point><coordinates>11.014484,60.221933,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS NANNESTAD ELTONÅSEN]]></name>
-        <description>SHELL EXPRESS NANNESTAD ELTONÅSEN, Holter, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS NANNESTAD ELTONÅSEN, Holter, Norge]]></description>
         <Point><coordinates>11.023794,60.13607,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS SKEDSMO]]></name>
-        <description>SHELL EXPRESS SKEDSMO, Skedsmokorset, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS SKEDSMO, Skedsmokorset, Norge]]></description>
         <Point><coordinates>11.027674,59.98683,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL GJERDRUM]]></name>
-        <description>SHELL GJERDRUM, Gjerdrum, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL GJERDRUM, Gjerdrum, Norge]]></description>
         <Point><coordinates>11.032363,60.073279,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL SKEDSMOVOLLEN VEST]]></name>
-        <description>SHELL SKEDSMOVOLLEN VEST, Skedsmokorset, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL SKEDSMOVOLLEN VEST, Skedsmokorset, Norge]]></description>
         <Point><coordinates>11.039195,59.997864,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL SKEDSMOVOLLEN ØST]]></name>
-        <description>SHELL SKEDSMOVOLLEN ØST, Skedsmokorset, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL SKEDSMOVOLLEN ØST, Skedsmokorset, Norge]]></description>
         <Point><coordinates>11.039472,59.996969,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL LILLESTRØM]]></name>
-        <description>SHELL LILLESTRØM, Lillestrøm, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL LILLESTRØM, Lillestrøm, Norge]]></description>
         <Point><coordinates>11.049823,59.953017,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL CRT SPYDEBERG]]></name>
-        <description>SHELL CRT SPYDEBERG, Spydeberg, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL CRT SPYDEBERG, Spydeberg, Norge]]></description>
         <Point><coordinates>11.052161,59.618818,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL NEBBENES ØST]]></name>
-        <description>SHELL NEBBENES ØST, Eidsvoll verk, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL NEBBENES ØST, Eidsvoll verk, Norge]]></description>
         <Point><coordinates>11.14406,60.311666,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL CRT NEBBENES ØST]]></name>
-        <description>SHELL CRT NEBBENES ØST, Eidsvoll verk, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL CRT NEBBENES ØST, Eidsvoll verk, Norge]]></description>
         <Point><coordinates>11.144092,60.310732,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL NEBBENES VEST]]></name>
-        <description>SHELL NEBBENES VEST, Eidsvoll verk, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL NEBBENES VEST, Eidsvoll verk, Norge]]></description>
         <Point><coordinates>11.145389,60.314935,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL HAFSLUND]]></name>
-        <description>SHELL HAFSLUND, Borgenhaugen, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL HAFSLUND, Borgenhaugen, Norge]]></description>
         <Point><coordinates>11.148395,59.271735,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL TORSHOV]]></name>
-        <description>SHELL TORSHOV, Ridabu, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL TORSHOV, Ridabu, Norge]]></description>
         <Point><coordinates>11.148467,60.805983,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL KLØFTA ØST]]></name>
-        <description>SHELL KLØFTA ØST, Kløfta, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL KLØFTA ØST, Kløfta, Norge]]></description>
         <Point><coordinates>11.152274,60.079091,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL NAMDALSEID]]></name>
-        <description>SHELL NAMDALSEID, Namdalseid, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL NAMDALSEID, Namdalseid, Norge]]></description>
         <Point><coordinates>11.223612,64.222628,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL CRT LEVANGER]]></name>
-        <description>SHELL CRT LEVANGER, Levanger, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL CRT LEVANGER, Levanger, Norge]]></description>
         <Point><coordinates>11.23362,63.719655,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL ESPA]]></name>
-        <description>SHELL ESPA, Espa, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL ESPA, Espa, Norge]]></description>
         <Point><coordinates>11.255999,60.562195,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EIDSVOLL]]></name>
-        <description>SHELL EIDSVOLL, Eidsvoll, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EIDSVOLL, Eidsvoll, Norge]]></description>
         <Point><coordinates>11.262211,60.330871,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL CRT SVINESUNDPARKEN]]></name>
-        <description>SHELL CRT SVINESUNDPARKEN, Halden, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL CRT SVINESUNDPARKEN, Halden, Norge]]></description>
         <Point><coordinates>11.269642,59.132422,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL SVINESUND E6]]></name>
-        <description>SHELL SVINESUND E6, Halden, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL SVINESUND E6, Halden, Norge]]></description>
         <Point><coordinates>11.273382,59.128577,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS MORENEN]]></name>
-        <description>SHELL EXPRESS MORENEN, Slitu, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS MORENEN, Slitu, Norge]]></description>
         <Point><coordinates>11.279358,59.577848,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL INDERØY]]></name>
-        <description>SHELL INDERØY, Inderøy, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL INDERØY, Inderøy, Norge]]></description>
         <Point><coordinates>11.288584,63.873897,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL BERGERKRYSSET]]></name>
-        <description>SHELL BERGERKRYSSET, Mysen, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL BERGERKRYSSET, Mysen, Norge]]></description>
         <Point><coordinates>11.326051,59.555414,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL MOMARKEN]]></name>
-        <description>SHELL MOMARKEN, Mysen, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL MOMARKEN, Mysen, Norge]]></description>
         <Point><coordinates>11.331291,59.571882,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS HALDEN]]></name>
-        <description>SHELL EXPRESS HALDEN, Halden, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS HALDEN, Halden, Norge]]></description>
         <Point><coordinates>11.39066,59.125262,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL AUTOMAT VORMSUND]]></name>
-        <description>SHELL AUTOMAT VORMSUND, Vormsund, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL AUTOMAT VORMSUND, Vormsund, Norge]]></description>
         <Point><coordinates>11.421433,60.157704,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL SPARBU]]></name>
-        <description>SHELL SPARBU, Sparbu, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL SPARBU, Sparbu, Norge]]></description>
         <Point><coordinates>11.433382,63.91713,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL VERDAL]]></name>
-        <description>SHELL VERDAL, Verdal, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL VERDAL, Verdal, Norge]]></description>
         <Point><coordinates>11.464795,63.769179,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL FIGGA]]></name>
-        <description>SHELL FIGGA, Steinkjer, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL FIGGA, Steinkjer, Norge]]></description>
         <Point><coordinates>11.498256,64.004803,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL ØSTRE]]></name>
-        <description>SHELL ØSTRE, Namsos, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL ØSTRE, Namsos, Norge]]></description>
         <Point><coordinates>11.501846,64.466806,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL CRT ELVERUM]]></name>
-        <description>SHELL CRT ELVERUM, Elverum, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL CRT ELVERUM, Elverum, Norge]]></description>
         <Point><coordinates>11.531013,60.885381,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL CRT NAMSOS]]></name>
-        <description>SHELL CRT NAMSOS, Spillum, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL CRT NAMSOS, Spillum, Norge]]></description>
         <Point><coordinates>11.535956,64.457541,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL ELVERUM]]></name>
-        <description>SHELL ELVERUM, Elverum, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL ELVERUM, Elverum, Norge]]></description>
         <Point><coordinates>11.565879,60.886191,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL VINGER]]></name>
-        <description>SHELL VINGER, Kongsvinger, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL VINGER, Kongsvinger, Norge]]></description>
         <Point><coordinates>12.012229,60.186303,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL NAMNÅ]]></name>
-        <description>SHELL NAMNÅ, Namnå, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL NAMNÅ, Namnå, Norge]]></description>
         <Point><coordinates>12.07758,60.48978,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL BRØNNØYSUND]]></name>
-        <description>SHELL BRØNNØYSUND, Brønnøysund, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL BRØNNØYSUND, Brønnøysund, Norge]]></description>
         <Point><coordinates>12.217535,65.47665,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL TRYSIL]]></name>
-        <description>SHELL TRYSIL, Trysil, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL TRYSIL, Trysil, Norge]]></description>
         <Point><coordinates>12.271471,61.294359,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL SANDNESSJØEN]]></name>
-        <description>SHELL SANDNESSJØEN, Sandnessjøen, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL SANDNESSJØEN, Sandnessjøen, Norge]]></description>
         <Point><coordinates>12.640655,66.016808,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL HALSØY]]></name>
-        <description>SHELL HALSØY, Mosjøen, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL HALSØY, Mosjøen, Norge]]></description>
         <Point><coordinates>13.195279,65.863846,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL ØRNESKRYSSET]]></name>
-        <description>SHELL ØRNESKRYSSET, Ørnes, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL ØRNESKRYSSET, Ørnes, Norge]]></description>
         <Point><coordinates>13.703473,66.868072,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS VIKA MO I RANA]]></name>
-        <description>SHELL EXPRESS VIKA MO I RANA, Mo i rana, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS VIKA MO I RANA, Mo i rana, Norge]]></description>
         <Point><coordinates>14.140064,66.317983,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL STORMYRA]]></name>
-        <description>SHELL STORMYRA, Bodø, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL STORMYRA, Bodø, Norge]]></description>
         <Point><coordinates>14.420567,67.280302,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL MØRKVED]]></name>
-        <description>SHELL MØRKVED, Bodø, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL MØRKVED, Bodø, Norge]]></description>
         <Point><coordinates>14.54894,67.281902,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL SVOLVÆR]]></name>
-        <description>SHELL SVOLVÆR, Svolvær, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL SVOLVÆR, Svolvær, Norge]]></description>
         <Point><coordinates>14.566245,68.239155,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL MELBU]]></name>
-        <description>SHELL MELBU, Melbu, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL MELBU, Melbu, Norge]]></description>
         <Point><coordinates>14.818957,68.502125,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL BOGØY]]></name>
-        <description>SHELL BOGØY, Bogøy, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL BOGØY, Bogøy, Norge]]></description>
         <Point><coordinates>15.195556,67.898756,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL FAUSKE]]></name>
-        <description>SHELL FAUSKE, Fauske, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL FAUSKE, Fauske, Norge]]></description>
         <Point><coordinates>15.390942,67.259137,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL CRT FAUSKE]]></name>
-        <description>SHELL CRT FAUSKE, Fauske, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL CRT FAUSKE, Fauske, Norge]]></description>
         <Point><coordinates>15.398337,67.271342,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS SORTLAND]]></name>
-        <description>SHELL EXPRESS SORTLAND, Sortland, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS SORTLAND, Sortland, Norge]]></description>
         <Point><coordinates>15.412593,68.703624,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL HAMARØY]]></name>
-        <description>SHELL HAMARØY, Hamarøy, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL HAMARØY, Hamarøy, Norge]]></description>
         <Point><coordinates>15.649493,68.084183,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL INNHAVET]]></name>
-        <description>SHELL INNHAVET, Innhavet, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL INNHAVET, Innhavet, Norge]]></description>
         <Point><coordinates>15.929291,67.963213,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL ANDENES]]></name>
-        <description>SHELL ANDENES, Andenes, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL ANDENES, Andenes, Norge]]></description>
         <Point><coordinates>16.102518,69.310304,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL ANDENES MARINA]]></name>
-        <description>SHELL ANDENES MARINA, Andenes, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL ANDENES MARINA, Andenes, Norge]]></description>
         <Point><coordinates>16.138722,69.325272,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL BERGSENG]]></name>
-        <description>SHELL BERGSENG, Harstad, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL BERGSENG, Harstad, Norge]]></description>
         <Point><coordinates>16.509335,68.808428,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL ÅSBY]]></name>
-        <description>SHELL ÅSBY, Harstad, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL ÅSBY, Harstad, Norge]]></description>
         <Point><coordinates>16.56813,68.781381,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL CRT HARSTAD]]></name>
-        <description>SHELL CRT HARSTAD, Harstad, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL CRT HARSTAD, Harstad, Norge]]></description>
         <Point><coordinates>16.587521,68.779317,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL BALLANGEN]]></name>
-        <description>SHELL BALLANGEN, Ballangen, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL BALLANGEN, Ballangen, Norge]]></description>
         <Point><coordinates>16.814593,68.33568,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL ANKENES]]></name>
-        <description>SHELL ANKENES, Ankenes, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL ANKENES, Ankenes, Norge]]></description>
         <Point><coordinates>17.417493,68.405629,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL NARVIK]]></name>
-        <description>SHELL NARVIK, Narvik, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL NARVIK, Narvik, Norge]]></description>
         <Point><coordinates>17.437673,68.441582,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL BJERKVIK]]></name>
-        <description>SHELL BJERKVIK, Bjerkvik, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL BJERKVIK, Bjerkvik, Norge]]></description>
         <Point><coordinates>17.55764,68.5512,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL FINNSNES]]></name>
-        <description>SHELL FINNSNES, Finnsnes, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL FINNSNES, Finnsnes, Norge]]></description>
         <Point><coordinates>17.99854,69.230606,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL SENJA]]></name>
-        <description>SHELL SENJA, Gibostad, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL SENJA, Gibostad, Norge]]></description>
         <Point><coordinates>18.05682,69.3601,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL EXPRESS TROMSØ STRANDVEGEN]]></name>
-        <description>SHELL EXPRESS TROMSØ STRANDVEGEN, Tromsø, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL EXPRESS TROMSØ STRANDVEGEN, Tromsø, Norge]]></description>
         <Point><coordinates>18.920529,69.630884,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL ISHAVSPORTEN]]></name>
-        <description>SHELL ISHAVSPORTEN, Tromsdalen, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL ISHAVSPORTEN, Tromsdalen, Norge]]></description>
         <Point><coordinates>18.982428,69.643842,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL ØVERBYGD]]></name>
-        <description>SHELL ØVERBYGD, Øverbygd, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL ØVERBYGD, Øverbygd, Norge]]></description>
         <Point><coordinates>19.296278,69.02483,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL BALSFJORD]]></name>
-        <description>SHELL BALSFJORD, Nordkjosbotn, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL BALSFJORD, Nordkjosbotn, Norge]]></description>
         <Point><coordinates>19.55373,69.215462,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL AUTOMAT SØRKJOSEN]]></name>
-        <description>SHELL AUTOMAT SØRKJOSEN, Sørkjosen, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL AUTOMAT SØRKJOSEN, Sørkjosen, Norge]]></description>
         <Point><coordinates>20.952559,69.786115,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL AUTOMAT SKJERVØY]]></name>
-        <description>SHELL AUTOMAT SKJERVØY, Skjervøy, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL AUTOMAT SKJERVØY, Skjervøy, Norge]]></description>
         <Point><coordinates>20.977216,70.025972,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL TRUCKDIESEL TALVIK]]></name>
-        <description>SHELL TRUCKDIESEL TALVIK, Talvik, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL TRUCKDIESEL TALVIK, Talvik, Norge]]></description>
         <Point><coordinates>22.952762,70.041219,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL AUTOMAT KAUTOKEINO]]></name>
-        <description>SHELL AUTOMAT KAUTOKEINO, Kautokeino, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL AUTOMAT KAUTOKEINO, Kautokeino, Norge]]></description>
         <Point><coordinates>23.048455,69.022497,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL ALTA]]></name>
-        <description>SHELL ALTA, Alta, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL ALTA, Alta, Norge]]></description>
         <Point><coordinates>23.364,69.973701,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL AUTOMAT NORDKAPP]]></name>
-        <description>SHELL AUTOMAT NORDKAPP, Honningsvåg, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL AUTOMAT NORDKAPP, Honningsvåg, Norge]]></description>
         <Point><coordinates>25.96776,70.999156,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL TANABRU]]></name>
-        <description>SHELL TANABRU, Tana, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL TANABRU, Tana, Norge]]></description>
         <Point><coordinates>28.188588,70.199407,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SHELL KIRKENES]]></name>
-        <description>SHELL KIRKENES, Kirkenes, Norge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SHELL KIRKENES, Kirkenes, Norge]]></description>
         <Point><coordinates>30.040022,69.727376,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
     </Folder>
   </Document>

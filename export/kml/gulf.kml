@@ -1,481 +1,450 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>GULF Sverige</name>
+    <name><![CDATA[GULF Sverige]]></name>
     <description/>
-    <Style id="icon-22-normal">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-22-highlight">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-22">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-22-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-22-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
+    <Style id="icon-22-normal"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>
+    <Style id="icon-22-highlight"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>1.1</scale></LabelStyle></Style>
+    <StyleMap id="icon-22"><Pair><key>normal</key><styleUrl>#icon-22-normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#icon-22-highlight</styleUrl></Pair></StyleMap>
     <Folder>
       <name><![CDATA[GULF Sverige]]></name>
       <Placemark>
         <name><![CDATA[GULF Grebbestad]]></name>
-        <description>GULF Grebbestad, Grebbestad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Grebbestad, Grebbestad, Sverige]]></description>
         <Point><coordinates>11.254253,58.697979,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Hunnebostrand]]></name>
-        <description>GULF Hunnebostrand, Hunnebostrand, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Hunnebostrand, Hunnebostrand, Sverige]]></description>
         <Point><coordinates>11.302388,58.438168,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Hällevadsholm]]></name>
-        <description>GULF Hällevadsholm, Hällevadsholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Hällevadsholm, Hällevadsholm, Sverige]]></description>
         <Point><coordinates>11.547877,58.576988,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Marstrand]]></name>
-        <description>GULF Marstrand, Marstrand, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Marstrand, Marstrand, Sverige]]></description>
         <Point><coordinates>11.601582,57.887745,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Bohus Björkö]]></name>
-        <description>GULF Bohus Björkö, Bohus Björkö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Bohus Björkö, Bohus Björkö, Sverige]]></description>
         <Point><coordinates>11.671878,57.734074,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Kärna]]></name>
-        <description>GULF Kärna, Kärna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Kärna, Kärna, Sverige]]></description>
         <Point><coordinates>11.791167,57.843578,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Töcksfors]]></name>
-        <description>GULF Töcksfors, Töcksfors, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Töcksfors, Töcksfors, Sverige]]></description>
         <Point><coordinates>11.84363,59.50795,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Nol]]></name>
-        <description>GULF Nol, Nol, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Nol, Nol, Sverige]]></description>
         <Point><coordinates>12.066734,57.921879,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Gråbo]]></name>
-        <description>GULF Gråbo, Gråbo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Gråbo, Gråbo, Sverige]]></description>
         <Point><coordinates>12.286098,57.840775,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Bollebygd]]></name>
-        <description>GULF Bollebygd, Bollebygd, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Bollebygd, Bollebygd, Sverige]]></description>
         <Point><coordinates>12.558546,57.671715,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Skene]]></name>
-        <description>GULF Skene, Skene, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Skene, Skene, Sverige]]></description>
         <Point><coordinates>12.657356,57.493557,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Grästorp]]></name>
-        <description>GULF Grästorp, Grästorp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Grästorp, Grästorp, Sverige]]></description>
         <Point><coordinates>12.685712,58.338474,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Idre]]></name>
-        <description>GULF Idre, Idre, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Idre, Idre, Sverige]]></description>
         <Point><coordinates>12.72345,61.858204,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Nossebro]]></name>
-        <description>GULF Nossebro, Nossebro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Nossebro, Nossebro, Sverige]]></description>
         <Point><coordinates>12.777771,58.123341,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Rydebäck]]></name>
-        <description>GULF Rydebäck, Rydebäck, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Rydebäck, Rydebäck, Sverige]]></description>
         <Point><coordinates>12.779068,55.972454,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Båstad]]></name>
-        <description>GULF Båstad, Båstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Båstad, Båstad, Sverige]]></description>
         <Point><coordinates>12.937493,56.426315,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Säffle]]></name>
-        <description>GULF Säffle, Säffle, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Säffle, Säffle, Sverige]]></description>
         <Point><coordinates>12.942864,59.138874,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Gånghester]]></name>
-        <description>GULF Gånghester, Gånghester, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Gånghester, Gånghester, Sverige]]></description>
         <Point><coordinates>13.022889,57.697964,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Dösjebro]]></name>
-        <description>GULF Dösjebro, Dösjebro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Dösjebro, Dösjebro, Sverige]]></description>
         <Point><coordinates>13.024542,55.820332,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Staffanstorp]]></name>
-        <description>GULF Staffanstorp, Staffanstorp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Staffanstorp, Staffanstorp, Sverige]]></description>
         <Point><coordinates>13.194416,55.640499,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Karlstad]]></name>
-        <description>GULF Karlstad, Karlstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Karlstad, Karlstad, Sverige]]></description>
         <Point><coordinates>13.442432,59.433907,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Blidsberg]]></name>
-        <description>GULF Blidsberg, Blidsberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Blidsberg, Blidsberg, Sverige]]></description>
         <Point><coordinates>13.49376,57.92963,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Timmersdala]]></name>
-        <description>GULF Timmersdala, Timmersdala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Timmersdala, Timmersdala, Sverige]]></description>
         <Point><coordinates>13.76001,58.530197,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Önnestad]]></name>
-        <description>GULF Önnestad, Önnestad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Önnestad, Önnestad, Sverige]]></description>
         <Point><coordinates>14.023067,56.057587,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Nås]]></name>
-        <description>GULF Nås, Nås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Nås, Nås, Sverige]]></description>
         <Point><coordinates>14.500428,60.452965,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Olofström]]></name>
-        <description>GULF Olofström, Olofström, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Olofström, Olofström, Sverige]]></description>
         <Point><coordinates>14.537673,56.276966,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Sävsjö]]></name>
-        <description>GULF Sävsjö, Sävsjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Sävsjö, Sävsjö, Sverige]]></description>
         <Point><coordinates>14.678073,57.396198,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Svängsta]]></name>
-        <description>GULF Svängsta, Svängsta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Svängsta, Svängsta, Sverige]]></description>
         <Point><coordinates>14.782058,56.252422,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Brunflo]]></name>
-        <description>GULF Brunflo, Brunflo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Brunflo, Brunflo, Sverige]]></description>
         <Point><coordinates>14.837636,63.074661,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Eksjö]]></name>
-        <description>GULF Eksjö, Eksjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Eksjö, Eksjö, Sverige]]></description>
         <Point><coordinates>14.967457,57.672928,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Mantorp]]></name>
-        <description>GULF Mantorp, Mantorp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Mantorp, Mantorp, Sverige]]></description>
         <Point><coordinates>15.284192,58.350986,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Virserum]]></name>
-        <description>GULF Virserum, Virserum, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Virserum, Virserum, Sverige]]></description>
         <Point><coordinates>15.581552,57.321056,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Linköping]]></name>
-        <description>GULF Linköping, Linköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Linköping, Linköping, Sverige]]></description>
         <Point><coordinates>15.59199,58.427197,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Ånge]]></name>
-        <description>GULF Ånge, Ånge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Ånge, Ånge, Sverige]]></description>
         <Point><coordinates>15.669036,62.523903,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Enviken]]></name>
-        <description>GULF Enviken, Enviken, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Enviken, Enviken, Sverige]]></description>
         <Point><coordinates>15.757288,60.808365,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Nybro]]></name>
-        <description>GULF Nybro, Nybro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Nybro, Nybro, Sverige]]></description>
         <Point><coordinates>15.930592,56.737438,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Norrköping]]></name>
-        <description>GULF Norrköping, Norrköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Norrköping, Norrköping, Sverige]]></description>
         <Point><coordinates>16.172014,58.649235,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Fränsta]]></name>
-        <description>GULF Fränsta, Fränsta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Fränsta, Fränsta, Sverige]]></description>
         <Point><coordinates>16.178286,62.500439,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Torsåker]]></name>
-        <description>GULF Torsåker, Torsåker, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Torsåker, Torsåker, Sverige]]></description>
         <Point><coordinates>16.475761,60.511562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Västerås]]></name>
-        <description>GULF Västerås, Västerås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Västerås, Västerås, Sverige]]></description>
         <Point><coordinates>16.562107,59.604923,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Årsunda]]></name>
-        <description>GULF Årsunda, Årsunda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Årsunda, Årsunda, Sverige]]></description>
         <Point><coordinates>16.746832,60.527561,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Morgongåva]]></name>
-        <description>GULF Morgongåva, Morgongåva, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Morgongåva, Morgongåva, Sverige]]></description>
         <Point><coordinates>16.938263,59.936459,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Biskopskvarn]]></name>
-        <description>GULF Biskopskvarn, Strängnäs, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Biskopskvarn, Strängnäs, Sverige]]></description>
         <Point><coordinates>17.019943,59.328274,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Strängnäs]]></name>
-        <description>GULF Strängnäs, Strängnäs, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Strängnäs, Strängnäs, Sverige]]></description>
         <Point><coordinates>17.042322,59.484264,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Söderhamn]]></name>
-        <description>GULF Söderhamn, Söderhamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Söderhamn, Söderhamn, Sverige]]></description>
         <Point><coordinates>17.065369,61.305058,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Östervåla]]></name>
-        <description>GULF Östervåla, Östervåla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Östervåla, Östervåla, Sverige]]></description>
         <Point><coordinates>17.188353,60.18689,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Gnesta]]></name>
-        <description>GULF Gnesta, Gnesta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Gnesta, Gnesta, Sverige]]></description>
         <Point><coordinates>17.328007,59.041161,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Sörberge]]></name>
-        <description>GULF Sörberge, Sörberge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Sörberge, Sörberge, Sverige]]></description>
         <Point><coordinates>17.378376,62.513477,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Viksjö]]></name>
-        <description>GULF Viksjö, Viksjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Viksjö, Viksjö, Sverige]]></description>
         <Point><coordinates>17.421511,62.778839,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Tierp]]></name>
-        <description>GULF Tierp, Tierp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Tierp, Tierp, Sverige]]></description>
         <Point><coordinates>17.488338,60.349735,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Trosa]]></name>
-        <description>GULF Trosa, Trosa, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Trosa, Trosa, Sverige]]></description>
         <Point><coordinates>17.552822,58.890808,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Södertälje]]></name>
-        <description>GULF Södertälje, Södertälje, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Södertälje, Södertälje, Sverige]]></description>
         <Point><coordinates>17.599125,59.20607,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Södertälje]]></name>
-        <description>GULF Södertälje, Södertälje, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Södertälje, Södertälje, Sverige]]></description>
         <Point><coordinates>17.600159,59.195465,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Sorunda]]></name>
-        <description>GULF Sorunda, Sorunda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Sorunda, Sorunda, Sverige]]></description>
         <Point><coordinates>17.819355,59.011795,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Härnösand]]></name>
-        <description>GULF Härnösand, Härnösand, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Härnösand, Härnösand, Sverige]]></description>
         <Point><coordinates>17.927458,62.6259,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Tungelsta]]></name>
-        <description>GULF Tungelsta, Tungelsta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Tungelsta, Tungelsta, Sverige]]></description>
         <Point><coordinates>18.041452,59.105686,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Djursholm]]></name>
-        <description>GULF Djursholm, Djursholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Djursholm, Djursholm, Sverige]]></description>
         <Point><coordinates>18.089302,59.39061,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Burgsvik]]></name>
-        <description>GULF Burgsvik, Burgsvik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Burgsvik, Burgsvik, Sverige]]></description>
         <Point><coordinates>18.277386,57.031925,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Vaxholm]]></name>
-        <description>GULF Vaxholm, Vaxholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Vaxholm, Vaxholm, Sverige]]></description>
         <Point><coordinates>18.355316,59.403622,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Ornö]]></name>
-        <description>GULF Ornö, Ornö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Ornö, Ornö, Sverige]]></description>
         <Point><coordinates>18.400555,59.058159,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Hallstavik]]></name>
-        <description>GULF Hallstavik, Hallstavik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Hallstavik, Hallstavik, Sverige]]></description>
         <Point><coordinates>18.559072,60.0387,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Domsjö]]></name>
-        <description>GULF Domsjö, Domsjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Domsjö, Domsjö, Sverige]]></description>
         <Point><coordinates>18.689358,63.267872,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Fårö]]></name>
-        <description>GULF Fårö, Fårö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Fårö, Fårö, Sverige]]></description>
         <Point><coordinates>19.09343,57.872059,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Vännäs]]></name>
-        <description>GULF Vännäs, Vännäs, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Vännäs, Vännäs, Sverige]]></description>
         <Point><coordinates>19.752466,63.902382,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Umeå]]></name>
-        <description>GULF Umeå, Umeå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Umeå, Umeå, Sverige]]></description>
         <Point><coordinates>20.309214,63.789062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Bullmark]]></name>
-        <description>GULF Bullmark, Bullmark, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Bullmark, Bullmark, Sverige]]></description>
         <Point><coordinates>20.488834,64.028381,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Vidsel]]></name>
-        <description>GULF Vidsel, Vidsel, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Vidsel, Vidsel, Sverige]]></description>
         <Point><coordinates>20.511503,65.835152,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Vistträsk]]></name>
-        <description>GULF Vistträsk, Vistträsk, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Vistträsk, Vistträsk, Sverige]]></description>
         <Point><coordinates>20.655096,65.693398,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Harads]]></name>
-        <description>GULF Harads, Harads, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Harads, Harads, Sverige]]></description>
         <Point><coordinates>20.952484,66.085129,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Älvsbyn]]></name>
-        <description>GULF Älvsbyn, Älvsbyn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Älvsbyn, Älvsbyn, Sverige]]></description>
         <Point><coordinates>21.005404,65.671898,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Gräsmyr]]></name>
-        <description>GULF Gräsmyr, Gräsmyr, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Gräsmyr, Gräsmyr, Sverige]]></description>
         <Point><coordinates>21.119169,64.972801,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Luleå]]></name>
-        <description>GULF Luleå, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Luleå, Luleå, Sverige]]></description>
         <Point><coordinates>21.912683,65.564499,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GULF Karesuando]]></name>
-        <description>GULF Karesuando, Karesuando, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GULF Karesuando, Karesuando, Sverige]]></description>
         <Point><coordinates>22.499687,68.436989,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
     </Folder>
   </Document>

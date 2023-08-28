@@ -1,787 +1,756 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>BDS</name>
+    <name><![CDATA[BDS]]></name>
     <description/>
-    <Style id="icon-22-normal">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-22-highlight">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-22">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-22-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-22-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
+    <Style id="icon-22-normal"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>
+    <Style id="icon-22-highlight"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>1.1</scale></LabelStyle></Style>
+    <StyleMap id="icon-22"><Pair><key>normal</key><styleUrl>#icon-22-normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#icon-22-highlight</styleUrl></Pair></StyleMap>
     <Folder>
       <name><![CDATA[BDS]]></name>
       <Placemark>
         <name><![CDATA[S.K. Bilreparationer AB]]></name>
-        <description>S.K. Bilreparationer AB, Skee, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[S.K. Bilreparationer AB, Skee, Sverige]]></description>
         <Point><coordinates>11.274907,58.92638,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sotenäs Bil AB Hunnebo 9504]]></name>
-        <description>Sotenäs Bil AB Hunnebo 9504, Kungshamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sotenäs Bil AB Hunnebo 9504, Kungshamn, Sverige]]></description>
         <Point><coordinates>11.315633,58.452171,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Motorama AB]]></name>
-        <description>Motorama AB, Tanumshede, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Motorama AB, Tanumshede, Sverige]]></description>
         <Point><coordinates>11.330121,58.711926,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[TE-DA Bilservice AB]]></name>
-        <description>TE-DA Bilservice AB, Hönö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[TE-DA Bilservice AB, Hönö, Sverige]]></description>
         <Point><coordinates>11.663178,57.699192,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Eklidens Motorservice]]></name>
-        <description>Eklidens Motorservice, Henån, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Eklidens Motorservice, Henån, Sverige]]></description>
         <Point><coordinates>11.683795,58.21014,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Frölunda Bilteknik]]></name>
-        <description>Frölunda Bilteknik, Västra Frölunda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Frölunda Bilteknik, Västra Frölunda, Sverige]]></description>
         <Point><coordinates>11.900468,57.656792,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Uddevalla Bilcenter]]></name>
-        <description>Uddevalla Bilcenter, Uddevalla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Uddevalla Bilcenter, Uddevalla, Sverige]]></description>
         <Point><coordinates>11.915364,58.35231,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Brab Autoservice AB]]></name>
-        <description>Brab Autoservice AB, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Brab Autoservice AB, Göteborg, Sverige]]></description>
         <Point><coordinates>11.947397,57.731415,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Speedy Tyres Sweden AB]]></name>
-        <description>Speedy Tyres Sweden AB, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Speedy Tyres Sweden AB, Göteborg, Sverige]]></description>
         <Point><coordinates>11.956955,57.732975,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Kungälvs Bil & Motorservice AB]]></name>
-        <description>Kungälvs Bil & Motorservice AB, Kungälv, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Kungälvs Bil & Motorservice AB, Kungälv, Sverige]]></description>
         <Point><coordinates>11.988167,57.885864,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bilverkstad Göteborg AB]]></name>
-        <description>Bilverkstad Göteborg AB, Hisings Backa, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bilverkstad Göteborg AB, Hisings Backa, Sverige]]></description>
         <Point><coordinates>11.996799,57.748554,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Onsala Petroleum AB]]></name>
-        <description>Onsala Petroleum AB, Onsala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Onsala Petroleum AB, Onsala, Sverige]]></description>
         <Point><coordinates>12.020488,57.413059,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Backalycka Service AB]]></name>
-        <description>Backalycka Service AB, Kungsbacka, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Backalycka Service AB, Kungsbacka, Sverige]]></description>
         <Point><coordinates>12.029708,57.485146,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sanden & Larsson Bil AB]]></name>
-        <description>Sanden & Larsson Bil AB, Sävedalen, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sanden & Larsson Bil AB, Sävedalen, Sverige]]></description>
         <Point><coordinates>12.062481,57.732693,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[M.Carlén Bil AB]]></name>
-        <description>M.Carlén Bil AB, Kungsbacka, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[M.Carlén Bil AB, Kungsbacka, Sverige]]></description>
         <Point><coordinates>12.076206,57.507534,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Klingberg & Forsberg Bilservice AB]]></name>
-        <description>Klingberg & Forsberg Bilservice AB, Partille, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Klingberg & Forsberg Bilservice AB, Partille, Sverige]]></description>
         <Point><coordinates>12.085948,57.740631,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bil-Lennart i Lindome AB]]></name>
-        <description>Bil-Lennart i Lindome AB, Lindome, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bil-Lennart i Lindome AB, Lindome, Sverige]]></description>
         <Point><coordinates>12.093887,57.574432,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lerums Gummiverkstad AB]]></name>
-        <description>Lerums Gummiverkstad AB, Lerum, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lerums Gummiverkstad AB, Lerum, Sverige]]></description>
         <Point><coordinates>12.276817,57.775383,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Kims Bil o Däck AB]]></name>
-        <description>Kims Bil o Däck AB, Gråbo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Kims Bil o Däck AB, Gråbo, Sverige]]></description>
         <Point><coordinates>12.284778,57.840527,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Autoprime i Stenkullen AB]]></name>
-        <description>Autoprime i Stenkullen AB, Stenkullen, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Autoprime i Stenkullen AB, Stenkullen, Sverige]]></description>
         <Point><coordinates>12.308207,57.785706,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Ramek Bil AB]]></name>
-        <description>Ramek Bil AB, Vänersborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Ramek Bil AB, Vänersborg, Sverige]]></description>
         <Point><coordinates>12.3246,58.365196,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Auto Mekano Brålanda AB]]></name>
-        <description>Auto Mekano Brålanda AB, Brålanda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Auto Mekano Brålanda AB, Brålanda, Sverige]]></description>
         <Point><coordinates>12.340449,58.570526,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[AutoMats AB]]></name>
-        <description>AutoMats AB, Mellerud, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[AutoMats AB, Mellerud, Sverige]]></description>
         <Point><coordinates>12.452022,58.706123,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Alingsås Servicecenter]]></name>
-        <description>Alingsås Servicecenter, Alingsås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Alingsås Servicecenter, Alingsås, Sverige]]></description>
         <Point><coordinates>12.555485,57.93866,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Dalslands Motor AB]]></name>
-        <description>Dalslands Motor AB, Åmål, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Dalslands Motor AB, Åmål, Sverige]]></description>
         <Point><coordinates>12.710945,59.038357,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Idre Fordonsservice]]></name>
-        <description>Idre Fordonsservice, Idre, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Idre Fordonsservice, Idre, Sverige]]></description>
         <Point><coordinates>12.758346,61.852364,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bohlins Motorverkstad AB]]></name>
-        <description>Bohlins Motorverkstad AB, Halmstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bohlins Motorverkstad AB, Halmstad, Sverige]]></description>
         <Point><coordinates>12.883665,56.678394,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bil & Alltjänst i Halmstad AB]]></name>
-        <description>Bil & Alltjänst i Halmstad AB, Halmstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bil & Alltjänst i Halmstad AB, Halmstad, Sverige]]></description>
         <Point><coordinates>12.898464,56.655258,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Autoshopen]]></name>
-        <description>Autoshopen, Billesholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Autoshopen, Billesholm, Sverige]]></description>
         <Point><coordinates>12.995846,56.055588,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Autoperformance sweden ab]]></name>
-        <description>Autoperformance sweden ab, Vellinge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Autoperformance sweden ab, Vellinge, Sverige]]></description>
         <Point><coordinates>13.018289,55.458183,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GMA Bilverkstad AB]]></name>
-        <description>GMA Bilverkstad AB, Oxie, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GMA Bilverkstad AB, Oxie, Sverige]]></description>
         <Point><coordinates>13.072609,55.540638,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Motorcenter i Svalöv AB]]></name>
-        <description>Motorcenter i Svalöv AB, Svalöv, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Motorcenter i Svalöv AB, Svalöv, Sverige]]></description>
         <Point><coordinates>13.106181,55.909233,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Våxtorps Bilservice AB]]></name>
-        <description>Våxtorps Bilservice AB, Våxtorp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Våxtorps Bilservice AB, Våxtorp, Sverige]]></description>
         <Point><coordinates>13.117427,56.418797,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Vulko Eslöv AB]]></name>
-        <description>Vulko Eslöv AB, Eslöv, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Vulko Eslöv AB, Eslöv, Sverige]]></description>
         <Point><coordinates>13.305175,55.831196,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sälens Däck o Bilservice]]></name>
-        <description>Sälens Däck o Bilservice, Transtrand, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sälens Däck o Bilservice, Transtrand, Sverige]]></description>
         <Point><coordinates>13.309379,61.099606,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Eslövs Bilcenter]]></name>
-        <description>Eslövs Bilcenter, Eslöv, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Eslövs Bilcenter, Eslöv, Sverige]]></description>
         <Point><coordinates>13.329029,55.827667,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Folkbil Karlstad AB]]></name>
-        <description>Folkbil Karlstad AB, Karlstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Folkbil Karlstad AB, Karlstad, Sverige]]></description>
         <Point><coordinates>13.415407,59.430176,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bil och Däck i Skara]]></name>
-        <description>Bil och Däck i Skara, Skara, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bil och Däck i Skara, Skara, Sverige]]></description>
         <Point><coordinates>13.44434,58.384518,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Årebärgaren Plåt & Lack AB]]></name>
-        <description>Årebärgaren Plåt & Lack AB, Järpen, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Årebärgaren Plåt & Lack AB, Järpen, Sverige]]></description>
         <Point><coordinates>13.449194,63.351944,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Götene Bil & Vulk AB]]></name>
-        <description>Götene Bil & Vulk AB, Götene, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Götene Bil & Vulk AB, Götene, Sverige]]></description>
         <Point><coordinates>13.49667,58.528908,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Blentarps Däck & Mek AB]]></name>
-        <description>Blentarps Däck & Mek AB, Blentarp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Blentarps Däck & Mek AB, Blentarp, Sverige]]></description>
         <Point><coordinates>13.599225,55.592121,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Dala Bil &Traktorverkstad AB]]></name>
-        <description>Dala Bil &Traktorverkstad AB, Hörby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Dala Bil &Traktorverkstad AB, Hörby, Sverige]]></description>
         <Point><coordinates>13.616755,55.77063,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sjöbo Autoplåt]]></name>
-        <description>Sjöbo Autoplåt, Sjöbo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sjöbo Autoplåt, Sjöbo, Sverige]]></description>
         <Point><coordinates>13.691717,55.638771,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[JH Erikssons Husvagnar AB]]></name>
-        <description>JH Erikssons Husvagnar AB, Stenstorp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[JH Erikssons Husvagnar AB, Stenstorp, Sverige]]></description>
         <Point><coordinates>13.723921,58.270683,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Malungs däck o bilservice]]></name>
-        <description>Malungs däck o bilservice, Malung, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Malungs däck o bilservice, Malung, Sverige]]></description>
         <Point><coordinates>13.727821,60.683689,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bolin och Landin Autoservice AB]]></name>
-        <description>Bolin och Landin Autoservice AB, Mariestad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bolin och Landin Autoservice AB, Mariestad, Sverige]]></description>
         <Point><coordinates>13.820728,58.705399,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Ystads Bilservice AB]]></name>
-        <description>Ystads Bilservice AB, Ystad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Ystads Bilservice AB, Ystad, Sverige]]></description>
         <Point><coordinates>13.837103,55.43726,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bilverkstan 195 AB]]></name>
-        <description>Bilverkstan 195 AB, Älvdalen, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bilverkstan 195 AB, Älvdalen, Sverige]]></description>
         <Point><coordinates>14.032609,61.249973,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Gullspångs Bilservice AB]]></name>
-        <description>Gullspångs Bilservice AB, Otterbäcken, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Gullspångs Bilservice AB, Otterbäcken, Sverige]]></description>
         <Point><coordinates>14.054566,58.960758,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Svets & Mek Offerdal AB]]></name>
-        <description>Svets & Mek Offerdal AB, Offerdal, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Svets & Mek Offerdal AB, Offerdal, Sverige]]></description>
         <Point><coordinates>14.071984,63.45647,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[M Carlauto Service AB]]></name>
-        <description>M Carlauto Service AB, Töreboda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[M Carlauto Service AB, Töreboda, Sverige]]></description>
         <Point><coordinates>14.125028,58.70274,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[KGA Fordonsservice]]></name>
-        <description>KGA Fordonsservice, Degerfors, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[KGA Fordonsservice, Degerfors, Sverige]]></description>
         <Point><coordinates>14.437169,59.248947,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Peters Bil & Motor]]></name>
-        <description>Peters Bil & Motor, Karlsborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Peters Bil & Motor, Karlsborg, Sverige]]></description>
         <Point><coordinates>14.502705,58.53931,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Motorbolaget Lammhult AB]]></name>
-        <description>Motorbolaget Lammhult AB, Lammhult, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Motorbolaget Lammhult AB, Lammhult, Sverige]]></description>
         <Point><coordinates>14.574983,57.170567,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Dala SpeedMek]]></name>
-        <description>Dala SpeedMek, Orsa, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Dala SpeedMek, Orsa, Sverige]]></description>
         <Point><coordinates>14.636321,61.126392,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Verkstan Peter Karlsson]]></name>
-        <description>Verkstan Peter Karlsson, Östersund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Verkstan Peter Karlsson, Östersund, Sverige]]></description>
         <Point><coordinates>14.688431,63.174072,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Cartech i Dalarna AB]]></name>
-        <description>Cartech i Dalarna AB, Djurås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Cartech i Dalarna AB, Djurås, Sverige]]></description>
         <Point><coordinates>15.106116,60.542385,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Storå Bil o Maskin Service AB]]></name>
-        <description>Storå Bil o Maskin Service AB, Storå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Storå Bil o Maskin Service AB, Storå, Sverige]]></description>
         <Point><coordinates>15.121352,59.712349,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Kallernäs Bil & Maskin AB]]></name>
-        <description>Kallernäs Bil & Maskin AB, Lindesberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Kallernäs Bil & Maskin AB, Lindesberg, Sverige]]></description>
         <Point><coordinates>15.190961,59.607311,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[JBA Motor AB]]></name>
-        <description>JBA Motor AB, Smedjebacken, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[JBA Motor AB, Smedjebacken, Sverige]]></description>
         <Point><coordinates>15.397556,60.144123,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Borlänge Bilservice AB]]></name>
-        <description>Borlänge Bilservice AB, Borlänge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Borlänge Bilservice AB, Borlänge, Sverige]]></description>
         <Point><coordinates>15.429734,60.473457,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Borlänge Servicecenter AB]]></name>
-        <description>Borlänge Servicecenter AB, Borlänge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Borlänge Servicecenter AB, Borlänge, Sverige]]></description>
         <Point><coordinates>15.469522,60.464474,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bilverkstan i Söderbärke AB]]></name>
-        <description>Bilverkstan i Söderbärke AB, Söderbärke, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bilverkstan i Söderbärke AB, Söderbärke, Sverige]]></description>
         <Point><coordinates>15.540275,60.077053,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Runes Bensin]]></name>
-        <description>Runes Bensin, Emmaboda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Runes Bensin, Emmaboda, Sverige]]></description>
         <Point><coordinates>15.553177,56.626495,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[AB Däck bil & maskin i Rimforsa]]></name>
-        <description>AB Däck bil & maskin i Rimforsa, Rimforsa, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[AB Däck bil & maskin i Rimforsa, Rimforsa, Sverige]]></description>
         <Point><coordinates>15.678906,58.133362,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Auto-Center i Bergslagen AB]]></name>
-        <description>Auto-Center i Bergslagen AB, Fagersta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Auto-Center i Bergslagen AB, Fagersta, Sverige]]></description>
         <Point><coordinates>15.798902,59.982281,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Norbergs Bil O Motor]]></name>
-        <description>Norbergs Bil O Motor, Norberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Norbergs Bil O Motor, Norberg, Sverige]]></description>
         <Point><coordinates>15.933657,60.066185,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Hedemora Bilforum AB]]></name>
-        <description>Hedemora Bilforum AB, Hedemora, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Hedemora Bilforum AB, Hedemora, Sverige]]></description>
         <Point><coordinates>15.983763,60.289909,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bil & Dieselservice i Norrköping AB]]></name>
-        <description>Bil & Dieselservice i Norrköping AB, Norrköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bil & Dieselservice i Norrköping AB, Norrköping, Sverige]]></description>
         <Point><coordinates>16.123304,58.578449,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[JR Motorperformance AB]]></name>
-        <description>JR Motorperformance AB, Kolmården, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[JR Motorperformance AB, Kolmården, Sverige]]></description>
         <Point><coordinates>16.17359,58.653397,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Rostskyddscenter]]></name>
-        <description>Rostskyddscenter, Norrköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Rostskyddscenter, Norrköping, Sverige]]></description>
         <Point><coordinates>16.17734,58.606823,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[KH Bilservice AB]]></name>
-        <description>KH Bilservice AB, Katrineholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[KH Bilservice AB, Katrineholm, Sverige]]></description>
         <Point><coordinates>16.189579,58.995735,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Västanhede Bilverkstad AB]]></name>
-        <description>Västanhede Bilverkstad AB, Avesta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Västanhede Bilverkstad AB, Avesta, Sverige]]></description>
         <Point><coordinates>16.195288,60.142681,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Krylbo Motorcenter AB]]></name>
-        <description>Krylbo Motorcenter AB, Krylbo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Krylbo Motorcenter AB, Krylbo, Sverige]]></description>
         <Point><coordinates>16.216314,60.122784,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Nya Inter Bilverkstad AB]]></name>
-        <description>Nya Inter Bilverkstad AB, Norrköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Nya Inter Bilverkstad AB, Norrköping, Sverige]]></description>
         <Point><coordinates>16.217634,58.589634,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Stenbergs Bil]]></name>
-        <description>Stenbergs Bil, Katrineholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Stenbergs Bil, Katrineholm, Sverige]]></description>
         <Point><coordinates>16.221914,58.998947,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[RR Bil & Lackering]]></name>
-        <description>RR Bil & Lackering, Norrköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[RR Bil & Lackering, Norrköping, Sverige]]></description>
         <Point><coordinates>16.22521,58.562904,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bildelar Kalmar AB]]></name>
-        <description>Bildelar Kalmar AB, Kalmar, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bildelar Kalmar AB, Kalmar, Sverige]]></description>
         <Point><coordinates>16.316919,56.700161,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Verkstan i Gevåg]]></name>
-        <description>Verkstan i Gevåg, Hammarstrand, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Verkstan i Gevåg, Hammarstrand, Sverige]]></description>
         <Point><coordinates>16.342978,63.137665,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[GRT Bilservice AB]]></name>
-        <description>GRT Bilservice AB, Söderköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[GRT Bilservice AB, Söderköping, Sverige]]></description>
         <Point><coordinates>16.343046,58.468323,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bilakuten i Bollnäs AB]]></name>
-        <description>Bilakuten i Bollnäs AB, Bollnäs, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bilakuten i Bollnäs AB, Bollnäs, Sverige]]></description>
         <Point><coordinates>16.387449,61.343224,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Axma Bil AB]]></name>
-        <description>Axma Bil AB, Oskarshamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Axma Bil AB, Oskarshamn, Sverige]]></description>
         <Point><coordinates>16.439211,57.251247,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[EBH Eskilstuna Bil & Husbilsservice]]></name>
-        <description>EBH Eskilstuna Bil & Husbilsservice, Eskilstuna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[EBH Eskilstuna Bil & Husbilsservice, Eskilstuna, Sverige]]></description>
         <Point><coordinates>16.504435,59.379711,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[FOS Bil AB]]></name>
-        <description>FOS Bil AB, Eskilstuna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[FOS Bil AB, Eskilstuna, Sverige]]></description>
         <Point><coordinates>16.504599,59.383301,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Allbilservice i Eskilstuna AB]]></name>
-        <description>Allbilservice i Eskilstuna AB, Eskilstuna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Allbilservice i Eskilstuna AB, Eskilstuna, Sverige]]></description>
         <Point><coordinates>16.52597,59.363098,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Aros Tunby Bilservice AB]]></name>
-        <description>Aros Tunby Bilservice AB, Västerås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Aros Tunby Bilservice AB, Västerås, Sverige]]></description>
         <Point><coordinates>16.559637,59.642242,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Tylles Västervik AB]]></name>
-        <description>Tylles Västervik AB, Västervik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Tylles Västervik AB, Västervik, Sverige]]></description>
         <Point><coordinates>16.588385,57.775486,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bilteknik i Västervik AB]]></name>
-        <description>Bilteknik i Västervik AB, Västervik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bilteknik i Västervik AB, Västervik, Sverige]]></description>
         <Point><coordinates>16.598095,57.793289,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lindbloms Bilservice AB]]></name>
-        <description>Lindbloms Bilservice AB, Sala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lindbloms Bilservice AB, Sala, Sverige]]></description>
         <Point><coordinates>16.630726,59.911762,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lakbäck El & Fordonsteknik]]></name>
-        <description>Lakbäck El & Fordonsteknik, Tärnsjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lakbäck El & Fordonsteknik, Tärnsjö, Sverige]]></description>
         <Point><coordinates>16.969532,60.172707,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Hedins Bilservice AB]]></name>
-        <description>Hedins Bilservice AB, Strängnäs, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Hedins Bilservice AB, Strängnäs, Sverige]]></description>
         <Point><coordinates>17.013126,59.376347,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[AJ:s Rep och Entrepenad AB]]></name>
-        <description>AJ:s Rep och Entrepenad AB, Sollefteå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[AJ:s Rep och Entrepenad AB, Sollefteå, Sverige]]></description>
         <Point><coordinates>17.300837,63.15731,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Dahlbergs Bilservice och Recond AB]]></name>
-        <description>Dahlbergs Bilservice och Recond AB, Sundsvall, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Dahlbergs Bilservice och Recond AB, Sundsvall, Sverige]]></description>
         <Point><coordinates>17.366297,62.346828,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Karlssons Bilservice]]></name>
-        <description>Karlssons Bilservice, Sorsele, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Karlssons Bilservice, Sorsele, Sverige]]></description>
         <Point><coordinates>17.535938,65.529518,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Antons car service AB]]></name>
-        <description>Antons car service AB, Södertälje, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Antons car service AB, Södertälje, Sverige]]></description>
         <Point><coordinates>17.589615,59.196468,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Messes Bilservice AB]]></name>
-        <description>Messes Bilservice AB, Tumba, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Messes Bilservice AB, Tumba, Sverige]]></description>
         <Point><coordinates>17.820292,59.189224,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[A.H Jakobsbergs Bilservice AB]]></name>
-        <description>A.H Jakobsbergs Bilservice AB, Järfälla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[A.H Jakobsbergs Bilservice AB, Järfälla, Sverige]]></description>
         <Point><coordinates>17.826689,59.41161,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Primos Bilvård & Service]]></name>
-        <description>Primos Bilvård & Service, Vällingby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Primos Bilvård & Service, Vällingby, Sverige]]></description>
         <Point><coordinates>17.860508,59.371189,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bennys Bilcenter AB]]></name>
-        <description>Bennys Bilcenter AB, Roserberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bennys Bilcenter AB, Roserberg, Sverige]]></description>
         <Point><coordinates>17.879835,59.586174,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Spånga Autoservice AB]]></name>
-        <description>Spånga Autoservice AB, Spånga, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Spånga Autoservice AB, Spånga, Sverige]]></description>
         <Point><coordinates>17.886902,59.383781,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Tullinge Bilspa / LC Bilglascenter AB]]></name>
-        <description>Tullinge Bilspa / LC Bilglascenter AB, Tullinge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Tullinge Bilspa / LC Bilglascenter AB, Tullinge, Sverige]]></description>
         <Point><coordinates>17.923689,59.207687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[SFA Bil AB]]></name>
-        <description>SFA Bil AB, Kista, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[SFA Bil AB, Kista, Sverige]]></description>
         <Point><coordinates>17.938021,59.406231,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lövdalens Bilverkstad AB]]></name>
-        <description>Lövdalens Bilverkstad AB, Segeltorp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lövdalens Bilverkstad AB, Segeltorp, Sverige]]></description>
         <Point><coordinates>17.963505,59.265903,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Björns Bilservice i Huddinge]]></name>
-        <description>Björns Bilservice i Huddinge, Huddinge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Björns Bilservice i Huddinge, Huddinge, Sverige]]></description>
         <Point><coordinates>17.989323,59.233742,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Stuvsta Däck AB]]></name>
-        <description>Stuvsta Däck AB, Huddinge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Stuvsta Däck AB, Huddinge, Sverige]]></description>
         <Point><coordinates>17.994324,59.257641,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[A & A  Automobile]]></name>
-        <description>A & A  Automobile, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[A & A  Automobile, Stockholm, Sverige]]></description>
         <Point><coordinates>18.060257,59.348438,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sergels Bilservice & Bilvård AB]]></name>
-        <description>Sergels Bilservice & Bilvård AB, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sergels Bilservice & Bilvård AB, Stockholm, Sverige]]></description>
         <Point><coordinates>18.06324,59.333912,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Mekian Bilverkstad AB]]></name>
-        <description>Mekian Bilverkstad AB, Täby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Mekian Bilverkstad AB, Täby, Sverige]]></description>
         <Point><coordinates>18.077574,59.435059,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Länna Bilservice AB]]></name>
-        <description>Länna Bilservice AB, Skogås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Länna Bilservice AB, Skogås, Sverige]]></description>
         <Point><coordinates>18.125954,59.201042,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Barfeld's Motor]]></name>
-        <description>Barfeld's Motor, Västerhaninge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Barfeld's Motor, Västerhaninge, Sverige]]></description>
         <Point><coordinates>18.128702,59.105297,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Universal Motors Sverige AB]]></name>
-        <description>Universal Motors Sverige AB, Rimbo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Universal Motors Sverige AB, Rimbo, Sverige]]></description>
         <Point><coordinates>18.377253,59.746277,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sundborgs Bil & båt verkstad]]></name>
-        <description>Sundborgs Bil & båt verkstad, Norrtälje, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sundborgs Bil & båt verkstad, Norrtälje, Sverige]]></description>
         <Point><coordinates>18.792156,59.733368,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Nymans Bilservice]]></name>
-        <description>Nymans Bilservice, Nordmaling, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Nymans Bilservice, Nordmaling, Sverige]]></description>
         <Point><coordinates>19.462334,63.576012,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[WP Bilverkstad]]></name>
-        <description>WP Bilverkstad, Umeå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[WP Bilverkstad, Umeå, Sverige]]></description>
         <Point><coordinates>20.27688,63.805023,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Din Mekaniker]]></name>
-        <description>Din Mekaniker, Umeå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Din Mekaniker, Umeå, Sverige]]></description>
         <Point><coordinates>20.303568,63.862503,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Laga Bilen i Umeå AB]]></name>
-        <description>Laga Bilen i Umeå AB, Umeå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Laga Bilen i Umeå AB, Umeå, Sverige]]></description>
         <Point><coordinates>20.312475,63.851849,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Autotech i Gällivare AB]]></name>
-        <description>Autotech i Gällivare AB, Gällivare, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Autotech i Gällivare AB, Gällivare, Sverige]]></description>
         <Point><coordinates>20.656746,67.157738,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Grönborgs Bil & Plåt]]></name>
-        <description>Grönborgs Bil & Plåt, Koskullskulle, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Grönborgs Bil & Plåt, Koskullskulle, Sverige]]></description>
         <Point><coordinates>20.752247,67.188957,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Kågevägens Bilservice]]></name>
-        <description>Kågevägens Bilservice, Skellefteå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Kågevägens Bilservice, Skellefteå, Sverige]]></description>
         <Point><coordinates>20.966825,64.75824,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[BDS Test Verkstad]]></name>
-        <description>BDS Test Verkstad, Abisko, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[BDS Test Verkstad, Abisko, Sverige]]></description>
         <Point><coordinates>21.041945,71.215416,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Hedqvist Dieselservice AB]]></name>
-        <description>Hedqvist Dieselservice AB, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Hedqvist Dieselservice AB, Luleå, Sverige]]></description>
         <Point><coordinates>22.044861,65.614616,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bilspecialisten]]></name>
-        <description>Bilspecialisten, Kalix, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bilspecialisten, Kalix, Sverige]]></description>
         <Point><coordinates>23.111616,65.852898,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Kalix Däck & Cykel AB]]></name>
-        <description>Kalix Däck & Cykel AB, Kalix, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Kalix Däck & Cykel AB, Kalix, Sverige]]></description>
         <Point><coordinates>23.136194,65.861275,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Tornedalens Fordonsteknik Verkstaden]]></name>
-        <description>Tornedalens Fordonsteknik Verkstaden, Övertorneå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Tornedalens Fordonsteknik Verkstaden, Övertorneå, Sverige]]></description>
         <Point><coordinates>23.649923,66.384117,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
     </Folder>
   </Document>

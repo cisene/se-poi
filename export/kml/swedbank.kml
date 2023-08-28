@@ -1,2083 +1,2052 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Swedbank</name>
+    <name><![CDATA[Swedbank]]></name>
     <description/>
-    <Style id="icon-22-normal">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-22-highlight">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-22">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-22-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-22-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
+    <Style id="icon-22-normal"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>
+    <Style id="icon-22-highlight"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>1.1</scale></LabelStyle></Style>
+    <StyleMap id="icon-22"><Pair><key>normal</key><styleUrl>#icon-22-normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#icon-22-highlight</styleUrl></Pair></StyleMap>
     <Folder>
       <name><![CDATA[Swedbank]]></name>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Strömstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Strömstad, Sverige]]></description>
         <Point><coordinates>11.174328,58.937697,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Kungshamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Kungshamn, Sverige]]></description>
         <Point><coordinates>11.249144,58.360914,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Tanum]]></name>
-        <description>Sparbanken Tanum, Hamburgsund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Tanum, Hamburgsund, Sverige]]></description>
         <Point><coordinates>11.271836,58.552242,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Tanum]]></name>
-        <description>Sparbanken Tanum, Tanumshede, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Tanum, Tanumshede, Sverige]]></description>
         <Point><coordinates>11.323805,58.723673,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Lysekil, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Lysekil, Sverige]]></description>
         <Point><coordinates>11.435748,58.273221,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[ORUSTS SPARBANK]]></name>
-        <description>ORUSTS SPARBANK, Ellös, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[ORUSTS SPARBANK, Ellös, Sverige]]></description>
         <Point><coordinates>11.467009,58.18228,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Tjörns Sparbank]]></name>
-        <description>Tjörns Sparbank, Skärhamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Tjörns Sparbank, Skärhamn, Sverige]]></description>
         <Point><coordinates>11.543421,57.98745,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Öckerö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Öckerö, Sverige]]></description>
         <Point><coordinates>11.65504,57.707951,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Tjörns Sparbank]]></name>
-        <description>Tjörns Sparbank, Kållekärr, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Tjörns Sparbank, Kållekärr, Sverige]]></description>
         <Point><coordinates>11.660496,58.025014,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Munkedal, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Munkedal, Sverige]]></description>
         <Point><coordinates>11.673293,58.466813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Orusts Sparbank]]></name>
-        <description>Orusts Sparbank, Henån, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Orusts Sparbank, Henån, Sverige]]></description>
         <Point><coordinates>11.680354,58.23654,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[ORUSTS SPARBANK]]></name>
-        <description>ORUSTS SPARBANK, Varekil, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[ORUSTS SPARBANK, Varekil, Sverige]]></description>
         <Point><coordinates>11.715161,58.125782,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Tjörns Sparbank]]></name>
-        <description>Tjörns Sparbank, Myggenäs, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Tjörns Sparbank, Myggenäs, Sverige]]></description>
         <Point><coordinates>11.75226,58.06171,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[ORUSTS SPARBANK]]></name>
-        <description>ORUSTS SPARBANK, Svanesund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[ORUSTS SPARBANK, Svanesund, Sverige]]></description>
         <Point><coordinates>11.81955,58.142716,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Stenungsund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Stenungsund, Sverige]]></description>
         <Point><coordinates>11.822789,58.074288,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Westra Wermlands Sparbank]]></name>
-        <description>Westra Wermlands Sparbank, Töcksfors, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Westra Wermlands Sparbank, Töcksfors, Sverige]]></description>
         <Point><coordinates>11.838572,59.508218,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Göteborg väster, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Göteborg väster, Sverige]]></description>
         <Point><coordinates>11.916169,57.646091,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Dalslands Sparbank]]></name>
-        <description>Dalslands Sparbank, Ed, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Dalslands Sparbank, Ed, Sverige]]></description>
         <Point><coordinates>11.932591,58.911965,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Uddevalla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Uddevalla, Sverige]]></description>
         <Point><coordinates>11.934432,58.350263,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Göteborg n älvstranden, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Göteborg n älvstranden, Sverige]]></description>
         <Point><coordinates>11.940542,57.70624,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Göteborg kvillebäcken, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Göteborg kvillebäcken, Sverige]]></description>
         <Point><coordinates>11.94581,57.72104,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Göteborg s hamng, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Göteborg s hamng, Sverige]]></description>
         <Point><coordinates>11.96629,57.70613,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Kungälv, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Kungälv, Sverige]]></description>
         <Point><coordinates>11.981533,57.87089,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Dalslands Sparbank]]></name>
-        <description>Dalslands Sparbank, Färgelanda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Dalslands Sparbank, Färgelanda, Sverige]]></description>
         <Point><coordinates>11.996825,58.567518,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Mölndal, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Mölndal, Sverige]]></description>
         <Point><coordinates>12.009958,57.673681,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Göteborg angered, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Göteborg angered, Sverige]]></description>
         <Point><coordinates>12.050213,57.797949,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Kungsbacka, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Kungsbacka, Sverige]]></description>
         <Point><coordinates>12.076645,57.485209,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Partille, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Partille, Sverige]]></description>
         <Point><coordinates>12.108892,57.740304,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Mölnlycke, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Mölnlycke, Sverige]]></description>
         <Point><coordinates>12.1161,57.65948,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Älvängen, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Älvängen, Sverige]]></description>
         <Point><coordinates>12.123149,57.958091,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Westra Wermlands Sparbank]]></name>
-        <description>Westra Wermlands Sparbank, Årjäng, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Westra Wermlands Sparbank, Årjäng, Sverige]]></description>
         <Point><coordinates>12.131512,59.392364,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Westra Wermlands Sparbank]]></name>
-        <description>Westra Wermlands Sparbank, Koppom, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Westra Wermlands Sparbank, Koppom, Sverige]]></description>
         <Point><coordinates>12.137208,59.701904,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Dalslands Sparbank]]></name>
-        <description>Dalslands Sparbank, Bengtsfors, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Dalslands Sparbank, Bengtsfors, Sverige]]></description>
         <Point><coordinates>12.22496,59.029231,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Varbergs Sparbank AB]]></name>
-        <description>Varbergs Sparbank AB, Varberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Varbergs Sparbank AB, Varberg, Sverige]]></description>
         <Point><coordinates>12.25054,57.104767,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Alingsås AB]]></name>
-        <description>Sparbanken Alingsås AB, Lerum, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Alingsås AB, Lerum, Sverige]]></description>
         <Point><coordinates>12.27209,57.7711,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Varbergs Sparbank AB]]></name>
-        <description>Varbergs Sparbank AB, Håsten, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Varbergs Sparbank AB, Håsten, Sverige]]></description>
         <Point><coordinates>12.277531,57.112461,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Trollhättan, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Trollhättan, Sverige]]></description>
         <Point><coordinates>12.285838,58.284511,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Westra Wermlands Sparbank]]></name>
-        <description>Westra Wermlands Sparbank, Charlottenberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Westra Wermlands Sparbank, Charlottenberg, Sverige]]></description>
         <Point><coordinates>12.303646,59.88383,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Vänersborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Vänersborg, Sverige]]></description>
         <Point><coordinates>12.322672,58.381764,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Varbergs Sparbank AB]]></name>
-        <description>Varbergs Sparbank AB, Veddige, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Varbergs Sparbank AB, Veddige, Sverige]]></description>
         <Point><coordinates>12.336061,57.267453,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Westra Wermlands Sparbank]]></name>
-        <description>Westra Wermlands Sparbank, Åmotfors, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Westra Wermlands Sparbank, Åmotfors, Sverige]]></description>
         <Point><coordinates>12.36346,59.763164,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Varbergs Sparbank AB]]></name>
-        <description>Varbergs Sparbank AB, Tvååker, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Varbergs Sparbank AB, Tvååker, Sverige]]></description>
         <Point><coordinates>12.397567,57.042292,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Sjuhärad AB (publ)]]></name>
-        <description>Sparbanken Sjuhärad AB (publ), Sätila, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Sjuhärad AB (publ), Sätila, Sverige]]></description>
         <Point><coordinates>12.433675,57.542379,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Dalslands Sparbank]]></name>
-        <description>Dalslands Sparbank, Mellerud, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Dalslands Sparbank, Mellerud, Sverige]]></description>
         <Point><coordinates>12.451788,58.698907,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Falkenbergs Sparbank]]></name>
-        <description>Falkenbergs Sparbank, Falkenberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Falkenbergs Sparbank, Falkenberg, Sverige]]></description>
         <Point><coordinates>12.491312,56.903562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Alingsås AB]]></name>
-        <description>Sparbanken Alingsås AB, Sollebrunn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Alingsås AB, Sollebrunn, Sverige]]></description>
         <Point><coordinates>12.528591,58.119165,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Alingsås AB]]></name>
-        <description>Sparbanken Alingsås AB, Alingsås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Alingsås AB, Alingsås, Sverige]]></description>
         <Point><coordinates>12.533006,57.928653,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Höganäs, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Höganäs, Sverige]]></description>
         <Point><coordinates>12.559615,56.200194,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Sjuhärad AB (publ)]]></name>
-        <description>Sparbanken Sjuhärad AB (publ), Bollebygd, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Sjuhärad AB (publ), Bollebygd, Sverige]]></description>
         <Point><coordinates>12.568012,57.669048,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Westra Wermlands Sparbank]]></name>
-        <description>Westra Wermlands Sparbank, Arvika, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Westra Wermlands Sparbank, Arvika, Sverige]]></description>
         <Point><coordinates>12.590629,59.654089,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Åse Viste Sparbank]]></name>
-        <description>Åse Viste Sparbank, Grästorp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Åse Viste Sparbank, Grästorp, Sverige]]></description>
         <Point><coordinates>12.680771,58.33382,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Sjuhärad AB (publ)]]></name>
-        <description>Sparbanken Sjuhärad AB (publ), Kinna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Sjuhärad AB (publ), Kinna, Sverige]]></description>
         <Point><coordinates>12.693351,57.507324,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Helsingborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Helsingborg, Sverige]]></description>
         <Point><coordinates>12.693937,56.045578,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Åmål, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Åmål, Sverige]]></description>
         <Point><coordinates>12.705018,59.053321,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Falkenbergs Sparbank]]></name>
-        <description>Falkenbergs Sparbank, Ullared, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Falkenbergs Sparbank, Ullared, Sverige]]></description>
         <Point><coordinates>12.71672,57.13666,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Skaraborg AB]]></name>
-        <description>Sparbanken Skaraborg AB, Nossebro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Skaraborg AB, Nossebro, Sverige]]></description>
         <Point><coordinates>12.720766,58.187789,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Falkenbergs Sparbank]]></name>
-        <description>Falkenbergs Sparbank, Getinge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Falkenbergs Sparbank, Getinge, Sverige]]></description>
         <Point><coordinates>12.732866,56.819281,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Alingsås AB]]></name>
-        <description>Sparbanken Alingsås AB, Vårgårda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Alingsås AB, Vårgårda, Sverige]]></description>
         <Point><coordinates>12.808062,58.031739,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Westra Wermlands Sparbank]]></name>
-        <description>Westra Wermlands Sparbank, Edane, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Westra Wermlands Sparbank, Edane, Sverige]]></description>
         <Point><coordinates>12.826983,59.628836,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Landskrona, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Landskrona, Sverige]]></description>
         <Point><coordinates>12.832574,55.870126,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Båstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Båstad, Sverige]]></description>
         <Point><coordinates>12.847531,56.42711,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Halmstad stora torg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Halmstad stora torg, Sverige]]></description>
         <Point><coordinates>12.858125,56.673597,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Ängelholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Ängelholm, Sverige]]></description>
         <Point><coordinates>12.8638,56.2451,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Fryksdalens Sparbank]]></name>
-        <description>Fryksdalens Sparbank, Sysslebäck, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Fryksdalens Sparbank, Sysslebäck, Sverige]]></description>
         <Point><coordinates>12.871137,60.730884,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Mjöbäcks Sparbank]]></name>
-        <description>Mjöbäcks Sparbank, Mjöbäck, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Mjöbäcks Sparbank, Mjöbäck, Sverige]]></description>
         <Point><coordinates>12.894,57.349,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Säffle, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Säffle, Sverige]]></description>
         <Point><coordinates>12.929839,59.132091,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Laholms Sparbank]]></name>
-        <description>Laholms Sparbank, Skummeslöv, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Laholms Sparbank, Skummeslöv, Sverige]]></description>
         <Point><coordinates>12.93005,56.44712,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Limhamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Limhamn, Sverige]]></description>
         <Point><coordinates>12.932082,55.582313,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Sjuhärad AB (publ)]]></name>
-        <description>Sparbanken Sjuhärad AB (publ), Borås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Sjuhärad AB (publ), Borås, Sverige]]></description>
         <Point><coordinates>12.943713,57.719329,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Sjuhärad AB (publ)]]></name>
-        <description>Sparbanken Sjuhärad AB (publ), Borås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Sjuhärad AB (publ), Borås, Sverige]]></description>
         <Point><coordinates>12.944066,57.71926,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Åstorp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Åstorp, Sverige]]></description>
         <Point><coordinates>12.947645,56.13449,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Höllviken, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Höllviken, Sverige]]></description>
         <Point><coordinates>12.950712,55.417202,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Skaraborg AB]]></name>
-        <description>Sparbanken Skaraborg AB, Vara, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Skaraborg AB, Vara, Sverige]]></description>
         <Point><coordinates>12.9528,58.26217,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Ekeby Sparbank]]></name>
-        <description>Ekeby Sparbank, Ekeby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Ekeby Sparbank, Ekeby, Sverige]]></description>
         <Point><coordinates>12.972895,56.000753,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Skåne AB (publ)]]></name>
-        <description>Sparbanken Skåne AB (publ), Löddeköpinge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Skåne AB (publ), Löddeköpinge, Sverige]]></description>
         <Point><coordinates>12.994476,55.766961,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Skaraborg AB]]></name>
-        <description>Sparbanken Skaraborg AB, Vedum, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Skaraborg AB, Vedum, Sverige]]></description>
         <Point><coordinates>12.99516,58.170619,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Malmö, Sverige]]></description>
         <Point><coordinates>13.001652,55.602902,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Södervärn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Södervärn, Sverige]]></description>
         <Point><coordinates>13.005305,55.589636,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Torsby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Torsby, Sverige]]></description>
         <Point><coordinates>13.005819,60.135612,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Sjuhärad AB (publ)]]></name>
-        <description>Sparbanken Sjuhärad AB (publ), Fristad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Sjuhärad AB (publ), Fristad, Sverige]]></description>
         <Point><coordinates>13.008176,57.824594,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Alingsås AB]]></name>
-        <description>Sparbanken Alingsås AB, Herrljunga, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Alingsås AB, Herrljunga, Sverige]]></description>
         <Point><coordinates>13.022495,58.077983,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Laholms Sparbank]]></name>
-        <description>Laholms Sparbank, Laholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Laholms Sparbank, Laholm, Sverige]]></description>
         <Point><coordinates>13.0439,56.51383,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Bulltofta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Bulltofta, Sverige]]></description>
         <Point><coordinates>13.063175,55.596359,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Lomma, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Lomma, Sverige]]></description>
         <Point><coordinates>13.06907,55.673007,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Åre, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Åre, Sverige]]></description>
         <Point><coordinates>13.078442,63.400756,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Södra Hestra Sparbank]]></name>
-        <description>Södra Hestra Sparbank, Torup, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Södra Hestra Sparbank, Torup, Sverige]]></description>
         <Point><coordinates>13.08014,56.957015,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Skåne AB (publ)]]></name>
-        <description>Sparbanken Skåne AB (publ), Svalöv, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Skåne AB (publ), Svalöv, Sverige]]></description>
         <Point><coordinates>13.107396,55.913636,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Skåne AB (publ)]]></name>
-        <description>Sparbanken Skåne AB (publ), Kävlinge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Skåne AB (publ), Kävlinge, Sverige]]></description>
         <Point><coordinates>13.109202,55.790563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Sjuhärad AB (publ)]]></name>
-        <description>Sparbanken Sjuhärad AB (publ), Svenljunga, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Sjuhärad AB (publ), Svenljunga, Sverige]]></description>
         <Point><coordinates>13.109873,57.494881,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Laholms Sparbank]]></name>
-        <description>Laholms Sparbank, Våxtorp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Laholms Sparbank, Våxtorp, Sverige]]></description>
         <Point><coordinates>13.12103,56.4169,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Klippan, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Klippan, Sverige]]></description>
         <Point><coordinates>13.131631,56.13543,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Fryksdalens Sparbank]]></name>
-        <description>Fryksdalens Sparbank, Fryksdalen privat, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Fryksdalens Sparbank, Fryksdalen privat, Sverige]]></description>
         <Point><coordinates>13.145121,59.837181,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Trelleborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Trelleborg, Sverige]]></description>
         <Point><coordinates>13.156255,55.373921,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Lidköping AB]]></name>
-        <description>Sparbanken Lidköping AB, Lidköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Lidköping AB, Lidköping, Sverige]]></description>
         <Point><coordinates>13.158008,58.502855,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Skåne AB (publ)]]></name>
-        <description>Sparbanken Skåne AB (publ), Lund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Skåne AB (publ), Lund, Sverige]]></description>
         <Point><coordinates>13.192534,55.704253,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Skåne AB (publ)]]></name>
-        <description>Sparbanken Skåne AB (publ), Staffanstorp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Skåne AB (publ), Staffanstorp, Sverige]]></description>
         <Point><coordinates>13.207683,55.643924,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Skåne AB (publ)]]></name>
-        <description>Sparbanken Skåne AB (publ), Lund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Skåne AB (publ), Lund, Sverige]]></description>
         <Point><coordinates>13.21389,55.717478,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Svedala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Svedala, Sverige]]></description>
         <Point><coordinates>13.235865,55.508485,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Södra Hestra Sparbank]]></name>
-        <description>Södra Hestra Sparbank, Hyltebruk, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Södra Hestra Sparbank, Hyltebruk, Sverige]]></description>
         <Point><coordinates>13.238933,56.999051,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Örkelljunga, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Örkelljunga, Sverige]]></description>
         <Point><coordinates>13.276674,56.283548,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Södra Hestra Sparbank]]></name>
-        <description>Södra Hestra Sparbank, Burseryd, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Södra Hestra Sparbank, Burseryd, Sverige]]></description>
         <Point><coordinates>13.284326,57.202611,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Skåne AB (publ)]]></name>
-        <description>Sparbanken Skåne AB (publ), Eslöv, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Skåne AB (publ), Eslöv, Sverige]]></description>
         <Point><coordinates>13.30325,55.838644,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Boken]]></name>
-        <description>Sparbanken Boken, Hishult, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Boken, Hishult, Sverige]]></description>
         <Point><coordinates>13.316458,56.426658,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Laholms Sparbank]]></name>
-        <description>Laholms Sparbank, Knäred, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Laholms Sparbank, Knäred, Sverige]]></description>
         <Point><coordinates>13.31709,56.51731,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Kil, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Kil, Sverige]]></description>
         <Point><coordinates>13.317821,59.503883,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Tranemo]]></name>
-        <description>Sparbanken Tranemo, Tranemo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Tranemo, Tranemo, Sverige]]></description>
         <Point><coordinates>13.352378,57.484468,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Ulricehamns Sparbank]]></name>
-        <description>Ulricehamns Sparbank, Ulricehamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Ulricehamns Sparbank, Ulricehamn, Sverige]]></description>
         <Point><coordinates>13.415437,57.795258,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Skaraborg AB]]></name>
-        <description>Sparbanken Skaraborg AB, Skara, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Skaraborg AB, Skara, Sverige]]></description>
         <Point><coordinates>13.437922,58.384217,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Boken]]></name>
-        <description>Sparbanken Boken, Skånes Fagerhult, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Boken, Skånes Fagerhult, Sverige]]></description>
         <Point><coordinates>13.467635,56.369798,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Skåne AB (publ)]]></name>
-        <description>Sparbanken Skåne AB (publ), Veberöd, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Skåne AB (publ), Veberöd, Sverige]]></description>
         <Point><coordinates>13.491687,55.634137,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Skaraborg AB]]></name>
-        <description>Sparbanken Skaraborg AB, Götene, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Skaraborg AB, Götene, Sverige]]></description>
         <Point><coordinates>13.49328,58.528669,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Skurups Sparbank]]></name>
-        <description>Skurups Sparbank, Skurup, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Skurups Sparbank, Skurup, Sverige]]></description>
         <Point><coordinates>13.50127,55.477966,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Karlstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Karlstad, Sverige]]></description>
         <Point><coordinates>13.504686,59.381376,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Göinge AB]]></name>
-        <description>Sparbanken Göinge AB, Röke, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Göinge AB, Röke, Sverige]]></description>
         <Point><coordinates>13.520812,56.234687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Södra Hestra Sparbank]]></name>
-        <description>Södra Hestra Sparbank, Unnaryd, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Södra Hestra Sparbank, Unnaryd, Sverige]]></description>
         <Point><coordinates>13.529433,56.954425,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Gislaved, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Gislaved, Sverige]]></description>
         <Point><coordinates>13.540182,57.302154,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Skåne AB (publ)]]></name>
-        <description>Sparbanken Skåne AB (publ), Höör, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Skåne AB (publ), Höör, Sverige]]></description>
         <Point><coordinates>13.540879,55.935361,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Falköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Falköping, Sverige]]></description>
         <Point><coordinates>13.552078,58.161675,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Markaryds Sparbank]]></name>
-        <description>Markaryds Sparbank, Markaryd, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Markaryds Sparbank, Markaryd, Sverige]]></description>
         <Point><coordinates>13.595299,56.461558,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Skåne AB (publ)]]></name>
-        <description>Sparbanken Skåne AB (publ), Hörby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Skåne AB (publ), Hörby, Sverige]]></description>
         <Point><coordinates>13.660429,55.853054,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Snapphanebygdens Sparbank]]></name>
-        <description>Snapphanebygdens Sparbank, Vittsjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Snapphanebygdens Sparbank, Vittsjö, Sverige]]></description>
         <Point><coordinates>13.664005,56.339446,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Hagfors, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Hagfors, Sverige]]></description>
         <Point><coordinates>13.700415,60.032254,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Skåne AB (publ)]]></name>
-        <description>Sparbanken Skåne AB (publ), Sjöbo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Skåne AB (publ), Sjöbo, Sverige]]></description>
         <Point><coordinates>13.706526,55.631687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Snapphanebygdens Sparbank]]></name>
-        <description>Snapphanebygdens Sparbank, Bjärnum, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Snapphanebygdens Sparbank, Bjärnum, Sverige]]></description>
         <Point><coordinates>13.710386,56.291613,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Snapphanebygdens Sparbank]]></name>
-        <description>Snapphanebygdens Sparbank, Bjärnum, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Snapphanebygdens Sparbank, Bjärnum, Sverige]]></description>
         <Point><coordinates>13.710562,56.291562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Gnosjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Gnosjö, Sverige]]></description>
         <Point><coordinates>13.733485,57.357109,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Skåne AB (publ)]]></name>
-        <description>Sparbanken Skåne AB (publ), Hässleholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Skåne AB (publ), Hässleholm, Sverige]]></description>
         <Point><coordinates>13.766051,56.158671,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Göinge AB]]></name>
-        <description>Sparbanken Göinge AB, Farstorp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Göinge AB, Farstorp, Sverige]]></description>
         <Point><coordinates>13.794438,56.277313,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Mariestad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Mariestad, Sverige]]></description>
         <Point><coordinates>13.824127,58.709953,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Skåne AB (publ)]]></name>
-        <description>Sparbanken Skåne AB (publ), Ystad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Skåne AB (publ), Ystad, Sverige]]></description>
         <Point><coordinates>13.827292,55.430585,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Skövde, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Skövde, Sverige]]></description>
         <Point><coordinates>13.845094,58.388385,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Tidaholms Sparbank]]></name>
-        <description>Tidaholms Sparbank, Mullsjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Tidaholms Sparbank, Mullsjö, Sverige]]></description>
         <Point><coordinates>13.883129,57.91542,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Göinge AB]]></name>
-        <description>Sparbanken Göinge AB, Vinslöv, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Göinge AB, Vinslöv, Sverige]]></description>
         <Point><coordinates>13.916011,56.103648,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Ljungby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Ljungby, Sverige]]></description>
         <Point><coordinates>13.937302,56.833661,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Skåne AB (publ)]]></name>
-        <description>Sparbanken Skåne AB (publ), Tomelilla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Skåne AB (publ), Tomelilla, Sverige]]></description>
         <Point><coordinates>13.9531,55.543081,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Eken  AB]]></name>
-        <description>Sparbanken Eken  AB, Delary, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Eken  AB, Delary, Sverige]]></description>
         <Point><coordinates>13.954338,56.547774,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Tidaholms Sparbank]]></name>
-        <description>Tidaholms Sparbank, Tidaholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Tidaholms Sparbank, Tidaholm, Sverige]]></description>
         <Point><coordinates>13.956896,58.180535,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Skåne AB (publ)]]></name>
-        <description>Sparbanken Skåne AB (publ), Osby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Skåne AB (publ), Osby, Sverige]]></description>
         <Point><coordinates>13.996262,56.380069,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Värnamo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Värnamo, Sverige]]></description>
         <Point><coordinates>14.041076,57.18507,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Skåne AB (publ)]]></name>
-        <description>Sparbanken Skåne AB (publ), Broby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Skåne AB (publ), Broby, Sverige]]></description>
         <Point><coordinates>14.07762,56.255258,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Kristinehamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Kristinehamn, Sverige]]></description>
         <Point><coordinates>14.108645,59.309638,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Göinge AB]]></name>
-        <description>Sparbanken Göinge AB, Glimåkra, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Göinge AB, Glimåkra, Sverige]]></description>
         <Point><coordinates>14.138248,56.305678,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Älmhult, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Älmhult, Sverige]]></description>
         <Point><coordinates>14.141011,56.553611,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Vaggeryd, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Vaggeryd, Sverige]]></description>
         <Point><coordinates>14.149026,57.498562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Skåne AB (publ)]]></name>
-        <description>Sparbanken Skåne AB (publ), Näsby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Skåne AB (publ), Näsby, Sverige]]></description>
         <Point><coordinates>14.151861,56.043848,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Skåne AB (publ)]]></name>
-        <description>Sparbanken Skåne AB (publ), Kristianstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Skåne AB (publ), Kristianstad, Sverige]]></description>
         <Point><coordinates>14.158671,56.030037,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Tibro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Tibro, Sverige]]></description>
         <Point><coordinates>14.162824,58.424536,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Jönköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Jönköping, Sverige]]></description>
         <Point><coordinates>14.169845,57.782179,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Skåne AB (publ)]]></name>
-        <description>Sparbanken Skåne AB (publ), Björkhem, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Skåne AB (publ), Björkhem, Sverige]]></description>
         <Point><coordinates>14.177053,56.028999,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Hjo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Hjo, Sverige]]></description>
         <Point><coordinates>14.287487,58.301511,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Skåne AB (publ)]]></name>
-        <description>Sparbanken Skåne AB (publ), Åhus, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Skåne AB (publ), Åhus, Sverige]]></description>
         <Point><coordinates>14.300837,55.926021,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Skåne AB (publ)]]></name>
-        <description>Sparbanken Skåne AB (publ), Simrishamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Skåne AB (publ), Simrishamn, Sverige]]></description>
         <Point><coordinates>14.350966,55.556563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Sveg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Sveg, Sverige]]></description>
         <Point><coordinates>14.359846,62.03321,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Ivetofta Sparbank i Bromölla]]></name>
-        <description>Ivetofta Sparbank i Bromölla, Bromölla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Ivetofta Sparbank i Bromölla, Bromölla, Sverige]]></description>
         <Point><coordinates>14.467336,56.073627,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Ivetofta Sparbank i Bromölla]]></name>
-        <description>Ivetofta Sparbank i Bromölla, Näsum, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Ivetofta Sparbank i Bromölla, Näsum, Sverige]]></description>
         <Point><coordinates>14.501872,56.175031,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Hällefors, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Hällefors, Sverige]]></description>
         <Point><coordinates>14.520503,59.783635,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Karlskoga, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Karlskoga, Sverige]]></description>
         <Point><coordinates>14.523302,59.325849,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken i Karlshamn]]></name>
-        <description>Sparbanken i Karlshamn, Olofströmskontoret, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken i Karlshamn, Olofströmskontoret, Sverige]]></description>
         <Point><coordinates>14.532363,56.277549,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Mora, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Mora, Sverige]]></description>
         <Point><coordinates>14.537481,61.004188,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Eken  AB]]></name>
-        <description>Sparbanken Eken  AB, Grimslöv, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Eken  AB, Grimslöv, Sverige]]></description>
         <Point><coordinates>14.542989,56.736636,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Alvesta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Alvesta, Sverige]]></description>
         <Point><coordinates>14.556383,56.900008,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sölvesborg-Mjällby Sparbank]]></name>
-        <description>Sölvesborg-Mjällby Sparbank, Sölvesborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sölvesborg-Mjällby Sparbank, Sölvesborg, Sverige]]></description>
         <Point><coordinates>14.583916,56.051549,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken i Karlshamn]]></name>
-        <description>Sparbanken i Karlshamn, Kyrkhult, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken i Karlshamn, Kyrkhult, Sverige]]></description>
         <Point><coordinates>14.587322,56.356003,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Östersund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Östersund, Sverige]]></description>
         <Point><coordinates>14.636758,63.179306,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Sävsjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Sävsjö, Sverige]]></description>
         <Point><coordinates>14.66525,57.401186,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sölvesborg-Mjällby Sparbank]]></name>
-        <description>Sölvesborg-Mjällby Sparbank, Mjällby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sölvesborg-Mjällby Sparbank, Mjällby, Sverige]]></description>
         <Point><coordinates>14.679321,56.046499,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Eken  AB]]></name>
-        <description>Sparbanken Eken  AB, Ryd, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Eken  AB, Ryd, Sverige]]></description>
         <Point><coordinates>14.693961,56.464146,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Nässjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Nässjö, Sverige]]></description>
         <Point><coordinates>14.69801,57.652601,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken i Karlshamn]]></name>
-        <description>Sparbanken i Karlshamn, Mörrum, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken i Karlshamn, Mörrum, Sverige]]></description>
         <Point><coordinates>14.745828,56.192651,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken i Karlshamn]]></name>
-        <description>Sparbanken i Karlshamn, Svängsta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken i Karlshamn, Svängsta, Sverige]]></description>
         <Point><coordinates>14.771196,56.262501,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Växjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Växjö, Sverige]]></description>
         <Point><coordinates>14.804614,56.878953,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken i Karlshamn]]></name>
-        <description>Sparbanken i Karlshamn, Asarum, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken i Karlshamn, Asarum, Sverige]]></description>
         <Point><coordinates>14.833076,56.207128,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken i Karlshamn]]></name>
-        <description>Sparbanken i Karlshamn, Karlshamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken i Karlshamn, Karlshamn, Sverige]]></description>
         <Point><coordinates>14.861707,56.170602,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lekebergs Sparbank]]></name>
-        <description>Lekebergs Sparbank, Lekeberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lekebergs Sparbank, Lekeberg, Sverige]]></description>
         <Point><coordinates>14.871569,59.173268,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Vadstena Sparbank]]></name>
-        <description>Vadstena Sparbank, Vadstena, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Vadstena Sparbank, Vadstena, Sverige]]></description>
         <Point><coordinates>14.88966,58.447819,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Eksjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Eksjö, Sverige]]></description>
         <Point><coordinates>14.972,57.666287,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Tranås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Tranås, Sverige]]></description>
         <Point><coordinates>14.97716,58.03645,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Tingsryd, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Tingsryd, Sverige]]></description>
         <Point><coordinates>14.980037,56.525105,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bergslagens Sparbank AB]]></name>
-        <description>Bergslagens Sparbank AB, Kopparberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bergslagens Sparbank AB, Kopparberg, Sverige]]></description>
         <Point><coordinates>14.992945,59.875356,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Leksands Sparbank]]></name>
-        <description>Leksands Sparbank, Leksand, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Leksands Sparbank, Leksand, Sverige]]></description>
         <Point><coordinates>14.9957,60.73157,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Eken  AB]]></name>
-        <description>Sparbanken Eken  AB, Åryd, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Eken  AB, Åryd, Sverige]]></description>
         <Point><coordinates>15.03045,56.20698,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Motala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Motala, Sverige]]></description>
         <Point><coordinates>15.036258,58.535817,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bergslagens Sparbank AB]]></name>
-        <description>Bergslagens Sparbank AB, Nora, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bergslagens Sparbank AB, Nora, Sverige]]></description>
         <Point><coordinates>15.038049,59.519746,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Vetlanda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Vetlanda, Sverige]]></description>
         <Point><coordinates>15.085763,57.426536,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Leksands Sparbank]]></name>
-        <description>Leksands Sparbank, Gagnef, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Leksands Sparbank, Gagnef, Sverige]]></description>
         <Point><coordinates>15.0898,60.67562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Leksands Sparbank]]></name>
-        <description>Leksands Sparbank, Rättvik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Leksands Sparbank, Rättvik, Sverige]]></description>
         <Point><coordinates>15.117949,60.885927,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Mjölby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Mjölby, Sverige]]></description>
         <Point><coordinates>15.130319,58.325478,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Djurås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Djurås, Sverige]]></description>
         <Point><coordinates>15.130535,60.560345,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bergslagens Sparbank AB]]></name>
-        <description>Bergslagens Sparbank AB, Guldsmedshyttan, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bergslagens Sparbank AB, Guldsmedshyttan, Sverige]]></description>
         <Point><coordinates>15.13378,59.713696,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Kumla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Kumla, Sverige]]></description>
         <Point><coordinates>15.143649,59.126599,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Ludvika, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Ludvika, Sverige]]></description>
         <Point><coordinates>15.184599,60.149278,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), City örebro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), City örebro, Sverige]]></description>
         <Point><coordinates>15.21113,59.271483,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bergslagens Sparbank AB]]></name>
-        <description>Bergslagens Sparbank AB, Lindesberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bergslagens Sparbank AB, Lindesberg, Sverige]]></description>
         <Point><coordinates>15.226392,59.594268,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bergslagens Sparbank AB]]></name>
-        <description>Bergslagens Sparbank AB, Lindesberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bergslagens Sparbank AB, Lindesberg, Sverige]]></description>
         <Point><coordinates>15.227942,59.59063,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Eken  AB]]></name>
-        <description>Sparbanken Eken  AB, Älmeboda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Eken  AB, Älmeboda, Sverige]]></description>
         <Point><coordinates>15.268312,56.555582,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Kinda-Ydre Sparbank]]></name>
-        <description>Kinda-Ydre Sparbank, Österbymo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Kinda-Ydre Sparbank, Österbymo, Sverige]]></description>
         <Point><coordinates>15.276518,57.823866,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Ronneby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Ronneby, Sverige]]></description>
         <Point><coordinates>15.277248,56.209847,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Åseda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Åseda, Sverige]]></description>
         <Point><coordinates>15.344603,57.170149,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bergslagens Sparbank AB]]></name>
-        <description>Bergslagens Sparbank AB, Frövi, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bergslagens Sparbank AB, Frövi, Sverige]]></description>
         <Point><coordinates>15.36358,59.46662,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Norrbärke Sparbank]]></name>
-        <description>Norrbärke Sparbank, Norrbärke, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Norrbärke Sparbank, Norrbärke, Sverige]]></description>
         <Point><coordinates>15.410994,60.140278,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Borlänge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Borlänge, Sverige]]></description>
         <Point><coordinates>15.43221,60.48561,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bjursås Sparbank]]></name>
-        <description>Bjursås Sparbank, Bjursås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bjursås Sparbank, Bjursås, Sverige]]></description>
         <Point><coordinates>15.444044,60.739596,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Eken  AB]]></name>
-        <description>Sparbanken Eken  AB, Långasjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Eken  AB, Långasjö, Sverige]]></description>
         <Point><coordinates>15.446378,56.578116,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Strömsund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Strömsund, Sverige]]></description>
         <Point><coordinates>15.558867,63.851591,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Virserums Sparbank]]></name>
-        <description>Virserums Sparbank, Virserum, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Virserums Sparbank, Virserum, Sverige]]></description>
         <Point><coordinates>15.58117,57.319584,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Karlskrona, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Karlskrona, Sverige]]></description>
         <Point><coordinates>15.583556,56.161467,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Bergslagens Sparbank AB]]></name>
-        <description>Bergslagens Sparbank AB, Fellingsbro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Bergslagens Sparbank AB, Fellingsbro, Sverige]]></description>
         <Point><coordinates>15.593005,59.434254,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Linköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Linköping, Sverige]]></description>
         <Point><coordinates>15.626976,58.411098,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Kinda-Ydre Sparbank]]></name>
-        <description>Kinda-Ydre Sparbank, Kisa, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Kinda-Ydre Sparbank, Kisa, Sverige]]></description>
         <Point><coordinates>15.633172,57.989319,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Falun, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Falun, Sverige]]></description>
         <Point><coordinates>15.634713,60.605254,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Kinda-Ydre Sparbank]]></name>
-        <description>Kinda-Ydre Sparbank, Rimforsa, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Kinda-Ydre Sparbank, Rimforsa, Sverige]]></description>
         <Point><coordinates>15.685149,58.136746,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lönneberga-Tuna-Vena Sparbank]]></name>
-        <description>Lönneberga-Tuna-Vena Sparbank, Silverdalen, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lönneberga-Tuna-Vena Sparbank, Silverdalen, Sverige]]></description>
         <Point><coordinates>15.752026,57.542629,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Finspång, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Finspång, Sverige]]></description>
         <Point><coordinates>15.772618,58.70722,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Södra Dalarnas Sparbank AB]]></name>
-        <description>Södra Dalarnas Sparbank AB, Säter, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Södra Dalarnas Sparbank AB, Säter, Sverige]]></description>
         <Point><coordinates>15.807348,60.404502,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Västra Mälardalen]]></name>
-        <description>Sparbanken Västra Mälardalen, Arboga, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Västra Mälardalen, Arboga, Sverige]]></description>
         <Point><coordinates>15.838931,59.39469,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Kinda-Ydre Sparbank]]></name>
-        <description>Kinda-Ydre Sparbank, Horn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Kinda-Ydre Sparbank, Horn, Sverige]]></description>
         <Point><coordinates>15.839974,57.90006,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Hultsfred, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Hultsfred, Sverige]]></description>
         <Point><coordinates>15.842911,57.487596,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Vimmerby Sparbank AB]]></name>
-        <description>Vimmerby Sparbank AB, Vimmerby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Vimmerby Sparbank AB, Vimmerby, Sverige]]></description>
         <Point><coordinates>15.854386,57.666631,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sörmlands Sparbank]]></name>
-        <description>Sörmlands Sparbank, Vingåker, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sörmlands Sparbank, Vingåker, Sverige]]></description>
         <Point><coordinates>15.874432,59.043059,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Nybro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Nybro, Sverige]]></description>
         <Point><coordinates>15.908459,56.744051,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[LÖNNEBERGA-TUNA-VENA SPARBANK]]></name>
-        <description>LÖNNEBERGA-TUNA-VENA SPARBANK, Vena, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[LÖNNEBERGA-TUNA-VENA SPARBANK, Vena, Sverige]]></description>
         <Point><coordinates>15.968839,57.523357,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Södra Dalarnas Sparbank AB]]></name>
-        <description>Södra Dalarnas Sparbank AB, Hedemora, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Södra Dalarnas Sparbank AB, Hedemora, Sverige]]></description>
         <Point><coordinates>15.986,60.27702,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Västra Mälardalen]]></name>
-        <description>Sparbanken Västra Mälardalen, Köping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Västra Mälardalen, Köping, Sverige]]></description>
         <Point><coordinates>15.996664,59.513281,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Åtvidabergs Sparbank]]></name>
-        <description>Åtvidabergs Sparbank, Åtvidaberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Åtvidabergs Sparbank, Åtvidaberg, Sverige]]></description>
         <Point><coordinates>15.997961,58.202256,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Högsby Sparbank]]></name>
-        <description>Högsby Sparbank, Högsby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Högsby Sparbank, Högsby, Sverige]]></description>
         <Point><coordinates>16.028175,57.163455,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Ljusdal, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Ljusdal, Sverige]]></description>
         <Point><coordinates>16.09463,61.828024,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Västra Mälardalen]]></name>
-        <description>Sparbanken Västra Mälardalen, Kungsör, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Västra Mälardalen, Kungsör, Sverige]]></description>
         <Point><coordinates>16.095324,59.424107,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Lönneberga-Tuna-Vena Sparbank]]></name>
-        <description>Lönneberga-Tuna-Vena Sparbank, Tuna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Lönneberga-Tuna-Vena Sparbank, Tuna, Sverige]]></description>
         <Point><coordinates>16.10442,57.577595,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Avesta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Avesta, Sverige]]></description>
         <Point><coordinates>16.168253,60.145881,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Hälsinglands Sparbank]]></name>
-        <description>Hälsinglands Sparbank, Järvsö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Hälsinglands Sparbank, Järvsö, Sverige]]></description>
         <Point><coordinates>16.169416,61.715841,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Norrköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Norrköping, Sverige]]></description>
         <Point><coordinates>16.191352,58.587601,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sörmlands Sparbank]]></name>
-        <description>Sörmlands Sparbank, Katrineholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sörmlands Sparbank, Katrineholm, Sverige]]></description>
         <Point><coordinates>16.208296,58.995244,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Hallstahammar, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Hallstahammar, Sverige]]></description>
         <Point><coordinates>16.228714,59.613644,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Häradssparbanken Mönsterås]]></name>
-        <description>Häradssparbanken Mönsterås, Fliseryd, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Häradssparbanken Mönsterås, Fliseryd, Sverige]]></description>
         <Point><coordinates>16.264259,57.127748,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Söderköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Söderköping, Sverige]]></description>
         <Point><coordinates>16.323754,58.480208,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Ålems Sparbank]]></name>
-        <description>Ålems Sparbank, Blomstermåla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Ålems Sparbank, Blomstermåla, Sverige]]></description>
         <Point><coordinates>16.332194,56.981465,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Tjustbygdens Sparbank AB]]></name>
-        <description>Tjustbygdens Sparbank AB, Ankarsrum, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Tjustbygdens Sparbank AB, Ankarsrum, Sverige]]></description>
         <Point><coordinates>16.33632,57.69899,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Kalmar, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Kalmar, Sverige]]></description>
         <Point><coordinates>16.364029,56.663737,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Ålems Sparbank]]></name>
-        <description>Ålems Sparbank, Ålem, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Ålems Sparbank, Ålem, Sverige]]></description>
         <Point><coordinates>16.385665,56.947089,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Bollnäs, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Bollnäs, Sverige]]></description>
         <Point><coordinates>16.393833,61.347662,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Tjustbygdens Sparbank AB]]></name>
-        <description>Tjustbygdens Sparbank AB, Gamleby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Tjustbygdens Sparbank AB, Gamleby, Sverige]]></description>
         <Point><coordinates>16.40121,57.89785,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Häradssparbanken Mönsterås]]></name>
-        <description>Häradssparbanken Mönsterås, Mönsterås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Häradssparbanken Mönsterås, Mönsterås, Sverige]]></description>
         <Point><coordinates>16.446904,57.044055,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Oskarshamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Oskarshamn, Sverige]]></description>
         <Point><coordinates>16.446907,57.264904,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Ölands Bank AB]]></name>
-        <description>Ölands Bank AB, Färjestaden, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Ölands Bank AB, Färjestaden, Sverige]]></description>
         <Point><coordinates>16.46836,56.65156,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Valdemarsviks Sparbank]]></name>
-        <description>Valdemarsviks Sparbank, Valdemarsvik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Valdemarsviks Sparbank, Valdemarsvik, Sverige]]></description>
         <Point><coordinates>16.496921,58.265173,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Rekarne AB]]></name>
-        <description>Sparbanken Rekarne AB, Eskilstuna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Rekarne AB, Eskilstuna, Sverige]]></description>
         <Point><coordinates>16.516461,59.369539,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Västerås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Västerås, Sverige]]></description>
         <Point><coordinates>16.55269,59.606961,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Hälsinglands Sparbank]]></name>
-        <description>Hälsinglands Sparbank, Delsbo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Hälsinglands Sparbank, Delsbo, Sverige]]></description>
         <Point><coordinates>16.55308,61.799147,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sörmlands Sparbank]]></name>
-        <description>Sörmlands Sparbank, Flen, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sörmlands Sparbank, Flen, Sverige]]></description>
         <Point><coordinates>16.590305,59.059338,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Valdemarsviks Sparbank]]></name>
-        <description>Valdemarsviks Sparbank, Valdemarsvik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Valdemarsviks Sparbank, Valdemarsvik, Sverige]]></description>
         <Point><coordinates>16.602091,58.203445,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sala Sparbank]]></name>
-        <description>Sala Sparbank, Sala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sala Sparbank, Sala, Sverige]]></description>
         <Point><coordinates>16.606728,59.919986,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Tjustbygdens Sparbank AB]]></name>
-        <description>Tjustbygdens Sparbank AB, Västervik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Tjustbygdens Sparbank AB, Västervik, Sverige]]></description>
         <Point><coordinates>16.638517,57.757941,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Vilhelmina, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Vilhelmina, Sverige]]></description>
         <Point><coordinates>16.653758,64.62557,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Ölands Bank AB]]></name>
-        <description>Ölands Bank AB, Borgholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Ölands Bank AB, Borgholm, Sverige]]></description>
         <Point><coordinates>16.656808,56.879369,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Sandviken, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Sandviken, Sverige]]></description>
         <Point><coordinates>16.775893,60.619918,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sala Sparbank]]></name>
-        <description>Sala Sparbank, Heby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sala Sparbank, Heby, Sverige]]></description>
         <Point><coordinates>16.861931,59.938678,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sala Sparbank]]></name>
-        <description>Sala Sparbank, Tärnsjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sala Sparbank, Tärnsjö, Sverige]]></description>
         <Point><coordinates>16.928562,60.153937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sörmlands Sparbank]]></name>
-        <description>Sörmlands Sparbank, Nyköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sörmlands Sparbank, Nyköping, Sverige]]></description>
         <Point><coordinates>17.012437,58.754062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Matfors, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Matfors, Sverige]]></description>
         <Point><coordinates>17.019014,62.347721,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Rekarne AB]]></name>
-        <description>Sparbanken Rekarne AB, Strängnäs, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Rekarne AB, Strängnäs, Sverige]]></description>
         <Point><coordinates>17.027415,59.376034,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Hälsinglands Sparbank]]></name>
-        <description>Hälsinglands Sparbank, Lucksta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Hälsinglands Sparbank, Lucksta, Sverige]]></description>
         <Point><coordinates>17.050562,62.296688,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Söderhamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Söderhamn, Sverige]]></description>
         <Point><coordinates>17.06076,61.29985,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Hälsinglands Sparbank]]></name>
-        <description>Hälsinglands Sparbank, Iggesund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Hälsinglands Sparbank, Iggesund, Sverige]]></description>
         <Point><coordinates>17.07484,61.64353,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken i Enköping]]></name>
-        <description>Sparbanken i Enköping, Enköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken i Enköping, Enköping, Sverige]]></description>
         <Point><coordinates>17.076152,59.636944,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sörmlands Sparbank]]></name>
-        <description>Sörmlands Sparbank, Oxelösund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sörmlands Sparbank, Oxelösund, Sverige]]></description>
         <Point><coordinates>17.10439,58.66947,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Hälsinglands Sparbank]]></name>
-        <description>Hälsinglands Sparbank, Hudiksvall, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Hälsinglands Sparbank, Hudiksvall, Sverige]]></description>
         <Point><coordinates>17.107674,61.727577,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Storuman, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Storuman, Sverige]]></description>
         <Point><coordinates>17.115104,65.095888,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Gävle city, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Gävle city, Sverige]]></description>
         <Point><coordinates>17.142208,60.67537,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sala Sparbank]]></name>
-        <description>Sala Sparbank, Östervåla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sala Sparbank, Östervåla, Sverige]]></description>
         <Point><coordinates>17.179777,60.181376,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Rekarne AB]]></name>
-        <description>Sparbanken Rekarne AB, Mariefred, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Rekarne AB, Mariefred, Sverige]]></description>
         <Point><coordinates>17.22233,59.25968,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Sollefteå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Sollefteå, Sverige]]></description>
         <Point><coordinates>17.268823,63.16761,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Sundsvall, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Sundsvall, Sverige]]></description>
         <Point><coordinates>17.30985,62.390915,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Gnesta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Gnesta, Sverige]]></description>
         <Point><coordinates>17.310572,59.047976,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Timrå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Timrå, Sverige]]></description>
         <Point><coordinates>17.324623,62.487023,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Tierp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Tierp, Sverige]]></description>
         <Point><coordinates>17.513718,60.343862,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken i Enköping]]></name>
-        <description>Sparbanken i Enköping, Bålsta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken i Enköping, Bålsta, Sverige]]></description>
         <Point><coordinates>17.529671,59.569684,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Trosa, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Trosa, Sverige]]></description>
         <Point><coordinates>17.548485,58.896535,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Södertälje, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Södertälje, Sverige]]></description>
         <Point><coordinates>17.627185,59.196126,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Uppsala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Uppsala, Sverige]]></description>
         <Point><coordinates>17.647578,59.856737,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Gränby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Gränby, Sverige]]></description>
         <Point><coordinates>17.670449,59.878563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Sigtuna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Sigtuna, Sverige]]></description>
         <Point><coordinates>17.722336,59.616746,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken i Enköping]]></name>
-        <description>Sparbanken i Enköping, Kungsängen, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken i Enköping, Kungsängen, Sverige]]></description>
         <Point><coordinates>17.750617,59.479336,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Knivsta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Knivsta, Sverige]]></description>
         <Point><coordinates>17.787595,59.726271,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Järfälla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Järfälla, Sverige]]></description>
         <Point><coordinates>17.83646,59.422669,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sidensjö Sparbank]]></name>
-        <description>Sidensjö Sparbank, Skorped, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sidensjö Sparbank, Skorped, Sverige]]></description>
         <Point><coordinates>17.856434,63.384308,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Vällingby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Vällingby, Sverige]]></description>
         <Point><coordinates>17.87318,59.361711,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Nord]]></name>
-        <description>Sparbanken Nord, Arjeplog, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Nord, Arjeplog, Sverige]]></description>
         <Point><coordinates>17.888557,66.051821,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Upplands Väsby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Upplands Väsby, Sverige]]></description>
         <Point><coordinates>17.92635,59.499592,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Brommaplan, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Brommaplan, Sverige]]></description>
         <Point><coordinates>17.93772,59.33768,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Härnösand, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Härnösand, Sverige]]></description>
         <Point><coordinates>17.938603,62.633494,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Nynäshamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Nynäshamn, Sverige]]></description>
         <Point><coordinates>17.949027,58.903198,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Sollentuna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Sollentuna, Sverige]]></description>
         <Point><coordinates>17.95043,59.430628,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Sundbyberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Sundbyberg, Sverige]]></description>
         <Point><coordinates>17.97261,59.36003,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Huddinge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Huddinge, Sverige]]></description>
         <Point><coordinates>17.980154,59.236432,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Solna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Solna, Sverige]]></description>
         <Point><coordinates>18.000028,59.359072,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Marievik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Marievik, Sverige]]></description>
         <Point><coordinates>18.02816,59.30931,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Danderyd, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Danderyd, Sverige]]></description>
         <Point><coordinates>18.03674,59.39859,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Stockholm, Sverige]]></description>
         <Point><coordinates>18.04937,59.343186,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Täby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Täby, Sverige]]></description>
         <Point><coordinates>18.068226,59.443189,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Stockholm, Sverige]]></description>
         <Point><coordinates>18.069068,59.332479,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Södermalm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Södermalm, Sverige]]></description>
         <Point><coordinates>18.075285,59.307846,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Stockholm, Sverige]]></description>
         <Point><coordinates>18.079231,59.336451,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Stockholm, Sverige]]></description>
         <Point><coordinates>18.079384,59.297971,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Farsta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Farsta, Sverige]]></description>
         <Point><coordinates>18.094082,59.241455,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Nacka, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Nacka, Sverige]]></description>
         <Point><coordinates>18.12304,59.30468,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Lidingö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Lidingö, Sverige]]></description>
         <Point><coordinates>18.12347,59.3634,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Haninge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Haninge, Sverige]]></description>
         <Point><coordinates>18.140379,59.169467,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Nacka, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Nacka, Sverige]]></description>
         <Point><coordinates>18.166145,59.309077,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sidensjö Sparbank]]></name>
-        <description>Sidensjö Sparbank, Sidensjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sidensjö Sparbank, Sidensjö, Sverige]]></description>
         <Point><coordinates>18.27935,63.30106,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Gotland visby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Gotland visby, Sverige]]></description>
         <Point><coordinates>18.290872,57.633621,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Åkersberga, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Åkersberga, Sverige]]></description>
         <Point><coordinates>18.29592,59.48015,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Roslagens Sparbank]]></name>
-        <description>Roslagens Sparbank, Rimbo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Roslagens Sparbank, Rimbo, Sverige]]></description>
         <Point><coordinates>18.367341,59.743653,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Östhammar, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Östhammar, Sverige]]></description>
         <Point><coordinates>18.37058,60.25855,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Hemse, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Hemse, Sverige]]></description>
         <Point><coordinates>18.37634,57.239726,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Gotland]]></name>
-        <description>Sparbanken Gotland, Roma, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Gotland, Roma, Sverige]]></description>
         <Point><coordinates>18.456313,57.504062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Gotland]]></name>
-        <description>Sparbanken Gotland, Hemse, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Gotland, Hemse, Sverige]]></description>
         <Point><coordinates>18.47247,57.28128,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Roslagens Sparbank]]></name>
-        <description>Roslagens Sparbank, Hallstavik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Roslagens Sparbank, Hallstavik, Sverige]]></description>
         <Point><coordinates>18.596868,60.049106,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Lycksele, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Lycksele, Sverige]]></description>
         <Point><coordinates>18.677122,64.594904,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Roslagens Sparbank]]></name>
-        <description>Roslagens Sparbank, Norrtälje, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Roslagens Sparbank, Norrtälje, Sverige]]></description>
         <Point><coordinates>18.702688,59.758688,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Roslagens Sparbank]]></name>
-        <description>Roslagens Sparbank, Norrtälje, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Roslagens Sparbank, Norrtälje, Sverige]]></description>
         <Point><coordinates>18.70271,59.758651,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Örnsköldsvik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Örnsköldsvik, Sverige]]></description>
         <Point><coordinates>18.715669,63.288733,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Malå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Malå, Sverige]]></description>
         <Point><coordinates>18.743356,65.18237,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Roslagens Sparbank]]></name>
-        <description>Roslagens Sparbank, Älmsta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Roslagens Sparbank, Älmsta, Sverige]]></description>
         <Point><coordinates>18.807178,59.971142,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Nord]]></name>
-        <description>Sparbanken Nord, Arvidsjaur, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Nord, Arvidsjaur, Sverige]]></description>
         <Point><coordinates>19.174841,65.593186,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Nord]]></name>
-        <description>Sparbanken Nord, Jokkmokk, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Nord, Jokkmokk, Sverige]]></description>
         <Point><coordinates>19.82891,66.607144,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Umeå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Umeå, Sverige]]></description>
         <Point><coordinates>20.261785,63.825471,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Umeå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Umeå, Sverige]]></description>
         <Point><coordinates>20.265551,63.825526,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Nord]]></name>
-        <description>Sparbanken Nord, Kiruna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Nord, Kiruna, Sverige]]></description>
         <Point><coordinates>20.301085,67.848709,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Nord]]></name>
-        <description>Sparbanken Nord, Gällivare, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Nord, Gällivare, Sverige]]></description>
         <Point><coordinates>20.657664,67.135259,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Skellefteå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Skellefteå, Sverige]]></description>
         <Point><coordinates>20.954607,64.750793,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Nord]]></name>
-        <description>Sparbanken Nord, Älvsbyn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Nord, Älvsbyn, Sverige]]></description>
         <Point><coordinates>21.008383,65.673592,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Nord]]></name>
-        <description>Sparbanken Nord, Öjebyn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Nord, Öjebyn, Sverige]]></description>
         <Point><coordinates>21.396163,65.341883,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Nord]]></name>
-        <description>Sparbanken Nord, Piteå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Nord, Piteå, Sverige]]></description>
         <Point><coordinates>21.48122,65.316215,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Boden, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Boden, Sverige]]></description>
         <Point><coordinates>21.688318,65.824737,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Luleå, Sverige]]></description>
         <Point><coordinates>22.153264,65.583194,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Nord]]></name>
-        <description>Sparbanken Nord, Överkalix, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Nord, Överkalix, Sverige]]></description>
         <Point><coordinates>22.842131,66.328721,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Kalix, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Kalix, Sverige]]></description>
         <Point><coordinates>23.140788,65.85564,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Nord]]></name>
-        <description>Sparbanken Nord, Pajala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Nord, Pajala, Sverige]]></description>
         <Point><coordinates>23.369243,67.210985,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Sparbanken Nord]]></name>
-        <description>Sparbanken Nord, Övertorneå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Sparbanken Nord, Övertorneå, Sverige]]></description>
         <Point><coordinates>23.659451,66.38392,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Swedbank AB (publ)]]></name>
-        <description>Swedbank AB (publ), Haparanda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Swedbank AB (publ), Haparanda, Sverige]]></description>
         <Point><coordinates>24.138561,65.835429,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
     </Folder>
   </Document>

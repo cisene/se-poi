@@ -1,427 +1,396 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Pinchos</name>
+    <name><![CDATA[Pinchos]]></name>
     <description/>
-    <Style id="icon-22-normal">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-22-highlight">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-22">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-22-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-22-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
+    <Style id="icon-22-normal"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>
+    <Style id="icon-22-highlight"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>1.1</scale></LabelStyle></Style>
+    <StyleMap id="icon-22"><Pair><key>normal</key><styleUrl>#icon-22-normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#icon-22-highlight</styleUrl></Pair></StyleMap>
     <Folder>
       <name><![CDATA[Pinchos]]></name>
       <Placemark>
         <name><![CDATA[Pinchos, Trädgårdsgatan 3]]></name>
-        <description>Pinchos, Trädgårdsgatan 3, Uddevalla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Trädgårdsgatan 3, Uddevalla, Sverige]]></description>
         <Point><coordinates>11.937812,58.349812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Övre Majorsgatan 4]]></name>
-        <description>Pinchos, Övre Majorsgatan 4, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Övre Majorsgatan 4, Göteborg, Sverige]]></description>
         <Point><coordinates>11.951313,57.693562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Lilla Torget 3]]></name>
-        <description>Pinchos, Lilla Torget 3, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Lilla Torget 3, Göteborg, Sverige]]></description>
         <Point><coordinates>11.961688,57.705437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Götabergsgatan 28a]]></name>
-        <description>Pinchos, Götabergsgatan 28a, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Götabergsgatan 28a, Göteborg, Sverige]]></description>
         <Point><coordinates>11.973813,57.698187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Vasagatan 43b]]></name>
-        <description>Pinchos, Vasagatan 43b, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Vasagatan 43b, Göteborg, Sverige]]></description>
         <Point><coordinates>11.975313,57.700688,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Aranäs Allé 2]]></name>
-        <description>Pinchos, Aranäs Allé 2, Kungsbacka, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Aranäs Allé 2, Kungsbacka, Sverige]]></description>
         <Point><coordinates>12.075688,57.484687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Drottninggatan 27]]></name>
-        <description>Pinchos, Drottninggatan 27, Varberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Drottninggatan 27, Varberg, Sverige]]></description>
         <Point><coordinates>12.251563,57.105062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Storgatan 36]]></name>
-        <description>Pinchos, Storgatan 36, Trollhättan, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Storgatan 36, Trollhättan, Sverige]]></description>
         <Point><coordinates>12.288063,58.285562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Storgatan 37]]></name>
-        <description>Pinchos, Storgatan 37, Falkenberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Storgatan 37, Falkenberg, Sverige]]></description>
         <Point><coordinates>12.492188,56.902812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Lilla Torget 3]]></name>
-        <description>Pinchos, Lilla Torget 3, Alingsås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Lilla Torget 3, Alingsås, Sverige]]></description>
         <Point><coordinates>12.531937,57.929187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Södergatan 32]]></name>
-        <description>Pinchos, Södergatan 32, Helsingborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Södergatan 32, Helsingborg, Sverige]]></description>
         <Point><coordinates>12.701688,56.040312,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Rådhusgatan 9]]></name>
-        <description>Pinchos, Rådhusgatan 9, Landskrona, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Rådhusgatan 9, Landskrona, Sverige]]></description>
         <Point><coordinates>12.830938,55.870062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Storgatan 36]]></name>
-        <description>Pinchos, Storgatan 36, Halmstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Storgatan 36, Halmstad, Sverige]]></description>
         <Point><coordinates>12.859188,56.676063,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Skolgatan 1]]></name>
-        <description>Pinchos, Skolgatan 1, Ängelholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Skolgatan 1, Ängelholm, Sverige]]></description>
         <Point><coordinates>12.864937,56.246313,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Lilla Brogatan 30]]></name>
-        <description>Pinchos, Lilla Brogatan 30, Borås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Lilla Brogatan 30, Borås, Sverige]]></description>
         <Point><coordinates>12.941813,57.720562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Generalsgatan 1]]></name>
-        <description>Pinchos, Generalsgatan 1, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Generalsgatan 1, Malmö, Sverige]]></description>
         <Point><coordinates>12.996063,55.603437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Algatan 53]]></name>
-        <description>Pinchos, Algatan 53, Trelleborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Algatan 53, Trelleborg, Sverige]]></description>
         <Point><coordinates>13.152062,55.374437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Fabriksgatan 4]]></name>
-        <description>Pinchos, Fabriksgatan 4, Lidköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Fabriksgatan 4, Lidköping, Sverige]]></description>
         <Point><coordinates>13.159187,58.507687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Sälfjällstorget]]></name>
-        <description>Pinchos, Sälfjällstorget, Sälen, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Sälfjällstorget, Sälen, Sverige]]></description>
         <Point><coordinates>13.175422,61.165762,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Mårtenstorget 12]]></name>
-        <description>Pinchos, Mårtenstorget 12, Lund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Mårtenstorget 12, Lund, Sverige]]></description>
         <Point><coordinates>13.197188,55.701313,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Västra Torggatan 1]]></name>
-        <description>Pinchos, Västra Torggatan 1, Karlstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Västra Torggatan 1, Karlstad, Sverige]]></description>
         <Point><coordinates>13.501313,59.378687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Inre Hamn Magasin 1]]></name>
-        <description>Pinchos, Inre Hamn Magasin 1, Karlstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Inre Hamn Magasin 1, Karlstad, Sverige]]></description>
         <Point><coordinates>13.507437,59.376687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Hamngatan 5]]></name>
-        <description>Pinchos, Hamngatan 5, Ystad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Hamngatan 5, Ystad, Sverige]]></description>
         <Point><coordinates>13.821188,55.429063,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, S:t Sigfridsgatan 3]]></name>
-        <description>Pinchos, S:t Sigfridsgatan 3, Skövde, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, S:t Sigfridsgatan 3, Skövde, Sverige]]></description>
         <Point><coordinates>13.847812,58.390062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Ringvägen 1]]></name>
-        <description>Pinchos, Ringvägen 1, Ljungby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Ringvägen 1, Ljungby, Sverige]]></description>
         <Point><coordinates>13.905687,56.813437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Järnvägsgatan 3]]></name>
-        <description>Pinchos, Järnvägsgatan 3, Värnamo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Järnvägsgatan 3, Värnamo, Sverige]]></description>
         <Point><coordinates>14.037063,57.183688,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Östra Storgatan 30]]></name>
-        <description>Pinchos, Östra Storgatan 30, Kristianstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Östra Storgatan 30, Kristianstad, Sverige]]></description>
         <Point><coordinates>14.156187,56.030438,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Östra Storgatan 16]]></name>
-        <description>Pinchos, Östra Storgatan 16, Jönköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Östra Storgatan 16, Jönköping, Sverige]]></description>
         <Point><coordinates>14.171812,57.782312,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Thomégränd 18]]></name>
-        <description>Pinchos, Thomégränd 18, Östersund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Thomégränd 18, Östersund, Sverige]]></description>
         <Point><coordinates>14.639938,63.175187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Poppelgatan 1]]></name>
-        <description>Pinchos, Poppelgatan 1, Motala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Poppelgatan 1, Motala, Sverige]]></description>
         <Point><coordinates>15.040062,58.535438,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Bangårdsgatan 9a]]></name>
-        <description>Pinchos, Bangårdsgatan 9a, Vetlanda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Bangårdsgatan 9a, Vetlanda, Sverige]]></description>
         <Point><coordinates>15.082688,57.425812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Drottninggatan 38]]></name>
-        <description>Pinchos, Drottninggatan 38, Örebro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Drottninggatan 38, Örebro, Sverige]]></description>
         <Point><coordinates>15.209062,59.269188,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Borganäsvägen 48]]></name>
-        <description>Pinchos, Borganäsvägen 48, Borlänge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Borganäsvägen 48, Borlänge, Sverige]]></description>
         <Point><coordinates>15.435063,60.487437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Ronnebygatan 38]]></name>
-        <description>Pinchos, Ronnebygatan 38, Karlskrona, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Ronnebygatan 38, Karlskrona, Sverige]]></description>
         <Point><coordinates>15.587563,56.162188,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Storgatan 30]]></name>
-        <description>Pinchos, Storgatan 30, Linköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Storgatan 30, Linköping, Sverige]]></description>
         <Point><coordinates>15.626188,58.410937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Trotzgatan 3]]></name>
-        <description>Pinchos, Trotzgatan 3, Falun, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Trotzgatan 3, Falun, Sverige]]></description>
         <Point><coordinates>15.634937,60.605688,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Kungsgatan 30]]></name>
-        <description>Pinchos, Kungsgatan 30, Norrköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Kungsgatan 30, Norrköping, Sverige]]></description>
         <Point><coordinates>16.177687,58.591812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Hantverkaregatan 2]]></name>
-        <description>Pinchos, Hantverkaregatan 2, Katrineholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Hantverkaregatan 2, Katrineholm, Sverige]]></description>
         <Point><coordinates>16.207062,58.995062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Kaggensgatan 16]]></name>
-        <description>Pinchos, Kaggensgatan 16, Kalmar, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Kaggensgatan 16, Kalmar, Sverige]]></description>
         <Point><coordinates>16.363312,56.663062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Nygatan 7]]></name>
-        <description>Pinchos, Nygatan 7, Bollnäs, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Nygatan 7, Bollnäs, Sverige]]></description>
         <Point><coordinates>16.395437,61.347687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Västra Torggatan 8a]]></name>
-        <description>Pinchos, Västra Torggatan 8a, Oskarshamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Västra Torggatan 8a, Oskarshamn, Sverige]]></description>
         <Point><coordinates>16.447313,57.264437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Rademarchergatan 6]]></name>
-        <description>Pinchos, Rademarchergatan 6, Eskilstuna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Rademarchergatan 6, Eskilstuna, Sverige]]></description>
         <Point><coordinates>16.516562,59.370812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Stora Torget 5]]></name>
-        <description>Pinchos, Stora Torget 5, Västerås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Stora Torget 5, Västerås, Sverige]]></description>
         <Point><coordinates>16.541562,59.610563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Storgatan 16]]></name>
-        <description>Pinchos, Storgatan 16, Västervik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Storgatan 16, Västervik, Sverige]]></description>
         <Point><coordinates>16.638188,57.758562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Norrköpingsvägen 13]]></name>
-        <description>Pinchos, Norrköpingsvägen 13, Nyköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Norrköpingsvägen 13, Nyköping, Sverige]]></description>
         <Point><coordinates>16.989312,58.749562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Källgatan 15]]></name>
-        <description>Pinchos, Källgatan 15, Enköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Källgatan 15, Enköping, Sverige]]></description>
         <Point><coordinates>17.076687,59.635813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Trädgårdsgatan 7]]></name>
-        <description>Pinchos, Trädgårdsgatan 7, Hudiksvall, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Trädgårdsgatan 7, Hudiksvall, Sverige]]></description>
         <Point><coordinates>17.108688,61.729188,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Centralplan 5]]></name>
-        <description>Pinchos, Centralplan 5, Gävle, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Centralplan 5, Gävle, Sverige]]></description>
         <Point><coordinates>17.149563,60.676063,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Esplanaden 12]]></name>
-        <description>Pinchos, Esplanaden 12, Sundsvall, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Esplanaden 12, Sundsvall, Sverige]]></description>
         <Point><coordinates>17.307187,62.389312,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Storgatan 2a]]></name>
-        <description>Pinchos, Storgatan 2a, Södertälje, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Storgatan 2a, Södertälje, Sverige]]></description>
         <Point><coordinates>17.628437,59.195062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Klostergatan 6-8]]></name>
-        <description>Pinchos, Klostergatan 6-8, Uppsala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Klostergatan 6-8, Uppsala, Sverige]]></description>
         <Point><coordinates>17.636938,59.860687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Marknadsgatan 3j]]></name>
-        <description>Pinchos, Marknadsgatan 3j, Gränby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Marknadsgatan 3j, Gränby, Sverige]]></description>
         <Point><coordinates>17.674563,59.875438,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Sundbybergs Torg 1]]></name>
-        <description>Pinchos, Sundbybergs Torg 1, Sundbyberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Sundbybergs Torg 1, Sundbyberg, Sverige]]></description>
         <Point><coordinates>17.966563,59.362063,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Alströmergatan 20]]></name>
-        <description>Pinchos, Alströmergatan 20, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Alströmergatan 20, Stockholm, Sverige]]></description>
         <Point><coordinates>18.028937,59.336188,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Norrlandsgatan 31-33]]></name>
-        <description>Pinchos, Norrlandsgatan 31-33, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Norrlandsgatan 31-33, Stockholm, Sverige]]></description>
         <Point><coordinates>18.070687,59.336562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Folkungagatan 105]]></name>
-        <description>Pinchos, Folkungagatan 105, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Folkungagatan 105, Stockholm, Sverige]]></description>
         <Point><coordinates>18.085187,59.315687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Heliosgången 2]]></name>
-        <description>Pinchos, Heliosgången 2, Stockholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Heliosgången 2, Stockholm, Sverige]]></description>
         <Point><coordinates>18.094563,59.302813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Södertorg 16]]></name>
-        <description>Pinchos, Södertorg 16, Visby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Södertorg 16, Visby, Sverige]]></description>
         <Point><coordinates>18.291688,57.634937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Lilla Brogatan 4]]></name>
-        <description>Pinchos, Lilla Brogatan 4, Norrtälje, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Lilla Brogatan 4, Norrtälje, Sverige]]></description>
         <Point><coordinates>18.705438,59.757438,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Nygatan 2a]]></name>
-        <description>Pinchos, Nygatan 2a, Örnsköldsvik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Nygatan 2a, Örnsköldsvik, Sverige]]></description>
         <Point><coordinates>18.719687,63.287188,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Kungsgatan 48]]></name>
-        <description>Pinchos, Kungsgatan 48, Umeå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Kungsgatan 48, Umeå, Sverige]]></description>
         <Point><coordinates>20.258563,63.826437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Nygatan 63]]></name>
-        <description>Pinchos, Nygatan 63, Skellefteå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Nygatan 63, Skellefteå, Sverige]]></description>
         <Point><coordinates>20.958813,64.750438,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Storgatan 39]]></name>
-        <description>Pinchos, Storgatan 39, Piteå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Storgatan 39, Piteå, Sverige]]></description>
         <Point><coordinates>21.482312,65.316187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[Pinchos, Storgatan 30]]></name>
-        <description>Pinchos, Storgatan 30, Luleå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[Pinchos, Storgatan 30, Luleå, Sverige]]></description>
         <Point><coordinates>22.150312,65.583812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
     </Folder>
   </Document>

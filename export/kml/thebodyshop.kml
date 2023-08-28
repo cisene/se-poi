@@ -1,361 +1,330 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>The Body Shop</name>
+    <name><![CDATA[The Body Shop]]></name>
     <description/>
-    <Style id="icon-22-normal">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-22-highlight">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-22">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-22-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-22-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
+    <Style id="icon-22-normal"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>
+    <Style id="icon-22-highlight"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>1.1</scale></LabelStyle></Style>
+    <StyleMap id="icon-22"><Pair><key>normal</key><styleUrl>#icon-22-normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#icon-22-highlight</styleUrl></Pair></StyleMap>
     <Folder>
       <name><![CDATA[The Body Shop]]></name>
       <Placemark>
         <name><![CDATA[The Body Shop Torp Köpcentrum]]></name>
-        <description>The Body Shop Torp Köpcentrum, Herrestad</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Torp Köpcentrum, Herrestad]]></description>
         <Point><coordinates>11.811187,58.354437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Stenugnsund]]></name>
-        <description>The Body Shop Stenugnsund, Stenugnsund</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Stenugnsund, Stenugnsund]]></description>
         <Point><coordinates>11.818016,58.068637,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Frölunda Torg]]></name>
-        <description>The Body Shop Frölunda Torg, Västra Frölunda</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Frölunda Torg, Västra Frölunda]]></description>
         <Point><coordinates>11.912937,57.652438,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Kongahälla Center]]></name>
-        <description>The Body Shop Kongahälla Center, Kungälv</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Kongahälla Center, Kungälv]]></description>
         <Point><coordinates>11.967813,57.873438,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Fredsgatan]]></name>
-        <description>The Body Shop Fredsgatan, Göteborg</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Fredsgatan, Göteborg]]></description>
         <Point><coordinates>11.970547,57.705988,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Mölndal Galleria]]></name>
-        <description>The Body Shop Mölndal Galleria, Mölndal</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Mölndal Galleria, Mölndal]]></description>
         <Point><coordinates>12.014188,57.655313,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Kungsbacka]]></name>
-        <description>The Body Shop Kungsbacka, Kungsbacka</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Kungsbacka, Kungsbacka]]></description>
         <Point><coordinates>12.074063,57.492687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Allum]]></name>
-        <description>The Body Shop Allum, Partille</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Allum, Partille]]></description>
         <Point><coordinates>12.105422,57.737938,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Trollhättan]]></name>
-        <description>The Body Shop Trollhättan, Trollhättan</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Trollhättan, Trollhättan]]></description>
         <Point><coordinates>12.308063,58.312438,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Kullagatan]]></name>
-        <description>The Body Shop Kullagatan, Helsingborg</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Kullagatan, Helsingborg]]></description>
         <Point><coordinates>12.693938,56.047687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Väla]]></name>
-        <description>The Body Shop Väla, Helsingborg</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Väla, Helsingborg]]></description>
         <Point><coordinates>12.756937,56.091563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Halmstad]]></name>
-        <description>The Body Shop Halmstad, Halmstad</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Halmstad, Halmstad]]></description>
         <Point><coordinates>12.857188,56.675937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Borås]]></name>
-        <description>The Body Shop Borås, Borås</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Borås, Borås]]></description>
         <Point><coordinates>12.940938,57.720312,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Triangeln]]></name>
-        <description>The Body Shop Triangeln, Malmö</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Triangeln, Malmö]]></description>
         <Point><coordinates>13.001313,55.594938,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Lidköping]]></name>
-        <description>The Body Shop Lidköping, Lidköping</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Lidköping, Lidköping]]></description>
         <Point><coordinates>13.155812,58.504188,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Nova Lund]]></name>
-        <description>The Body Shop Nova Lund, Lund</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Nova Lund, Lund]]></description>
         <Point><coordinates>13.160063,55.714562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Lund]]></name>
-        <description>The Body Shop Lund, Lund</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Lund, Lund]]></description>
         <Point><coordinates>13.190437,55.703187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Bergvik]]></name>
-        <description>The Body Shop Bergvik, Karlstad</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Bergvik, Karlstad]]></description>
         <Point><coordinates>13.427188,59.377187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Kristianstad]]></name>
-        <description>The Body Shop Kristianstad, Kristianstad</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Kristianstad, Kristianstad]]></description>
         <Point><coordinates>14.156437,56.029937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Växjö Grandsamarkand]]></name>
-        <description>The Body Shop Växjö Grandsamarkand, Växjö</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Växjö Grandsamarkand, Växjö]]></description>
         <Point><coordinates>14.766312,56.884563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Kupolen]]></name>
-        <description>The Body Shop Kupolen, Borlänge</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Kupolen, Borlänge]]></description>
         <Point><coordinates>15.418312,60.484437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Linköping I-huset]]></name>
-        <description>The Body Shop Linköping I-huset, Linköping</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Linköping I-huset, Linköping]]></description>
         <Point><coordinates>15.585812,58.434687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Linköping City]]></name>
-        <description>The Body Shop Linköping City, Linköping</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Linköping City, Linköping]]></description>
         <Point><coordinates>15.622563,58.410187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Falun]]></name>
-        <description>The Body Shop Falun, Falun</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Falun, Falun]]></description>
         <Point><coordinates>15.628438,60.606813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Norrköping]]></name>
-        <description>The Body Shop Norrköping, Norrköping</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Norrköping, Norrköping]]></description>
         <Point><coordinates>16.189062,58.587812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Erikslund]]></name>
-        <description>The Body Shop Erikslund, Västerås</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Erikslund, Västerås]]></description>
         <Point><coordinates>16.455062,59.609063,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Tuna Park]]></name>
-        <description>The Body Shop Tuna Park, Eskilstuna</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Tuna Park, Eskilstuna]]></description>
         <Point><coordinates>16.468812,59.371562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Wachmeister Kopcenter]]></name>
-        <description>The Body Shop Wachmeister Kopcenter, Karlskrona</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Wachmeister Kopcenter, Karlskrona]]></description>
         <Point><coordinates>16.469812,56.651937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop City]]></name>
-        <description>The Body Shop City, Eskilstuna</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop City, Eskilstuna]]></description>
         <Point><coordinates>16.510438,59.371938,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Gallerian Nian]]></name>
-        <description>The Body Shop Gallerian Nian, Gävle</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Gallerian Nian, Gävle]]></description>
         <Point><coordinates>17.139938,60.674187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Sundsvall City]]></name>
-        <description>The Body Shop Sundsvall City, Sundsvall</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Sundsvall City, Sundsvall]]></description>
         <Point><coordinates>17.304437,62.391937,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Birsta City]]></name>
-        <description>The Body Shop Birsta City, Sundsvall</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Birsta City, Sundsvall]]></description>
         <Point><coordinates>17.335938,62.447063,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Forum]]></name>
-        <description>The Body Shop Forum, Uppsala</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Forum, Uppsala]]></description>
         <Point><coordinates>17.640313,59.858062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Uppsala Gränby Centrum]]></name>
-        <description>The Body Shop Uppsala Gränby Centrum, Uppsala</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Uppsala Gränby Centrum, Uppsala]]></description>
         <Point><coordinates>17.672983,59.877296,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop SQO Barkarby Outlet]]></name>
-        <description>The Body Shop SQO Barkarby Outlet, Järfälla</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop SQO Barkarby Outlet, Järfälla]]></description>
         <Point><coordinates>17.856421,59.41772,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Vällingby]]></name>
-        <description>The Body Shop Vällingby, Vällingby</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Vällingby, Vällingby]]></description>
         <Point><coordinates>17.874437,59.362562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Skärholmen]]></name>
-        <description>The Body Shop Skärholmen, Skärholmen</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Skärholmen, Skärholmen]]></description>
         <Point><coordinates>17.907812,59.275562,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Sollentuna Centrum]]></name>
-        <description>The Body Shop Sollentuna Centrum, Sollentuna</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Sollentuna Centrum, Sollentuna]]></description>
         <Point><coordinates>17.951687,59.429063,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Bromma Blocks]]></name>
-        <description>The Body Shop Bromma Blocks, Bromma</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Bromma Blocks, Bromma]]></description>
         <Point><coordinates>17.955459,59.355572,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Westfield Mall of Scandanavia]]></name>
-        <description>The Body Shop Westfield Mall of Scandanavia, Solna</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Westfield Mall of Scandanavia, Solna]]></description>
         <Point><coordinates>18.002013,59.370465,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Liljeholmstorget]]></name>
-        <description>The Body Shop Liljeholmstorget, Stockholm</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Liljeholmstorget, Stockholm]]></description>
         <Point><coordinates>18.022188,59.309687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Drottninggatan]]></name>
-        <description>The Body Shop Drottninggatan, Stockholm</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Drottninggatan, Stockholm]]></description>
         <Point><coordinates>18.061312,59.333813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Gallerian]]></name>
-        <description>The Body Shop Gallerian, Stockholm</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Gallerian, Stockholm]]></description>
         <Point><coordinates>18.067188,59.332313,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Täby Centrum]]></name>
-        <description>The Body Shop Täby Centrum, Täby</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Täby Centrum, Täby]]></description>
         <Point><coordinates>18.069812,59.444063,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Götgatan]]></name>
-        <description>The Body Shop Götgatan, Stockholm</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Götgatan, Stockholm]]></description>
         <Point><coordinates>18.071312,59.318438,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Sturegallerian]]></name>
-        <description>The Body Shop Sturegallerian, Stockholm</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Sturegallerian, Stockholm]]></description>
         <Point><coordinates>18.073437,59.336062,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Ringen]]></name>
-        <description>The Body Shop Ringen, Stockholm</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Ringen, Stockholm]]></description>
         <Point><coordinates>18.075812,59.308437,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Farsta]]></name>
-        <description>The Body Shop Farsta, Farsta</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Farsta, Farsta]]></description>
         <Point><coordinates>18.090938,59.242812,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Fältöversten]]></name>
-        <description>The Body Shop Fältöversten, Stockholm</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Fältöversten, Stockholm]]></description>
         <Point><coordinates>18.091188,59.339687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Nacka Forum]]></name>
-        <description>The Body Shop Nacka Forum, Nacka</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Nacka Forum, Nacka]]></description>
         <Point><coordinates>18.164516,59.309988,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Visby]]></name>
-        <description>The Body Shop Visby, Visby</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Visby, Visby]]></description>
         <Point><coordinates>18.301687,57.637438,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Umeå Avion]]></name>
-        <description>The Body Shop Umeå Avion, Umeå</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Umeå Avion, Umeå]]></description>
         <Point><coordinates>20.255187,63.807187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[The Body Shop Umeå Utopia]]></name>
-        <description>The Body Shop Umeå Utopia, Umeå</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[The Body Shop Umeå Utopia, Umeå]]></description>
         <Point><coordinates>20.265188,63.826187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
     </Folder>
   </Document>

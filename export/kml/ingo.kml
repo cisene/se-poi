@@ -1,1789 +1,1758 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Ingo</name>
+    <name><![CDATA[Ingo]]></name>
     <description/>
-    <Style id="icon-22-normal">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-22-highlight">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-22">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-22-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-22-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
+    <Style id="icon-22-normal"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>
+    <Style id="icon-22-highlight"><IconStyle><scale>1.1</scale><Icon><href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href></Icon><hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/></IconStyle><LabelStyle><scale>1.1</scale></LabelStyle></Style>
+    <StyleMap id="icon-22"><Pair><key>normal</key><styleUrl>#icon-22-normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#icon-22-highlight</styleUrl></Pair></StyleMap>
     <Folder>
       <name><![CDATA[Ingo]]></name>
       <Placemark>
         <name><![CDATA[INGO Brastad]]></name>
-        <description>INGO Brastad, Brastad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Brastad, Brastad, Sverige]]></description>
         <Point><coordinates>11.481128,58.384699,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Hönö]]></name>
-        <description>INGO Hönö, Hönö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Hönö, Hönö, Sverige]]></description>
         <Point><coordinates>11.646461,57.698605,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Rotviksbro]]></name>
-        <description>INGO Rotviksbro, Uddevalla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Rotviksbro, Uddevalla, Sverige]]></description>
         <Point><coordinates>11.688408,58.343068,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Varekil]]></name>
-        <description>INGO Varekil, Varekil, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Varekil, Varekil, Sverige]]></description>
         <Point><coordinates>11.72283,58.12486,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Häggvall Tjörn]]></name>
-        <description>INGO Häggvall Tjörn, Höviksnäs, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Häggvall Tjörn, Höviksnäs, Sverige]]></description>
         <Point><coordinates>11.734359,58.03837,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Stenungsund]]></name>
-        <description>INGO Stenungsund, Stenungsund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Stenungsund, Stenungsund, Sverige]]></description>
         <Point><coordinates>11.828289,58.0775,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Arendal]]></name>
-        <description>INGO Arendal, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Arendal, Göteborg, Sverige]]></description>
         <Point><coordinates>11.849311,57.706042,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Västra Frölunda, Traneredsvägen]]></name>
-        <description>INGO Västra Frölunda, Traneredsvägen, Västra Frölunda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Västra Frölunda, Traneredsvägen, Västra Frölunda, Sverige]]></description>
         <Point><coordinates>11.888376,57.660263,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO VÄstra Frölunda, Åkered]]></name>
-        <description>INGO VÄstra Frölunda, Åkered, Västra Frölunda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO VÄstra Frölunda, Åkered, Västra Frölunda, Sverige]]></description>
         <Point><coordinates>11.898951,57.635068,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Uddevalla]]></name>
-        <description>INGO Uddevalla, Uddevalla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Uddevalla, Uddevalla, Sverige]]></description>
         <Point><coordinates>11.91496,58.35384,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Västra Frölunda, Frölundamotet]]></name>
-        <description>INGO Västra Frölunda, Frölundamotet, Västra Frölunda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Västra Frölunda, Frölundamotet, Västra Frölunda, Sverige]]></description>
         <Point><coordinates>11.916111,57.647525,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Uddevalla Göteborgsvägen]]></name>
-        <description>INGO Uddevalla Göteborgsvägen, Uddevalla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Uddevalla Göteborgsvägen, Uddevalla, Sverige]]></description>
         <Point><coordinates>11.922832,58.344416,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Göteborg Sannegården]]></name>
-        <description>INGO Göteborg Sannegården, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Göteborg Sannegården, Göteborg, Sverige]]></description>
         <Point><coordinates>11.932311,57.710911,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Uddevalla Helenedalsvägen]]></name>
-        <description>INGO Uddevalla Helenedalsvägen, Uddevalla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Uddevalla Helenedalsvägen, Uddevalla, Sverige]]></description>
         <Point><coordinates>11.932665,58.36794,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Sisjön]]></name>
-        <description>INGO Sisjön, Askim, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Sisjön, Askim, Sverige]]></description>
         <Point><coordinates>11.941602,57.641272,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Göteborg, Minelundsvägen]]></name>
-        <description>INGO Göteborg, Minelundsvägen, Hisings backa, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Göteborg, Minelundsvägen, Hisings backa, Sverige]]></description>
         <Point><coordinates>11.95619,57.730368,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Kungälv]]></name>
-        <description>INGO Kungälv, Kungälv, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Kungälv, Kungälv, Sverige]]></description>
         <Point><coordinates>11.984675,57.878149,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Göteborg Tingstadsmotet]]></name>
-        <description>INGO Göteborg Tingstadsmotet, Hisings Backa, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Göteborg Tingstadsmotet, Hisings Backa, Sverige]]></description>
         <Point><coordinates>11.985401,57.730154,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Göteborg Bäckebolsmotet]]></name>
-        <description>INGO Göteborg Bäckebolsmotet, Hisings Backa, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Göteborg Bäckebolsmotet, Hisings Backa, Sverige]]></description>
         <Point><coordinates>11.99475,57.75891,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Göteborg Grafiska Vägen]]></name>
-        <description>INGO Göteborg Grafiska Vägen, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Göteborg Grafiska Vägen, Göteborg, Sverige]]></description>
         <Point><coordinates>12.002292,57.682145,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Göteborg Gamlestaden]]></name>
-        <description>INGO Göteborg Gamlestaden, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Göteborg Gamlestaden, Göteborg, Sverige]]></description>
         <Point><coordinates>12.005533,57.736462,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Göteborg Hjällbo]]></name>
-        <description>INGO Göteborg Hjällbo, Angered, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Göteborg Hjällbo, Angered, Sverige]]></description>
         <Point><coordinates>12.01465,57.76405,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Göteborg Kviberg]]></name>
-        <description>INGO Göteborg Kviberg, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Göteborg Kviberg, Göteborg, Sverige]]></description>
         <Point><coordinates>12.02437,57.73592,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Göteborg Gårdsten]]></name>
-        <description>INGO Göteborg Gårdsten, Angered, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Göteborg Gårdsten, Angered, Sverige]]></description>
         <Point><coordinates>12.033769,57.801452,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Kållered]]></name>
-        <description>INGO Kållered, Kållered, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Kållered, Kållered, Sverige]]></description>
         <Point><coordinates>12.045693,57.618543,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Kungsbacka]]></name>
-        <description>INGO Kungsbacka, Kungsbacka, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Kungsbacka, Kungsbacka, Sverige]]></description>
         <Point><coordinates>12.068385,57.505323,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Göteborg Utbyvägen]]></name>
-        <description>INGO Göteborg Utbyvägen, Göteborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Göteborg Utbyvägen, Göteborg, Sverige]]></description>
         <Point><coordinates>12.077908,57.740649,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Lödöse]]></name>
-        <description>INGO Lödöse, Lödöse, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Lödöse, Lödöse, Sverige]]></description>
         <Point><coordinates>12.15346,58.02866,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Bäckefors]]></name>
-        <description>INGO Bäckefors, Bäckefors, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Bäckefors, Bäckefors, Sverige]]></description>
         <Point><coordinates>12.15348,58.80363,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Bengtsfors]]></name>
-        <description>INGO Bengtsfors, Bengtsfors, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Bengtsfors, Bengtsfors, Sverige]]></description>
         <Point><coordinates>12.234076,59.026113,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Morokulien]]></name>
-        <description>INGO Morokulien, Charlottenberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Morokulien, Charlottenberg, Sverige]]></description>
         <Point><coordinates>12.24248,59.93089,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Lerum]]></name>
-        <description>INGO Lerum, Lerum, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Lerum, Lerum, Sverige]]></description>
         <Point><coordinates>12.262168,57.763336,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Varberg]]></name>
-        <description>INGO Varberg, Varberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Varberg, Varberg, Sverige]]></description>
         <Point><coordinates>12.263178,57.123109,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Frändefors]]></name>
-        <description>INGO Frändefors, Frändefors, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Frändefors, Frändefors, Sverige]]></description>
         <Point><coordinates>12.266576,58.475575,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Vänersborg Djupedalsvägen]]></name>
-        <description>INGO Vänersborg Djupedalsvägen, Vänersborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Vänersborg Djupedalsvägen, Vänersborg, Sverige]]></description>
         <Point><coordinates>12.30418,58.3832,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Trollhättan Tunhemsvägen]]></name>
-        <description>INGO Trollhättan Tunhemsvägen, Trollhättan, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Trollhättan Tunhemsvägen, Trollhättan, Sverige]]></description>
         <Point><coordinates>12.30934,58.28857,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Trollhättan Grafitvägen]]></name>
-        <description>INGO Trollhättan Grafitvägen, Trollhättan, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Trollhättan Grafitvägen, Trollhättan, Sverige]]></description>
         <Point><coordinates>12.3215,58.29885,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Vänersborg]]></name>
-        <description>INGO Vänersborg, Vänersborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Vänersborg, Vänersborg, Sverige]]></description>
         <Point><coordinates>12.32775,58.364317,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Tvååker]]></name>
-        <description>INGO Tvååker, Tvååker, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Tvååker, Tvååker, Sverige]]></description>
         <Point><coordinates>12.392106,57.043774,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Hällingsjö]]></name>
-        <description>INGO Hällingsjö, Hällingsjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Hällingsjö, Hällingsjö, Sverige]]></description>
         <Point><coordinates>12.435204,57.619445,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Horred]]></name>
-        <description>INGO Horred, Horred, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Horred, Horred, Sverige]]></description>
         <Point><coordinates>12.48182,57.36001,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Falkenberg Söderleden]]></name>
-        <description>INGO Falkenberg Söderleden, Falkenberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Falkenberg Söderleden, Falkenberg, Sverige]]></description>
         <Point><coordinates>12.498376,56.895758,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Alingsås]]></name>
-        <description>INGO Alingsås, Alingsås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Alingsås, Alingsås, Sverige]]></description>
         <Point><coordinates>12.549752,57.928983,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Arvika Palmviksgatan]]></name>
-        <description>INGO Arvika Palmviksgatan, Arvika, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Arvika Palmviksgatan, Arvika, Sverige]]></description>
         <Point><coordinates>12.58485,59.656139,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Viken Hälsingborgsvägen]]></name>
-        <description>INGO Viken Hälsingborgsvägen, Viken, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Viken Hälsingborgsvägen, Viken, Sverige]]></description>
         <Point><coordinates>12.587103,56.141434,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Arvika Mötterudsvägen]]></name>
-        <description>INGO Arvika Mötterudsvägen, Arvika, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Arvika Mötterudsvägen, Arvika, Sverige]]></description>
         <Point><coordinates>12.616926,59.647356,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Vessigebro]]></name>
-        <description>INGO Vessigebro, Vessigebro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Vessigebro, Vessigebro, Sverige]]></description>
         <Point><coordinates>12.646036,56.978187,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Skene]]></name>
-        <description>INGO Skene, Skene, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Skene, Skene, Sverige]]></description>
         <Point><coordinates>12.667991,57.496694,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Åmål]]></name>
-        <description>INGO Åmål, Åmål, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Åmål, Åmål, Sverige]]></description>
         <Point><coordinates>12.675408,59.055838,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Helsingborg Filbornavägen]]></name>
-        <description>INGO Helsingborg Filbornavägen, Helsingborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Helsingborg Filbornavägen, Helsingborg, Sverige]]></description>
         <Point><coordinates>12.72827,56.05239,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Helsingborg Kielergatan]]></name>
-        <description>INGO Helsingborg Kielergatan, Helsingborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Helsingborg Kielergatan, Helsingborg, Sverige]]></description>
         <Point><coordinates>12.740567,56.005676,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Halmstad Flygstaden]]></name>
-        <description>INGO Halmstad Flygstaden, Halmstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Halmstad Flygstaden, Halmstad, Sverige]]></description>
         <Point><coordinates>12.799265,56.67382,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Halmstad Kärleken]]></name>
-        <description>INGO Halmstad Kärleken, Halmstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Halmstad Kärleken, Halmstad, Sverige]]></description>
         <Point><coordinates>12.867908,56.693101,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Landskrona]]></name>
-        <description>INGO Landskrona, Landskrona, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Landskrona, Landskrona, Sverige]]></description>
         <Point><coordinates>12.886752,55.874872,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Ängelholm]]></name>
-        <description>INGO Ängelholm, Ängelholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Ängelholm, Ängelholm, Sverige]]></description>
         <Point><coordinates>12.88882,56.251158,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Halmstad Andersberg]]></name>
-        <description>INGO Halmstad Andersberg, Halmstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Halmstad Andersberg, Halmstad, Sverige]]></description>
         <Point><coordinates>12.893711,56.660472,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Vara E20]]></name>
-        <description>INGO Vara E20, Vara, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Vara E20, Vara, Sverige]]></description>
         <Point><coordinates>12.91254,58.21595,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Duved]]></name>
-        <description>INGO Duved, Duved, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Duved, Duved, Sverige]]></description>
         <Point><coordinates>12.91758,63.39259,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Malmö Bunkeflostrand]]></name>
-        <description>INGO Malmö Bunkeflostrand, Bunkeflostrand, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Malmö Bunkeflostrand, Bunkeflostrand, Sverige]]></description>
         <Point><coordinates>12.91977,55.56036,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Åstorp]]></name>
-        <description>INGO Åstorp, Åstorp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Åstorp, Åstorp, Sverige]]></description>
         <Point><coordinates>12.926773,56.135185,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Borås Skaraborgsvägen]]></name>
-        <description>INGO Borås Skaraborgsvägen, Borås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Borås Skaraborgsvägen, Borås, Sverige]]></description>
         <Point><coordinates>12.940038,57.730655,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Borås Fristadsvägen]]></name>
-        <description>INGO Borås Fristadsvägen, Borås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Borås Fristadsvägen, Borås, Sverige]]></description>
         <Point><coordinates>12.947699,57.753789,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Vara Kungsgatan]]></name>
-        <description>INGO Vara Kungsgatan, Vara, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Vara Kungsgatan, Vara, Sverige]]></description>
         <Point><coordinates>12.957247,58.267247,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Ekeby]]></name>
-        <description>INGO Ekeby, Ekeby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Ekeby, Ekeby, Sverige]]></description>
         <Point><coordinates>12.962363,56.005616,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Borås Gånghestervägen]]></name>
-        <description>INGO Borås Gånghestervägen, Borås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Borås Gånghestervägen, Borås, Sverige]]></description>
         <Point><coordinates>12.973416,57.703803,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Munka Ljungby]]></name>
-        <description>INGO Munka Ljungby, Munka-Ljungby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Munka Ljungby, Munka-Ljungby, Sverige]]></description>
         <Point><coordinates>12.973679,56.254829,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Malmö Lorensbergsgatan]]></name>
-        <description>INGO Malmö Lorensbergsgatan, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Malmö Lorensbergsgatan, Malmö, Sverige]]></description>
         <Point><coordinates>12.982546,55.589096,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Malmö Pildammsvägen]]></name>
-        <description>INGO Malmö Pildammsvägen, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Malmö Pildammsvägen, Malmö, Sverige]]></description>
         <Point><coordinates>12.98584,55.563766,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Fristad RV42]]></name>
-        <description>INGO Fristad RV42, Fristad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Fristad RV42, Fristad, Sverige]]></description>
         <Point><coordinates>13.01278,57.813846,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Vägsjöfors]]></name>
-        <description>INGO Vägsjöfors, Torsby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Vägsjöfors, Torsby, Sverige]]></description>
         <Point><coordinates>13.028808,60.274638,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Laholm]]></name>
-        <description>INGO Laholm, Laholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Laholm, Laholm, Sverige]]></description>
         <Point><coordinates>13.033028,56.500855,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Malmö Sallerupsvägen]]></name>
-        <description>INGO Malmö Sallerupsvägen, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Malmö Sallerupsvägen, Malmö, Sverige]]></description>
         <Point><coordinates>13.03876,55.600537,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Malmö Lundavägen]]></name>
-        <description>INGO Malmö Lundavägen, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Malmö Lundavägen, Malmö, Sverige]]></description>
         <Point><coordinates>13.0448,55.61581,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Malmö Rosengård]]></name>
-        <description>INGO Malmö Rosengård, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Malmö Rosengård, Malmö, Sverige]]></description>
         <Point><coordinates>13.047624,55.587089,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Malmö Jägersro]]></name>
-        <description>INGO Malmö Jägersro, Malmö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Malmö Jägersro, Malmö, Sverige]]></description>
         <Point><coordinates>13.057549,55.572359,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Trelleborg]]></name>
-        <description>INGO Trelleborg, Trelleborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Trelleborg, Trelleborg, Sverige]]></description>
         <Point><coordinates>13.087033,55.384993,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Malmö Toftanäs/Flansbjer]]></name>
-        <description>INGO Malmö Toftanäs/Flansbjer, Arlöv, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Malmö Toftanäs/Flansbjer, Arlöv, Sverige]]></description>
         <Point><coordinates>13.094695,55.607382,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Sunne]]></name>
-        <description>INGO Sunne, Sunne, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Sunne, Sunne, Sverige]]></description>
         <Point><coordinates>13.13832,59.82829,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Klippan]]></name>
-        <description>INGO Klippan, Klippan, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Klippan, Klippan, Sverige]]></description>
         <Point><coordinates>13.14919,56.13532,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Lidköping]]></name>
-        <description>INGO Lidköping, Lidköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Lidköping, Lidköping, Sverige]]></description>
         <Point><coordinates>13.174092,58.498233,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Staffanstorp]]></name>
-        <description>INGO Staffanstorp, Staffanstorp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Staffanstorp, Staffanstorp, Sverige]]></description>
         <Point><coordinates>13.186708,55.629925,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Lund]]></name>
-        <description>INGO Lund, Lund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Lund, Lund, Sverige]]></description>
         <Point><coordinates>13.189457,55.695338,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Hyltebruk]]></name>
-        <description>INGO Hyltebruk, Hyltebruk, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Hyltebruk, Hyltebruk, Sverige]]></description>
         <Point><coordinates>13.240242,57.005294,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Transtrand]]></name>
-        <description>INGO Transtrand, Transtrand, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Transtrand, Transtrand, Sverige]]></description>
         <Point><coordinates>13.309,61.09991,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Eslöv]]></name>
-        <description>INGO Eslöv, Eslöv, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Eslöv, Eslöv, Sverige]]></description>
         <Point><coordinates>13.309047,55.833596,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Kil]]></name>
-        <description>INGO Kil, Kil, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Kil, Kil, Sverige]]></description>
         <Point><coordinates>13.32362,59.50451,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Skeppshult]]></name>
-        <description>INGO Skeppshult, Skeppshult, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Skeppshult, Skeppshult, Sverige]]></description>
         <Point><coordinates>13.37918,57.126032,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Perstorp]]></name>
-        <description>INGO Perstorp, Perstorp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Perstorp, Perstorp, Sverige]]></description>
         <Point><coordinates>13.39238,56.13866,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Skara]]></name>
-        <description>INGO Skara, Skara, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Skara, Skara, Sverige]]></description>
         <Point><coordinates>13.444263,58.384511,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Karlstad Våxnäs]]></name>
-        <description>INGO Karlstad Våxnäs, Karlstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Karlstad Våxnäs, Karlstad, Sverige]]></description>
         <Point><coordinates>13.48019,59.384413,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Karlstad Sandbäcksgatan]]></name>
-        <description>INGO Karlstad Sandbäcksgatan, Karlstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Karlstad Sandbäcksgatan, Karlstad, Sverige]]></description>
         <Point><coordinates>13.497097,59.390648,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Skurup]]></name>
-        <description>INGO Skurup, Skurup, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Skurup, Skurup, Sverige]]></description>
         <Point><coordinates>13.49942,55.48291,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Karlstad Lantvärnsgatan]]></name>
-        <description>INGO Karlstad Lantvärnsgatan, Karlstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Karlstad Lantvärnsgatan, Karlstad, Sverige]]></description>
         <Point><coordinates>13.523888,59.382237,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Munkfors]]></name>
-        <description>INGO Munkfors, Munkfors, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Munkfors, Munkfors, Sverige]]></description>
         <Point><coordinates>13.52727,59.82885,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Höör]]></name>
-        <description>INGO Höör, Höör, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Höör, Höör, Sverige]]></description>
         <Point><coordinates>13.544524,55.927346,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Hässleholm]]></name>
-        <description>INGO Hässleholm, Hässleholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Hässleholm, Hässleholm, Sverige]]></description>
         <Point><coordinates>13.74691,56.156788,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Hässleholm Esplanadgatan]]></name>
-        <description>INGO Hässleholm Esplanadgatan, Hässleholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Hässleholm Esplanadgatan, Hässleholm, Sverige]]></description>
         <Point><coordinates>13.773437,56.162197,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Ystad]]></name>
-        <description>INGO Ystad, Ystad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Ystad, Ystad, Sverige]]></description>
         <Point><coordinates>13.80584,55.443746,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Mariestad E20]]></name>
-        <description>INGO Mariestad E20, Mariestad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Mariestad E20, Mariestad, Sverige]]></description>
         <Point><coordinates>13.814621,58.678137,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Mariestad]]></name>
-        <description>INGO Mariestad, Mariestad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Mariestad, Mariestad, Sverige]]></description>
         <Point><coordinates>13.83653,58.709803,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Skövde G Adolfsgatan]]></name>
-        <description>INGO Skövde G Adolfsgatan, Skövde, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Skövde G Adolfsgatan, Skövde, Sverige]]></description>
         <Point><coordinates>13.854026,58.406724,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Vemdalen]]></name>
-        <description>INGO Vemdalen, Vemdalen, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Vemdalen, Vemdalen, Sverige]]></description>
         <Point><coordinates>13.86272,62.44862,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Mullsjö]]></name>
-        <description>INGO Mullsjö, Mullsjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Mullsjö, Mullsjö, Sverige]]></description>
         <Point><coordinates>13.87171,57.91401,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Skövde Norregårdsvägen]]></name>
-        <description>INGO Skövde Norregårdsvägen, Skövde, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Skövde Norregårdsvägen, Skövde, Sverige]]></description>
         <Point><coordinates>13.877177,58.393433,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Ljungby Ringvägen]]></name>
-        <description>INGO Ljungby Ringvägen, Ljungby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Ljungby Ringvägen, Ljungby, Sverige]]></description>
         <Point><coordinates>13.906262,56.813528,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Tomelilla]]></name>
-        <description>INGO Tomelilla, Tomelilla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Tomelilla, Tomelilla, Sverige]]></description>
         <Point><coordinates>13.913243,55.560095,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Tomelilla Tryde]]></name>
-        <description>INGO Tomelilla Tryde, Tomelilla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Tomelilla Tryde, Tomelilla, Sverige]]></description>
         <Point><coordinates>13.93348,55.55536,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Ljungby]]></name>
-        <description>INGO Ljungby, Ljungby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Ljungby, Ljungby, Sverige]]></description>
         <Point><coordinates>13.945914,56.841257,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Lagan]]></name>
-        <description>INGO Lagan, Lagan, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Lagan, Lagan, Sverige]]></description>
         <Point><coordinates>13.97132,56.91847,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Tollarp]]></name>
-        <description>INGO Tollarp, Tollarp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Tollarp, Tollarp, Sverige]]></description>
         <Point><coordinates>13.9892,55.9318,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Ölme]]></name>
-        <description>INGO Ölme, Kristinehamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Ölme, Kristinehamn, Sverige]]></description>
         <Point><coordinates>14.010925,59.369931,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Gullspång]]></name>
-        <description>INGO Gullspång, Gullspång, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Gullspång, Gullspång, Sverige]]></description>
         <Point><coordinates>14.093193,58.986327,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Taberg]]></name>
-        <description>INGO Taberg, Taberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Taberg, Taberg, Sverige]]></description>
         <Point><coordinates>14.09765,57.68205,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Kristinehamn]]></name>
-        <description>INGO Kristinehamn, Kristinehamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Kristinehamn, Kristinehamn, Sverige]]></description>
         <Point><coordinates>14.105008,59.316159,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Bankeryd]]></name>
-        <description>INGO Bankeryd, Bankeryd, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Bankeryd, Bankeryd, Sverige]]></description>
         <Point><coordinates>14.11715,57.86611,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Töreboda]]></name>
-        <description>INGO Töreboda, Töreboda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Töreboda, Töreboda, Sverige]]></description>
         <Point><coordinates>14.128317,58.708799,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Kristianstad Långebrogatan]]></name>
-        <description>INGO Kristianstad Långebrogatan, Kristianstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Kristianstad Långebrogatan, Kristianstad, Sverige]]></description>
         <Point><coordinates>14.138694,56.02089,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Jönköping Kortebovägen]]></name>
-        <description>INGO Jönköping Kortebovägen, Jönköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Jönköping Kortebovägen, Jönköping, Sverige]]></description>
         <Point><coordinates>14.1488,57.80917,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Kristianstad Lyckans Höjd]]></name>
-        <description>INGO Kristianstad Lyckans Höjd, Kristianstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Kristianstad Lyckans Höjd, Kristianstad, Sverige]]></description>
         <Point><coordinates>14.162091,56.03884,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Kristianstad Snapphanevägen]]></name>
-        <description>INGO Kristianstad Snapphanevägen, Kristianstad, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Kristianstad Snapphanevägen, Kristianstad, Sverige]]></description>
         <Point><coordinates>14.16534,56.05811,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Jönköping Herkulesvägen]]></name>
-        <description>INGO Jönköping Herkulesvägen, Jönköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Jönköping Herkulesvägen, Jönköping, Sverige]]></description>
         <Point><coordinates>14.173831,57.76966,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Tibro]]></name>
-        <description>INGO Tibro, Tibro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Tibro, Tibro, Sverige]]></description>
         <Point><coordinates>14.17508,58.41925,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Hova]]></name>
-        <description>INGO Hova, Hova, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Hova, Hova, Sverige]]></description>
         <Point><coordinates>14.218443,58.861342,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Jönköping Ekhagen]]></name>
-        <description>INGO Jönköping Ekhagen, Jönköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Jönköping Ekhagen, Jönköping, Sverige]]></description>
         <Point><coordinates>14.221533,57.779457,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Vansbro]]></name>
-        <description>INGO Vansbro, Vansbro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Vansbro, Vansbro, Sverige]]></description>
         <Point><coordinates>14.2314,60.508823,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Hjo]]></name>
-        <description>INGO Hjo, Hjo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Hjo, Hjo, Sverige]]></description>
         <Point><coordinates>14.256146,58.303095,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Åhus]]></name>
-        <description>INGO Åhus, Åhus, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Åhus, Åhus, Sverige]]></description>
         <Point><coordinates>14.29174,55.93029,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Lönsboda]]></name>
-        <description>INGO Lönsboda, Lönsboda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Lönsboda, Lönsboda, Sverige]]></description>
         <Point><coordinates>14.31907,56.39881,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Myrviken]]></name>
-        <description>INGO Myrviken, Oviken, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Myrviken, Oviken, Sverige]]></description>
         <Point><coordinates>14.34007,62.99941,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Degerfors]]></name>
-        <description>INGO Degerfors, Degerfors, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Degerfors, Degerfors, Sverige]]></description>
         <Point><coordinates>14.434411,59.241314,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Karlskoga]]></name>
-        <description>INGO Karlskoga, Karlskoga, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Karlskoga, Karlskoga, Sverige]]></description>
         <Point><coordinates>14.507987,59.327264,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Olofström]]></name>
-        <description>INGO Olofström, Olofström, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Olofström, Olofström, Sverige]]></description>
         <Point><coordinates>14.5375,56.2778,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Grythyttan]]></name>
-        <description>INGO Grythyttan, Grythyttan, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Grythyttan, Grythyttan, Sverige]]></description>
         <Point><coordinates>14.54372,59.7057,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Lammhult]]></name>
-        <description>INGO Lammhult, Lammhult, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Lammhult, Lammhult, Sverige]]></description>
         <Point><coordinates>14.575084,57.170491,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Östersund Frösön]]></name>
-        <description>INGO Östersund Frösön, Frösön, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Östersund Frösön, Frösön, Sverige]]></description>
         <Point><coordinates>14.582402,63.171225,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Sölvesborg]]></name>
-        <description>INGO Sölvesborg, Sölvesborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Sölvesborg, Sölvesborg, Sverige]]></description>
         <Point><coordinates>14.59445,56.05925,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Mora Noret]]></name>
-        <description>INGO Mora Noret, Mora, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Mora Noret, Mora, Sverige]]></description>
         <Point><coordinates>14.606,61.0063,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Laxå]]></name>
-        <description>INGO Laxå, Laxå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Laxå, Laxå, Sverige]]></description>
         <Point><coordinates>14.62499,58.98236,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Östersund Hofvallen]]></name>
-        <description>INGO Östersund Hofvallen, Östersund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Östersund Hofvallen, Östersund, Sverige]]></description>
         <Point><coordinates>14.639914,63.191127,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Nässjö]]></name>
-        <description>INGO Nässjö, Nässjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Nässjö, Nässjö, Sverige]]></description>
         <Point><coordinates>14.69158,57.657637,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Östersund]]></name>
-        <description>INGO Östersund, Östersund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Östersund, Östersund, Sverige]]></description>
         <Point><coordinates>14.69221,63.17661,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Växjö Mörners Väg]]></name>
-        <description>INGO Växjö Mörners Väg, Växjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Växjö Mörners Väg, Växjö, Sverige]]></description>
         <Point><coordinates>14.779556,56.888157,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Växjö Söderleden]]></name>
-        <description>INGO Växjö Söderleden, Växjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Växjö Söderleden, Växjö, Sverige]]></description>
         <Point><coordinates>14.785657,56.877216,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Dala-Floda]]></name>
-        <description>INGO Dala-Floda, Dala-Floda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Dala-Floda, Dala-Floda, Sverige]]></description>
         <Point><coordinates>14.802,60.50972,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Lit]]></name>
-        <description>INGO Lit, Lit, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Lit, Lit, Sverige]]></description>
         <Point><coordinates>14.8457,63.31623,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Karlshamn]]></name>
-        <description>INGO Karlshamn, Karlshamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Karlshamn, Karlshamn, Sverige]]></description>
         <Point><coordinates>14.84938,56.18519,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Karlshamn Österport]]></name>
-        <description>INGO Karlshamn Österport, Karlshamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Karlshamn Österport, Karlshamn, Sverige]]></description>
         <Point><coordinates>14.88218,56.16677,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Askersund]]></name>
-        <description>INGO Askersund, Askersund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Askersund, Askersund, Sverige]]></description>
         <Point><coordinates>14.91323,58.88673,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Ytterhogdal]]></name>
-        <description>INGO Ytterhogdal, Ytterhogdal, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Ytterhogdal, Ytterhogdal, Sverige]]></description>
         <Point><coordinates>14.95153,62.17071,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Eksjö]]></name>
-        <description>INGO Eksjö, Eksjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Eksjö, Eksjö, Sverige]]></description>
         <Point><coordinates>14.954178,57.647442,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Motala Bråstorp]]></name>
-        <description>INGO Motala Bråstorp, Motala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Motala Bråstorp, Motala, Sverige]]></description>
         <Point><coordinates>15.035912,58.556111,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Motala Lustigkullevägen]]></name>
-        <description>INGO Motala Lustigkullevägen, Motala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Motala Lustigkullevägen, Motala, Sverige]]></description>
         <Point><coordinates>15.06748,58.54095,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Hemavan]]></name>
-        <description>INGO Hemavan, Hemavan, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Hemavan, Hemavan, Sverige]]></description>
         <Point><coordinates>15.08612,65.81888,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Vetlanda]]></name>
-        <description>INGO Vetlanda, Vetlanda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Vetlanda, Vetlanda, Sverige]]></description>
         <Point><coordinates>15.097324,57.424738,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Guldsmedshyttan]]></name>
-        <description>INGO Guldsmedshyttan, Guldsmedshyttan, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Guldsmedshyttan, Guldsmedshyttan, Sverige]]></description>
         <Point><coordinates>15.10077,59.69971,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Hallsberg]]></name>
-        <description>INGO Hallsberg, Hallsberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Hallsberg, Hallsberg, Sverige]]></description>
         <Point><coordinates>15.10187,59.06821,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Mjölby]]></name>
-        <description>INGO Mjölby, Mjölby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Mjölby, Mjölby, Sverige]]></description>
         <Point><coordinates>15.11218,58.33109,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Kumla]]></name>
-        <description>INGO Kumla, Kumla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Kumla, Kumla, Sverige]]></description>
         <Point><coordinates>15.139568,59.151044,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Örebro Adolfsbergsvägen]]></name>
-        <description>INGO Örebro Adolfsbergsvägen, Örebro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Örebro Adolfsbergsvägen, Örebro, Sverige]]></description>
         <Point><coordinates>15.173361,59.258572,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Örebro Gustavsvik]]></name>
-        <description>INGO Örebro Gustavsvik, Örebro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Örebro Gustavsvik, Örebro, Sverige]]></description>
         <Point><coordinates>15.196943,59.250174,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Örebro Bettorpsgatan]]></name>
-        <description>INGO Örebro Bettorpsgatan, Örebro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Örebro Bettorpsgatan, Örebro, Sverige]]></description>
         <Point><coordinates>15.2309,59.30565,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Lenhovda]]></name>
-        <description>INGO Lenhovda, Lenhovda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Lenhovda, Lenhovda, Sverige]]></description>
         <Point><coordinates>15.27896,56.99716,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Kallinge]]></name>
-        <description>INGO Kallinge, Kallinge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Kallinge, Kallinge, Sverige]]></description>
         <Point><coordinates>15.28364,56.23813,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Tärnaby]]></name>
-        <description>INGO Tärnaby, Tärnaby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Tärnaby, Tärnaby, Sverige]]></description>
         <Point><coordinates>15.292253,65.713726,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Borlänge Nygårdsvägen]]></name>
-        <description>INGO Borlänge Nygårdsvägen, Borlänge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Borlänge Nygårdsvägen, Borlänge, Sverige]]></description>
         <Point><coordinates>15.40471,60.47462,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Borlänge Hammargatan]]></name>
-        <description>INGO Borlänge Hammargatan, Borlänge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Borlänge Hammargatan, Borlänge, Sverige]]></description>
         <Point><coordinates>15.442595,60.47144,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Strömsund]]></name>
-        <description>INGO Strömsund, Strömsund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Strömsund, Strömsund, Sverige]]></description>
         <Point><coordinates>15.55487,63.85178,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Linköping Industrigatan]]></name>
-        <description>INGO Linköping Industrigatan, Linköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Linköping Industrigatan, Linköping, Sverige]]></description>
         <Point><coordinates>15.60126,58.41975,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Falun]]></name>
-        <description>INGO Falun, Falun, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Falun, Falun, Sverige]]></description>
         <Point><coordinates>15.61724,60.6228,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Karlskrona Verkövägen]]></name>
-        <description>INGO Karlskrona Verkövägen, Karlskrona, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Karlskrona Verkövägen, Karlskrona, Sverige]]></description>
         <Point><coordinates>15.635107,56.195795,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Kisa]]></name>
-        <description>INGO Kisa, Kisa, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Kisa, Kisa, Sverige]]></description>
         <Point><coordinates>15.63818,57.987,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Linköping Gumpekullavägen]]></name>
-        <description>INGO Linköping Gumpekullavägen, Linköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Linköping Gumpekullavägen, Linköping, Sverige]]></description>
         <Point><coordinates>15.638518,58.416354,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Linköping Högdalsgatan]]></name>
-        <description>INGO Linköping Högdalsgatan, Linköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Linköping Högdalsgatan, Linköping, Sverige]]></description>
         <Point><coordinates>15.64621,58.39326,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Linköping Åtvidabergsvägen]]></name>
-        <description>INGO Linköping Åtvidabergsvägen, Linköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Linköping Åtvidabergsvägen, Linköping, Sverige]]></description>
         <Point><coordinates>15.665093,58.400939,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Ånge]]></name>
-        <description>INGO Ånge, Ånge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Ånge, Ånge, Sverige]]></description>
         <Point><coordinates>15.6759,62.52467,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Rimforsa]]></name>
-        <description>INGO Rimforsa, Rimforsa, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Rimforsa, Rimforsa, Sverige]]></description>
         <Point><coordinates>15.67901,58.139367,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Linköping Järdalavägen]]></name>
-        <description>INGO Linköping Järdalavägen, Linköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Linköping Järdalavägen, Linköping, Sverige]]></description>
         <Point><coordinates>15.67902,58.38573,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Säter Riksväg 70]]></name>
-        <description>INGO Säter Riksväg 70, Säter, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Säter Riksväg 70, Säter, Sverige]]></description>
         <Point><coordinates>15.74723,60.35008,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Målilla]]></name>
-        <description>INGO Målilla, Målilla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Målilla, Målilla, Sverige]]></description>
         <Point><coordinates>15.80821,57.38885,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Arboga Burskapsvägen]]></name>
-        <description>INGO Arboga Burskapsvägen, Arboga, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Arboga Burskapsvägen, Arboga, Sverige]]></description>
         <Point><coordinates>15.828822,59.426569,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Vingåker]]></name>
-        <description>INGO Vingåker, Vingåker, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Vingåker, Vingåker, Sverige]]></description>
         <Point><coordinates>15.86658,59.03841,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Arboga]]></name>
-        <description>INGO Arboga, Arboga, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Arboga, Arboga, Sverige]]></description>
         <Point><coordinates>15.889843,59.395568,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Borgsjö]]></name>
-        <description>INGO Borgsjö, Erikslund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Borgsjö, Erikslund, Sverige]]></description>
         <Point><coordinates>15.919934,62.537125,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Köping]]></name>
-        <description>INGO Köping, Köping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Köping, Köping, Sverige]]></description>
         <Point><coordinates>15.97544,59.51623,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Högsby]]></name>
-        <description>INGO Högsby, Högsby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Högsby, Högsby, Sverige]]></description>
         <Point><coordinates>16.009271,57.167457,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Norrköping De Geersgatan]]></name>
-        <description>INGO Norrköping De Geersgatan, Norrköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Norrköping De Geersgatan, Norrköping, Sverige]]></description>
         <Point><coordinates>16.139327,58.606765,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Ingelsta Koppargatan]]></name>
-        <description>INGO Ingelsta Koppargatan, Norrköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Ingelsta Koppargatan, Norrköping, Sverige]]></description>
         <Point><coordinates>16.158596,58.611328,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Norrköping Vagngatan]]></name>
-        <description>INGO Norrköping Vagngatan, Norrköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Norrköping Vagngatan, Norrköping, Sverige]]></description>
         <Point><coordinates>16.162007,58.578627,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Järvsö]]></name>
-        <description>INGO Järvsö, Järvsö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Järvsö, Järvsö, Sverige]]></description>
         <Point><coordinates>16.16425,61.70545,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Hoting]]></name>
-        <description>INGO Hoting, Hoting, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Hoting, Hoting, Sverige]]></description>
         <Point><coordinates>16.172068,64.107343,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Avesta]]></name>
-        <description>INGO Avesta, Avesta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Avesta, Avesta, Sverige]]></description>
         <Point><coordinates>16.177059,60.155337,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Katrineholm Vasavägen]]></name>
-        <description>INGO Katrineholm Vasavägen, Katrineholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Katrineholm Vasavägen, Katrineholm, Sverige]]></description>
         <Point><coordinates>16.21169,58.99552,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Norrköping Hageby Centrum]]></name>
-        <description>INGO Norrköping Hageby Centrum, Norrköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Norrköping Hageby Centrum, Norrköping, Sverige]]></description>
         <Point><coordinates>16.212822,58.57376,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Norrköping Lindövägen]]></name>
-        <description>INGO Norrköping Lindövägen, Norrköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Norrköping Lindövägen, Norrköping, Sverige]]></description>
         <Point><coordinates>16.21561,58.59123,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Hallstahammar]]></name>
-        <description>INGO Hallstahammar, Hallstahammar, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Hallstahammar, Hallstahammar, Sverige]]></description>
         <Point><coordinates>16.236161,59.610654,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Kalmar Wismark]]></name>
-        <description>INGO Kalmar Wismark, Kalmar, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Kalmar Wismark, Kalmar, Sverige]]></description>
         <Point><coordinates>16.32554,56.69306,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Kalmar Södra Vägen]]></name>
-        <description>INGO Kalmar Södra Vägen, Kalmar, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Kalmar Södra Vägen, Kalmar, Sverige]]></description>
         <Point><coordinates>16.327234,56.666905,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Hammarstrand]]></name>
-        <description>INGO Hammarstrand, Hammarstrand, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Hammarstrand, Hammarstrand, Sverige]]></description>
         <Point><coordinates>16.35244,63.11142,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Bollnäs]]></name>
-        <description>INGO Bollnäs, Bollnäs, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Bollnäs, Bollnäs, Sverige]]></description>
         <Point><coordinates>16.39738,61.3563,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Oskarshamn]]></name>
-        <description>INGO Oskarshamn, Oskarshamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Oskarshamn, Oskarshamn, Sverige]]></description>
         <Point><coordinates>16.458547,57.260545,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Västerås Erikslund]]></name>
-        <description>INGO Västerås Erikslund, Västerås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Västerås Erikslund, Västerås, Sverige]]></description>
         <Point><coordinates>16.462611,59.618606,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Västerås Gjutjärnsgatan]]></name>
-        <description>INGO Västerås Gjutjärnsgatan, Västerås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Västerås Gjutjärnsgatan, Västerås, Sverige]]></description>
         <Point><coordinates>16.491418,59.594539,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Eskilstuna]]></name>
-        <description>INGO Eskilstuna, Eskilstuna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Eskilstuna, Eskilstuna, Sverige]]></description>
         <Point><coordinates>16.5076,59.3851,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Delsbo]]></name>
-        <description>INGO Delsbo, Delsbo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Delsbo, Delsbo, Sverige]]></description>
         <Point><coordinates>16.5521,61.79855,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Kilafors]]></name>
-        <description>INGO Kilafors, Kilafors, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Kilafors, Kilafors, Sverige]]></description>
         <Point><coordinates>16.56428,61.23012,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Västerås Strömledningsgatan]]></name>
-        <description>INGO Västerås Strömledningsgatan, Västerås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Västerås Strömledningsgatan, Västerås, Sverige]]></description>
         <Point><coordinates>16.568403,59.642716,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Stöde]]></name>
-        <description>INGO Stöde, Stöde, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Stöde, Stöde, Sverige]]></description>
         <Point><coordinates>16.58383,62.41768,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Valdemarsvik]]></name>
-        <description>INGO Valdemarsvik, Valdemarsvik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Valdemarsvik, Valdemarsvik, Sverige]]></description>
         <Point><coordinates>16.5848,58.21135,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Västervik]]></name>
-        <description>INGO Västervik, Västervik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Västervik, Västervik, Sverige]]></description>
         <Point><coordinates>16.598371,57.764677,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Västerås Österleden]]></name>
-        <description>INGO Västerås Österleden, Västerås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Västerås Österleden, Västerås, Sverige]]></description>
         <Point><coordinates>16.599854,59.62277,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Sala]]></name>
-        <description>INGO Sala, Sala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Sala, Sala, Sverige]]></description>
         <Point><coordinates>16.6165,59.918,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Västervik Allén]]></name>
-        <description>INGO Västervik Allén, Västervik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Västervik Allén, Västervik, Sverige]]></description>
         <Point><coordinates>16.61718,57.75958,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Bispgården]]></name>
-        <description>INGO Bispgården, Bispgården, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Bispgården, Bispgården, Sverige]]></description>
         <Point><coordinates>16.66239,63.01001,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Borgholm]]></name>
-        <description>INGO Borgholm, Borgholm, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Borgholm, Borgholm, Sverige]]></description>
         <Point><coordinates>16.66382,56.87684,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Malmköping]]></name>
-        <description>INGO Malmköping, Malmköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Malmköping, Malmköping, Sverige]]></description>
         <Point><coordinates>16.718573,59.140949,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Sandviken Vallhov]]></name>
-        <description>INGO Sandviken Vallhov, Sandviken, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Sandviken Vallhov, Sandviken, Sverige]]></description>
         <Point><coordinates>16.741403,60.621386,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Heby]]></name>
-        <description>INGO Heby, Heby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Heby, Heby, Sverige]]></description>
         <Point><coordinates>16.86852,59.93499,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Nyköping Oppeby]]></name>
-        <description>INGO Nyköping Oppeby, Nyköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Nyköping Oppeby, Nyköping, Sverige]]></description>
         <Point><coordinates>16.98695,58.76975,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Nyköping]]></name>
-        <description>INGO Nyköping, Nyköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Nyköping, Nyköping, Sverige]]></description>
         <Point><coordinates>17.02861,58.74832,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Enköping DR Westerlundsgatan]]></name>
-        <description>INGO Enköping DR Westerlundsgatan, Enköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Enköping DR Westerlundsgatan, Enköping, Sverige]]></description>
         <Point><coordinates>17.07011,59.63755,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Enköping Grusgatan]]></name>
-        <description>INGO Enköping Grusgatan, Enköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Enköping Grusgatan, Enköping, Sverige]]></description>
         <Point><coordinates>17.07736,59.65786,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Hudiksvall]]></name>
-        <description>INGO Hudiksvall, Hudiksvall, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Hudiksvall, Hudiksvall, Sverige]]></description>
         <Point><coordinates>17.094227,61.71721,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Oxelösund]]></name>
-        <description>INGO Oxelösund, Oxelösund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Oxelösund, Oxelösund, Sverige]]></description>
         <Point><coordinates>17.0984,58.67271,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Storuman]]></name>
-        <description>INGO Storuman, Storuman, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Storuman, Storuman, Sverige]]></description>
         <Point><coordinates>17.12211,65.10939,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Enköping Annelund]]></name>
-        <description>INGO Enköping Annelund, Enköping, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Enköping Annelund, Enköping, Sverige]]></description>
         <Point><coordinates>17.141676,59.646896,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Gävle Ingenjörsgatan]]></name>
-        <description>INGO Gävle Ingenjörsgatan, Gävle, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Gävle Ingenjörsgatan, Gävle, Sverige]]></description>
         <Point><coordinates>17.147337,60.64553,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Gävle Strömsbrovägen]]></name>
-        <description>INGO Gävle Strömsbrovägen, Gävle, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Gävle Strömsbrovägen, Gävle, Sverige]]></description>
         <Point><coordinates>17.15325,60.68585,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Gävle Hemlingby]]></name>
-        <description>INGO Gävle Hemlingby, Gävle, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Gävle Hemlingby, Gävle, Sverige]]></description>
         <Point><coordinates>17.16,60.6605,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Sundsvall Bultgatan]]></name>
-        <description>INGO Sundsvall Bultgatan, Sundsvall, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Sundsvall Bultgatan, Sundsvall, Sverige]]></description>
         <Point><coordinates>17.26698,62.39279,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Timrå]]></name>
-        <description>INGO Timrå, Timrå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Timrå, Timrå, Sverige]]></description>
         <Point><coordinates>17.32836,62.48935,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Birsta]]></name>
-        <description>INGO Birsta, Sundsvall, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Birsta, Sundsvall, Sverige]]></description>
         <Point><coordinates>17.33245,62.4425,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Birsta Antennvägen]]></name>
-        <description>INGO Birsta Antennvägen, Sundsvall, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Birsta Antennvägen, Sundsvall, Sverige]]></description>
         <Point><coordinates>17.34351,62.44189,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Sundsvall Brofästet]]></name>
-        <description>INGO Sundsvall Brofästet, Sundsvall, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Sundsvall Brofästet, Sundsvall, Sverige]]></description>
         <Point><coordinates>17.358018,62.380253,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Åsele]]></name>
-        <description>INGO Åsele, Åsele, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Åsele, Åsele, Sverige]]></description>
         <Point><coordinates>17.36952,64.16775,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Nykvarn]]></name>
-        <description>INGO Nykvarn, Nykvarn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Nykvarn, Nykvarn, Sverige]]></description>
         <Point><coordinates>17.43657,59.17581,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Tierp]]></name>
-        <description>INGO Tierp, Tierp, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Tierp, Tierp, Sverige]]></description>
         <Point><coordinates>17.5193,60.3413,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Trosa]]></name>
-        <description>INGO Trosa, Trosa, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Trosa, Trosa, Sverige]]></description>
         <Point><coordinates>17.5509,58.90985,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Uppsala ICA Maxi]]></name>
-        <description>INGO Uppsala ICA Maxi, Uppsala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Uppsala ICA Maxi, Uppsala, Sverige]]></description>
         <Point><coordinates>17.56115,59.84854,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Södertälje Scaniarinken]]></name>
-        <description>INGO Södertälje Scaniarinken, Södertälje, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Södertälje Scaniarinken, Södertälje, Sverige]]></description>
         <Point><coordinates>17.569421,59.190468,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Södertälje Nyköpingsvägen 52]]></name>
-        <description>INGO Södertälje Nyköpingsvägen 52, Södertälje, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Södertälje Nyköpingsvägen 52, Södertälje, Sverige]]></description>
         <Point><coordinates>17.628008,59.187104,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Uppsala Svartbäcksgatan]]></name>
-        <description>INGO Uppsala Svartbäcksgatan, Uppsala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Uppsala Svartbäcksgatan, Uppsala, Sverige]]></description>
         <Point><coordinates>17.62811,59.86894,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO BRO]]></name>
-        <description>INGO BRO, Bro, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO BRO, Bro, Sverige]]></description>
         <Point><coordinates>17.64059,59.51436,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO SÖDERTÄLJE SYD]]></name>
-        <description>INGO SÖDERTÄLJE SYD, Södertälje, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO SÖDERTÄLJE SYD, Södertälje, Sverige]]></description>
         <Point><coordinates>17.64181,59.15855,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Södertälje Bergaholmsvägen]]></name>
-        <description>INGO Södertälje Bergaholmsvägen, Södertälje, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Södertälje Bergaholmsvägen, Södertälje, Sverige]]></description>
         <Point><coordinates>17.64451,59.20425,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Uppsala Fullerö]]></name>
-        <description>INGO Uppsala Fullerö, Uppsala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Uppsala Fullerö, Uppsala, Sverige]]></description>
         <Point><coordinates>17.658978,59.940568,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Uppsala Kungsgatan]]></name>
-        <description>INGO Uppsala Kungsgatan, Uppsala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Uppsala Kungsgatan, Uppsala, Sverige]]></description>
         <Point><coordinates>17.66049,59.84911,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Uppsala Kungsgatan 103]]></name>
-        <description>INGO Uppsala Kungsgatan 103, Uppsala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Uppsala Kungsgatan 103, Uppsala, Sverige]]></description>
         <Point><coordinates>17.66307,59.8466,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Uppsala Fyrislund]]></name>
-        <description>INGO Uppsala Fyrislund, Uppsala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Uppsala Fyrislund, Uppsala, Sverige]]></description>
         <Point><coordinates>17.68764,59.85831,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Uppsala Vilan]]></name>
-        <description>INGO Uppsala Vilan, Uppsala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Uppsala Vilan, Uppsala, Sverige]]></description>
         <Point><coordinates>17.69775,59.82057,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Kungsängen]]></name>
-        <description>INGO Kungsängen, Kungsängen, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Kungsängen, Kungsängen, Sverige]]></description>
         <Point><coordinates>17.72581,59.47843,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Uppsala E4S]]></name>
-        <description>INGO Uppsala E4S, Uppsala, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Uppsala E4S, Uppsala, Sverige]]></description>
         <Point><coordinates>17.72873,59.84468,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Nyland]]></name>
-        <description>INGO Nyland, Nyland, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Nyland, Nyland, Sverige]]></description>
         <Point><coordinates>17.756095,63.005645,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Viksjö Plogvägen]]></name>
-        <description>INGO Viksjö Plogvägen, Järfälla, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Viksjö Plogvägen, Järfälla, Sverige]]></description>
         <Point><coordinates>17.79837,59.41314,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Hässelby Gård]]></name>
-        <description>INGO Hässelby Gård, Hässelby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Hässelby Gård, Hässelby, Sverige]]></description>
         <Point><coordinates>17.83889,59.36472,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Sollentuna]]></name>
-        <description>INGO Sollentuna, Sollentuna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Sollentuna, Sollentuna, Sverige]]></description>
         <Point><coordinates>17.85285,59.47737,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Fittja]]></name>
-        <description>INGO Fittja, Norsborg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Fittja, Norsborg, Sverige]]></description>
         <Point><coordinates>17.85769,59.25116,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Kungens Kurva]]></name>
-        <description>INGO Kungens Kurva, Kungens Kurva, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Kungens Kurva, Kungens Kurva, Sverige]]></description>
         <Point><coordinates>17.89698,59.26604,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Spånga]]></name>
-        <description>INGO Spånga, Spånga, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Spånga, Spånga, Sverige]]></description>
         <Point><coordinates>17.90731,59.38575,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Akalla]]></name>
-        <description>INGO Akalla, Kista, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Akalla, Kista, Sverige]]></description>
         <Point><coordinates>17.925256,59.416675,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Upplands Väsby]]></name>
-        <description>INGO Upplands Väsby, Upplands Väsby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Upplands Väsby, Upplands Väsby, Sverige]]></description>
         <Point><coordinates>17.9296,59.5143,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Nynäshamn]]></name>
-        <description>INGO Nynäshamn, Nynäshamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Nynäshamn, Nynäshamn, Sverige]]></description>
         <Point><coordinates>17.93813,58.91864,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Solna]]></name>
-        <description>INGO Solna, Solna, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Solna, Solna, Sverige]]></description>
         <Point><coordinates>18.00496,59.35017,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Älvsjö]]></name>
-        <description>INGO Älvsjö, Älvsjö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Älvsjö, Älvsjö, Sverige]]></description>
         <Point><coordinates>18.01338,59.27222,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Danderyd]]></name>
-        <description>INGO Danderyd, Danderyd, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Danderyd, Danderyd, Sverige]]></description>
         <Point><coordinates>18.03474,59.41264,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Täby]]></name>
-        <description>INGO Täby, Täby, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Täby, Täby, Sverige]]></description>
         <Point><coordinates>18.04257,59.44021,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Fagersjö]]></name>
-        <description>INGO Fagersjö, Farsta, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Fagersjö, Farsta, Sverige]]></description>
         <Point><coordinates>18.06468,59.24799,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Jordbro]]></name>
-        <description>INGO Jordbro, Haninge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Jordbro, Haninge, Sverige]]></description>
         <Point><coordinates>18.122946,59.139245,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Skogås]]></name>
-        <description>INGO Skogås, Skogås, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Skogås, Skogås, Sverige]]></description>
         <Point><coordinates>18.15389,59.21687,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Haninge Söderbyleden]]></name>
-        <description>INGO Haninge Söderbyleden, Haninge, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Haninge Söderbyleden, Haninge, Sverige]]></description>
         <Point><coordinates>18.158351,59.180172,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Handen]]></name>
-        <description>INGO Handen, Handen, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Handen, Handen, Sverige]]></description>
         <Point><coordinates>18.160273,59.174909,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Gottröra]]></name>
-        <description>INGO Gottröra, Rimbo, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Gottröra, Rimbo, Sverige]]></description>
         <Point><coordinates>18.1612,59.73867,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Nacka]]></name>
-        <description>INGO Nacka, Nacka, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Nacka, Nacka, Sverige]]></description>
         <Point><coordinates>18.17541,59.31195,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Åkersberga]]></name>
-        <description>INGO Åkersberga, Åkersberga, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Åkersberga, Åkersberga, Sverige]]></description>
         <Point><coordinates>18.27726,59.4878,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Östhammar]]></name>
-        <description>INGO Östhammar, Östhammar, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Östhammar, Östhammar, Sverige]]></description>
         <Point><coordinates>18.3653,60.25959,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Gustavsberg]]></name>
-        <description>INGO Gustavsberg, Gustavsberg, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Gustavsberg, Gustavsberg, Sverige]]></description>
         <Point><coordinates>18.383141,59.3077,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Värmdö Centrum]]></name>
-        <description>INGO Värmdö Centrum, Ingarö, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Värmdö Centrum, Ingarö, Sverige]]></description>
         <Point><coordinates>18.42814,59.31305,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Romakloster]]></name>
-        <description>INGO Romakloster, Romakloster, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Romakloster, Romakloster, Sverige]]></description>
         <Point><coordinates>18.45873,57.50093,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Bjästa]]></name>
-        <description>INGO Bjästa, Bjästa, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Bjästa, Bjästa, Sverige]]></description>
         <Point><coordinates>18.49986,63.19977,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Djurhamn]]></name>
-        <description>INGO Djurhamn, Djurhamn, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Djurhamn, Djurhamn, Sverige]]></description>
         <Point><coordinates>18.66788,59.2908,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Örnsköldsvik Gullänget]]></name>
-        <description>INGO Örnsköldsvik Gullänget, Örnsköldsvik, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Örnsköldsvik Gullänget, Örnsköldsvik, Sverige]]></description>
         <Point><coordinates>18.696909,63.314814,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Malå]]></name>
-        <description>INGO Malå, Malå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Malå, Malå, Sverige]]></description>
         <Point><coordinates>18.74662,65.17898,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Fårösund]]></name>
-        <description>INGO Fårösund, Fårösund, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Fårösund, Fårösund, Sverige]]></description>
         <Point><coordinates>19.051457,57.860084,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Arvidsjaur]]></name>
-        <description>INGO Arvidsjaur, Arvidsjaur, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Arvidsjaur, Arvidsjaur, Sverige]]></description>
         <Point><coordinates>19.189984,65.587515,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Hörnefors]]></name>
-        <description>INGO Hörnefors, Hörnefors, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Hörnefors, Hörnefors, Sverige]]></description>
         <Point><coordinates>19.91128,63.638,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Umeå Carlshem]]></name>
-        <description>INGO Umeå Carlshem, Umeå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Umeå Carlshem, Umeå, Sverige]]></description>
         <Point><coordinates>20.311244,63.80196,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Skellefteå Degerbyn]]></name>
-        <description>INGO Skellefteå Degerbyn, Skellefteå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Skellefteå Degerbyn, Skellefteå, Sverige]]></description>
         <Point><coordinates>20.90176,64.75716,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Skellefteå Solbacken]]></name>
-        <description>INGO Skellefteå Solbacken, Skellefteå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Skellefteå Solbacken, Skellefteå, Sverige]]></description>
         <Point><coordinates>21.025253,64.766873,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Bureå]]></name>
-        <description>INGO Bureå, Bureå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Bureå, Bureå, Sverige]]></description>
         <Point><coordinates>21.19927,64.61733,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Byske]]></name>
-        <description>INGO Byske, Byske, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Byske, Byske, Sverige]]></description>
         <Point><coordinates>21.21062,64.95517,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Piteå]]></name>
-        <description>INGO Piteå, Piteå, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Piteå, Piteå, Sverige]]></description>
         <Point><coordinates>21.4468,65.32343,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
       <Placemark>
         <name><![CDATA[INGO Haparanda]]></name>
-        <description>INGO Haparanda, Haparanda, Sverige</description>
-        <styleUrl>#icon-22</styleUrl>
+        <description><![CDATA[INGO Haparanda, Haparanda, Sverige]]></description>
         <Point><coordinates>24.12756,65.83923,0</coordinates></Point>
+        <styleUrl>#icon-22</styleUrl>
       </Placemark>
     </Folder>
   </Document>
