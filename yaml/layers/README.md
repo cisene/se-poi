@@ -38,7 +38,7 @@
 
 - [City Gross](./citygross.yaml)
 - [Coop](./coop.yaml)
-- Direkten
+- [Direkten](./direkten.yaml)
 - [Hemköp](./hemköp.yaml)
 - Nära Dej
 - Eurocash
