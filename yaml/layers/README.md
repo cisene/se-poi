@@ -7,7 +7,7 @@
 - [Biltema](./biltema.yaml)
 - [Autoexperten](./autoexperten.yaml)
 - [Meca Scandinavia](./meca-bilservice.yaml)
-- Bildelshuset (BDS)
+- [Bildelshuset (BDS)](./bds.yaml)
 - [Mekonomen](./mekonomen.yaml)
 
 
