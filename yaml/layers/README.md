@@ -5,8 +5,7 @@
 ## Biltillbehörskedjor
 
 - [Biltema](./biltema.yaml)
-- KGK (Autoexperten)
-- Micro bildelar
+- [Autoexperten](./autoexperten.yaml)
 - Meca Scandinavia
 - Bildelshuset (BDS)
 - [Mekonomen](./mekonomen.yaml)
