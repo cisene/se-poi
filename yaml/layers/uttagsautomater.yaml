@@ -1,0 +1,1887 @@
+meta:
+  name: Uttagsautomater
+  web: https://www.uttagsautomater.se/
+  wikipedia: null
+  category: Uttagsautomater
+  locations: 235
+
+locations:
+- location: Foreningssparbanken Ab
+  address: Sveagatan
+  city: Grums
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.33991
+  longitude: 13.105865
+
+- location: Willys Visby
+  address: Skarphällsgatan 8
+  city: Visby
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 57.636524
+  longitude: 18.327137
+
+- location: Atvidabergs Sparbank
+  address: Torggatan 1
+  city: Åtvidaberg
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 58.201052
+  longitude: 15.99833
+
+- location: Nordea
+  address: Drottninggatan 28
+  city: Boden
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 65.820541
+  longitude: 21.674822
+
+- location: Hemköp Valdemarsvik
+  address: Vammar Köpcenter
+  city: Valdemarsvik
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 58.202451
+  longitude: 16.601363
+
+- location: Statoil Ica Expr. Norrtälje
+  address: Stockholmsvägen 28
+  city: Norrtälje
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.749671
+  longitude: 18.689059
+
+- location: Coop Extra Säffle Köpcenter
+  address: Stationsgatan
+  city: Säffle
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.13209
+  longitude: 12.918753
+
+- location: Nordea
+  address: Storgatan 41
+  city: Södertälje
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.202231
+  longitude: 17.622358
+
+- location: Foreninssparbanken
+  address: Tullportsgatan
+  city: Härnösand
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 62.62761
+  longitude: 17.92364
+
+- location: Ica Suoermarket Are
+  address: Sankt Olavs Väg
+  city: Åre
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 63.400585
+  longitude: 13.073627
+
+- location: Cekab Se-Banken
+  address: Stallbackavägen
+  city: Trollhättan
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 58.300653
+  longitude: 12.312473
+
+- location: Foreningssparbanken Ab
+  address: Storgatan
+  city: Hemse
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 57.235039
+  longitude: 18.372413
+
+- location: Willys Terminalvägen
+  address: Terminalvägen 1
+  city: Örnsköldsvik
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 63.306185
+  longitude: 18.746607
+
+- location: Hemköp Mölndal, Bifrost
+  address: Pinnharvsgatan 11
+  city: Mölndal
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 57.661937
+  longitude: 11.9912
+
+- location: Nordea
+  address: Köpmangatan
+  city: Timrå
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 62.482757
+  longitude: 17.31654
+
+- location: Handelsbanken
+  address: Centrumgatan 13
+  city: Tibro
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 58.425689
+  longitude: 14.164311
+
+- location: Westra Wermlands Sparbank
+  address: Storgatan
+  city: Årjäng
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.385972
+  longitude: 12.12598
+
+- location: Foreningssparbanken Sjuharad Ab
+  address: Göteborgsvägen
+  city: Bollebygd
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 57.67002
+  longitude: 12.56349
+
+- location: Handelsbanken
+  address: Nygatan 2
+  city: Kävlinge
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 55.790356
+  longitude: 13.108576
+
+- location: Foreningssparbanken Ab
+  address: Hoppets Torg
+  city: Jönköping
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 57.782515
+  longitude: 14.17034
+
+- location: Foreningssparbanken Ab
+  address: Norra Storgatan
+  city: Bjuv
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 56.08813
+  longitude: 12.912968
+
+- location: Foreningssparbanken Ab
+  address: Skolgatan 18
+  city: Laxå
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 58.985471
+  longitude: 14.617838
+
+- location: Sparbanken Syd
+  address: Regementsgatan
+  city: Ystad
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 55.431531
+  longitude: 13.834795
+
+- location: Foreningssparbanken Soderhamn Ab
+  address: Kungsgatan
+  city: Söderhamn
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 61.303073
+  longitude: 17.053616
+
+- location: Coop Forum
+  address: Broängsgatan
+  city: Kristinehamn
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.313524
+  longitude: 14.102324
+
+- location: Willys Hultsfred
+  address: Nytorpsvägen
+  city: Hultsfred
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 57.50669
+  longitude: 15.83263
+
+- location: Foreningssparbanken Ab
+  address: Höstvägen 5
+  city: Växjö
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 56.891075
+  longitude: 14.79482
+
+- location: Maxi Ica Stormarknad Bromolla
+  address: Tians Väg 18
+  city: Bromölla
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 56.069706
+  longitude: 14.477446
+
+- location: Foreningssparbanken Ab
+  address: Storgatan 16
+  city: Alvesta
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 56.900181
+  longitude: 14.55659
+
+- location: Seb
+  address: Tumbavägen
+  city: Tumba
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.200295
+  longitude: 17.82671
+
+- location: Lf Östgöta
+  address: Torggatan 1
+  city: Kisa
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 57.987341
+  longitude: 15.632636
+
+- location: Coop Extra Skutskär
+  address: Centralgatan 9
+  city: Skutskär
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 60.622665
+  longitude: 17.41723
+
+- location: Sala Sparbank
+  address: Gamla Kyrkvägen 6
+  city: Heby
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.940139
+  longitude: 16.861356
+
+- location: Arlanda Flygplats Term 4
+  address: Arlanda Flygplats Terminal4
+  city: Stockholm
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.647796
+  longitude: 17.927005
+
+- location: Nordea
+  address: Simmatorpsgatan
+  city: Skara
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 58.37257
+  longitude: 13.4136
+
+- location: Nordea
+  address: Skolgatan
+  city: Umeå
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 63.829265
+  longitude: 20.248655
+
+- location: Skaraborgs Lans Sparbank
+  address: Torsgatan 5
+  city: Vara
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 58.264023
+  longitude: 12.956999
+
+- location: Gottsunda Centrum
+  address: Valthornsvägen 3
+  city: Uppsala
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.811377
+  longitude: 17.628399
+
+- location: Ica Maxi
+  address: Industrigatan 1
+  city: Hässleholm
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 56.164084
+  longitude: 13.779176
+
+- location: Fars &Amp; Frosta Sparbank
+  address: Storgatan
+  city: Staffanstorp
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 55.64103
+  longitude: 13.205155
+
+- location: Lasarettet
+  address: Kyrkgatan
+  city: Östersund
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 63.17231
+  longitude: 14.639595
+
+- location: Hemköp Mjölby
+  address: Smålandsvägen 44
+  city: Mjölby
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 58.319188
+  longitude: 15.118791
+
+- location: Ica Supermarket Lindesberg
+  address: Koppgatan 1
+  city: Lindesberg
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.594221
+  longitude: 15.222298
+
+- location: Foreningssparbanken Ab
+  address: Storgatan 12
+  city: Nybro
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 56.74297
+  longitude: 15.910258
+
+- location: Nordea
+  address: Krokvägen 2
+  city: Hagfors
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 60.023833
+  longitude: 13.678993
+
+- location: Seb
+  address: Mor Kerstins Torg
+  city: Kinna
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 57.507447
+  longitude: 12.692541
+
+- location: Seb
+  address: Brobacken 2
+  city: Lerum
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 57.770584
+  longitude: 12.269362
+
+- location: Nordea
+  address: Sturegatan 6
+  city: Vetlanda
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 57.4217
+  longitude: 15.078296
+
+- location: Foreningssparbanken Ab
+  address: Kungsgatan 25
+  city: Karlsborg
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 58.530099
+  longitude: 14.51104
+
+- location: Ica Supermarket Toria
+  address: Toria Center
+  city: Torsby
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 60.12498
+  longitude: 12.9948
+
+- location: Lf Halland
+  address: Storgatan 20
+  city: Hyltebruk
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 56.998201
+  longitude: 13.238548
+
+- location: Ica Supermarket Ange
+  address: Norra Borgsjövägen 24
+  city: Ånge
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 62.524978
+  longitude: 15.675626
+
+- location: Coop Extra Degerfors
+  address: Medborgargatan 15
+  city: Degerfors
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.237675
+  longitude: 14.432545
+
+- location: Nordea
+  address: Västra Järnvägsgatan 20
+  city: Vännäs
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 63.917318
+  longitude: 19.74256
+
+- location: Foreningssparbanken Ab
+  address: Järnvägsgatan 1
+  city: Vaggeryd
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 57.498653
+  longitude: 14.149155
+
+- location: Hemköp Herrljunga
+  address: Västra Parkgatan 1
+  city: Herrljunga
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 58.077738
+  longitude: 13.017879
+
+- location: Coop Extra Hofors
+  address: Skolgatan 16
+  city: Hofors
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 60.545813
+  longitude: 16.284496
+
+- location: Nordea
+  address: Stora Gatan 40
+  city: Sigtuna
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.616937
+  longitude: 17.722475
+
+- location: Foreningssparbanken Ab
+  address: Köpmansgatan 34
+  city: Båstad
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 56.430229
+  longitude: 12.840664
+
+- location: Nordea
+  address: Storgatan
+  city: Nossebro
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 58.18988
+  longitude: 12.724585
+
+- location: Foreningssparbanken Ab
+  address: Storgatan 98
+  city: Norsjö
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 64.917298
+  longitude: 19.473226
+
+- location: Handelsbanken
+  address: Torggatan
+  city: Falkenberg
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 56.90434
+  longitude: 12.488403
+
+- location: Ica Supermarket Speceritjanst
+  address: Oddergatan 3
+  city: Katrineholm
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 58.988732
+  longitude: 16.180043
+
+- location: Foreningssparbanken Ab
+  address: Björkhagsgatan
+  city: Skoghall
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.325455
+  longitude: 13.467635
+
+- location: Coop Extra Kil
+  address: Årstidsvägen
+  city: Kil
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.50048
+  longitude: 13.333715
+
+- location: Torp Köpcenter
+  address: Torp 5
+  city: Uddevalla
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 58.351001
+  longitude: 11.830492
+
+- location: Nordea
+  address: Gamla Kronvägen 50
+  city: Partille
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 57.739698
+  longitude: 12.107158
+
+- location: Willys Lyckeby Karlskrona
+  address: Stationsvägen 21
+  city: Karlskrona
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 56.1986
+  longitude: 15.65366
+
+- location: Ikea
+  address: Trafikplats Birsta
+  city: Sundsvall
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 62.44706
+  longitude: 17.339526
+
+- location: Tjorns Sparbank
+  address: Hamngatan
+  city: Skärhamn
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 57.989626
+  longitude: 11.546236
+
+- location: Ica Markant
+  address: Skulptörvägen 2
+  city: Markaryd
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 56.449865
+  longitude: 13.597908
+
+- location: Sparbanken I Lidkoping
+  address: Gamla Stadens Torg 3
+  city: Lidköping
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 58.503093
+  longitude: 13.162178
+
+- location: Sparbanken Nord
+  address: Storgatan 15
+  city: Arvidsjaur
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 65.593419
+  longitude: 19.174057
+
+- location: Coop Forum Kungsängen
+  address: Energivägen 2
+  city: Kungsängen
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.504879
+  longitude: 17.742398
+
+- location: Foreningssparbanken Ab
+  address: Storgatan 77
+  city: Sollefteå
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 63.165373
+  longitude: 17.275371
+
+- location: Hemköp Malung
+  address: Grönlandsvägen 23
+  city: Malung
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 60.685115
+  longitude: 13.710354
+
+- location: Handelsbanken
+  address: Ruben Rausings Gata
+  city: Lund
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 55.689897
+  longitude: 13.193686
+
+- location: Nordea
+  address: Volgsjövägen 21
+  city: Vilhelmina
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 64.626354
+  longitude: 16.651665
+
+- location: Foreningssparbanken Ab
+  address: Västra Torggatan 1
+  city: Ronneby
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 56.210079
+  longitude: 15.276058
+
+- location: Foreningssparbanken Ab
+  address: Söderhamnsplan
+  city: Vaxholm
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.402241
+  longitude: 18.353004
+
+- location: Foreningssparbanken Ab
+  address: Centrumvägen
+  city: Västerhaninge
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.123147
+  longitude: 18.104834
+
+- location: Foreningssparbanken Ab
+  address: Eriksgatan 100
+  city: Landskrona
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 55.875484
+  longitude: 12.832317
+
+- location: City Gross Gävle
+  address: Ingenjörsgatan 15
+  city: Gävle
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 60.647231
+  longitude: 17.14985
+
+- location: Foreningssparbanken Ab
+  address: Morögatan
+  city: Skellefteå
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 64.751338
+  longitude: 20.994764
+
+- location: Handelsbanken
+  address: Kungsgatan
+  city: Vårgårda
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 58.03622
+  longitude: 12.810145
+
+- location: Foreningssparbanken Ab
+  address: Stenunge Väg
+  city: Stenungsund
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 58.078539
+  longitude: 11.828434
+
+- location: Lf Jönköping
+  address: Storgatan 38
+  city: Nässjö
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 57.654548
+  longitude: 14.694139
+
+- location: Ica Kvantum
+  address: Brogatan 4
+  city: Vänersborg
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 58.380657
+  longitude: 12.317235
+
+- location: Statoil Ica Express Akalla
+  address: Finlandsgatan 1
+  city: Kista
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.413493
+  longitude: 17.929374
+
+- location: Nordea
+  address: Sävevägen 8
+  city: Alingsås
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 57.92976
+  longitude: 12.523203
+
+- location: Foreningssparbanken Ab
+  address: Norra Esplanaden 13
+  city: Älmhult
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 56.553525
+  longitude: 14.141025
+
+- location: Foreningssparbanken Ab
+  address: Storgatan
+  city: Gnosjö
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 57.358041
+  longitude: 13.733077
+
+- location: Pressbyrån Sollentuna C
+  address: Allfarvägen 3
+  city: Sollentuna
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.426605
+  longitude: 17.952698
+
+- location: Nordea
+  address: Skolgatan 17
+  city: Storuman
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 65.095449
+  longitude: 17.113357
+
+- location: Foreningssparbanken Ab
+  address: Storgatan 25
+  city: Kalmar
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 56.663747
+  longitude: 16.364223
+
+- location: Coop Extra Sala
+  address: Kålgårdsgatan 3
+  city: Sala
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.919429
+  longitude: 16.612381
+
+- location: Hemköp Leksand
+  address: Leksandsvägen 24
+  city: Leksand
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 60.735214
+  longitude: 15.000433
+
+- location: Foreningssparbanken Ab
+  address: Himmelska Fridens Torg
+  city: Holmsund
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 63.706235
+  longitude: 20.363901
+
+- location: Foreningssparbanken Ab
+  address: Bergslagsvägen 4
+  city: Finspång
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 58.707069
+  longitude: 15.772903
+
+- location: Ulricehamns Sparbank
+  address: Lilla Torget
+  city: Ulricehamn
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 57.794495
+  longitude: 13.415415
+
+- location: Ica Supermarket Nasbyn Kalix
+  address: Flygfältsvägen 27
+  city: Kalix
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 65.84801
+  longitude: 23.173208
+
+- location: Cekab Se-Banken
+  address: Drottninggatan 18
+  city: Kungsör
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.424515
+  longitude: 16.094036
+
+- location: Foreningssparbanken Ab
+  address: Malmgatan
+  city: Habo
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 57.90987
+  longitude: 14.08164
+
+- location: Se Banken
+  address: Gustavsgatan 25
+  city: Karlskoga
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.330007
+  longitude: 14.503732
+
+- location: Sjaelsö Bollnäs
+  address: Nygatan 7
+  city: Bollnäs
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 61.347479
+  longitude: 16.395264
+
+- location: Coop Forum Enköping
+  address: Östra Ringgatan 21
+  city: Enköping
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.633673
+  longitude: 17.08154
+
+- location: Foreningssparbanken Ab
+  address: Tuna Torg
+  city: Vallentuna
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.534425
+  longitude: 18.07936
+
+- location: Ica Supermarket Vingaker
+  address: Bondegatan 9
+  city: Vingåker
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.043213
+  longitude: 15.872969
+
+- location: Cekab Se-Banken
+  address: Rosviksgatan
+  city: Lysekil
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 58.272902
+  longitude: 11.43565
+
+- location: Ica Supermarket
+  address: Vasagatan 1
+  city: Hjo
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 58.30472
+  longitude: 14.291163
+
+- location: Hemköp Hedemora
+  address: Gussarvsgatan 23
+  city: Hedemora
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 60.282425
+  longitude: 15.990525
+
+- location: Nordea
+  address: Södra Kungsvägen 254
+  city: Lidingö
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.34851
+  longitude: 18.21236
+
+- location: Nordea
+  address: Sankt Sigfridsgatan
+  city: Falköping
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 58.172878
+  longitude: 13.555739
+
+- location: Cekab Se-Banken
+  address: Södra Torggatan 9
+  city: Kungsbacka
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 57.486729
+  longitude: 12.076756
+
+- location: Cekab Se-Banken
+  address: Allégatan 2
+  city: Perstorp
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 56.137868
+  longitude: 13.395675
+
+- location: Konsum
+  address: Häradsvägen 99
+  city: Vindeln
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 64.204653
+  longitude: 19.721725
+
+- location: Seb
+  address: Norra Järnvägsgatan 9
+  city: Skurup
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 55.478716
+  longitude: 13.510888
+
+- location: Lf Gävleborg
+  address: Hyttgatan 18
+  city: Sandviken
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 60.619215
+  longitude: 16.776691
+
+- location: Foreningssparbanken Ab
+  address: Centralgatan
+  city: Nynäshamn
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 58.904541
+  longitude: 17.944203
+
+- location: Foreningssparbanken Ab
+  address: Bruksgatan
+  city: Lessebo
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 56.749963
+  longitude: 15.272996
+
+- location: Hemköp Avesta
+  address: Prästgatan 26
+  city: Avesta
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 60.142143
+  longitude: 16.160953
+
+- location: Motala Centrum
+  address: Bispmotalagatan 5
+  city: Motala
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 58.535996
+  longitude: 15.037832
+
+- location: Statoil Tranås
+  address: Mjölbyvägen 1
+  city: Tranås
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 58.040528
+  longitude: 14.979902
+
+- location: Orusts Sparbank
+  address: Södra Strandvägen
+  city: Henån
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 58.233496
+  longitude: 11.680982
+
+- location: Seb
+  address: Storgatan 8
+  city: Laholm
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 56.513145
+  longitude: 13.04252
+
+- location: Seb
+  address: Nya Torget
+  city: Mariestad
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 58.709684
+  longitude: 13.823095
+
+- location: Tidaholms Sparbank
+  address: Gamla Torget 10
+  city: Tidaholm
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 58.181604
+  longitude: 13.958359
+
+- location: Handelsbanken
+  address: Nygatan 32
+  city: Hörby
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 55.851807
+  longitude: 13.660155
+
+- location: Handelsbanken
+  address: Stationsvägen 9
+  city: Fagersta
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 60.004256
+  longitude: 15.793219
+
+- location: Coop Konsum Hallsberg
+  address: Trädgårdsgatan 6
+  city: Hallsberg
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.064642
+  longitude: 15.113173
+
+- location: Nordea
+  address: Storgatan 76
+  city: Haparanda
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 65.835555
+  longitude: 24.139166
+
+- location: Vita Flacken
+  address: Gymnasiegatan
+  city: Kungälv
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 57.87585
+  longitude: 11.97027
+
+- location: Foreningssparbanken Ab
+  address: Matarengivägen 21
+  city: Övertorneå
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 66.388513
+  longitude: 23.657698
+
+- location: Foreninssparbanken
+  address: Södra Pitholmsvägen 4
+  city: Piteå
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 65.300722
+  longitude: 21.518491
+
+- location: Foreningssparbanken Ab
+  address: Södra Parkvägen
+  city: Boliden
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 64.86618
+  longitude: 20.387237
+
+- location: Coop Konsum Vansbro
+  address: Södra Allégatan
+  city: Vansbro
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 60.506775
+  longitude: 14.225545
+
+- location: Foreninssparbanken
+  address: Hedvägen 79
+  city: Trelleborg
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 55.381549
+  longitude: 13.153314
+
+- location: Nordea
+  address: Dalgatan 73
+  city: Älvdalen
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 61.228259
+  longitude: 14.038604
+
+- location: Foreningssparbanken Ab
+  address: Fjällvägen 4
+  city: Sveg
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 62.033092
+  longitude: 14.359791
+
+- location: Nordea
+  address: Dansutvägen 2
+  city: Gnesta
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.03935
+  longitude: 17.327175
+
+- location: Kristianstads Sparbank
+  address: Gamla Långebrogatan 36
+  city: Kristianstad
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 56.022206
+  longitude: 14.146579
+
+- location: Nordea
+  address: Storgatan
+  city: Forshaga
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.549334
+  longitude: 13.478587
+
+- location: Nordea
+  address: Lilla Rådmansgatan 5
+  city: Simrishamn
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 55.557106
+  longitude: 14.349767
+
+- location: Coop Extra Östhammar
+  address: Energivägen
+  city: Östhammar
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 60.24921
+  longitude: 18.348365
+
+- location: Nordea
+  address: Nya Knutpunkten
+  city: Helsingborg
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 56.042742
+  longitude: 12.694011
+
+- location: Solvesborg-Mjallby Sparbank
+  address: Centrumvägen
+  city: Sölvesborg
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 56.047175
+  longitude: 14.679215
+
+- location: Sparbanken I Karlshamn
+  address: Drottninggatan 55
+  city: Karlshamn
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 56.170601
+  longitude: 14.861766
+
+- location: Fars &Amp; Frosta Sparbank
+  address: Nya Torget
+  city: Sjöbo
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 55.634945
+  longitude: 13.70274
+
+- location: Ica Nara Profilen Kumla
+  address: Skolvägen 12
+  city: Kumla
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.126578
+  longitude: 15.13622
+
+- location: Handelsbanken
+  address: Storgatan 37
+  city: Sunne
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.837361
+  longitude: 13.146015
+
+- location: Foreningssparbanken Ab
+  address: Centrumvägen
+  city: Färgelanda
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 58.569575
+  longitude: 11.997841
+
+- location: Handelsbanken
+  address: Friskväderstorget 2
+  city: Göteborg
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 57.72383
+  longitude: 11.891707
+
+- location: Hanohallen
+  address: Järnvägsgatan
+  city: Åhus
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 55.927346
+  longitude: 14.306586
+
+- location: Seb
+  address: Stora Torget
+  city: Oskarshamn
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 57.264875
+  longitude: 16.448175
+
+- location: Coop Extra Ljusdal
+  address: Norra Järnvägsgatan 27
+  city: Ljusdal
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 61.82875
+  longitude: 16.091591
+
+- location: Ica Kvantum Höganäs
+  address: Lexikonvägen
+  city: Höganäs
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 56.190802
+  longitude: 12.565412
+
+- location: Statoil Orsa
+  address: Lissvägen 2
+  city: Orsa
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 61.11881
+  longitude: 14.62647
+
+- location: Fars &Amp; Frosta Sparbank
+  address: Storgatan 40
+  city: Höör
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 55.935027
+  longitude: 13.540804
+
+- location: Nordea
+  address: Köpmangatan 18
+  city: Surahammar
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.706098
+  longitude: 16.222341
+
+- location: Foreningssparbanken Ab
+  address: Allégatan 4
+  city: Trosa
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 58.892338
+  longitude: 17.55797
+
+- location: Foreninssparbanken
+  address: Halmstadvägen
+  city: Halmstad
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 56.660256
+  longitude: 12.8093
+
+- location: Lf Uppsala
+  address: Centralgatan 2
+  city: Tierp
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 60.341498
+  longitude: 17.51945
+
+- location: Bergslagens Sparbank
+  address: Konstmästaregatan
+  city: Kopparberg
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.875991
+  longitude: 14.993884
+
+- location: Willys Strängnäs
+  address: Solberga Handelsväg
+  city: Strängnäs
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.335576
+  longitude: 17.020457
+
+- location: Foreningssparbanken Ab
+  address: Långgatan 50
+  city: Edsbyn
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 61.382308
+  longitude: 15.814085
+
+- location: Sparbanken Tranemo
+  address: Storgatan 22
+  city: Tranemo
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 57.484647
+  longitude: 13.352776
+
+- location: Ryds Centrum
+  address: Timmervägen 7
+  city: Skövde
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 58.426187
+  longitude: 13.870327
+
+- location: Ica Maxi Linköping
+  address: Svedengatan 10
+  city: Linköping
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 58.430942
+  longitude: 15.590433
+
+- location: Sparbanken I Enkoping
+  address: Stockholmsvägen
+  city: Bålsta
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.56438
+  longitude: 17.536582
+
+- location: Handelsbanken
+  address: Vendevägen 10
+  city: Djursholm
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.397417
+  longitude: 18.089349
+
+- location: Cekab Se-Banken
+  address: Sagbrovägen
+  city: Lindome
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 57.579102
+  longitude: 12.084306
+
+- location: Foreningssparbanken Ab
+  address: Myntplan
+  city: Norberg
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 60.064825
+  longitude: 15.925505
+
+- location: Willys Ringvägen Köping
+  address: Ringvägen 76
+  city: Köping
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.521051
+  longitude: 15.975221
+
+- location: Astrid Lindgrens Varld
+  address: Astrid Lindgrens Gata
+  city: Vimmerby
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 57.681036
+  longitude: 15.873943
+
+- location: Nordea
+  address: Storgatan 8
+  city: Eslöv
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 55.83878
+  longitude: 13.30492
+
+- location: Seb
+  address: Bankgatan 8
+  city: Vellinge
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 55.469813
+  longitude: 13.020325
+
+- location: Statoil Söderköping
+  address: Åpromenaden
+  city: Söderköping
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 58.481526
+  longitude: 16.321823
+
+- location: Hemköp Borgholm
+  address: Storgatan 51
+  city: Borgholm
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 56.876075
+  longitude: 16.664435
+
+- location: Lf Kalmar
+  address: Fiskaretorget
+  city: Västervik
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 57.759638
+  longitude: 16.637205
+
+- location: Visattra
+  address: Kvarnängsvägen
+  city: Huddinge
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.21631
+  longitude: 17.957185
+
+- location: Nordea
+  address: Oskarsgatan 6
+  city: Grästorp
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 58.334816
+  longitude: 12.676212
+
+- location: Westra Wermlands Sparbank
+  address: Västra Torggatan 1
+  city: Arvika
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.654005
+  longitude: 12.590685
+
+- location: Willys Kungälv
+  address: Vikingagatan 1
+  city: Götene
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 58.535568
+  longitude: 13.501668
+
+- location: Ica Kvantum Akersberga
+  address: Stationsvägen 5
+  city: Åkersberga
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.47522
+  longitude: 18.30114
+
+- location: Handelsbanken
+  address: Klippanvägen
+  city: Ängelholm
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 56.248067
+  longitude: 12.874762
+
+- location: Foreningssparbanken Ab
+  address: Limstagatan 14
+  city: Kramfors
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 62.931406
+  longitude: 17.78031
+
+- location: Foreningssparbanken Ab
+  address: Rödkallens Väg 17
+  city: Luleå
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 65.58069
+  longitude: 22.206404
+
+- location: Foreningssparbanken Sjuharad Ab
+  address: Torggatan 4
+  city: Borås
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 57.720558
+  longitude: 12.936738
+
+- location: Hemköp Karlstad
+  address: Drottninggatan 33
+  city: Karlstad
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.379245
+  longitude: 13.497091
+
+- location: City Gross Värnamo
+  address: Silkesvägen 34
+  city: Värnamo
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 57.178022
+  longitude: 14.007713
+
+- location: Sparbanken Sormland
+  address: Södra Kungsgatan 8
+  city: Flen
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.056956
+  longitude: 16.594638
+
+- location: Hemköp Hudiksvall
+  address: Västra Tullgatan 37
+  city: Hudiksvall
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 61.731385
+  longitude: 17.102694
+
+- location: Willys Marieberg Örebro
+  address: Kundvägen 4
+  city: Örebro
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.22395
+  longitude: 15.1575
+
+- location: Sparbanken Vastra Malardalen
+  address: Nygatan 40
+  city: Arboga
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.394644
+  longitude: 15.838543
+
+- location: Hemköp Ljungbyhed
+  address: Storgatan 8
+  city: Klippan
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 56.136689
+  longitude: 13.127663
+
+- location: Nordea
+  address: Kyrkogatan 2
+  city: Mora
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 61.006709
+  longitude: 14.540312
+
+- location: Hemköp Smeden Eskilstuna
+  address: Tivolialleen 2
+  city: Eskilstuna
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.37104
+  longitude: 16.51054
+
+- location: Hemköp Lindö Norrköping
+  address: Lindövägen
+  city: Norrköping
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 58.606605
+  longitude: 16.264577
+
+- location: Ica Kvantum Åstorp
+  address: Trädgårdsgatan 40
+  city: Åstorp
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 56.136622
+  longitude: 12.942376
+
+- location: Coop Forum Stora B Arlöv
+  address: Vassvägen 20
+  city: Arlöv
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 55.613194
+  longitude: 13.100345
+
+- location: Ica Supermarket Nora
+  address: Storgatan 45
+  city: Nora
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.5091
+  longitude: 15.03445
+
+- location: Statoil Ica Express U Väsby
+  address: Kapellvägen 1
+  city: Upplands-Väsby
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.513438
+  longitude: 17.919871
+
+- location: Hemköp Garvaren Ljungby
+  address: Stationsgatan 2
+  city: Ljungby
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 56.832728
+  longitude: 13.93346
+
+- location: Willys Västerås Hälla
+  address: Kranbyggargatan
+  city: Västerås
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.60714
+  longitude: 16.613904
+
+- location: Nordea
+  address: Hammartorget
+  city: Hallstahammar
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.61248
+  longitude: 16.231285
+
+- location: Willys Eksjö
+  address: Österlånggatan 28
+  city: Eksjö
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 57.670361
+  longitude: 14.970505
+
+- location: Nordea
+  address: Järnvägsgatan 2
+  city: Sundbyberg
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.36066
+  longitude: 17.973474
+
+- location: Seb
+  address: Torggatan 2
+  city: Varberg
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 57.105638
+  longitude: 12.248625
+
+- location: Coop Sjaelsö Ludvika
+  address: Granitvägen
+  city: Ludvika
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 60.13542
+  longitude: 15.154665
+
+- location: Nordea
+  address: Sundsbrogatan 14
+  city: Askersund
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 58.879401
+  longitude: 14.903743
+
+- location: Nordea
+  address: Östra Torggatan 6
+  city: Töreboda
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 58.707432
+  longitude: 14.12586
+
+- location: Willys Märsta
+  address: Nymärsta Gränd 5
+  city: Märsta
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.619665
+  longitude: 17.855052
+
+- location: Willys Gislaved
+  address: Smålanidagatan 9
+  city: Gislaved
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 57.30645
+  longitude: 13.54247
+
+- location: Handelsbanken
+  address: Genvägen 1
+  city: Krokom
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 63.326833
+  longitude: 14.449997
+
+- location: Coop Extra Filipstad
+  address: Viktoriagatan 1
+  city: Filipstad
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.712898
+  longitude: 14.169639
+
+- location: Handelsbanken
+  address: Kungsvägen 43
+  city: Nordmaling
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 63.569783
+  longitude: 19.499573
+
+- location: Handelsbanken
+  address: Ältavägen
+  city: Nacka
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.289182
+  longitude: 18.158599
+
+- location: Nordals Harads Sparbank
+  address: Köpmantorget 1
+  city: Mellerud
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 58.699078
+  longitude: 12.452552
+
+- location: Rodamco Täby Centrum G
+  address: Västantorget 103
+  city: Täby
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 57.260796
+  longitude: 13.784794
+
+- location: Boxholm
+  address: Storgatan 22
+  city: Boxholm
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 58.196755
+  longitude: 15.052411
+
+- location: Foreninssparbanken
+  address: Vasagatan 2
+  city: Rättvik
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 60.884248
+  longitude: 15.118044
+
+- location: Statoil Borlänge
+  address: Bygatan
+  city: Borlänge
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 60.477975
+  longitude: 15.43662
+
+- location: Coop Konsum Smedjebacken
+  address: Vasagatan 21
+  city: Smedjebacken
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 60.14344
+  longitude: 15.416757
+
+- location: Ica Kvantum Gallivare
+  address: Stora Vägen 16
+  city: Gällivare
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 67.152766
+  longitude: 20.657939
+
+- location: Nordea
+  address: Östra Trädgårdsgatan 15
+  city: Nyköping
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 58.751178
+  longitude: 17.01505
+
+- location: Foreningssparbanken Ab
+  address: Rådavägen
+  city: Mölnlycke
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 57.65092
+  longitude: 12.10078
+
+- location: Nordea
+  address: Torsbyvägen
+  city: Ekshärad
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 60.168136
+  longitude: 13.479406
+
+- location: Statoil Falun
+  address: Vasagatan 1
+  city: Falun
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 60.605042
+  longitude: 15.644227
+
+- location: Malmo Arena
+  address: Hyllie Stationsväg
+  city: Malmö
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 55.561879
+  longitude: 12.968459
+
+- location: Ekero Centrum
+  address: Tegelbruksvägen 1
+  city: Ekerö
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.28931
+  longitude: 17.812672
+
+- location: Foreningssparbanken Sjuharad Ab
+  address: Stationsgatan
+  city: Svenljunga
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 57.495502
+  longitude: 13.109262
+
+- location: Coop Konsum Burträsk
+  address: Vasabrogatan 4
+  city: Burträsk
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 64.52037
+  longitude: 20.657918
+
+- location: Statoil Lycksele
+  address: Umevägen
+  city: Lycksele
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 64.58647
+  longitude: 18.69395
+
+- location: Seb
+  address: Rudsjöterrassen 1
+  city: Handen
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 59.166148
+  longitude: 18.135846
+
+- location: Ica Supermarket Osby
+  address: Västra Järnvägsgatan 21
+  city: Osby
+  country: Sverige
+  urn:uttagsautomater:location:id: null
+  latitude: 56.380613
+  longitude: 13.993937
