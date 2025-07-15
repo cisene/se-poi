@@ -108,6 +108,12 @@
 
 
 
+## Idrottsplatser
+
+- [Idrottsplats.se](./idrottsplats-se.yaml)
+
+
+
 ## Järnfackhandelskedjor
 
 - [Biltema](./biltema.yaml)
