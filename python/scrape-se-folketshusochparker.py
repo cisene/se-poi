@@ -12,8 +12,6 @@ import uuid
 
 from parsel import Selector
 
-#import glob
-
 #DATAROOT = './yaml/'
 #MASTER_DATAFILE = './yaml/master.yaml'
 
@@ -130,7 +128,7 @@ def extractData(data):
     'latitude': None,
     'longitude': None,
   }
-  sel = Selector(text=data)
+  sel = Selector(text = data)
 
   # Location Name
   obj['location'] = sel.xpath('//h3/text()').extract_first()
@@ -187,22 +185,17 @@ def main():
 
   if "success" in data:
     data_success = data["success"]
-    print(f"success: {data_success}")
+    #print(f"success: {data_success}")
 
     if "data" in data:
       if "results" in data["data"]:
         results = data["data"]["results"]
         for res in results:
           res_clean = cleanerHTML(res)
-          #print(res_clean)
           res_extr = extractData(res_clean)
-          print(res_extr)
-          print()
 
           struct["locations"].append(res_extr)
 
-
-  print(struct)
   struct['meta']['locations'] = len(struct['locations'])
 
   writeYAML(DEST_YAML, struct)
