@@ -1,0 +1,93 @@
+meta:
+  name: Itrim
+  web: https://www.itrim.se/
+  wikipedia: null
+  category: Gym
+  locations: null
+
+
+locations:
+- location: Itrim Sveavägen
+  city: Stockholm
+  country: Sverige
+  urn: urn:itrim:storeid:1333
+  latitude: 59.344718
+  longitude: 18.055364
+
+- location: Itrim Kungsholmen
+  city: Stockholm
+  country: Sverige
+  urn: urn:itrim:storeid:1338
+  latitude: 59.331456
+  longitude: 18.02857
+
+- location: Itrim Södermalm
+  city: Stockholm
+  country: Sverige
+  urn: urn:itrim:storeid:1346
+  latitude: 59.312845
+  longitude: 18.069283
+
+- location: Itrim Liljeholmen
+  city: Stockholm
+  country: Sverige
+  urn: urn:itrim:storeid:1340
+  latitude: 59.312582
+  longitude: 18.025888
+
+- location: Itrim Sickla
+  city: Nacka
+  country: Sverige
+  urn: urn:itrim:storeid:1342
+  latitude: 59.304824
+  longitude: 18.122842
+
+- location: Itrim Brommaplan
+  city: Bromma
+  country: Sverige
+  urn: urn:itrim:storeid:1329
+  latitude: 59.33921
+  longitude: 17.940155
+
+- location: Itrim Täby
+  city: Täby
+  country: Sverige
+  urn: urn:itrim:storeid:1348
+  latitude: 59.435522
+  longitude: 18.060027
+
+- location: Itrim Sollentuna
+  city: Sollentuna
+  country: Sverige
+  urn: urn:itrim:storeid:1344
+  latitude: 59.426206
+  longitude: 17.948191
+
+- location: Itrim Farsta
+  city: Farsta
+  country: Sverige
+  urn: urn:itrim:storeid:1336
+  latitude: 59.241658
+  longitude: 18.090114
+
+- location: Uppsala
+  city: Uppsala
+  country: Sverige
+  urn: urn:itrim:storeid:1352
+  latitude: 59.857112
+  longitude: 17.642355
+
+- location: Västerås
+  city: Västerås
+  country: Sverige
+  urn: urn:itrim:storeid:1354
+  latitude: 59.609044
+  longitude: 16.541968
+
+- location: Itrim Eriksberg
+  city: Göteborg
+  country: Sverige
+  urn: urn:itrim:storeid:1331
+  latitude: 57.708014
+  longitude: 11.918938
+
