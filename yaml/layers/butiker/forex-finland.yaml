@@ -1,0 +1,98 @@
+meta:
+  name: Forex Finland
+  web: https://www.forex.fi/
+  wikipedia: https://fi.wikipedia.org/wiki/Forex_(yritys)
+  category: Bank och Valuta
+  locations: 13
+
+locations:
+- location: Forex Turku
+  urn: urn:forex:store:id:265
+  city: Turku
+  country: Finland
+  latitude: 60.45057
+  longitude: 22.26595
+
+- location: Forex Tampere
+  urn: urn:forex:store:id:266
+  city: Tampere
+  country: Finland
+  latitude: 61.49868
+  longitude: 23.77053
+
+- location: Forex Helsinki
+  urn: urn:forex:store:id:251
+  city: Helsinki
+  country: Finland
+  latitude: 60.17089
+  longitude: 24.94195
+
+- location: Forex Helsinki-Vantaa Airport
+  urn: urn:forex:store:id:247
+  city: Helsinki-Vantaa Airport
+  country: Finland
+  latitude: 60.31562
+  longitude: 24.96
+
+- location: Forex Helsinki-Vantaa Airport
+  urn: urn:forex:store:id:248
+  city: Helsinki-Vantaa Airport
+  country: Finland
+  latitude: 60.31562
+  longitude: 24.96222
+
+- location: Forex Helsinki-Vantaa Airport
+  urn: urn:forex:store:id:246
+  city: Helsinki-Vantaa Airport
+  country: Finland
+  latitude: 60.31673
+  longitude: 24.96271
+
+- location: Forex Vantaa
+  urn: urn:forex:store:id:253
+  city: Vantaa
+  country: Finland
+  latitude: 60.2923
+  longitude: 24.96288
+
+- location: Forex Helsinki-Vantaa Airport
+  urn: urn:forex:store:id:244
+  city: Helsinki-Vantaa Airport
+  country: Finland
+  latitude: 60.31808
+  longitude: 24.96573
+
+- location: Forex Helsinki-Vantaa Airport
+  urn: urn:forex:store:id:249
+  city: Helsinki-Vantaa Airport
+  country: Finland
+  latitude: 60.31778
+  longitude: 24.96636
+
+- location: Forex Helsinki-Vantaa Airport
+  urn: urn:forex:store:id:243
+  city: Helsinki-Vantaa Airport
+  country: Finland
+  latitude: 60.31842
+  longitude: 24.96715
+
+- location: Forex Helsinki-Vantaa Airport
+  urn: urn:forex:store:id:242
+  city: Helsinki-Vantaa Airport
+  country: Finland
+  latitude: 60.31828
+  longitude: 24.96742
+
+- location: Forex Helsinki-Vantaa Airport
+  urn: urn:forex:store:id:241
+  city: Helsinki-Vantaa Airport
+  country: Finland
+  latitude: 60.31769
+  longitude: 24.96802
+
+- location: Forex Helsinki-Vantaa Airport
+  urn: urn:forex:store:id:245
+  city: Helsinki-Vantaa Airport
+  country: Finland
+  latitude: 60.31672
+  longitude: 24.971

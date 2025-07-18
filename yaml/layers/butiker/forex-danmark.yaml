@@ -1,0 +1,63 @@
+meta:
+  name: Forex Danmark
+  web: https://www.forexvaluta.dk/
+  wikipedia: https://da.wikipedia.org/wiki/Forex_Bank
+  category: Bank och Valuta
+  locations: 8
+
+locations:
+- location: Forex Aarhus C
+  urn: urn:forex:store:id:372
+  city: Aarhus C
+  country: Danmark
+  latitude: 56.15023
+  longitude: 10.20255
+
+- location: Forex Odense SØ
+  urn: urn:forex:store:id:373
+  city: Odense SØ
+  country: Danmark
+  latitude: 55.38345
+  longitude: 10.42559
+
+- location: Forex Greve
+  urn: urn:forex:store:id:368
+  city: Greve
+  country: Danmark
+  latitude: 55.59861
+  longitude: 12.32528
+
+- location: Forex Frederiksberg
+  urn: urn:forex:store:id:363
+  city: Frederiksberg
+  country: Danmark
+  latitude: 55.67943
+  longitude: 12.53381
+
+- location: Forex København V
+  urn: urn:forex:store:id:361
+  city: København V
+  country: Danmark
+  latitude: 55.67301
+  longitude: 12.56441
+
+- location: Forex København K
+  urn: urn:forex:store:id:362
+  city: København K
+  country: Danmark
+  latitude: 55.68363
+  longitude: 12.57291
+
+- location: Forex Kastrup
+  urn: urn:forex:store:id:341
+  city: Kastrup
+  country: Danmark
+  latitude: 55.62882
+  longitude: 12.64552
+
+- location: Forex Kastrup
+  urn: urn:forex:store:id:342
+  city: Kastrup
+  country: Danmark
+  latitude: 55.62911
+  longitude: 12.64626

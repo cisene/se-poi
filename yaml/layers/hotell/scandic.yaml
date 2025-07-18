@@ -1,0 +1,929 @@
+meta:
+  name: Scandic Hotels
+  web: https://www.scandic.se/
+  wikipedia: https://sv.wikipedia.org/wiki/Scandic_Hotels
+  category: Hotel och Övernattning
+  locations: 161
+
+locations:
+- location: Scandic Haugesund
+  city: Haugesund
+  country: Norge
+  latitude: 59.413581
+  longitude: 5.267987
+
+- location: Scandic Bergen
+  city: Bergen
+  country: Norge
+  latitude: 60.391263
+  longitude: 5.322054
+
+- location: Scandic Stavanger
+  city: Stavanger
+  country: Norge
+  latitude: 58.969976
+  longitude: 5.733107
+
+- location: Scandic Førde
+  city: Førde
+  country: Norge
+  latitude: 61.453579
+  longitude: 5.849669
+
+- location: Scandic Ålesund
+  city: Ålesund
+  country: Norge
+  latitude: 62.472228
+  longitude: 6.149482
+
+- location: Scandic Voss
+  city: Voss
+  country: Norge
+  latitude: 60.629562
+  longitude: 6.422151
+
+- location: Scandic Molde
+  city: Molde
+  country: Norge
+  latitude: 62.737235
+  longitude: 7.160731
+
+- location: Scandic Kristiansund
+  city: Kristiansund
+  country: Norge
+  latitude: 63.110335
+  longitude: 7.728079
+
+- location: Scandic Kristiansand
+  city: Kristiansand
+  country: Norge
+  latitude: 58.159912
+  longitude: 8.018206
+
+- location: Scandic Esbjerg
+  city: Esbjerg
+  country: Danmark
+  latitude: 55.476466
+  longitude: 8.459405
+
+- location: Scandic Grimstad
+  city: Grimstad
+  country: Norge
+  latitude: 58.344702
+  longitude: 8.594867
+
+- location: Scandic Frankfurt
+  city: Frankfurt
+  country: Tyskland
+  latitude: 50.110922
+  longitude: 8.682127
+
+- location: Scandic Herning
+  city: Herning
+  country: Danmark
+  latitude: 56.138557
+  longitude: 8.967322
+
+- location: Scandic Fagernes
+  city: Fagernes
+  country: Norge
+  latitude: 60.985835
+  longitude: 9.23236
+
+- location: Scandic Kolding
+  city: Kolding
+  country: Danmark
+  latitude: 55.495973
+  longitude: 9.473052
+
+- location: Scandic Vejle
+  city: Vejle
+  country: Danmark
+  latitude: 55.711311
+  longitude: 9.536354
+
+- location: Scandic Silkeborg
+  city: Silkeborg
+  country: Danmark
+  latitude: 56.176362
+  longitude: 9.554922
+
+- location: Scandic Sønderborg
+  city: Sønderborg
+  country: Danmark
+  latitude: 54.913811
+  longitude: 9.792178
+
+- location: Scandic Horsens
+  city: Horsens
+  country: Danmark
+  latitude: 55.85813
+  longitude: 9.847588
+
+- location: Scandic Ålborg
+  city: Ålborg
+  country: Danmark
+  latitude: 57.04882
+  longitude: 9.921747
+
+- location: Scandic Hamburg
+  city: Hamburg
+  country: Tyskland
+  latitude: 53.551085
+  longitude: 9.993682
+
+- location: Scandic Århus
+  city: Århus
+  country: Danmark
+  latitude: 56.162939
+  longitude: 10.203921
+
+- location: Scandic Drammen
+  city: Drammen
+  country: Norge
+  latitude: 59.744074
+  longitude: 10.204456
+
+- location: Scandic Sandefjord
+  city: Sandefjord
+  country: Norge
+  latitude: 59.139942
+  longitude: 10.211078
+
+- location: Scandic Hønefoss
+  city: Hønefoss
+  country: Norge
+  latitude: 60.168222
+  longitude: 10.256417
+
+- location: Scandic Trondheim
+  city: Trondheim
+  country: Norge
+  latitude: 63.430515
+  longitude: 10.395053
+
+- location: Scandic Odense
+  city: Odense
+  country: Danmark
+  latitude: 55.403756
+  longitude: 10.40237
+
+- location: Scandic Tjøme
+  city: Tjøme
+  country: Norge
+  latitude: 59.111401
+  longitude: 10.40465
+
+- location: Scandic Lillehammer
+  city: Lillehammer
+  country: Norge
+  latitude: 61.115271
+  longitude: 10.466231
+
+- location: Scandic Fredrikshamn
+  city: Fredrikshamn
+  country: Danmark
+  latitude: 57.442711
+  longitude: 10.521006
+
+- location: Scandic Oslo
+  city: Oslo
+  country: Norge
+  latitude: 59.913869
+  longitude: 10.752245
+
+- location: Scandic Fredrikstad
+  city: Fredrikstad
+  country: Norge
+  latitude: 59.220537
+  longitude: 10.934701
+
+- location: Scandic Hamar
+  city: Hamar
+  country: Norge
+  latitude: 60.794533
+  longitude: 11.067998
+
+- location: Scandic Sarpsborg
+  city: Sarpsborg
+  country: Norge
+  latitude: 59.284073
+  longitude: 11.109403
+
+- location: Scandic Strömstad
+  city: Strömstad
+  country: Sverige
+  latitude: 58.938346
+  longitude: 11.179187
+
+- location: Scandic Mysen
+  city: Mysen
+  country: Norge
+  latitude: 59.553784
+  longitude: 11.325746
+
+- location: Scandic Namsos
+  city: Namsos
+  country: Norge
+  latitude: 64.466291
+  longitude: 11.495593
+
+- location: Scandic München
+  city: München
+  country: Tyskland
+  latitude: 48.135125
+  longitude: 11.581981
+
+- location: Scandic Ringsted
+  city: Ringsted
+  country: Danmark
+  latitude: 55.442952
+  longitude: 11.791372
+
+- location: Scandic Europa
+  city: Göteborg
+  country: Sverige
+  latitude: 57.70887
+  longitude: 11.97456
+
+- location: Scandic Rubinen
+  city: Göteborg
+  latitude: 57.699709
+  longitude: 11.976065
+
+- location: Scandic Crown
+  city: Göteborg
+  latitude: 57.708042
+  longitude: 11.977901
+
+- location: Scandic Opalen
+  city: Göteborg
+  latitude: 57.701704
+  longitude: 11.984483
+
+- location: Scandic Backadal
+  city: Göteborg
+  latitude: 57.749104
+  longitude: 11.988975
+
+- location: Scandic Mölndal
+  city: Mölndal
+  latitude: 57.653745
+  longitude: 12.013694
+
+- location: Scandic Roskilde
+  city: Roskilde
+  country: Danmark
+  latitude: 55.64191
+  longitude: 12.087845
+
+- location: Scandic Swania
+  city: Trollhättan
+  country: Sverige
+  latitude: 58.283489
+  longitude: 12.285821
+
+- location: Scandic Köpenhamn
+  city: Köpenhamn
+  country: Danmark
+  latitude: 55.676097
+  longitude: 12.568337
+
+- location: Scandic Arvika
+  city: Arvika
+  country: Sverige
+  latitude: 59.654853
+  longitude: 12.592136
+
+- location: Scandic Sandnessjøen
+  city: Sandnessjøen
+  country: Norge
+  latitude: 66.021553
+  longitude: 12.631463
+
+- location: Scandic Helsingborg Nord
+  city: Helsingborg
+  country: Sverige
+  latitude: 56.046467
+  longitude: 12.694512
+
+- location: Scandic Hallandia
+  city: Halmstad
+  country: Sverige
+  latitude: 56.674375
+  longitude: 12.857788
+
+- location: Scandic Plaza Borås
+  city: Borås
+  country: Sverige
+  latitude: 57.721035
+  longitude: 12.939819
+
+- location: Scandic Triangeln
+  city: Malmö
+  latitude: 55.596485
+  longitude: 13.001522
+
+- location: Scandic S:t Jörgen
+  city: Malmö
+  latitude: 55.603619
+  longitude: 13.002092
+
+- location: Scandic Kramer
+  city: Malmö
+  country: Sverige
+  latitude: 55.604981
+  longitude: 13.003822
+
+- location: Scandic Malmö City
+  city: Malmö
+  latitude: 55.600966
+  longitude: 13.004079
+
+- location: Scandic Segevång
+  city: Malmö
+  latitude: 55.617194
+  longitude: 13.063056
+
+- location: Scandic Lund
+  city: Lund
+  country: Sverige
+  latitude: 55.70466
+  longitude: 13.191007
+
+- location: Scandic Star
+  city: Sollentuna
+  latitude: 55.694733
+  longitude: 13.224837
+
+- location: Scandic Berlin
+  city: Berlin
+  country: Tyskland
+  latitude: 52.493805
+  longitude: 13.455292
+
+- location: Scandic Winn
+  city: Karlstad
+  latitude: 59.383036
+  longitude: 13.504843
+
+- location: Scandic Karlstad City
+  city: Karlstad
+  latitude: 59.379223
+  longitude: 13.505974
+
+- location: Scandic Klarälven
+  city: Karlstad
+  country: Sverige
+  latitude: 59.402181
+  longitude: 13.511498
+
+- location: Scandic Lofoten
+  city: Lofoten
+  country: Norge
+  latitude: 67.993145
+  longitude: 13.639707
+
+- location: Scandic Billingen
+  city: Skövde
+  country: Sverige
+  latitude: 58.390278
+  longitude: 13.846121
+
+- location: Scandic Värnamo
+  city: Värnamo
+  country: Sverige
+  latitude: 57.18316
+  longitude: 14.047821
+
+- location: Scandic Mo i Rana
+  city: Mo i Rana
+  country: Norge
+  latitude: 66.313712
+  longitude: 14.141975
+
+- location: Scandic Portalen
+  city: Jönköping
+  country: Sverige
+  latitude: 57.782614
+  longitude: 14.161788
+
+- location: Scandic Elmia
+  city: Jönköping
+  latitude: 57.787108
+  longitude: 14.227745
+
+- location: Scandic Bodø
+  city: Bodø
+  country: Norge
+  latitude: 67.280356
+  longitude: 14.404916
+
+- location: Scandic Östersund Syd
+  city: Östersund
+  country: Sverige
+  latitude: 63.176683
+  longitude: 14.636068
+
+- location: Scandic Östersund City
+  city: Östersund
+  latitude: 63.175143
+  longitude: 14.63851
+
+- location: Scandic Växjö
+  city: Växjö
+  country: Sverige
+  latitude: 56.879004
+  longitude: 14.805852
+
+- location: Scandic Karlshamn
+  city: Karlshamn
+  latitude: 56.189618
+  longitude: 14.846315
+
+- location: Scandic Grand Hotel
+  city: Stockholm
+  latitude: 59.268929
+  longitude: 15.205851
+
+- location: Scandic Örebro Väst
+  city: Örebro
+  country: Sverige
+  latitude: 59.275263
+  longitude: 15.213411
+
+- location: Scandic Fauske
+  city: Fauske
+  country: Norge
+  latitude: 67.259184
+  longitude: 15.391632
+
+- location: Scandic Sortland
+  city: Sortland
+  country: Norge
+  latitude: 68.695885
+  longitude: 15.405112
+
+- location: Scandic Borlänge
+  city: Borlänge
+  country: Sverige
+  latitude: 60.484304
+  longitude: 15.433969
+
+- location: Scandic Linköping Väst
+  city: Linköping
+  latitude: 58.405883
+  longitude: 15.559623
+
+- location: Scandic Karlskrona
+  city: Karlskrona
+  country: Sverige
+  latitude: 56.161224
+  longitude: 15.5869
+
+- location: Scandic Frimurarehotellet
+  city: Linköping
+  country: Sverige
+  latitude: 58.410807
+  longitude: 15.621373
+
+- location: Scandic Linköping City
+  city: Linköping
+  latitude: 58.412189
+  longitude: 15.632944
+
+- location: Scandic Lugnet
+  city: Falun
+  country: Sverige
+  latitude: 60.60646
+  longitude: 15.6355
+
+- location: Scandic Norrköping City
+  city: Norrköping
+  latitude: 58.594972
+  longitude: 16.185435
+
+- location: Scandic Norrköping Nord
+  city: Norrköping
+  country: Sverige
+  latitude: 58.587745
+  longitude: 16.192421
+
+- location: Scandic Kalmar Väst
+  city: Kalmar
+  country: Sverige
+  latitude: 56.663445
+  longitude: 16.356779
+
+- location: Scandic Bollnäs
+  city: Bollnäs
+  country: Sverige
+  latitude: 61.34838
+  longitude: 16.394268
+
+- location: Scandic Harstad
+  city: Harstad
+  country: Norge
+  latitude: 68.798634
+  longitude: 16.54145
+
+- location: Scandic Västerås
+  city: Västerås
+  country: Sverige
+  latitude: 59.610856
+  longitude: 16.549987
+
+- location: Scandic Nyköping City
+  city: Nyköping
+  country: Sverige
+  latitude: 58.752844
+  longitude: 17.009159
+
+- location: Scandic Wroclaw
+  city: Wroclaw
+  country: Polen
+  latitude: 51.107885
+  longitude: 17.038538
+
+- location: Scandic Gävle Väst
+  city: Gävle
+  country: Sverige
+  latitude: 60.67488
+  longitude: 17.141273
+
+- location: Scandic CH
+  city: Gävle
+  latitude: 60.676981
+  longitude: 17.148667
+
+- location: Scandic Sundsvall City
+  city: Sundsvall
+  country: Sverige
+  latitude: 62.390811
+  longitude: 17.306927
+
+- location: Scandic Sundsvall Nord
+  city: Sundsvall
+  latitude: 62.413628
+  longitude: 17.348272
+
+- location: Scandic Narvik
+  city: Narvik
+  country: Norge
+  latitude: 68.438452
+  longitude: 17.427308
+
+- location: Scandic Skogshöjd
+  city: Södertälje
+  country: Sverige
+  latitude: 59.195363
+  longitude: 17.625689
+
+- location: Scandic Uplandia
+  city: Uppsala
+  country: Sverige
+  latitude: 59.858564
+  longitude: 17.638927
+
+- location: Scandic Uppsala Nord
+  city: Uppsala
+  latitude: 59.875747
+  longitude: 17.640309
+
+- location: Scandic Södertälje
+  city: Södertälje
+  latitude: 59.172848
+  longitude: 17.644626
+
+- location: Scandic Kungens Kurva
+  city: Huddinge
+  latitude: 59.272657
+  longitude: 17.917285
+
+- location: Scandic Upplands Väsby
+  city: Upplands Väsby
+  latitude: 59.51508
+  longitude: 17.921329
+
+- location: Scandic Infra City
+  city: Upplands Väsby
+  latitude: 59.49893
+  longitude: 17.927577
+
+- location: Scandic Bromma
+  city: Bromma
+  latitude: 59.337709
+  longitude: 17.93679
+
+- location: Scandic Star Sollentuna
+  city: Sollentuna
+  latitude: 59.426471
+  longitude: 17.951478
+
+- location: Scandic Victoria Tower
+  city: Kista
+  latitude: 59.407
+  longitude: 17.9575
+
+- location: Scandic Alvik
+  city: Stockholm
+  latitude: 59.332203
+  longitude: 17.983895
+
+- location: Scandic Järva Krog
+  city: Solna
+  latitude: 59.380129
+  longitude: 18.008735
+
+- location: Scandic Norra Bantorget
+  city: Stockholm
+  latitude: 59.336626
+  longitude: 18.055773
+
+- location: Scandic Grand Central
+  city: Stockholm
+  latitude: 59.333862
+  longitude: 18.05603
+
+- location: Scandic Continental Stockholm
+  city: Stockholm
+  latitude: 59.330943
+  longitude: 18.059593
+
+- location: Scandic Täby
+  city: Täby
+  latitude: 59.433731
+  longitude: 18.064778
+
+- location: Scandic Sergel Plaza
+  city: Stockholm
+  latitude: 59.331281
+  longitude: 18.065668
+
+- location: Scandic Anglais
+  city: Stockholm
+  latitude: 59.337164
+  longitude: 18.072765
+
+- location: Scandic Malmen
+  city: Stockholm
+  latitude: 59.314592
+  longitude: 18.072992
+
+- location: Scandic Park
+  city: Stockholm
+  latitude: 59.340723
+  longitude: 18.07562
+
+- location: Scandic Sjöfartshotellet
+  city: Stockholm
+  latitude: 59.318867
+  longitude: 18.07567
+
+- location: Scandic Hasselbacken
+  city: Stockholm
+  latitude: 59.325758
+  longitude: 18.099139
+
+- location: Scandic Ariadne
+  city: Stockholm
+  latitude: 59.348749
+  longitude: 18.113945
+
+- location: Scandic Foresta
+  city: Lidingö
+  latitude: 59.359927
+  longitude: 18.120489
+
+- location: Scandic Visby
+  city: Visby
+  country: Sverige
+  latitude: 57.6348
+  longitude: 18.29484
+
+- location: Scandic Gdansk
+  city: Gdansk
+  country: Polen
+  latitude: 54.352025
+  longitude: 18.646638
+
+- location: Scandic Örnsköldsvik
+  city: Örnsköldsvik
+  country: Sverige
+  latitude: 63.290047
+  longitude: 18.716617
+
+- location: Scandic Tromsø
+  city: Tromsø
+  country: Norge
+  latitude: 69.649205
+  longitude: 18.955324
+
+- location: Scandic Ferrum
+  city: Kiruna
+  country: Sverige
+  latitude: 67.8558
+  longitude: 20.225282
+
+- location: Scandic Plaza Umeå
+  city: Umeå
+  latitude: 63.825697
+  longitude: 20.258168
+
+- location: Scandic Umeå Syd
+  city: Umeå
+  country: Sverige
+  latitude: 63.825847
+  longitude: 20.263035
+
+- location: Scandic Gällivare
+  city: Gällivare
+  country: Sverige
+  latitude: 67.140749
+  longitude: 20.658485
+
+- location: Scandic Skellefteå
+  city: Skellefteå
+  country: Sverige
+  latitude: 64.750244
+  longitude: 20.950917
+
+- location: Scandic Raumo
+  city: Raumo
+  country: Finland
+  latitude: 61.130885
+  longitude: 21.505926
+
+- location: Scandic Vasa
+  city: Vasa
+  country: Finland
+  latitude: 63.095089
+  longitude: 21.616456
+
+- location: Scandic Björneborg
+  city: Björneborg
+  country: Finland
+  latitude: 61.4852
+  longitude: 21.797444
+
+- location: Scandic Luleå
+  city: Luleå
+  country: Sverige
+  latitude: 65.584819
+  longitude: 22.156703
+
+- location: Scandic Åbo
+  city: Åbo
+  country: Finland
+  latitude: 60.451813
+  longitude: 22.26663
+
+- location: Scandic Seinäjoki
+  city: Seinäjoki
+  country: Finland
+  latitude: 62.787735
+  longitude: 22.850434
+
+- location: Scandic Alta
+  city: Alta
+  country: Norge
+  latitude: 69.968738
+  longitude: 23.27155
+
+- location: Scandic Nokia
+  city: Nokia
+  country: Finland
+  latitude: 61.480309
+  longitude: 23.501203
+
+- location: Scandic Hammerfest
+  city: Hammerfest
+  country: Norge
+  latitude: 70.663438
+  longitude: 23.681967
+
+- location: Scandic Tammerfors
+  city: Tammerfors
+  country: Finland
+  latitude: 61.498151
+  longitude: 23.761025
+
+- location: Scandic Tavastehus
+  city: Tavastehus
+  country: Finland
+  latitude: 60.992879
+  longitude: 24.459024
+
+- location: Scandic Kemi
+  city: Kemi
+  country: Finland
+  latitude: 65.735568
+  longitude: 24.565743
+
+- location: Scandic Esbo
+  city: Esbo
+  country: Finland
+  latitude: 60.205491
+  longitude: 24.6559
+
+- location: Scandic Hyvinge
+  city: Hyvinge
+  country: Finland
+  latitude: 60.629953
+  longitude: 24.85808
+
+- location: Scandic Helsingfors
+  city: Helsingfors
+  country: Finland
+  latitude: 60.173324
+  longitude: 24.941025
+
+- location: Scandic Uleåborg
+  city: Uleåborg
+  country: Finland
+  latitude: 65.012615
+  longitude: 25.471453
+
+- location: Scandic Karasjok
+  city: Karasjok
+  country: Norge
+  latitude: 69.471873
+  longitude: 25.511162
+
+- location: Scandic Lahtis
+  city: Lahtis
+  country: Finland
+  latitude: 60.983692
+  longitude: 25.650317
+
+- location: Scandic Rovaniemi
+  city: Rovaniemi
+  country: Finland
+  latitude: 66.497022
+  longitude: 25.724999
+
+- location: Scandic Jyväskylä
+  city: Jyväskylä
+  country: Finland
+  latitude: 62.244747
+  longitude: 25.747218
+
+- location: Scandic Honningsvåg
+  city: Honningsvåg
+  country: Norge
+  latitude: 70.982291
+  longitude: 25.970207
+
+- location: Scandic Kouvola
+  city: Kouvola
+  country: Finland
+  latitude: 60.867883
+  longitude: 26.70416
+
+- location: Scandic Mikkeli
+  city: Mikkeli
+  country: Finland
+  latitude: 61.688727
+  longitude: 27.272146
+
+- location: Scandic Kuopio
+  city: Kuopio
+  country: Finland
+  latitude: 62.893335
+  longitude: 27.679339
+
+- location: Scandic Villmanstrand
+  city: Villmanstrand
+  country: Finland
+  latitude: 61.054941
+  longitude: 28.189626
+
+- location: Scandic Imatra
+  city: Imatra
+  country: Finland
+  latitude: 61.169598
+  longitude: 28.764546
+
+- location: Scandic Ruka Kuusamo
+  city: Ruka Kuusamo
+  country: Finland
+  latitude: 66.165462
+  longitude: 29.151728
+
+- location: Scandic Vadsø
+  city: Vadsø
+  country: Norge
+  latitude: 70.074506
+  longitude: 29.748118
+
+- location: Scandic Joensuu
+  city: Joensuu
+  country: Finland
+  latitude: 62.601024
+  longitude: 29.763571
+
+- location: Scandic Kirkenes
+  city: Kirkenes
+  country: Norge
+  latitude: 69.726919
+  longitude: 30.045043

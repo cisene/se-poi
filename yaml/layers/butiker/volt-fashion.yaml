@@ -1,0 +1,253 @@
+meta:
+  name: Volt Fashion
+  web: https://voltfashion.com/
+  wikipedia: https://sv.wikipedia.org/wiki/Varner-Gruppen
+  category: Kläder och konfektion
+  locations: 41
+
+locations:
+- location: Volt Fashion Uddevalla, Torp Köpcentrum
+  urn: urn:voltfashion:store:id:T25
+  city: Uddevalla
+  latitude: 58.353431
+  longitude: 11.811269
+
+- location: Volt Fashion Västra Frölunda, Frølundatorg
+  urn: urn:voltfashion:store:id:T15
+  city: Västra Frölunda, Göteborg
+  latitude: 57.652057
+  longitude: 11.909804
+
+- location: Volt Fashion Nordstan Göteborg, Nordstan
+  urn: urn:voltfashion:store:id:T02
+  city: Göteborg
+  latitude: 57.70769
+  longitude: 11.96718
+
+- location: Volt Fashion Kompassen
+  urn: urn:voltfashion:store:id:T32
+  city: Göteborg
+  latitude: 57.705163
+  longitude: 11.970713
+
+- location: Volt Fashion Kungsmässan, Kungsmassan
+  urn: urn:voltfashion:store:id:T14
+  city: Kungsbacka, göteborg
+  latitude: 57.492632
+  longitude: 12.072353
+
+- location: Volt Fashion Partille, Allum kjøpsentrum
+  urn: urn:voltfashion:store:id:T23
+  city: Partille, Gøteborg
+  latitude: 57.737283
+  longitude: 12.104047
+
+- location: Volt Fashion Trollhättan, overbykopcenter
+  urn: urn:voltfashion:store:id:T19
+  city: Trollhättan
+  latitude: 58.31201
+  longitude: 12.304384
+
+- location: Volt Fashion Väla, Våla Centrum
+  urn: urn:voltfashion:store:id:T11
+  city: Ödåkra
+  latitude: 56.092059
+  longitude: 12.754627
+
+- location: Volt Fashion Halmstad
+  urn: urn:voltfashion:store:id:T39
+  city: Halmstad
+  latitude: 56.655393
+  longitude: 12.909316
+
+- location: Volt Fashion Emporia, Emporia
+  urn: urn:voltfashion:store:id:T03
+  city: Malmö
+  latitude: 55.563618
+  longitude: 12.972427
+
+- location: Volt Fashion Triangeln Malmö, Triangelen
+  urn: urn:voltfashion:store:id:T17
+  city: Malmö
+  latitude: 55.595812
+  longitude: 13.000275
+
+- location: Volt Fashion Hansa, Hansa Shopping
+  urn: urn:voltfashion:store:id:T35
+  city: Malmö
+  latitude: 55.603437
+  longitude: 13.003423
+
+- location: Volt Fashion Nova Lund
+  urn: urn:voltfashion:store:id:T40
+  city: Lund
+  latitude: 55.714079
+  longitude: 13.159733
+
+- location: Volt Fashion Bergvik, Bergvik
+  urn: urn:voltfashion:store:id:T27
+  city: Karlstad
+  latitude: 59.377487
+  longitude: 13.422662
+
+- location: Volt Fashion Karlstad, MittiCity
+  urn: urn:voltfashion:store:id:T10
+  city: Karlstad
+  latitude: 59.380115
+  longitude: 13.497382
+
+- location: Volt Fashion Skövde, Commerce
+  urn: urn:voltfashion:store:id:T21
+  city: Skövde
+  latitude: 58.389999
+  longitude: 13.842811
+
+- location: Volt Fashion C4 Kristianstad, C4 Shopping
+  urn: urn:voltfashion:store:id:T42
+  city: Kristianstad
+  latitude: 56.02355
+  longitude: 14.19256
+
+- location: Volt Fashion Jönköping, Asecs
+  urn: urn:voltfashion:store:id:T43
+  city: Jönköping
+  latitude: 57.773766
+  longitude: 14.203624
+
+- location: Volt Fashion Östersund
+  urn: urn:voltfashion:store:id:T36
+  city: Östersund
+  latitude: 63.176891
+  longitude: 14.63737
+
+- location: Volt Fashion Växjö, Grand samarkand
+  urn: urn:voltfashion:store:id:T12
+  city: Växjö
+  latitude: 56.884831
+  longitude: 14.762984
+
+- location: Volt Fashion Marieberg, Marie Berg Galleria
+  urn: urn:voltfashion:store:id:T05
+  city: Örebro
+  latitude: 59.216475
+  longitude: 15.135677
+
+- location: Volt Fashion Örebro city, City Orebro
+  urn: urn:voltfashion:store:id:T18
+  city: Örebro
+  latitude: 59.27017
+  longitude: 15.209373
+
+- location: Volt Fashion Ikano Linköping, Ikano huset
+  urn: urn:voltfashion:store:id:T08
+  city: Linköping
+  latitude: 58.43247
+  longitude: 15.584279
+
+- location: Volt Fashion Linköping
+  urn: urn:voltfashion:store:id:T06
+  city: Linköping
+  latitude: 58.410061
+  longitude: 15.624399
+
+- location: Volt Fashion Ingelsta, Ingelsta Shopping
+  urn: urn:voltfashion:store:id:T22
+  city: Norrköping
+  latitude: 58.618452
+  longitude: 16.152225
+
+- location: Volt Fashion Norrköping Linden
+  urn: urn:voltfashion:store:id:T38
+  city: Norrköping
+  latitude: 58.586688
+  longitude: 16.189196
+
+- location: Volt Fashion Kalmar, Hansa City
+  urn: urn:voltfashion:store:id:T24
+  city: Kalmar
+  latitude: 56.686987
+  longitude: 16.317619
+
+- location: Volt Fashion Erikslund, Eriksund shoppingcenter
+  urn: urn:voltfashion:store:id:T04
+  city: Västerås
+  latitude: 59.610038
+  longitude: 16.452467
+
+- location: Volt Fashion Västerås, Kvarteret Igor
+  urn: urn:voltfashion:store:id:T20
+  city: Västerås
+  latitude: 59.61182
+  longitude: 16.542363
+
+- location: Volt Fashion Valbo, Valbo Køpcentrum
+  urn: urn:voltfashion:store:id:T29
+  city: Valbo
+  latitude: 60.633604
+  longitude: 16.992341
+
+- location: Volt Fashion Sundsvall, Birsta City
+  urn: urn:voltfashion:store:id:T07
+  city: Sundsvall
+  latitude: 62.447131
+  longitude: 17.333673
+
+- location: Volt Fashion Uppsala Forum Gallerian, Forum Gallerian
+  urn: urn:voltfashion:store:id:T09
+  city: Uppsala
+  latitude: 59.857978
+  longitude: 17.638038
+
+- location: Volt Fashion Gränby, Granbystaden
+  urn: urn:voltfashion:store:id:T31
+  city: Uppsala
+  latitude: 59.877022
+  longitude: 17.67047
+
+- location: Volt Fashion Mall Of Scandinavia, Mall of Scandinavia
+  urn: urn:voltfashion:store:id:T26
+  city: Solna
+  latitude: 59.3693
+  longitude: 18.00666
+
+- location: Volt Fashion Stockholm Gallerian, Gallerian
+  urn: urn:voltfashion:store:id:T33
+  city: Stockholm
+  latitude: 59.330804
+  longitude: 18.068176
+
+- location: Volt Fashion PK Huset, PK Huset
+  urn: urn:voltfashion:store:id:T01
+  city: Stockholm
+  latitude: 59.333005
+  longitude: 18.071134
+
+- location: Volt Fashion Täby, Tåby Centrum
+  urn: urn:voltfashion:store:id:T16
+  city: Täby
+  latitude: 59.446576
+  longitude: 18.071486
+
+- location: Volt Fashion Nacka, Nacka Forum
+  urn: urn:voltfashion:store:id:T34
+  city: Nacka
+  latitude: 59.310519
+  longitude: 18.64917
+
+- location: Volt Fashion Avion shopping
+  urn: urn:voltfashion:store:id:T30
+  city: Umeå
+  latitude: 63.917338
+  longitude: 19.829652
+
+- location: Volt Fashion Utopia, Utopiashopping
+  urn: urn:voltfashion:store:id:T13
+  city: Umeå
+  latitude: 63.826089
+  longitude: 20.261693
+
+- location: Volt Fashion Smedjan, Smedjangalleria
+  urn: urn:voltfashion:store:id:T28
+  city: Luleå
+  latitude: 65.584122
+  longitude: 22.150505

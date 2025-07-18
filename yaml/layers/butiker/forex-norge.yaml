@@ -1,0 +1,77 @@
+meta:
+  name: Forex Norge
+  web: https://www.forex.no/
+  wikipedia: null
+  category: Bank och Valuta
+  locations: 10
+
+locations:
+- location: Forex Bergen
+  urn: urn:forex:store:id:461
+  city: Bergen
+  country: Norge
+  latitude: 60.39418
+  longitude: 5.32441
+
+- location: Forex Stavanger
+  urn: urn:forex:store:id:453
+  city: Stavanger
+  country: Norge
+  latitude: 58.96682
+  longitude: 5.73224
+
+- location: Forex Drammen
+  urn: urn:forex:store:id:462
+  city: Drammen
+  country: Norge
+  latitude: 59.74328
+  longitude: 10.20624
+
+- location: Forex Trondheim
+  urn: urn:forex:store:id:459
+  city: Trondheim
+  country: Norge
+  latitude: 63.43093
+  longitude: 10.39569
+
+- location: Forex Oslo
+  urn: urn:forex:store:id:433
+  city: Oslo
+  country: Norge
+  latitude: 59.91108
+  longitude: 10.74902
+
+- location: Forex Oslo
+  urn: urn:forex:store:id:421
+  city: Oslo
+  country: Norge
+  latitude: 59.91072
+  longitude: 10.75206
+
+- location: Forex Oslo
+  urn: urn:forex:store:id:432
+  city: Oslo
+  country: Norge
+  latitude: 59.91242
+  longitude: 10.75996
+
+- location: Forex Oslo
+  urn: urn:forex:store:id:435
+  city: Oslo
+  country: Norge
+  latitude: 59.91242
+  longitude: 10.75997
+
+- location: Forex Oslo
+  urn: urn:forex:store:id:436
+  city: Oslo
+  country: Norge
+  latitude: 59.96088
+  longitude: 10.92505
+
+- location: Forex Lillestrøm
+  urn: urn:forex:store:id:426
+  city: Lillestrøm
+  country: Norge
+  latitude: 59.95354
+  longitude: 11.04434
