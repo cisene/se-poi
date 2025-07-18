@@ -11,11 +11,13 @@ import yaml
 import glob
 
 from datetime import datetime, timezone
+#import xml.etree.ElementTree as ET
+from lxml import etree
 
-DATAROOT = './yaml/'
-MASTER_DATAFILE = './yaml/master.yaml'
+DATAROOT = '../yaml/'
+MASTER_DATAFILE = '../yaml/master.yaml'
 
-DESTROOT = './export/gpx/'
+DESTROOT = '../export/gpx/'
 
 def writeFile(contents, filepath):
   with open(filepath, "w") as f:
@@ -100,57 +102,113 @@ def renderGPX(data):
   # Find bounds in dataset
   bounds = findBounds(data['locations'])
 
+  min_lat = str(bounds['minlat'])
+  min_lon = str(bounds['minlon'])
+  max_lat = str(bounds['maxlat'])
+  max_lon = str(bounds['maxlon'])
+
   # Get current date and time
   now = isoDate()
 
-  elems.append('<?xml version="1.0" encoding="UTF-8"?>')
+  #elems.append('<?xml version="1.0" encoding="UTF-8"?>')
 
-  elems.append('<!-- Source: https://github.com/cisene/se-poi -->')
+  ns = {
+    None: "http://www.topografix.com/GPX/1/1",
+    #"xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    #"xsi:schemaLocation": "http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd",
+    #"xsd": "http://www.topografix.com/GPX/1/1/gpx.xsd"
+  }
 
-  # Open root GPX element
-  elems.append('<gpx creator="se-poi" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">')
+  # Open GPX
+  gpx = etree.Element("gpx", nsmap = ns)
+  gpx.set("creator", "se-poi")
+  gpx.set("version", "1.1")
+
+
+  comment = etree.Comment(" Source: https://github.com/cisene/se-poi ")
+  gpx.append(comment)
 
   # Declare metadata element
-  elems.append('  <metadata>')
+  metadata = etree.Element("metadata")
 
   # Declare metadata name element
-  elems.append(f"    <name><![CDATA[{data['meta']['name']}]]></name>")
+  metadata_name = etree.Element("name")
+  metadata_name.text = str(data['meta']['name'])
+  metadata.append(metadata_name)
 
   # Declare metadata desc(ription) element
-  elems.append(f"    <desc><![CDATA[Koordinater - {data['meta']['name']}]]></desc>")
-  
+  metadata_desc = etree.Element("desc")
+  metadata_desc.text = f"Koordinater - {data['meta']['name']}"
+  metadata.append(metadata_desc)
+
   # Declare metadata link element
-  elems.append(f"    <link href=\"{data['meta']['web']}\">")
-  
+  metadata_link = etree.Element("link")
+  metadata_link.set("href", str(data['meta']['web']))
+  metadata.append(metadata_link)
+
   # Declare metadata link text element
-  elems.append(f"      <text><![CDATA[{data['meta']['name']}]]></text>")
+  metadata_text = etree.Element("text")
+  metadata_text.text = str(data['meta']['name'])
 
   # Declare metadata link type (as in MIME-type)
-  elems.append('       <type>text/html</type>')
+  metadata_link_type = etree.Element("type")
+  metadata_link_type.text = "text/html"
+  metadata_link.append(metadata_link_type)
 
   # Close metadata link element
-  elems.append('    </link>')
+  metadata.append(metadata_text)
 
   # Timestamp with current date and time
-  elems.append(f"   <time>{now}</time>")
+  metadata_time = etree.Element("time")
+  metadata_time.text = str(now)
+  metadata.append(metadata_time)
 
   # Close metadata element
-  elems.append('  </metadata>')
-
-  # Timestamp with current date and time
-  #elems.append(f"<time>{now}</time>")
+  gpx.append(metadata)
 
   # Declare element bounds with attributes of Latitude min/max and Longitude min/max
-  elems.append(f"  <bounds minlat=\"{bounds['minlat']}\" minlon=\"{bounds['minlon']}\" maxlat=\"{bounds['maxlat']}\" maxlon=\"{bounds['maxlon']}\" />")
+  bounds = etree.Element("bounds")
+  bounds.set("minlat", f"{min_lat}")
+  bounds.set("minlon", f"{min_lon}")
+  bounds.set("maxlat", f"{max_lat}")
+  bounds.set("maxlon", f"{max_lon}")
+  gpx.append(bounds)
 
   for loc in data['locations']:
     # Declare wps in a more compact format
-    elems.append(f"  <wpt lat=\"{loc['latitude']}\" lon=\"{loc['longitude']}\"><name><![CDATA[{loc['location']}, {loc['city']}]]></name></wpt>")
+    #elems.append(f"  <wpt lat=\"{loc['latitude']}\" lon=\"{loc['longitude']}\"><name><![CDATA[{loc['location']}, {loc['city']}]]></name></wpt>")
+
+    wpt = etree.Element("wpt")
+    wpt.set("lat", str(loc['latitude']))
+    wpt.set("lon", str(loc['longitude']))
+
+    wpt_name = etree.Element("name")
+    location_list = [loc['location']]
+    
+    if "city" in loc:
+      if loc['city'] != None:
+        location_list.append(loc['city'])
+
+    if "country" in loc:
+      if loc['country'] != None:
+        location_list.append(loc['country'])
+
+    location_text = ", ".join(location_list)
+    wpt_name.text = str(location_text)
+
+    wpt.append(wpt_name)
+
+    gpx.append(wpt)
 
   # Close root GPX element
-  elems.append('</gpx>')
+  #elems.append('</gpx>')
 
-  return "\n".join(elems)
+  gpx_contents = etree.tostring(gpx, pretty_print=True, xml_declaration=True, encoding='UTF-8').decode()
+  #print(gpx_contents)
+
+  return gpx_contents
+
+  #return "\n".join(elems)
 
 
 
@@ -170,7 +228,6 @@ def main():
     filename = file
     filename = re.sub(r"^(.*)\x2f", "", str(filename), flags=re.IGNORECASE)
     filename = re.sub(r"\x2eyaml", ".gpx", str(filename), flags=re.IGNORECASE)
-    #print(filename)
     gpxfile = f"{DESTROOT}{filename}"
 
 
