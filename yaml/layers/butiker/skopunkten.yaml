@@ -1,0 +1,329 @@
+meta:
+  name: Skopunkten
+  web: https://www.skopunkten.se/
+  wikipedia: https://sv.wikipedia.org/wiki/Skopunkten
+  category: Kläder och konfektion
+  locations: 46
+
+locations:
+- location: Skopunkten Strömstad
+  city: Strömstad
+  urn: urn:skopunkten:store:id:108
+  country: Sverige
+  latitude: 59.0651
+  longitude: 11.2057
+
+- location: Skopunkten Uddevalla Torp
+  city: Uddevalla
+  urn: urn:skopunkten:store:id:120
+  country: Sverige
+  latitude: 58.3541
+  longitude: 11.812722
+
+- location: Skopunkten Göteborg Backaplan
+  city: Göteborg
+  urn: urn:skopunkten:store:id:86
+  country: Sverige
+  latitude: 57.726
+  longitude: 11.9529
+
+- location: Skopunkten Göteborg Femman
+  city: Göteborg
+  urn: urn:skopunkten:store:id:100
+  country: Sverige
+  latitude: 57.708641
+  longitude: 11.969433
+
+- location: Skopunkten Göteborg Bäckebol
+  city: Hisings Backa
+  urn: urn:skopunkten:store:id:111
+  country: Sverige
+  latitude: 57.768937
+  longitude: 11.999813
+
+- location: Skopunkten Kållered
+  city: Kållered
+  urn: urn:skopunkten:store:id:92
+  country: Sverige
+  latitude: 57.601037
+  longitude: 12.049115
+
+- location: Skopunkten Partille Allum
+  city: Partille
+  urn: urn:skopunkten:store:id:105
+  country: Sverige
+  latitude: 57.739187
+  longitude: 12.106188
+
+- location: Skopunkten Charlottenberg
+  city: Charlottenberg
+  urn: urn:skopunkten:store:id:103
+  country: Sverige
+  latitude: 59.8819
+  longitude: 12.2898
+
+- location: Skopunkten Trollhättan Överby
+  city: Trollhättan
+  urn: urn:skopunkten:store:id:101
+  country: Sverige
+  latitude: 58.312
+  longitude: 12.3066
+
+- location: Skopunkten Helsingborg Väla
+  city: Helsingborg
+  urn: urn:skopunkten:store:id:113
+  country: Sverige
+  latitude: 56.089926
+  longitude: 12.758998
+
+- location: Skopunkten Halmstad Hallarna
+  city: Halmstad
+  urn: urn:skopunkten:store:id:1
+  country: Sverige
+  latitude: 56.655489
+  longitude: 12.911843
+
+- location: Skopunkten Borås Knalleland
+  city: Borås
+  urn: urn:skopunkten:store:id:97
+  country: Sverige
+  latitude: 57.7335
+  longitude: 12.9378
+
+- location: Skopunkten Malmö Emporia
+  city: Malmö
+  urn: urn:skopunkten:store:id:68
+  country: Sverige
+  latitude: 55.563692
+  longitude: 12.972022
+
+- location: Skopunkten Löddeköpinge
+  city: Löddeköpinge
+  urn: urn:skopunkten:store:id:89
+  country: Sverige
+  latitude: 55.769404
+  longitude: 12.992188
+
+- location: Skopunkten Malmö Triangeln
+  city: Malmö
+  urn: urn:skopunkten:store:id:114
+  country: Sverige
+  latitude: 55.596354
+  longitude: 13.001906
+
+- location: Skopunkten Malmö Mobilia
+  city: Malmö
+  urn: urn:skopunkten:store:id:116
+  country: Sverige
+  latitude: 55.581158
+  longitude: 13.003506
+
+- location: Skopunkten Malmö E-center
+  city: Malmö
+  urn: urn:skopunkten:store:id:84
+  country: Sverige
+  latitude: 55.5667
+  longitude: 13.048
+
+- location: Skopunkten Lund Nova
+  city: Lund
+  urn: urn:skopunkten:store:id:87
+  country: Sverige
+  latitude: 55.7149
+  longitude: 13.1551
+
+- location: Skopunkten Karlstad Bergvik
+  city: Karlstad
+  urn: urn:skopunkten:store:id:94
+  country: Sverige
+  latitude: 59.3781
+  longitude: 13.4292
+
+- location: Skopunkten Skövde
+  city: Skövde
+  urn: urn:skopunkten:store:id:91
+  country: Sverige
+  latitude: 58.4055
+  longitude: 13.8545
+
+- location: Skopunkten Kristianstad Vilan
+  city: Kristianstad
+  urn: urn:skopunkten:store:id:99
+  country: Sverige
+  latitude: 56.0235
+  longitude: 14.1417
+
+- location: Skopunkten Kristianstad C4 Shopping
+  city: Kristianstad
+  urn: urn:skopunkten:store:id:74
+  country: Sverige
+  latitude: 56.023064
+  longitude: 14.197162
+
+- location: Skopunkten Jönköping Asecs
+  city: Jönköping
+  urn: urn:skopunkten:store:id:4
+  country: Sverige
+  latitude: 57.773113
+  longitude: 14.201212
+
+- location: Skopunkten Östersund Lillänge
+  city: Östersund
+  urn: urn:skopunkten:store:id:109
+  country: Sverige
+  latitude: 63.174387
+  longitude: 14.691936
+
+- location: Skopunkten Växjö Samarkand
+  city: Växjö
+  urn: urn:skopunkten:store:id:48
+  country: Sverige
+  latitude: 56.881648
+  longitude: 14.764651
+
+- location: Skopunkten Örebro Marieberg
+  city: Örebro
+  urn: urn:skopunkten:store:id:112
+  country: Sverige
+  latitude: 59.1886
+  longitude: 15.13509
+
+- location: Skopunkten Borlänge Kupolen
+  city: Borlänge
+  urn: urn:skopunkten:store:id:119
+  country: Sverige
+  latitude: 60.484542
+  longitude: 15.418473
+
+- location: Skopunkten Linköping Tornby
+  city: Linköping
+  urn: urn:skopunkten:store:id:96
+  country: Sverige
+  latitude: 58.4339
+  longitude: 15.5897
+
+- location: Skopunkten Karlskrona Amiralen
+  city: Karlskrona
+  urn: urn:skopunkten:store:id:104
+  country: Sverige
+  latitude: 56.2016
+  longitude: 15.6407
+
+- location: Skopunkten Norrköping Ingelsta
+  city: Norrköping
+  urn: urn:skopunkten:store:id:93
+  country: Sverige
+  latitude: 58.6186
+  longitude: 16.1566
+
+- location: Skopunkten Kalmar Hansa
+  city: Kalmar
+  urn: urn:skopunkten:store:id:63
+  country: Sverige
+  latitude: 56.687012
+  longitude: 16.320158
+
+- location: Skopunkten Västerås Erikslund
+  city: Västerås
+  urn: urn:skopunkten:store:id:14
+  country: Sverige
+  latitude: 59.609984
+  longitude: 16.454816
+
+- location: Skopunkten Eskilstuna Tuna Park
+  city: Eskilstuna
+  urn: urn:skopunkten:store:id:95
+  country: Sverige
+  latitude: 59.3724
+  longitude: 16.4693
+
+- location: Skopunkten Sundsvall Birsta
+  city: Sundsvall
+  urn: urn:skopunkten:store:id:106
+  country: Sverige
+  latitude: 62.4411
+  longitude: 17.342
+
+- location: Skopunkten Södertälje Vasa
+  city: Södertälje
+  urn: urn:skopunkten:store:id:102
+  country: Sverige
+  latitude: 59.1875
+  longitude: 17.5741
+
+- location: Skopunkten Uppsala Gränby
+  city: Uppsala
+  urn: urn:skopunkten:store:id:6
+  country: Sverige
+  latitude: 59.886211
+  longitude: 17.66164
+
+- location: Skopunkten Uppsala Boländerna
+  city: Uppsala
+  urn: urn:skopunkten:store:id:85
+  country: Sverige
+  latitude: 59.8471
+  longitude: 17.6931
+
+- location: Skopunkten Barkarby
+  city: Järfälla
+  urn: urn:skopunkten:store:id:90
+  country: Sverige
+  latitude: 59.416042
+  longitude: 17.859084
+
+- location: Skopunkten Skärholmen
+  city: Skärholmen
+  urn: urn:skopunkten:store:id:43
+  country: Sverige
+  latitude: 59.275283
+  longitude: 17.907962
+
+- location: Skopunkten Kista Galleria
+  city: Kista
+  urn: urn:skopunkten:store:id:5
+  country: Sverige
+  latitude: 59.404288
+  longitude: 17.942353
+
+- location: Skopunkten Solna Mall Of Scandinavia
+  city: Solna
+  urn: urn:skopunkten:store:id:70
+  country: Sverige
+  latitude: 59.372856
+  longitude: 18.000397
+
+- location: Skopunkten Täby Centrum
+  city: Täby
+  urn: urn:skopunkten:store:id:11
+  country: Sverige
+  latitude: 59.4419
+  longitude: 18.07033
+
+- location: Skopunkten Haninge
+  city: Haninge
+  urn: urn:skopunkten:store:id:88
+  country: Sverige
+  latitude: 59.1786
+  longitude: 18.150162
+
+- location: Skopunkten Nacka Forum
+  city: Nacka
+  urn: urn:skopunkten:store:id:81
+  country: Sverige
+  latitude: 59.309419
+  longitude: 18.16439
+
+- location: Skopunkten Umeå Avion
+  city: Umeå
+  urn: urn:skopunkten:store:id:71
+  country: Sverige
+  latitude: 63.805779
+  longitude: 20.252642
+
+- location: Skopunkten Skellefteå
+  city: Skellefteå
+  urn: urn:skopunkten:store:id:115
+  country: Sverige
+  latitude: 64.765063
+  longitude: 21.023532

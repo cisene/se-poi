@@ -1,0 +1,505 @@
+meta:
+  name: Stadium
+  web: https://www.stadium.se/
+  wikipedia: https://sv.wikipedia.org/wiki/Stadium_(detaljhandelskedja)
+  category: Sport och Fritid
+  locations: 83
+
+locations:
+- location: Stadium Uddevalla, Torp Köpcenter 6
+  city: Uddevalla
+  country: Sverige
+  latitude: 58.35296
+  longitude: 11.80673
+
+- location: Stadium Frölunda, Frölunda Torg -
+  city: Västra Frölunda
+  country: Sverige
+  latitude: 57.6524
+  longitude: 11.91158
+
+- location: Stadium Sisjön, Hantverksvägen 15
+  city: Askim
+  country: Sverige
+  latitude: 57.64067
+  longitude: 11.94939
+
+- location: Stadium Backaplan, Motorgatann 2
+  city: Göteborg
+  country: Sverige
+  latitude: 57.721247
+  longitude: 11.952577
+
+- location: Stadium Run Nordstan, Köpmansgatan 28-34
+  city: Göteborg
+  country: Sverige
+  latitude: 57.7102
+  longitude: 11.966
+
+- location: Stadium Nordstan, Götagatan 14-16
+  city: Göteborg
+  country: Sverige
+  latitude: 57.70771
+  longitude: 11.96952
+
+- location: Stadium Fredsgatan, Fredsgatan 8
+  city: Göteborg
+  country: Sverige
+  latitude: 57.70592
+  longitude: 11.97049
+
+- location: Stadium Kungsmässan, Borgmästaregatan 5
+  city: Kungsbacka
+  country: Sverige
+  latitude: 57.49272
+  longitude: 12.07462
+
+- location: Stadium Partille, Nils Henrikssons väg 3
+  city: Partille
+  country: Sverige
+  latitude: 57.73666
+  longitude: 12.105011
+
+- location: Stadium Trollhättan, Ladugårdsvägen 12
+  city: Trollhättan
+  country: Sverige
+  latitude: 58.31204
+  longitude: 12.30658
+
+- location: Stadium Väla, Marknadsvägen 1
+  city: Ödåkra
+  country: Sverige
+  latitude: 56.09365
+  longitude: 12.75904
+
+- location: Stadium Hallarna, Prästvägen 1
+  city: Halmstad
+  country: Sverige
+  latitude: 56.655329
+  longitude: 12.909162
+
+- location: Stadium Borås, Bergslenegatan 8
+  city: Borås
+  country: Sverige
+  latitude: 57.73326
+  longitude: 12.94019
+
+- location: Stadium Ski Hundfjället, Kronotorpsvägen 2
+  city: Sälen
+  country: Sverige
+  latitude: 61.17994
+  longitude: 12.96348
+
+- location: Stadium Emporia, Hyllie Boulevard 19
+  city: Malmö
+  country: Sverige
+  latitude: 55.56415
+  longitude: 12.97559
+
+- location: Stadium Svågertorp, Drakagatan 8
+  city: Malmö
+  country: Sverige
+  latitude: 55.55115
+  longitude: 12.987
+
+- location: Stadium Center Syd, Marknadsvägen 7
+  city: Löddeköpinge
+  country: Sverige
+  latitude: 55.76955
+  longitude: 12.99052
+
+- location: Stadium Triangeln, Södra Förstadsgatan 41
+  city: Malmö
+  country: Sverige
+  latitude: 55.595968
+  longitude: 13.000231
+
+- location: Stadium Södergatan, Södergatan 22
+  city: Malmö
+  country: Sverige
+  latitude: 55.60441
+  longitude: 13.00135
+
+- location: Stadium Mobilia, Mobilia köpcenter -
+  city: Malmö
+  country: Sverige
+  latitude: 55.580139
+  longitude: 13.004243
+
+- location: Stadium Ski Åre, Åre Torg 78
+  city: Åre
+  country: Sverige
+  latitude: 63.40124
+  longitude: 13.07665
+
+- location: Stadium Lidköping, Mellbygatan 8
+  city: Lidköping
+  country: Sverige
+  latitude: 58.50273
+  longitude: 13.15518
+
+- location: Stadium Nova Lund, Företagsvägen 10
+  city: Lund
+  country: Sverige
+  latitude: 55.71394
+  longitude: 13.15996
+
+- location: Stadium Ski Lindvallen, Snöcentret Lindvallen -
+  city: Sälen
+  country: Sverige
+  latitude: 61.16412
+  longitude: 13.19398
+
+- location: Stadium Lund City, Skomakargatan 11
+  city: Lund
+  country: Sverige
+  latitude: 55.70286
+  longitude: 13.194599
+
+- location: Stadium Bergvik, Frykmans Väg 1
+  city: Karlstad
+  country: Sverige
+  latitude: 59.37209
+  longitude: 13.42596
+
+- location: Stadium Karlstad City, Drottninggatan 11 14
+  city: Karlstad
+  country: Sverige
+  latitude: 59.38361
+  longitude: 13.50288
+
+- location: Stadium Skövde City, Hertig Johans torg 4
+  city: Skövde
+  country: Sverige
+  latitude: 58.38963
+  longitude: 13.8456
+
+- location: Stadium Elins Esplanad, Köpmannagatan 3
+  city: Skövde
+  country: Sverige
+  latitude: 58.40552
+  longitude: 13.85452
+
+- location: Stadium Värnamo, Kärnan Köpcenter, Malmövägen 12
+  city: Värnamo
+  country: Sverige
+  latitude: 57.17924
+  longitude: 14.0589
+
+- location: Stadium Kristianstad, Östra Boulevarden 5
+  city: Kristianstad
+  country: Sverige
+  latitude: 56.03103
+  longitude: 14.15803
+
+- location: Stadium C4 Kristianstad, C4 Shopping, Fundationsvägen 17
+  city: Kristianstad
+  country: Sverige
+  latitude: 56.023064
+  longitude: 14.194973
+
+- location: Stadium Asecs, Kompanigatan 50
+  city: Jönköping
+  country: Sverige
+  latitude: 57.773762
+  longitude: 14.203621
+
+- location: Stadium Östersund, Prästgatan 47
+  city: Östersund
+  country: Sverige
+  latitude: 63.17561
+  longitude: 14.63746
+
+- location: Stadium Samarkand, Hejaregatan 32
+  city: Växjö
+  country: Sverige
+  latitude: 56.88323
+  longitude: 14.77617
+
+- location: Stadium Växjö City, Storgatan 5
+  city: Växjö
+  country: Sverige
+  latitude: 56.87852
+  longitude: 14.80819
+
+- location: Stadium Marieberg, Säljarvägen 10
+  city: Örebro
+  country: Sverige
+  latitude: 59.216475
+  longitude: 15.135677
+
+- location: Stadium Örebro City, Drottninggatan 27
+  city: Örebro
+  country: Sverige
+  latitude: 59.269179
+  longitude: 15.207477
+
+- location: Stadium Borlänge, Kupolen 79
+  city: Borlänge
+  country: Sverige
+  latitude: 60.48417
+  longitude: 15.41798
+
+- location: Stadium Karlskrona, Ronnebygatan 46
+  city: Karlskrona
+  country: Sverige
+  latitude: 56.162539
+  longitude: 15.585444
+
+- location: Stadium Tornby, Västra Svedengatan 16
+  city: Linköping
+  country: Sverige
+  latitude: 58.43313
+  longitude: 15.59064
+
+- location: Stadium Linköping City, Nygatan 20
+  city: Linköping
+  country: Sverige
+  latitude: 58.410182
+  longitude: 15.627199
+
+- location: Stadium Falun, Holmgatan 20
+  city: Falun
+  country: Sverige
+  latitude: 60.60545
+  longitude: 15.63303
+
+- location: Stadium Ingelsta, Koppargatan 20
+  city: Norrköping
+  country: Sverige
+  latitude: 58.618741
+  longitude: 16.154502
+
+- location: Stadium Norrköping City, Drottninggatan 29
+  city: Norrköping
+  country: Sverige
+  latitude: 58.587373
+  longitude: 16.188138
+
+- location: Stadium Hansa City, Bilbyggarvägen 1
+  city: Kalmar
+  country: Sverige
+  latitude: 56.68261
+  longitude: 16.31744
+
+- location: Stadium Giraffen, Verkstadsgatan 6
+  city: Kalmar
+  country: Sverige
+  latitude: 56.67
+  longitude: 16.34
+
+- location: Stadium Erikslund, Krankroksgatan 19
+  city: Västerås
+  country: Sverige
+  latitude: 59.60992
+  longitude: 16.45343
+
+- location: Stadium Tuna Park, Gunborg Nymansväg 2
+  city: Eskilstuna
+  country: Sverige
+  latitude: 59.37135
+  longitude: 16.47011
+
+- location: Stadium Västerås City, Vasagatan 10-12
+  city: Västerås
+  country: Sverige
+  latitude: 59.61
+  longitude: 16.5465
+
+- location: Stadium Valbo, Valbo Köpcentrum 0
+  city: Valbo
+  country: Sverige
+  latitude: 60.633612
+  longitude: 16.99573
+
+- location: Stadium Gävle City, Drottninggatan 16
+  city: Gävle
+  country: Sverige
+  latitude: 60.65676
+  longitude: 17.14266
+
+- location: Stadium Sundsvall City, Centralgatan 4
+  city: Sundsvall
+  country: Sverige
+  latitude: 62.39161
+  longitude: 17.308
+
+- location: Stadium Birsta, Gesällvägen 7 C
+  city: Sundsvall
+  country: Sverige
+  latitude: 62.44
+  longitude: 17.33
+
+- location: Stadium Uppsala City, Kungsängsgatan 2-4
+  city: Uppsala
+  country: Sverige
+  latitude: 59.85837
+  longitude: 17.64172
+
+- location: Stadium Gränby, Gränby Centrum, Marknadsgatan 1
+  city: Uppsala
+  country: Sverige
+  latitude: 59.88142
+  longitude: 17.67262
+
+- location: Stadium Boländerna+, Rapsgatan 5 D
+  city: Uppsala
+  country: Sverige
+  latitude: 59.84709
+  longitude: 17.691247
+
+- location: Stadium Barkarby+, Flyginfarten 7
+  city: Järfälla
+  country: Sverige
+  latitude: 59.4197
+  longitude: 17.85853
+
+- location: Stadium Vällingby, Årevägen 59
+  city: Vällingby
+  country: Sverige
+  latitude: 59.36166
+  longitude: 17.87554
+
+- location: Stadium Skärholmen, Byholmsgången 1-3
+  city: Skärholmen
+  country: Sverige
+  latitude: 59.275
+  longitude: 17.90715
+
+- location: Stadium Väsby, Dragonvägen 86
+  city: Upplands Väsby
+  country: Sverige
+  latitude: 59.51867
+  longitude: 17.90992
+
+- location: Stadium Kungens Kurva+, Modulvägen 6
+  city: Kungens Kurva
+  country: Sverige
+  latitude: 59.2701
+  longitude: 17.91743
+
+- location: Stadium Kista, Danmarksgatan 42
+  city: Kista
+  country: Sverige
+  latitude: 59.403008
+  longitude: 17.942658
+
+- location: Stadium Bromma, Ulvsundavägen 191 F
+  city: Bromma
+  country: Sverige
+  latitude: 59.356643
+  longitude: 17.94944
+
+- location: Stadium Sollentuna, Sollentunavägen 163
+  city: Sollentuna
+  country: Sverige
+  latitude: 59.428242
+  longitude: 17.951336
+
+- location: Stadium Solna, Centrumslingan 14A
+  city: Solna
+  country: Sverige
+  latitude: 59.35958
+  longitude: 18.00108
+
+- location: Stadium Mall of Scandinavia, Evenemangsgatan 14C
+  city: Solna
+  country: Sverige
+  latitude: 59.370669
+  longitude: 18.001599
+
+- location: Stadium Drottninggatan, Drottninggatan 53
+  city: Stockholm
+  country: Sverige
+  latitude: 59.3333
+  longitude: 18.06186
+
+- location: Stadium Run Kungsgatan, Kungsgatan 8
+  city: Stockholm
+  country: Sverige
+  latitude: 59.335512
+  longitude: 18.069133
+
+- location: Stadium Gallerian, Hamngatan 37
+  city: Stockholm
+  country: Sverige
+  latitude: 59.33
+  longitude: 18.07
+
+- location: Stadium Ringen, Götgatan 98
+  city: Stockholm
+  country: Sverige
+  latitude: 59.30899
+  longitude: 18.0756
+
+- location: Stadium Täby, Östantorget 151 B
+  city: Täby
+  country: Sverige
+  latitude: 59.44763
+  longitude: 18.07869
+
+- location: Stadium Globen, Arenatorget 6
+  city: Johanneshov
+  country: Sverige
+  latitude: 59.293644
+  longitude: 18.081281
+
+- location: Stadium Farsta, Farsta Torg 23
+  city: Farsta
+  country: Sverige
+  latitude: 59.24244
+  longitude: 18.09165
+
+- location: Stadium Sickla, Simbagatan 10
+  city: Nacka
+  country: Sverige
+  latitude: 59.30597
+  longitude: 18.12736
+
+- location: Stadium Haninge, Stores Gränd 8
+  city: Haninge
+  country: Sverige
+  latitude: 59.16966
+  longitude: 18.13942
+
+- location: Stadium Nacka Forum, Vikdalsvägen 6
+  city: Nacka
+  country: Sverige
+  latitude: 59.309739
+  longitude: 18.163652
+
+- location: Stadium Visby, Österväg 9
+  city: Visby
+  country: Sverige
+  latitude: 57.63756
+  longitude: 18.30126
+
+- location: Stadium Örnsköldsvik, Storgatan 15
+  city: Örnsköldsvik
+  country: Sverige
+  latitude: 63.29118
+  longitude: 18.71497
+
+- location: Stadium Umeå Syd, Marknadsgatan 7
+  city: Umeå
+  country: Sverige
+  latitude: 63.806555
+  longitude: 20.25159
+
+- location: Stadium Umeå City, Kungsgatan 69
+  city: Umeå
+  country: Sverige
+  latitude: 63.82539
+  longitude: 20.2663
+
+- location: Stadium Skellefteå, Nygatan 50
+  city: Skellefteå
+  country: Sverige
+  latitude: 64.75044
+  longitude: 20.95452
+
+- location: Stadium Luleå, Timmermansgatan 19
+  city: Luleå
+  country: Sverige
+  latitude: 65.58501
+  longitude: 22.15459

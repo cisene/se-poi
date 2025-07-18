@@ -1,0 +1,1869 @@
+meta:
+  name: St1 Sverige
+  web: https://www.st1.se/
+  wikipedia: https://sv.wikipedia.org/wiki/St1
+  category: Drivmedel
+  locations: 266
+
+locations:
+- location: St1 Strömstad
+  city: Strömstad
+  country: Sverige
+  urn: urn:St1:station:id:98909
+  latitude: 58.944386
+  longitude: 11.183964
+
+- location: St1 Lysekil
+  city: Lysekil
+  country: Sverige
+  urn: urn:St1:station:id:98161
+  latitude: 58.291911
+  longitude: 11.465467
+
+- location: St1 Fagerfjäll
+  city: Fagerfjäll
+  country: Sverige
+  urn: urn:St1:station:id:98837
+  latitude: 57.984653
+  longitude: 11.653336
+
+- location: St1 Munkedal E6
+  city: Munkedal
+  country: Sverige
+  urn: urn:St1:station:id:97437
+  latitude: 58.477642
+  longitude: 11.655748
+
+- location: St1 Uddevalla Rotviksbro
+  city: Uddevalla
+  country: Sverige
+  urn: urn:St1:station:id:98912
+  latitude: 58.3425
+  longitude: 11.691632
+
+- location: St1 Myggenäs Almö
+  city: Myggenäs
+  country: Sverige
+  urn: urn:St1:station:id:98844
+  latitude: 58.0626
+  longitude: 11.7505
+
+- location: St1 Torslanda Nordhagsv 18
+  city: Torslanda
+  country: Sverige
+  urn: urn:St1:station:id:99923
+  latitude: 57.716566
+  longitude: 11.779634
+
+- location: St1 Torslanda Nordhagsv 26
+  city: Torslanda
+  country: Sverige
+  urn: urn:St1:station:id:78201
+  latitude: 57.715813
+  longitude: 11.781226
+
+- location: St1 Stenungsund
+  city: Stenungsund
+  country: Sverige
+  urn: urn:St1:station:id:78369
+  latitude: 58.063799
+  longitude: 11.80205
+
+- location: St1 Svanesund
+  city: Svanesund
+  country: Sverige
+  urn: urn:St1:station:id:99898
+  latitude: 58.14507
+  longitude: 11.808064
+
+- location: St1 Uddevalla Herrestad
+  city: Uddevalla
+  country: Sverige
+  urn: urn:St1:station:id:98866
+  latitude: 58.349512
+  longitude: 11.830221
+
+- location: St1 Säve
+  city: Säve
+  country: Sverige
+  urn: urn:St1:station:id:99957
+  latitude: 57.7934
+  longitude: 11.9122
+
+- location: St1 Uddevalla Bastiongatan
+  city: Uddevalla
+  country: Sverige
+  urn: urn:St1:station:id:97376
+  latitude: 58.350846
+  longitude: 11.929725
+
+- location: St1 Västra Frölunda Antenng
+  city: Västra frölunda
+  country: Sverige
+  urn: urn:St1:station:id:98809
+  latitude: 57.6593
+  longitude: 11.9328
+
+- location: St1 Västra Frölunda A Odhners Gata
+  city: Västra frölunda
+  country: Sverige
+  urn: urn:St1:station:id:97486
+  latitude: 57.659063
+  longitude: 11.937264
+
+- location: St1 Ed
+  city: Ed
+  country: Sverige
+  urn: urn:St1:station:id:78316
+  latitude: 58.901111
+  longitude: 11.945339
+
+- location: St1 Göteborg Kvillebäcken
+  city: Göteborg
+  country: Sverige
+  urn: urn:St1:station:id:98803
+  latitude: 57.726496
+  longitude: 11.946011
+
+- location: St1 Kungälv Rollsbovägen
+  city: Kungälv
+  country: Sverige
+  urn: urn:St1:station:id:98914
+  latitude: 57.886608
+  longitude: 11.947857
+
+- location: St1 Askim Hantverksvägen
+  city: Askim
+  country: Sverige
+  urn: urn:St1:station:id:97184
+  latitude: 57.641192
+  longitude: 11.948757
+
+- location: St1 Kungälv Christian lVs väg
+  city: Kungälv
+  country: Sverige
+  urn: urn:St1:station:id:99751
+  latitude: 57.871395
+  longitude: 11.949541
+
+- location: St1 Uddevalla Västgötavägen
+  city: Uddevalla
+  country: Sverige
+  urn: urn:St1:station:id:97367
+  latitude: 58.349136
+  longitude: 11.951434
+
+- location: St1 Kungälv Gymnasiegatan
+  city: Kungälv
+  country: Sverige
+  urn: urn:St1:station:id:98841
+  latitude: 57.875641
+  longitude: 11.971076
+
+- location: St1 Göteborg Stureplatsen
+  city: Göteborg
+  country: Sverige
+  urn: urn:St1:station:id:97490
+  latitude: 57.704513
+  longitude: 11.978912
+
+- location: St1 Hisings Backa Stigs Center
+  city: Hisings backa
+  country: Sverige
+  urn: urn:St1:station:id:97359
+  latitude: 57.747773
+  longitude: 11.992378
+
+- location: St1 Kungälv Lilla Kongahällavägen
+  city: Kungälv
+  country: Sverige
+  urn: urn:St1:station:id:97321
+  latitude: 57.858541
+  longitude: 11.998594
+
+- location: St1 Mölndal
+  city: Mölndal
+  country: Sverige
+  urn: urn:St1:station:id:98808
+  latitude: 57.660873
+  longitude: 11.998953
+
+- location: St1 Kärramotet
+  city: Hisings backa
+  country: Sverige
+  urn: urn:St1:station:id:98814
+  latitude: 57.7852
+  longitude: 12.0014
+
+- location: St1 Göteborg Kallebäck
+  city: Göteborg
+  country: Sverige
+  urn: urn:St1:station:id:98825
+  latitude: 57.689736
+  longitude: 12.004562
+
+- location: St1 Göteborg Kortedala
+  city: Göteborg
+  country: Sverige
+  urn: urn:St1:station:id:99922
+  latitude: 57.75572
+  longitude: 12.027671
+
+- location: St1 Angered
+  city: Angered
+  country: Sverige
+  urn: urn:St1:station:id:98843
+  latitude: 57.793685
+  longitude: 12.049965
+
+- location: St1 Kungsbacka
+  city: Kungsbacka
+  country: Sverige
+  urn: urn:St1:station:id:98819
+  latitude: 57.4798
+  longitude: 12.0898
+
+- location: St1 Lindome
+  city: Lindome
+  country: Sverige
+  urn: urn:St1:station:id:98835
+  latitude: 57.5768
+  longitude: 12.0912
+
+- location: St1 Åsa Varbergsvägen
+  city: Åsa
+  country: Sverige
+  urn: urn:St1:station:id:97443
+  latitude: 57.350486
+  longitude: 12.122083
+
+- location: St1 Lilla Edet
+  city: Lilla edet
+  country: Sverige
+  urn: urn:St1:station:id:99947
+  latitude: 58.14
+  longitude: 12.1283
+
+- location: St1 Årjäng
+  city: Årjäng
+  country: Sverige
+  urn: urn:St1:station:id:98848
+  latitude: 59.394986
+  longitude: 12.13476
+
+- location: St1 Olofstorp
+  city: Olofstorp
+  country: Sverige
+  urn: urn:St1:station:id:98833
+  latitude: 57.798
+  longitude: 12.1459
+
+- location: St1 Bengtsfors
+  city: Bengtsfors
+  country: Sverige
+  urn: urn:St1:station:id:98829
+  latitude: 59.025458
+  longitude: 12.233976
+
+- location: St1 Lerum
+  city: Lerum
+  country: Sverige
+  urn: urn:St1:station:id:98813
+  latitude: 57.763857
+  longitude: 12.25916
+
+- location: St1 Varberg Jonstaka
+  city: Varberg
+  country: Sverige
+  urn: urn:St1:station:id:78722
+  latitude: 57.080787
+  longitude: 12.279972
+
+- location: St1 Trollhättan Vårviksvägen
+  city: Trollhättan
+  country: Sverige
+  urn: urn:St1:station:id:98967
+  latitude: 58.2975
+  longitude: 12.2867
+
+- location: St1 Trollhättan Lextorp
+  city: Trollhättan
+  country: Sverige
+  urn: urn:St1:station:id:98133
+  latitude: 58.259873
+  longitude: 12.288595
+
+- location: St1 Trollhättan Gärdhemsvägen
+  city: Trollhättan
+  country: Sverige
+  urn: urn:St1:station:id:98172
+  latitude: 58.275547
+  longitude: 12.312495
+
+- location: St1 Trollhättan Kardanvägen
+  city: Trollhättan
+  country: Sverige
+  urn: urn:St1:station:id:97283
+  latitude: 58.294488
+  longitude: 12.322043
+
+- location: St1 Veddige
+  city: Veddige
+  country: Sverige
+  urn: urn:St1:station:id:98176
+  latitude: 57.260507
+  longitude: 12.327068
+
+- location: St1 Mellerud
+  city: Mellerud
+  country: Sverige
+  urn: urn:St1:station:id:98906
+  latitude: 58.7023
+  longitude: 12.4494
+
+- location: St1 Falkenberg Industrivägen
+  city: Falkenberg
+  country: Sverige
+  urn: urn:St1:station:id:98145
+  latitude: 56.907728
+  longitude: 12.465726
+
+- location: St1 Falkenberg Smidesvägen
+  city: Falkenberg
+  country: Sverige
+  urn: urn:St1:station:id:99660
+  latitude: 56.914427
+  longitude: 12.499474
+
+- location: St1 Hyssna
+  city: Hyssna
+  country: Sverige
+  urn: urn:St1:station:id:99713
+  latitude: 57.55272
+  longitude: 12.526478
+
+- location: St1 Alingsås Götaplan Järngatan
+  city: Alingsås
+  country: Sverige
+  urn: urn:St1:station:id:97487
+  latitude: 57.927613
+  longitude: 12.546205
+
+- location: St1 Alingsås Borgens Gata E20
+  city: Alingsås
+  country: Sverige
+  urn: urn:St1:station:id:99910
+  latitude: 57.930853
+  longitude: 12.560199
+
+- location: St1 Höganäs
+  city: Höganäs
+  country: Sverige
+  urn: urn:St1:station:id:98753
+  latitude: 56.196159
+  longitude: 12.564227
+
+- location: St1 Arvika
+  city: Arvika
+  country: Sverige
+  urn: urn:St1:station:id:98119
+  latitude: 59.6477
+  longitude: 12.6174
+
+- location: St1 Helsingborg Rännarbanan
+  city: Helsingborg
+  country: Sverige
+  urn: urn:St1:station:id:97440
+  latitude: 56.029006
+  longitude: 12.711416
+
+- location: St1 Åmål
+  city: Åmål
+  country: Sverige
+  urn: urn:St1:station:id:98815
+  latitude: 59.043574
+  longitude: 12.712103
+
+- location: St1 Helsingborg Furutorpsg
+  city: Helsingborg
+  country: Sverige
+  urn: urn:St1:station:id:98855
+  latitude: 56.039323
+  longitude: 12.713672
+
+- location: St1 Vårgårda
+  city: Vårgårda
+  country: Sverige
+  urn: urn:St1:station:id:98178
+  latitude: 58.040173
+  longitude: 12.802123
+
+- location: St1 Halmstad Gamla Tylösandsvägen
+  city: Halmstad
+  country: Sverige
+  urn: urn:St1:station:id:97389
+  latitude: 56.667
+  longitude: 12.819136
+
+- location: St1 Landskrona Ringv
+  city: Landskrona
+  country: Sverige
+  urn: urn:St1:station:id:98139
+  latitude: 55.880848
+  longitude: 12.854727
+
+- location: St1 Landskrona Malmövägen
+  city: Landskrona
+  country: Sverige
+  urn: urn:St1:station:id:97212
+  latitude: 55.871666
+  longitude: 12.855433
+
+- location: St1 Ängelholm Helsingborgsv
+  city: Ängelholm
+  country: Sverige
+  urn: urn:St1:station:id:99955
+  latitude: 56.233138
+  longitude: 12.86053
+
+- location: St1 Halmstad Laholmsv
+  city: Halmstad
+  country: Sverige
+  urn: urn:St1:station:id:98765
+  latitude: 56.663159
+  longitude: 12.885881
+
+- location: St1 Ängelholm Verkstadsg
+  city: Ängelholm
+  country: Sverige
+  urn: urn:St1:station:id:98860
+  latitude: 56.2492
+  longitude: 12.89203
+
+- location: St1 Säffle Kungsgatan
+  city: Säffle
+  country: Sverige
+  urn: urn:St1:station:id:97230
+  latitude: 59.129584
+  longitude: 12.91646
+
+- location: St1 Borås Knalleland
+  city: Borås
+  country: Sverige
+  urn: urn:St1:station:id:99933
+  latitude: 57.7337
+  longitude: 12.9331
+
+- location: St1 Borås Skaraborgsvägen
+  city: Borås
+  country: Sverige
+  urn: urn:St1:station:id:97297
+  latitude: 57.730885
+  longitude: 12.939531
+
+- location: St1 Malmö Linnégatan
+  city: Limhamn
+  country: Sverige
+  urn: urn:St1:station:id:99640
+  latitude: 55.580873
+  longitude: 12.942697
+
+- location: St1 Borås Katrinedalsgatan
+  city: Borås
+  country: Sverige
+  urn: urn:St1:station:id:97203
+  latitude: 57.712784
+  longitude: 12.947764
+
+- location: St1 Mellbystrand Söderleden
+  city: Mellbystrand
+  country: Sverige
+  urn: urn:St1:station:id:97459
+  latitude: 56.502331
+  longitude: 12.956353
+
+- location: St1 Oskarström
+  city: Oskarström
+  country: Sverige
+  urn: urn:St1:station:id:98780
+  latitude: 56.804449
+  longitude: 12.960735
+
+- location: St1 Vara
+  city: Vara
+  country: Sverige
+  urn: urn:St1:station:id:98175
+  latitude: 58.256457
+  longitude: 12.964978
+
+- location: St1 Malmö Bellevuevägen
+  city: Malmö
+  country: Sverige
+  urn: urn:St1:station:id:97476
+  latitude: 55.580465
+  longitude: 12.965127
+
+- location: St1 Löddeköpinge
+  city: Löddeköpinge
+  country: Sverige
+  urn: urn:St1:station:id:98773
+  latitude: 55.767738
+  longitude: 12.989747
+
+- location: St1 Malmö Svågertorp
+  city: Malmö
+  country: Sverige
+  urn: urn:St1:station:id:98856
+  latitude: 55.5529
+  longitude: 12.9956
+
+- location: St1 Malmö Munkhättegatan
+  city: Malmö
+  country: Sverige
+  urn: urn:St1:station:id:98768
+  latitude: 55.568823
+  longitude: 13.011719
+
+- location: St1 Malmö Lantmannagatan
+  city: Malmö
+  country: Sverige
+  urn: urn:St1:station:id:97349
+  latitude: 55.58392
+  longitude: 13.01854
+
+- location: St1 Malmö Eriksfältsgatan
+  city: Malmö
+  country: Sverige
+  urn: urn:St1:station:id:97581
+  latitude: 55.573102
+  longitude: 13.024496
+
+- location: St1 Malmö Cypressvägen
+  city: Malmö
+  country: Sverige
+  urn: urn:St1:station:id:98772
+  latitude: 55.571988
+  longitude: 13.038748
+
+- location: St1 Malmö Lundavägen
+  city: Malmö
+  country: Sverige
+  urn: urn:St1:station:id:97215
+  latitude: 55.615347
+  longitude: 13.043401
+
+- location: St1 Malmö Ramelsv
+  city: Malmö
+  country: Sverige
+  urn: urn:St1:station:id:78324
+  latitude: 55.582213
+  longitude: 13.053983
+
+- location: St1 Malmö Bulltofta
+  city: Malmö
+  country: Sverige
+  urn: urn:St1:station:id:98756
+  latitude: 55.596356
+  longitude: 13.061338
+
+- location: St1 Gånghester Aplared
+  city: Gånghester
+  country: Sverige
+  urn: urn:St1:station:id:97200
+  latitude: 57.64947
+  longitude: 13.06357
+
+- location: St1 Kävlinge
+  city: Kävlinge
+  country: Sverige
+  urn: urn:St1:station:id:98778
+  latitude: 55.79858
+  longitude: 13.097691
+
+- location: St1 Svalöv
+  city: Svalöv
+  country: Sverige
+  urn: urn:St1:station:id:98788
+  latitude: 55.9093
+  longitude: 13.106
+
+- location: St1 Klippan
+  city: Klippan
+  country: Sverige
+  urn: urn:St1:station:id:98790
+  latitude: 56.206441
+  longitude: 13.106473
+
+- location: St1 Grums
+  city: Grums
+  country: Sverige
+  urn: urn:St1:station:id:99682
+  latitude: 59.361137
+  longitude: 13.112091
+
+- location: St1 Trelleborg
+  city: Trelleborg
+  country: Sverige
+  urn: urn:St1:station:id:98138
+  latitude: 55.376439
+  longitude: 13.123112
+
+- location: St1 Lidköping Strandgatan
+  city: Lidköping
+  country: Sverige
+  urn: urn:St1:station:id:98821
+  latitude: 58.508548
+  longitude: 13.151189
+
+- location: St1 Lidköping Hamngatan
+  city: Lidköping
+  country: Sverige
+  urn: urn:St1:station:id:97343
+  latitude: 58.494804
+  longitude: 13.153514
+
+- location: St1 Lund Bondevägen
+  city: Lund
+  country: Sverige
+  urn: urn:St1:station:id:98755
+  latitude: 55.7122
+  longitude: 13.1702
+
+- location: St1 Lund Trollebergsv
+  city: Lund
+  country: Sverige
+  urn: urn:St1:station:id:97387
+  latitude: 55.702998
+  longitude: 13.176436
+
+- location: St1 Lidköping Rörstrandsgatan
+  city: Lidköping
+  country: Sverige
+  urn: urn:St1:station:id:98158
+  latitude: 58.498113
+  longitude: 13.180503
+
+- location: St1 Eslöv Ystadsvägen
+  city: Eslöv
+  country: Sverige
+  urn: urn:St1:station:id:99654
+  latitude: 55.831924
+  longitude: 13.304625
+
+- location: St1 Eslöv Trehäradsvägen
+  city: Eslöv
+  country: Sverige
+  urn: urn:St1:station:id:98143
+  latitude: 55.834197
+  longitude: 13.315709
+
+- location: St1 Flyinge
+  city: Flyinge
+  country: Sverige
+  urn: urn:St1:station:id:78350
+  latitude: 55.772101
+  longitude: 13.318837
+
+- location: St1 Dalby
+  city: Dalby
+  country: Sverige
+  urn: urn:St1:station:id:98777
+  latitude: 55.670543
+  longitude: 13.350287
+
+- location: St1 Ulricehamn
+  city: Ulricehamn
+  country: Sverige
+  urn: urn:St1:station:id:99938
+  latitude: 57.804171
+  longitude: 13.409256
+
+- location: St1 Karlstad Våxnäs
+  city: Karlstad
+  country: Sverige
+  urn: urn:St1:station:id:99733
+  latitude: 59.382323
+  longitude: 13.463023
+
+- location: St1 Karlstad Våxnäs Hagalundsvägen
+  city: Karlstad
+  country: Sverige
+  urn: urn:St1:station:id:97298
+  latitude: 59.383517
+  longitude: 13.474951
+
+- location: St1 Forshaga Framgårdsvägen
+  city: Forshaga
+  country: Sverige
+  urn: urn:St1:station:id:97445
+  latitude: 59.537929
+  longitude: 13.482814
+
+- location: St1 Veberöd
+  city: Veberöd
+  country: Sverige
+  urn: urn:St1:station:id:98784
+  latitude: 55.635142
+  longitude: 13.49128
+
+- location: St1 Götene
+  city: Götene
+  country: Sverige
+  urn: urn:St1:station:id:98149
+  latitude: 58.5384
+  longitude: 13.5088
+
+- location: St1 Gislaved
+  city: Gislaved
+  country: Sverige
+  urn: urn:St1:station:id:98701
+  latitude: 57.303344
+  longitude: 13.542644
+
+- location: St1 Falköping Ulricehamnsrondellen
+  city: Falköping
+  country: Sverige
+  urn: urn:St1:station:id:98146
+  latitude: 58.150844
+  longitude: 13.558371
+
+- location: St1 Falköping Nordmannagatan
+  city: Falköping
+  country: Sverige
+  urn: urn:St1:station:id:98147
+  latitude: 58.182844
+  longitude: 13.56879
+
+- location: St1 Falköping Fredsgatan
+  city: Falköping
+  country: Sverige
+  urn: urn:St1:station:id:98132
+  latitude: 58.160737
+  longitude: 13.569126
+
+- location: St1 Tyringe Helsingborgsvängen
+  city: Tyringe
+  country: Sverige
+  urn: urn:St1:station:id:97579
+  latitude: 56.163638
+  longitude: 13.589252
+
+- location: St1 Markaryd
+  city: Markaryd
+  country: Sverige
+  urn: urn:St1:station:id:98758
+  latitude: 56.466615
+  longitude: 13.599908
+
+- location: St1 Hörby
+  city: Hörby
+  country: Sverige
+  urn: urn:St1:station:id:98792
+  latitude: 55.849641
+  longitude: 13.649883
+
+- location: St1 Hagfors
+  city: Hagfors
+  country: Sverige
+  urn: urn:St1:station:id:99692
+  latitude: 60.042968
+  longitude: 13.70442
+
+- location: St1 Bjärnum Södra Vägen
+  city: Bjärnum
+  country: Sverige
+  urn: urn:St1:station:id:97493
+  latitude: 56.287687
+  longitude: 13.712428
+
+- location: St1 Hässleholm Svedjemarksgatan
+  city: Hässleholm
+  country: Sverige
+  urn: urn:St1:station:id:97336
+  latitude: 56.1511
+  longitude: 13.779344
+
+- location: St1 Ystad Spaljégatan
+  city: Ystad
+  country: Sverige
+  urn: urn:St1:station:id:97508
+  latitude: 55.43298
+  longitude: 13.79868
+
+- location: St1 Hässleholm Mackgatan
+  city: Hässleholm
+  country: Sverige
+  urn: urn:St1:station:id:98153
+  latitude: 56.170135
+  longitude: 13.81913
+
+- location: St1 Skövde Gustav Afolfs Gata
+  city: Skövde
+  country: Sverige
+  urn: urn:St1:station:id:97303
+  latitude: 58.404443
+  longitude: 13.852393
+
+- location: St1 Mariestad
+  city: Mariestad
+  country: Sverige
+  urn: urn:St1:station:id:98162
+  latitude: 58.711023
+  longitude: 13.859759
+
+- location: St1 Mullsjö
+  city: Mullsjö
+  country: Sverige
+  urn: urn:St1:station:id:78351
+  latitude: 57.90332
+  longitude: 13.86212
+
+- location: St1 Skövde Mariestadsvägen
+  city: Skövde
+  country: Sverige
+  urn: urn:St1:station:id:99960
+  latitude: 58.403238
+  longitude: 13.866296
+
+- location: St1 Ljungby
+  city: Ljungby
+  country: Sverige
+  urn: urn:St1:station:id:78381
+  latitude: 56.841261
+  longitude: 13.944221
+
+- location: St1 Tomelilla
+  city: Tomelilla
+  country: Sverige
+  urn: urn:St1:station:id:98760
+  latitude: 55.5435
+  longitude: 13.9565
+
+- location: St1 Värnamo Halmstadsvägen
+  city: Värnamo
+  country: Sverige
+  urn: urn:St1:station:id:97448
+  latitude: 57.18246
+  longitude: 14.023514
+
+- location: St1 Värnamo Malmövägen
+  city: Värnamo
+  country: Sverige
+  urn: urn:St1:station:id:98137
+  latitude: 57.170529
+  longitude: 14.063056
+
+- location: St1 Värnamo Tr pl Värnamo
+  city: Värnamo
+  country: Sverige
+  urn: urn:St1:station:id:98179
+  latitude: 57.163877
+  longitude: 14.074947
+
+- location: St1 Habo
+  city: Habo
+  country: Sverige
+  urn: urn:St1:station:id:99691
+  latitude: 57.899987
+  longitude: 14.096789
+
+- location: St1 Kristinehamn Karlstadsvägen
+  city: Kristinehamn
+  country: Sverige
+  urn: urn:St1:station:id:97239
+  latitude: 59.31576
+  longitude: 14.10216
+
+- location: St1 Tibro
+  city: Tibro
+  country: Sverige
+  urn: urn:St1:station:id:98171
+  latitude: 58.419042
+  longitude: 14.132783
+
+- location: St1 Kristianstad Långebrog 76
+  city: Kristianstad
+  country: Sverige
+  urn: urn:St1:station:id:98766
+  latitude: 56.020717
+  longitude: 14.137144
+
+- location: St1 Kristianstad Långebrog 58
+  city: Kristianstad
+  country: Sverige
+  urn: urn:St1:station:id:97255
+  latitude: 56.021613
+  longitude: 14.141423
+
+- location: St1 Älmhult Danska Vägen
+  city: Älmhult
+  country: Sverige
+  urn: urn:St1:station:id:98180
+  latitude: 56.556856
+  longitude: 14.148435
+
+- location: St1 Jönköping Jordbrov
+  city: Jönköping
+  country: Sverige
+  urn: urn:St1:station:id:98155
+  latitude: 57.765641
+  longitude: 14.152978
+
+- location: St1 Jönköping Råslätt
+  city: Jönköping
+  country: Sverige
+  urn: urn:St1:station:id:98704
+  latitude: 57.7458
+  longitude: 14.1565
+
+- location: St1 Kristianstad Blekingevägen
+  city: Kristianstad
+  country: Sverige
+  urn: urn:St1:station:id:78264
+  latitude: 56.026406
+  longitude: 14.171893
+
+- location: St1 Jönköping Herkulesvägen
+  city: Jönköping
+  country: Sverige
+  urn: urn:St1:station:id:97501
+  latitude: 57.772441
+  longitude: 14.175802
+
+- location: St1 Hova
+  city: Hova
+  country: Sverige
+  urn: urn:St1:station:id:98736
+  latitude: 58.854323
+  longitude: 14.205619
+
+- location: St1 Jönköping Ekhagen
+  city: Jönköping
+  country: Sverige
+  urn: urn:St1:station:id:98703
+  latitude: 57.777051
+  longitude: 14.221664
+
+- location: St1 Vansbro Älvgatan
+  city: Vansbro
+  country: Sverige
+  urn: urn:St1:station:id:97432
+  latitude: 60.50867
+  longitude: 14.230376
+
+- location: St1 Hjo Falköpingsvägen
+  city: Hjo
+  country: Sverige
+  urn: urn:St1:station:id:98151
+  latitude: 58.3028
+  longitude: 14.2579
+
+- location: St1 Fjälkinge
+  city: Fjälkinge
+  country: Sverige
+  urn: urn:St1:station:id:78244
+  latitude: 56.035131
+  longitude: 14.269313
+
+- location: St1 Åhus
+  city: Åhus
+  country: Sverige
+  urn: urn:St1:station:id:98798
+  latitude: 55.933775
+  longitude: 14.287788
+
+- location: St1 Simrishamn
+  city: Simrishamn
+  country: Sverige
+  urn: urn:St1:station:id:98140
+  latitude: 55.545995
+  longitude: 14.336502
+
+- location: St1 Karlskoga
+  city: Karlskoga
+  country: Sverige
+  urn: urn:St1:station:id:99730
+  latitude: 59.323503
+  longitude: 14.497788
+
+- location: St1 Hällefors
+  city: Hällefors
+  country: Sverige
+  urn: urn:St1:station:id:98152
+  latitude: 59.776982
+  longitude: 14.524475
+
+- location: St1 Olofström
+  city: Olofström
+  country: Sverige
+  urn: urn:St1:station:id:98166
+  latitude: 56.260067
+  longitude: 14.552315
+
+- location: Välkommen in Mora
+  city: Mora
+  country: Sverige
+  urn: urn:St1:station:id:28352
+  latitude: 61.009531
+  longitude: 14.555506
+
+- location: St1 Mora
+  city: Mora
+  country: Sverige
+  urn: urn:St1:station:id:78352
+  latitude: 61.009531
+  longitude: 14.555506
+
+- location: St1 Sölvesborg Skånevägen
+  city: Sölvesborg
+  country: Sverige
+  urn: urn:St1:station:id:98135
+  latitude: 56.053069
+  longitude: 14.569066
+
+- location: St1 Sölvesborg Snapphanegatan
+  city: Sölvesborg
+  country: Sverige
+  urn: urn:St1:station:id:97377
+  latitude: 56.058709
+  longitude: 14.592094
+
+- location: St1 Pukavik
+  city: Mörrum
+  country: Sverige
+  urn: urn:St1:station:id:98168
+  latitude: 56.1668
+  longitude: 14.6814
+
+- location: St1 Nässjö Sörängsvägen
+  city: Nässjö
+  country: Sverige
+  urn: urn:St1:station:id:97401
+  latitude: 57.650867
+  longitude: 14.706011
+
+- location: St1 Dalbo Växjö
+  city: Växjö
+  country: Sverige
+  urn: urn:St1:station:id:78220
+  latitude: 56.89014
+  longitude: 14.798191
+
+- location: St1 Växjö Hovshaga
+  city: Växjö
+  country: Sverige
+  urn: urn:St1:station:id:98747
+  latitude: 56.9026
+  longitude: 14.7984
+
+- location: St1 Växjö Mörners Väg
+  city: Växjö
+  country: Sverige
+  urn: urn:St1:station:id:97488
+  latitude: 56.891174
+  longitude: 14.816364
+
+- location: St1 Karlshamn Jannebergsv
+  city: Karlshamn
+  country: Sverige
+  urn: urn:St1:station:id:98156
+  latitude: 56.192112
+  longitude: 14.84452
+
+- location: St1 Karlshamn Hinseleden
+  city: Karlshamn
+  country: Sverige
+  urn: urn:St1:station:id:99726
+  latitude: 56.1682
+  longitude: 14.8505
+
+- location: St1 Tranås Hagadalsgatan
+  city: Tranås
+  country: Sverige
+  urn: urn:St1:station:id:97457
+  latitude: 58.02711
+  longitude: 14.958018
+
+- location: St1 Eksjö
+  city: Eksjö
+  country: Sverige
+  urn: urn:St1:station:id:98134
+  latitude: 57.6585
+  longitude: 14.9616
+
+- location: St1 Tranås
+  city: Tranås
+  country: Sverige
+  urn: urn:St1:station:id:98116
+  latitude: 58.03815
+  longitude: 14.976346
+
+- location: St1 Motala
+  city: Motala
+  country: Sverige
+  urn: urn:St1:station:id:98115
+  latitude: 58.539279
+  longitude: 15.0162
+
+- location: St1 Nora Storgatan
+  city: Nora
+  country: Sverige
+  urn: urn:St1:station:id:97185
+  latitude: 59.519285
+  longitude: 15.032793
+
+- location: St1 Vetlanda
+  city: Vetlanda
+  country: Sverige
+  urn: urn:St1:station:id:98863
+  latitude: 57.414923
+  longitude: 15.09079
+
+- location: St1 Rättvik Nyåkersvägen
+  city: Rättvik
+  country: Sverige
+  urn: urn:St1:station:id:97454
+  latitude: 60.890752
+  longitude: 15.110406
+
+- location: St1 Bräkne Hoby
+  city: Bräkne-hoby
+  country: Sverige
+  urn: urn:St1:station:id:98776
+  latitude: 56.222553
+  longitude: 15.111381
+
+- location: St1 Mjölby Kungsvägen
+  city: Mjölby
+  country: Sverige
+  urn: urn:St1:station:id:97470
+  latitude: 58.331339
+  longitude: 15.114469
+
+- location: St1 Kumla
+  city: Kumla
+  country: Sverige
+  urn: urn:St1:station:id:98739
+  latitude: 59.124432
+  longitude: 15.132809
+
+- location: St1 Örebro Nejlikegatan
+  city: Örebro
+  country: Sverige
+  urn: urn:St1:station:id:98618
+  latitude: 59.294739
+  longitude: 15.166911
+
+- location: St1 Örebro Karlsundsg
+  city: Örebro
+  country: Sverige
+  urn: urn:St1:station:id:98616
+  latitude: 59.274
+  longitude: 15.196
+
+- location: St1 Lindesberg
+  city: Lindesberg
+  country: Sverige
+  urn: urn:St1:station:id:98109
+  latitude: 59.5982
+  longitude: 15.224
+
+- location: St1 Ronneby Kallinge
+  city: Kallinge
+  country: Sverige
+  urn: urn:St1:station:id:98169
+  latitude: 56.2335
+  longitude: 15.263
+
+- location: St1 Ronneby
+  city: Ronneby
+  country: Sverige
+  urn: urn:St1:station:id:98136
+  latitude: 56.218826
+  longitude: 15.26908
+
+- location: St1 Mantorp
+  city: Mantorp
+  country: Sverige
+  urn: urn:St1:station:id:98824
+  latitude: 58.365378
+  longitude: 15.29618
+
+- location: St1 Borlänge Kupolen
+  city: Borlänge
+  country: Sverige
+  urn: urn:St1:station:id:98621
+  latitude: 60.482125
+  longitude: 15.415052
+
+- location: St1 Falun Gruvgatan
+  city: Falun
+  country: Sverige
+  urn: urn:St1:station:id:78268
+  latitude: 60.602516
+  longitude: 15.619792
+
+- location: St1 Falun Timmervägen
+  city: Falun
+  country: Sverige
+  urn: urn:St1:station:id:98120
+  latitude: 60.598092
+  longitude: 15.623602
+
+- location: St1 Kisa
+  city: Kisa
+  country: Sverige
+  urn: urn:St1:station:id:98342
+  latitude: 57.98617
+  longitude: 15.63183
+
+- location: St1 Linköping Torvingeg
+  city: Linköping
+  country: Sverige
+  urn: urn:St1:station:id:98159
+  latitude: 58.418162
+  longitude: 15.657461
+
+- location: St1 Linköping Ekholmen
+  city: Linköping
+  country: Sverige
+  urn: urn:St1:station:id:98706
+  latitude: 58.3783
+  longitude: 15.682796
+
+- location: St1 Linköping Tallboda
+  city: Linköping
+  country: Sverige
+  urn: urn:St1:station:id:99773
+  latitude: 58.426294
+  longitude: 15.686065
+
+- location: St1 Linköping Låskolvsgatan
+  city: Linköping
+  country: Sverige
+  urn: urn:St1:station:id:97205
+  latitude: 58.399335
+  longitude: 15.690953
+
+- location: St1 Falun Korsnäs
+  city: Falun
+  country: Sverige
+  urn: urn:St1:station:id:78225
+  latitude: 60.592645
+  longitude: 15.748225
+
+- location: St1 Finspång Östermalmsvägen
+  city: Finspång
+  country: Sverige
+  urn: urn:St1:station:id:97494
+  latitude: 58.710609
+  longitude: 15.785869
+
+- location: St1 Fagersta Blomstervägen
+  city: Fagersta
+  country: Sverige
+  urn: urn:St1:station:id:98144
+  latitude: 60.0007
+  longitude: 15.7964
+
+- location: St1 Fagersta Floravägen
+  city: Fagersta
+  country: Sverige
+  urn: urn:St1:station:id:98111
+  latitude: 59.9956
+  longitude: 15.8101
+
+- location: St1 Hultsfred
+  city: Hultsfred
+  country: Sverige
+  urn: urn:St1:station:id:99712
+  latitude: 57.495988
+  longitude: 15.832799
+
+- location: St1 Vimmerby S Industrig
+  city: Vimmerby
+  country: Sverige
+  urn: urn:St1:station:id:98177
+  latitude: 57.663
+  longitude: 15.8504
+
+- location: St1 Vimmerby Norrgårdsg
+  city: Vimmerby
+  country: Sverige
+  urn: urn:St1:station:id:99962
+  latitude: 57.6778
+  longitude: 15.8527
+
+- location: St1 Skärblacka
+  city: Skärblacka
+  country: Sverige
+  urn: urn:St1:station:id:99951
+  latitude: 58.5814
+  longitude: 15.9245
+
+- location: St1 Fågelmara
+  city: Fågelmara
+  country: Sverige
+  urn: urn:St1:station:id:98148
+  latitude: 56.260593
+  longitude: 15.949691
+
+- location: St1 Hedemora Tviksta
+  city: Hedemora
+  country: Sverige
+  urn: urn:St1:station:id:97400
+  latitude: 60.296616
+  longitude: 15.977604
+
+- location: St1 Köping
+  city: Köping
+  country: Sverige
+  urn: urn:St1:station:id:98157
+  latitude: 59.512601
+  longitude: 15.980782
+
+- location: St1 Hedemora
+  city: Hedemora
+  country: Sverige
+  urn: urn:St1:station:id:98122
+  latitude: 60.284662
+  longitude: 15.99385
+
+- location: St1 Ljusdal
+  city: Ljusdal
+  country: Sverige
+  urn: urn:St1:station:id:98125
+  latitude: 61.824672
+  longitude: 16.116432
+
+- location: St1 Norrköping Kopparg
+  city: Norrköping
+  country: Sverige
+  urn: urn:St1:station:id:98164
+  latitude: 58.616262
+  longitude: 16.155187
+
+- location: St1 Norrköping Stockholmsv
+  city: Norrköping
+  country: Sverige
+  urn: urn:St1:station:id:98114
+  latitude: 58.598427
+  longitude: 16.170005
+
+- location: St1 Katrineholm
+  city: Katrineholm
+  country: Sverige
+  urn: urn:St1:station:id:98117
+  latitude: 58.9978
+  longitude: 16.221
+
+- location: St1 Hofors Faluvägen
+  city: Hofors
+  country: Sverige
+  urn: urn:St1:station:id:97285
+  latitude: 60.541133
+  longitude: 16.289117
+
+- location: St1 Kalmar Husmorsvägen
+  city: Kalmar
+  country: Sverige
+  urn: urn:St1:station:id:99721
+  latitude: 56.723943
+  longitude: 16.301916
+
+- location: St1 Kalmar Engelska Vägen
+  city: Kalmar
+  country: Sverige
+  urn: urn:St1:station:id:97371
+  latitude: 56.695115
+  longitude: 16.330303
+
+- location: St1 Kalmar Funkabovägen
+  city: Kalmar
+  country: Sverige
+  urn: urn:St1:station:id:98754
+  latitude: 56.688466
+  longitude: 16.339985
+
+- location: St1 Bollnäs Postgränd
+  city: Bollnäs
+  country: Sverige
+  urn: urn:St1:station:id:98126
+  latitude: 61.350127
+  longitude: 16.390247
+
+- location: St1 Bollnäs Våggatan
+  city: Bollnäs
+  country: Sverige
+  urn: urn:St1:station:id:97422
+  latitude: 61.346278
+  longitude: 16.394482
+
+- location: St1 Eskilstuna Tuna Park
+  city: Eskilstuna
+  country: Sverige
+  urn: urn:St1:station:id:98112
+  latitude: 59.375442
+  longitude: 16.469925
+
+- location: St1 Västerås Råby Fredriksbergsgatan
+  city: Västerås
+  country: Sverige
+  urn: urn:St1:station:id:97310
+  latitude: 59.606568
+  longitude: 16.485486
+
+- location: St1 Eskilstuna Gillbergaplan
+  city: Eskilstuna
+  country: Sverige
+  urn: urn:St1:station:id:97196
+  latitude: 59.361618
+  longitude: 16.506661
+
+- location: St1 Eskilstuna Årbygatan
+  city: Eskilstuna
+  country: Sverige
+  urn: urn:St1:station:id:97452
+  latitude: 59.383211
+  longitude: 16.512847
+
+- location: St1 Västerås Fältmätarg
+  city: Västerås
+  country: Sverige
+  urn: urn:St1:station:id:98113
+  latitude: 59.61326
+  longitude: 16.613921
+
+- location: St1 Sala
+  city: Sala
+  country: Sverige
+  urn: urn:St1:station:id:98610
+  latitude: 59.91537
+  longitude: 16.61525
+
+- location: St1 Sandviken
+  city: Sandviken
+  country: Sverige
+  urn: urn:St1:station:id:98123
+  latitude: 60.623634
+  longitude: 16.757961
+
+- location: St1 Nyköping Skavsta
+  city: Nyköping
+  country: Sverige
+  urn: urn:St1:station:id:98170
+  latitude: 58.782499
+  longitude: 16.925967
+
+- location: St1 Nyköping Norrköpingsv 3
+  city: Nyköping
+  country: Sverige
+  urn: urn:St1:station:id:98118
+  latitude: 58.75115
+  longitude: 16.992249
+
+- location: St1 Strängnäs Eskilstunavägen
+  city: Strängnäs
+  country: Sverige
+  urn: urn:St1:station:id:97198
+  latitude: 59.37657
+  longitude: 17.012651
+
+- location: St1 Söderhamn
+  city: Söderhamn
+  country: Sverige
+  urn: urn:St1:station:id:98124
+  latitude: 61.301163
+  longitude: 17.041441
+
+- location: St1 Enköping Mästerg
+  city: Enköping
+  country: Sverige
+  urn: urn:St1:station:id:99650
+  latitude: 59.6478
+  longitude: 17.0866
+
+- location: St1 Hudiksvall
+  city: Hudiksvall
+  country: Sverige
+  urn: urn:St1:station:id:98943
+  latitude: 61.734063
+  longitude: 17.099646
+
+- location: St1 Gävle Sätra Höjden
+  city: Gävle
+  country: Sverige
+  urn: urn:St1:station:id:98852
+  latitude: 60.694065
+  longitude: 17.122333
+
+- location: St1 Gävle Industrigatan
+  city: Gävle
+  country: Sverige
+  urn: urn:St1:station:id:98623
+  latitude: 60.667342
+  longitude: 17.168712
+
+- location: St1 Gävle Bomhus
+  city: Gävle
+  country: Sverige
+  urn: urn:St1:station:id:98851
+  latitude: 60.675437
+  longitude: 17.218395
+
+- location: St1 Sollefteå Norra Ådalsvägen
+  city: Sollefteå
+  country: Sverige
+  urn: urn:St1:station:id:97383
+  latitude: 63.177981
+  longitude: 17.275673
+
+- location: St1 Sundsbruk Birsta
+  city: Sundsvall
+  country: Sverige
+  urn: urn:St1:station:id:98463
+  latitude: 62.4416
+  longitude: 17.3308
+
+- location: St1 Älvkarleby
+  city: Älvkarleby
+  country: Sverige
+  urn: urn:St1:station:id:98658
+  latitude: 60.560875
+  longitude: 17.463195
+
+- location: St1 Bålsta
+  city: Bålsta
+  country: Sverige
+  urn: urn:St1:station:id:98105
+  latitude: 59.561665
+  longitude: 17.554837
+
+- location: St1 Högsta
+  city: Uppsala
+  country: Sverige
+  urn: urn:St1:station:id:98154
+  latitude: 59.9783
+  longitude: 17.5756
+
+- location: St1 Södertälje
+  city: Södertälje
+  country: Sverige
+  urn: urn:St1:station:id:98633
+  latitude: 59.186747
+  longitude: 17.614696
+
+- location: St1 Kungsängen Brunna
+  city: Kungsängen
+  country: Sverige
+  urn: urn:St1:station:id:97455
+  latitude: 59.505131
+  longitude: 17.741482
+
+- location: St1 Rönninge Salem
+  city: Rönninge
+  country: Sverige
+  urn: urn:St1:station:id:98869
+  latitude: 59.201568
+  longitude: 17.759672
+
+- location: St1 Botkyrka
+  city: Tumba
+  country: Sverige
+  urn: urn:St1:station:id:98106
+  latitude: 59.214365
+  longitude: 17.831291
+
+- location: St1 Tumba Dalvägen
+  city: Tumba
+  country: Sverige
+  urn: urn:St1:station:id:97326
+  latitude: 59.195559
+  longitude: 17.831372
+
+- location: St1 Norsborg Alby
+  city: Norsborg
+  country: Sverige
+  urn: urn:St1:station:id:98632
+  latitude: 59.239039
+  longitude: 17.843459
+
+- location: St1 Järfälla Skälbyvägen
+  city: Järfälla
+  country: Sverige
+  urn: urn:St1:station:id:97261
+  latitude: 59.394912
+  longitude: 17.856115
+
+- location: St1 Vällingby Kirunagatan
+  city: Vällingby
+  country: Sverige
+  urn: urn:St1:station:id:97505
+  latitude: 59.365656
+  longitude: 17.861155
+
+- location: St1 Märsta
+  city: Arlandastad
+  country: Sverige
+  urn: urn:St1:station:id:98104
+  latitude: 59.613826
+  longitude: 17.87803
+
+- location: St1 Tullinge
+  city: Tullinge
+  country: Sverige
+  urn: urn:St1:station:id:98613
+  latitude: 59.206428
+  longitude: 17.906655
+
+- location: St1 Skärholmen Eldholmsb
+  city: Skärholmen
+  country: Sverige
+  urn: urn:St1:station:id:97406
+  latitude: 59.275596
+  longitude: 17.911709
+
+- location: St1 Spånga Krällingegränd
+  city: Spånga
+  country: Sverige
+  urn: urn:St1:station:id:78417
+  latitude: 59.394672
+  longitude: 17.916156
+
+- location: St1 Skärholmen Kungens Kurva
+  city: Segeltorp
+  country: Sverige
+  urn: urn:St1:station:id:98462
+  latitude: 59.2738
+  longitude: 17.9196
+
+- location: St1 Härnösand
+  city: Härnösand
+  country: Sverige
+  urn: urn:St1:station:id:98127
+  latitude: 62.633268
+  longitude: 17.926743
+
+- location: St1 Upplands Väsby Stockholmsvägen
+  city: Upplands väsby
+  country: Sverige
+  urn: urn:St1:station:id:97240
+  latitude: 59.51067
+  longitude: 17.926766
+
+- location: St1 Bredäng
+  city: Skärholmen
+  country: Sverige
+  urn: urn:St1:station:id:98101
+  latitude: 59.2955
+  longitude: 17.9361
+
+- location: St1 Hägersten Vasaloppsvägen
+  city: Hägersten
+  country: Sverige
+  urn: urn:St1:station:id:97314
+  latitude: 59.296718
+  longitude: 17.973796
+
+- location: St1 Västberga
+  city: Hägersten
+  country: Sverige
+  urn: urn:St1:station:id:98102
+  latitude: 59.294596
+  longitude: 18.009911
+
+- location: St1 Huddinge Huddingev
+  city: Huddinge
+  country: Sverige
+  urn: urn:St1:station:id:97360
+  latitude: 59.25539
+  longitude: 18.0145
+
+- location: St1 Bandhagen Rågsved
+  city: Bandhagen
+  country: Sverige
+  urn: urn:St1:station:id:98622
+  latitude: 59.2572
+  longitude: 18.0155
+
+- location: St1 Årsta Sockengränd
+  city: Årsta
+  country: Sverige
+  urn: urn:St1:station:id:97275
+  latitude: 59.28619
+  longitude: 18.04924
+
+- location: St1 Täby Enhagsv
+  city: Täby
+  country: Sverige
+  urn: urn:St1:station:id:98108
+  latitude: 59.438543
+  longitude: 18.05348
+
+- location: St1 Vallentuna Bällsta
+  city: Vallentuna
+  country: Sverige
+  urn: urn:St1:station:id:78688
+  latitude: 59.51408
+  longitude: 18.09218
+
+- location: St1 Täby Bergtorpsvägen
+  city: Täby
+  country: Sverige
+  urn: urn:St1:station:id:97498
+  latitude: 59.442336
+  longitude: 18.097389
+
+- location: St1 Vallentuna
+  city: Vallentuna
+  country: Sverige
+  urn: urn:St1:station:id:98174
+  latitude: 59.531252
+  longitude: 18.098298
+
+- location: St1 Frihamnen Stockholm
+  city: Stockholm
+  country: Sverige
+  urn: urn:St1:station:id:98972
+  latitude: 59.340436
+  longitude: 18.115835
+
+- location: St1 Bagarmossen
+  city: Bagarmossen
+  country: Sverige
+  urn: urn:St1:station:id:99918
+  latitude: 59.2783
+  longitude: 18.1277
+
+- location: St1 Täby Arninge
+  city: Täby
+  country: Sverige
+  urn: urn:St1:station:id:97450
+  latitude: 59.461766
+  longitude: 18.134319
+
+- location: St1 Handen Nynäsvägen
+  city: Haninge
+  country: Sverige
+  urn: urn:St1:station:id:97420
+  latitude: 59.17813
+  longitude: 18.143453
+
+- location: St1 Lidingö Skärsätra Torg
+  city: Lidingö
+  country: Sverige
+  urn: urn:St1:station:id:97475
+  latitude: 59.344094
+  longitude: 18.168357
+
+- location: St1 Tyresö
+  city: Tyresö
+  country: Sverige
+  urn: urn:St1:station:id:99619
+  latitude: 59.246809
+  longitude: 18.218144
+
+- location: St1 Saltsjöbaden
+  city: Saltsjöbaden
+  country: Sverige
+  urn: urn:St1:station:id:78209
+  latitude: 59.290038
+  longitude: 18.247656
+
+- location: St1 Åkersberga
+  city: Åkersberga
+  country: Sverige
+  urn: urn:St1:station:id:98103
+  latitude: 59.480596
+  longitude: 18.282231
+
+- location: St1 Visby Söderväg
+  city: Visby
+  country: Sverige
+  urn: urn:St1:station:id:78278
+  latitude: 57.629341
+  longitude: 18.286363
+
+- location: St1 Visby Slitev
+  city: Visby
+  country: Sverige
+  urn: urn:St1:station:id:78202
+  latitude: 57.631336
+  longitude: 18.32984
+
+- location: St1 Rimbo Norrtäljevägen
+  city: Rimbo
+  country: Sverige
+  urn: urn:St1:station:id:97407
+  latitude: 59.745504
+  longitude: 18.377459
+
+- location: St1 Gustavsberg Mölnvik
+  city: Gustavsberg
+  country: Sverige
+  urn: urn:St1:station:id:98875
+  latitude: 59.31238
+  longitude: 18.424826
+
+- location: St1 Norrtälje
+  city: Norrtälje
+  country: Sverige
+  urn: urn:St1:station:id:98165
+  latitude: 59.750962
+  longitude: 18.691241
+
+- location: St1 Örnsköldsvik Domsjö
+  city: Domsjö
+  country: Sverige
+  urn: urn:St1:station:id:98853
+  latitude: 63.2725
+  longitude: 18.6931
+
+- location: St1 Örnsköldsvik
+  city: Örnsköldsvik
+  country: Sverige
+  urn: urn:St1:station:id:98131
+  latitude: 63.290026
+  longitude: 18.704883
+
+- location: St1 Umeå Vännäsvägen
+  city: Umeå
+  country: Sverige
+  urn: urn:St1:station:id:98128
+  latitude: 63.8406
+  longitude: 20.2022
+
+- location: St1 Umeå Formvägen
+  city: Umeå
+  country: Sverige
+  urn: urn:St1:station:id:97252
+  latitude: 63.851038
+  longitude: 20.30343
+
+- location: St1 Skellefteå
+  city: Skellefteå
+  country: Sverige
+  urn: urn:St1:station:id:98130
+  latitude: 64.73608
+  longitude: 20.963238
+
+- location: St1 Piteå Hammarvägen
+  city: Öjebyn
+  country: Sverige
+  urn: urn:St1:station:id:98167
+  latitude: 65.340446
+  longitude: 21.408785
+
+- location: St1 Luleå
+  city: Luleå
+  country: Sverige
+  urn: urn:St1:station:id:98129
+  latitude: 65.600934
+  longitude: 22.139016
+
+- location: St1 Pajala
+  city: Pajala
+  country: Sverige
+  urn: urn:St1:station:id:78495
+  latitude: 67.209277
+  longitude: 23.368807

@@ -1,0 +1,715 @@
+meta:
+  name: Hennes & Mauritz
+  web: https://www.hm.com/
+  wikipedia: https://sv.wikipedia.org/wiki/Hennes_%26_Mauritz
+  category: Kläder och konfektion
+  locations: 118
+
+locations:
+- location: Hennes & Mauritz - Nordby Köpcenter
+  urn: urn:hm:store:id:SE0496
+  city: Nordby
+  latitude: 59.063242
+  longitude: 11.216854
+
+- location: Hennes & Mauritz - Torp Köpcentrum
+  urn: urn:hm:store:id:SE0482
+  city: Uddevalla
+  latitude: 58.3541
+  longitude: 11.812722
+
+- location: Hennes & Mauritz - Stenungsund
+  urn: urn:hm:store:id:SE0445
+  city: Stenungsund
+  latitude: 58.068348
+  longitude: 11.818958
+
+- location: Hennes & Mauritz - Töcksfors
+  urn: urn:hm:store:id:SE0391
+  city: Töcksfors
+  latitude: 59.506454
+  longitude: 11.844788
+
+- location: Hennes & Mauritz - Frölunda Torg
+  urn: urn:hm:store:id:SE0245
+  city: Göteborg
+  latitude: 57.652617
+  longitude: 11.912888
+
+- location: Hennes & Mauritz - Nordstan
+  urn: urn:hm:store:id:SE0221
+  city: Göteborg
+  latitude: 57.708137
+  longitude: 11.96763
+
+- location: Hennes & Mauritz - H&M Kungsgatan
+  urn: urn:hm:store:id:SE0234
+  city: Göteborg
+  latitude: 57.70471
+  longitude: 11.968048
+
+- location: Hennes & Mauritz - Kongahälla Centrum
+  urn: urn:hm:store:id:SE0213
+  city: Kungälv
+  latitude: 57.872481
+  longitude: 11.969826
+
+- location: Hennes & Mauritz - Varuhuset Femman
+  urn: urn:hm:store:id:SE0217
+  city: Göteborg
+  latitude: 57.708541
+  longitude: 11.970583
+
+- location: Hennes & Mauritz - Mölndal
+  urn: urn:hm:store:id:SE0210
+  city: Mölndal
+  latitude: 57.655055
+  longitude: 12.011735
+
+- location: Hennes & Mauritz - Kungsmässan
+  urn: urn:hm:store:id:SE0444
+  city: Kungsbacka
+  latitude: 57.492314
+  longitude: 12.074735
+
+- location: Hennes & Mauritz - Partille Allum
+  urn: urn:hm:store:id:SE0212
+  city: Göteborg
+  latitude: 57.737529
+  longitude: 12.103542
+
+- location: Hennes & Mauritz - Varberg
+  urn: urn:hm:store:id:SE0430
+  city: Varberg
+  latitude: 57.105895
+  longitude: 12.248265
+
+- location: Hennes & Mauritz - Charlottenberg
+  urn: urn:hm:store:id:SE0408
+  city: Eda
+  latitude: 59.882983
+  longitude: 12.291976
+
+- location: Hennes & Mauritz - Överby
+  urn: urn:hm:store:id:SE0449
+  city: Trollhättan
+  latitude: 58.311223
+  longitude: 12.307469
+
+- location: Hennes & Mauritz - Alingsås
+  urn: urn:hm:store:id:SE0250
+  city: Alingsås
+  latitude: 57.930129
+  longitude: 12.536666
+
+- location: Hennes & Mauritz - Väla
+  urn: urn:hm:store:id:SE0466
+  city: Helsingborg
+  latitude: 56.093574
+  longitude: 12.760409
+
+- location: Hennes & Mauritz - Landskrona
+  urn: urn:hm:store:id:SE0443
+  city: Landskrona
+  latitude: 55.870351
+  longitude: 12.833233
+
+- location: Hennes & Mauritz - Ängelholm C
+  urn: urn:hm:store:id:SE0383
+  city: Ängelholm
+  latitude: 56.244137
+  longitude: 12.862587
+
+- location: Hennes & Mauritz - Hallarna Halmstad
+  urn: urn:hm:store:id:SE0406
+  city: Halmstad
+  latitude: 56.655429
+  longitude: 12.909068
+
+- location: Hennes & Mauritz - Knalleland
+  urn: urn:hm:store:id:SE0401
+  city: Borås
+  latitude: 57.735485
+  longitude: 12.937305
+
+- location: Hennes & Mauritz - Emporia
+  urn: urn:hm:store:id:SE0327
+  city: Malmö
+  latitude: 55.565534
+  longitude: 12.970605
+
+- location: Hennes & Mauritz - Center Syd
+  urn: urn:hm:store:id:SE0361
+  city: Kävlinge
+  latitude: 55.767557
+  longitude: 12.992561
+
+- location: Hennes & Mauritz - Gustav Adolfs Torg 2
+  urn: urn:hm:store:id:SE0363
+  city: Malmö
+  latitude: 55.605583
+  longitude: 13.001493
+
+- location: Hennes & Mauritz - H&M Home Gustav Adolfs Torg
+  urn: urn:hm:store:id:SE0321
+  city: Malmö
+  latitude: 55.602799
+  longitude: 13.001676
+
+- location: Hennes & Mauritz - Triangeln
+  urn: urn:hm:store:id:SE0332
+  city: Malmö
+  latitude: 55.596243
+  longitude: 13.002393
+
+- location: Hennes & Mauritz - Mobilia
+  urn: urn:hm:store:id:SE0350
+  city: Malmö
+  latitude: 55.580556
+  longitude: 13.003611
+
+- location: Hennes & Mauritz - Trelleborg
+  urn: urn:hm:store:id:SE0372
+  city: Trelleborg
+  latitude: 55.374585
+  longitude: 13.152874
+
+- location: Hennes & Mauritz - Nova Lund
+  urn: urn:hm:store:id:SE0417
+  city: Lund
+  latitude: 55.715723
+  longitude: 13.156489
+
+- location: Hennes & Mauritz - Lidköping
+  urn: urn:hm:store:id:SE0487
+  city: Lidköping
+  latitude: 58.503161
+  longitude: 13.157431
+
+- location: Hennes & Mauritz - Lund City
+  urn: urn:hm:store:id:SE0416
+  city: Lund
+  latitude: 55.702193
+  longitude: 13.192769
+
+- location: Hennes & Mauritz - Karlstad Bergvik
+  urn: urn:hm:store:id:SE0397
+  city: Karlstad
+  latitude: 59.378406
+  longitude: 13.424616
+
+- location: Hennes & Mauritz - Karlstad City
+  urn: urn:hm:store:id:SE0399
+  city: Karlstad
+  latitude: 59.380095
+  longitude: 13.500855
+
+- location: Hennes & Mauritz - Falköping
+  urn: urn:hm:store:id:SE0429
+  city: Falköping
+  latitude: 58.160565
+  longitude: 13.551817
+
+- location: Hennes & Mauritz - Hässleholm
+  urn: urn:hm:store:id:SE0457
+  city: Hässleholm
+  latitude: 56.155384
+  longitude: 13.764349
+
+- location: Hennes & Mauritz - Ystad
+  urn: urn:hm:store:id:SE0480
+  city: Ystad
+  latitude: 55.428919
+  longitude: 13.821147
+
+- location: Hennes & Mauritz - Elins Esplanad
+  urn: urn:hm:store:id:SE0215
+  city: Skövde
+  latitude: 58.404792
+  longitude: 13.85376
+
+- location: Hennes & Mauritz - Värnamo Pelikanen
+  urn: urn:hm:store:id:SE0310
+  city: Värnamo
+  latitude: 57.184224
+  longitude: 14.045676
+
+- location: Hennes & Mauritz - Jönköping C
+  urn: urn:hm:store:id:SE0300
+  city: Jönköping
+  latitude: 57.782614
+  longitude: 14.161788
+
+- location: Hennes & Mauritz - A6-center
+  urn: urn:hm:store:id:SE0428
+  city: Jönköping
+  latitude: 57.775619
+  longitude: 14.201863
+
+- location: Hennes & Mauritz - C4
+  urn: urn:hm:store:id:SE0356
+  city: Kristianstad
+  latitude: 56.025305
+  longitude: 14.206631
+
+- location: Hennes & Mauritz - Karlskoga
+  urn: urn:hm:store:id:SE0499
+  city: Karlskoga
+  latitude: 59.324549
+  longitude: 14.523522
+
+- location: Hennes & Mauritz - Mora C
+  urn: urn:hm:store:id:SE0476
+  city: Mora
+  latitude: 61.003275
+  longitude: 14.536566
+
+- location: Hennes & Mauritz - Östersund C
+  urn: urn:hm:store:id:SE0454
+  city: Östersund
+  latitude: 63.177974
+  longitude: 14.636825
+
+- location: Hennes & Mauritz - Nässjö
+  urn: urn:hm:store:id:SE0280
+  city: Nässjö
+  latitude: 57.654173
+  longitude: 14.695287
+
+- location: Hennes & Mauritz - Samarkand
+  urn: urn:hm:store:id:SE0385
+  city: Växjö
+  latitude: 56.885314
+  longitude: 14.766797
+
+- location: Hennes & Mauritz - Växjö City
+  urn: urn:hm:store:id:SE0386
+  city: Växjö
+  latitude: 56.879215
+  longitude: 14.801196
+
+- location: Hennes & Mauritz - Karlshamn
+  urn: urn:hm:store:id:SE0382
+  city: Karlshamn
+  latitude: 56.170477
+  longitude: 14.86094
+
+- location: Hennes & Mauritz - Vetlanda
+  urn: urn:hm:store:id:SE0494
+  city: Vetlanda
+  latitude: 57.426629
+  longitude: 15.084034
+
+- location: Hennes & Mauritz - Marieberg
+  urn: urn:hm:store:id:SE0405
+  city: Örebro
+  latitude: 59.214891
+  longitude: 15.134025
+
+- location: Hennes & Mauritz - H&M Home Vågen
+  urn: urn:hm:store:id:SE0099
+  city: Örebro
+  latitude: 59.26971
+  longitude: 15.211376
+
+- location: Hennes & Mauritz - Örebro City
+  urn: urn:hm:store:id:SE0404
+  city: Örebro
+  latitude: 59.271297
+  longitude: 15.212502
+
+- location: Hennes & Mauritz - Kupolen
+  urn: urn:hm:store:id:SE0459
+  city: Borlänge
+  latitude: 60.485839
+  longitude: 15.418464
+
+- location: Hennes & Mauritz - Karlskrona
+  urn: urn:hm:store:id:SE0495
+  city: Karlskrona
+  latitude: 56.162106
+  longitude: 15.584373
+
+- location: Hennes & Mauritz - i-HUSET
+  urn: urn:hm:store:id:SE0500
+  city: Linköping
+  latitude: 58.43493
+  longitude: 15.586093
+
+- location: Hennes & Mauritz - Linköping
+  urn: urn:hm:store:id:SE0492
+  city: Linköping
+  latitude: 58.4098
+  longitude: 15.625104
+
+- location: Hennes & Mauritz - Falun
+  urn: urn:hm:store:id:SE0407
+  city: Falun
+  latitude: 60.60692
+  longitude: 15.627597
+
+- location: Hennes & Mauritz - Ingelsta Shopping
+  urn: urn:hm:store:id:SE0498
+  city: Norrköping
+  latitude: 58.618973
+  longitude: 16.155852
+
+- location: Hennes & Mauritz - Avesta
+  urn: urn:hm:store:id:SE0467
+  city: Avesta
+  latitude: 60.145882
+  longitude: 16.168249
+
+- location: Hennes & Mauritz - Repslagaregatan 12
+  urn: urn:hm:store:id:SE0333
+  city: Norrköping
+  latitude: 58.588083
+  longitude: 16.190211
+
+- location: Hennes & Mauritz - Katrineholm
+  urn: urn:hm:store:id:SE0238
+  city: Katrineholm
+  latitude: 58.995917
+  longitude: 16.206177
+
+- location: Hennes & Mauritz - Giraffen
+  urn: urn:hm:store:id:SE0265
+  city: Kalmar
+  latitude: 56.673021
+  longitude: 16.334022
+
+- location: Hennes & Mauritz - Baronen
+  urn: urn:hm:store:id:SE0264
+  city: Kalmar
+  latitude: 56.660697
+  longitude: 16.365308
+
+- location: Hennes & Mauritz - Oskarshamn
+  urn: urn:hm:store:id:SE0390
+  city: Oskarshamn
+  latitude: 57.264866
+  longitude: 16.446919
+
+- location: Hennes & Mauritz - Erikslund
+  urn: urn:hm:store:id:SE0425
+  city: Västerås
+  latitude: 59.611127
+  longitude: 16.461983
+
+- location: Hennes & Mauritz - Tuna Park
+  urn: urn:hm:store:id:SE0421
+  city: Eskilstuna
+  latitude: 59.37211
+  longitude: 16.469385
+
+- location: Hennes & Mauritz - Eskilstuna City
+  urn: urn:hm:store:id:SE0438
+  city: Eskilstuna
+  latitude: 59.37109
+  longitude: 16.512053
+
+- location: Hennes & Mauritz - Vasagatan 13
+  urn: urn:hm:store:id:SE0422
+  city: Västerås
+  latitude: 59.610115
+  longitude: 16.54611
+
+- location: Hennes & Mauritz - Västervik
+  urn: urn:hm:store:id:SE0475
+  city: Västervik
+  latitude: 57.752852
+  longitude: 16.63854
+
+- location: Hennes & Mauritz - Valbo Köpcentrum
+  urn: urn:hm:store:id:SE0484
+  city: Gävle
+  latitude: 60.633067
+  longitude: 16.99261
+
+- location: Hennes & Mauritz - Nyköping
+  urn: urn:hm:store:id:SE0488
+  city: Nyköping
+  latitude: 58.752465
+  longitude: 17.006008
+
+- location: Hennes & Mauritz - Söderhamn
+  urn: urn:hm:store:id:SE0461
+  city: Söderhamn
+  latitude: 61.302685
+  longitude: 17.056103
+
+- location: Hennes & Mauritz - Guldsmeden
+  urn: urn:hm:store:id:SE0402
+  city: Hudiksvall
+  latitude: 61.727765
+  longitude: 17.104683
+
+- location: Hennes & Mauritz - Gävle city
+  urn: urn:hm:store:id:SE0477
+  city: Gävle
+  latitude: 60.674033
+  longitude: 17.140098
+
+- location: Hennes & Mauritz - Storgatan 36
+  urn: urn:hm:store:id:SE0452
+  city: Sundsvall
+  latitude: 62.391512
+  longitude: 17.304089
+
+- location: Hennes & Mauritz - Birsta City
+  urn: urn:hm:store:id:SE0479
+  city: Sundsvall
+  latitude: 62.447688
+  longitude: 17.341592
+
+- location: Hennes & Mauritz - Södertälje
+  urn: urn:hm:store:id:SE0453
+  city: Södertälje
+  latitude: 59.1969
+  longitude: 17.626748
+
+- location: Hennes & Mauritz - Svartbäcksgatan 4
+  urn: urn:hm:store:id:SE0423
+  city: Uppsala
+  latitude: 59.859245
+  longitude: 17.637885
+
+- location: Hennes & Mauritz - Gränbystaden
+  urn: urn:hm:store:id:SE0190
+  city: Uppsala
+  latitude: 59.876975
+  longitude: 17.672639
+
+- location: Hennes & Mauritz - Märsta Centrum
+  urn: urn:hm:store:id:SE0105
+  city: Sigtuna
+  latitude: 59.619146
+  longitude: 17.723419
+
+- location: Hennes & Mauritz - Vällingby Centrum
+  urn: urn:hm:store:id:SE0141
+  city: Stockholm
+  latitude: 59.361878
+  longitude: 17.874922
+
+- location: Hennes & Mauritz - Skärholmen Centrum
+  urn: urn:hm:store:id:SE0150
+  city: Stockholm
+  latitude: 59.275105
+  longitude: 17.907161
+
+- location: Hennes & Mauritz - Väsby Centrum
+  urn: urn:hm:store:id:SE0110
+  city: Stockholm
+  latitude: 59.518643
+  longitude: 17.910136
+
+- location: Hennes & Mauritz - Kungens Kurva
+  urn: urn:hm:store:id:SE0152
+  city: Stockholm
+  latitude: 59.269485
+  longitude: 17.916729
+
+- location: Hennes & Mauritz - Härnösand
+  urn: urn:hm:store:id:SE0440
+  city: Härnösand
+  latitude: 62.630513
+  longitude: 17.940394
+
+- location: Hennes & Mauritz - Kista Galleria
+  urn: urn:hm:store:id:SE0183
+  city: Stockholm
+  latitude: 59.403423
+  longitude: 17.943892
+
+- location: Hennes & Mauritz - Sollentuna Centrum
+  urn: urn:hm:store:id:SE0128
+  city: Stockholm
+  latitude: 59.428332
+  longitude: 17.951134
+
+- location: Hennes & Mauritz - Bromma Blocks
+  urn: urn:hm:store:id:SE0142
+  city: Stockholm
+  latitude: 59.356455
+  longitude: 17.953287
+
+- location: Hennes & Mauritz - Huddinge Centrum
+  urn: urn:hm:store:id:SE0147
+  city: Stockholm
+  latitude: 59.236554
+  longitude: 17.981878
+
+- location: Hennes & Mauritz - Solna Centrum
+  urn: urn:hm:store:id:SE0145
+  city: Stockholm
+  latitude: 59.359861
+  longitude: 18.000719
+
+- location: Hennes & Mauritz - Mall of Scandinavia
+  urn: urn:hm:store:id:SE0144
+  city: Stockholm
+  latitude: 59.370186
+  longitude: 18.003338
+
+- location: Hennes & Mauritz - Liljeholmen
+  urn: urn:hm:store:id:SE0179
+  city: Stockholm
+  latitude: 59.309532
+  longitude: 18.022421
+
+- location: Hennes & Mauritz - Västermalmsgallerian
+  urn: urn:hm:store:id:SE0187
+  city: Stockholm
+  latitude: 59.334544
+  longitude: 18.032389
+
+- location: Hennes & Mauritz - Hornstull
+  urn: urn:hm:store:id:SE0180
+  city: Stockholm
+  latitude: 59.316791
+  longitude: 18.0335
+
+- location: Hennes & Mauritz - Drottninggatan 56
+  urn: urn:hm:store:id:SE0038
+  city: Stockholm
+  latitude: 59.333343
+  longitude: 18.062485
+
+- location: Hennes & Mauritz - H&M Home Drottninggatan
+  urn: urn:hm:store:id:SE0034
+  city: Stockholm
+  latitude: 59.332808
+  longitude: 18.06261
+
+- location: Hennes & Mauritz - Drottninggatan 50
+  urn: urn:hm:store:id:SE0033
+  city: Stockholm
+  latitude: 59.332885
+  longitude: 18.063957
+
+- location: Hennes & Mauritz - Täby Centrum
+  urn: urn:hm:store:id:SE0151
+  city: Stockholm
+  latitude: 59.445422
+  longitude: 18.069728
+
+- location: Hennes & Mauritz - H&M Home Biblioteksgatan
+  urn: urn:hm:store:id:SE0100
+  city: Stockholm
+  latitude: 59.335466
+  longitude: 18.072467
+
+- location: Hennes & Mauritz - H&M MAN
+  urn: urn:hm:store:id:SE0060
+  city: Stockholm
+  latitude: 59.333695
+  longitude: 18.072629
+
+- location: Hennes & Mauritz - Globen
+  urn: urn:hm:store:id:SE0178
+  city: Stockholm
+  latitude: 59.293011
+  longitude: 18.081081
+
+- location: Hennes & Mauritz - Farsta Centrum
+  urn: urn:hm:store:id:SE0177
+  city: Stockholm
+  latitude: 59.242993
+  longitude: 18.089053
+
+- location: Hennes & Mauritz - Fältöversten
+  urn: urn:hm:store:id:SE0181
+  city: Stockholm
+  latitude: 59.339389
+  longitude: 18.092122
+
+- location: Hennes & Mauritz - Haninge Centrum
+  urn: urn:hm:store:id:SE0131
+  city: Stockholm
+  latitude: 59.169734
+  longitude: 18.139627
+
+- location: Hennes & Mauritz - Nacka Forum
+  urn: urn:hm:store:id:SE0158
+  city: Stockholm
+  latitude: 59.309423
+  longitude: 18.164388
+
+- location: Hennes & Mauritz - Tyresö Centrum
+  urn: urn:hm:store:id:SE0167
+  city: Stockholm
+  latitude: 59.244961
+  longitude: 18.228973
+
+- location: Hennes & Mauritz - Åkersberga Centrum
+  urn: urn:hm:store:id:SE0117
+  city: Österåker
+  latitude: 59.479628
+  longitude: 18.299737
+
+- location: Hennes & Mauritz - Visby
+  urn: urn:hm:store:id:SE0192
+  city: Gotland
+  latitude: 57.637614
+  longitude: 18.30051
+
+- location: Hennes & Mauritz - Värmdö Köpcentrum
+  urn: urn:hm:store:id:SE0160
+  city: Stockholm
+  latitude: 59.312507
+  longitude: 18.422203
+
+- location: Hennes & Mauritz - Norrtälje
+  urn: urn:hm:store:id:SE0441
+  city: Norrtälje
+  latitude: 59.757044
+  longitude: 18.700962
+
+- location: Hennes & Mauritz - Örnsköldsvik
+  urn: urn:hm:store:id:SE0486
+  city: Örnsköldsvik
+  latitude: 63.291165
+  longitude: 18.714952
+
+- location: Hennes & Mauritz - Avion Shopping
+  urn: urn:hm:store:id:SE0450
+  city: Umeå
+  latitude: 63.809779
+  longitude: 20.253921
+
+- location: Hennes & Mauritz - Utopia
+  urn: urn:hm:store:id:SE0448
+  city: Umeå
+  latitude: 63.825847
+  longitude: 20.263035
+
+- location: Hennes & Mauritz - Vintergatans Köpcentrum
+  urn: urn:hm:store:id:SE0469
+  city: Skellefteå
+  latitude: 64.751529
+  longitude: 20.953279
+
+- location: Hennes & Mauritz - Småstaden
+  urn: urn:hm:store:id:SE0378
+  city: Piteå
+  latitude: 65.317427
+  longitude: 21.477219
+
+- location: Hennes & Mauritz - Boden
+  urn: urn:hm:store:id:SE0381
+  city: Boden
+  latitude: 65.824257
+  longitude: 21.685607
+
+- location: Hennes & Mauritz - Storhedsvägen 3
+  urn: urn:hm:store:id:SE0471
+  city: Luleå
+  latitude: 65.618054
+  longitude: 22.040548
+
+- location: Hennes & Mauritz - Storgatan 51
+  urn: urn:hm:store:id:SE0470
+  city: Luleå
+  latitude: 65.584091
+  longitude: 22.150402

@@ -1,0 +1,3013 @@
+meta:
+  name: Mekonomen
+  web: https://www.mekonomen.se/
+  wikipedia: https://sv.wikipedia.org/wiki/Mekonomen
+  category: Biltillbehörskedjor
+  locations: 501
+
+locations:
+- location: Strömstad Husbilservice AB
+  urn: urn:mekonomen:store:id:2632
+  city: Strömstad
+  latitude: 58.92985
+  longitude: 11.18709
+
+- location: Mekonomen Butik Strömstad
+  urn: urn:mekonomen:store:id:2754
+  city: Strömstad
+  latitude: 58.92993
+  longitude: 11.18719
+
+- location: BBH Autoservice AB
+  urn: urn:mekonomen:store:id:2546
+  city: Kungshamn
+  latitude: 58.36304
+  longitude: 11.26679
+
+- location: Mekonomen Butik Kungshamn
+  urn: urn:mekonomen:store:id:2707
+  city: Kungshamn
+  latitude: 58.364
+  longitude: 11.26689
+
+- location: Blekets Bilservice AB
+  urn: urn:mekonomen:store:id:2549
+  city: Tjörn / Bleket
+  latitude: 57.94915
+  longitude: 11.56798
+
+- location: M Malmgren Bil AB
+  urn: urn:mekonomen:store:id:2567
+  city: Munkedal
+  latitude: 58.48221
+  longitude: 11.64139
+
+- location: Lagga Däck & Bilservice AB
+  urn: urn:mekonomen:store:id:2424
+  city: Torslanda
+  latitude: 57.7155
+  longitude: 11.77656
+
+- location: Mekonomen Butik Stenungsund
+  urn: urn:mekonomen:store:id:2752
+  city: Stenungsund
+  latitude: 58.07209
+  longitude: 11.84622
+
+- location: Mekonomen BilLivet Uddevalla AB
+  urn: urn:mekonomen:store:id:2569
+  city: Uddevalla
+  latitude: 58.35189
+  longitude: 11.85314
+
+- location: Autoverkstan i Munkeröd AB
+  urn: urn:mekonomen:store:id:2545
+  city: Stenungsund
+  latitude: 58.06319
+  longitude: 11.87274
+
+- location: Långedrag Bilverkstad Göteborg AB
+  urn: urn:mekonomen:store:id:3220
+  city: Västra Frölunda
+  latitude: 57.67114
+  longitude: 11.88137
+
+- location: Mekonomen BilLivet Grimmered AB
+  urn: urn:mekonomen:store:id:2431
+  city: Västra Frölunda
+  latitude: 57.66254
+  longitude: 11.89533
+
+- location: R O Bil i Göteborg AB
+  urn: urn:mekonomen:store:id:2438
+  city: Göteborg
+  latitude: 57.68718
+  longitude: 11.90944
+
+- location: Sam`s Bilservice i Kungälv AB
+  urn: urn:mekonomen:store:id:2442
+  city: Kungälv / Rollsbo
+  latitude: 57.87526
+  longitude: 11.9401
+
+- location: Masthuggsgaragets Bilverkstad AB
+  urn: urn:mekonomen:store:id:2425
+  city: Göteborg
+  latitude: 57.69866
+  longitude: 11.94052
+
+- location: Mekonomen Butik Göteborg / Backaplan
+  urn: urn:mekonomen:store:id:2740
+  city: Göteborg / Backaplan
+  latitude: 57.72914
+  longitude: 11.94646
+
+- location: Mekonomen BilLivet Backaplan AB
+  urn: urn:mekonomen:store:id:2428
+  city: Göteborg
+  latitude: 57.72927
+  longitude: 11.94735
+
+- location: Bilverksta&#039;n i Kareby AB
+  urn: urn:mekonomen:store:id:2409
+  city: Kungälv
+  latitude: 57.8791
+  longitude: 11.95249
+
+- location: Garmek i Årjäng AB
+  urn: urn:mekonomen:store:id:2555
+  city: Årjäng / Töcksfors
+  latitude: 59.47835
+  longitude: 11.95642
+
+- location: Kullaviks Bilservice AB
+  urn: urn:mekonomen:store:id:2590
+  city: Billdal
+  latitude: 57.56114
+  longitude: 11.95925
+
+- location: City Car Service Ringön AB
+  urn: urn:mekonomen:store:id:2411
+  city: Göteborg
+  latitude: 57.72052
+  longitude: 11.9631
+
+- location: Mekonomen BilLivet Eklanda AB
+  urn: urn:mekonomen:store:id:2430
+  city: Eklanda
+  latitude: 57.6483
+  longitude: 11.96939
+
+- location: Mekonomen Butik Mölndal / Eklanda / Göteborg / Högsbo / Torslanda
+  urn: urn:mekonomen:store:id:2670
+  city: Göteborg
+  latitude: 57.6483
+  longitude: 11.96939
+
+- location: Mekonomen Butik Kungälv
+  urn: urn:mekonomen:store:id:2705
+  city: Kungälv
+  latitude: 57.88113
+  longitude: 11.98153
+
+- location: Mattssons Bilservice i Kungälv AB
+  urn: urn:mekonomen:store:id:2426
+  city: Kungälv
+  latitude: 57.88076
+  longitude: 11.98271
+
+- location: Säve Bil HB (Marieholm)
+  urn: urn:mekonomen:store:id:2444
+  city: Göteborg
+  latitude: 57.72251
+  longitude: 11.99062
+
+- location: Hans Moberg Bilverkstad AB
+  urn: urn:mekonomen:store:id:2417
+  city: Göteborg
+  latitude: 57.713
+  longitude: 12.01955
+
+- location: Mölndals Bilverkstad AB
+  urn: urn:mekonomen:store:id:2434
+  city: Mölndal
+  latitude: 57.63938
+  longitude: 12.02819
+
+- location: Torpavallen Bilservice AB
+  urn: urn:mekonomen:store:id:2436
+  city: Göteborg
+  latitude: 57.72383
+  longitude: 12.03292
+
+- location: Kortedala Bilservice HB
+  urn: urn:mekonomen:store:id:2421
+  city: Göteborg
+  latitude: 57.7459
+  longitude: 12.03445
+
+- location: Säve Bil AB
+  urn: urn:mekonomen:store:id:2443
+  city: Angered
+  latitude: 57.79116
+  longitude: 12.04624
+
+- location: Mekonomen Butik Nödinge
+  urn: urn:mekonomen:store:id:2725
+  city: Nödinge
+  latitude: 57.90042
+  longitude: 12.05492
+
+- location: Mekonomen BilLivet Nödinge AB
+  urn: urn:mekonomen:store:id:2432
+  city: Nödinge
+  latitude: 57.9003
+  longitude: 12.05501
+
+- location: Mekonomen Butik Kungsbacka
+  urn: urn:mekonomen:store:id:2706
+  city: Kungsbacka
+  latitude: 57.48359
+  longitude: 12.08255
+
+- location: Kungsbacka Bilservice AB
+  urn: urn:mekonomen:store:id:2422
+  city: Kungsbacka
+  latitude: 57.47939
+  longitude: 12.08548
+
+- location: Bennys Servicehall AB
+  urn: urn:mekonomen:store:id:2406
+  city: Kungsbacka
+  latitude: 57.48048
+  longitude: 12.08609
+
+- location: FCB Bilcenter AB
+  urn: urn:mekonomen:store:id:2594
+  city: Lindome
+  latitude: 57.57549
+  longitude: 12.08731
+
+- location: Din Bilverkstad i Mölnlycke AB
+  urn: urn:mekonomen:store:id:2412
+  city: Mölnlycke
+  latitude: 57.67935
+  longitude: 12.09353
+
+- location: Jonas Enander Bil & Karosseri AB
+  urn: urn:mekonomen:store:id:2419
+  city: Partille
+  latitude: 57.74066
+  longitude: 12.1284
+
+- location: Mekonomen Butik Partille
+  urn: urn:mekonomen:store:id:2739
+  city: Partille
+  latitude: 57.74066
+  longitude: 12.1284
+
+- location: Auto-Car i Lilla Edet AB
+  urn: urn:mekonomen:store:id:2543
+  city: Lilla Edet
+  latitude: 58.14415
+  longitude: 12.13286
+
+- location: Fjärås Bil AB
+  urn: urn:mekonomen:store:id:2414
+  city: Fjärås
+  latitude: 57.4365
+  longitude: 12.15406
+
+- location: Väröbacka Bilverkstad AB
+  urn: urn:mekonomen:store:id:2639
+  city: Väröbacka
+  latitude: 57.25477
+  longitude: 12.17972
+
+- location: Trafik & Teknik AB
+  urn: urn:mekonomen:store:id:2448
+  city: Gråbo
+  latitude: 57.82611
+  longitude: 12.23138
+
+- location: Mekonomen Butik Varberg
+  urn: urn:mekonomen:store:id:2765
+  city: Varberg
+  latitude: 57.12405
+  longitude: 12.27825
+
+- location: J Johansson Bil AB (Charlottenberg)
+  urn: urn:mekonomen:store:id:2559
+  city: Charlottenberg
+  latitude: 59.88043
+  longitude: 12.29619
+
+- location: Mekonomen Butik Charlottenberg
+  urn: urn:mekonomen:store:id:2669
+  city: Charlottenberg
+  latitude: 59.88043
+  longitude: 12.29619
+
+- location: Varbergs Bilcenter AB
+  urn: urn:mekonomen:store:id:3257
+  city: Varberg / Träslövsläge
+  latitude: 57.05573
+  longitude: 12.29887
+
+- location: Bil och Fritid i Trollhättan verkstad AB
+  urn: urn:mekonomen:store:id:2547
+  city: Trollhättan / Överby
+  latitude: 58.31626
+  longitude: 12.30924
+
+- location: Mekonomen Butik Trollhättan
+  urn: urn:mekonomen:store:id:2759
+  city: Trollhättan
+  latitude: 58.31626
+  longitude: 12.30924
+
+- location: Ef Bil & Plåt AB
+  urn: urn:mekonomen:store:id:2413
+  city: Veddige
+  latitude: 57.23225
+  longitude: 12.31705
+
+- location: Jonassons Bilverkstad AB
+  urn: urn:mekonomen:store:id:2562
+  city: Vänersborg
+  latitude: 58.37672
+  longitude: 12.33979
+
+- location: Mekonomen Butik Vänersborg
+  urn: urn:mekonomen:store:id:2764
+  city: Vänersborg
+  latitude: 58.37672
+  longitude: 12.33979
+
+- location: HC Bil & Maskin i Varberg AB
+  urn: urn:mekonomen:store:id:2416
+  city: Varberg
+  latitude: 57.17406
+  longitude: 12.36142
+
+- location: Rökila Bilservice AB
+  urn: urn:mekonomen:store:id:2570
+  city: Brålanda
+  latitude: 58.53888
+  longitude: 12.37232
+
+- location: Autoservice i Halland AB
+  urn: urn:mekonomen:store:id:2404
+  city: Falkenberg
+  latitude: 56.90776
+  longitude: 12.46216
+
+- location: Mekonomen Butik Falkenberg
+  urn: urn:mekonomen:store:id:2673
+  city: Falkenberg
+  latitude: 56.90754
+  longitude: 12.46371
+
+- location: Bilmekano i Funäsdalen AB
+  urn: urn:mekonomen:store:id:2188
+  city: Funäsdalen
+  latitude: 62.54993
+  longitude: 12.51652
+
+- location: SwedenMix AB
+  urn: urn:mekonomen:store:id:2446
+  city: Falkenberg
+  latitude: 56.89976
+  longitude: 12.53628
+
+- location: Lundins Bil & Maskin
+  urn: urn:mekonomen:store:id:2565
+  city: Sollebrunn
+  latitude: 58.1041
+  longitude: 12.5471
+
+- location: Jakobsson, Benno
+  urn: urn:mekonomen:store:id:2561
+  city: Svanskog
+  latitude: 59.1711
+  longitude: 12.55392
+
+- location: Mekonomen Butik Alingsås
+  urn: urn:mekonomen:store:id:2657
+  city: Alingsås
+  latitude: 57.93024
+  longitude: 12.56367
+
+- location: Mekonomen Bilverkstad Alingsås
+  urn: urn:mekonomen:store:id:2649
+  city: Alingsås
+  latitude: 57.93057
+  longitude: 12.56466
+
+- location: Mekonomen Butik Arvika
+  urn: urn:mekonomen:store:id:2661
+  city: Arvika
+  latitude: 59.66892
+  longitude: 12.59377
+
+- location: J Johansson Bil i Arvika AB
+  urn: urn:mekonomen:store:id:2560
+  city: Arvika
+  latitude: 59.66046
+  longitude: 12.61346
+
+- location: Åmåls Fordonsservice AB
+  urn: urn:mekonomen:store:id:2539
+  city: Åmål
+  latitude: 59.04507
+  longitude: 12.67954
+
+- location: Mekonomen Butik Åmål
+  urn: urn:mekonomen:store:id:2659
+  city: Åmål
+  latitude: 59.04507
+  longitude: 12.67954
+
+- location: Hultbergs Bilservice AB
+  urn: urn:mekonomen:store:id:2274
+  city: Helsingborg
+  latitude: 56.06736
+  longitude: 12.70783
+
+- location: Kinntec AB
+  urn: urn:mekonomen:store:id:2420
+  city: Kinna
+  latitude: 57.51283
+  longitude: 12.70801
+
+- location: NA Bil Helsingborg AB
+  urn: urn:mekonomen:store:id:2591
+  city: Helsingborg
+  latitude: 56.07183
+  longitude: 12.71554
+
+- location: Södra Bilverkstaden
+  urn: urn:mekonomen:store:id:2603
+  city: Helsingborg
+  latitude: 56.02431
+  longitude: 12.71965
+
+- location: Mekonomen Billivet Helsingborg AB
+  urn: urn:mekonomen:store:id:2282
+  city: Helsingborg
+  latitude: 56.00215
+  longitude: 12.74298
+
+- location: Mekonomen Butik Helsingborg Landskronavägen 33
+  urn: urn:mekonomen:store:id:2687
+  city: Helsingborg
+  latitude: 56.00173
+  longitude: 12.7439
+
+- location: Mekonomen Butik Helsingborg Kanongatan 157
+  urn: urn:mekonomen:store:id:2686
+  city: Helsingborg
+  latitude: 56.0908
+  longitude: 12.74504
+
+- location: Folkes Bilservice
+  urn: urn:mekonomen:store:id:2270
+  city: Helsingborg
+  latitude: 56.00707
+  longitude: 12.76694
+
+- location: Fritsla Tecniker AB
+  urn: urn:mekonomen:store:id:2415
+  city: Fritsla
+  latitude: 57.55791
+  longitude: 12.78877
+
+- location: Svaneholm Bil och Motor AB
+  urn: urn:mekonomen:store:id:2445
+  city: Svaneholm
+  latitude: 57.62008
+  longitude: 12.82405
+
+- location: Mekonomen Butik Halmstad
+  urn: urn:mekonomen:store:id:2681
+  city: Halmstad
+  latitude: 56.6697
+  longitude: 12.84452
+
+- location: Mekonomen Butik Landskrona
+  urn: urn:mekonomen:store:id:2708
+  city: Landskrona
+  latitude: 55.88165
+  longitude: 12.85035
+
+- location: Bilhörnan i Landskrona AB
+  urn: urn:mekonomen:store:id:2592
+  city: Landskrona
+  latitude: 55.86588
+  longitude: 12.85146
+
+- location: BS Bilservice i Landskrona AB
+  urn: urn:mekonomen:store:id:2265
+  city: Landskrona
+  latitude: 55.86868
+  longitude: 12.86454
+
+- location: Mekonomen Butik Ängelholm
+  urn: urn:mekonomen:store:id:2660
+  city: Ängelholm
+  latitude: 56.25158
+  longitude: 12.8895
+
+- location: Meko Service Susannes Bilverkstad i Härlöv AB (Ängelholm)
+  urn: urn:mekonomen:store:id:2285
+  city: Ängelholm
+  latitude: 56.25156
+  longitude: 12.88952
+
+- location: Bil & Kylarservice i Halmstad AB
+  urn: urn:mekonomen:store:id:2408
+  city: Halmstad
+  latitude: 56.67284
+  longitude: 12.90271
+
+- location: Borås Nya Bilverkstad AB
+  urn: urn:mekonomen:store:id:2410
+  city: Borås
+  latitude: 57.70796
+  longitude: 12.93217
+
+- location: Trönninge Bilverkstad Bröderna Karlsson HB
+  urn: urn:mekonomen:store:id:2449
+  city: Halmstad / Trönninge
+  latitude: 56.62064
+  longitude: 12.94462
+
+- location: FC Bilservice AB
+  urn: urn:mekonomen:store:id:2641
+  city: Borås
+  latitude: 57.75053
+  longitude: 12.95722
+
+- location: Mekonomen BilLivet Borås AB
+  urn: urn:mekonomen:store:id:2429
+  city: Borås
+  latitude: 57.71655
+  longitude: 12.9589
+
+- location: Mekonomen Butik Borås
+  urn: urn:mekonomen:store:id:2666
+  city: Borås
+  latitude: 57.71655
+  longitude: 12.9589
+
+- location: Mekanera AB
+  urn: urn:mekonomen:store:id:2281
+  city: Åstorp
+  latitude: 56.13649
+  longitude: 12.96224
+
+- location: STX Bil & Mc AB
+  urn: urn:mekonomen:store:id:3181
+  city: Oskarström
+  latitude: 56.80456
+  longitude: 12.97385
+
+- location: Naimmabil AB
+  urn: urn:mekonomen:store:id:2437
+  city: Borås
+  latitude: 57.72546
+  longitude: 12.99514
+
+- location: Tygelsjö Däck o Bil AB
+  urn: urn:mekonomen:store:id:2301
+  city: Tygelsjö
+  latitude: 55.52478
+  longitude: 12.99593
+
+- location: Motorcenter Lödde AB
+  urn: urn:mekonomen:store:id:2291
+  city: Löddeköpinge
+  latitude: 55.7714
+  longitude: 12.9982
+
+- location: Mekonomen Butik Torsby
+  urn: urn:mekonomen:store:id:2757
+  city: Torsby
+  latitude: 60.13733
+  longitude: 13.00465
+
+- location: Däckhuset i Laholm AB
+  urn: urn:mekonomen:store:id:2781
+  city: Laholm
+  latitude: 56.50041
+  longitude: 13.00798
+
+- location: Hjulhuset Malmö AB
+  urn: urn:mekonomen:store:id:3249
+  city: Heleneholm / Malmö
+  latitude: 55.58188
+  longitude: 13.01122
+
+- location: Hjulhuset i Lödde AB
+  urn: urn:mekonomen:store:id:2273
+  city: Löddeköpinge
+  latitude: 55.76434
+  longitude: 13.01364
+
+- location: Mekonomen Butik Malmö Borrgatan 1
+  urn: urn:mekonomen:store:id:2718
+  city: Malmö
+  latitude: 55.61554
+  longitude: 13.01963
+
+- location: Bilverkstad Ystadvägen AB
+  urn: urn:mekonomen:store:id:2261
+  city: Malmö
+  latitude: 55.57762
+  longitude: 13.02476
+
+- location: Bilexperten Syd AB (Malmö)
+  urn: urn:mekonomen:store:id:2259
+  city: Malmö
+  latitude: 55.62055
+  longitude: 13.0391
+
+- location: Allbilverkstan i Malmö AB
+  urn: urn:mekonomen:store:id:2253
+  city: Malmö
+  latitude: 55.56466
+  longitude: 13.04498
+
+- location: Mekonomen Bilverkstad Moränen
+  urn: urn:mekonomen:store:id:2599
+  city: Malmö
+  latitude: 55.62572
+  longitude: 13.04592
+
+- location: Mekonomen Billivet Fosie AB
+  urn: urn:mekonomen:store:id:2286
+  city: Malmö
+  latitude: 55.56586
+  longitude: 13.05292
+
+- location: Mekonomen Butik Malmö Hornyxegatan 12
+  urn: urn:mekonomen:store:id:2717
+  city: Malmö
+  latitude: 55.56596
+  longitude: 13.05295
+
+- location: Fiddes Bilservice AB
+  urn: urn:mekonomen:store:id:2777
+  city: Östra Ljungby
+  latitude: 56.18771
+  longitude: 13.05889
+
+- location: Mekonomen Bilverkstad Bulltofta
+  urn: urn:mekonomen:store:id:2288
+  city: Malmö
+  latitude: 55.6018
+  longitude: 13.06009
+
+- location: Torups Bilverkstad AB
+  urn: urn:mekonomen:store:id:2447
+  city: Torup
+  latitude: 56.95427
+  longitude: 13.07287
+
+- location: Grums Motor AB
+  urn: urn:mekonomen:store:id:2556
+  city: Grums
+  latitude: 59.36179
+  longitude: 13.11235
+
+- location: Autoteknik i Trelleborg AB
+  urn: urn:mekonomen:store:id:2256
+  city: Trelleborg
+  latitude: 55.38577
+  longitude: 13.12105
+
+- location: Select Cars Syd AB
+  urn: urn:mekonomen:store:id:2294
+  city: Kävlinge
+  latitude: 55.79751
+  longitude: 13.12547
+
+- location: Mekonomen Butik Lund
+  urn: urn:mekonomen:store:id:2715
+  city: Lund
+  latitude: 55.71521
+  longitude: 13.15152
+
+- location: Linero Bilservice AB
+  urn: urn:mekonomen:store:id:2279
+  city: Lund
+  latitude: 55.71518
+  longitude: 13.15156
+
+- location: Tage Svensson Bilservice AB
+  urn: urn:mekonomen:store:id:2577
+  city: Kvänum
+  latitude: 58.30369
+  longitude: 13.17905
+
+- location: Autocenter i Lund AB
+  urn: urn:mekonomen:store:id:2254
+  city: Lund
+  latitude: 55.68937
+  longitude: 13.21831
+
+- location: Hjulhuset AB
+  urn: urn:mekonomen:store:id:2272
+  city: Staffanstorp
+  latitude: 55.65258
+  longitude: 13.23569
+
+- location: Mekonomen Butik Örkelljunga
+  urn: urn:mekonomen:store:id:2733
+  city: Örkelljunga
+  latitude: 56.28815
+  longitude: 13.26997
+
+- location: Auto-Center i Örkelljunga AB
+  urn: urn:mekonomen:store:id:2255
+  city: Örkelljunga
+  latitude: 56.28823
+  longitude: 13.26998
+
+- location: Eslövs Bilproffs AB
+  urn: urn:mekonomen:store:id:2269
+  city: Eslöv
+  latitude: 55.83674
+  longitude: 13.3085
+
+- location: JH Fordonsservice
+  urn: urn:mekonomen:store:id:2275
+  city: Örkelljunga
+  latitude: 56.3745
+  longitude: 13.32179
+
+- location: Mekonomen Bilverkstad Traktorvägen
+  urn: urn:mekonomen:store:id:2646
+  city: Eslöv
+  latitude: 55.83539
+  longitude: 13.32933
+
+- location: Dennis S. bilservice AB
+  urn: urn:mekonomen:store:id:2319
+  city: Smålandsstenar
+  latitude: 57.15088
+  longitude: 13.38337
+
+- location: Smällarens Bil & Skadeverkstad
+  urn: urn:mekonomen:store:id:2296
+  city: Perstorp
+  latitude: 56.13442
+  longitude: 13.38981
+
+- location: Mekonomen BilLivet Karlstad
+  urn: urn:mekonomen:store:id:2784
+  city: Karlstad
+  latitude: 59.3814
+  longitude: 13.43079
+
+- location: Mekonomen Butik Karlstad Blockgatan 19
+  urn: urn:mekonomen:store:id:2698
+  city: Karlstad
+  latitude: 59.388
+  longitude: 13.47323
+
+- location: MBV Våxnäs AB
+  urn: urn:mekonomen:store:id:3235
+  city: Karlstad
+  latitude: 59.38819
+  longitude: 13.47353
+
+- location: Anderssons Bil & AC service AB
+  urn: urn:mekonomen:store:id:2540
+  city: Götene
+  latitude: 58.5188
+  longitude: 13.48949
+
+- location: Slutarp Bil & Motor AB
+  urn: urn:mekonomen:store:id:2576
+  city: Falköping / Slutarp
+  latitude: 58.08645
+  longitude: 13.52546
+
+- location: HP Motor
+  urn: urn:mekonomen:store:id:2200
+  city: Hede
+  latitude: 62.42146
+  longitude: 13.53674
+
+- location: Cars I Höör AB
+  urn: urn:mekonomen:store:id:2266
+  city: Höör
+  latitude: 55.92208
+  longitude: 13.54581
+
+- location: Mekonomen Butik Gislaved
+  urn: urn:mekonomen:store:id:2678
+  city: Gislaved
+  latitude: 57.29873
+  longitude: 13.55365
+
+- location: Mekonomen Billivet Gislaved AB
+  urn: urn:mekonomen:store:id:2338
+  city: Gislaved
+  latitude: 57.29865
+  longitude: 13.55367
+
+- location: Mekonomen BilLivet Örsholmen
+  urn: urn:mekonomen:store:id:3234
+  city: Karlstad
+  latitude: 59.38031
+  longitude: 13.55747
+
+- location: Mekonomen Butik Karlstad Östanvindsgatan 3
+  urn: urn:mekonomen:store:id:2699
+  city: Karlstad
+  latitude: 59.38013
+  longitude: 13.55812
+
+- location: Mekonomen Butik Falköping
+  urn: urn:mekonomen:store:id:2674
+  city: Falköping
+  latitude: 58.16156
+  longitude: 13.56413
+
+- location: Sunnerbo Bil & Telecom AB
+  urn: urn:mekonomen:store:id:2298
+  city: Markaryd
+  latitude: 56.45356
+  longitude: 13.59533
+
+- location: Däckshoppen Tyringe AB
+  urn: urn:mekonomen:store:id:3147
+  city: Tyringe
+  latitude: 56.16186
+  longitude: 13.60337
+
+- location: Häggenäs Automobile AB
+  urn: urn:mekonomen:store:id:2271
+  city: Hörby
+  latitude: 55.86422
+  longitude: 13.66551
+
+- location: Bosses Båt & Maskinservice AB
+  urn: urn:mekonomen:store:id:2263
+  city: Vittsjö
+  latitude: 56.33263
+  longitude: 13.66992
+
+- location: Stig Kristiansson Bil AB
+  urn: urn:mekonomen:store:id:2297
+  city: Hörby
+  latitude: 55.85752
+  longitude: 13.67397
+
+- location: Mekonomen Butik Hörby
+  urn: urn:mekonomen:store:id:2688
+  city: Hörby
+  latitude: 55.85746
+  longitude: 13.67397
+
+- location: Bil & Däckverkstan i Strömsnäsbruk AB
+  urn: urn:mekonomen:store:id:2257
+  city: Strömsnäsbruk
+  latitude: 56.55991
+  longitude: 13.72227
+
+- location: WK Bil & Däckservice AB
+  urn: urn:mekonomen:store:id:2353
+  city: Gnosjö
+  latitude: 57.36027
+  longitude: 13.74018
+
+- location: JN Autosport AB
+  urn: urn:mekonomen:store:id:2277
+  city: Hässleholm
+  latitude: 56.15786
+  longitude: 13.74857
+
+- location: JKs Bil & Motor AB
+  urn: urn:mekonomen:store:id:2276
+  city: Hässleholm
+  latitude: 56.15613
+  longitude: 13.75147
+
+- location: Mekonomen Butik Hässleholm
+  urn: urn:mekonomen:store:id:2684
+  city: Hässleholm
+  latitude: 56.15613
+  longitude: 13.75147
+
+- location: Mekonomen Butik Mariestad
+  urn: urn:mekonomen:store:id:2719
+  city: Mariestad
+  latitude: 58.6841
+  longitude: 13.81664
+
+- location: Gärdets Servicecenter i Mariestad AB
+  urn: urn:mekonomen:store:id:2554
+  city: Mariestad
+  latitude: 58.68408
+  longitude: 13.81672
+
+- location: Mekonomen Bilverkstad Skövde
+  urn: urn:mekonomen:store:id:2541
+  city: Skövde
+  latitude: 58.39429
+  longitude: 13.87728
+
+- location: Mekonomen Butik Skövde
+  urn: urn:mekonomen:store:id:2746
+  city: Skövde
+  latitude: 58.39429
+  longitude: 13.87728
+
+- location: Mekonomen Billivet Ljungby AB
+  urn: urn:mekonomen:store:id:2384
+  city: Ljungby
+  latitude: 56.81519
+  longitude: 13.9177
+
+- location: BW Fordonsservice AB
+  urn: urn:mekonomen:store:id:2368
+  city: Ljungby
+  latitude: 56.82731
+  longitude: 13.92586
+
+- location: Mekonomen Butik Ljungby
+  urn: urn:mekonomen:store:id:2711
+  city: Ljungby
+  latitude: 56.82731
+  longitude: 13.92586
+
+- location: Elisköps Auto
+  urn: urn:mekonomen:store:id:2268
+  city: Älmhult
+  latitude: 56.52851
+  longitude: 13.92843
+
+- location: Öllstorps Bil & Däck AB
+  urn: urn:mekonomen:store:id:2292
+  city: Vinslöv
+  latitude: 56.10215
+  longitude: 13.93455
+
+- location: HB Fredrikssons Bil & Motor
+  urn: urn:mekonomen:store:id:2558
+  city: Tidaholm
+  latitude: 58.17837
+  longitude: 13.96084
+
+- location: LB Bil AB
+  urn: urn:mekonomen:store:id:2379
+  city: Lagan
+  latitude: 56.91399
+  longitude: 13.97594
+
+- location: Bilverkstaden i Osby AB
+  urn: urn:mekonomen:store:id:2262
+  city: Osby
+  latitude: 56.38602
+  longitude: 14.00255
+
+- location: Mekonomen Butik Osby
+  urn: urn:mekonomen:store:id:2735
+  city: Osby
+  latitude: 56.38562
+  longitude: 14.00349
+
+- location: Mekonomen Billivet Värnamo AB
+  urn: urn:mekonomen:store:id:2386
+  city: Värnamo
+  latitude: 57.20578
+  longitude: 14.02935
+
+- location: H. Lundqvist Bilservice AB
+  urn: urn:mekonomen:store:id:2329
+  city: Värnamo
+  latitude: 57.18973
+  longitude: 14.03729
+
+- location: Mekonomen Butik Värnamo
+  urn: urn:mekonomen:store:id:2768
+  city: Värnamo
+  latitude: 57.18973
+  longitude: 14.03729
+
+- location: Allbilservice i Värnamo AB
+  urn: urn:mekonomen:store:id:2304
+  city: Värnamo
+  latitude: 57.18495
+  longitude: 14.06104
+
+- location: Bil & Maskin AB
+  urn: urn:mekonomen:store:id:2258
+  city: Kristianstad / Degeberga
+  latitude: 55.82624
+  longitude: 14.08279
+
+- location: Kristinehamns AutoMekanik AB
+  urn: urn:mekonomen:store:id:2233
+  city: Kristinehamn
+  latitude: 59.32181
+  longitude: 14.09851
+
+- location: Mekonomen Butik Kristinehamn
+  urn: urn:mekonomen:store:id:2704
+  city: Kristinehamn
+  latitude: 59.31581
+  longitude: 14.09949
+
+- location: Meko Service Susannes Bilverkstad i Härlöv AB
+  urn: urn:mekonomen:store:id:2284
+  city: Kristianstad
+  latitude: 56.02309
+  longitude: 14.1169
+
+- location: Mekonomen Butik Kristianstad
+  urn: urn:mekonomen:store:id:2703
+  city: Kristianstad
+  latitude: 56.02309
+  longitude: 14.1169
+
+- location: Elme Bilservice AB
+  urn: urn:mekonomen:store:id:2645
+  city: Älmhult
+  latitude: 56.53173
+  longitude: 14.13188
+
+- location: Tibro Motor AB
+  urn: urn:mekonomen:store:id:2579
+  city: Tibro
+  latitude: 58.41851
+  longitude: 14.13577
+
+- location: Motorcentrum i Vaggeryd AB
+  urn: urn:mekonomen:store:id:2339
+  city: Vaggeryd
+  latitude: 57.50833
+  longitude: 14.16283
+
+- location: Seffel Bil AB
+  urn: urn:mekonomen:store:id:2780
+  city: Filipstad
+  latitude: 59.71431
+  longitude: 14.17153
+
+- location: Fordonsexperten Jönköping AB
+  urn: urn:mekonomen:store:id:2631
+  city: Jönköping
+  latitude: 57.76929
+  longitude: 14.17249
+
+- location: Tofta Bilservice AB
+  urn: urn:mekonomen:store:id:2299
+  city: Kristianstad
+  latitude: 56.02674
+  longitude: 14.20891
+
+- location: Mekonomen Butik Jönköping
+  urn: urn:mekonomen:store:id:2692
+  city: Jönköping
+  latitude: 57.78038
+  longitude: 14.22548
+
+- location: Motortrim Bilservice AB
+  urn: urn:mekonomen:store:id:2341
+  city: Jönköping
+  latitude: 57.78094
+  longitude: 14.22556
+
+- location: Storfors Bil & Kaross AB
+  urn: urn:mekonomen:store:id:2248
+  city: Storfors
+  latitude: 59.54389
+  longitude: 14.2758
+
+- location: Jönssons Servicestation i Simrishamn AB
+  urn: urn:mekonomen:store:id:2278
+  city: Simrishamn
+  latitude: 55.55515
+  longitude: 14.33825
+
+- location: Svegs Bil & Plåt AB
+  urn: urn:mekonomen:store:id:2219
+  city: Sveg
+  latitude: 62.03292
+  longitude: 14.35724
+
+- location: Panheds Bil & Däckservice AB
+  urn: urn:mekonomen:store:id:2214
+  city: Svenstavik
+  latitude: 62.76824
+  longitude: 14.42697
+
+- location: Bil & Mek i Vislanda AB
+  urn: urn:mekonomen:store:id:2363
+  city: Vislanda
+  latitude: 56.79068
+  longitude: 14.43868
+
+- location: RH Bilmek
+  urn: urn:mekonomen:store:id:2217
+  city: Mora
+  latitude: 61.02346
+  longitude: 14.45479
+
+- location: CMF Bilservice AB
+  urn: urn:mekonomen:store:id:2318
+  city: Vrigstad
+  latitude: 57.34066
+  longitude: 14.471
+
+- location: Tommys Bil i Bromölla AB
+  urn: urn:mekonomen:store:id:2300
+  city: Bromölla
+  latitude: 56.08262
+  longitude: 14.47487
+
+- location: Bergius Bilservice AB
+  urn: urn:mekonomen:store:id:2223
+  city: Karlskoga
+  latitude: 59.32846
+  longitude: 14.48174
+
+- location: V&T Bilservice AB
+  urn: urn:mekonomen:store:id:2249
+  city: Karlskoga
+  latitude: 59.29921
+  longitude: 14.49279
+
+- location: Mekonomen Butik Karlskoga
+  urn: urn:mekonomen:store:id:2696
+  city: Karlskoga
+  latitude: 59.30067
+  longitude: 14.49551
+
+- location: Mora Karosseri & Motorverkstad AB
+  urn: urn:mekonomen:store:id:2210
+  city: Mora
+  latitude: 61.02442
+  longitude: 14.53517
+
+- location: K.W. Bilservice AB (Alvesta)
+  urn: urn:mekonomen:store:id:2375
+  city: Alvesta
+  latitude: 56.91017
+  longitude: 14.55787
+
+- location: Mekonomen Butik Mora
+  urn: urn:mekonomen:store:id:2722
+  city: Mora
+  latitude: 61.00927
+  longitude: 14.56591
+
+- location: Karlskoga Bilteknik AB
+  urn: urn:mekonomen:store:id:2232
+  city: Karlskoga
+  latitude: 59.32774
+  longitude: 14.57946
+
+- location: Mekonomen Butik Sölvesborg
+  urn: urn:mekonomen:store:id:2751
+  city: Sölvesborg
+  latitude: 56.05912
+  longitude: 14.59394
+
+- location: JRS Motoreffektmätning AB
+  urn: urn:mekonomen:store:id:2201
+  city: Östersund
+  latitude: 63.20793
+  longitude: 14.64512
+
+- location: Firma Istaby Bilservice
+  urn: urn:mekonomen:store:id:2373
+  city: Sölvesborg
+  latitude: 56.01622
+  longitude: 14.64796
+
+- location: Mekonomen Butik Östersund Arenavägen 2
+  urn: urn:mekonomen:store:id:2737
+  city: Östersund
+  latitude: 63.18972
+  longitude: 14.6512
+
+- location: LTB Car AB
+  urn: urn:mekonomen:store:id:2205
+  city: Östersund
+  latitude: 63.18972
+  longitude: 14.6532
+
+- location: Bromés Autoservice AB
+  urn: urn:mekonomen:store:id:2314
+  city: Sävsjö
+  latitude: 57.38403
+  longitude: 14.66362
+
+- location: Mekonomen Butik Östersund Chaufförvägen 20
+  urn: urn:mekonomen:store:id:2738
+  city: Östersund
+  latitude: 63.17307
+  longitude: 14.69307
+
+- location: Mekonomen Butik Nässjö
+  urn: urn:mekonomen:store:id:2724
+  city: Nässjö
+  latitude: 57.64741
+  longitude: 14.70251
+
+- location: Verkstadskompassen i Sverige AB
+  urn: urn:mekonomen:store:id:2352
+  city: Nässjö
+  latitude: 57.64933
+  longitude: 14.70297
+
+- location: Hunseberg Bilservice AB
+  urn: urn:mekonomen:store:id:2333
+  city: Nässjö
+  latitude: 57.64754
+  longitude: 14.73855
+
+- location: Johan Larsson Mek & Service
+  urn: urn:mekonomen:store:id:2335
+  city: Tranås
+  latitude: 57.95799
+  longitude: 14.75797
+
+- location: Mekonomen Billivet Växjö AB
+  urn: urn:mekonomen:store:id:2387
+  city: Växjö
+  latitude: 56.87949
+  longitude: 14.76309
+
+- location: Motorsport Bröderna Svensson AB
+  urn: urn:mekonomen:store:id:2389
+  city: Växjö
+  latitude: 56.88617
+  longitude: 14.76325
+
+- location: Mekonomen Butik Växjö
+  urn: urn:mekonomen:store:id:2773
+  city: Växjö
+  latitude: 56.87823
+  longitude: 14.76811
+
+- location: Torulf Bilservice AB
+  urn: urn:mekonomen:store:id:2783
+  city: Aneby
+  latitude: 57.83681
+  longitude: 14.80978
+
+- location: Mobil Mec i Växjö AB
+  urn: urn:mekonomen:store:id:2388
+  city: Växjö
+  latitude: 56.87991
+  longitude: 14.82854
+
+- location: Mekonomen Bilverkstad Karlshamn
+  urn: urn:mekonomen:store:id:2785
+  city: Karlshamn
+  latitude: 56.18437
+  longitude: 14.8742
+
+- location: Hederolba AB
+  urn: urn:mekonomen:store:id:2330
+  city: Eksjö
+  latitude: 57.66328
+  longitude: 14.95226
+
+- location: Tranås Bilteknik
+  urn: urn:mekonomen:store:id:2348
+  city: Tranås
+  latitude: 58.03055
+  longitude: 14.97606
+
+- location: Mekonomen Butik Tranås
+  urn: urn:mekonomen:store:id:2758
+  city: Tranås
+  latitude: 58.03574
+  longitude: 14.9781
+
+- location: Folkavi Automobile
+  urn: urn:mekonomen:store:id:2229
+  city: Fjugesta
+  latitude: 59.15464
+  longitude: 14.97883
+
+- location: S & S Bilservice AB
+  urn: urn:mekonomen:store:id:2343
+  city: Eksjö
+  latitude: 57.66639
+  longitude: 14.98294
+
+- location: Åkessons Bilcenter i Leksand AB
+  urn: urn:mekonomen:store:id:2538
+  city: Leksand
+  latitude: 60.73733
+  longitude: 15.00509
+
+- location: Allbilservice i Motala AB
+  urn: urn:mekonomen:store:id:3129
+  city: Motala
+  latitude: 58.53723
+  longitude: 15.01319
+
+- location: Mekonomen Butik Motala
+  urn: urn:mekonomen:store:id:2723
+  city: Motala
+  latitude: 58.53693
+  longitude: 15.01648
+
+- location: Ekenäs Bilverkstad AB
+  urn: urn:mekonomen:store:id:2322
+  city: Ekenässjön
+  latitude: 57.49509
+  longitude: 15.02322
+
+- location: Bergslagens Bilvård i Nora AB
+  urn: urn:mekonomen:store:id:2654
+  city: Nora
+  latitude: 59.51919
+  longitude: 15.03297
+
+- location: Boxholms Bilverkstad AB
+  urn: urn:mekonomen:store:id:2593
+  city: Boxholm
+  latitude: 58.19842
+  longitude: 15.05243
+
+- location: Holmbergs Bilteknik AB
+  urn: urn:mekonomen:store:id:2331
+  city: Vetlanda
+  latitude: 57.41391
+  longitude: 15.08886
+
+- location: Mekonomen Butik Vetlanda
+  urn: urn:mekonomen:store:id:2774
+  city: Vetlanda
+  latitude: 57.41391
+  longitude: 15.08886
+
+- location: Johan Thorén AB
+  urn: urn:mekonomen:store:id:2231
+  city: Hallsberg
+  latitude: 59.07585
+  longitude: 15.09436
+
+- location: AC & Däckcenter i Rättvik AB
+  urn: urn:mekonomen:store:id:2185
+  city: Rättvik
+  latitude: 60.88903
+  longitude: 15.11263
+
+- location: Bil & Husvagnsservice i Konga AB
+  urn: urn:mekonomen:store:id:2362
+  city: Tingsryd
+  latitude: 56.50761
+  longitude: 15.12611
+
+- location: Andersson Bilcenter i Kumla AB
+  urn: urn:mekonomen:store:id:2221
+  city: Kumla
+  latitude: 59.12465
+  longitude: 15.13269
+
+- location: Gustavssons L Motorverkstad AB
+  urn: urn:mekonomen:store:id:2328
+  city: Ramfall
+  latitude: 57.94664
+  longitude: 15.13683
+
+- location: Mekonomen Butik Mjölby
+  urn: urn:mekonomen:store:id:2721
+  city: Mjölby
+  latitude: 58.32753
+  longitude: 15.1371
+
+- location: Fordonsteknik i Mjölby AB
+  urn: urn:mekonomen:store:id:2325
+  city: Mjölby
+  latitude: 58.3282
+  longitude: 15.13938
+
+- location: Nettobilar Marieberg AB
+  urn: urn:mekonomen:store:id:2241
+  city: Örebro
+  latitude: 59.23469
+  longitude: 15.14744
+
+- location: Nettobilar Bista AB
+  urn: urn:mekonomen:store:id:2238
+  city: Örebro
+  latitude: 59.26712
+  longitude: 15.16617
+
+- location: Mekonomen Butik Bista / Örebro
+  urn: urn:mekonomen:store:id:2732
+  city: Bista / Örebro
+  latitude: 59.26712
+  longitude: 15.16617
+
+- location: SMB i Örebro AB
+  urn: urn:mekonomen:store:id:2247
+  city: Örebro
+  latitude: 59.26636
+  longitude: 15.18738
+
+- location: Mas Technologi i Ludvika AB
+  urn: urn:mekonomen:store:id:2234
+  city: Ludvika
+  latitude: 60.1547
+  longitude: 15.19258
+
+- location: Bilskadecenter i Örebro AB
+  urn: urn:mekonomen:store:id:2227
+  city: Örebro
+  latitude: 59.29951
+  longitude: 15.20351
+
+- location: Mekonomen Butik Ludvika
+  urn: urn:mekonomen:store:id:2713
+  city: Ludvika
+  latitude: 60.14977
+  longitude: 15.20714
+
+- location: NettoBilar Örebro AB
+  urn: urn:mekonomen:store:id:2242
+  city: Örebro
+  latitude: 59.26034
+  longitude: 15.20718
+
+- location: Nettobilar Bettorp AB
+  urn: urn:mekonomen:store:id:2653
+  city: Örebro
+  latitude: 59.30737
+  longitude: 15.22762
+
+- location: P & D Bilreparationer AB
+  urn: urn:mekonomen:store:id:2244
+  city: Örebro
+  latitude: 59.29704
+  longitude: 15.2319
+
+- location: Mekonomen Butik Bettorp / Örebro
+  urn: urn:mekonomen:store:id:2731
+  city: Bettorp / Örebro
+  latitude: 59.29664
+  longitude: 15.23228
+
+- location: Sörby Autocenter AB
+  urn: urn:mekonomen:store:id:2398
+  city: Ronneby
+  latitude: 56.23293
+  longitude: 15.25873
+
+- location: Mekonomen Butik Ronneby
+  urn: urn:mekonomen:store:id:2742
+  city: Ronneby
+  latitude: 56.23293
+  longitude: 15.25873
+
+- location: Peters Bil & Teknik AB
+  urn: urn:mekonomen:store:id:2396
+  city: Lessebo
+  latitude: 56.7447
+  longitude: 15.26828
+
+- location: Bil & Däckservice i Mantorp
+  urn: urn:mekonomen:store:id:2308
+  city: Mantorp
+  latitude: 58.34737
+  longitude: 15.28292
+
+- location: Twins Trading AB
+  urn: urn:mekonomen:store:id:2582
+  city: Borlänge
+  latitude: 60.47907
+  longitude: 15.39798
+
+- location: Mekonomen Butik Borlänge
+  urn: urn:mekonomen:store:id:2667
+  city: Borlänge
+  latitude: 60.47786
+  longitude: 15.40689
+
+- location: FT Lambohov AB
+  urn: urn:mekonomen:store:id:3227
+  city: Linköping
+  latitude: 58.39061
+  longitude: 15.54499
+
+- location: Tung Service i Virserum AB
+  urn: urn:mekonomen:store:id:2349
+  city: Virserum
+  latitude: 57.32104
+  longitude: 15.58183
+
+- location: Däckvagnen i Dalarna AB
+  urn: urn:mekonomen:store:id:2552
+  city: Falun
+  latitude: 60.60948
+  longitude: 15.5949
+
+- location: Motorbolaget i Fellingsbro AB
+  urn: urn:mekonomen:store:id:2237
+  city: Fellingsbro
+  latitude: 59.43094
+  longitude: 15.59608
+
+- location: FT Tornby AB
+  urn: urn:mekonomen:store:id:2327
+  city: Linköping
+  latitude: 58.43083
+  longitude: 15.60007
+
+- location: Mekonomen Butik Linköping
+  urn: urn:mekonomen:store:id:2710
+  city: Linköping
+  latitude: 58.43083
+  longitude: 15.60116
+
+- location: Mekonomen Butik Falun
+  urn: urn:mekonomen:store:id:2675
+  city: Falun
+  latitude: 60.60382
+  longitude: 15.60582
+
+- location: Karlskrona Bilmekaniska AB
+  urn: urn:mekonomen:store:id:2377
+  city: Karlskrona
+  latitude: 56.19771
+  longitude: 15.61009
+
+- location: Karlskrona Bilcenter AB
+  urn: urn:mekonomen:store:id:2376
+  city: Karlskrona
+  latitude: 56.2021
+  longitude: 15.6315
+
+- location: Mekonomen Butik Karlskrona
+  urn: urn:mekonomen:store:id:2697
+  city: Karlskrona
+  latitude: 56.19892
+  longitude: 15.63319
+
+- location: Mekonomen Billivet Karlskrona AB
+  urn: urn:mekonomen:store:id:2381
+  city: Karlskrona
+  latitude: 56.2013
+  longitude: 15.63329
+
+- location: BilBolaget Karlskrona AB
+  urn: urn:mekonomen:store:id:2364
+  city: Karlskrona
+  latitude: 56.19873
+  longitude: 15.63341
+
+- location: Bilteknik Linköping
+  urn: urn:mekonomen:store:id:2312
+  city: Linköping
+  latitude: 58.42059
+  longitude: 15.64177
+
+- location: Magnussons Bil
+  urn: urn:mekonomen:store:id:2370
+  city: Karlskrona
+  latitude: 56.22404
+  longitude: 15.64213
+
+- location: Kisa Fordon AB
+  urn: urn:mekonomen:store:id:2336
+  city: Kisa
+  latitude: 58.00087
+  longitude: 15.64402
+
+- location: Carz Karlskrona AB
+  urn: urn:mekonomen:store:id:2369
+  city: Jämjö
+  latitude: 56.19771
+  longitude: 15.66641
+
+- location: Mitt-Lack i Ånge AB
+  urn: urn:mekonomen:store:id:2209
+  city: Ånge
+  latitude: 62.5231
+  longitude: 15.67139
+
+- location: Ullstämma Fordonsteknik AB
+  urn: urn:mekonomen:store:id:2350
+  city: Linköping
+  latitude: 58.3684
+  longitude: 15.6912
+
+- location: Wikell Bil och Mek AB
+  urn: urn:mekonomen:store:id:2403
+  city: Södra Vi
+  latitude: 57.73722
+  longitude: 15.79849
+
+- location: Broms Bilverkstad AB
+  urn: urn:mekonomen:store:id:2315
+  city: Målilla
+  latitude: 57.38489
+  longitude: 15.81495
+
+- location: Mekonomen Butik Finspång
+  urn: urn:mekonomen:store:id:2676
+  city: Finspång
+  latitude: 58.70243
+  longitude: 15.81503
+
+- location: Finspångs Bilmarknad AB
+  urn: urn:mekonomen:store:id:2323
+  city: Finspång
+  latitude: 58.69996
+  longitude: 15.8164
+
+- location: Nettobilar katrineholm AB (filial Finspång)
+  urn: urn:mekonomen:store:id:2638
+  city: Finspång
+  latitude: 58.70343
+  longitude: 15.82031
+
+- location: EPH Bil i H-fred AB
+  urn: urn:mekonomen:store:id:2371
+  city: Hultsfred
+  latitude: 57.49602
+  longitude: 15.83291
+
+- location: KL Motor i Vimmerby AB
+  urn: urn:mekonomen:store:id:2378
+  city: Vimmerby
+  latitude: 57.66733
+  longitude: 15.8431
+
+- location: Mekonomen Butik Vimmerby
+  urn: urn:mekonomen:store:id:2775
+  city: Vimmerby
+  latitude: 57.66641
+  longitude: 15.84364
+
+- location: Åbergs Bil & Mek HB
+  urn: urn:mekonomen:store:id:2356
+  city: Storebro
+  latitude: 57.582
+  longitude: 15.85065
+
+- location: Nettobilar Vingåker AB
+  urn: urn:mekonomen:store:id:2243
+  city: Vingåker
+  latitude: 59.06107
+  longitude: 15.87954
+
+- location: Hycklinge Bensin & Service AB
+  urn: urn:mekonomen:store:id:2334
+  city: Horn
+  latitude: 57.92354
+  longitude: 15.92022
+
+- location: AB Skärblackaservice (Shell)
+  urn: urn:mekonomen:store:id:2302
+  city: Skärblacka
+  latitude: 58.58221
+  longitude: 15.924
+
+- location: Mekonomen Billivet Nybro AB
+  urn: urn:mekonomen:store:id:2385
+  city: Nybro
+  latitude: 56.73573
+  longitude: 15.93149
+
+- location: Pelles Verkstad
+  urn: urn:mekonomen:store:id:2395
+  city: Hultsfred
+  latitude: 57.48945
+  longitude: 15.93219
+
+- location: Torsås Bilservice
+  urn: urn:mekonomen:store:id:2402
+  city: Torsås
+  latitude: 56.41673
+  longitude: 15.98837
+
+- location: Åtvidabergs Bilreparationer AB
+  urn: urn:mekonomen:store:id:2306
+  city: Åtvidaberg
+  latitude: 58.20985
+  longitude: 15.98895
+
+- location: Mekonomen BilLivet Hedemora AB
+  urn: urn:mekonomen:store:id:2236
+  city: Hedemora
+  latitude: 60.28548
+  longitude: 15.99266
+
+- location: Sundins Bilservice AB
+  urn: urn:mekonomen:store:id:2782
+  city: Ljusdal
+  latitude: 61.82426
+  longitude: 16.11478
+
+- location: Mekonomen Butik Ljusdal
+  urn: urn:mekonomen:store:id:2712
+  city: Ljusdal
+  latitude: 61.82195
+  longitude: 16.11695
+
+- location: DJ´s Bil & Plåtreparationer AB
+  urn: urn:mekonomen:store:id:2321
+  city: Norrköping
+  latitude: 58.60361
+  longitude: 16.16087
+
+- location: Mekonomen Butik Norrköping Stockholmsvägen 50
+  urn: urn:mekonomen:store:id:2727
+  city: Norrköping
+  latitude: 58.60005
+  longitude: 16.1684
+
+- location: Belins Service i Avesta AB
+  urn: urn:mekonomen:store:id:2222
+  city: Avesta
+  latitude: 60.14082
+  longitude: 16.19539
+
+- location: Mekonomen Butik Avesta
+  urn: urn:mekonomen:store:id:2662
+  city: Avesta
+  latitude: 60.14082
+  longitude: 16.19539
+
+- location: Stego Bilservice
+  urn: urn:mekonomen:store:id:2399
+  city: Kristdala
+  latitude: 57.39641
+  longitude: 16.20912
+
+- location: Bilteknik i Söderköping AB (filial Nkpg)
+  urn: urn:mekonomen:store:id:2311
+  city: Norrköping
+  latitude: 58.5811
+  longitude: 16.22239
+
+- location: Mekonomen Butik Norrköping Smedbygatan 3
+  urn: urn:mekonomen:store:id:2726
+  city: Norrköping
+  latitude: 58.5812
+  longitude: 16.22449
+
+- location: Nettobilar Katrineholm AB
+  urn: urn:mekonomen:store:id:2240
+  city: Katrineholm
+  latitude: 59.0044
+  longitude: 16.2302
+
+- location: Mekonomen Butik Katrineholm
+  urn: urn:mekonomen:store:id:2700
+  city: Katrineholm
+  latitude: 59.00432
+  longitude: 16.23034
+
+- location: Holmax bilverkstad AB
+  urn: urn:mekonomen:store:id:2609
+  city: Hallstahammar
+  latitude: 59.60338
+  longitude: 16.2529
+
+- location: Autocenter i Kalmar AB (Södra)
+  urn: urn:mekonomen:store:id:2361
+  city: Kalmar
+  latitude: 56.66979
+  longitude: 16.30648
+
+- location: AM Fordonsteknik AB
+  urn: urn:mekonomen:store:id:2305
+  city: Söderköping
+  latitude: 58.47766
+  longitude: 16.3251
+
+- location: Mekonomen Butik Kalmar
+  urn: urn:mekonomen:store:id:2694
+  city: Kalmar
+  latitude: 56.69409
+  longitude: 16.328
+
+- location: Autocenter i Kalmar AB
+  urn: urn:mekonomen:store:id:2360
+  city: Kalmar
+  latitude: 56.69506
+  longitude: 16.32834
+
+- location: Hammarstrands Bil & Däckservice AB
+  urn: urn:mekonomen:store:id:2199
+  city: Hammarstrand
+  latitude: 63.10466
+  longitude: 16.35748
+
+- location: Bilverkstaden i Krokek AB
+  urn: urn:mekonomen:store:id:2313
+  city: Kolmården
+  latitude: 58.67136
+  longitude: 16.36287
+
+- location: Bilservice Norell AB (Centrum)
+  urn: urn:mekonomen:store:id:2189
+  city: Bollnäs
+  latitude: 61.35514
+  longitude: 16.39748
+
+- location: Bilservice Norell AB (Renshammarvägen)
+  urn: urn:mekonomen:store:id:2190
+  city: Bollnäs
+  latitude: 61.35613
+  longitude: 16.42428
+
+- location: Mekonomen Butik Bollnäs
+  urn: urn:mekonomen:store:id:2665
+  city: Bollnäs
+  latitude: 61.35613
+  longitude: 16.42428
+
+- location: Motorstyrkan Oskarshamn AB
+  urn: urn:mekonomen:store:id:2390
+  city: Oskarshamn
+  latitude: 57.24932
+  longitude: 16.43394
+
+- location: Södra Infartens Bilservice AB
+  urn: urn:mekonomen:store:id:2397
+  city: Mönsterås
+  latitude: 57.0353
+  longitude: 16.43524
+
+- location: Bilkompani Sydost AB
+  urn: urn:mekonomen:store:id:2650
+  city: Oskarshamn
+  latitude: 57.25112
+  longitude: 16.44144
+
+- location: Mekonomen Butik Oskarshamn
+  urn: urn:mekonomen:store:id:2736
+  city: Oskarshamn
+  latitude: 57.26228
+  longitude: 16.44701
+
+- location: Piston Motors Viskan AB
+  urn: urn:mekonomen:store:id:2215
+  city: Stöde
+  latitude: 62.4394
+  longitude: 16.46374
+
+- location: Nettobilar Eskilstuna AB
+  urn: urn:mekonomen:store:id:2239
+  city: Eskilstuna
+  latitude: 59.37283
+  longitude: 16.4666
+
+- location: Ramsele Rep & Mek AB
+  urn: urn:mekonomen:store:id:2179
+  city: Ramsele
+  latitude: 63.54126
+  longitude: 16.46755
+
+- location: Mekonomen Butik Eskilstuna
+  urn: urn:mekonomen:store:id:2672
+  city: Eskilstuna
+  latitude: 59.37283
+  longitude: 16.4686
+
+- location: Perssons Bilelektriska AB
+  urn: urn:mekonomen:store:id:2245
+  city: Västerås
+  latitude: 59.59875
+  longitude: 16.49538
+
+- location: Algutsrums Bil- och Däckservice AB
+  urn: urn:mekonomen:store:id:2358
+  city: Färjestaden
+  latitude: 56.68342
+  longitude: 16.52618
+
+- location: Damms Bilservice AB
+  urn: urn:mekonomen:store:id:2228
+  city: Västerås
+  latitude: 59.64167
+  longitude: 16.55764
+
+- location: Mekonomen Butik Västerås Friledningsgatan 9
+  urn: urn:mekonomen:store:id:2771
+  city: Västerås
+  latitude: 59.64177
+  longitude: 16.55854
+
+- location: Bil & Motor Västerås AB
+  urn: urn:mekonomen:store:id:2224
+  city: Västerås
+  latitude: 59.63812
+  longitude: 16.56232
+
+- location: Valdemarsviks Verkstadsbolag AB
+  urn: urn:mekonomen:store:id:2351
+  city: Valdemarsvik
+  latitude: 58.21223
+  longitude: 16.58503
+
+- location: Mekonomen Butik Valdemarsvik
+  urn: urn:mekonomen:store:id:2763
+  city: Valdemarsvik
+  latitude: 58.21117
+  longitude: 16.58503
+
+- location: Bilcenter Flen AB
+  urn: urn:mekonomen:store:id:2225
+  city: Flen
+  latitude: 59.05057
+  longitude: 16.5977
+
+- location: AB Västerviks Bil
+  urn: urn:mekonomen:store:id:2355
+  city: Västervik
+  latitude: 57.76158
+  longitude: 16.6093
+
+- location: Mekonomen Butik Västervik
+  urn: urn:mekonomen:store:id:2772
+  city: Västervik
+  latitude: 57.76158
+  longitude: 16.6093
+
+- location: Fordonsspecialisten i Västerås AB
+  urn: urn:mekonomen:store:id:2506
+  city: Västerås
+  latitude: 59.61369
+  longitude: 16.61219
+
+- location: Mekonomen Butik Västerås Fältmätargatan 20
+  urn: urn:mekonomen:store:id:2770
+  city: Västerås
+  latitude: 59.61369
+  longitude: 16.61219
+
+- location: Mekonomen Butik Sala
+  urn: urn:mekonomen:store:id:2743
+  city: Sala
+  latitude: 59.9181
+  longitude: 16.61648
+
+- location: Sala Bilservice AB
+  urn: urn:mekonomen:store:id:2246
+  city: Sala
+  latitude: 59.91872
+  longitude: 16.62552
+
+- location: D Lindbergs Verkstad AB
+  urn: urn:mekonomen:store:id:2170
+  city: Vilhelmina
+  latitude: 64.61621
+  longitude: 16.68091
+
+- location: Bil Ess I Ockelbo AB
+  urn: urn:mekonomen:store:id:2187
+  city: Ockelbo
+  latitude: 60.88933
+  longitude: 16.7169
+
+- location: Kenneth Larsson Bil AB
+  urn: urn:mekonomen:store:id:2202
+  city: Sandviken
+  latitude: 60.62273
+  longitude: 16.74926
+
+- location: Askö Allservice
+  urn: urn:mekonomen:store:id:2359
+  city: Loftahammar
+  latitude: 57.98771
+  longitude: 16.75899
+
+- location: Mekonomen Butik Sandviken
+  urn: urn:mekonomen:store:id:2744
+  city: Sandviken
+  latitude: 60.62325
+  longitude: 16.78071
+
+- location: Gästrike Lack AB
+  urn: urn:mekonomen:store:id:2786
+  city: Sandviken
+  latitude: 60.62762
+  longitude: 16.81967
+
+- location: Bil o Mek Janne Lundqvist KB
+  urn: urn:mekonomen:store:id:2637
+  city: Söderhamn / Söderala
+  latitude: 61.2863
+  longitude: 16.8437
+
+- location: Svensk Autoteknik AB
+  urn: urn:mekonomen:store:id:2346
+  city: Nyköping
+  latitude: 58.75013
+  longitude: 16.98757
+
+- location: Mekonomen Butik Nyköping
+  urn: urn:mekonomen:store:id:2729
+  city: Nyköping
+  latitude: 58.75206
+  longitude: 16.99255
+
+- location: Bengts Däckservice AB
+  urn: urn:mekonomen:store:id:2186
+  city: Hedesunda
+  latitude: 60.39675
+  longitude: 16.99784
+
+- location: Högby Bil & Mekaniska Verkstad AB
+  urn: urn:mekonomen:store:id:2374
+  city: Löttorp
+  latitude: 57.1637
+  longitude: 17.0179
+
+- location: Mekonomen Butik Strängnäs
+  urn: urn:mekonomen:store:id:2753
+  city: Strängnäs
+  latitude: 59.3504
+  longitude: 17.02965
+
+- location: Strängnäs Mekocenter AB
+  urn: urn:mekonomen:store:id:2530
+  city: Strängnäs
+  latitude: 59.35083
+  longitude: 17.03004
+
+- location: Strängnäs Autoservice AB
+  urn: urn:mekonomen:store:id:2529
+  city: Strängnäs
+  latitude: 59.3578
+  longitude: 17.0318
+
+- location: Tappers Bilservice AB
+  urn: urn:mekonomen:store:id:3177
+  city: Söderhamn
+  latitude: 61.30506
+  longitude: 17.04104
+
+- location: Mekonomen Butik Söderhamn
+  urn: urn:mekonomen:store:id:2747
+  city: Söderhamn
+  latitude: 61.30409
+  longitude: 17.04184
+
+- location: Mbv marin Enköping AB
+  urn: urn:mekonomen:store:id:2513
+  city: Enköping
+  latitude: 59.64984
+  longitude: 17.08496
+
+- location: Mekonomen Butik Enköping
+  urn: urn:mekonomen:store:id:2671
+  city: Enköping
+  latitude: 59.64916
+  longitude: 17.08733
+
+- location: Visvall Bilteknik AB
+  urn: urn:mekonomen:store:id:2787
+  city: Hudiksvall
+  latitude: 61.71406
+  longitude: 17.0897
+
+- location: Mekonomen Butik Hudiksvall
+  urn: urn:mekonomen:store:id:2689
+  city: Hudiksvall
+  latitude: 61.73502
+  longitude: 17.09078
+
+- location: Diesel & El i Nyköping AB
+  urn: urn:mekonomen:store:id:2320
+  city: Nyköping
+  latitude: 58.83803
+  longitude: 17.11546
+
+- location: Brännlunds Motor AB
+  urn: urn:mekonomen:store:id:3175
+  city: Gävle
+  latitude: 60.68432
+  longitude: 17.15318
+
+- location: Mekonomen BilLivet Gävle AB
+  urn: urn:mekonomen:store:id:2206
+  city: Gävle
+  latitude: 60.65698
+  longitude: 17.16664
+
+- location: Mekonomen Butik Gävle
+  urn: urn:mekonomen:store:id:2677
+  city: Gävle
+  latitude: 60.65698
+  longitude: 17.16664
+
+- location: R. Dahlboms Bil AB
+  urn: urn:mekonomen:store:id:2216
+  city: Gävle
+  latitude: 60.67217
+  longitude: 17.19867
+
+- location: Femek Fordonstjänst AB
+  urn: urn:mekonomen:store:id:2647
+  city: Sollefteå
+  latitude: 63.17747
+  longitude: 17.23026
+
+- location: Mekonomen Butik Sollefteå
+  urn: urn:mekonomen:store:id:2749
+  city: Sollefteå
+  latitude: 63.1613
+  longitude: 17.2593
+
+- location: Erikssons Tekniska Fordonsservice AB
+  urn: urn:mekonomen:store:id:2610
+  city: Sollefteå
+  latitude: 63.17596
+  longitude: 17.26336
+
+- location: Bilteknik i Birsta AB
+  urn: urn:mekonomen:store:id:2191
+  city: Sundsvall
+  latitude: 62.4416
+  longitude: 17.32877
+
+- location: Mekonomen Butik Sundsvall
+  urn: urn:mekonomen:store:id:2755
+  city: Sundsvall
+  latitude: 62.44176
+  longitude: 17.32879
+
+- location: Gnesta Bilvård AB
+  urn: urn:mekonomen:store:id:2507
+  city: Gnesta
+  latitude: 59.03974
+  longitude: 17.32969
+
+- location: Haga Bilteknik AB
+  urn: urn:mekonomen:store:id:2198
+  city: Sundsvall
+  latitude: 62.40864
+  longitude: 17.33414
+
+- location: Speed & Mek i Bydalen AB
+  urn: urn:mekonomen:store:id:2598
+  city: Sundsvall
+  latitude: 62.41654
+  longitude: 17.34209
+
+- location: Motorproffs i Sundsvall AB
+  urn: urn:mekonomen:store:id:2212
+  city: Sundsvall
+  latitude: 62.41518
+  longitude: 17.34951
+
+- location: Njurundaservice AB
+  urn: urn:mekonomen:store:id:2213
+  city: Njurunda
+  latitude: 62.26892
+  longitude: 17.38857
+
+- location: TTN Bil & Maskinverkstäder AB
+  urn: urn:mekonomen:store:id:2533
+  city: Nykvarn
+  latitude: 59.17666
+  longitude: 17.44177
+
+- location: TJ Carservice Bålsta AB
+  urn: urn:mekonomen:store:id:3248
+  city: Bålsta
+  latitude: 59.57436
+  longitude: 17.51705
+
+- location: Trosa Bilverkstad AB
+  urn: urn:mekonomen:store:id:2532
+  city: Trosa
+  latitude: 58.90463
+  longitude: 17.55186
+
+- location: Helins Bilcentrum AB
+  urn: urn:mekonomen:store:id:2467
+  city: Bålsta
+  latitude: 59.56185
+  longitude: 17.55319
+
+- location: Järna Bilcentrum AB
+  urn: urn:mekonomen:store:id:2510
+  city: Järna
+  latitude: 59.09412
+  longitude: 17.55806
+
+- location: Mekonomen BilLivet Södertälje AB
+  urn: urn:mekonomen:store:id:2517
+  city: Södertälje
+  latitude: 59.20367
+  longitude: 17.61121
+
+- location: Mekonomen Butik Södertälje
+  urn: urn:mekonomen:store:id:2748
+  city: Södertälje
+  latitude: 59.20367
+  longitude: 17.61121
+
+- location: TJ Carservice Bro AB
+  urn: urn:mekonomen:store:id:3247
+  city: Bro
+  latitude: 59.51429
+  longitude: 17.64031
+
+- location: Servicegaraget i Södertälje AB
+  urn: urn:mekonomen:store:id:2525
+  city: Södertälje
+  latitude: 59.20692
+  longitude: 17.64179
+
+- location: Aves Bilverkstad AB
+  urn: urn:mekonomen:store:id:2456
+  city: Uppsala
+  latitude: 59.8487
+  longitude: 17.66623
+
+- location: Björklin Motor AB
+  urn: urn:mekonomen:store:id:2643
+  city: Uppsala
+  latitude: 59.94376
+  longitude: 17.66929
+
+- location: Danmarksgatans Bilservice AB
+  urn: urn:mekonomen:store:id:2464
+  city: Uppsala
+  latitude: 59.85042
+  longitude: 17.67232
+
+- location: Mekonomen Butik Uppsala Rapsgatan 1E
+  urn: urn:mekonomen:store:id:2761
+  city: Uppsala
+  latitude: 59.84453
+  longitude: 17.69342
+
+- location: Bilcentrum Fältman AB
+  urn: urn:mekonomen:store:id:2458
+  city: Uppsala
+  latitude: 59.85238
+  longitude: 17.69373
+
+- location: KJ Motor AB
+  urn: urn:mekonomen:store:id:3239
+  city: Uppsala
+  latitude: 59.84704
+  longitude: 17.72151
+
+- location: Mekonomen Butik Uppsala Kastgatan 3
+  urn: urn:mekonomen:store:id:2762
+  city: Uppsala
+  latitude: 59.84704
+  longitude: 17.72151
+
+- location: Thanger & Karlsson Bilservice AB
+  urn: urn:mekonomen:store:id:2491
+  city: Kungsängen
+  latitude: 59.4783
+  longitude: 17.7264
+
+- location: Mekonomen Butik Brunna / Kungsängen
+  urn: urn:mekonomen:store:id:2668
+  city: Brunna / Kungsängen
+  latitude: 59.50194
+  longitude: 17.74207
+
+- location: Mek Bilteknik Upplands-Bro AB
+  urn: urn:mekonomen:store:id:2608
+  city: Kungsängen / Brunna
+  latitude: 59.50149
+  longitude: 17.74548
+
+- location: Salem Autocenter AB
+  urn: urn:mekonomen:store:id:2600
+  city: Rönninge
+  latitude: 59.20109
+  longitude: 17.75956
+
+- location: Bolanders Bilservice AB
+  urn: urn:mekonomen:store:id:2194
+  city: Kramfors
+  latitude: 62.93443
+  longitude: 17.77123
+
+- location: Bilyaa Sigtuna AB
+  urn: urn:mekonomen:store:id:2462
+  city: Märsta
+  latitude: 59.62458
+  longitude: 17.78075
+
+- location: Bröderna Häggkvist Bil AB
+  urn: urn:mekonomen:store:id:2195
+  city: Kramfors
+  latitude: 62.92088
+  longitude: 17.783
+
+- location: Mekonomen Butik Kramfors
+  urn: urn:mekonomen:store:id:2702
+  city: Kramfors
+  latitude: 62.91976
+  longitude: 17.78381
+
+- location: Glow Car i Stäket
+  urn: urn:mekonomen:store:id:2466
+  city: Järfälla
+  latitude: 59.46513
+  longitude: 17.81511
+
+- location: E.I Bilservice AB
+  urn: urn:mekonomen:store:id:2465
+  city: Järfälla
+  latitude: 59.47692
+  longitude: 17.81949
+
+- location: Vård av bil Tumba AB
+  urn: urn:mekonomen:store:id:2634
+  city: Tumba / Bovallen
+  latitude: 59.1697
+  longitude: 17.82036
+
+- location: Joakim Eriksson Bil AB
+  urn: urn:mekonomen:store:id:2511
+  city: Tumba
+  latitude: 59.19372
+  longitude: 17.82851
+
+- location: Ekerö Fordonsteknik AB
+  urn: urn:mekonomen:store:id:3168
+  city: Ekerö
+  latitude: 59.28602
+  longitude: 17.82857
+
+- location: Kallhäll Bilservice AB
+  urn: urn:mekonomen:store:id:2469
+  city: Järfälla / Kallhäll
+  latitude: 59.4504
+  longitude: 17.83094
+
+- location: Mek Bilteknik Järfälla AB
+  urn: urn:mekonomen:store:id:2473
+  city: Järfälla
+  latitude: 59.41017
+  longitude: 17.83881
+
+- location: Mekonomen Butik Järfälla
+  urn: urn:mekonomen:store:id:2691
+  city: Järfälla
+  latitude: 59.40895
+  longitude: 17.83995
+
+- location: GT Sport & Parts AB
+  urn: urn:mekonomen:store:id:2508
+  city: Slagsta
+  latitude: 59.25401
+  longitude: 17.85764
+
+- location: Vinsta Bilservice AB
+  urn: urn:mekonomen:store:id:2497
+  city: Vällingby
+  latitude: 59.37529
+  longitude: 17.85924
+
+- location: Promeister Verkstad (Vårby)
+  urn: urn:mekonomen:store:id:2520
+  city: Vårby
+  latitude: 59.25316
+  longitude: 17.87506
+
+- location: Mekonomen Butik Vårby
+  urn: urn:mekonomen:store:id:2766
+  city: Vårby
+  latitude: 59.25339
+  longitude: 17.87729
+
+- location: ACG Bilservice AB
+  urn: urn:mekonomen:store:id:2452
+  city: Märsta / Arlandastad
+  latitude: 59.61418
+  longitude: 17.87735
+
+- location: Mekonomen Butik Märsta
+  urn: urn:mekonomen:store:id:2720
+  city: Märsta
+  latitude: 59.61418
+  longitude: 17.87735
+
+- location: Österbybruk Bil AB
+  urn: urn:mekonomen:store:id:2481
+  city: Österbybruk
+  latitude: 60.19787
+  longitude: 17.87845
+
+- location: Bilyaa Märsta AB
+  urn: urn:mekonomen:store:id:2612
+  city: Märsta / Arlandastad
+  latitude: 59.61427
+  longitude: 17.87917
+
+- location: Bromma Bilanalys & Bilverkstad AB
+  urn: urn:mekonomen:store:id:2463
+  city: Bromma
+  latitude: 59.34615
+  longitude: 17.89338
+
+- location: Skärholmens Bilvård AB
+  urn: urn:mekonomen:store:id:2526
+  city: Skärholmen
+  latitude: 59.27294
+  longitude: 17.90769
+
+- location: Mekonomen Butik Härnösand
+  urn: urn:mekonomen:store:id:2683
+  city: Härnösand
+  latitude: 62.64012
+  longitude: 17.91261
+
+- location: Mekonomen BilLivet Härnösand AB
+  urn: urn:mekonomen:store:id:2208
+  city: Härnösand
+  latitude: 62.64054
+  longitude: 17.91329
+
+- location: Mekonomen BilLivet Infra City AB
+  urn: urn:mekonomen:store:id:2476
+  city: Upplands Väsby / Infra City
+  latitude: 59.49781
+  longitude: 17.92317
+
+- location: Mekonomen Butik Upplands Väsby / Infra City
+  urn: urn:mekonomen:store:id:2690
+  city: Upplands Väsby / Infra City
+  latitude: 59.49781
+  longitude: 17.92317
+
+- location: Sätra Bil & Motor AB
+  urn: urn:mekonomen:store:id:2523
+  city: Skärholmen
+  latitude: 59.28538
+  longitude: 17.92926
+
+- location: Bilyaa Häggvik AB
+  urn: urn:mekonomen:store:id:2460
+  city: Sollentuna / Häggvik
+  latitude: 59.43604
+  longitude: 17.93149
+
+- location: Mekonomen Butik Häggvik / Sollentuna
+  urn: urn:mekonomen:store:id:2680
+  city: Häggvik / Sollentuna
+  latitude: 59.43604
+  longitude: 17.93349
+
+- location: Mekonomen Butik Nynäshamn
+  urn: urn:mekonomen:store:id:2730
+  city: Nynäshamn
+  latitude: 58.9187
+  longitude: 17.93822
+
+- location: Stavboms Motor AB
+  urn: urn:mekonomen:store:id:2527
+  city: Nynäshamn
+  latitude: 58.91871
+  longitude: 17.93825
+
+- location: Centrumverkstäder Kista AB
+  urn: urn:mekonomen:store:id:2778
+  city: Kista
+  latitude: 59.40338
+  longitude: 17.94675
+
+- location: Sollentuna Bil och Motor SBM AB
+  urn: urn:mekonomen:store:id:2486
+  city: Sollentuna / Edsberg
+  latitude: 59.44654
+  longitude: 17.95482
+
+- location: Bilyaa Kista AB
+  urn: urn:mekonomen:store:id:2461
+  city: Kista
+  latitude: 59.40623
+  longitude: 17.95893
+
+- location: Mekonomen BilLivet Bromma AB
+  urn: urn:mekonomen:store:id:2474
+  city: Bromma
+  latitude: 59.35024
+  longitude: 17.96009
+
+- location: Autoservice Huddinge AB
+  urn: urn:mekonomen:store:id:2503
+  city: Huddinge
+  latitude: 59.22193
+  longitude: 17.96236
+
+- location: Sumpan Bilverkstad AB
+  urn: urn:mekonomen:store:id:2648
+  city: Sundbyberg
+  latitude: 59.36472
+  longitude: 17.96544
+
+- location: Ulvsunda Motor AB
+  urn: urn:mekonomen:store:id:3173
+  city: Bromma
+  latitude: 59.34065
+  longitude: 17.97672
+
+- location: Mekonomen Butik Solna
+  urn: urn:mekonomen:store:id:2750
+  city: Solna
+  latitude: 59.35041
+  longitude: 17.9829
+
+- location: MBV Huddinge AB
+  urn: urn:mekonomen:store:id:2512
+  city: Huddinge Centrum
+  latitude: 59.22942
+  longitude: 17.99504
+
+- location: PD Fordonsteknik AB
+  urn: urn:mekonomen:store:id:2482
+  city: Solna
+  latitude: 59.35245
+  longitude: 18.00265
+
+- location: Mekonomen Butik Älvsjö
+  urn: urn:mekonomen:store:id:2658
+  city: Älvsjö
+  latitude: 59.2688
+  longitude: 18.00623
+
+- location: Västberga Plåt och Lack AB
+  urn: urn:mekonomen:store:id:2536
+  city: Hägersten
+  latitude: 59.29421
+  longitude: 18.00891
+
+- location: Bilprecision i Stockholm AB
+  urn: urn:mekonomen:store:id:2459
+  city: Stockholm / Fridhemsplan
+  latitude: 59.33185
+  longitude: 18.02925
+
+- location: Danderyds Motor AB
+  urn: urn:mekonomen:store:id:2651
+  city: Danderyd
+  latitude: 59.41162
+  longitude: 18.03326
+
+- location: VR Motor Stockholm AB
+  urn: urn:mekonomen:store:id:2537
+  city: Bandhagen
+  latitude: 59.26055
+  longitude: 18.03414
+
+- location: Vasa Bilservice AB
+  urn: urn:mekonomen:store:id:2595
+  city: Stockholm
+  latitude: 59.34061
+  longitude: 18.03801
+
+- location: Mekonomen Butik Stockholm
+  urn: urn:mekonomen:store:id:2769
+  city: Stockholm
+  latitude: 59.3445
+  longitude: 18.04474
+
+- location: GH motor Norrtull AB
+  urn: urn:mekonomen:store:id:2779
+  city: Stockholm
+  latitude: 59.34989
+  longitude: 18.04602
+
+- location: Nestor Moraitis Bil AB
+  urn: urn:mekonomen:store:id:2480
+  city: Vallentuna
+  latitude: 59.54594
+  longitude: 18.04698
+
+- location: Kyrkbyns Autocenter AB
+  urn: urn:mekonomen:store:id:2472
+  city: Täby
+  latitude: 59.48501
+  longitude: 18.05633
+
+- location: Tule Buss & Bilverkstad Emf AB
+  urn: urn:mekonomen:store:id:2492
+  city: Stockholm
+  latitude: 59.34694
+  longitude: 18.05746
+
+- location: Mekonomen BilLivet Täby AB
+  urn: urn:mekonomen:store:id:2478
+  city: Täby
+  latitude: 59.43812
+  longitude: 18.05805
+
+- location: Mekonomen Butik Täby
+  urn: urn:mekonomen:store:id:2756
+  city: Täby
+  latitude: 59.43812
+  longitude: 18.05805
+
+- location: Din Cityservice Östermalm AB
+  urn: urn:mekonomen:store:id:2588
+  city: Stockholm
+  latitude: 59.34724
+  longitude: 18.06059
+
+- location: Kronegård & Otterhem Bil AB
+  urn: urn:mekonomen:store:id:2471
+  city: Stockholm
+  latitude: 59.34749
+  longitude: 18.06666
+
+- location: MBV Mitt på Söder AB
+  urn: urn:mekonomen:store:id:2514
+  city: Stockholm / Södermalm
+  latitude: 59.313
+  longitude: 18.06933
+
+- location: Täby Car Clinic AB
+  urn: urn:mekonomen:store:id:2490
+  city: Täby
+  latitude: 59.43502
+  longitude: 18.07746
+
+- location: Mekonomen Butik Johanneshov / Globen
+  urn: urn:mekonomen:store:id:2679
+  city: Johanneshov / Globen
+  latitude: 59.28797
+  longitude: 18.08184
+
+- location: Mekonomen BilLivet Johanneshov AB
+  urn: urn:mekonomen:store:id:2516
+  city: Stockholm / Johanneshov
+  latitude: 59.28863
+  longitude: 18.08393
+
+- location: Avgassystemet i Stockholm AB
+  urn: urn:mekonomen:store:id:2457
+  city: Vallentuna
+  latitude: 59.51556
+  longitude: 18.09106
+
+- location: JK Bilverkstad AB
+  urn: urn:mekonomen:store:id:2468
+  city: Täby
+  latitude: 59.43018
+  longitude: 18.09195
+
+- location: Autoservice BSB AB
+  urn: urn:mekonomen:store:id:2584
+  city: Stockholm
+  latitude: 59.33588
+  longitude: 18.10092
+
+- location: Skarpnäck car center AB
+  urn: urn:mekonomen:store:id:2644
+  city: Skarpnäck
+  latitude: 59.26585
+  longitude: 18.12413
+
+- location: Mek Bilskadecenter Upplands-Bro AB
+  urn: urn:mekonomen:store:id:3250
+  city: Kungsängen
+  latitude: 68.430082
+  longitude: 18.12539
+
+- location: Parant Bil & Motor AB
+  urn: urn:mekonomen:store:id:3232
+  city: Täby
+  latitude: 59.46295
+  longitude: 18.12742
+
+- location: Berglunds Bil
+  urn: urn:mekonomen:store:id:2504
+  city: Haninge / Handen
+  latitude: 59.16871
+  longitude: 18.15544
+
+- location: RSKF Bilservice AB
+  urn: urn:mekonomen:store:id:2521
+  city: Haninge / Handen
+  latitude: 59.16803
+  longitude: 18.15544
+
+- location: Handen Bilservice AB
+  urn: urn:mekonomen:store:id:3244
+  city: Handen
+  latitude: 59.16858
+  longitude: 18.15683
+
+- location: Stavboms Service Albyberg Företagscenter
+  urn: urn:mekonomen:store:id:3219
+  city: Österhaninge
+  latitude: 59.15053
+  longitude: 18.15824
+
+- location: Stavboms Service AB
+  urn: urn:mekonomen:store:id:2528
+  city: Haninge
+  latitude: 59.17576
+  longitude: 18.16047
+
+- location: Mekonomen Butik Handen
+  urn: urn:mekonomen:store:id:2682
+  city: Handen
+  latitude: 59.17576
+  longitude: 18.16047
+
+- location: Springnose group AB
+  urn: urn:mekonomen:store:id:2633
+  city: Lidingö
+  latitude: 59.35735
+  longitude: 18.17194
+
+- location: Nacka Service Center AB
+  urn: urn:mekonomen:store:id:2519
+  city: Nacka
+  latitude: 59.30847
+  longitude: 18.18147
+
+- location: Ankebo Transport AB
+  urn: urn:mekonomen:store:id:2501
+  city: Tyresö
+  latitude: 59.2387
+  longitude: 18.19246
+
+- location: Tyresö Bilteknik AB
+  urn: urn:mekonomen:store:id:2534
+  city: Tyresö / Trollbäcken
+  latitude: 59.22726
+  longitude: 18.21815
+
+- location: Swea Autoservice AB
+  urn: urn:mekonomen:store:id:2531
+  city: Tyresö
+  latitude: 59.2444
+  longitude: 18.21909
+
+- location: MT Ambulans AB
+  urn: urn:mekonomen:store:id:2518
+  city: Saltsjö Boo
+  latitude: 59.3386
+  longitude: 18.24559
+
+- location: Wedins Bilservice i Ullånger AB
+  urn: urn:mekonomen:store:id:2220
+  city: Ullånger
+  latitude: 63.0096
+  longitude: 18.2712
+
+- location: Stenkumla Bil AB
+  urn: urn:mekonomen:store:id:2642
+  city: Visby
+  latitude: 57.53588
+  longitude: 18.27759
+
+- location: Svn Motorservice AB
+  urn: urn:mekonomen:store:id:2489
+  city: Åkersberga
+  latitude: 59.47994
+  longitude: 18.27886
+
+- location: Mekonomen Butik Åkersberga
+  urn: urn:mekonomen:store:id:2656
+  city: Åkersberga
+  latitude: 59.47892
+  longitude: 18.28426
+
+- location: Mekonomen BilLivet Åkersberga AB
+  urn: urn:mekonomen:store:id:2479
+  city: Åkersberga
+  latitude: 59.47782
+  longitude: 18.30366
+
+- location: Mekonomen Butik Visby
+  urn: urn:mekonomen:store:id:2776
+  city: Visby
+  latitude: 57.63596
+  longitude: 18.30564
+
+- location: Abradix AB
+  urn: urn:mekonomen:store:id:2357
+  city: Visby
+  latitude: 57.62501
+  longitude: 18.31548
+
+- location: Bilhuset På Gotland AB
+  urn: urn:mekonomen:store:id:2596
+  city: Visby
+  latitude: 57.63532
+  longitude: 18.32541
+
+- location: Österby Bil & Maskinverkstad AB
+  urn: urn:mekonomen:store:id:2391
+  city: Visby
+  latitude: 57.6353
+  longitude: 18.3516
+
+- location: Anders Bilmek i Rimbo AB
+  urn: urn:mekonomen:store:id:2453
+  city: Rimbo
+  latitude: 59.74277
+  longitude: 18.37227
+
+- location: Bilmäklarna Sverige AB
+  urn: urn:mekonomen:store:id:2366
+  city: Hemse
+  latitude: 57.23794
+  longitude: 18.37452
+
+- location: Mekonomen Butik Värmdö / Gustavsberg
+  urn: urn:mekonomen:store:id:2767
+  city: Värmdö / Gustavsberg
+  latitude: 59.31297
+  longitude: 18.42163
+
+- location: Värmdö Bilteknik AB
+  urn: urn:mekonomen:store:id:2535
+  city: Värmdö / Gustavsberg
+  latitude: 59.31305
+  longitude: 18.42181
+
+- location: Hemmesta Motor & Bilteknik AB
+  urn: urn:mekonomen:store:id:2589
+  city: Värmdö
+  latitude: 59.32354
+  longitude: 18.48709
+
+- location: Autoservice i Hallstavik AB
+  urn: urn:mekonomen:store:id:2455
+  city: Hallstavik
+  latitude: 60.04102
+  longitude: 18.55647
+
+- location: Sättra Bil & Plåt AB
+  urn: urn:mekonomen:store:id:2485
+  city: Hallstavik
+  latitude: 60.04937
+  longitude: 18.58821
+
+- location: Perssons Autoservice AB
+  urn: urn:mekonomen:store:id:2483
+  city: Norrtälje
+  latitude: 59.77002
+  longitude: 18.68107
+
+- location: Dan Byströms Bilservice
+  urn: urn:mekonomen:store:id:2171
+  city: Örnsköldsvik / Domsjö
+  latitude: 63.26423
+  longitude: 18.68663
+
+- location: Mekonomen Butik Norrtälje
+  urn: urn:mekonomen:store:id:2728
+  city: Norrtälje
+  latitude: 59.76325
+  longitude: 18.69062
+
+- location: Mekonomen Butik Lycksele
+  urn: urn:mekonomen:store:id:2716
+  city: Lycksele
+  latitude: 64.59138
+  longitude: 18.69281
+
+- location: Autoblå AB
+  urn: urn:mekonomen:store:id:2161
+  city: Lycksele
+  latitude: 64.58662
+  longitude: 18.69517
+
+- location: Nordin Bilverkstad AB
+  urn: urn:mekonomen:store:id:2177
+  city: Örnsköldsvik
+  latitude: 63.2882
+  longitude: 18.72036
+
+- location: Mekonomen Butik Örnsköldsvik
+  urn: urn:mekonomen:store:id:2734
+  city: Örnsköldsvik
+  latitude: 63.2882
+  longitude: 18.72036
+
+- location: HG:s Bilservice AB
+  urn: urn:mekonomen:store:id:2173
+  city: Örnsköldsvik
+  latitude: 63.29981
+  longitude: 18.72352
+
+- location: Motorhuset Gotland AB
+  urn: urn:mekonomen:store:id:2601
+  city: Slite
+  latitude: 57.70454
+  longitude: 18.80211
+
+- location: Roslagsbro Bil & Smide AB
+  urn: urn:mekonomen:store:id:2484
+  city: Norrtälje / Roslagsbro
+  latitude: 59.86893
+  longitude: 18.82613
+
+- location: Vännäs Skadecenter AB
+  urn: urn:mekonomen:store:id:2655
+  city: Vännäs
+  latitude: 63.91278
+  longitude: 19.75048
+
+- location: Bilverkstaden på Backen-Grubbe-Kronoparken- Umedalen AB
+  urn: urn:mekonomen:store:id:2167
+  city: Umeå
+  latitude: 63.83975
+  longitude: 20.19748
+
+- location: Mekonomen Bilverkstad Västerslätt
+  urn: urn:mekonomen:store:id:3245
+  city: Umeå
+  latitude: 63.83986
+  longitude: 20.23126
+
+- location: AB Supertegs Bilservice
+  urn: urn:mekonomen:store:id:2160
+  city: Umeå
+  latitude: 63.81778
+  longitude: 20.24749
+
+- location: Bilverkstaden På Teg AB (Östteg)
+  urn: urn:mekonomen:store:id:2168
+  city: Umeå
+  latitude: 63.8058
+  longitude: 20.26315
+
+- location: Mekonomen Butik Kiruna
+  urn: urn:mekonomen:store:id:2701
+  city: Kiruna
+  latitude: 67.84781
+  longitude: 20.27866
+
+- location: Mekonomen Butik Umeå
+  urn: urn:mekonomen:store:id:2760
+  city: Umeå
+  latitude: 63.85093
+  longitude: 20.30815
+
+- location: Umeå Bilverkstad AB
+  urn: urn:mekonomen:store:id:2182
+  city: Umeå
+  latitude: 63.85044
+  longitude: 20.31049
+
+- location: Mekonomen Billivet Kiruna AB
+  urn: urn:mekonomen:store:id:2175
+  city: Kiruna
+  latitude: 67.83851
+  longitude: 20.34362
+
+- location: Mekonomen Butik Skellefteå
+  urn: urn:mekonomen:store:id:2745
+  city: Skellefteå
+  latitude: 64.72964
+  longitude: 20.97539
+
+- location: Mekonomen BilLivet Skellefteå AB
+  urn: urn:mekonomen:store:id:2176
+  city: Skellefteå
+  latitude: 64.72962
+  longitude: 20.97584
+
+- location: Bil- och Maskinreparatören i Piteå AB
+  urn: urn:mekonomen:store:id:2163
+  city: Piteå
+  latitude: 65.32227
+  longitude: 21.44628
+
+- location: Bilkompaniet Sigoro AB Piteå
+  urn: urn:mekonomen:store:id:3222
+  city: Piteå
+  latitude: 65.32451
+  longitude: 21.44698
+
+- location: Mekonomen Butik Piteå
+  urn: urn:mekonomen:store:id:2741
+  city: Piteå
+  latitude: 65.32289
+  longitude: 21.44738
+
+- location: Bilkompaniet Sigoro Boden AB
+  urn: urn:mekonomen:store:id:2164
+  city: Boden
+  latitude: 65.80688
+  longitude: 21.71624
+
+- location: Automobilservice i Norr AB
+  urn: urn:mekonomen:store:id:2162
+  city: Luleå
+  latitude: 65.6072
+  longitude: 22.12308
+
+- location: Mekonomen Butik Luleå
+  urn: urn:mekonomen:store:id:2714
+  city: Luleå
+  latitude: 65.6072
+  longitude: 22.12508
+
+- location: Rondellens Bil i Luleå AB
+  urn: urn:mekonomen:store:id:2180
+  city: Luleå
+  latitude: 65.58017
+  longitude: 22.1892
+
+- location: Bilkompaniet Sigoro Kalix AB
+  urn: urn:mekonomen:store:id:2165
+  city: Kalix
+  latitude: 65.85
+  longitude: 23.12118

@@ -1,0 +1,756 @@
+meta:
+  name: Rusta
+  web: https://www.rusta.se/
+  wikipedia: https://sv.wikipedia.org/wiki/Rusta
+  category: Järnfackhandelskedjor
+  locations: 107
+
+locations:
+- location: Rusta Nordby, Nordby Köpcenter
+  urn: urn:rusta:store:id:2717
+  city: Strömstad
+  country: Sverige
+  latitude: 59.064092
+  longitude: 11.212737
+
+- location: Rusta Uddevalla - Torp, Herrestads Torp 353
+  urn: urn:rusta:store:id:2744
+  city: Uddevalla
+  country: Sverige
+  latitude: 58.351007
+  longitude: 11.809766
+
+- location: Rusta Töcksfors, Lindudden 3
+  urn: urn:rusta:store:id:2743
+  city: Töcksfors
+  country: Sverige
+  latitude: 59.510828
+  longitude: 11.819967
+
+- location: Rusta Kungälv, Rollsbovägen 26
+  urn: urn:rusta:store:id:75184
+  city: Kungälv
+  country: Sweden
+  latitude: 57.878738
+  longitude: 11.942496
+
+- location: Rusta Göteborg - Sisjön, Sisjövägen 45
+  urn: urn:rusta:store:id:2693
+  city: Askim
+  country: Sverige
+  latitude: 57.640659
+  longitude: 11.951059
+
+- location: Rusta Göteborg - Backaplan, Deltavägen 4
+  urn: urn:rusta:store:id:2690
+  city: Göteborg
+  country: Sverige
+  latitude: 57.724874
+  longitude: 11.952241
+
+- location: Rusta Göteborg - Kållered, Ekenleden 3
+  urn: urn:rusta:store:id:2691
+  city: Kållered
+  country: Sverige
+  latitude: 57.601037
+  longitude: 12.049115
+
+- location: Kungsbacka, Kungsparksvägen 83
+  urn: urn:rusta:store:id:4323
+  city: Kungsbacka
+  country: Sverige
+  latitude: 57.514549
+  longitude: 12.072909
+
+- location: Rusta Göteborg - Partille, Gamla Kronvägen 22
+  urn: urn:rusta:store:id:2692
+  city: Partille
+  country: Sverige
+  latitude: 57.737751
+  longitude: 12.09807
+
+- location: Rusta Varberg, Birger Svenssons väg 16
+  urn: urn:rusta:store:id:2748
+  city: Varberg
+  country: Sverige
+  latitude: 57.122389
+  longitude: 12.260737
+
+- location: Rusta Charlottenberg, Källgatan 10
+  urn: urn:rusta:store:id:2682
+  city: Charlottenberg
+  country: Sverige
+  latitude: 59.87771
+  longitude: 12.284751
+
+- location: Rusta Trollhättan, Anes väg 3
+  urn: urn:rusta:store:id:2741
+  city: Trollhättan
+  country: Sverige
+  latitude: 58.314985
+  longitude: 12.306997
+
+- location: Rusta Falkenberg, Unnamed Road
+  urn: urn:rusta:store:id:75186
+  city: Falkenberg
+  country: Sweden
+  latitude: 56.91697
+  longitude: 12.50206
+
+- location: Rusta Alingsås, Kungegårdsgatan 3
+  urn: urn:rusta:store:id:4315
+  city: Alingsås
+  country: Sverige
+  latitude: 57.94118
+  longitude: 12.527626
+
+- location: Rusta Skene, Industrigatan 2
+  urn: urn:rusta:store:id:157628
+  city: Skene
+  country: Sverige
+  latitude: 57.487312
+  longitude: 12.649394
+
+- location: Rusta Helsingborg, jörkavägen 101
+  urn: urn:rusta:store:id:2697
+  city: Ödåkra-väla
+  country: Sweden
+  latitude: 56.092412
+  longitude: 12.766164
+
+- location: Rusta Halmstad - Flygstaden, Karlsrovägen 81
+  urn: urn:rusta:store:id:2694
+  city: Halmstad
+  country: Sverige
+  latitude: 56.679443
+  longitude: 12.806175
+
+- location: Rusta Landskrona, Österleden 180
+  urn: urn:rusta:store:id:37862
+  city: Landskrona
+  country: Sweden
+  latitude: 55.872781
+  longitude: 12.858817
+
+- location: Rusta Säffle, Karlavagnsvägen 2
+  urn: urn:rusta:store:id:75185
+  city: Säffle
+  country: Sweden
+  latitude: 59.127376
+  longitude: 12.883408
+
+- location: Rusta Ängelholm, Emblagatan 14
+  urn: urn:rusta:store:id:2756
+  city: Ängelholm
+  country: Sverige
+  latitude: 56.249978
+  longitude: 12.893439
+
+- location: Rusta Halmstad - Stenalyckan, Orkangatan 4D
+  urn: urn:rusta:store:id:2695
+  city: Halmstad
+  country: Sverige
+  latitude: 56.661919
+  longitude: 12.90772
+
+- location: Rusta Borås, Ålgårdsvägen 11
+  urn: urn:rusta:store:id:2680
+  city: Borås
+  country: Sverige
+  latitude: 57.732305
+  longitude: 12.93305
+
+- location: Rusta Löddeköpinge, Handelsvägen 9
+  urn: urn:rusta:store:id:144734
+  city: Löddeköpinge
+  country: Sweden
+  latitude: 55.771968
+  longitude: 12.987173
+
+- location: Rusta Malmö - Svågertorp, Nornegatan 10
+  urn: urn:rusta:store:id:2714
+  city: Malmö
+  country: Sverige
+  latitude: 55.550507
+  longitude: 12.995045
+
+- location: Rusta Malmö - Jägersro, Handelsgatan 1
+  urn: urn:rusta:store:id:2713
+  city: Malmö
+  country: Sverige
+  latitude: 55.569473
+  longitude: 13.054802
+
+- location: Rusta Burlöv, Hantverkaregatan 32
+  urn: urn:rusta:store:id:2681
+  city: Arlöv
+  country: Sverige
+  latitude: 55.64223
+  longitude: 13.083496
+
+- location: Rusta Trelleborg, Hedvägen 203
+  urn: urn:rusta:store:id:4037
+  city: Trelleborg
+  country: Sweden
+  latitude: 55.384046
+  longitude: 13.120787
+
+- location: Rusta Lund, Avtalsvägen 3
+  urn: urn:rusta:store:id:2712
+  city: Lund
+  country: Sverige
+  latitude: 55.71329
+  longitude: 13.15325
+
+- location: Rusta Lidköping, Rörstrandsgatan 5
+  urn: urn:rusta:store:id:2708
+  city: Lidköping
+  country: Sweden
+  latitude: 58.492508
+  longitude: 13.184288
+
+- location: Rusta Eslöv, Fallskärmsgatan 7
+  urn: urn:rusta:store:id:157627
+  city: Eslöv
+  country: Sverige
+  latitude: 55.844565
+  longitude: 13.328663
+
+- location: Rusta Karlstad, Ramgatan 4
+  urn: urn:rusta:store:id:2702
+  city: Karlstad
+  country: Sverige
+  latitude: 59.387312
+  longitude: 13.4819
+
+- location: Rusta Gislaved, Smålandiagatan
+  urn: urn:rusta:store:id:2686
+  city: Gislaved
+  country: Sverige
+  latitude: 57.321296
+  longitude: 13.546673
+
+- location: Rusta Falköping, Agnestadsgatan 6
+  urn: urn:rusta:store:id:99658
+  city: Falköping
+  country: Sverige
+  latitude: 58.150834
+  longitude: 13.564675
+
+- location: Rusta Hässleholm, Hövdingegatan 31
+  urn: urn:rusta:store:id:2698
+  city: Hässleholm
+  country: Sverige
+  latitude: 56.14896
+  longitude: 13.780653
+
+- location: Rusta Ystad, Sven Grathes väg 2
+  urn: urn:rusta:store:id:2755
+  city: Ystad
+  country: Sverige
+  latitude: 55.435886
+  longitude: 13.796761
+
+- location: Rusta Mariestad, Storegårdsvägen 62
+  urn: urn:rusta:store:id:144735
+  city: Mariestad
+  country: Sweden
+  latitude: 58.679744
+  longitude: 13.816342
+
+- location: Rusta Skövde, Norra Metallvägen 8
+  urn: urn:rusta:store:id:2726
+  city: Skövde
+  country: Sverige
+  latitude: 58.411802
+  longitude: 13.877319
+
+- location: Rusta Ljungby, Nyponvägen 6
+  urn: urn:rusta:store:id:125548
+  city: Ljungby
+  country: Sverige
+  latitude: 56.811061
+  longitude: 13.907774
+
+- location: Rusta Värnamo, Ringvägen 59E
+  urn: urn:rusta:store:id:2750
+  city: Värnamo
+  country: Sverige
+  latitude: 57.1752
+  longitude: 14.059294
+
+- location: Rusta Kristinehamn, Albinvägen 3
+  urn: urn:rusta:store:id:125551
+  city: Kristinehamn
+  country: Sverige
+  latitude: 59.311286
+  longitude: 14.099817
+
+- location: Rusta Kristianstad, Jochums väg 8
+  urn: urn:rusta:store:id:2706
+  city: Kristianstad
+  country: Sverige
+  latitude: 56.024067
+  longitude: 14.11865
+
+- location: Rusta Jönköping, Solåsvägen 4
+  urn: urn:rusta:store:id:2699
+  city: Jönköping
+  country: Sverige
+  latitude: 57.760466
+  longitude: 14.171182
+
+- location: Rusta Karlskoga, Skogsbovägen 10
+  urn: urn:rusta:store:id:4371
+  city: Karlskoga
+  country: Sweden
+  latitude: 59.300748
+  longitude: 14.49537
+
+- location: Rusta Mora, Skålmyrsvägen 48
+  urn: urn:rusta:store:id:2715
+  city: Mora
+  country: Sverige
+  latitude: 61.007502
+  longitude: 14.594299
+
+- location: Rusta Östersund, Chaufförvägen 27
+  urn: urn:rusta:store:id:2760
+  city: Östersund
+  country: Sweden
+  latitude: 63.17329
+  longitude: 14.694526
+
+- location: Rusta Nässjö, Bäckgatan 4
+  urn: urn:rusta:store:id:2721
+  city: Nässjö
+  country: Sverige
+  latitude: 57.64779
+  longitude: 14.696935
+
+- location: Rusta Växjö, Handelsvägen 1
+  urn: urn:rusta:store:id:2754
+  city: Växjö
+  country: Sverige
+  latitude: 56.881213
+  longitude: 14.764064
+
+- location: Rusta Karlshamn, ICA Maxi Janneberg
+  urn: urn:rusta:store:id:65874
+  city: Asarum
+  country: Sweden
+  latitude: 56.195284
+  longitude: 14.84483
+
+- location: Rusta Motala, Mineralvägen 14
+  urn: urn:rusta:store:id:2716
+  city: Motala
+  country: Sverige
+  latitude: 58.557044
+  longitude: 15.045548
+
+- location: Rusta Vetlanda, Tjärdalsvägen 4
+  urn: urn:rusta:store:id:4324
+  city: Vetlanda
+  country: Sverige
+  latitude: 57.42746
+  longitude: 15.08533
+
+- location: Rusta Mjölby, Fridhemsgatan 4
+  urn: urn:rusta:store:id:99666
+  city: Mjölby
+  country: Sverige
+  latitude: 58.332182
+  longitude: 15.115567
+
+- location: Rusta Örebro - Marieberg, Firmavägen 2D
+  urn: urn:rusta:store:id:2758
+  city: Örebro
+  country: Sweden
+  latitude: 59.211015
+  longitude: 15.139831
+
+- location: Rusta Ludvika, Granitvägen 8
+  urn: urn:rusta:store:id:2710
+  city: Ludvika
+  country: Sverige
+  latitude: 60.136863
+  longitude: 15.157206
+
+- location: Rusta Örebro - Eurostop, Prologgatan 2
+  urn: urn:rusta:store:id:2757
+  city: Örebro
+  country: Sweden
+  latitude: 59.295928
+  longitude: 15.197817
+
+- location: Rusta Ronneby, Fabriksvägen 3
+  urn: urn:rusta:store:id:157629
+  city: Kallinge
+  country: Sverige
+  latitude: 56.241085
+  longitude: 15.272734
+
+- location: Rusta Borlänge, Norra Backagatan
+  urn: urn:rusta:store:id:2679
+  city: Borlänge
+  country: Sverige
+  latitude: 60.478727
+  longitude: 15.418871
+
+- location: Rusta Linköping, Roxviksgatan 9
+  urn: urn:rusta:store:id:2709
+  city: Linköping
+  country: Sverige
+  latitude: 58.431636
+  longitude: 15.595283
+
+- location: Rusta Karlskrona, Stationsvägen 25
+  urn: urn:rusta:store:id:2701
+  city: Lyckeby
+  country: Sverige
+  latitude: 56.196841
+  longitude: 15.648381
+
+- location: Rusta Falun , Trossvägen
+  urn: urn:rusta:store:id:2685
+  city: Falun
+  country: Sverige
+  latitude: 60.604558
+  longitude: 15.66654
+
+- location: Rusta Norrköping, Kromgatan 2
+  urn: urn:rusta:store:id:2718
+  city: Norrköping
+  country: Sverige
+  latitude: 58.611273
+  longitude: 16.163174
+
+- location: Rusta Avesta, Get Johannas väg
+  urn: urn:rusta:store:id:2676
+  city: Avesta
+  country: Sverige
+  latitude: 60.157003
+  longitude: 16.197802
+
+- location: Rusta Norrköping - Mirum, Timmermansgatan 56
+  urn: urn:rusta:store:id:4036
+  city: Norrköping
+  country: Sweden
+  latitude: 58.5724
+  longitude: 16.210313
+
+- location: Rusta Katrineholm, Starrvägen 17
+  urn: urn:rusta:store:id:2703
+  city: Katrineholm
+  country: Sverige
+  latitude: 59.002957
+  longitude: 16.225502
+
+- location: Rusta Kalmar, Bilbyggarvägen 12F
+  urn: urn:rusta:store:id:2700
+  city: Kalmar
+  country: Sverige
+  latitude: 56.695897
+  longitude: 16.312398
+
+- location: Rusta Bollnäs, Norrlandsvägen 90
+  urn: urn:rusta:store:id:2678
+  city: Bollnäs
+  country: Sverige
+  latitude: 61.368857
+  longitude: 16.391276
+
+- location: Rusta Eskilstuna, Folkestaleden 40
+  urn: urn:rusta:store:id:2684
+  city: Eskilstuna
+  country: Sverige
+  latitude: 59.401876
+  longitude: 16.426013
+
+- location: Rusta Oskarshamn, Hyvelgatan 6
+  urn: urn:rusta:store:id:45401
+  city: Oskarshamn
+  country: Sweden
+  latitude: 57.262922
+  longitude: 16.428192
+
+- location: Rusta Västerås - Erikslund, Hallsta Gårdsgata 11
+  urn: urn:rusta:store:id:2752
+  city: Västerås
+  country: Sverige
+  latitude: 59.611251
+  longitude: 16.459293
+
+- location: Rusta Västervik, Ljunghedsvägen 7
+  urn: urn:rusta:store:id:2751
+  city: Västervik
+  country: Sverige
+  latitude: 57.769126
+  longitude: 16.595645
+
+- location: Rusta Västerås - Hälla, Stockholmsvägen 136
+  urn: urn:rusta:store:id:2753
+  city: Västerås
+  country: Sweden
+  latitude: 59.608581
+  longitude: 16.619695
+
+- location: Rusta Sandviken, Linggatan 18
+  urn: urn:rusta:store:id:2724
+  city: Sandviken
+  country: Sverige
+  latitude: 60.624768
+  longitude: 16.774107
+
+- location: Rusta Gävle - Valbo, Valbovägen 309
+  urn: urn:rusta:store:id:3826
+  city: Valbo
+  country: Sverige
+  latitude: 60.633602
+  longitude: 16.99453
+
+- location: Rusta Nyköping, Stenbocksvägen 32
+  urn: urn:rusta:store:id:2720
+  city: Nyköping
+  country: Sverige
+  latitude: 58.771566
+  longitude: 17.014626
+
+- location: Rusta Söderhamn, Stickvägen 9
+  urn: urn:rusta:store:id:111862
+  city: Söderhamn
+  country: Sverige
+  latitude: 61.295568
+  longitude: 17.018825
+
+- location: Rusta Strängnäs, Fjädervägen 4
+  urn: urn:rusta:store:id:2737
+  city: Strängnäs
+  country: Sverige
+  latitude: 59.339597
+  longitude: 17.031279
+
+- location: Rusta Hudiksvall, Hudiksvall Medskog
+  urn: urn:rusta:store:id:33652
+  city: Hudiksvall
+  country: Sweden
+  latitude: 61.714375
+  longitude: 17.042671
+
+- location: Rusta Enköping, Romgatan 1
+  urn: urn:rusta:store:id:2683
+  city: Enköping
+  country: Sverige
+  latitude: 59.652453
+  longitude: 17.081544
+
+- location: Rusta Gävle - Hemlingby, Geodetgatan
+  urn: urn:rusta:store:id:2688
+  city: Gävle
+  country: Sverige
+  latitude: 60.640232
+  longitude: 17.143869
+
+- location: Rusta Sundsvall, Gesällvägen 8
+  urn: urn:rusta:store:id:2739
+  city: Sundsvall
+  country: Sverige
+  latitude: 62.444818
+  longitude: 17.331402
+
+- location: Rusta Uppsala - Stenhagen, Murstensvägen 4
+  urn: urn:rusta:store:id:2747
+  city: Uppsala
+  country: Sverige
+  latitude: 59.849714
+  longitude: 17.561909
+
+- location: Rusta Södertälje - Vasa, Genetaleden 7
+  urn: urn:rusta:store:id:125550
+  city: Södertälje
+  country: Sverige
+  latitude: 59.186375
+  longitude: 17.574931
+
+- location: Rusta Södertälje, Klastorpsvägen 12
+  urn: urn:rusta:store:id:2740
+  city: Södertälje
+  country: Sverige
+  latitude: 59.202328
+  longitude: 17.662748
+
+- location: Rusta Gränby, Takpannegatan 21
+  urn: urn:rusta:store:id:53424
+  city: Uppsala
+  country: Sweden
+  latitude: 59.885894
+  longitude: 17.6725
+
+- location: Rusta Uppsala - Boländerna, Rapsgatan 1
+  urn: urn:rusta:store:id:2746
+  city: Uppsala
+  country: Sverige
+  latitude: 59.844047
+  longitude: 17.690267
+
+- location: Rusta Märsta, Valstavägen 4
+  urn: urn:rusta:store:id:144733
+  city: Märsta
+  country: Sweden
+  latitude: 59.615786
+  longitude: 17.829404
+
+- location: Rusta Stockholm - Botkyrka, Segersbyvägen 15
+  urn: urn:rusta:store:id:2729
+  city: Norsborg
+  country: Sverige
+  latitude: 59.236467
+  longitude: 17.835216
+
+- location: Rusta Stockholm - Barkarby, Herrestavägen 9
+  urn: urn:rusta:store:id:2728
+  city: Järfälla
+  country: Sverige
+  latitude: 59.414751
+  longitude: 17.860023
+
+- location: Rusta Stockholm - Kungens Kurva, Geometrivägen 1B
+  urn: urn:rusta:store:id:2732
+  city: Kungens Kurva
+  country: Sweden
+  latitude: 59.269335
+  longitude: 17.923205
+
+- location: Rusta Stockholm - Infra City, Kanalvägen 1
+  urn: urn:rusta:store:id:2731
+  city: Upplands Väsby
+  country: Sverige
+  latitude: 59.497096
+  longitude: 17.924564
+
+- location: Rusta Stockholm - Kista, Kista Galleria
+  urn: urn:rusta:store:id:99657
+  city: Kista
+  country: Sverige
+  latitude: 59.402792
+  longitude: 17.94425
+
+- location: Rusta Stockholm - Bromma, Ulvsundavägen 193
+  urn: urn:rusta:store:id:2730
+  city: Bromma
+  country: Sverige
+  latitude: 59.357987
+  longitude: 17.947905
+
+- location: Rusta Solna, SOLNA TORG 39
+  urn: urn:rusta:store:id:32521
+  city: Solna
+  country: Sweden
+  latitude: 59.358984
+  longitude: 18.001734
+
+- location: Rusta Stockholm - Västberga, Västbergavägen 4
+  urn: urn:rusta:store:id:2736
+  city: Hägersten
+  country: Sverige
+  latitude: 59.29444
+  longitude: 18.003937
+
+- location: Rusta Täby, Stora Marknadsvägen 15
+  urn: urn:rusta:store:id:45400
+  city: Täby
+  country: Sweden
+  latitude: 59.445102
+  longitude: 18.071694
+
+- location: Rusta Stockholm - Länna, Truckvägen 7
+  urn: urn:rusta:store:id:2733
+  city: Skogås
+  country: Sverige
+  latitude: 59.197848
+  longitude: 18.128719
+
+- location: Rusta Stockholm - Arninge, Kundvägen 1
+  urn: urn:rusta:store:id:2727
+  city: Täby
+  country: Sverige
+  latitude: 59.463504
+  longitude: 18.133772
+
+- location: Rusta Stockholm - Nacka, Per Hallströms väg 7
+  urn: urn:rusta:store:id:2734
+  city: Nacka
+  country: Sverige
+  latitude: 59.310837
+  longitude: 18.175649
+
+- location: Rusta Åkersberga, Korsgärdesvägen 1
+  urn: urn:rusta:store:id:39136
+  city: Åkersberga
+  country: Sweden
+  latitude: 59.488003
+  longitude: 18.277419
+
+- location: Rusta Visby, Skarphällsgatan 2
+  urn: urn:rusta:store:id:2749
+  city: Visby
+  country: Sweden
+  latitude: 57.633223
+  longitude: 18.326614
+
+- location: Rusta Stockholm - Värmdö, ORIONS VÄG 6
+  urn: urn:rusta:store:id:2735
+  city: Gustavsberg
+  country: Sverige
+  latitude: 59.31234
+  longitude: 18.420983
+
+- location: Rusta Norrtälje, Baldersgatan 27
+  urn: urn:rusta:store:id:2719
+  city: Norrtälje
+  country: Sverige
+  latitude: 59.767996
+  longitude: 18.696067
+
+- location: Rusta Örnsköldsvik, Terminalvägen 3
+  urn: urn:rusta:store:id:2759
+  city: Örnsköldsvik
+  country: Sverige
+  latitude: 63.305109
+  longitude: 18.745218
+
+- location: Rusta Kiruna, Österleden 18
+  urn: urn:rusta:store:id:2704
+  city: Kiruna
+  country: Sverige
+  latitude: 67.843003
+  longitude: 20.26104
+
+- location: Rusta Skellefteå, Varugatan 16
+  urn: urn:rusta:store:id:2725
+  city: Skellefteå
+  country: Sverige
+  latitude: 64.764542
+  longitude: 21.022707
+
+- location: Rusta Piteå, Fläktgatan 9
+  urn: urn:rusta:store:id:2723
+  city: Piteå
+  country: Sverige
+  latitude: 65.322671
+  longitude: 21.444131
+
+- location: Rusta Luleå, Storhedsvägen 8
+  urn: urn:rusta:store:id:2711
+  city: Luleå
+  country: Sverige
+  latitude: 65.616688
+  longitude: 22.045297
+
+- location: Rusta Haparanda, Lillgatan 4
+  urn: urn:rusta:store:id:2696
+  city: Haparanda
+  country: Sverige
+  latitude: 65.840833
+  longitude: 24.125337

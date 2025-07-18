@@ -1,0 +1,308 @@
+meta:
+  name: Brothers
+  web: https://www.brothers.se/
+  wikipedia: https://sv.wikipedia.org/wiki/Brothers_(f%C3%B6retag)
+  category: Kläder och konfektion
+  locations: 43
+
+locations:
+- location: Brothers Turku
+  urn: urn:brothers:store:id:753
+  city: Turku
+  country: Finland
+  latitude: 0.0
+  longitude: 0.0
+
+- location: Brothers Torp
+  urn: urn:brothers:store:id:542
+  city: Uddevalla
+  country: Sverige
+  latitude: 58.34471
+  longitude: 11.865593
+
+- location: Brothers Göteborg Frölunda Torg
+  urn: urn:brothers:store:id:521
+  city: Västra frölunda
+  country: Sverige
+  latitude: 57.651757
+  longitude: 11.912231
+
+- location: Brothers Göteborg Nordstan
+  urn: urn:brothers:store:id:552
+  city: Göteborg
+  country: Sverige
+  latitude: 57.70887
+  longitude: 11.97456
+
+- location: Brothers Kungsbacka
+  urn: urn:brothers:store:id:560
+  city: Kungsbacka
+  country: Sverige
+  latitude: 57.491509
+  longitude: 12.075021
+
+- location: Brothers Göteborg Allum
+  urn: urn:brothers:store:id:596
+  city: Partille
+  country: Sverige
+  latitude: 57.73728
+  longitude: 12.106236
+
+- location: Brothers Varberg
+  urn: urn:brothers:store:id:548
+  city: Varberg
+  country: Sverige
+  latitude: 57.105387
+  longitude: 12.253046
+
+- location: Brothers Väla
+  urn: urn:brothers:store:id:540
+  city: Ödåkra-Väla
+  country: Sverige
+  latitude: 56.091698
+  longitude: 12.757103
+
+- location: Nowaste Lager - Brothers
+  urn: urn:brothers:store:id:549
+  city: Helsingborg
+  country: Sverige
+  latitude: 56.071325
+  longitude: 12.78494
+
+- location: Brothers Halmstad Hallarna
+  urn: urn:brothers:store:id:595
+  city: Halmstad
+  country: Sverige
+  latitude: 56.655335
+  longitude: 12.911448
+
+- location: Brothers Borås Knalleland
+  urn: urn:brothers:store:id:556
+  city: Borås
+  country: Sverige
+  latitude: 57.734808
+  longitude: 12.942754
+
+- location: Brothers Malmö Triangeln
+  urn: urn:brothers:store:id:519
+  city: Malmö
+  country: Sverige
+  latitude: 55.595809
+  longitude: 13.002464
+
+- location: Brothers Malmö Emporia
+  urn: urn:brothers:store:id:589
+  city: Malmö
+  country: Sverige
+  latitude: 55.604981
+  longitude: 13.003822
+
+- location: Brothers Nova Lund
+  urn: urn:brothers:store:id:563
+  city: Lund
+  country: Sverige
+  latitude: 55.71394
+  longitude: 13.159958
+
+- location: Brothers Karlstad
+  urn: urn:brothers:store:id:511
+  city: Karlstad
+  country: Sverige
+  latitude: 59.380112
+  longitude: 13.499571
+
+- location: Brothers Skövde
+  urn: urn:brothers:store:id:517
+  city: Skövde
+  country: Sverige
+  latitude: 58.389996
+  longitude: 13.844999
+
+- location: Brothers C4 Kristianstad
+  urn: urn:brothers:store:id:562
+  city: Kristianstad
+  country: Sverige
+  latitude: 56.02343
+  longitude: 14.197108
+
+- location: Brothers Jönköping Asecs
+  urn: urn:brothers:store:id:505
+  city: Jönköping
+  country: Sverige
+  latitude: 57.774485
+  longitude: 14.203979
+
+- location: Brothers Växjö
+  urn: urn:brothers:store:id:543
+  city: Växjö
+  country: Sverige
+  latitude: 56.878667
+  longitude: 14.802621
+
+- location: Brothers Örebro Marieberg
+  urn: urn:brothers:store:id:590
+  city: Örebro
+  country: Sverige
+  latitude: 59.215935
+  longitude: 15.139579
+
+- location: Brothers Borlänge Kupolen
+  urn: urn:brothers:store:id:576
+  city: Borlänge
+  country: Sverige
+  latitude: 60.484166
+  longitude: 15.417971
+
+- location: Brothers Linköping Ikea
+  urn: urn:brothers:store:id:533
+  city: Linköping
+  country: Sverige
+  latitude: 58.43236
+  longitude: 15.587852
+
+- location: Brothers Linköping Gränden
+  urn: urn:brothers:store:id:526
+  city: Linköping
+  country: Sverige
+  latitude: 58.410072
+  longitude: 15.62662
+
+- location: Brothers Falun
+  urn: urn:brothers:store:id:574
+  city: Falun
+  country: Sverige
+  latitude: 60.606067
+  longitude: 15.630955
+
+- location: Brothers Norrköping
+  urn: urn:brothers:store:id:513
+  city: Norrköping
+  country: Sverige
+  latitude: 58.588573
+  longitude: 16.190573
+
+- location: Brothers Erikslund
+  urn: urn:brothers:store:id:592
+  city: Västerås
+  country: Sverige
+  latitude: 59.611362
+  longitude: 16.462396
+
+- location: Brothers Eskilstuna Tuna Park
+  urn: urn:brothers:store:id:597
+  city: Eskilstuna
+  country: Sverige
+  latitude: 59.372017
+  longitude: 16.469067
+
+- location: Brothers Västerås
+  urn: urn:brothers:store:id:510
+  city: Västerås
+  country: Sverige
+  latitude: 59.611817
+  longitude: 16.544552
+
+- location: Brothers Sundsvall Birsta
+  urn: urn:brothers:store:id:567
+  city: Sundsvall
+  country: Sverige
+  latitude: 62.447125
+  longitude: 17.335877
+
+- location: Brothers Södertälje
+  urn: urn:brothers:store:id:536
+  city: Södertälje
+  country: Sverige
+  latitude: 59.195841
+  longitude: 17.626597
+
+- location: Brothers Uppsala
+  urn: urn:brothers:store:id:501
+  city: Uppsala
+  country: Sverige
+  latitude: 59.8591
+  longitude: 17.638278
+
+- location: Brothers Gränby
+  urn: urn:brothers:store:id:584
+  city: Uppsala
+  country: Sverige
+  latitude: 59.877328
+  longitude: 17.671632
+
+- location: Brothers Mall of Scandinavia
+  urn: urn:brothers:store:id:565
+  city: Solna
+  country: Sverige
+  latitude: 59.370034
+  longitude: 18.003612
+
+- location: Brothers Stockholm Liljeholmen
+  urn: urn:brothers:store:id:581
+  city: Stockholm
+  country: Sverige
+  latitude: 59.308606
+  longitude: 18.021402
+
+- location: Brothers Stockholm Drottninggatan
+  urn: urn:brothers:store:id:532
+  city: Stockholm
+  country: Sverige
+  latitude: 59.333305
+  longitude: 18.061852
+
+- location: Brothers Täby
+  urn: urn:brothers:store:id:555
+  city: Täby
+  country: Sverige
+  latitude: 59.442097
+  longitude: 18.06646
+
+- location: Brothers Gallerian
+  urn: urn:brothers:store:id:571
+  city: Stockholm
+  country: Sverige
+  latitude: 59.33122
+  longitude: 18.067468
+
+- location: Brothers Stockholm Ringen
+  urn: urn:brothers:store:id:534
+  city: Stockholm
+  country: Sverige
+  latitude: 59.307575
+  longitude: 18.07435
+
+- location: Brothers Stockholm Fältöversten
+  urn: urn:brothers:store:id:545
+  city: Stockholm
+  country: Sverige
+  latitude: 59.338177
+  longitude: 18.092934
+
+- location: Brothers Sickla
+  urn: urn:brothers:store:id:569
+  city: Nacka
+  country: Sverige
+  latitude: 59.306035
+  longitude: 18.124495
+
+- location: Brothers Farsta
+  urn: urn:brothers:store:id:551
+  city: Farsta
+  country: Sverige
+  latitude: 59.205835
+  longitude: 18.146909
+
+- location: Brothers Nacka
+  urn: urn:brothers:store:id:575
+  city: Nacka
+  country: Sverige
+  latitude: 59.310845
+  longitude: 18.16404
+
+- location: Brothers Umeå
+  urn: urn:brothers:store:id:539
+  city: Umeå
+  country: Sverige
+  latitude: 63.805493
+  longitude: 20.254734

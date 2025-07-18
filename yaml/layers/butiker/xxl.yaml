@@ -1,0 +1,217 @@
+meta:
+  name: XXL
+  web: https://www.xxl.se/
+  wikipedia: https://sv.wikipedia.org/wiki/XXL_(detaljhandelskedja)
+  category: Sport och Fritid
+  locations: 30
+
+locations:
+- location: XXL Sisjön
+  city: Askim
+  country: Sverige
+  urn: urn:xxl:store:id:503
+  latitude: 57.640161
+  longitude: 11.952838
+
+- location: XXL Bäckebol
+  city: Hisings Backa
+  country: Sverige
+  urn: urn:xxl:store:id:504
+  latitude: 57.74413
+  longitude: 11.98107
+
+- location: XXL Charlottenberg
+  city: Charlottenberg
+  country: Sverige
+  urn: urn:xxl:store:id:530
+  latitude: 59.880284
+  longitude: 12.291487
+
+- location: XXL Väla Centrum
+  city: Ödåkra
+  country: Sverige
+  urn: urn:xxl:store:id:515
+  latitude: 56.09405
+  longitude: 12.764667
+
+- location: XXL Halmstad
+  city: Halmstad
+  country: Sverige
+  urn: urn:xxl:store:id:524
+  latitude: 56.656706
+  longitude: 12.909442
+
+- location: XXL Emporia (Plan 3)
+  city: Malmö
+  country: Sverige
+  urn: urn:xxl:store:id:526
+  latitude: 55.564576
+  longitude: 12.973276
+
+- location: XXL Triangeln (Plan 2)
+  city: Malmö
+  country: Sverige
+  urn: urn:xxl:store:id:525
+  latitude: 55.595191
+  longitude: 13.001138
+
+- location: XXL Välsviken
+  city: Karlstad
+  country: Sverige
+  urn: urn:xxl:store:id:514
+  latitude: 59.396243
+  longitude: 13.58037
+
+- location: XXL Jönköping
+  city: Jönköping
+  country: Sverige
+  urn: urn:xxl:store:id:510
+  latitude: 57.760466
+  longitude: 14.171183
+
+- location: XXL Östersund
+  city: Östersund
+  country: Sverige
+  urn: urn:xxl:store:id:520
+  latitude: 63.173002
+  longitude: 14.689101
+
+- location: XXL Växjö
+  city: Växjö
+  country: Sverige
+  urn: urn:xxl:store:id:521
+  latitude: 56.880777
+  longitude: 14.764793
+
+- location: XXL Marieberg
+  city: Örebro
+  country: Sverige
+  urn: urn:xxl:store:id:505
+  latitude: 59.219284
+  longitude: 15.14237
+
+- location: XXL Kupolen
+  city: Borlänge
+  country: Sverige
+  urn: urn:xxl:store:id:528
+  latitude: 60.484317
+  longitude: 15.418079
+
+- location: XXL Linköping
+  city: Linköping
+  country: Sverige
+  urn: urn:xxl:store:id:508
+  latitude: 58.434
+  longitude: 15.601994
+
+- location: XXL Ingelsta
+  city: Norrköping
+  country: Sverige
+  urn: urn:xxl:store:id:513
+  latitude: 58.622247
+  longitude: 16.1541
+
+- location: XXL Kalmar
+  city: Kalmar
+  country: Sverige
+  urn: urn:xxl:store:id:522
+  latitude: 56.69072
+  longitude: 16.31676
+
+- location: XXL Erikslund
+  city: Västerås
+  country: Sverige
+  urn: urn:xxl:store:id:512
+  latitude: 59.611843
+  longitude: 16.4578
+
+- location: XXL Valbo Köpstad
+  city: Gävle
+  country: Sverige
+  urn: urn:xxl:store:id:518
+  latitude: 60.63403
+  longitude: 16.988882
+
+- location: XXL Sundsvall
+  city: Sundsvall
+  country: Sverige
+  urn: urn:xxl:store:id:509
+  latitude: 62.440835
+  longitude: 17.341749
+
+- location: XXL Uppsala
+  city: Uppsala
+  country: Sverige
+  urn: urn:xxl:store:id:506
+  latitude: 59.845467
+  longitude: 17.693974
+
+- location: XXL Barkarby
+  city: Järfälla
+  country: Sverige
+  urn: urn:xxl:store:id:516
+  latitude: 59.412361
+  longitude: 17.86129
+
+- location: XXL Heron City - Kungens Kurva
+  city: Kungens Kurva
+  country: Sverige
+  urn: urn:xxl:store:id:507
+  latitude: 59.267155
+  longitude: 17.908879
+
+- location: XXL Bromma Blocks
+  city: Bromma
+  country: Sverige
+  urn: urn:xxl:store:id:501
+  latitude: 59.356547
+  longitude: 17.952213
+
+- location: XXL City
+  city: Stockholm
+  country: Sverige
+  urn: urn:xxl:store:id:511
+  latitude: 59.33258
+  longitude: 18.069337
+
+- location: XXL Sickla köpkvarter
+  city: Nacka
+  country: Sverige
+  urn: urn:xxl:store:id:527
+  latitude: 59.306166
+  longitude: 18.124473
+
+- location: XXL Länna Handelsplats
+  city: Skogås
+  country: Sverige
+  urn: urn:xxl:store:id:523
+  latitude: 59.196988
+  longitude: 18.125025
+
+- location: XXL Arninge
+  city: Täby
+  country: Sverige
+  urn: urn:xxl:store:id:502
+  latitude: 59.460866
+  longitude: 18.138008
+
+- location: XXL Umeå
+  city: Umeå
+  country: Sverige
+  urn: urn:xxl:store:id:519
+  latitude: 63.854282
+  longitude: 20.301267
+
+- location: XXL Skellefteå
+  city: Skellefteå
+  country: Sverige
+  urn: urn:xxl:store:id:529
+  latitude: 64.765734
+  longitude: 21.017361
+
+- location: XXL Storheden
+  city: Luleå
+  country: Sverige
+  urn: urn:xxl:store:id:517
+  latitude: 65.61659
+  longitude: 22.043771

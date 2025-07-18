@@ -1,0 +1,175 @@
+meta:
+  name: Power
+  web: https://www.power.se/
+  wikipedia: null
+  category: Hemelektronik
+  locations: null
+
+locations:
+- location: POWER Högsbo
+  city: Göteborg
+  urn:powerse:storeid:7150
+  latitude: 57.650813
+  longitude: 11.946813
+
+- location: POWER Bäckebol
+  city: Göteborg
+  urn:powerse:storeid:7151
+  latitude: 57.770063
+  longitude: 12.000438
+
+- location: POWER Torpavallen
+  city: Göteborg
+  urn:powerse:storeid:7152
+  latitude: 57.724438
+  longitude: 12.030687
+
+- location: POWER Helsingborg Väla
+  city: Helsingborg
+  urn:powerse:storeid:7147
+  latitude: 56.094062
+  longitude: 12.762187
+
+- location: POWER Borås
+  city: Borås
+  urn:powerse:storeid:7156
+  latitude: 57.731562
+  longitude: 12.931938
+
+- location: POWER Malmö
+  city: Malmö
+  urn:powerse:storeid:7140
+  latitude: 55.550562
+  longitude: 12.985062
+
+- location: POWER Lund
+  city: Lund
+  urn:powerse:storeid:7145
+  latitude: 55.714312
+  longitude: 13.152938
+
+- location: POWER Skövde
+  city: Skövde
+  urn:powerse:storeid:7155
+  latitude: 58.410812
+  longitude: 13.878563
+
+- location: POWER Kristianstad
+  city: Kristianstad
+  urn:powerse:storeid:7146
+  latitude: 56.021062
+  longitude: 14.114562
+
+- location: POWER Jönköping
+  city: Jönköping
+  urn:powerse:storeid:7125
+  latitude: 57.760438
+  longitude: 14.172937
+
+- location: POWER Växjö
+  city: Växjö
+  urn:powerse:storeid:7130
+  latitude: 56.878062
+  longitude: 14.770437
+
+- location: POWER Örebro
+  city: Örebro
+  urn:powerse:storeid:7165
+  latitude: 59.219437
+  longitude: 15.142437
+
+- location: POWER Linköping
+  city: Linköping
+  urn:powerse:storeid:7121
+  latitude: 58.431687
+  longitude: 15.596937
+
+- location: POWER Norrköping
+  city: Norrköping
+  urn:powerse:storeid:7120
+  latitude: 58.622062
+  longitude: 16.157063
+
+- location: POWER Kalmar
+  city: Kalmar
+  urn:powerse:storeid:7135
+  latitude: 56.682313
+  longitude: 16.317312
+
+- location: POWER Västerås
+  city: Västerås
+  urn:powerse:storeid:7170
+  latitude: 59.613062
+  longitude: 16.458438
+
+- location: POWER Eskilstuna
+  city: Eskilstuna
+  urn:powerse:storeid:7115
+  latitude: 59.374063
+  longitude: 16.467562
+
+- location: POWER Gävle
+  city: Valbo
+  urn:powerse:storeid:7180
+  latitude: 60.627187
+  longitude: 16.989937
+
+- location: POWER Sundsvall
+  city: Sundsvall
+  urn:powerse:storeid:7185
+  latitude: 62.440188
+  longitude: 17.334562
+
+- location: POWER Uppsala
+  city: Uppsala
+  urn:powerse:storeid:7110
+  latitude: 59.854563
+  longitude: 17.683188
+
+- location: POWER Barkarby
+  city: Järfälla
+  urn:powerse:storeid:7102
+  latitude: 59.413062
+  longitude: 17.857813
+
+- location: POWER Heron City
+  city: Kungens Kurva
+  urn:powerse:storeid:7101
+  latitude: 59.267187
+  longitude: 17.909188
+
+- location: POWER Mall of Scandinavia
+  city: Solna
+  urn:powerse:storeid:7107
+  latitude: 59.370812
+  longitude: 18.001312
+
+- location: POWER Täby
+  city: Täby
+  urn:powerse:storeid:7106
+  latitude: 59.444812
+  longitude: 18.069812
+
+- location: POWER Länna
+  city: Skogås
+  urn:powerse:storeid:7105
+  latitude: 59.197312
+  longitude: 18.126312
+
+- location: POWER Nacka
+  city: Nacka
+  urn:powerse:storeid:7103
+  latitude: 59.309812
+  longitude: 18.163812
+
+- location: POWER Umeå
+  city: Umeå
+  urn:powerse:storeid:7190
+  latitude: 63.847437
+  longitude: 20.156062
+
+- location: POWER Luleå
+  city: Luleå
+  urn:powerse:storeid:7195
+  latitude: 65.616812
+  longitude: 22.054688

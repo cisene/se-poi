@@ -1,0 +1,42 @@
+meta:
+  name: Lager 157 Norge
+  web: https://www.lager157.com/
+  wikipedia: https://sv.wikipedia.org/wiki/Lager_157
+  category: Kläder och konfektion
+  locations: 5
+
+locations:
+- location: Lager 157 Sandnes, Bystasjonen
+  city: Sandnes
+  urn: urn:lager157:se:store:id:54
+  country: Norge
+  latitude: 58.8508
+  longitude: 5.7358
+
+- location: Lager 157 Kristiansand
+  city: Kristiansand
+  urn: urn:lager157:se:store:id:56
+  country: Norge
+  latitude: 58.1784
+  longitude: 8.1334
+
+- location: Lager 157 Skien
+  city: Skien
+  urn: urn:lager157:se:store:id:73
+  country: Norge
+  latitude: 59.1323
+  longitude: 9.6611
+
+- location: Lager 157 Oslo
+  city: Oslo
+  urn: urn:lager157:se:store:id:48
+  country: Norge
+  latitude: 59.9137
+  longitude: 10.7459
+
+- location: Lager 157 Fredrikstad
+  city: Fredrikstad
+  urn: urn:lager157:se:store:id:69
+  country: Norge
+  latitude: 59.2441
+  longitude: 10.9829

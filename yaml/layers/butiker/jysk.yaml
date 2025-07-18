@@ -1,0 +1,1099 @@
+meta:
+  name: JYSK
+  web: https://jysk.se/
+  wikipedia: https://sv.wikipedia.org/wiki/Jysk
+  category: Heminredning
+  locations: 156
+
+locations:
+- location: JYSK Strömstad
+  city: Strömstad
+  urn: urn:jysk:store:id:S735
+  country: Sverige
+  latitude: 58.936126
+  longitude: 11.1948
+
+- location: JYSK Stenungsund
+  city: Stenungsund
+  urn: urn:jysk:store:id:S701
+  country: Sverige
+  latitude: 58.073789
+  longitude: 11.822441
+
+- location: JYSK Uddevalla
+  city: Uddevalla
+  urn: urn:jysk:store:id:S632
+  country: Sverige
+  latitude: 58.353654
+  longitude: 11.824729
+
+- location: JYSK Frölunda
+  city: Göteborg
+  urn: urn:jysk:store:id:S612
+  country: Sverige
+  latitude: 57.650781
+  longitude: 11.946223
+
+- location: JYSK Backaplan
+  city: Göteborg
+  urn: urn:jysk:store:id:S644
+  country: Sverige
+  latitude: 57.723722
+  longitude: 11.955217
+
+- location: JYSK Bäckebol
+  city: Göteborg
+  urn: urn:jysk:store:id:S712
+  country: Sverige
+  latitude: 57.769382
+  longitude: 11.999117
+
+- location: JYSK Gamlestaden
+  city: Göteborg
+  urn: urn:jysk:store:id:S616
+  country: Sverige
+  latitude: 57.743958
+  longitude: 12.008525
+
+- location: JYSK Kållered
+  city: Göteborg
+  urn: urn:jysk:store:id:S618
+  country: Sverige
+  latitude: 57.607944
+  longitude: 12.04556
+
+- location: JYSK Kungsbacka
+  city: Kungsbacka
+  urn: urn:jysk:store:id:S695
+  country: Sverige
+  latitude: 57.513568
+  longitude: 12.07277
+
+- location: JYSK Älvängen
+  city: Älvängen
+  urn: urn:jysk:store:id:S655
+  country: Sverige
+  latitude: 57.949566
+  longitude: 12.099538
+
+- location: JYSK Partille
+  city: Göteborg
+  urn: urn:jysk:store:id:S716
+  country: Sverige
+  latitude: 57.739251
+  longitude: 12.130775
+
+- location: JYSK Varberg
+  city: Varberg
+  urn: urn:jysk:store:id:S623
+  country: Sverige
+  latitude: 57.124534
+  longitude: 12.259239
+
+- location: JYSK Trollhättan
+  city: Trollhättan
+  urn: urn:jysk:store:id:S684
+  country: Sverige
+  latitude: 58.3168
+  longitude: 12.300202
+
+- location: JYSK Falkenberg
+  city: Falkenberg
+  urn: urn:jysk:store:id:S700
+  country: Sverige
+  latitude: 56.908194
+  longitude: 12.461716
+
+- location: JYSK Alingsås
+  city: Alingsås
+  urn: urn:jysk:store:id:S676
+  country: Sverige
+  latitude: 57.94012
+  longitude: 12.526808
+
+- location: JYSK Höganäs
+  city: Höganäs
+  urn: urn:jysk:store:id:S691
+  country: Sverige
+  latitude: 56.213298
+  longitude: 12.555417
+
+- location: JYSK Arvika
+  city: Arvika
+  urn: urn:jysk:store:id:S678
+  country: Sverige
+  latitude: 59.655053
+  longitude: 12.589423
+
+- location: JYSK Skene
+  city: Skene
+  urn: urn:jysk:store:id:S709
+  country: Sverige
+  latitude: 57.492569
+  longitude: 12.629884
+
+- location: JYSK Åmål
+  city: Åmål
+  urn: urn:jysk:store:id:S641
+  country: Sverige
+  latitude: 59.044903
+  longitude: 12.681089
+
+- location: JYSK Hästhagsvägen
+  city: Helsingborg
+  urn: urn:jysk:store:id:S704
+  country: Sverige
+  latitude: 56.023265
+  longitude: 12.721959
+
+- location: JYSK Väla
+  city: Helsingborg
+  urn: urn:jysk:store:id:S696
+  country: Sverige
+  latitude: 56.092043
+  longitude: 12.750284
+
+- location: JYSK Flygstaden
+  city: Halmstad
+  urn: urn:jysk:store:id:S708
+  country: Sverige
+  latitude: 56.676725
+  longitude: 12.806653
+
+- location: JYSK Landskrona
+  city: Landskrona
+  urn: urn:jysk:store:id:S638
+  country: Sverige
+  latitude: 55.871117
+  longitude: 12.857878
+
+- location: JYSK Säffle
+  city: Säffle
+  urn: urn:jysk:store:id:S739
+  country: Sverige
+  latitude: 59.127445
+  longitude: 12.883249
+
+- location: JYSK Ängelholm
+  city: Ängelholm
+  urn: urn:jysk:store:id:S683
+  country: Sverige
+  latitude: 56.255274
+  longitude: 12.889065
+
+- location: JYSK Stenalyckan
+  city: Halmstad
+  urn: urn:jysk:store:id:S609
+  country: Sverige
+  latitude: 56.662141
+  longitude: 12.907749
+
+- location: JYSK Borås
+  city: Borås
+  urn: urn:jysk:store:id:S617
+  country: Sverige
+  latitude: 57.731962
+  longitude: 12.932652
+
+- location: JYSK Vara
+  city: Vara
+  urn: urn:jysk:store:id:S698
+  country: Sverige
+  latitude: 58.256561
+  longitude: 12.961664
+
+- location: JYSK Torsby
+  city: Torsby
+  urn: urn:jysk:store:id:S743
+  country: Sverige
+  latitude: 60.133207
+  longitude: 12.989251
+
+- location: JYSK Löddeköpinge
+  city: Löddeköpinge
+  urn: urn:jysk:store:id:S604
+  country: Sverige
+  latitude: 55.769625
+  longitude: 12.990326
+
+- location: JYSK Svågertorp
+  city: Malmö
+  urn: urn:jysk:store:id:S718
+  country: Sverige
+  latitude: 55.553348
+  longitude: 12.993559
+
+- location: JYSK Mobilia
+  city: Malmö
+  urn: urn:jysk:store:id:S601
+  country: Sverige
+  latitude: 55.583151
+  longitude: 13.005347
+
+- location: JYSK Laholm
+  city: Laholm
+  urn: urn:jysk:store:id:S758
+  country: Sverige
+  latitude: 56.498464
+  longitude: 13.005539
+
+- location: JYSK Jägersro
+  city: Malmö
+  urn: urn:jysk:store:id:S677
+  country: Sverige
+  latitude: 55.569371
+  longitude: 13.056746
+
+- location: JYSK St Bernstorp
+  city: Malmö
+  urn: urn:jysk:store:id:S730
+  country: Sverige
+  latitude: 55.612974
+  longitude: 13.101427
+
+- location: JYSK Trelleborg
+  city: Trelleborg
+  urn: urn:jysk:store:id:S682
+  country: Sverige
+  latitude: 55.383625
+  longitude: 13.121438
+
+- location: JYSK Sunne
+  city: Sunne
+  urn: urn:jysk:store:id:S615
+  country: Sverige
+  latitude: 59.836439
+  longitude: 13.128542
+
+- location: JYSK Lund
+  city: Lund
+  urn: urn:jysk:store:id:S608
+  country: Sverige
+  latitude: 55.715236
+  longitude: 13.156511
+
+- location: JYSK Lidköping
+  city: Lidköping
+  urn: urn:jysk:store:id:S643
+  country: Sverige
+  latitude: 58.496191
+  longitude: 13.182878
+
+- location: JYSK Staffanstorp
+  city: Staffanstorp
+  urn: urn:jysk:store:id:S741
+  country: Sverige
+  latitude: 55.644085
+  longitude: 13.233724
+
+- location: JYSK Eslöv
+  city: Eslöv
+  urn: urn:jysk:store:id:S654
+  country: Sverige
+  latitude: 55.843704
+  longitude: 13.330338
+
+- location: JYSK Ulricehamn
+  city: Ulricehamn
+  urn: urn:jysk:store:id:S723
+  country: Sverige
+  latitude: 57.805075
+  longitude: 13.407025
+
+- location: JYSK Bergvik
+  city: Karlstad
+  urn: urn:jysk:store:id:S647
+  country: Sverige
+  latitude: 59.37496
+  longitude: 13.441245
+
+- location: JYSK Skara
+  city: Skara
+  urn: urn:jysk:store:id:S611
+  country: Sverige
+  latitude: 58.392286
+  longitude: 13.45945
+
+- location: JYSK Skurup
+  city: Skurup
+  urn: urn:jysk:store:id:S753
+  country: Sverige
+  latitude: 55.49061
+  longitude: 13.486298
+
+- location: JYSK Falköping
+  city: Falköping
+  urn: urn:jysk:store:id:S628
+  country: Sverige
+  latitude: 58.167201
+  longitude: 13.539427
+
+- location: JYSK Gislaved
+  city: Gislaved
+  urn: urn:jysk:store:id:S722
+  country: Sverige
+  latitude: 57.320778
+  longitude: 13.543852
+
+- location: JYSK Höör
+  city: Höör
+  urn: urn:jysk:store:id:S762
+  country: Sverige
+  latitude: 55.951185
+  longitude: 13.562596
+
+- location: JYSK Välsviken
+  city: Karlstad
+  urn: urn:jysk:store:id:S759
+  country: Sverige
+  latitude: 59.395255
+  longitude: 13.578865
+
+- location: JYSK Markaryd
+  city: Markaryd
+  urn: urn:jysk:store:id:S603
+  country: Sverige
+  latitude: 56.447853
+  longitude: 13.604805
+
+- location: JYSK Sjöbo
+  city: Sjöbo
+  urn: urn:jysk:store:id:S725
+  country: Sverige
+  latitude: 55.634998
+  longitude: 13.685823
+
+- location: JYSK Hagfors
+  city: Hagfors
+  urn: urn:jysk:store:id:S751
+  country: Sverige
+  latitude: 60.043946
+  longitude: 13.699039
+
+- location: JYSK Hässleholm
+  city: Hässleholm
+  urn: urn:jysk:store:id:S685
+  country: Sverige
+  latitude: 56.165844
+  longitude: 13.788578
+
+- location: JYSK Mariestad
+  city: Mariestad
+  urn: urn:jysk:store:id:S668
+  country: Sverige
+  latitude: 58.682195
+  longitude: 13.819928
+
+- location: JYSK Ystad
+  city: Ystad
+  urn: urn:jysk:store:id:S630
+  country: Sverige
+  latitude: 55.438716
+  longitude: 13.835898
+
+- location: JYSK Skövde
+  city: Skövde
+  urn: urn:jysk:store:id:S635
+  country: Sverige
+  latitude: 58.404168
+  longitude: 13.853027
+
+- location: JYSK Ljungby
+  city: Ljungby
+  urn: urn:jysk:store:id:S624
+  country: Sverige
+  latitude: 56.814562
+  longitude: 13.904886
+
+- location: JYSK Värnamo
+  city: Värnamo
+  urn: urn:jysk:store:id:S613
+  country: Sverige
+  latitude: 57.174075
+  longitude: 14.060642
+
+- location: JYSK Kristinehamn
+  city: Kristinehamn
+  urn: urn:jysk:store:id:S727
+  country: Sverige
+  latitude: 59.312444
+  longitude: 14.098441
+
+- location: JYSK Kristianstad
+  city: Kristianstad
+  urn: urn:jysk:store:id:S631
+  country: Sverige
+  latitude: 56.025296
+  longitude: 14.120481
+
+- location: JYSK Jönköping
+  city: Jönköping
+  urn: urn:jysk:store:id:S619
+  country: Sverige
+  latitude: 57.762014
+  longitude: 14.186182
+
+- location: JYSK Huskvarna
+  city: Huskvarna
+  urn: urn:jysk:store:id:S740
+  country: Sverige
+  latitude: 57.790754
+  longitude: 14.275465
+
+- location: JYSK Simrishamn
+  city: Simrishamn
+  urn: urn:jysk:store:id:S672
+  country: Sverige
+  latitude: 55.551312
+  longitude: 14.332149
+
+- location: JYSK Karlskoga
+  city: Karlskoga
+  urn: urn:jysk:store:id:S648
+  country: Sverige
+  latitude: 59.301926
+  longitude: 14.497126
+
+- location: JYSK Mora
+  city: Mora
+  urn: urn:jysk:store:id:S653
+  country: Sverige
+  latitude: 61.016789
+  longitude: 14.538111
+
+- location: JYSK Sölvesborg
+  city: Sölvesborg
+  urn: urn:jysk:store:id:S747
+  country: Sverige
+  latitude: 56.055792
+  longitude: 14.566577
+
+- location: JYSK Alvesta
+  city: Alvesta
+  urn: urn:jysk:store:id:S764
+  country: Sverige
+  latitude: 56.919034
+  longitude: 14.568625
+
+- location: JYSK Nässjö
+  city: Nässjö
+  urn: urn:jysk:store:id:S659
+  country: Sverige
+  latitude: 57.648327
+  longitude: 14.693631
+
+- location: JYSK Östersund
+  city: Östersund
+  urn: urn:jysk:store:id:S674
+  country: Sverige
+  latitude: 63.161392
+  longitude: 14.740259
+
+- location: JYSK Växjö
+  city: Växjö
+  urn: urn:jysk:store:id:S602
+  country: Sverige
+  latitude: 56.881171
+  longitude: 14.765148
+
+- location: JYSK Karlshamn
+  city: Karlshamn
+  urn: urn:jysk:store:id:S607
+  country: Sverige
+  latitude: 56.195743
+  longitude: 14.84563
+
+- location: JYSK Tranås
+  city: Tranås
+  urn: urn:jysk:store:id:S721
+  country: Sverige
+  latitude: 58.036771
+  longitude: 14.973325
+
+- location: JYSK Eksjö
+  city: Eksjö
+  urn: urn:jysk:store:id:S745
+  country: Sverige
+  latitude: 57.664545
+  longitude: 14.979788
+
+- location: JYSK Motala
+  city: Motala
+  urn: urn:jysk:store:id:S626
+  country: Sverige
+  latitude: 58.557043
+  longitude: 15.045566
+
+- location: JYSK Vetlanda
+  city: Vetlanda
+  urn: urn:jysk:store:id:S724
+  country: Sverige
+  latitude: 57.442916
+  longitude: 15.067138
+
+- location: JYSK Insjön
+  city: Insjön
+  urn: urn:jysk:store:id:S755
+  country: Sverige
+  latitude: 60.674383
+  longitude: 15.090687
+
+- location: JYSK Mjölby
+  city: Mjölby
+  urn: urn:jysk:store:id:S737
+  country: Sverige
+  latitude: 58.332182
+  longitude: 15.115567
+
+- location: JYSK Marieberg
+  city: Örebro
+  urn: urn:jysk:store:id:S621
+  country: Sverige
+  latitude: 59.212146
+  longitude: 15.137927
+
+- location: JYSK Ludvika
+  city: Ludvika
+  urn: urn:jysk:store:id:S639
+  country: Sverige
+  latitude: 60.136515
+  longitude: 15.15744
+
+- location: JYSK Lindesberg
+  city: Lindesberg
+  urn: urn:jysk:store:id:S742
+  country: Sverige
+  latitude: 59.600946
+  longitude: 15.195144
+
+- location: JYSK Eurostop Örebro
+  city: Örebro
+  urn: urn:jysk:store:id:S652
+  country: Sverige
+  latitude: 59.297556
+  longitude: 15.203825
+
+- location: JYSK Ronneby
+  city: Ronneby
+  urn: urn:jysk:store:id:S606
+  country: Sverige
+  latitude: 56.233447
+  longitude: 15.264203
+
+- location: JYSK Borlänge
+  city: Borlänge
+  urn: urn:jysk:store:id:S642
+  country: Sverige
+  latitude: 60.478059
+  longitude: 15.414319
+
+- location: JYSK Djurgården
+  city: Linköping
+  urn: urn:jysk:store:id:S752
+  country: Sverige
+  latitude: 58.387535
+  longitude: 15.58719
+
+- location: JYSK Tornby
+  city: Linköping
+  urn: urn:jysk:store:id:S610
+  country: Sverige
+  latitude: 58.4337
+  longitude: 15.594965
+
+- location: JYSK Karlskrona
+  city: Karlskrona
+  urn: urn:jysk:store:id:S667
+  country: Sverige
+  latitude: 56.196883
+  longitude: 15.648897
+
+- location: JYSK Falun
+  city: Falun
+  urn: urn:jysk:store:id:S658
+  country: Sverige
+  latitude: 60.605011
+  longitude: 15.663943
+
+- location: JYSK Fagersta
+  city: Fagersta
+  urn: urn:jysk:store:id:S744
+  country: Sverige
+  latitude: 60.003137
+  longitude: 15.795139
+
+- location: JYSK Finspång
+  city: Finspång
+  urn: urn:jysk:store:id:S625
+  country: Sverige
+  latitude: 58.701192
+  longitude: 15.81556
+
+- location: JYSK Vimmerby
+  city: Vimmerby
+  urn: urn:jysk:store:id:S720
+  country: Sverige
+  latitude: 57.658421
+  longitude: 15.853346
+
+- location: JYSK Arboga
+  city: Arboga
+  urn: urn:jysk:store:id:S748
+  country: Sverige
+  latitude: 59.395381
+  longitude: 15.88962
+
+- location: JYSK Nybro
+  city: Nybro
+  urn: urn:jysk:store:id:S713
+  country: Sverige
+  latitude: 56.736562
+  longitude: 15.8916
+
+- location: JYSK Åtvidaberg
+  city: Åtvidaberg
+  urn: urn:jysk:store:id:S746
+  country: Sverige
+  latitude: 58.210231
+  longitude: 15.988533
+
+- location: JYSK Köping
+  city: Köping
+  urn: urn:jysk:store:id:S656
+  country: Sverige
+  latitude: 59.504185
+  longitude: 15.995134
+
+- location: JYSK Ljusdal
+  city: Ljusdal
+  urn: urn:jysk:store:id:S756
+  country: Sverige
+  latitude: 61.822077
+  longitude: 16.123456
+
+- location: JYSK Ingelsta
+  city: Norrköping
+  urn: urn:jysk:store:id:S633
+  country: Sverige
+  latitude: 58.615475
+  longitude: 16.175794
+
+- location: JYSK Avesta
+  city: Avesta
+  urn: urn:jysk:store:id:S670
+  country: Sverige
+  latitude: 60.151266
+  longitude: 16.198834
+
+- location: JYSK Mirum
+  city: Norrköping
+  urn: urn:jysk:store:id:S706
+  country: Sverige
+  latitude: 58.572961
+  longitude: 16.209253
+
+- location: JYSK Katrineholm
+  city: Katrineholm
+  urn: urn:jysk:store:id:S636
+  country: Sverige
+  latitude: 59.000856
+  longitude: 16.225139
+
+- location: JYSK Kalmar
+  city: Kalmar
+  urn: urn:jysk:store:id:S622
+  country: Sverige
+  latitude: 56.686804
+  longitude: 16.316445
+
+- location: JYSK Söderköping
+  city: Söderköping
+  urn: urn:jysk:store:id:S697
+  country: Sverige
+  latitude: 58.474642
+  longitude: 16.332203
+
+- location: JYSK Bollnäs
+  city: Bollnäs
+  urn: urn:jysk:store:id:S717
+  country: Sverige
+  latitude: 61.368857
+  longitude: 16.391276
+
+- location: JYSK Oskarshamn
+  city: Oskarshamn
+  urn: urn:jysk:store:id:S649
+  country: Sverige
+  latitude: 57.262516
+  longitude: 16.428557
+
+- location: JYSK Erikslund
+  city: Västerås
+  urn: urn:jysk:store:id:S634
+  country: Sverige
+  latitude: 59.613162
+  longitude: 16.458674
+
+- location: JYSK Färjestaden
+  city: Färjestaden
+  urn: urn:jysk:store:id:S736
+  country: Sverige
+  latitude: 56.664882
+  longitude: 16.490001
+
+- location: JYSK Eskilstuna
+  city: Eskilstuna
+  urn: urn:jysk:store:id:S627
+  country: Sverige
+  latitude: 59.385086
+  longitude: 16.490533
+
+- location: JYSK Flen
+  city: Flen
+  urn: urn:jysk:store:id:S754
+  country: Sverige
+  latitude: 59.063887
+  longitude: 16.591926
+
+- location: JYSK Västervik
+  city: Västervik
+  urn: urn:jysk:store:id:S614
+  country: Sverige
+  latitude: 57.7685
+  longitude: 16.597311
+
+- location: JYSK Hälla
+  city: Västerås
+  urn: urn:jysk:store:id:S715
+  country: Sverige
+  latitude: 59.608581
+  longitude: 16.619695
+
+- location: JYSK Sala
+  city: Sala
+  urn: urn:jysk:store:id:S702
+  country: Sverige
+  latitude: 59.91657
+  longitude: 16.625649
+
+- location: JYSK Sandviken
+  city: Sandviken
+  urn: urn:jysk:store:id:S661
+  country: Sverige
+  latitude: 60.624883
+  longitude: 16.774093
+
+- location: JYSK Valbo
+  city: Gävle
+  urn: urn:jysk:store:id:S729
+  country: Sverige
+  latitude: 60.627275
+  longitude: 16.989382
+
+- location: JYSK Nyköping
+  city: Nyköping
+  urn: urn:jysk:store:id:S640
+  country: Sverige
+  latitude: 58.771659
+  longitude: 17.014843
+
+- location: JYSK Strängnäs
+  city: Strängnäs
+  urn: urn:jysk:store:id:S726
+  country: Sverige
+  latitude: 59.33558
+  longitude: 17.02046
+
+- location: JYSK Söderhamn
+  city: Söderhamn
+  urn: urn:jysk:store:id:S663
+  country: Sverige
+  latitude: 61.29558
+  longitude: 17.020753
+
+- location: JYSK Hudiksvall
+  city: Hudiksvall
+  urn: urn:jysk:store:id:S694
+  country: Sverige
+  latitude: 61.716475
+  longitude: 17.043154
+
+- location: JYSK Enköping
+  city: Enköping
+  urn: urn:jysk:store:id:S686
+  country: Sverige
+  latitude: 59.652631
+  longitude: 17.082345
+
+- location: JYSK Hemlingby
+  city: Gävle
+  urn: urn:jysk:store:id:S657
+  country: Sverige
+  latitude: 60.639422
+  longitude: 17.14505
+
+- location: JYSK Sollefteå
+  city: Sollefteå
+  urn: urn:jysk:store:id:S714
+  country: Sverige
+  latitude: 63.16686
+  longitude: 17.267734
+
+- location: JYSK Sundsvall
+  city: Sundsvall
+  urn: urn:jysk:store:id:S671
+  country: Sverige
+  latitude: 62.444062
+  longitude: 17.344238
+
+- location: JYSK Tierp
+  city: Tierp
+  urn: urn:jysk:store:id:S760
+  country: Sverige
+  latitude: 60.344857
+  longitude: 17.492129
+
+- location: JYSK Vasa
+  city: Södertälje
+  urn: urn:jysk:store:id:S757
+  country: Sverige
+  latitude: 59.187404
+  longitude: 17.573803
+
+- location: JYSK Upplands Bro
+  city: Stockholm
+  urn: urn:jysk:store:id:S738
+  country: Sverige
+  latitude: 59.526649
+  longitude: 17.628892
+
+- location: JYSK Moraberg
+  city: Södertälje
+  urn: urn:jysk:store:id:S662
+  country: Sverige
+  latitude: 59.201696
+  longitude: 17.663471
+
+- location: JYSK Gränbystaden
+  city: Uppsala
+  urn: urn:jysk:store:id:S703
+  country: Sverige
+  latitude: 59.885182
+  longitude: 17.674006
+
+- location: JYSK Boländerna
+  city: Uppsala
+  urn: urn:jysk:store:id:S645
+  country: Sverige
+  latitude: 59.851676
+  longitude: 17.687324
+
+- location: JYSK Barkarby
+  city: Stockholm
+  urn: urn:jysk:store:id:S629
+  country: Sverige
+  latitude: 59.416089
+  longitude: 17.859852
+
+- location: JYSK Märsta
+  city: Stockholm
+  urn: urn:jysk:store:id:S637
+  country: Sverige
+  latitude: 59.620741
+  longitude: 17.870899
+
+- location: JYSK Vällingby
+  city: Stockholm
+  urn: urn:jysk:store:id:S763
+  country: Sverige
+  latitude: 59.361878
+  longitude: 17.874922
+
+- location: JYSK Härnösand
+  city: Härnösand
+  urn: urn:jysk:store:id:S693
+  country: Sverige
+  latitude: 62.649772
+  longitude: 17.895176
+
+- location: JYSK InfraCity
+  city: Stockholm
+  urn: urn:jysk:store:id:S664
+  country: Sverige
+  latitude: 59.498431
+  longitude: 17.923159
+
+- location: JYSK Kungens Kurva
+  city: Stockholm
+  urn: urn:jysk:store:id:S669
+  country: Sverige
+  latitude: 59.26747
+  longitude: 17.923945
+
+- location: JYSK Häggvik
+  city: Stockholm
+  urn: urn:jysk:store:id:S728
+  country: Sverige
+  latitude: 59.436706
+  longitude: 17.928355
+
+- location: JYSK Nynäshamn
+  city: Nynäshamn
+  urn: urn:jysk:store:id:S731
+  country: Sverige
+  latitude: 58.911683
+  longitude: 17.955332
+
+- location: JYSK Bromma
+  city: Stockholm
+  urn: urn:jysk:store:id:S620
+  country: Sverige
+  latitude: 59.358253
+  longitude: 17.957944
+
+- location: JYSK Västberga
+  city: Stockholm
+  urn: urn:jysk:store:id:S750
+  country: Sverige
+  latitude: 59.293171
+  longitude: 18.005583
+
+- location: JYSK Högdalen
+  city: Stockholm
+  urn: urn:jysk:store:id:S665
+  country: Sverige
+  latitude: 59.263136
+  longitude: 18.040762
+
+- location: JYSK Farsta
+  city: Stockholm
+  urn: urn:jysk:store:id:S761
+  country: Sverige
+  latitude: 59.241755
+  longitude: 18.093843
+
+- location: JYSK Nacka
+  city: Stockholm
+  urn: urn:jysk:store:id:S646
+  country: Sverige
+  latitude: 59.305536
+  longitude: 18.125498
+
+- location: JYSK Länna
+  city: Stockholm
+  urn: urn:jysk:store:id:S705
+  country: Sverige
+  latitude: 59.198649
+  longitude: 18.126857
+
+- location: JYSK Arninge
+  city: Stockholm
+  urn: urn:jysk:store:id:S660
+  country: Sverige
+  latitude: 59.46366
+  longitude: 18.132303
+
+- location: JYSK Åkersberga
+  city: Stockholm
+  urn: urn:jysk:store:id:S679
+  country: Sverige
+  latitude: 59.482657
+  longitude: 18.282
+
+- location: JYSK Visby
+  city: Visby
+  urn: urn:jysk:store:id:S650
+  country: Sverige
+  latitude: 57.622288
+  longitude: 18.320867
+
+- location: JYSK Östhammar
+  city: Östhammar
+  urn: urn:jysk:store:id:S749
+  country: Sverige
+  latitude: 60.24791
+  longitude: 18.349737
+
+- location: JYSK Gustavsberg
+  city: Stockholm
+  urn: urn:jysk:store:id:S719
+  country: Sverige
+  latitude: 59.310687
+  longitude: 18.385312
+
+- location: JYSK Norrtälje
+  city: Norrtälje
+  urn: urn:jysk:store:id:S692
+  country: Sverige
+  latitude: 59.766707
+  longitude: 18.695449
+
+- location: JYSK Lycksele
+  city: Lycksele
+  urn: urn:jysk:store:id:S710
+  country: Sverige
+  latitude: 64.585657
+  longitude: 18.697042
+
+- location: JYSK Örnsköldsvik
+  city: Örnsköldsvik
+  urn: urn:jysk:store:id:S666
+  country: Sverige
+  latitude: 63.304919
+  longitude: 18.745784
+
+- location: JYSK Kiruna
+  city: Kiruna
+  urn: urn:jysk:store:id:S689
+  country: Sverige
+  latitude: 67.845147
+  longitude: 20.253993
+
+- location: JYSK Umeå
+  city: Umeå
+  urn: urn:jysk:store:id:S680
+  country: Sverige
+  latitude: 63.849673
+  longitude: 20.305202
+
+- location: JYSK Gällivare
+  city: Gällivare
+  urn: urn:jysk:store:id:S707
+  country: Sverige
+  latitude: 67.150397
+  longitude: 20.657388
+
+- location: JYSK Skellefteå
+  city: Skellefteå
+  urn: urn:jysk:store:id:S675
+  country: Sverige
+  latitude: 64.765698
+  longitude: 21.021015
+
+- location: JYSK Piteå
+  city: Piteå
+  urn: urn:jysk:store:id:S681
+  country: Sverige
+  latitude: 65.321943
+  longitude: 21.44337
+
+- location: JYSK Boden
+  city: Boden
+  urn: urn:jysk:store:id:S711
+  country: Sverige
+  latitude: 65.824867
+  longitude: 21.689962
+
+- location: JYSK Luleå
+  city: Luleå
+  urn: urn:jysk:store:id:S687
+  country: Sverige
+  latitude: 65.617323
+  longitude: 22.046262
+
+- location: JYSK Haparanda
+  city: Haparanda
+  urn: urn:jysk:store:id:S673
+  country: Sverige
+  latitude: 65.84208
+  longitude: 24.11638

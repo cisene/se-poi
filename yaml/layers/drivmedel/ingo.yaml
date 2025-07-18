@@ -1,0 +1,2044 @@
+meta:
+  name: Ingo
+  web: https://www.ingo.se/
+  wikipedia: https://sv.wikipedia.org/wiki/Ingo
+  category: Drivmedel
+  locations: 291
+
+locations:
+- location: INGO Brastad
+  city: Brastad
+  urn: urn:ingo:station:id:24720
+  country: Sverige
+  latitude: 58.384699
+  longitude: 11.481128
+
+- location: INGO Hönö
+  city: Hönö
+  urn: urn:ingo:station:id:22680
+  country: Sverige
+  latitude: 57.698605
+  longitude: 11.646461
+
+- location: INGO Rotviksbro
+  city: Uddevalla
+  urn: urn:ingo:station:id:27449
+  country: Sverige
+  latitude: 58.343068
+  longitude: 11.688408
+
+- location: INGO Varekil
+  city: Varekil
+  urn: urn:ingo:station:id:26326
+  country: Sverige
+  latitude: 58.12486
+  longitude: 11.72283
+
+- location: INGO Häggvall Tjörn
+  city: Höviksnäs
+  urn: urn:ingo:station:id:22788
+  country: Sverige
+  latitude: 58.03837
+  longitude: 11.734359
+
+- location: INGO Stenungsund
+  city: Stenungsund
+  urn: urn:ingo:station:id:24886
+  country: Sverige
+  latitude: 58.0775
+  longitude: 11.828289
+
+- location: INGO Arendal
+  city: Göteborg
+  urn: urn:ingo:station:id:24884
+  country: Sverige
+  latitude: 57.706042
+  longitude: 11.849311
+
+- location: INGO Västra Frölunda, Traneredsvägen
+  city: Västra Frölunda
+  urn: urn:ingo:station:id:22655
+  country: Sverige
+  latitude: 57.660263
+  longitude: 11.888376
+
+- location: INGO VÄstra Frölunda, Åkered
+  city: Västra Frölunda
+  urn: urn:ingo:station:id:22656
+  country: Sverige
+  latitude: 57.635068
+  longitude: 11.898951
+
+- location: INGO Uddevalla
+  city: Uddevalla
+  urn: urn:ingo:station:id:24888
+  country: Sverige
+  latitude: 58.35384
+  longitude: 11.91496
+
+- location: INGO Västra Frölunda, Frölundamotet
+  city: Västra Frölunda
+  urn: urn:ingo:station:id:24881
+  country: Sverige
+  latitude: 57.647525
+  longitude: 11.916111
+
+- location: INGO Uddevalla Göteborgsvägen
+  city: Uddevalla
+  urn: urn:ingo:station:id:24715
+  country: Sverige
+  latitude: 58.344416
+  longitude: 11.922832
+
+- location: INGO Göteborg Sannegården
+  city: Göteborg
+  urn: urn:ingo:station:id:24927
+  country: Sverige
+  latitude: 57.710911
+  longitude: 11.932311
+
+- location: INGO Uddevalla Helenedalsvägen
+  city: Uddevalla
+  urn: urn:ingo:station:id:26327
+  country: Sverige
+  latitude: 58.36794
+  longitude: 11.932665
+
+- location: INGO Sisjön
+  city: Askim
+  urn: urn:ingo:station:id:24863
+  country: Sverige
+  latitude: 57.641272
+  longitude: 11.941602
+
+- location: INGO Göteborg, Minelundsvägen
+  city: Hisings backa
+  urn: urn:ingo:station:id:24877
+  country: Sverige
+  latitude: 57.730368
+  longitude: 11.95619
+
+- location: INGO Kungälv
+  city: Kungälv
+  urn: urn:ingo:station:id:24872
+  country: Sverige
+  latitude: 57.878149
+  longitude: 11.984675
+
+- location: INGO Göteborg Tingstadsmotet
+  city: Hisings Backa
+  urn: urn:ingo:station:id:24875
+  country: Sverige
+  latitude: 57.730154
+  longitude: 11.985401
+
+- location: INGO Göteborg Bäckebolsmotet
+  city: Hisings Backa
+  urn: urn:ingo:station:id:24939
+  country: Sverige
+  latitude: 57.75891
+  longitude: 11.99475
+
+- location: INGO Göteborg Grafiska Vägen
+  city: Göteborg
+  urn: urn:ingo:station:id:24874
+  country: Sverige
+  latitude: 57.682145
+  longitude: 12.002292
+
+- location: INGO Göteborg Gamlestaden
+  city: Göteborg
+  urn: urn:ingo:station:id:24878
+  country: Sverige
+  latitude: 57.736462
+  longitude: 12.005533
+
+- location: INGO Göteborg Hjällbo
+  city: Angered
+  urn: urn:ingo:station:id:22648
+  country: Sverige
+  latitude: 57.76405
+  longitude: 12.01465
+
+- location: INGO Göteborg Kviberg
+  city: Göteborg
+  urn: urn:ingo:station:id:26311
+  country: Sverige
+  latitude: 57.73592
+  longitude: 12.02437
+
+- location: INGO Göteborg Gårdsten
+  city: Angered
+  urn: urn:ingo:station:id:24882
+  country: Sverige
+  latitude: 57.801452
+  longitude: 12.033769
+
+- location: INGO Kållered
+  city: Kållered
+  urn: urn:ingo:station:id:24864
+  country: Sverige
+  latitude: 57.618543
+  longitude: 12.045693
+
+- location: INGO Kungsbacka
+  city: Kungsbacka
+  urn: urn:ingo:station:id:24865
+  country: Sverige
+  latitude: 57.505323
+  longitude: 12.068385
+
+- location: INGO Göteborg Utbyvägen
+  city: Göteborg
+  urn: urn:ingo:station:id:24880
+  country: Sverige
+  latitude: 57.740649
+  longitude: 12.077908
+
+- location: INGO Lödöse
+  city: Lödöse
+  urn: urn:ingo:station:id:22718
+  country: Sverige
+  latitude: 58.02866
+  longitude: 12.15346
+
+- location: INGO Bäckefors
+  city: Bäckefors
+  urn: urn:ingo:station:id:22622
+  country: Sverige
+  latitude: 58.80363
+  longitude: 12.15348
+
+- location: INGO Bengtsfors
+  city: Bengtsfors
+  urn: urn:ingo:station:id:22612
+  country: Sverige
+  latitude: 59.026113
+  longitude: 12.234076
+
+- location: INGO Morokulien
+  city: Charlottenberg
+  urn: urn:ingo:station:id:26812
+  country: Sverige
+  latitude: 59.93089
+  longitude: 12.24248
+
+- location: INGO Lerum
+  city: Lerum
+  urn: urn:ingo:station:id:22297
+  country: Sverige
+  latitude: 57.763336
+  longitude: 12.262168
+
+- location: INGO Varberg
+  city: Varberg
+  urn: urn:ingo:station:id:24909
+  country: Sverige
+  latitude: 57.123109
+  longitude: 12.263178
+
+- location: INGO Frändefors
+  city: Frändefors
+  urn: urn:ingo:station:id:22638
+  country: Sverige
+  latitude: 58.475575
+  longitude: 12.266576
+
+- location: INGO Vänersborg Djupedalsvägen
+  city: Vänersborg
+  urn: urn:ingo:station:id:26431
+  country: Sverige
+  latitude: 58.3832
+  longitude: 12.30418
+
+- location: INGO Trollhättan Tunhemsvägen
+  city: Trollhättan
+  urn: urn:ingo:station:id:22792
+  country: Sverige
+  latitude: 58.28857
+  longitude: 12.30934
+
+- location: INGO Trollhättan Grafitvägen
+  city: Trollhättan
+  urn: urn:ingo:station:id:24885
+  country: Sverige
+  latitude: 58.29885
+  longitude: 12.3215
+
+- location: INGO Vänersborg
+  city: Vänersborg
+  urn: urn:ingo:station:id:24887
+  country: Sverige
+  latitude: 58.364317
+  longitude: 12.32775
+
+- location: INGO Tvååker
+  city: Tvååker
+  urn: urn:ingo:station:id:22796
+  country: Sverige
+  latitude: 57.043774
+  longitude: 12.392106
+
+- location: INGO Hällingsjö
+  city: Hällingsjö
+  urn: urn:ingo:station:id:22674
+  country: Sverige
+  latitude: 57.619445
+  longitude: 12.435204
+
+- location: INGO Horred
+  city: Horred
+  urn: urn:ingo:station:id:27403
+  country: Sverige
+  latitude: 57.36001
+  longitude: 12.48182
+
+- location: INGO Falkenberg Söderleden
+  city: Falkenberg
+  urn: urn:ingo:station:id:24907
+  country: Sverige
+  latitude: 56.895758
+  longitude: 12.498376
+
+- location: INGO Alingsås
+  city: Alingsås
+  urn: urn:ingo:station:id:24867
+  country: Sverige
+  latitude: 57.928983
+  longitude: 12.549752
+
+- location: INGO Arvika Palmviksgatan
+  city: Arvika
+  urn: urn:ingo:station:id:26808
+  country: Sverige
+  latitude: 59.656139
+  longitude: 12.58485
+
+- location: INGO Viken Hälsingborgsvägen
+  city: Viken
+  urn: urn:ingo:station:id:24945
+  country: Sverige
+  latitude: 56.141434
+  longitude: 12.587103
+
+- location: INGO Arvika Mötterudsvägen
+  city: Arvika
+  urn: urn:ingo:station:id:27253
+  country: Sverige
+  latitude: 59.647356
+  longitude: 12.616926
+
+- location: INGO Vessigebro
+  city: Vessigebro
+  urn: urn:ingo:station:id:22812
+  country: Sverige
+  latitude: 56.978187
+  longitude: 12.646036
+
+- location: INGO Skene
+  city: Skene
+  urn: urn:ingo:station:id:24876
+  country: Sverige
+  latitude: 57.496694
+  longitude: 12.667991
+
+- location: INGO Åmål
+  city: Åmål
+  urn: urn:ingo:station:id:24935
+  country: Sverige
+  latitude: 59.055838
+  longitude: 12.675408
+
+- location: INGO Helsingborg Filbornavägen
+  city: Helsingborg
+  urn: urn:ingo:station:id:24911
+  country: Sverige
+  latitude: 56.05239
+  longitude: 12.72827
+
+- location: INGO Helsingborg Kielergatan
+  city: Helsingborg
+  urn: urn:ingo:station:id:24915
+  country: Sverige
+  latitude: 56.005676
+  longitude: 12.740567
+
+- location: INGO Halmstad Flygstaden
+  city: Halmstad
+  urn: urn:ingo:station:id:24926
+  country: Sverige
+  latitude: 56.67382
+  longitude: 12.799265
+
+- location: INGO Halmstad Kärleken
+  city: Halmstad
+  urn: urn:ingo:station:id:24944
+  country: Sverige
+  latitude: 56.693101
+  longitude: 12.867908
+
+- location: INGO Landskrona
+  city: Landskrona
+  urn: urn:ingo:station:id:24946
+  country: Sverige
+  latitude: 55.874872
+  longitude: 12.886752
+
+- location: INGO Ängelholm
+  city: Ängelholm
+  urn: urn:ingo:station:id:24905
+  country: Sverige
+  latitude: 56.251158
+  longitude: 12.88882
+
+- location: INGO Halmstad Andersberg
+  city: Halmstad
+  urn: urn:ingo:station:id:24903
+  country: Sverige
+  latitude: 56.660472
+  longitude: 12.893711
+
+- location: INGO Vara E20
+  city: Vara
+  urn: urn:ingo:station:id:26427
+  country: Sverige
+  latitude: 58.21595
+  longitude: 12.91254
+
+- location: INGO Duved
+  city: Duved
+  urn: urn:ingo:station:id:27087
+  country: Sverige
+  latitude: 63.39259
+  longitude: 12.91758
+
+- location: INGO Malmö Bunkeflostrand
+  city: Bunkeflostrand
+  urn: urn:ingo:station:id:22620
+  country: Sverige
+  latitude: 55.56036
+  longitude: 12.91977
+
+- location: INGO Åstorp
+  city: Åstorp
+  urn: urn:ingo:station:id:22835
+  country: Sverige
+  latitude: 56.135185
+  longitude: 12.926773
+
+- location: INGO Borås Skaraborgsvägen
+  city: Borås
+  urn: urn:ingo:station:id:24868
+  country: Sverige
+  latitude: 57.730655
+  longitude: 12.940038
+
+- location: INGO Borås Fristadsvägen
+  city: Borås
+  urn: urn:ingo:station:id:24879
+  country: Sverige
+  latitude: 57.753789
+  longitude: 12.947699
+
+- location: INGO Vara Kungsgatan
+  city: Vara
+  urn: urn:ingo:station:id:22808
+  country: Sverige
+  latitude: 58.267247
+  longitude: 12.957247
+
+- location: INGO Ekeby
+  city: Ekeby
+  urn: urn:ingo:station:id:22626
+  country: Sverige
+  latitude: 56.005616
+  longitude: 12.962363
+
+- location: INGO Borås Gånghestervägen
+  city: Borås
+  urn: urn:ingo:station:id:24871
+  country: Sverige
+  latitude: 57.703803
+  longitude: 12.973416
+
+- location: INGO Munka Ljungby
+  city: Munka-Ljungby
+  urn: urn:ingo:station:id:26230
+  country: Sverige
+  latitude: 56.254829
+  longitude: 12.973679
+
+- location: INGO Malmö Lorensbergsgatan
+  city: Malmö
+  urn: urn:ingo:station:id:22720
+  country: Sverige
+  latitude: 55.589096
+  longitude: 12.982546
+
+- location: INGO Malmö Pildammsvägen
+  city: Malmö
+  urn: urn:ingo:station:id:24919
+  country: Sverige
+  latitude: 55.563766
+  longitude: 12.98584
+
+- location: INGO Fristad RV42
+  city: Fristad
+  urn: urn:ingo:station:id:26412
+  country: Sverige
+  latitude: 57.813846
+  longitude: 13.01278
+
+- location: INGO Vägsjöfors
+  city: Torsby
+  urn: urn:ingo:station:id:27830
+  country: Sverige
+  latitude: 60.274638
+  longitude: 13.028808
+
+- location: INGO Laholm
+  city: Laholm
+  urn: urn:ingo:station:id:24906
+  country: Sverige
+  latitude: 56.500855
+  longitude: 13.033028
+
+- location: INGO Malmö Sallerupsvägen
+  city: Malmö
+  urn: urn:ingo:station:id:24916
+  country: Sverige
+  latitude: 55.600537
+  longitude: 13.03876
+
+- location: INGO Malmö Lundavägen
+  city: Malmö
+  urn: urn:ingo:station:id:22721
+  country: Sverige
+  latitude: 55.61581
+  longitude: 13.0448
+
+- location: INGO Malmö Rosengård
+  city: Malmö
+  urn: urn:ingo:station:id:24921
+  country: Sverige
+  latitude: 55.587089
+  longitude: 13.047624
+
+- location: INGO Malmö Jägersro
+  city: Malmö
+  urn: urn:ingo:station:id:24914
+  country: Sverige
+  latitude: 55.572359
+  longitude: 13.057549
+
+- location: INGO Trelleborg
+  city: Trelleborg
+  urn: urn:ingo:station:id:24933
+  country: Sverige
+  latitude: 55.384993
+  longitude: 13.087033
+
+- location: INGO Malmö Toftanäs/Flansbjer
+  city: Arlöv
+  urn: urn:ingo:station:id:24925
+  country: Sverige
+  latitude: 55.607382
+  longitude: 13.094695
+
+- location: INGO Sunne
+  city: Sunne
+  urn: urn:ingo:station:id:27274
+  country: Sverige
+  latitude: 59.82829
+  longitude: 13.13832
+
+- location: INGO Klippan
+  city: Klippan
+  urn: urn:ingo:station:id:26116
+  country: Sverige
+  latitude: 56.13532
+  longitude: 13.14919
+
+- location: INGO Lidköping
+  city: Lidköping
+  urn: urn:ingo:station:id:24869
+  country: Sverige
+  latitude: 58.498233
+  longitude: 13.174092
+
+- location: INGO Staffanstorp
+  city: Staffanstorp
+  urn: urn:ingo:station:id:24917
+  country: Sverige
+  latitude: 55.629925
+  longitude: 13.186708
+
+- location: INGO Lund
+  city: Lund
+  urn: urn:ingo:station:id:24912
+  country: Sverige
+  latitude: 55.695338
+  longitude: 13.189457
+
+- location: INGO Hyltebruk
+  city: Hyltebruk
+  urn: urn:ingo:station:id:22672
+  country: Sverige
+  latitude: 57.005294
+  longitude: 13.240242
+
+- location: INGO Transtrand
+  city: Transtrand
+  urn: urn:ingo:station:id:27637
+  country: Sverige
+  latitude: 61.09991
+  longitude: 13.309
+
+- location: INGO Eslöv
+  city: Eslöv
+  urn: urn:ingo:station:id:24913
+  country: Sverige
+  latitude: 55.833596
+  longitude: 13.309047
+
+- location: INGO Kil
+  city: Kil
+  urn: urn:ingo:station:id:22695
+  country: Sverige
+  latitude: 59.50451
+  longitude: 13.32362
+
+- location: INGO Skeppshult
+  city: Skeppshult
+  urn: urn:ingo:station:id:27431
+  country: Sverige
+  latitude: 57.126032
+  longitude: 13.37918
+
+- location: INGO Perstorp
+  city: Perstorp
+  urn: urn:ingo:station:id:26132
+  country: Sverige
+  latitude: 56.13866
+  longitude: 13.39238
+
+- location: INGO Skara
+  city: Skara
+  urn: urn:ingo:station:id:24866
+  country: Sverige
+  latitude: 58.384511
+  longitude: 13.444263
+
+- location: INGO Karlstad Våxnäs
+  city: Karlstad
+  urn: urn:ingo:station:id:24846
+  country: Sverige
+  latitude: 59.384413
+  longitude: 13.48019
+
+- location: INGO Karlstad Sandbäcksgatan
+  city: Karlstad
+  urn: urn:ingo:station:id:26818
+  country: Sverige
+  latitude: 59.390648
+  longitude: 13.497097
+
+- location: INGO Skurup
+  city: Skurup
+  urn: urn:ingo:station:id:26135
+  country: Sverige
+  latitude: 55.48291
+  longitude: 13.49942
+
+- location: INGO Karlstad Lantvärnsgatan
+  city: Karlstad
+  urn: urn:ingo:station:id:24849
+  country: Sverige
+  latitude: 59.382237
+  longitude: 13.523888
+
+- location: INGO Munkfors
+  city: Munkfors
+  urn: urn:ingo:station:id:27254
+  country: Sverige
+  latitude: 59.82885
+  longitude: 13.52727
+
+- location: INGO Höör
+  city: Höör
+  urn: urn:ingo:station:id:26115
+  country: Sverige
+  latitude: 55.927346
+  longitude: 13.544524
+
+- location: INGO Hässleholm
+  city: Hässleholm
+  urn: urn:ingo:station:id:24910
+  country: Sverige
+  latitude: 56.156788
+  longitude: 13.74691
+
+- location: INGO Hässleholm Esplanadgatan
+  city: Hässleholm
+  urn: urn:ingo:station:id:26112
+  country: Sverige
+  latitude: 56.162197
+  longitude: 13.773437
+
+- location: INGO Ystad
+  city: Ystad
+  urn: urn:ingo:station:id:24918
+  country: Sverige
+  latitude: 55.443746
+  longitude: 13.80584
+
+- location: INGO Mariestad E20
+  city: Mariestad
+  urn: urn:ingo:station:id:24940
+  country: Sverige
+  latitude: 58.678137
+  longitude: 13.814621
+
+- location: INGO Mariestad
+  city: Mariestad
+  urn: urn:ingo:station:id:24873
+  country: Sverige
+  latitude: 58.709803
+  longitude: 13.83653
+
+- location: INGO Skövde G Adolfsgatan
+  city: Skövde
+  urn: urn:ingo:station:id:24870
+  country: Sverige
+  latitude: 58.406724
+  longitude: 13.854026
+
+- location: INGO Vemdalen
+  city: Vemdalen
+  urn: urn:ingo:station:id:27036
+  country: Sverige
+  latitude: 62.44862
+  longitude: 13.86272
+
+- location: INGO Mullsjö
+  city: Mullsjö
+  urn: urn:ingo:station:id:22729
+  country: Sverige
+  latitude: 57.91401
+  longitude: 13.87171
+
+- location: INGO Skövde Norregårdsvägen
+  city: Skövde
+  urn: urn:ingo:station:id:24883
+  country: Sverige
+  latitude: 58.393433
+  longitude: 13.877177
+
+- location: INGO Ljungby Ringvägen
+  city: Ljungby
+  urn: urn:ingo:station:id:26240
+  country: Sverige
+  latitude: 56.813528
+  longitude: 13.906262
+
+- location: INGO Tomelilla
+  city: Tomelilla
+  urn: urn:ingo:station:id:24922
+  country: Sverige
+  latitude: 55.560095
+  longitude: 13.913243
+
+- location: INGO Tomelilla Tryde
+  city: Tomelilla
+  urn: urn:ingo:station:id:22794
+  country: Sverige
+  latitude: 55.55536
+  longitude: 13.93348
+
+- location: INGO Ljungby
+  city: Ljungby
+  urn: urn:ingo:station:id:24904
+  country: Sverige
+  latitude: 56.841257
+  longitude: 13.945914
+
+- location: INGO Lagan
+  city: Lagan
+  urn: urn:ingo:station:id:26235
+  country: Sverige
+  latitude: 56.91847
+  longitude: 13.97132
+
+- location: INGO Tollarp
+  city: Tollarp
+  urn: urn:ingo:station:id:22789
+  country: Sverige
+  latitude: 55.9318
+  longitude: 13.9892
+
+- location: INGO Ölme
+  city: Kristinehamn
+  urn: urn:ingo:station:id:26832
+  country: Sverige
+  latitude: 59.369931
+  longitude: 14.010925
+
+- location: INGO Gullspång
+  city: Gullspång
+  urn: urn:ingo:station:id:26434
+  country: Sverige
+  latitude: 58.986327
+  longitude: 14.093193
+
+- location: INGO Taberg
+  city: Taberg
+  urn: urn:ingo:station:id:22785
+  country: Sverige
+  latitude: 57.68205
+  longitude: 14.09765
+
+- location: INGO Kristinehamn
+  city: Kristinehamn
+  urn: urn:ingo:station:id:24847
+  country: Sverige
+  latitude: 59.316159
+  longitude: 14.105008
+
+- location: INGO Bankeryd
+  city: Bankeryd
+  urn: urn:ingo:station:id:22611
+  country: Sverige
+  latitude: 57.86611
+  longitude: 14.11715
+
+- location: INGO Töreboda
+  city: Töreboda
+  urn: urn:ingo:station:id:22799
+  country: Sverige
+  latitude: 58.708799
+  longitude: 14.128317
+
+- location: INGO Kristianstad Långebrogatan
+  city: Kristianstad
+  urn: urn:ingo:station:id:24893
+  country: Sverige
+  latitude: 56.02089
+  longitude: 14.138694
+
+- location: INGO Jönköping Kortebovägen
+  city: Jönköping
+  urn: urn:ingo:station:id:24892
+  country: Sverige
+  latitude: 57.80917
+  longitude: 14.1488
+
+- location: INGO Kristianstad Lyckans Höjd
+  city: Kristianstad
+  urn: urn:ingo:station:id:26117
+  country: Sverige
+  latitude: 56.03884
+  longitude: 14.162091
+
+- location: INGO Kristianstad Snapphanevägen
+  city: Kristianstad
+  urn: urn:ingo:station:id:24898
+  country: Sverige
+  latitude: 56.05811
+  longitude: 14.16534
+
+- location: INGO Jönköping Herkulesvägen
+  city: Jönköping
+  urn: urn:ingo:station:id:24891
+  country: Sverige
+  latitude: 57.76966
+  longitude: 14.173831
+
+- location: INGO Tibro
+  city: Tibro
+  urn: urn:ingo:station:id:26422
+  country: Sverige
+  latitude: 58.41925
+  longitude: 14.17508
+
+- location: INGO Hova
+  city: Hova
+  urn: urn:ingo:station:id:26409
+  country: Sverige
+  latitude: 58.861342
+  longitude: 14.218443
+
+- location: INGO Jönköping Ekhagen
+  city: Jönköping
+  urn: urn:ingo:station:id:24889
+  country: Sverige
+  latitude: 57.779457
+  longitude: 14.221533
+
+- location: INGO Vansbro
+  city: Vansbro
+  urn: urn:ingo:station:id:27270
+  country: Sverige
+  latitude: 60.508823
+  longitude: 14.2314
+
+- location: INGO Hjo
+  city: Hjo
+  urn: urn:ingo:station:id:26437
+  country: Sverige
+  latitude: 58.303095
+  longitude: 14.256146
+
+- location: INGO Åhus
+  city: Åhus
+  urn: urn:ingo:station:id:26199
+  country: Sverige
+  latitude: 55.93029
+  longitude: 14.29174
+
+- location: INGO Lönsboda
+  city: Lönsboda
+  urn: urn:ingo:station:id:26220
+  country: Sverige
+  latitude: 56.39881
+  longitude: 14.31907
+
+- location: INGO Myrviken
+  city: Oviken
+  urn: urn:ingo:station:id:27022
+  country: Sverige
+  latitude: 62.99941
+  longitude: 14.34007
+
+- location: INGO Degerfors
+  city: Degerfors
+  urn: urn:ingo:station:id:22625
+  country: Sverige
+  latitude: 59.241314
+  longitude: 14.434411
+
+- location: INGO Karlskoga
+  city: Karlskoga
+  urn: urn:ingo:station:id:24848
+  country: Sverige
+  latitude: 59.327264
+  longitude: 14.507987
+
+- location: INGO Olofström
+  city: Olofström
+  urn: urn:ingo:station:id:26222
+  country: Sverige
+  latitude: 56.2778
+  longitude: 14.5375
+
+- location: INGO Grythyttan
+  city: Grythyttan
+  urn: urn:ingo:station:id:26814
+  country: Sverige
+  latitude: 59.7057
+  longitude: 14.54372
+
+- location: INGO Lammhult
+  city: Lammhult
+  urn: urn:ingo:station:id:22706
+  country: Sverige
+  latitude: 57.170491
+  longitude: 14.575084
+
+- location: INGO Östersund Frösön
+  city: Frösön
+  urn: urn:ingo:station:id:27224
+  country: Sverige
+  latitude: 63.171225
+  longitude: 14.582402
+
+- location: INGO Sölvesborg
+  city: Sölvesborg
+  urn: urn:ingo:station:id:22784
+  country: Sverige
+  latitude: 56.05925
+  longitude: 14.59445
+
+- location: INGO Mora Noret
+  city: Mora
+  urn: urn:ingo:station:id:24931
+  country: Sverige
+  latitude: 61.0063
+  longitude: 14.606
+
+- location: INGO Laxå
+  city: Laxå
+  urn: urn:ingo:station:id:22709
+  country: Sverige
+  latitude: 58.98236
+  longitude: 14.62499
+
+- location: INGO Östersund Hofvallen
+  city: Östersund
+  urn: urn:ingo:station:id:27211
+  country: Sverige
+  latitude: 63.191127
+  longitude: 14.639914
+
+- location: INGO Nässjö
+  city: Nässjö
+  urn: urn:ingo:station:id:24890
+  country: Sverige
+  latitude: 57.657637
+  longitude: 14.69158
+
+- location: INGO Östersund
+  city: Östersund
+  urn: urn:ingo:station:id:24861
+  country: Sverige
+  latitude: 63.17661
+  longitude: 14.69221
+
+- location: INGO Växjö Mörners Väg
+  city: Växjö
+  urn: urn:ingo:station:id:24899
+  country: Sverige
+  latitude: 56.888157
+  longitude: 14.779556
+
+- location: INGO Växjö Söderleden
+  city: Växjö
+  urn: urn:ingo:station:id:24895
+  country: Sverige
+  latitude: 56.877216
+  longitude: 14.785657
+
+- location: INGO Dala-Floda
+  city: Dala-Floda
+  urn: urn:ingo:station:id:26909
+  country: Sverige
+  latitude: 60.50972
+  longitude: 14.802
+
+- location: INGO Lit
+  city: Lit
+  urn: urn:ingo:station:id:27215
+  country: Sverige
+  latitude: 63.31623
+  longitude: 14.8457
+
+- location: INGO Karlshamn
+  city: Karlshamn
+  urn: urn:ingo:station:id:24894
+  country: Sverige
+  latitude: 56.18519
+  longitude: 14.84938
+
+- location: INGO Karlshamn Österport
+  city: Karlshamn
+  urn: urn:ingo:station:id:22688
+  country: Sverige
+  latitude: 56.16677
+  longitude: 14.88218
+
+- location: INGO Askersund
+  city: Askersund
+  urn: urn:ingo:station:id:22608
+  country: Sverige
+  latitude: 58.88673
+  longitude: 14.91323
+
+- location: INGO Ytterhogdal
+  city: Ytterhogdal
+  urn: urn:ingo:station:id:27219
+  country: Sverige
+  latitude: 62.17071
+  longitude: 14.95153
+
+- location: INGO Eksjö
+  city: Eksjö
+  urn: urn:ingo:station:id:24929
+  country: Sverige
+  latitude: 57.647442
+  longitude: 14.954178
+
+- location: INGO Motala Bråstorp
+  city: Motala
+  urn: urn:ingo:station:id:24707
+  country: Sverige
+  latitude: 58.556111
+  longitude: 15.035912
+
+- location: INGO Motala Lustigkullevägen
+  city: Motala
+  urn: urn:ingo:station:id:22727
+  country: Sverige
+  latitude: 58.54095
+  longitude: 15.06748
+
+- location: INGO Hemavan
+  city: Hemavan
+  urn: urn:ingo:station:id:27110
+  country: Sverige
+  latitude: 65.81888
+  longitude: 15.08612
+
+- location: INGO Vetlanda
+  city: Vetlanda
+  urn: urn:ingo:station:id:24902
+  country: Sverige
+  latitude: 57.424738
+  longitude: 15.097324
+
+- location: INGO Guldsmedshyttan
+  city: Guldsmedshyttan
+  urn: urn:ingo:station:id:26826
+  country: Sverige
+  latitude: 59.69971
+  longitude: 15.10077
+
+- location: INGO Hallsberg
+  city: Hallsberg
+  urn: urn:ingo:station:id:22660
+  country: Sverige
+  latitude: 59.06821
+  longitude: 15.10187
+
+- location: INGO Mjölby
+  city: Mjölby
+  urn: urn:ingo:station:id:24841
+  country: Sverige
+  latitude: 58.33109
+  longitude: 15.11218
+
+- location: INGO Kumla
+  city: Kumla
+  urn: urn:ingo:station:id:24836
+  country: Sverige
+  latitude: 59.151044
+  longitude: 15.139568
+
+- location: INGO Örebro Adolfsbergsvägen
+  city: Örebro
+  urn: urn:ingo:station:id:24833
+  country: Sverige
+  latitude: 59.258572
+  longitude: 15.173361
+
+- location: INGO Örebro Gustavsvik
+  city: Örebro
+  urn: urn:ingo:station:id:24928
+  country: Sverige
+  latitude: 59.250174
+  longitude: 15.196943
+
+- location: INGO Örebro Bettorpsgatan
+  city: Örebro
+  urn: urn:ingo:station:id:24830
+  country: Sverige
+  latitude: 59.30565
+  longitude: 15.2309
+
+- location: INGO Lenhovda
+  city: Lenhovda
+  urn: urn:ingo:station:id:22710
+  country: Sverige
+  latitude: 56.99716
+  longitude: 15.27896
+
+- location: INGO Kallinge
+  city: Kallinge
+  urn: urn:ingo:station:id:26214
+  country: Sverige
+  latitude: 56.23813
+  longitude: 15.28364
+
+- location: INGO Tärnaby
+  city: Tärnaby
+  urn: urn:ingo:station:id:27124
+  country: Sverige
+  latitude: 65.713726
+  longitude: 15.292253
+
+- location: INGO Borlänge Nygårdsvägen
+  city: Borlänge
+  urn: urn:ingo:station:id:24851
+  country: Sverige
+  latitude: 60.47462
+  longitude: 15.40471
+
+- location: INGO Borlänge Hammargatan
+  city: Borlänge
+  urn: urn:ingo:station:id:24852
+  country: Sverige
+  latitude: 60.47144
+  longitude: 15.442595
+
+- location: INGO Strömsund
+  city: Strömsund
+  urn: urn:ingo:station:id:27025
+  country: Sverige
+  latitude: 63.85178
+  longitude: 15.55487
+
+- location: INGO Linköping Industrigatan
+  city: Linköping
+  urn: urn:ingo:station:id:24838
+  country: Sverige
+  latitude: 58.41975
+  longitude: 15.60126
+
+- location: INGO Falun
+  city: Falun
+  urn: urn:ingo:station:id:24857
+  country: Sverige
+  latitude: 60.6228
+  longitude: 15.61724
+
+- location: INGO Karlskrona Verkövägen
+  city: Karlskrona
+  urn: urn:ingo:station:id:24900
+  country: Sverige
+  latitude: 56.195795
+  longitude: 15.635107
+
+- location: INGO Kisa
+  city: Kisa
+  urn: urn:ingo:station:id:22696
+  country: Sverige
+  latitude: 57.987
+  longitude: 15.63818
+
+- location: INGO Linköping Gumpekullavägen
+  city: Linköping
+  urn: urn:ingo:station:id:24839
+  country: Sverige
+  latitude: 58.416354
+  longitude: 15.638518
+
+- location: INGO Linköping Högdalsgatan
+  city: Linköping
+  urn: urn:ingo:station:id:26514
+  country: Sverige
+  latitude: 58.39326
+  longitude: 15.64621
+
+- location: INGO Linköping Åtvidabergsvägen
+  city: Linköping
+  urn: urn:ingo:station:id:22715
+  country: Sverige
+  latitude: 58.400939
+  longitude: 15.665093
+
+- location: INGO Ånge
+  city: Ånge
+  urn: urn:ingo:station:id:24716
+  country: Sverige
+  latitude: 62.52467
+  longitude: 15.6759
+
+- location: INGO Rimforsa
+  city: Rimforsa
+  urn: urn:ingo:station:id:22752
+  country: Sverige
+  latitude: 58.139367
+  longitude: 15.67901
+
+- location: INGO Linköping Järdalavägen
+  city: Linköping
+  urn: urn:ingo:station:id:24845
+  country: Sverige
+  latitude: 58.38573
+  longitude: 15.67902
+
+- location: INGO Säter Riksväg 70
+  city: Säter
+  urn: urn:ingo:station:id:26930
+  country: Sverige
+  latitude: 60.35008
+  longitude: 15.74723
+
+- location: INGO Målilla
+  city: Målilla
+  urn: urn:ingo:station:id:22731
+  country: Sverige
+  latitude: 57.38885
+  longitude: 15.80821
+
+- location: INGO Arboga Burskapsvägen
+  city: Arboga
+  urn: urn:ingo:station:id:24723
+  country: Sverige
+  latitude: 59.426569
+  longitude: 15.828822
+
+- location: INGO Vingåker
+  city: Vingåker
+  urn: urn:ingo:station:id:22816
+  country: Sverige
+  latitude: 59.03841
+  longitude: 15.86658
+
+- location: INGO Arboga
+  city: Arboga
+  urn: urn:ingo:station:id:24832
+  country: Sverige
+  latitude: 59.395568
+  longitude: 15.889843
+
+- location: INGO Borgsjö
+  city: Erikslund
+  urn: urn:ingo:station:id:27034
+  country: Sverige
+  latitude: 62.537125
+  longitude: 15.919934
+
+- location: INGO Köping
+  city: Köping
+  urn: urn:ingo:station:id:24827
+  country: Sverige
+  latitude: 59.51623
+  longitude: 15.97544
+
+- location: INGO Högsby
+  city: Högsby
+  urn: urn:ingo:station:id:22679
+  country: Sverige
+  latitude: 57.167457
+  longitude: 16.009271
+
+- location: INGO Norrköping De Geersgatan
+  city: Norrköping
+  urn: urn:ingo:station:id:26522
+  country: Sverige
+  latitude: 58.606765
+  longitude: 16.139327
+
+- location: INGO Ingelsta Koppargatan
+  city: Norrköping
+  urn: urn:ingo:station:id:24932
+  country: Sverige
+  latitude: 58.611328
+  longitude: 16.158596
+
+- location: INGO Norrköping Vagngatan
+  city: Norrköping
+  urn: urn:ingo:station:id:24844
+  country: Sverige
+  latitude: 58.578627
+  longitude: 16.162007
+
+- location: INGO Järvsö
+  city: Järvsö
+  urn: urn:ingo:station:id:26921
+  country: Sverige
+  latitude: 61.70545
+  longitude: 16.16425
+
+- location: INGO Hoting
+  city: Hoting
+  urn: urn:ingo:station:id:27028
+  country: Sverige
+  latitude: 64.107343
+  longitude: 16.172068
+
+- location: INGO Avesta
+  city: Avesta
+  urn: urn:ingo:station:id:24934
+  country: Sverige
+  latitude: 60.155337
+  longitude: 16.177059
+
+- location: INGO Katrineholm Vasavägen
+  city: Katrineholm
+  urn: urn:ingo:station:id:27413
+  country: Sverige
+  latitude: 58.99552
+  longitude: 16.21169
+
+- location: INGO Norrköping Hageby Centrum
+  city: Norrköping
+  urn: urn:ingo:station:id:24733
+  country: Sverige
+  latitude: 58.57376
+  longitude: 16.212822
+
+- location: INGO Norrköping Lindövägen
+  city: Norrköping
+  urn: urn:ingo:station:id:24840
+  country: Sverige
+  latitude: 58.59123
+  longitude: 16.21561
+
+- location: INGO Hallstahammar
+  city: Hallstahammar
+  urn: urn:ingo:station:id:24837
+  country: Sverige
+  latitude: 59.610654
+  longitude: 16.236161
+
+- location: INGO Kalmar Wismark
+  city: Kalmar
+  urn: urn:ingo:station:id:24901
+  country: Sverige
+  latitude: 56.69306
+  longitude: 16.32554
+
+- location: INGO Kalmar Södra Vägen
+  city: Kalmar
+  urn: urn:ingo:station:id:24923
+  country: Sverige
+  latitude: 56.666905
+  longitude: 16.327234
+
+- location: INGO Hammarstrand
+  city: Hammarstrand
+  urn: urn:ingo:station:id:27017
+  country: Sverige
+  latitude: 63.11142
+  longitude: 16.35244
+
+- location: INGO Bollnäs
+  city: Bollnäs
+  urn: urn:ingo:station:id:26906
+  country: Sverige
+  latitude: 61.3563
+  longitude: 16.39738
+
+- location: INGO Oskarshamn
+  city: Oskarshamn
+  urn: urn:ingo:station:id:24897
+  country: Sverige
+  latitude: 57.260545
+  longitude: 16.458547
+
+- location: INGO Västerås Erikslund
+  city: Västerås
+  urn: urn:ingo:station:id:24726
+  country: Sverige
+  latitude: 59.618606
+  longitude: 16.462611
+
+- location: INGO Västerås Gjutjärnsgatan
+  city: Västerås
+  urn: urn:ingo:station:id:24828
+  country: Sverige
+  latitude: 59.594539
+  longitude: 16.491418
+
+- location: INGO Eskilstuna
+  city: Eskilstuna
+  urn: urn:ingo:station:id:24829
+  country: Sverige
+  latitude: 59.3851
+  longitude: 16.5076
+
+- location: INGO Delsbo
+  city: Delsbo
+  urn: urn:ingo:station:id:26910
+  country: Sverige
+  latitude: 61.79855
+  longitude: 16.5521
+
+- location: INGO Kilafors
+  city: Kilafors
+  urn: urn:ingo:station:id:26922
+  country: Sverige
+  latitude: 61.23012
+  longitude: 16.56428
+
+- location: INGO Västerås Strömledningsgatan
+  city: Västerås
+  urn: urn:ingo:station:id:24831
+  country: Sverige
+  latitude: 59.642716
+  longitude: 16.568403
+
+- location: INGO Stöde
+  city: Stöde
+  urn: urn:ingo:station:id:24717
+  country: Sverige
+  latitude: 62.41768
+  longitude: 16.58383
+
+- location: INGO Valdemarsvik
+  city: Valdemarsvik
+  urn: urn:ingo:station:id:26525
+  country: Sverige
+  latitude: 58.21135
+  longitude: 16.5848
+
+- location: INGO Västervik
+  city: Västervik
+  urn: urn:ingo:station:id:24843
+  country: Sverige
+  latitude: 57.764677
+  longitude: 16.598371
+
+- location: INGO Västerås Österleden
+  city: Västerås
+  urn: urn:ingo:station:id:22824
+  country: Sverige
+  latitude: 59.62277
+  longitude: 16.599854
+
+- location: INGO Sala
+  city: Sala
+  urn: urn:ingo:station:id:24834
+  country: Sverige
+  latitude: 59.918
+  longitude: 16.6165
+
+- location: INGO Västervik Allén
+  city: Västervik
+  urn: urn:ingo:station:id:26527
+  country: Sverige
+  latitude: 57.75958
+  longitude: 16.61718
+
+- location: INGO Bispgården
+  city: Bispgården
+  urn: urn:ingo:station:id:27229
+  country: Sverige
+  latitude: 63.01001
+  longitude: 16.66239
+
+- location: INGO Borgholm
+  city: Borgholm
+  urn: urn:ingo:station:id:26207
+  country: Sverige
+  latitude: 56.87684
+  longitude: 16.66382
+
+- location: INGO Malmköping
+  city: Malmköping
+  urn: urn:ingo:station:id:26537
+  country: Sverige
+  latitude: 59.140949
+  longitude: 16.718573
+
+- location: INGO Sandviken Vallhov
+  city: Sandviken
+  urn: urn:ingo:station:id:26932
+  country: Sverige
+  latitude: 60.621386
+  longitude: 16.741403
+
+- location: INGO Heby
+  city: Heby
+  urn: urn:ingo:station:id:22665
+  country: Sverige
+  latitude: 59.93499
+  longitude: 16.86852
+
+- location: INGO Nyköping Oppeby
+  city: Nyköping
+  urn: urn:ingo:station:id:24709
+  country: Sverige
+  latitude: 58.76975
+  longitude: 16.98695
+
+- location: INGO Nyköping
+  city: Nyköping
+  urn: urn:ingo:station:id:24842
+  country: Sverige
+  latitude: 58.74832
+  longitude: 17.02861
+
+- location: INGO Enköping DR Westerlundsgatan
+  city: Enköping
+  urn: urn:ingo:station:id:24803
+  country: Sverige
+  latitude: 59.63755
+  longitude: 17.07011
+
+- location: INGO Enköping Grusgatan
+  city: Enköping
+  urn: urn:ingo:station:id:24822
+  country: Sverige
+  latitude: 59.65786
+  longitude: 17.07736
+
+- location: INGO Hudiksvall
+  city: Hudiksvall
+  urn: urn:ingo:station:id:24853
+  country: Sverige
+  latitude: 61.71721
+  longitude: 17.094227
+
+- location: INGO Oxelösund
+  city: Oxelösund
+  urn: urn:ingo:station:id:26540
+  country: Sverige
+  latitude: 58.67271
+  longitude: 17.0984
+
+- location: INGO Storuman
+  city: Storuman
+  urn: urn:ingo:station:id:27123
+  country: Sverige
+  latitude: 65.10939
+  longitude: 17.12211
+
+- location: INGO Enköping Annelund
+  city: Enköping
+  urn: urn:ingo:station:id:24941
+  country: Sverige
+  latitude: 59.646896
+  longitude: 17.141676
+
+- location: INGO Gävle Ingenjörsgatan
+  city: Gävle
+  urn: urn:ingo:station:id:24702
+  country: Sverige
+  latitude: 60.64553
+  longitude: 17.147337
+
+- location: INGO Gävle Strömsbrovägen
+  city: Gävle
+  urn: urn:ingo:station:id:24854
+  country: Sverige
+  latitude: 60.68585
+  longitude: 17.15325
+
+- location: INGO Gävle Hemlingby
+  city: Gävle
+  urn: urn:ingo:station:id:24850
+  country: Sverige
+  latitude: 60.6605
+  longitude: 17.16
+
+- location: INGO Sundsvall Bultgatan
+  city: Sundsvall
+  urn: urn:ingo:station:id:24856
+  country: Sverige
+  latitude: 62.39279
+  longitude: 17.26698
+
+- location: INGO Timrå
+  city: Timrå
+  urn: urn:ingo:station:id:27232
+  country: Sverige
+  latitude: 62.48935
+  longitude: 17.32836
+
+- location: INGO Birsta
+  city: Sundsvall
+  urn: urn:ingo:station:id:24860
+  country: Sverige
+  latitude: 62.4425
+  longitude: 17.33245
+
+- location: INGO Birsta Antennvägen
+  city: Sundsvall
+  urn: urn:ingo:station:id:24732
+  country: Sverige
+  latitude: 62.44189
+  longitude: 17.34351
+
+- location: INGO Sundsvall Brofästet
+  city: Sundsvall
+  urn: urn:ingo:station:id:24937
+  country: Sverige
+  latitude: 62.380253
+  longitude: 17.358018
+
+- location: INGO Åsele
+  city: Åsele
+  urn: urn:ingo:station:id:27228
+  country: Sverige
+  latitude: 64.16775
+  longitude: 17.36952
+
+- location: INGO Nykvarn
+  city: Nykvarn
+  urn: urn:ingo:station:id:26639
+  country: Sverige
+  latitude: 59.17581
+  longitude: 17.43657
+
+- location: INGO Tierp
+  city: Tierp
+  urn: urn:ingo:station:id:26937
+  country: Sverige
+  latitude: 60.3413
+  longitude: 17.5193
+
+- location: INGO Trosa
+  city: Trosa
+  urn: urn:ingo:station:id:22793
+  country: Sverige
+  latitude: 58.90985
+  longitude: 17.5509
+
+- location: INGO Uppsala ICA Maxi
+  city: Uppsala
+  urn: urn:ingo:station:id:24705
+  country: Sverige
+  latitude: 59.84854
+  longitude: 17.56115
+
+- location: INGO Södertälje Scaniarinken
+  city: Södertälje
+  urn: urn:ingo:station:id:24701
+  country: Sverige
+  latitude: 59.190468
+  longitude: 17.569421
+
+- location: INGO Södertälje Nyköpingsvägen 52
+  city: Södertälje
+  urn: urn:ingo:station:id:22782
+  country: Sverige
+  latitude: 59.187104
+  longitude: 17.628008
+
+- location: INGO Uppsala Svartbäcksgatan
+  city: Uppsala
+  urn: urn:ingo:station:id:24802
+  country: Sverige
+  latitude: 59.86894
+  longitude: 17.62811
+
+- location: INGO BRO
+  city: Bro
+  urn: urn:ingo:station:id:26606
+  country: Sverige
+  latitude: 59.51436
+  longitude: 17.64059
+
+- location: INGO SÖDERTÄLJE SYD
+  city: Södertälje
+  urn: urn:ingo:station:id:24819
+  country: Sverige
+  latitude: 59.15855
+  longitude: 17.64181
+
+- location: INGO Södertälje Bergaholmsvägen
+  city: Södertälje
+  urn: urn:ingo:station:id:24805
+  country: Sverige
+  latitude: 59.20425
+  longitude: 17.64451
+
+- location: INGO Uppsala Fullerö
+  city: Uppsala
+  urn: urn:ingo:station:id:24930
+  country: Sverige
+  latitude: 59.940568
+  longitude: 17.658978
+
+- location: INGO Uppsala Kungsgatan
+  city: Uppsala
+  urn: urn:ingo:station:id:24801
+  country: Sverige
+  latitude: 59.84911
+  longitude: 17.66049
+
+- location: INGO Uppsala Kungsgatan 103
+  city: Uppsala
+  urn: urn:ingo:station:id:24533
+  country: Sverige
+  latitude: 59.8466
+  longitude: 17.66307
+
+- location: INGO Uppsala Fyrislund
+  city: Uppsala
+  urn: urn:ingo:station:id:24814
+  country: Sverige
+  latitude: 59.85831
+  longitude: 17.68764
+
+- location: INGO Uppsala Vilan
+  city: Uppsala
+  urn: urn:ingo:station:id:22804
+  country: Sverige
+  latitude: 59.82057
+  longitude: 17.69775
+
+- location: INGO Kungsängen
+  city: Kungsängen
+  urn: urn:ingo:station:id:24821
+  country: Sverige
+  latitude: 59.47843
+  longitude: 17.72581
+
+- location: INGO Uppsala E4S
+  city: Uppsala
+  urn: urn:ingo:station:id:24943
+  country: Sverige
+  latitude: 59.84468
+  longitude: 17.72873
+
+- location: INGO Nyland
+  city: Nyland
+  urn: urn:ingo:station:id:27023
+  country: Sverige
+  latitude: 63.005645
+  longitude: 17.756095
+
+- location: INGO Viksjö Plogvägen
+  city: Järfälla
+  urn: urn:ingo:station:id:22814
+  country: Sverige
+  latitude: 59.41314
+  longitude: 17.79837
+
+- location: INGO Hässelby Gård
+  city: Hässelby
+  urn: urn:ingo:station:id:22675
+  country: Sverige
+  latitude: 59.36472
+  longitude: 17.83889
+
+- location: INGO Sollentuna
+  city: Sollentuna
+  urn: urn:ingo:station:id:24826
+  country: Sverige
+  latitude: 59.47737
+  longitude: 17.85285
+
+- location: INGO Fittja
+  city: Norsborg
+  urn: urn:ingo:station:id:24823
+  country: Sverige
+  latitude: 59.25116
+  longitude: 17.85769
+
+- location: INGO Kungens Kurva
+  city: Kungens Kurva
+  urn: urn:ingo:station:id:24820
+  country: Sverige
+  latitude: 59.26604
+  longitude: 17.89698
+
+- location: INGO Spånga
+  city: Spånga
+  urn: urn:ingo:station:id:22767
+  country: Sverige
+  latitude: 59.38575
+  longitude: 17.90731
+
+- location: INGO Akalla
+  city: Kista
+  urn: urn:ingo:station:id:24936
+  country: Sverige
+  latitude: 59.416675
+  longitude: 17.925256
+
+- location: INGO Upplands Väsby
+  city: Upplands Väsby
+  urn: urn:ingo:station:id:24811
+  country: Sverige
+  latitude: 59.5143
+  longitude: 17.9296
+
+- location: INGO Nynäshamn
+  city: Nynäshamn
+  urn: urn:ingo:station:id:24810
+  country: Sverige
+  latitude: 58.91864
+  longitude: 17.93813
+
+- location: INGO Solna
+  city: Solna
+  urn: urn:ingo:station:id:24817
+  country: Sverige
+  latitude: 59.35017
+  longitude: 18.00496
+
+- location: INGO Älvsjö
+  city: Älvsjö
+  urn: urn:ingo:station:id:24807
+  country: Sverige
+  latitude: 59.27222
+  longitude: 18.01338
+
+- location: INGO Danderyd
+  city: Danderyd
+  urn: urn:ingo:station:id:23149
+  country: Sverige
+  latitude: 59.41264
+  longitude: 18.03474
+
+- location: INGO Täby
+  city: Täby
+  urn: urn:ingo:station:id:24924
+  country: Sverige
+  latitude: 59.44021
+  longitude: 18.04257
+
+- location: INGO Fagersjö
+  city: Farsta
+  urn: urn:ingo:station:id:24825
+  country: Sverige
+  latitude: 59.24799
+  longitude: 18.06468
+
+- location: INGO Jordbro
+  city: Haninge
+  urn: urn:ingo:station:id:24806
+  country: Sverige
+  latitude: 59.139245
+  longitude: 18.122946
+
+- location: INGO Skogås
+  city: Skogås
+  urn: urn:ingo:station:id:22762
+  country: Sverige
+  latitude: 59.21687
+  longitude: 18.15389
+
+- location: INGO Haninge Söderbyleden
+  city: Haninge
+  urn: urn:ingo:station:id:24706
+  country: Sverige
+  latitude: 59.180172
+  longitude: 18.158351
+
+- location: INGO Handen
+  city: Handen
+  urn: urn:ingo:station:id:24812
+  country: Sverige
+  latitude: 59.174909
+  longitude: 18.160273
+
+- location: INGO Gottröra
+  city: Rimbo
+  urn: urn:ingo:station:id:27626
+  country: Sverige
+  latitude: 59.73867
+  longitude: 18.1612
+
+- location: INGO Nacka
+  city: Nacka
+  urn: urn:ingo:station:id:24818
+  country: Sverige
+  latitude: 59.31195
+  longitude: 18.17541
+
+- location: INGO Åkersberga
+  city: Åkersberga
+  urn: urn:ingo:station:id:24938
+  country: Sverige
+  latitude: 59.4878
+  longitude: 18.27726
+
+- location: INGO Östhammar
+  city: Östhammar
+  urn: urn:ingo:station:id:26938
+  country: Sverige
+  latitude: 60.25959
+  longitude: 18.3653
+
+- location: INGO Gustavsberg
+  city: Gustavsberg
+  urn: urn:ingo:station:id:24824
+  country: Sverige
+  latitude: 59.3077
+  longitude: 18.383141
+
+- location: INGO Värmdö Centrum
+  city: Ingarö
+  urn: urn:ingo:station:id:24710
+  country: Sverige
+  latitude: 59.31305
+  longitude: 18.42814
+
+- location: INGO Romakloster
+  city: Romakloster
+  urn: urn:ingo:station:id:27309
+  country: Sverige
+  latitude: 57.50093
+  longitude: 18.45873
+
+- location: INGO Bjästa
+  city: Bjästa
+  urn: urn:ingo:station:id:27007
+  country: Sverige
+  latitude: 63.19977
+  longitude: 18.49986
+
+- location: INGO Djurhamn
+  city: Djurhamn
+  urn: urn:ingo:station:id:26607
+  country: Sverige
+  latitude: 59.2908
+  longitude: 18.66788
+
+- location: INGO Örnsköldsvik Gullänget
+  city: Örnsköldsvik
+  urn: urn:ingo:station:id:27217
+  country: Sverige
+  latitude: 63.314814
+  longitude: 18.696909
+
+- location: INGO Malå
+  city: Malå
+  urn: urn:ingo:station:id:27116
+  country: Sverige
+  latitude: 65.17898
+  longitude: 18.74662
+
+- location: INGO Fårösund
+  city: Fårösund
+  urn: urn:ingo:station:id:27396
+  country: Sverige
+  latitude: 57.860084
+  longitude: 19.051457
+
+- location: INGO Arvidsjaur
+  city: Arvidsjaur
+  urn: urn:ingo:station:id:27105
+  country: Sverige
+  latitude: 65.587515
+  longitude: 19.189984
+
+- location: INGO Hörnefors
+  city: Hörnefors
+  urn: urn:ingo:station:id:27114
+  country: Sverige
+  latitude: 63.638
+  longitude: 19.91128
+
+- location: INGO Umeå Carlshem
+  city: Umeå
+  urn: urn:ingo:station:id:24859
+  country: Sverige
+  latitude: 63.80196
+  longitude: 20.311244
+
+- location: INGO Skellefteå Degerbyn
+  city: Skellefteå
+  urn: urn:ingo:station:id:27119
+  country: Sverige
+  latitude: 64.75716
+  longitude: 20.90176
+
+- location: INGO Skellefteå Solbacken
+  city: Skellefteå
+  urn: urn:ingo:station:id:24728
+  country: Sverige
+  latitude: 64.766873
+  longitude: 21.025253
+
+- location: INGO Bureå
+  city: Bureå
+  urn: urn:ingo:station:id:27239
+  country: Sverige
+  latitude: 64.61733
+  longitude: 21.19927
+
+- location: INGO Byske
+  city: Byske
+  urn: urn:ingo:station:id:27238
+  country: Sverige
+  latitude: 64.95517
+  longitude: 21.21062
+
+- location: INGO Piteå
+  city: Piteå
+  urn: urn:ingo:station:id:24858
+  country: Sverige
+  latitude: 65.32343
+  longitude: 21.4468
+
+- location: INGO Haparanda
+  city: Haparanda
+  urn: urn:ingo:station:id:27223
+  country: Sverige
+  latitude: 65.83923
+  longitude: 24.12756
