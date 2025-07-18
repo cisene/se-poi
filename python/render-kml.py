@@ -14,10 +14,10 @@ from datetime import datetime, timezone
 #import xml.etree.ElementTree as ET
 from lxml import etree
 
-DATAROOT = '../yaml/'
-MASTER_DATAFILE = '../yaml/master.yaml'
+DATAROOT = './yaml/'
+MASTER_DATAFILE = './yaml/master.yaml'
 
-DESTROOT = '../export/kml/'
+DESTROOT = './export/kml/'
 
 def writeFile(contents, filepath):
   with open(filepath, "w") as f:
