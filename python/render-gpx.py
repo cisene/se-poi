@@ -144,20 +144,8 @@ def renderGPX(data):
   elems.append(f"  <bounds minlat=\"{bounds['minlat']}\" minlon=\"{bounds['minlon']}\" maxlat=\"{bounds['maxlat']}\" maxlon=\"{bounds['maxlon']}\" />")
 
   for loc in data['locations']:
-    #print(loc)
-
-    if 1 == 0:
-      # Declare wpt (Waypoint) element with attributes containing Latitude and Longitude
-      elems.append(f"  <wpt lat=\"{loc['latitude']}\" lon=\"{loc['longitude']}\">")
-
-      # Deflare wpt name 
-      elems.append(f"    <name><![CDATA[{loc['location']}, {loc['city']}]]></name>")
-      
-      # Close wpt element
-      elems.append("  </wpt>")
-    else:
-      # Declare wps in a more compact format
-      elems.append(f"  <wpt lat=\"{loc['latitude']}\" lon=\"{loc['longitude']}\"><name><![CDATA[{loc['location']}, {loc['city']}]]></name></wpt>")
+    # Declare wps in a more compact format
+    elems.append(f"  <wpt lat=\"{loc['latitude']}\" lon=\"{loc['longitude']}\"><name><![CDATA[{loc['location']}, {loc['city']}]]></name></wpt>")
 
   # Close root GPX element
   elems.append('</gpx>')
